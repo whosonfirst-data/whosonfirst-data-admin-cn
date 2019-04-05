@@ -1,0 +1,64 @@
+{
+  "id": 1209199819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.77377,45.43121,129.77377,45.43121",
+    "geom:latitude":45.43121,
+    "geom:longitude":129.77377,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hubincun",
+    "gn:country_code":"CN",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11589225,
+    "gn:latitude":45.43121,
+    "gn:longitude":129.77377,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Hubincun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6e56\u6ee8\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11589225
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ec56fb66895dedcc2709ae3228631977",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209199819
+        }
+    ],
+    "wof:id":1209199819,
+    "wof:lastmodified":1537618294,
+    "wof:name":"Hubincun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.77376999999998,
+    45.43121,
+    129.77376999999998,
+    45.43121
+],
+  "geometry": {"coordinates":[129.77376999999998,45.43121],"type":"Point"}
+}

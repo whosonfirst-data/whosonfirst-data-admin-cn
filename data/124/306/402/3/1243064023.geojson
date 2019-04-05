@@ -1,0 +1,78 @@
+{
+  "id": 1243064023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.91041,46.97719,124.91041,46.97719",
+    "geom:latitude":46.97719,
+    "geom:longitude":124.91041,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Huayuan",
+    "gn:country_code":"CN",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8464591,
+    "gn:latitude":46.97719,
+    "gn:longitude":124.91041,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Huayuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huayuan Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u82b1\u56ed"
+    ],
+    "name:zho_x_variant":[
+        "\u82b1\u56ed\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890513007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8464591
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"15217c1b161ae83fc09d8759099c9952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513007,
+            "empire_id":136253041,
+            "locality_id":1243064023,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1243064023,
+    "wof:lastmodified":1537603839,
+    "wof:name":"Huayuan",
+    "wof:parent_id":890513007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.91041,
+    46.97719,
+    124.91041,
+    46.97719
+],
+  "geometry": {"coordinates":[124.91041,46.97719],"type":"Point"}
+}

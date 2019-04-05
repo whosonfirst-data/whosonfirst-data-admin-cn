@@ -1,0 +1,92 @@
+{
+  "id": 1343635019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.65376,27.83104,91.65376,27.83104",
+    "geom:latitude":27.83104,
+    "geom:longitude":91.65376,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Wangdengzu",
+    "gn:country_code":"CN",
+    "gn:dem":3652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10271726,
+    "gn:latitude":27.83104,
+    "gn:longitude":91.65376,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Wangdengzu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6c6a\u767b\u8db3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108794057,
+        85672259,
+        85632701,
+        85632469,
+        890507391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10271726
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bd42df71274f18571511c4864161c8ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794057,
+            "empire_id":136253041,
+            "locality_id":1343635019,
+            "region_id":85669747
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890507391,
+            "disputed_id":85632701,
+            "locality_id":1343635019,
+            "region_id":85672259
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890507391,
+            "disputed_id":85632701,
+            "locality_id":1343635019,
+            "region_id":85672259
+        }
+    ],
+    "wof:id":1343635019,
+    "wof:lastmodified":1537611925,
+    "wof:name":"Wangdengzu",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.65376,
+    27.83104,
+    91.65376,
+    27.83104
+],
+  "geometry": {"coordinates":[91.65376000000001,27.83104],"type":"Point"}
+}

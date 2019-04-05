@@ -1,0 +1,80 @@
+{
+  "id": 1260083019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.34764,28.56463,120.34764,28.56463",
+    "geom:latitude":28.56463,
+    "geom:longitude":120.34764,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Anling",
+    "gn:country_code":"CN",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8398293,
+    "gn:latitude":28.56463,
+    "gn:longitude":120.34764,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Anling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anling Xiang",
+        "Shangmenlou"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5cad"
+    ],
+    "name:zho_x_variant":[
+        "\u5b89\u5cad\u4e61",
+        "\u4e0a\u95e8\u697c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890515633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8398293
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5428e8873722a0fe83591b053076a4a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515633,
+            "empire_id":136253041,
+            "locality_id":1260083019,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1260083019,
+    "wof:lastmodified":1537603261,
+    "wof:name":"Anling",
+    "wof:parent_id":890515633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.34763999999998,
+    28.56463,
+    120.34763999999998,
+    28.56463
+],
+  "geometry": {"coordinates":[120.34763999999998,28.56463],"type":"Point"}
+}

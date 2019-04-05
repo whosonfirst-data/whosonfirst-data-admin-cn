@@ -1,0 +1,80 @@
+{
+  "id": 1276962067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.83595,29.32301,91.83595,29.32301",
+    "geom:latitude":29.32301,
+    "geom:longitude":91.83595,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chimoin",
+    "gn:country_code":"CN",
+    "gn:dem":3604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":7928862,
+    "gn:latitude":29.32301,
+    "gn:longitude":91.83595,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Chimoin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Chimoin"
+    ],
+    "name:zho_x_preferred":[
+        "Chemen"
+    ],
+    "name:zho_x_variant":[
+        "\u8f66\u95e8",
+        "Sangzhugang",
+        "\u6851\u73e0\u5c97"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108794057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7928862
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3725a040d173b02b34c4fd1ff8ccfd50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794057,
+            "empire_id":136253041,
+            "locality_id":1276962067,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1276962067,
+    "wof:lastmodified":1537602046,
+    "wof:name":"Chimoin",
+    "wof:parent_id":1108794057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.83595,
+    29.32301,
+    91.83595,
+    29.32301
+],
+  "geometry": {"coordinates":[91.83595,29.32301],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209084989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.15546,42.00578,117.15546,42.00578",
+    "geom:latitude":42.00578,
+    "geom:longitude":117.15546,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Hazi",
+    "gn:country_code":"CN",
+    "gn:dem":1167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10001504,
+    "gn:latitude":42.00578,
+    "gn:longitude":117.15546,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Hazi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u54c8\u5b57"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10001504
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4ec835f26c5cee8ce9260fea5c8bdea4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209084989
+        }
+    ],
+    "wof:id":1209084989,
+    "wof:lastmodified":1537608655,
+    "wof:name":"Hazi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.15546,
+    42.00578,
+    117.15546,
+    42.00578
+],
+  "geometry": {"coordinates":[117.15546000000001,42.00578],"type":"Point"}
+}

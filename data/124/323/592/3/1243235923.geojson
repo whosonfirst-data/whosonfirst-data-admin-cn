@@ -1,0 +1,72 @@
+{
+  "id": 1243235923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.244,21.7345,109.244,21.7345",
+    "geom:latitude":21.7345,
+    "geom:longitude":109.244,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zhoujiang",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9902448,
+    "gn:latitude":21.7345,
+    "gn:longitude":109.244,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Zhoujiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5468\u6c5f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669717,
+        102191569,
+        85632695,
+        136253041,
+        890516487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9902448
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5b0e8ebad9f648f42177389b2b74cccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516487,
+            "empire_id":136253041,
+            "locality_id":1243235923,
+            "region_id":85669717
+        }
+    ],
+    "wof:id":1243235923,
+    "wof:lastmodified":1537606852,
+    "wof:name":"Zhoujiang",
+    "wof:parent_id":890516487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.244,
+    21.7345,
+    109.244,
+    21.7345
+],
+  "geometry": {"coordinates":[109.244,21.7345],"type":"Point"}
+}

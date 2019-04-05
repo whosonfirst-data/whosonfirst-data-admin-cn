@@ -1,0 +1,75 @@
+{
+  "id": 1209703345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.43985,29.63381,111.43985,29.63381",
+    "geom:latitude":29.63381,
+    "geom:longitude":111.43985,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Chuandianpu",
+    "gn:country_code":"CN",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8135401,
+    "gn:latitude":29.63381,
+    "gn:longitude":111.43985,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Chuandianpu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Chuandianpu"
+    ],
+    "name:zho_x_variant":[
+        "\u5ddd\u5e97\u94fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890515867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8135401
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e94404accb24f6aec41cd1efd8ddc575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515867,
+            "empire_id":136253041,
+            "locality_id":1209703345,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1209703345,
+    "wof:lastmodified":1537602640,
+    "wof:name":"Chuandianpu",
+    "wof:parent_id":890515867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.43985,
+    29.63381,
+    111.43985,
+    29.63381
+],
+  "geometry": {"coordinates":[111.43985000000001,29.63381],"type":"Point"}
+}

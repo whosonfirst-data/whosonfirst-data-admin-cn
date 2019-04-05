@@ -1,0 +1,64 @@
+{
+  "id": 1209518187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.92724,29.01621,118.92724,29.01621",
+    "geom:latitude":29.01621,
+    "geom:longitude":118.92724,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Jiangcun",
+    "gn:country_code":"CN",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8368708,
+    "gn:latitude":29.01621,
+    "gn:longitude":118.92724,
+    "gn:modification_date":"2017-11-09",
+    "gn:name":"Jiangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u848b\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8368708
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7ad30f548c918154876536a5cb579520",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209518187
+        }
+    ],
+    "wof:id":1209518187,
+    "wof:lastmodified":1537603117,
+    "wof:name":"Jiangcun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.92724,
+    29.01621,
+    118.92724,
+    29.01621
+],
+  "geometry": {"coordinates":[118.92724,29.01621],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209409913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.64605,40.65991,117.64605,40.65991",
+    "geom:latitude":40.65991,
+    "geom:longitude":117.64605,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Jinchang",
+    "gn:country_code":"CN",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2048072,
+    "gn:latitude":40.65991,
+    "gn:longitude":117.64605,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Jinchang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u91d1\u5382"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2048072
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3fb4bfa04be819fc432d415f3164abc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209409913
+        }
+    ],
+    "wof:id":1209409913,
+    "wof:lastmodified":1537595922,
+    "wof:name":"Jinchang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.64605,
+    40.65991,
+    117.64605,
+    40.65991
+],
+  "geometry": {"coordinates":[117.64605,40.65991],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243149181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.10879,30.03767,110.10879,30.03767",
+    "geom:latitude":30.03767,
+    "geom:longitude":110.10879,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Hongyaoping",
+    "gn:country_code":"CN",
+    "gn:dem":958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8015808,
+    "gn:latitude":30.03767,
+    "gn:longitude":110.10879,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Hongyaoping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Hongyaoping"
+    ],
+    "name:zho_x_variant":[
+        "\u7ea2\u9e5e\u576a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8015808
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"89c72f232ccd1c220e53425c4a53587e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732427,
+            "empire_id":136253041,
+            "locality_id":1243149181,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1243149181,
+    "wof:lastmodified":1537602117,
+    "wof:name":"Hongyaoping",
+    "wof:parent_id":1108732427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.10878999999998,
+    30.03767,
+    110.10878999999998,
+    30.03767
+],
+  "geometry": {"coordinates":[110.10878999999998,30.03767],"type":"Point"}
+}

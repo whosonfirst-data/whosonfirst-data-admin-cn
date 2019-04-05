@@ -1,0 +1,64 @@
+{
+  "id": 1209528943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.85346,31.75349,117.85346,31.75349",
+    "geom:latitude":31.75349,
+    "geom:longitude":117.85346,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Xichencun",
+    "gn:country_code":"CN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10441899,
+    "gn:latitude":31.75349,
+    "gn:longitude":117.85346,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Xichencun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u897f\u9648\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10441899
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a67374eaad8b5e7680a77679183b257d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209528943
+        }
+    ],
+    "wof:id":1209528943,
+    "wof:lastmodified":1537613641,
+    "wof:name":"Xichencun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.85346,
+    31.75349000000001,
+    117.85346,
+    31.75349000000001
+],
+  "geometry": {"coordinates":[117.85346,31.75349000000001],"type":"Point"}
+}

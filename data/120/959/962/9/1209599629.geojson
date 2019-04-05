@@ -1,0 +1,64 @@
+{
+  "id": 1209599629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.22696,33.09027,113.22696,33.09027",
+    "geom:latitude":33.09027,
+    "geom:longitude":113.22696,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Chengou",
+    "gn:country_code":"CN",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1910066,
+    "gn:latitude":33.09027,
+    "gn:longitude":113.22696,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chengou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9648\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1910066
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7c3a570665b1d9643d6a42d32fa92330",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209599629
+        }
+    ],
+    "wof:id":1209599629,
+    "wof:lastmodified":1537594568,
+    "wof:name":"Chengou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.22696,
+    33.09027,
+    113.22696,
+    33.09027
+],
+  "geometry": {"coordinates":[113.22696000000001,33.09027],"type":"Point"}
+}

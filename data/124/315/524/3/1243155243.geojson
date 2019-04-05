@@ -1,0 +1,78 @@
+{
+  "id": 1243155243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.2,28.2,88.2,28.2",
+    "geom:latitude":28.2,
+    "geom:longitude":88.2,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Linggar",
+    "gn:country_code":"CN",
+    "gn:dem":4485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8044473,
+    "gn:latitude":28.2,
+    "gn:longitude":88.2,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Linggar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Linggar"
+    ],
+    "name:zho_x_preferred":[
+        "Linga"
+    ],
+    "name:zho_x_variant":[
+        "\u6797\u560e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8044473
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2871e56685ce45c9cb5d4b462ac26d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1243155243,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1243155243,
+    "wof:lastmodified":1537602373,
+    "wof:name":"Linggar",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.2,
+    28.2,
+    88.2,
+    28.2
+],
+  "geometry": {"coordinates":[88.2,28.2],"type":"Point"}
+}

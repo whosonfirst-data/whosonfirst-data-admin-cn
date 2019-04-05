@@ -1,0 +1,77 @@
+{
+  "id": 1343465851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.68917,28.46639,117.68917,28.46639",
+    "geom:latitude":28.46639,
+    "geom:longitude":117.68917,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Gangbian",
+    "gn:country_code":"CN",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1924271,
+    "gn:latitude":28.46639,
+    "gn:longitude":117.68917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gangbian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gangbian Xiang",
+        "\u6e2f\u8fb9\u4e61",
+        "Gangbian"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e2f\u8fb9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669823,
+        102191569,
+        85632695,
+        136253041,
+        890515869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1924271
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"70cf0709349b739e64f01617cbdb3424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515869,
+            "empire_id":136253041,
+            "locality_id":1343465851,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":1343465851,
+    "wof:lastmodified":1537594927,
+    "wof:name":"Gangbian",
+    "wof:parent_id":890515869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.68917,
+    28.46639,
+    117.68917,
+    28.46639
+],
+  "geometry": {"coordinates":[117.68917,28.46639],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209186249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.602,22.9619,109.602,22.9619",
+    "geom:latitude":22.9619,
+    "geom:longitude":109.602,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Wanfu",
+    "gn:country_code":"CN",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9895690,
+    "gn:latitude":22.9619,
+    "gn:longitude":109.602,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Wanfu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e07\u798f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9895690
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ba70e42bc744eb4f2620627e06b9eccc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209186249
+        }
+    ],
+    "wof:id":1209186249,
+    "wof:lastmodified":1537606634,
+    "wof:name":"Wanfu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.602,
+    22.9619,
+    109.602,
+    22.9619
+],
+  "geometry": {"coordinates":[109.602,22.9619],"type":"Point"}
+}

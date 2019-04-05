@@ -1,0 +1,64 @@
+{
+  "id": 1209379151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.985,36.301,105.985,36.301",
+    "geom:latitude":36.301,
+    "geom:longitude":105.985,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Datan",
+    "gn:country_code":"CN",
+    "gn:dem":1701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10203418,
+    "gn:latitude":36.301,
+    "gn:longitude":105.985,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Datan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u6ee9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10203418
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6157bfcfbb5c958a7f8e8fc2b232c45d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209379151
+        }
+    ],
+    "wof:id":1209379151,
+    "wof:lastmodified":1537611338,
+    "wof:name":"Datan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.985,
+    36.301,
+    105.985,
+    36.301
+],
+  "geometry": {"coordinates":[105.985,36.301],"type":"Point"}
+}

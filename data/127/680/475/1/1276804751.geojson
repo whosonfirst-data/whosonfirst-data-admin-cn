@@ -1,0 +1,75 @@
+{
+  "id": 1276804751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.90884,19.01987,108.90884,19.01987",
+    "geom:latitude":19.01987,
+    "geom:longitude":108.90884,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Tian'an",
+    "gn:country_code":"CN",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8306263,
+    "gn:latitude":19.01987,
+    "gn:longitude":108.90884,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Tian\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tian\u2019an",
+        "\u5929\u5b89",
+        "Tian\u2019an Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5929\u5b89\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632695,
+        85669759,
+        1108732335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306263
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4816d7f4b40be59fd9165255cfad33d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732335,
+            "locality_id":1276804751,
+            "region_id":85669759
+        }
+    ],
+    "wof:id":1276804751,
+    "wof:lastmodified":1537602918,
+    "wof:name":"Tian'an",
+    "wof:parent_id":1108732335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.90883999999998,
+    19.01987,
+    108.90883999999998,
+    19.01987
+],
+  "geometry": {"coordinates":[108.90883999999998,19.01987],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209405345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.06418,46.71156,126.06418,46.71156",
+    "geom:latitude":46.71156,
+    "geom:longitude":126.06418,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lemin",
+    "gn:country_code":"CN",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8508111,
+    "gn:latitude":46.71156,
+    "gn:longitude":126.06418,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Lemin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e50\u6c11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8508111
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"541d244c8aa3ae91389e99d409966dcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209405345
+        }
+    ],
+    "wof:id":1209405345,
+    "wof:lastmodified":1537603931,
+    "wof:name":"Lemin",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.06418,
+    46.71156,
+    126.06418,
+    46.71156
+],
+  "geometry": {"coordinates":[126.06417999999999,46.71156],"type":"Point"}
+}

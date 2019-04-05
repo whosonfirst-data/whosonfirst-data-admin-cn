@@ -1,0 +1,76 @@
+{
+  "id": 1343804377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.32166,24.4163,116.32166,24.4163",
+    "geom:latitude":24.4163,
+    "geom:longitude":116.32166,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Yanyang",
+    "gn:country_code":"CN",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1787043,
+    "gn:latitude":24.4163,
+    "gn:longitude":116.32166,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Yanyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yanyang Zhen",
+        "\u96c1\u6d0b\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u96c1\u6d0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890516561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1787043
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0f8c09688a0096ba2778b43e3cc2d743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516561,
+            "empire_id":136253041,
+            "locality_id":1343804377,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1343804377,
+    "wof:lastmodified":1537592101,
+    "wof:name":"Yanyang",
+    "wof:parent_id":890516561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.32166,
+    24.4163,
+    116.32166,
+    24.4163
+],
+  "geometry": {"coordinates":[116.32165999999999,24.4163],"type":"Point"}
+}

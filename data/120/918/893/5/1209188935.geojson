@@ -1,0 +1,65 @@
+{
+  "id": 1209188935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.28629,40.75708,125.28629,40.75708",
+    "geom:latitude":40.75708,
+    "geom:longitude":125.28629,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ping'an",
+    "gn:country_code":"CN",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535512,
+    "gn:latitude":40.75708,
+    "gn:longitude":125.28629,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ping\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ping\u2019an",
+        "\u5e73\u5b89"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535512
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"12973ea490e0c6584df4dfb026866045",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209188935
+        }
+    ],
+    "wof:id":1209188935,
+    "wof:lastmodified":1537604345,
+    "wof:name":"Ping'an",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.28629,
+    40.75708,
+    125.28629,
+    40.75708
+],
+  "geometry": {"coordinates":[125.28628999999999,40.75708],"type":"Point"}
+}

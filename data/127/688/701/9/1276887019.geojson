@@ -1,0 +1,78 @@
+{
+  "id": 1276887019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.99407,32.5339,118.99407,32.5339",
+    "geom:latitude":32.5339,
+    "geom:longitude":118.99407,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Changxing",
+    "gn:country_code":"CN",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1815500,
+    "gn:latitude":32.5339,
+    "gn:longitude":118.99407,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Changxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019ang-hsing-chi",
+        "Ta-hsing-chi",
+        "Ch\u2019ang-hsing",
+        "Changxing"
+    ],
+    "name:zho_x_preferred":[
+        "\u957f\u5174"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890513329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1815500
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"473a56cec1dcb663c84a87ef3a51c50d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513329,
+            "empire_id":136253041,
+            "locality_id":1276887019,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1276887019,
+    "wof:lastmodified":1537593948,
+    "wof:name":"Changxing",
+    "wof:parent_id":890513329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.99407,
+    32.5339,
+    118.99407,
+    32.5339
+],
+  "geometry": {"coordinates":[118.99406999999999,32.5339],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209676259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.587,25.829,101.587,25.829",
+    "geom:latitude":25.829,
+    "geom:longitude":101.587,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Shibanqing",
+    "gn:country_code":"CN",
+    "gn:dem":1677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10151312,
+    "gn:latitude":25.829,
+    "gn:longitude":101.587,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Shibanqing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u77f3\u677f\u7b90"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10151312
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3551009f7d999fdf878a730bb85b7f26",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209676259
+        }
+    ],
+    "wof:id":1209676259,
+    "wof:lastmodified":1537610485,
+    "wof:name":"Shibanqing",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.587,
+    25.829,
+    101.587,
+    25.829
+],
+  "geometry": {"coordinates":[101.587,25.829],"type":"Point"}
+}

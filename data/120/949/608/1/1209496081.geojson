@@ -1,0 +1,64 @@
+{
+  "id": 1209496081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.03462,26.54968,110.03462,26.54968",
+    "geom:latitude":26.54968,
+    "geom:longitude":110.03462,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Wengjiang",
+    "gn:country_code":"CN",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10365790,
+    "gn:latitude":26.54968,
+    "gn:longitude":110.03462,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Wengjiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7fc1\u6c5f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10365790
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9f57fd731c0823d37f769d288981cefd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209496081
+        }
+    ],
+    "wof:id":1209496081,
+    "wof:lastmodified":1537612724,
+    "wof:name":"Wengjiang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.03462,
+    26.54968,
+    110.03462,
+    26.54968
+],
+  "geometry": {"coordinates":[110.03462,26.54968],"type":"Point"}
+}

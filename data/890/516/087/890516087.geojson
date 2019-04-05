@@ -1,0 +1,71 @@
+{
+  "id": 890516087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.50583,36.93833,114.50583,36.93833",
+    "geom:latitude":36.93833,
+    "geom:longitude":114.50583,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":125132,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Shahhsien"
+    ],
+    "qs:name":"Shahecheng",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669797,
+        102191569,
+        85632695,
+        136253041,
+        890513015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1796421,
+        "gp:id":2171576,
+        "qs:id":136477
+    },
+    "wof:country":"CN",
+    "wof:created":1469055943,
+    "wof:geomhash":"eb852a1790b58d1a8b5f6a1b777d93ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513015,
+            "empire_id":136253041,
+            "locality_id":890516087,
+            "region_id":85669797
+        }
+    ],
+    "wof:id":890516087,
+    "wof:lastmodified":1505343901,
+    "wof:name":"Shahecheng",
+    "wof:parent_id":890513015,
+    "wof:placetype":"locality",
+    "wof:population":125132,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.50583,
+    36.93833,
+    114.50583,
+    36.93833
+],
+  "geometry": {"coordinates":[114.50583,36.93833],"type":"Point"}
+}

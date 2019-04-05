@@ -1,0 +1,76 @@
+{
+  "id": 1310303839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.30556,42.84,130.30556,42.84",
+    "geom:latitude":42.84,
+    "geom:longitude":130.30556,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sanjiazi",
+    "gn:country_code":"CN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2051070,
+    "gn:latitude":42.84,
+    "gn:longitude":130.30556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sanjiazi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San-chia-tzu",
+        "Sanjiazi",
+        "\u4e09\u5bb6\u5b50",
+        "Sanjiazi Manzu Xiang",
+        "\u4e09\u5bb6\u5b50\u6ee1\u65cf\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669843,
+        102191569,
+        85632695,
+        136253041,
+        1108732421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2051070
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b3502302424bc9c89e83c70f3662560c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732421,
+            "empire_id":136253041,
+            "locality_id":1310303839,
+            "region_id":85669843
+        }
+    ],
+    "wof:id":1310303839,
+    "wof:lastmodified":1537595936,
+    "wof:name":"Sanjiazi",
+    "wof:parent_id":1108732421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.30556,
+    42.84,
+    130.30556,
+    42.84
+],
+  "geometry": {"coordinates":[130.30556000000001,42.84],"type":"Point"}
+}

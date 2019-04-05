@@ -1,0 +1,78 @@
+{
+  "id": 1343632171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.902,28.402,87.902,28.402",
+    "geom:latitude":28.402,
+    "geom:longitude":87.902,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sanagang",
+    "gn:country_code":"CN",
+    "gn:dem":4931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8056069,
+    "gn:latitude":28.402,
+    "gn:longitude":87.902,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Sanagang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Sanagang"
+    ],
+    "name:zho_x_preferred":[
+        "Shalagang"
+    ],
+    "name:zho_x_variant":[
+        "\u6c99\u62c9\u5c97"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8056069
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c809e59cba3341ae393cf220eaf3471a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1343632171,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1343632171,
+    "wof:lastmodified":1537602480,
+    "wof:name":"Sanagang",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.902,
+    28.402,
+    87.902,
+    28.402
+],
+  "geometry": {"coordinates":[87.902,28.402],"type":"Point"}
+}

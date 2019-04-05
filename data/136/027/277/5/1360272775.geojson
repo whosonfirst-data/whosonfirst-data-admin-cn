@@ -1,0 +1,77 @@
+{
+  "id": 1360272775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.17583,25.43528,112.17583,25.43528",
+    "geom:latitude":25.43528,
+    "geom:longitude":112.17583,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zhuguansi",
+    "gn:country_code":"CN",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1783953,
+    "gn:latitude":25.43528,
+    "gn:longitude":112.17583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhuguansi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chu-kuan-ssu",
+        "Zhushi",
+        "Zhuguansi"
+    ],
+    "name:zho_x_preferred":[
+        "\u7af9\u7ba1\u5bfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890515001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1783953
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"23a32511bde66b3ff3e0fba12ca6479d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515001,
+            "empire_id":136253041,
+            "locality_id":1360272775,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1360272775,
+    "wof:lastmodified":1537591892,
+    "wof:name":"Zhuguansi",
+    "wof:parent_id":890515001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.17583,
+    25.43528,
+    112.17583,
+    25.43528
+],
+  "geometry": {"coordinates":[112.17583,25.43528],"type":"Point"}
+}

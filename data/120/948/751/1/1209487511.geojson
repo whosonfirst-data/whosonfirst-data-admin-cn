@@ -1,0 +1,64 @@
+{
+  "id": 1209487511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.667,25.1317,108.667,25.1317",
+    "geom:latitude":25.1317,
+    "geom:longitude":108.667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dagan",
+    "gn:country_code":"CN",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9941929,
+    "gn:latitude":25.1317,
+    "gn:longitude":108.667,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Dagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8fbe\u6562"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9941929
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"36b89b682a35ecebf4cb3d5f2047e739",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209487511
+        }
+    ],
+    "wof:id":1209487511,
+    "wof:lastmodified":1537608041,
+    "wof:name":"Dagan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.667,
+    25.1317,
+    108.667,
+    25.1317
+],
+  "geometry": {"coordinates":[108.667,25.1317],"type":"Point"}
+}

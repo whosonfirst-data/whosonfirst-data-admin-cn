@@ -1,0 +1,78 @@
+{
+  "id": 1293857527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.3,30.9,86.3,30.9",
+    "geom:latitude":30.9,
+    "geom:longitude":86.3,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ngangngur",
+    "gn:country_code":"CN",
+    "gn:dem":4999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7896088,
+    "gn:latitude":30.9,
+    "gn:longitude":86.3,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ngangngur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Ngangngur"
+    ],
+    "name:zho_x_preferred":[
+        "Angeer"
+    ],
+    "name:zho_x_variant":[
+        "\u6602\u4fc4\u5c14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7896088
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"eb5855bb9ccc8e47aad71a1161ef27d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1293857527,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1293857527,
+    "wof:lastmodified":1537601861,
+    "wof:name":"Ngangngur",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.3,
+    30.9,
+    86.3,
+    30.9
+],
+  "geometry": {"coordinates":[86.3,30.9],"type":"Point"}
+}

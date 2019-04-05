@@ -1,0 +1,64 @@
+{
+  "id": 1209509855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.9649,41.32281,116.9649,41.32281",
+    "geom:latitude":41.32281,
+    "geom:longitude":116.9649,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Zhengcha",
+    "gn:country_code":"CN",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10001259,
+    "gn:latitude":41.32281,
+    "gn:longitude":116.9649,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Zhengcha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6b63\u5c94"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10001259
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"025f94cca8eba7d34f14a4a125b21d2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209509855
+        }
+    ],
+    "wof:id":1209509855,
+    "wof:lastmodified":1537608647,
+    "wof:name":"Zhengcha",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.9649,
+    41.32281,
+    116.9649,
+    41.32281
+],
+  "geometry": {"coordinates":[116.9649,41.32281],"type":"Point"}
+}

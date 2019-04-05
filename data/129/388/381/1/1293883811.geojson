@@ -1,0 +1,79 @@
+{
+  "id": 1293883811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.5257,31.96368,119.5257,31.96368",
+    "geom:latitude":31.96368,
+    "geom:longitude":119.5257,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Songbucun",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1548365,
+    "gn:latitude":31.96368,
+    "gn:longitude":119.5257,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Songbucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Songbu",
+        "Songbucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u677e\u535c"
+    ],
+    "name:zho_x_variant":[
+        "\u677e\u535c\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        1108732521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1548365
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4942073a51b95f2f23852535ea575a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732521,
+            "empire_id":136253041,
+            "locality_id":1293883811,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1293883811,
+    "wof:lastmodified":1537591660,
+    "wof:name":"Songbucun",
+    "wof:parent_id":1108732521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.5257,
+    31.96368,
+    119.5257,
+    31.96368
+],
+  "geometry": {"coordinates":[119.5257,31.96368],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226599149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.92444,32.09,108.92444,32.09",
+    "geom:latitude":32.09,
+    "geom:longitude":108.92444,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Zhangheping",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1785246,
+    "gn:latitude":32.09,
+    "gn:longitude":108.92444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhangheping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u2019an-ho-p\u2019ing",
+        "Chang-ho-p\u2019ing",
+        "Zhanghe",
+        "Chang-ho",
+        "Zhangheping"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1785246
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a2cce7d00e04cd6a9273574269b2b687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515101,
+            "empire_id":136253041,
+            "locality_id":1226599149,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1226599149,
+    "wof:lastmodified":1537591980,
+    "wof:name":"Zhangheping",
+    "wof:parent_id":890515101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.92444,
+    32.09,
+    108.92444,
+    32.09
+],
+  "geometry": {"coordinates":[108.92444,32.09],"type":"Point"}
+}

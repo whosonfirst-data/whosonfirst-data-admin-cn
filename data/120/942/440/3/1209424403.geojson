@@ -1,0 +1,64 @@
+{
+  "id": 1209424403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.74329,31.58313,118.74329,31.58313",
+    "geom:latitude":31.58313,
+    "geom:longitude":118.74329,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zhangmaocun",
+    "gn:country_code":"CN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11518058,
+    "gn:latitude":31.58313,
+    "gn:longitude":118.74329,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Zhangmaocun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5f20\u8302\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11518058
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"755e83dd24e2eae55e834e09d63b6284",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209424403
+        }
+    ],
+    "wof:id":1209424403,
+    "wof:lastmodified":1537617322,
+    "wof:name":"Zhangmaocun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.74329,
+    31.58313,
+    118.74329,
+    31.58313
+],
+  "geometry": {"coordinates":[118.74329,31.58313],"type":"Point"}
+}

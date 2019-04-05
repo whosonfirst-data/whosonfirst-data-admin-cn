@@ -1,0 +1,76 @@
+{
+  "id": 1293595745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.22665,28.56515,118.22665,28.56515",
+    "geom:latitude":28.56515,
+    "geom:longitude":118.22665,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dananqiao",
+    "gn:country_code":"CN",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1813899,
+    "gn:latitude":28.56515,
+    "gn:longitude":118.22665,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dananqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-nan-ch\u2019iao",
+        "Dananqiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u5357\u6865"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669823,
+        102191569,
+        85632695,
+        136253041,
+        890515869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1813899
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fe3fbc58ccd5f0a9e793133d3da291a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515869,
+            "empire_id":136253041,
+            "locality_id":1293595745,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":1293595745,
+    "wof:lastmodified":1537593851,
+    "wof:name":"Dananqiao",
+    "wof:parent_id":890515869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.22665,
+    28.56515,
+    118.22665,
+    28.56515
+],
+  "geometry": {"coordinates":[118.22665000000001,28.56515],"type":"Point"}
+}

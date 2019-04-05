@@ -1,0 +1,75 @@
+{
+  "id": 1243238207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.01936,41.06916,123.01936,41.06916",
+    "geom:latitude":41.06916,
+    "geom:longitude":123.01936,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Gaoguanling",
+    "gn:country_code":"CN",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7398081,
+    "gn:latitude":41.06916,
+    "gn:longitude":123.01936,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gaoguanling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9ad8\u5b98\u5cad"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ad8\u5b98\u5cad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7398081
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5be6b2968c15b1d9d1afe5fff9b648e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514231,
+            "empire_id":136253041,
+            "locality_id":1243238207,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1243238207,
+    "wof:lastmodified":1537598549,
+    "wof:name":"Gaoguanling",
+    "wof:parent_id":890514231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.01936,
+    41.06916,
+    123.01936,
+    41.06916
+],
+  "geometry": {"coordinates":[123.01936000000001,41.06916],"type":"Point"}
+}

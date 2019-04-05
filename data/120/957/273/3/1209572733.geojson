@@ -1,0 +1,64 @@
+{
+  "id": 1209572733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.005,34.9505,117.005,34.9505",
+    "geom:latitude":34.9505,
+    "geom:longitude":117.005,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Dingzhuang",
+    "gn:country_code":"CN",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9119097,
+    "gn:latitude":34.9505,
+    "gn:longitude":117.005,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Dingzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e01\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9119097
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"00affe8db6b7874d10f3b1a59ad9976b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209572733
+        }
+    ],
+    "wof:id":1209572733,
+    "wof:lastmodified":1537605299,
+    "wof:name":"Dingzhuang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.005,
+    34.9505,
+    117.005,
+    34.9505
+],
+  "geometry": {"coordinates":[117.005,34.9505],"type":"Point"}
+}

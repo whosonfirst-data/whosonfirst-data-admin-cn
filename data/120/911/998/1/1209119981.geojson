@@ -1,0 +1,64 @@
+{
+  "id": 1209119981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.00897,31.36051,116.00897,31.36051",
+    "geom:latitude":31.36051,
+    "geom:longitude":116.00897,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Wanfancun",
+    "gn:country_code":"CN",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10634893,
+    "gn:latitude":31.36051,
+    "gn:longitude":116.00897,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Wanfancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e07\u7548\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10634893
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"150a798caf26206dbec0c404042b3e9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209119981
+        }
+    ],
+    "wof:id":1209119981,
+    "wof:lastmodified":1537613816,
+    "wof:name":"Wanfancun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.00897,
+    31.36051,
+    116.00897,
+    31.36051
+],
+  "geometry": {"coordinates":[116.00897000000001,31.36051],"type":"Point"}
+}

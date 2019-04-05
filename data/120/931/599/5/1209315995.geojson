@@ -1,0 +1,64 @@
+{
+  "id": 1209315995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.86247,28.00761,116.86247,28.00761",
+    "geom:latitude":28.00761,
+    "geom:longitude":116.86247,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zhongfu",
+    "gn:country_code":"CN",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7327701,
+    "gn:latitude":28.00761,
+    "gn:longitude":116.86247,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhongfu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e2d\u5085"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7327701
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9343c4dd2adcf5ded7d9a02343db1c45",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209315995
+        }
+    ],
+    "wof:id":1209315995,
+    "wof:lastmodified":1537597977,
+    "wof:name":"Zhongfu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.86247,
+    28.00761,
+    116.86247,
+    28.00761
+],
+  "geometry": {"coordinates":[116.86247,28.00761],"type":"Point"}
+}

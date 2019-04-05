@@ -1,0 +1,64 @@
+{
+  "id": 1209115511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.69012,30.18189,116.69012,30.18189",
+    "geom:latitude":30.18189,
+    "geom:longitude":116.69012,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chahuacun",
+    "gn:country_code":"CN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11474383,
+    "gn:latitude":30.18189,
+    "gn:longitude":116.69012,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chahuacun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8336\u82b1\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11474383
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"329a1af63689a648b605dabf3828a497",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209115511
+        }
+    ],
+    "wof:id":1209115511,
+    "wof:lastmodified":1537616823,
+    "wof:name":"Chahuacun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.69012,
+    30.18189000000001,
+    116.69012,
+    30.18189000000001
+],
+  "geometry": {"coordinates":[116.69011999999999,30.18189000000001],"type":"Point"}
+}

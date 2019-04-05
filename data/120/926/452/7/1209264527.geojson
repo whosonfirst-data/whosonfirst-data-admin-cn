@@ -1,0 +1,64 @@
+{
+  "id": 1209264527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.40485,20.45758,110.40485,20.45758",
+    "geom:latitude":20.45758,
+    "geom:longitude":110.40485,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Houliao",
+    "gn:country_code":"CN",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10651365,
+    "gn:latitude":20.45758,
+    "gn:longitude":110.40485,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Houliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u540e\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10651365
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"175801e285a2357372c72494366e44e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209264527
+        }
+    ],
+    "wof:id":1209264527,
+    "wof:lastmodified":1537614101,
+    "wof:name":"Houliao",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.40485,
+    20.45758,
+    110.40485,
+    20.45758
+],
+  "geometry": {"coordinates":[110.40485,20.45758],"type":"Point"}
+}

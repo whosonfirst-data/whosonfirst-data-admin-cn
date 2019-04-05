@@ -1,0 +1,80 @@
+{
+  "id": 1259856365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.53398,30.43919,108.53398,30.43919",
+    "geom:latitude":30.43919,
+    "geom:longitude":108.53398,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Jiannan",
+    "gn:country_code":"CN",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1806169,
+    "gn:latitude":30.43919,
+    "gn:longitude":108.53398,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Jiannan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chien-nan",
+        "Jiannan",
+        "Jiannan Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5efa\u5357"
+    ],
+    "name:zho_x_variant":[
+        "\u5efa\u5357\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1806169
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a29e1b58ae04720d8bd8f327e6d0d599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732427,
+            "empire_id":136253041,
+            "locality_id":1259856365,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1259856365,
+    "wof:lastmodified":1537593361,
+    "wof:name":"Jiannan",
+    "wof:parent_id":1108732427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.53398,
+    30.43919,
+    108.53398,
+    30.43919
+],
+  "geometry": {"coordinates":[108.53398,30.43919],"type":"Point"}
+}

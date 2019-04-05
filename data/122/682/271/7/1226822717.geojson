@@ -1,0 +1,78 @@
+{
+  "id": 1226822717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.4,28.5,87.4,28.5",
+    "geom:latitude":28.5,
+    "geom:longitude":87.4,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Cowa",
+    "gn:country_code":"CN",
+    "gn:dem":4948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":7928965,
+    "gn:latitude":28.5,
+    "gn:longitude":87.4,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Cowa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Cowa"
+    ],
+    "name:zho_x_preferred":[
+        "Cuowa"
+    ],
+    "name:zho_x_variant":[
+        "\u63aa\u5a03"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7928965
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8a5d2aa2c5edf0ed5cdd5bcd6804bd47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1226822717,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226822717,
+    "wof:lastmodified":1537602053,
+    "wof:name":"Cowa",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.4,
+    28.5,
+    87.4,
+    28.5
+],
+  "geometry": {"coordinates":[87.40000000000001,28.5],"type":"Point"}
+}

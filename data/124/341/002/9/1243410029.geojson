@@ -1,0 +1,77 @@
+{
+  "id": 1243410029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.25457,36.02356,113.25457,36.02356",
+    "geom:latitude":36.02356,
+    "geom:longitude":113.25457,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Gucun",
+    "gn:country_code":"CN",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1809569,
+    "gn:latitude":36.02356,
+    "gn:longitude":113.25457,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Gucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chou-ts\u2019un-chen",
+        "Ku-ts\u2019un",
+        "Gucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u56fa\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        1108732523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1809569
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d02115199113456e99a63c5a21e76360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732523,
+            "empire_id":136253041,
+            "locality_id":1243410029,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1243410029,
+    "wof:lastmodified":1537593576,
+    "wof:name":"Gucun",
+    "wof:parent_id":1108732523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.25457,
+    36.02356,
+    113.25457,
+    36.02356
+],
+  "geometry": {"coordinates":[113.25457,36.02356],"type":"Point"}
+}

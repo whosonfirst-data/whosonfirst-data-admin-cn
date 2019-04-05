@@ -1,0 +1,77 @@
+{
+  "id": 1243600473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.11163,22.77941,114.11163,22.77941",
+    "geom:latitude":22.77941,
+    "geom:longitude":114.11163,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Dalinggu",
+    "gn:country_code":"CN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1795363,
+    "gn:latitude":22.77941,
+    "gn:longitude":114.11163,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dalinggu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shih-ku",
+        "Shigu",
+        "Dalinggu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u5cad\u53e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890516401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1795363
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"99735d0663efc09f23ab8552dcf0ccb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516401,
+            "empire_id":136253041,
+            "locality_id":1243600473,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1243600473,
+    "wof:lastmodified":1537592664,
+    "wof:name":"Dalinggu",
+    "wof:parent_id":890516401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.11163,
+    22.77941,
+    114.11163,
+    22.77941
+],
+  "geometry": {"coordinates":[114.11163000000001,22.77941],"type":"Point"}
+}

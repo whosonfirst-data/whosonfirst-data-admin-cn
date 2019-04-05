@@ -1,0 +1,64 @@
+{
+  "id": 1209392977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.38453,26.55374,110.38453,26.55374",
+    "geom:latitude":26.55374,
+    "geom:longitude":110.38453,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Shanqing",
+    "gn:country_code":"CN",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10365780,
+    "gn:latitude":26.55374,
+    "gn:longitude":110.38453,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Shanqing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5c71\u9752"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10365780
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2fba3394cd380108cc83e8a101098495",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209392977
+        }
+    ],
+    "wof:id":1209392977,
+    "wof:lastmodified":1537612723,
+    "wof:name":"Shanqing",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.38453,
+    26.55374,
+    110.38453,
+    26.55374
+],
+  "geometry": {"coordinates":[110.38453,26.55374],"type":"Point"}
+}

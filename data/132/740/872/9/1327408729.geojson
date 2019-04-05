@@ -1,0 +1,75 @@
+{
+  "id": 1327408729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.32055,40.96953,123.32055,40.96953",
+    "geom:latitude":40.96953,
+    "geom:longitude":123.32055,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shuiquangou",
+    "gn:country_code":"CN",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7404790,
+    "gn:latitude":40.96953,
+    "gn:longitude":123.32055,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shuiquangou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6c34\u6cc9\u6c9f"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c34\u6cc9\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7404790
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d988992a69e30c4d5e666b7339572db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514643,
+            "empire_id":136253041,
+            "locality_id":1327408729,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1327408729,
+    "wof:lastmodified":1537598944,
+    "wof:name":"Shuiquangou",
+    "wof:parent_id":890514643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.32055,
+    40.96953,
+    123.32055,
+    40.96953
+],
+  "geometry": {"coordinates":[123.32055,40.96953],"type":"Point"}
+}

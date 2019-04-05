@@ -1,0 +1,64 @@
+{
+  "id": 1209615347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.0517,34.20648,120.0517,34.20648",
+    "geom:latitude":34.20648,
+    "geom:longitude":120.0517,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shentancun",
+    "gn:country_code":"CN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11535750,
+    "gn:latitude":34.20648,
+    "gn:longitude":120.0517,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Shentancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6c88\u6ee9\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11535750
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0403a54f6842ff90961e951cceb66aa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209615347
+        }
+    ],
+    "wof:id":1209615347,
+    "wof:lastmodified":1537617496,
+    "wof:name":"Shentancun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.0517,
+    34.20648,
+    120.0517,
+    34.20648
+],
+  "geometry": {"coordinates":[120.0517,34.20648],"type":"Point"}
+}

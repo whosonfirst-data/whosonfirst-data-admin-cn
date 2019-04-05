@@ -1,0 +1,79 @@
+{
+  "id": 1310014209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.035,29.48444,121.035,29.48444",
+    "geom:latitude":29.48444,
+    "geom:longitude":121.035,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Zhu'an",
+    "gn:country_code":"CN",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1915400,
+    "gn:latitude":29.48444,
+    "gn:longitude":121.035,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zhu\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u7af9\u5cb8",
+        "Xinlin"
+    ],
+    "name:zho_x_preferred":[
+        "Zhu\u2019an"
+    ],
+    "name:zho_x_variant":[
+        "\u7af9\u5cb8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890513785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1915400
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"001d9a1aec1854eb9141fa8d8db0308b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513785,
+            "empire_id":136253041,
+            "locality_id":1310014209,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1310014209,
+    "wof:lastmodified":1537594698,
+    "wof:name":"Zhu'an",
+    "wof:parent_id":890513785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.035,
+    29.48444000000001,
+    121.035,
+    29.48444000000001
+],
+  "geometry": {"coordinates":[121.035,29.48444000000001],"type":"Point"}
+}

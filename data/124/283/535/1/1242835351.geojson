@@ -1,0 +1,69 @@
+{
+  "id": 1242835351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.53333,24.03333,99.53333,24.03333",
+    "geom:latitude":24.03333,
+    "geom:longitude":99.53333,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Banka",
+    "gn:country_code":"CN",
+    "gn:dem":1900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1281676,
+    "gn:latitude":24.03333,
+    "gn:longitude":99.53333,
+    "gn:modification_date":"1994-02-05",
+    "gn:name":"Banka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        890514555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1281676
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3bd9b50b8113a0cf822257767bc25193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514555,
+            "empire_id":136253041,
+            "locality_id":1242835351,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1242835351,
+    "wof:lastmodified":1536692729,
+    "wof:name":"Banka",
+    "wof:parent_id":890514555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.53333,
+    24.03333,
+    99.53333,
+    24.03333
+],
+  "geometry": {"coordinates":[99.53333000000001,24.03333],"type":"Point"}
+}

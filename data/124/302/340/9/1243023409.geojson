@@ -1,0 +1,75 @@
+{
+  "id": 1243023409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.159,37.1536,118.159,37.1536",
+    "geom:latitude":37.1536,
+    "geom:longitude":118.159,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Zhongxin'an",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9126534,
+    "gn:latitude":37.1536,
+    "gn:longitude":118.159,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Zhongxin\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhongxin\u2019an"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u8f9b\u5b89"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669813,
+        102191569,
+        85632695,
+        136253041,
+        1108732469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9126534
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b4bd3e93308c4fdbc17e257fff73674c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732469,
+            "empire_id":136253041,
+            "locality_id":1243023409,
+            "region_id":85669813
+        }
+    ],
+    "wof:id":1243023409,
+    "wof:lastmodified":1537605534,
+    "wof:name":"Zhongxin'an",
+    "wof:parent_id":1108732469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.159,
+    37.1536,
+    118.159,
+    37.1536
+],
+  "geometry": {"coordinates":[118.15900000000001,37.1536],"type":"Point"}
+}

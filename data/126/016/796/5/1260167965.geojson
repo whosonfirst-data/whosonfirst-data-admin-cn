@@ -1,0 +1,75 @@
+{
+  "id": 1260167965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.45067,31.23326,113.45067,31.23326",
+    "geom:latitude":31.23326,
+    "geom:longitude":113.45067,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Shuanghedian",
+    "gn:country_code":"CN",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1940881,
+    "gn:latitude":31.23326,
+    "gn:longitude":113.45067,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Shuanghedian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shuang-ho-tien",
+        "Shuanghe",
+        "Shuanghedian",
+        "\u53cc\u6cb3\u5e97"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1940881
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e5b597dad8e855a93561004ad5cf4f8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732407,
+            "empire_id":136253041,
+            "locality_id":1260167965,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1260167965,
+    "wof:lastmodified":1537595055,
+    "wof:name":"Shuanghedian",
+    "wof:parent_id":1108732407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.45067,
+    31.23326,
+    113.45067,
+    31.23326
+],
+  "geometry": {"coordinates":[113.45067,31.23326],"type":"Point"}
+}

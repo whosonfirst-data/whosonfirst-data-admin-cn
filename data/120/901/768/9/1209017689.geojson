@@ -1,0 +1,64 @@
+{
+  "id": 1209017689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.86245,30.84403,117.86245,30.84403",
+    "geom:latitude":30.84403,
+    "geom:longitude":117.86245,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tianmencun",
+    "gn:country_code":"CN",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10650354,
+    "gn:latitude":30.84403,
+    "gn:longitude":117.86245,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Tianmencun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5929\u95e8\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10650354
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bc8343c3df7a975b0bcee8f979e4d77a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209017689
+        }
+    ],
+    "wof:id":1209017689,
+    "wof:lastmodified":1537614060,
+    "wof:name":"Tianmencun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.86245,
+    30.84403,
+    117.86245,
+    30.84403
+],
+  "geometry": {"coordinates":[117.86245,30.84403],"type":"Point"}
+}

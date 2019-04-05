@@ -1,0 +1,64 @@
+{
+  "id": 1209585867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.871,35.2197,103.871,35.2197",
+    "geom:latitude":35.2197,
+    "geom:longitude":103.871,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Nanfeng",
+    "gn:country_code":"CN",
+    "gn:dem":2036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10755812,
+    "gn:latitude":35.2197,
+    "gn:longitude":103.871,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Nanfeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5357\u4e30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10755812
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"918ca351354c7f79bd8feb60ad86ad43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209585867
+        }
+    ],
+    "wof:id":1209585867,
+    "wof:lastmodified":1537614413,
+    "wof:name":"Nanfeng",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.871,
+    35.2197,
+    103.871,
+    35.2197
+],
+  "geometry": {"coordinates":[103.871,35.2197],"type":"Point"}
+}

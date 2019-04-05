@@ -1,0 +1,64 @@
+{
+  "id": 1209360103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.841,30.6178,105.841,30.6178",
+    "geom:latitude":30.6178,
+    "geom:longitude":105.841,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Shibangou",
+    "gn:country_code":"CN",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10163636,
+    "gn:latitude":30.6178,
+    "gn:longitude":105.841,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Shibangou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u77f3\u677f\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10163636
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a57b819567ff4bc07db67b3b1a37f290",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209360103
+        }
+    ],
+    "wof:id":1209360103,
+    "wof:lastmodified":1537610879,
+    "wof:name":"Shibangou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.841,
+    30.6178,
+    105.841,
+    30.6178
+],
+  "geometry": {"coordinates":[105.84099999999999,30.6178],"type":"Point"}
+}

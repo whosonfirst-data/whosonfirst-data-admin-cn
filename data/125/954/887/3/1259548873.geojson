@@ -1,0 +1,75 @@
+{
+  "id": 1259548873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.80257,41.95633,123.80257,41.95633",
+    "geom:latitude":41.95633,
+    "geom:longitude":123.80257,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Xiahuangjin",
+    "gn:country_code":"CN",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7398659,
+    "gn:latitude":41.95633,
+    "gn:longitude":123.80257,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Xiahuangjin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e0b\u9ec4\u91d1"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u9ec4\u91d1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890513011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7398659
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3e5ed33c8fc95b924c3ae994c878fc0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513011,
+            "empire_id":136253041,
+            "locality_id":1259548873,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1259548873,
+    "wof:lastmodified":1537598582,
+    "wof:name":"Xiahuangjin",
+    "wof:parent_id":890513011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.80257,
+    41.95633,
+    123.80257,
+    41.95633
+],
+  "geometry": {"coordinates":[123.80257,41.95633],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209573299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.65536,37.96896,111.65536,37.96896",
+    "geom:latitude":37.96896,
+    "geom:longitude":111.65536,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kuanping",
+    "gn:country_code":"CN",
+    "gn:dem":1494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11447239,
+    "gn:latitude":37.96896,
+    "gn:longitude":111.65536,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Kuanping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5bbd\u576a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11447239
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0ae3e7b6ed461b47d5cea48c69dae0dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209573299
+        }
+    ],
+    "wof:id":1209573299,
+    "wof:lastmodified":1537616538,
+    "wof:name":"Kuanping",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.65536000000002,
+    37.96896,
+    111.65536000000002,
+    37.96896
+],
+  "geometry": {"coordinates":[111.65536000000002,37.96896],"type":"Point"}
+}

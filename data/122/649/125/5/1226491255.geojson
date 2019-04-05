@@ -1,0 +1,77 @@
+{
+  "id": 1226491255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.13122,31.76447,108.13122,31.76447",
+    "geom:latitude":31.76447,
+    "geom:longitude":108.13122,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Gujun",
+    "gn:country_code":"CN",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1809429,
+    "gn:latitude":31.76447,
+    "gn:longitude":108.13122,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gujun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ku-ch\u00fcn-pa",
+        "Gujunba",
+        "Gujun"
+    ],
+    "name:zho_x_preferred":[
+        "\u56fa\u519b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890513987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1809429
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"62556511827ee8bb8285bea7380b40f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513987,
+            "empire_id":136253041,
+            "locality_id":1226491255,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1226491255,
+    "wof:lastmodified":1537593569,
+    "wof:name":"Gujun",
+    "wof:parent_id":890513987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.13122,
+    31.76447000000001,
+    108.13122,
+    31.76447000000001
+],
+  "geometry": {"coordinates":[108.13122,31.76447000000001],"type":"Point"}
+}

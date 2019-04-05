@@ -1,0 +1,79 @@
+{
+  "id": 1260083885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.99111,33.30833,115.99111,33.30833",
+    "geom:latitude":33.30833,
+    "geom:longitude":115.99111,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zhangcun",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1785301,
+    "gn:latitude":33.30833,
+    "gn:longitude":115.99111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liu-hsi",
+        "Li-men-chi",
+        "Zhangcunpu",
+        "Chang-ts\u2019un-p\u2019u",
+        "Zhangcun Zhen",
+        "Chang-ts\u2019un",
+        "Zhangcun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890515239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1785301
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d8f25314177874d4fb76b8a5af74f30d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515239,
+            "empire_id":136253041,
+            "locality_id":1260083885,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1260083885,
+    "wof:lastmodified":1537591986,
+    "wof:name":"Zhangcun",
+    "wof:parent_id":890515239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.99111,
+    33.30833,
+    115.99111,
+    33.30833
+],
+  "geometry": {"coordinates":[115.99111000000001,33.30833],"type":"Point"}
+}

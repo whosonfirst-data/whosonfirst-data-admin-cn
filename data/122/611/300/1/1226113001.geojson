@@ -1,0 +1,80 @@
+{
+  "id": 1226113001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.0,31.1,92.0,31.1",
+    "geom:latitude":31.1,
+    "geom:longitude":92.0,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gyahong",
+    "gn:country_code":"CN",
+    "gn:dem":5120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8026594,
+    "gn:latitude":31.1,
+    "gn:longitude":92.0,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gyahong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Gyahong"
+    ],
+    "name:zho_x_preferred":[
+        "Jiahong"
+    ],
+    "name:zho_x_variant":[
+        "\u7532\u6d2a",
+        "Xita Gongshe",
+        "\u897f\u5854\u516c\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026594
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"07b141d9efb394b2e7c189e8056aa22b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1226113001,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226113001,
+    "wof:lastmodified":1537602180,
+    "wof:name":"Gyahong",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.0,
+    31.1,
+    92.0,
+    31.1
+],
+  "geometry": {"coordinates":[92.0,31.1],"type":"Point"}
+}

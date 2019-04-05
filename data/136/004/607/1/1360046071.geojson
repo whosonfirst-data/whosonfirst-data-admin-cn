@@ -1,0 +1,83 @@
+{
+  "id": 1360046071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.3786,23.52325,99.3786,23.52325",
+    "geom:latitude":23.52325,
+    "geom:longitude":99.3786,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Gengma",
+    "gn:country_code":"CN",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1281203,
+    "gn:latitude":23.52325,
+    "gn:longitude":99.3786,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gengma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keng-ma-hsuan-fu-ssu",
+        "Keng-ma-she-chih-ch\u00fc",
+        "Keng-ma",
+        "Gengma"
+    ],
+    "name:zho_x_preferred":[
+        "Keng-ma-t\u2019ai-tsu-wa-tsu-tzu-chih-hsien"
+    ],
+    "name:zho_x_variant":[
+        "Keng-ma-t\u2019ai-tsu-k\u2019a-wa-tsu-tzu-chih-hsien",
+        "\u803f\u9a6c",
+        "Keng-ma-she-chih-ch\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        890514555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1281203
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6a0b0cb021eca39ae4d47d6214ee8054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514555,
+            "empire_id":136253041,
+            "locality_id":1360046071,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1360046071,
+    "wof:lastmodified":1537591506,
+    "wof:name":"Gengma",
+    "wof:parent_id":890514555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.3786,
+    23.52325,
+    99.3786,
+    23.52325
+],
+  "geometry": {"coordinates":[99.37860000000001,23.52325],"type":"Point"}
+}

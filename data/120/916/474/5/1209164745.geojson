@@ -1,0 +1,64 @@
+{
+  "id": 1209164745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.047,21.6952,100.047,21.6952",
+    "geom:latitude":21.6952,
+    "geom:longitude":100.047,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Manchang",
+    "gn:country_code":"CN",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9915612,
+    "gn:latitude":21.6952,
+    "gn:longitude":100.047,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Manchang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u66fc\u573a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9915612
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"135fcd4ef7f0d648295a2a773a8a9e24",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209164745
+        }
+    ],
+    "wof:id":1209164745,
+    "wof:lastmodified":1537607225,
+    "wof:name":"Manchang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.047,
+    21.6952,
+    100.047,
+    21.6952
+],
+  "geometry": {"coordinates":[100.047,21.6952],"type":"Point"}
+}

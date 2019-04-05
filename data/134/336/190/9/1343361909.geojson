@@ -1,0 +1,77 @@
+{
+  "id": 1343361909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.34583,27.72642,119.34583,27.72642",
+    "geom:latitude":27.72642,
+    "geom:longitude":119.34583,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Qiulu",
+    "gn:country_code":"CN",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1918595,
+    "gn:latitude":27.72642,
+    "gn:longitude":119.34583,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Qiulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u79cb\u7089",
+        "Qiulu",
+        "Qiulu Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u79cb\u7089\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1918595
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2abac1466cab93b6ba67b34b214272b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516399,
+            "empire_id":136253041,
+            "locality_id":1343361909,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1343361909,
+    "wof:lastmodified":1537594789,
+    "wof:name":"Qiulu",
+    "wof:parent_id":890516399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.34583,
+    27.72642,
+    119.34583,
+    27.72642
+],
+  "geometry": {"coordinates":[119.34583000000001,27.72642],"type":"Point"}
+}

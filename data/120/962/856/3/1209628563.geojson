@@ -1,0 +1,64 @@
+{
+  "id": 1209628563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.39633,30.6398,116.39633,30.6398",
+    "geom:latitude":30.6398,
+    "geom:longitude":116.39633,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dongyuancun",
+    "gn:country_code":"CN",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10649672,
+    "gn:latitude":30.6398,
+    "gn:longitude":116.39633,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Dongyuancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8463\u56ed\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10649672
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3be235919c19814107c284b06945a1a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209628563
+        }
+    ],
+    "wof:id":1209628563,
+    "wof:lastmodified":1537614034,
+    "wof:name":"Dongyuancun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.39633,
+    30.6398,
+    116.39633,
+    30.6398
+],
+  "geometry": {"coordinates":[116.39633000000001,30.6398],"type":"Point"}
+}

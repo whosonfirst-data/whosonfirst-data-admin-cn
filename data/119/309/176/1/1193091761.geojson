@@ -1,0 +1,69 @@
+{
+  "id": 1193091761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.6475,32.295,108.6475,32.295",
+    "geom:latitude":32.295,
+    "geom:longitude":108.6475,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Panjiuguan",
+    "gn:country_code":"CN",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1908038,
+    "gn:latitude":32.295,
+    "gn:longitude":108.6475,
+    "gn:modification_date":"2000-09-15",
+    "gn:name":"Panjiuguan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1908038
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b45e4a1ee84769a9055d2a99da0b6fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515101,
+            "empire_id":136253041,
+            "locality_id":1193091761,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1193091761,
+    "wof:lastmodified":1536369838,
+    "wof:name":"Panjiuguan",
+    "wof:parent_id":890515101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.6475,
+    32.295,
+    108.6475,
+    32.295
+],
+  "geometry": {"coordinates":[108.64749999999999,32.295],"type":"Point"}
+}

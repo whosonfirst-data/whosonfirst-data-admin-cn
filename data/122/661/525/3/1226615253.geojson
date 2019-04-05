@@ -1,0 +1,77 @@
+{
+  "id": 1226615253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.87028,22.35556,107.87028,22.35556",
+    "geom:latitude":22.35556,
+    "geom:longitude":107.87028,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Dongmen",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1812357,
+    "gn:latitude":22.35556,
+    "gn:longitude":107.87028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dongmen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tung-men",
+        "Sui-lu-hsien",
+        "Tung-men-hs\u00fc",
+        "Sui-lu",
+        "Dongmen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669717,
+        102191569,
+        85632695,
+        136253041,
+        890513103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1812357
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e8454149c1adcfe007b22e6431212d65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513103,
+            "empire_id":136253041,
+            "locality_id":1226615253,
+            "region_id":85669717
+        }
+    ],
+    "wof:id":1226615253,
+    "wof:lastmodified":1537593759,
+    "wof:name":"Dongmen",
+    "wof:parent_id":890513103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.87028,
+    22.35556,
+    107.87028,
+    22.35556
+],
+  "geometry": {"coordinates":[107.87027999999999,22.35556],"type":"Point"}
+}

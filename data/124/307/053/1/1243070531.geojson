@@ -1,0 +1,80 @@
+{
+  "id": 1243070531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.77298,28.4105,120.77298,28.4105",
+    "geom:latitude":28.4105,
+    "geom:longitude":120.77298,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lixi",
+    "gn:country_code":"CN",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1883107,
+    "gn:latitude":28.4105,
+    "gn:longitude":120.77298,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Lixi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Li-ch\u2019i",
+        "Lixi",
+        "Lixi Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ca4\u6eaa"
+    ],
+    "name:zho_x_variant":[
+        "\u9ca4\u6eaa\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890514289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1883107
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"13a30a6ce2820bdfa649278d89967218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514289,
+            "empire_id":136253041,
+            "locality_id":1243070531,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1243070531,
+    "wof:lastmodified":1537594176,
+    "wof:name":"Lixi",
+    "wof:parent_id":890514289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.77298,
+    28.4105,
+    120.77298,
+    28.4105
+],
+  "geometry": {"coordinates":[120.77298,28.4105],"type":"Point"}
+}

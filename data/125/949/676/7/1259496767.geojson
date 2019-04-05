@@ -1,0 +1,83 @@
+{
+  "id": 1259496767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.91241,31.72913,115.91241,31.72913",
+    "geom:latitude":31.72913,
+    "geom:longitude":115.91241,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Meishan",
+    "gn:country_code":"CN",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1800815,
+    "gn:latitude":31.72913,
+    "gn:longitude":115.91241,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Meishan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jinzhai",
+        "Mei-shan-chen",
+        "Chin-chai-hsien",
+        "Chin-chai",
+        "Meishan",
+        "Jinzhai Xian"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "\u91d1\u5be8\u53bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890513745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1800815
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d7db788563c072b59099956c0cc555ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513745,
+            "empire_id":136253041,
+            "locality_id":1259496767,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1259496767,
+    "wof:lastmodified":1537593010,
+    "wof:name":"Meishan",
+    "wof:parent_id":890513745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.91241,
+    31.72913,
+    115.91241,
+    31.72913
+],
+  "geometry": {"coordinates":[115.91240999999999,31.72913],"type":"Point"}
+}

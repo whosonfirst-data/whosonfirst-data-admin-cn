@@ -1,0 +1,76 @@
+{
+  "id": 1343804423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.02701,25.19069,114.02701,25.19069",
+    "geom:latitude":25.19069,
+    "geom:longitude":114.02701,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Baishun",
+    "gn:country_code":"CN",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1817353,
+    "gn:latitude":25.19069,
+    "gn:longitude":114.02701,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Baishun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pai-shun-hs\u00fc",
+        "Baishun",
+        "\u767e\u987a",
+        "Baishun Zhen",
+        "\u767e\u987a\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890516559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1817353
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"612be61cd48bfb9d172283a6da202519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516559,
+            "empire_id":136253041,
+            "locality_id":1343804423,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1343804423,
+    "wof:lastmodified":1537594065,
+    "wof:name":"Baishun",
+    "wof:parent_id":890516559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.02701,
+    25.19069,
+    114.02701,
+    25.19069
+],
+  "geometry": {"coordinates":[114.02701,25.19069],"type":"Point"}
+}

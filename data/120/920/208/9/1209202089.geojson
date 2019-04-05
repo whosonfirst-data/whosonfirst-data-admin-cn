@@ -1,0 +1,64 @@
+{
+  "id": 1209202089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.44355,29.28246,109.44355,29.28246",
+    "geom:latitude":29.28246,
+    "geom:longitude":109.44355,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nanzhugao",
+    "gn:country_code":"CN",
+    "gn:dem":886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7006495,
+    "gn:latitude":29.28246,
+    "gn:longitude":109.44355,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Nanzhugao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6960\u7af9\u7bd9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7006495
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"04a23281d8b96cbb1dbb798461df67bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209202089
+        }
+    ],
+    "wof:id":1209202089,
+    "wof:lastmodified":1537597353,
+    "wof:name":"Nanzhugao",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.44355,
+    29.28246,
+    109.44355,
+    29.28246
+],
+  "geometry": {"coordinates":[109.44355,29.28246],"type":"Point"}
+}

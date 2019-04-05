@@ -1,0 +1,75 @@
+{
+  "id": 1293378757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.45,38.65,116.45,38.65",
+    "geom:latitude":38.65,
+    "geom:longitude":116.45,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Beiwei",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1816531,
+    "gn:latitude":38.65,
+    "gn:longitude":116.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Beiwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pei-wei",
+        "Pei-wei-chen",
+        "Beiwei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669797,
+        102191569,
+        85632695,
+        136253041,
+        890516977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1816531
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6e281e626e6c83ce32ad0b53768c6ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516977,
+            "empire_id":136253041,
+            "locality_id":1293378757,
+            "region_id":85669797
+        }
+    ],
+    "wof:id":1293378757,
+    "wof:lastmodified":1537594012,
+    "wof:name":"Beiwei",
+    "wof:parent_id":890516977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.45,
+    38.65,
+    116.45,
+    38.65
+],
+  "geometry": {"coordinates":[116.45,38.65],"type":"Point"}
+}

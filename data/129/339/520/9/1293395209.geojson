@@ -1,0 +1,75 @@
+{
+  "id": 1293395209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.2999,33.37781,119.2999,33.37781",
+    "geom:latitude":33.37781,
+    "geom:longitude":119.2999,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhuyuanzhuang",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8034878,
+    "gn:latitude":33.37781,
+    "gn:longitude":119.2999,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhuyuanzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Zhuyuanzhuang"
+    ],
+    "name:zho_x_variant":[
+        "\u7af9\u56ed\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        1108732465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8034878
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a79e5d226f0a10bf73dc77b55cc2ee05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732465,
+            "empire_id":136253041,
+            "locality_id":1293395209,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1293395209,
+    "wof:lastmodified":1537602219,
+    "wof:name":"Zhuyuanzhuang",
+    "wof:parent_id":1108732465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.2999,
+    33.37781,
+    119.2999,
+    33.37781
+],
+  "geometry": {"coordinates":[119.29989999999999,33.37781],"type":"Point"}
+}

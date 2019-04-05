@@ -1,0 +1,75 @@
+{
+  "id": 1209878625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.52117,40.79162,123.52117,40.79162",
+    "geom:latitude":40.79162,
+    "geom:longitude":123.52117,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Hancongshang",
+    "gn:country_code":"CN",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7404231,
+    "gn:latitude":40.79162,
+    "gn:longitude":123.52117,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Hancongshang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u61a8\u8471\u4e0a"
+    ],
+    "name:zho_x_preferred":[
+        "\u61a8\u8471\u4e0a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7404231
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"afdddc6f5b811e819569ea28c1c97226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514231,
+            "empire_id":136253041,
+            "locality_id":1209878625,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1209878625,
+    "wof:lastmodified":1537598900,
+    "wof:name":"Hancongshang",
+    "wof:parent_id":890514231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.52117,
+    40.79162,
+    123.52117,
+    40.79162
+],
+  "geometry": {"coordinates":[123.52117,40.79162],"type":"Point"}
+}

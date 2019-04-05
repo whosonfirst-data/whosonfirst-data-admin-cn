@@ -1,0 +1,87 @@
+{
+  "id": 1210011267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.76046,49.26767,125.76046,49.26767",
+    "geom:latitude":49.26767,
+    "geom:longitude":125.76046,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Keluo",
+    "gn:country_code":"CN",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2036306,
+    "gn:latitude":49.26767,
+    "gn:longitude":125.76046,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Keluo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u2019o-lo-chan",
+        "Kelochzhan",
+        "K\u2019o-lo-Tun",
+        "Xiangyang",
+        "K\u2019o-lo",
+        "Ko-ro",
+        "K\u2019o-lo-erh",
+        "K\u2019o-lo-ts\u2019un",
+        "Keluo",
+        "Keluo Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u6d1b"
+    ],
+    "name:zho_x_variant":[
+        "\u79d1\u6d1b\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        1108732555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2036306
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"67274b51552cd57c17684d40716c6099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732555,
+            "empire_id":136253041,
+            "locality_id":1210011267,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1210011267,
+    "wof:lastmodified":1537595765,
+    "wof:name":"Keluo",
+    "wof:parent_id":1108732555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.76046,
+    49.26767,
+    125.76046,
+    49.26767
+],
+  "geometry": {"coordinates":[125.76045999999999,49.26767],"type":"Point"}
+}

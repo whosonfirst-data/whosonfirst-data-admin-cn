@@ -1,0 +1,64 @@
+{
+  "id": 1209508689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.19306,25.3375,119.19306,25.3375",
+    "geom:latitude":25.3375,
+    "geom:longitude":119.19306,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Zhuzhuang",
+    "gn:country_code":"CN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1980369,
+    "gn:latitude":25.3375,
+    "gn:longitude":119.19306,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Zhuzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7af9\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1980369
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"17cd0bc05324d596e1acd4be4080ca2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209508689
+        }
+    ],
+    "wof:id":1209508689,
+    "wof:lastmodified":1537595159,
+    "wof:name":"Zhuzhuang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.19306,
+    25.3375,
+    119.19306,
+    25.3375
+],
+  "geometry": {"coordinates":[119.19306,25.3375],"type":"Point"}
+}

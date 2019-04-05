@@ -1,0 +1,77 @@
+{
+  "id": 1259429091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.33002,24.34421,115.33002,24.34421",
+    "geom:latitude":24.34421,
+    "geom:longitude":115.33002,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Lizui",
+    "gn:country_code":"CN",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1802714,
+    "gn:latitude":24.34421,
+    "gn:longitude":115.33002,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Lizui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Li-tsui",
+        "Li-tsui-shih",
+        "Lizui",
+        "\u9ece\u5480",
+        "Lizui Zhen",
+        "\u9ece\u5480\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890514179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1802714
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"eb78ea73fb68febd2d034d8c02c21230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514179,
+            "empire_id":136253041,
+            "locality_id":1259429091,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1259429091,
+    "wof:lastmodified":1537593145,
+    "wof:name":"Lizui",
+    "wof:parent_id":890514179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.33002,
+    24.34421,
+    115.33002,
+    24.34421
+],
+  "geometry": {"coordinates":[115.33002,24.34421],"type":"Point"}
+}

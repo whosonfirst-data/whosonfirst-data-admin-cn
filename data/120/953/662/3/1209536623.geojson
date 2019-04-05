@@ -1,0 +1,64 @@
+{
+  "id": 1209536623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.41651,27.12199,118.41651,27.12199",
+    "geom:latitude":27.12199,
+    "geom:longitude":118.41651,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ganyu",
+    "gn:country_code":"CN",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6906354,
+    "gn:latitude":27.12199,
+    "gn:longitude":118.41651,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ganyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7518\u756c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6906354
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c1357f0465a973d62d89175639fd7eee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209536623
+        }
+    ],
+    "wof:id":1209536623,
+    "wof:lastmodified":1537596669,
+    "wof:name":"Ganyu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.41651,
+    27.12199,
+    118.41651,
+    27.12199
+],
+  "geometry": {"coordinates":[118.41651,27.12199],"type":"Point"}
+}

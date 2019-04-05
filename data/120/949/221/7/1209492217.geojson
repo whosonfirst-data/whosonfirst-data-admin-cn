@@ -1,0 +1,64 @@
+{
+  "id": 1209492217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.86466,31.68878,111.86466,31.68878",
+    "geom:latitude":31.68878,
+    "geom:longitude":111.86466,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mashangou",
+    "gn:country_code":"CN",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8511555,
+    "gn:latitude":31.68878,
+    "gn:longitude":111.86466,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Mashangou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9a6c\u5c71\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8511555
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b0a16b5acc4de85beaade493a21ebce0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209492217
+        }
+    ],
+    "wof:id":1209492217,
+    "wof:lastmodified":1537604016,
+    "wof:name":"Mashangou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.86466,
+    31.68878,
+    111.86466,
+    31.68878
+],
+  "geometry": {"coordinates":[111.86466,31.68878],"type":"Point"}
+}

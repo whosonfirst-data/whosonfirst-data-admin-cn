@@ -1,0 +1,76 @@
+{
+  "id": 1343269069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.29949,28.17593,116.29949,28.17593",
+    "geom:latitude":28.17593,
+    "geom:longitude":116.29949,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yunshan",
+    "gn:country_code":"CN",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1785689,
+    "gn:latitude":28.17593,
+    "gn:longitude":116.29949,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yunshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00fcn-shan-shih",
+        "Yunshan",
+        "\u4e91\u5c71",
+        "Yunshan Zhen",
+        "\u4e91\u5c71\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669823,
+        102191569,
+        85632695,
+        136253041,
+        890516617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1785689
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ce0256d0539f5f487ca6f1955fc84c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516617,
+            "empire_id":136253041,
+            "locality_id":1343269069,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":1343269069,
+    "wof:lastmodified":1537592011,
+    "wof:name":"Yunshan",
+    "wof:parent_id":890516617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.29949,
+    28.17593,
+    116.29949,
+    28.17593
+],
+  "geometry": {"coordinates":[116.29949000000001,28.17593],"type":"Point"}
+}

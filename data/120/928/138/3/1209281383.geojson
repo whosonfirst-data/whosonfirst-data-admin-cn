@@ -1,0 +1,64 @@
+{
+  "id": 1209281383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.10306,37.63413,110.10306,37.63413",
+    "geom:latitude":37.63413,
+    "geom:longitude":110.10306,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Zhangshancun",
+    "gn:country_code":"CN",
+    "gn:dem":1041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11122727,
+    "gn:latitude":37.63413,
+    "gn:longitude":110.10306,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Zhangshancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5f20\u5c71\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11122727
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"66466bef51531c29208c91db24941075",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209281383
+        }
+    ],
+    "wof:id":1209281383,
+    "wof:lastmodified":1537615508,
+    "wof:name":"Zhangshancun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.10306,
+    37.63413,
+    110.10306,
+    37.63413
+],
+  "geometry": {"coordinates":[110.10306,37.63413],"type":"Point"}
+}

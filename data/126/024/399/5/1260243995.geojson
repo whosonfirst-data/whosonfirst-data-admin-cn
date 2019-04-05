@@ -1,0 +1,75 @@
+{
+  "id": 1260243995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.13901,40.41978,123.13901,40.41978",
+    "geom:latitude":40.41978,
+    "geom:longitude":123.13901,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shenhezi",
+    "gn:country_code":"CN",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7404389,
+    "gn:latitude":40.41978,
+    "gn:longitude":123.13901,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shenhezi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6c88\u6cb3\u5b50"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c88\u6cb3\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7404389
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"27a8a5003127fe5d336eb24b461c8060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514231,
+            "empire_id":136253041,
+            "locality_id":1260243995,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1260243995,
+    "wof:lastmodified":1537598913,
+    "wof:name":"Shenhezi",
+    "wof:parent_id":890514231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.13901,
+    40.41978,
+    123.13901,
+    40.41978
+],
+  "geometry": {"coordinates":[123.13901,40.41978],"type":"Point"}
+}

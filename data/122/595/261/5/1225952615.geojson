@@ -1,0 +1,69 @@
+{
+  "id": 1225952615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.495,30.68083,119.495,30.68083",
+    "geom:latitude":30.68083,
+    "geom:longitude":119.495,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Baiyang",
+    "gn:country_code":"CN",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1919168,
+    "gn:latitude":30.68083,
+    "gn:longitude":119.495,
+    "gn:modification_date":"2001-04-24",
+    "gn:name":"Baiyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1919168
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0510cb697a59b5b8ac4c3fbd4cbd48d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516975,
+            "empire_id":136253041,
+            "locality_id":1225952615,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1225952615,
+    "wof:lastmodified":1536858033,
+    "wof:name":"Baiyang",
+    "wof:parent_id":890516975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.495,
+    30.68083,
+    119.495,
+    30.68083
+],
+  "geometry": {"coordinates":[119.495,30.68083],"type":"Point"}
+}

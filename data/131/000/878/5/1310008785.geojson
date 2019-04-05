@@ -1,0 +1,80 @@
+{
+  "id": 1310008785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.41599,28.2107,120.41599,28.2107",
+    "geom:latitude":28.2107,
+    "geom:longitude":120.41599,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Huangtancun",
+    "gn:country_code":"CN",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1882886,
+    "gn:latitude":28.2107,
+    "gn:longitude":120.41599,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Huangtancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huang-ta",
+        "Huangtan",
+        "Huangtancun"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ec4\u5766"
+    ],
+    "name:zho_x_variant":[
+        "\u9ec4\u5766\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890514289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1882886
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"11b72795d106b3da67b6761204f04453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514289,
+            "empire_id":136253041,
+            "locality_id":1310008785,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1310008785,
+    "wof:lastmodified":1537594162,
+    "wof:name":"Huangtancun",
+    "wof:parent_id":890514289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.41599,
+    28.2107,
+    120.41599,
+    28.2107
+],
+  "geometry": {"coordinates":[120.41598999999999,28.2107],"type":"Point"}
+}

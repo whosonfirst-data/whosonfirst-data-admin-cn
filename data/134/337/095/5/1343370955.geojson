@@ -1,0 +1,77 @@
+{
+  "id": 1343370955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.77631,30.9527,119.77631,30.9527",
+    "geom:latitude":30.9527,
+    "geom:longitude":119.77631,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dayunsicun",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1813128,
+    "gn:latitude":30.9527,
+    "gn:longitude":119.77631,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dayunsicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dayunsi",
+        "\u5927\u4e91\u5bfa",
+        "Dayunsicun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u4e91\u5bfa\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1813128
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"393d46ba7775c8173efa4c931a11e2e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516975,
+            "empire_id":136253041,
+            "locality_id":1343370955,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1343370955,
+    "wof:lastmodified":1537593806,
+    "wof:name":"Dayunsicun",
+    "wof:parent_id":890516975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.77631,
+    30.9527,
+    119.77631,
+    30.9527
+],
+  "geometry": {"coordinates":[119.77631,30.9527],"type":"Point"}
+}

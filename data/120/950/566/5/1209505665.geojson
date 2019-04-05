@@ -1,0 +1,64 @@
+{
+  "id": 1209505665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.31903,47.43244,125.31903,47.43244",
+    "geom:latitude":47.43244,
+    "geom:longitude":125.31903,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Julong",
+    "gn:country_code":"CN",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8505488,
+    "gn:latitude":47.43244,
+    "gn:longitude":125.31903,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Julong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5de8\u9f99"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8505488
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"020bade691940af1861867f8bdc31e8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209505665
+        }
+    ],
+    "wof:id":1209505665,
+    "wof:lastmodified":1537603900,
+    "wof:name":"Julong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.31903,
+    47.43244,
+    125.31903,
+    47.43244
+],
+  "geometry": {"coordinates":[125.31903,47.43244],"type":"Point"}
+}

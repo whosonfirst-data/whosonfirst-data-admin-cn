@@ -1,0 +1,79 @@
+{
+  "id": 1243254021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.57782,44.62624,129.57782,44.62624",
+    "geom:latitude":44.62624,
+    "geom:longitude":129.57782,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bei'an",
+    "gn:country_code":"CN",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8527349,
+    "gn:latitude":44.62624,
+    "gn:longitude":129.57782,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Bei\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bei\u2019an",
+        "Bei\u2019an Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u5b89"
+    ],
+    "name:zho_x_variant":[
+        "\u5317\u5b89\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890515915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8527349
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9d75393d8e2b47ec178595e21e37ab6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515915,
+            "empire_id":136253041,
+            "locality_id":1243254021,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1243254021,
+    "wof:lastmodified":1537604336,
+    "wof:name":"Bei'an",
+    "wof:parent_id":890515915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.57782,
+    44.62624,
+    129.57782,
+    44.62624
+],
+  "geometry": {"coordinates":[129.57782,44.62624],"type":"Point"}
+}

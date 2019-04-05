@@ -1,0 +1,80 @@
+{
+  "id": 1276733217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.09127,31.59237,95.09127,31.59237",
+    "geom:latitude":31.59237,
+    "geom:longitude":95.09127,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Wakog",
+    "gn:country_code":"CN",
+    "gn:dem":3947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8078231,
+    "gn:latitude":31.59237,
+    "gn:longitude":95.09127,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Wakog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Wakog"
+    ],
+    "name:zho_x_preferred":[
+        "Wahe"
+    ],
+    "name:zho_x_variant":[
+        "\u74e6\u5408",
+        "Rimana",
+        "\u65e5\u739b\u7eb3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8078231
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e6152e085a0b0c90ab233dc3720bbadb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1276733217,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1276733217,
+    "wof:lastmodified":1537602551,
+    "wof:name":"Wakog",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.09127,
+    31.59237000000001,
+    95.09127,
+    31.59237000000001
+],
+  "geometry": {"coordinates":[95.09126999999999,31.59237000000001],"type":"Point"}
+}

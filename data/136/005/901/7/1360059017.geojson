@@ -1,0 +1,79 @@
+{
+  "id": 1360059017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.701,29.201,91.701,29.201",
+    "geom:latitude":29.201,
+    "geom:longitude":91.701,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Hongxing",
+    "gn:country_code":"CN",
+    "gn:dem":4635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8026387,
+    "gn:latitude":29.201,
+    "gn:longitude":91.701,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Hongxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Hongxing"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ea2\u661f"
+    ],
+    "name:zho_x_variant":[
+        "Yada",
+        "\u4e9a\u8fbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108794057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026387
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"486b5d6b7644304c9303db3275ab16cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794057,
+            "empire_id":136253041,
+            "locality_id":1360059017,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1360059017,
+    "wof:lastmodified":1537602166,
+    "wof:name":"Hongxing",
+    "wof:parent_id":1108794057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.701,
+    29.201,
+    91.701,
+    29.201
+],
+  "geometry": {"coordinates":[91.70099999999999,29.201],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1309976979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.8,29.7,89.8,29.7",
+    "geom:latitude":29.7,
+    "geom:longitude":89.8,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Doru",
+    "gn:country_code":"CN",
+    "gn:dem":4888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":7927713,
+    "gn:latitude":29.7,
+    "gn:longitude":89.8,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Doru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Doru"
+    ],
+    "name:zho_x_preferred":[
+        "Duru"
+    ],
+    "name:zho_x_variant":[
+        "\u675c\u5982",
+        "Yangmuri",
+        "\u592e\u6728\u65e5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7927713
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8d63a2f8725e8e005a046ef5cdff9051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1309976979,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1309976979,
+    "wof:lastmodified":1537602026,
+    "wof:name":"Doru",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.8,
+    29.7,
+    89.8,
+    29.7
+],
+  "geometry": {"coordinates":[89.8,29.7],"type":"Point"}
+}

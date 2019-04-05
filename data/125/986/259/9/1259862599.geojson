@@ -1,0 +1,86 @@
+{
+  "id": 1259862599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.902,27.902,85.902,27.902",
+    "geom:latitude":27.902,
+    "geom:longitude":85.902,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Goinbasarba",
+    "gn:country_code":"CN",
+    "gn:dem":2009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7931217,
+    "gn:latitude":27.902,
+    "gn:longitude":85.902,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Goinbasarba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Goinbasarba"
+    ],
+    "name:zho_x_preferred":[
+        "Gongbasaba"
+    ],
+    "name:zho_x_variant":[
+        "\u8d21\u5df4\u8428\u5df4",
+        "Lixin Gongshe",
+        "\u7acb\u65b0\u516c\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7931217
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1a3d3f3c7d0e46042c3ef1d3517d6c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1259862599,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1259862599,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1259862599,
+    "wof:lastmodified":1537602099,
+    "wof:name":"Goinbasarba",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.902,
+    27.902,
+    85.902,
+    27.902
+],
+  "geometry": {"coordinates":[85.902,27.902],"type":"Point"}
+}

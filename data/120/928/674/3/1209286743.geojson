@@ -1,0 +1,64 @@
+{
+  "id": 1209286743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.245,21.7978,107.245,21.7978",
+    "geom:latitude":21.7978,
+    "geom:longitude":107.245,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kutao",
+    "gn:country_code":"CN",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9904673,
+    "gn:latitude":21.7978,
+    "gn:longitude":107.245,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Kutao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u67af\u6843"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9904673
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"395b3daf916c277a2b2314f3afd2fc5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209286743
+        }
+    ],
+    "wof:id":1209286743,
+    "wof:lastmodified":1537606906,
+    "wof:name":"Kutao",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.245,
+    21.7978,
+    107.245,
+    21.7978
+],
+  "geometry": {"coordinates":[107.245,21.7978],"type":"Point"}
+}

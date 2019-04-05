@@ -1,0 +1,76 @@
+{
+  "id": 1309752597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.98502,24.78798,115.98502,24.78798",
+    "geom:latitude":24.78798,
+    "geom:longitude":115.98502,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Shangju",
+    "gn:country_code":"CN",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1919280,
+    "gn:latitude":24.78798,
+    "gn:longitude":115.98502,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Shangju",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shangju Zhen",
+        "\u4e0a\u4e3e\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u4e3e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890516561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1919280
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"709d1224043b8b677d00af46babdd9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516561,
+            "empire_id":136253041,
+            "locality_id":1309752597,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1309752597,
+    "wof:lastmodified":1537594811,
+    "wof:name":"Shangju",
+    "wof:parent_id":890516561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.98502,
+    24.78798,
+    115.98502,
+    24.78798
+],
+  "geometry": {"coordinates":[115.98502000000001,24.78798],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242652161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.87292,40.39971,122.87292,40.39971",
+    "geom:latitude":40.39971,
+    "geom:longitude":122.87292,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Luwang",
+    "gn:country_code":"CN",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2035897,
+    "gn:latitude":40.39971,
+    "gn:longitude":122.87292,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"L\u00fcwang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00fcwang",
+        "\u5415\u738b",
+        "L\u00fcwang Zhen",
+        "\u5415\u738b\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2035897
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"af81211c9373ec35975706ac56ffc6df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732495,
+            "empire_id":136253041,
+            "locality_id":1242652161,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1242652161,
+    "wof:lastmodified":1537595742,
+    "wof:name":"Luwang",
+    "wof:parent_id":1108732495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.87292,
+    40.39971,
+    122.87292,
+    40.39971
+],
+  "geometry": {"coordinates":[122.87291999999999,40.39971],"type":"Point"}
+}

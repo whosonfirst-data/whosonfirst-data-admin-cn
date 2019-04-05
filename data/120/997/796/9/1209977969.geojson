@@ -1,0 +1,77 @@
+{
+  "id": 1209977969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.10556,39.62222,117.10556,39.62222",
+    "geom:latitude":39.62222,
+    "geom:longitude":117.10556,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Zhongyingcun",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1784226,
+    "gn:latitude":39.62222,
+    "gn:longitude":117.10556,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhongyingcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Changying",
+        "Zhongying",
+        "Chung-ying",
+        "Chung-ying-ts\u2019un",
+        "Zhongyingcun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669797,
+        102191569,
+        85632695,
+        136253041,
+        890516977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1784226
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4fa62f099c3f4b8d1fbb2b112de0f805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516977,
+            "empire_id":136253041,
+            "locality_id":1209977969,
+            "region_id":85669797
+        }
+    ],
+    "wof:id":1209977969,
+    "wof:lastmodified":1537591911,
+    "wof:name":"Zhongyingcun",
+    "wof:parent_id":890516977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.10556,
+    39.62222,
+    117.10556,
+    39.62222
+],
+  "geometry": {"coordinates":[117.10556,39.62222],"type":"Point"}
+}

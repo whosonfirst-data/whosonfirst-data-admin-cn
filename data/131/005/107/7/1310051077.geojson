@@ -1,0 +1,76 @@
+{
+  "id": 1310051077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.81985,32.3116,106.81985,32.3116",
+    "geom:latitude":32.3116,
+    "geom:longitude":106.81985,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Dongyu",
+    "gn:country_code":"CN",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":7020019,
+    "gn:latitude":32.3116,
+    "gn:longitude":106.81985,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dongyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dongyu Zhen",
+        "\u4e1c\u6986\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u6986"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        1108732413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7020019
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"95126bb4e5cbc0b0594403091a5c81fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732413,
+            "empire_id":136253041,
+            "locality_id":1310051077,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1310051077,
+    "wof:lastmodified":1537597451,
+    "wof:name":"Dongyu",
+    "wof:parent_id":1108732413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.81985,
+    32.3116,
+    106.81985,
+    32.3116
+],
+  "geometry": {"coordinates":[106.81985,32.3116],"type":"Point"}
+}

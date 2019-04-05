@@ -1,0 +1,76 @@
+{
+  "id": 1260387299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.85003,41.84004,125.85003,41.84004",
+    "geom:latitude":41.84004,
+    "geom:longitude":125.85003,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tongshanjie",
+    "gn:country_code":"CN",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2035884,
+    "gn:latitude":41.84004,
+    "gn:longitude":125.85003,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tongshanjie",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u94dc\u5c71\u8857",
+        "Madang",
+        "Madang Zhen",
+        "\u9a6c\u5f53",
+        "\u9a6c\u5f53\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669843,
+        102191569,
+        85632695,
+        136253041,
+        890516249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2035884
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0e5083c4a904290e91bafe41c8cb697f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516249,
+            "empire_id":136253041,
+            "locality_id":1260387299,
+            "region_id":85669843
+        }
+    ],
+    "wof:id":1260387299,
+    "wof:lastmodified":1537595741,
+    "wof:name":"Tongshanjie",
+    "wof:parent_id":890516249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.85003,
+    41.84004,
+    125.85003,
+    41.84004
+],
+  "geometry": {"coordinates":[125.85003,41.84004],"type":"Point"}
+}

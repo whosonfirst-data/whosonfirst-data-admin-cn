@@ -1,0 +1,80 @@
+{
+  "id": 1243375639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.56488,29.59747,121.56488,29.59747",
+    "geom:latitude":29.59747,
+    "geom:longitude":121.56488,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Maotoucun",
+    "gn:country_code":"CN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1887150,
+    "gn:latitude":29.59747,
+    "gn:longitude":121.56488,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Maotoucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maotou",
+        "\u5192\u5934",
+        "Maotoucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5192\u5934"
+    ],
+    "name:zho_x_variant":[
+        "\u5192\u5934\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1887150
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ea6d146f560adabd4f5e8177283588b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516553,
+            "empire_id":136253041,
+            "locality_id":1243375639,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1243375639,
+    "wof:lastmodified":1537594227,
+    "wof:name":"Maotoucun",
+    "wof:parent_id":890516553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.56488,
+    29.59747,
+    121.56488,
+    29.59747
+],
+  "geometry": {"coordinates":[121.56488,29.59747],"type":"Point"}
+}

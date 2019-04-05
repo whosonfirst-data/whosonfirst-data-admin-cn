@@ -1,0 +1,78 @@
+{
+  "id": 1343454475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.16724,25.2678,119.16724,25.2678",
+    "geom:latitude":25.2678,
+    "geom:longitude":119.16724,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dongjiao",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8574010,
+    "gn:latitude":25.2678,
+    "gn:longitude":119.16724,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Dongjiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dongjiao Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u5ce4"
+    ],
+    "name:zho_x_variant":[
+        "\u4e1c\u5ce4\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8574010
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8b2db7c1ad727f91da40d08d5d441654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516865,
+            "empire_id":136253041,
+            "locality_id":1343454475,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1343454475,
+    "wof:lastmodified":1537604667,
+    "wof:name":"Dongjiao",
+    "wof:parent_id":890516865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.16724,
+    25.2678,
+    119.16724,
+    25.2678
+],
+  "geometry": {"coordinates":[119.16724000000001,25.2678],"type":"Point"}
+}

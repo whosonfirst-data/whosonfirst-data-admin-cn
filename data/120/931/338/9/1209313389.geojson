@@ -1,0 +1,64 @@
+{
+  "id": 1209313389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.85634,41.53317,125.85634,41.53317",
+    "geom:latitude":41.53317,
+    "geom:longitude":125.85634,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Damiao",
+    "gn:country_code":"CN",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7554823,
+    "gn:latitude":41.53317,
+    "gn:longitude":125.85634,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Damiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5927\u5e99"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7554823
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"dbee1831f000c28d94a027d863a70fd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209313389
+        }
+    ],
+    "wof:id":1209313389,
+    "wof:lastmodified":1537600062,
+    "wof:name":"Damiao",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.85634,
+    41.53317,
+    125.85634,
+    41.53317
+],
+  "geometry": {"coordinates":[125.85634,41.53317],"type":"Point"}
+}

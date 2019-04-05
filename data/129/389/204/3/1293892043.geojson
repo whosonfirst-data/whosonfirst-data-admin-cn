@@ -1,0 +1,77 @@
+{
+  "id": 1293892043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.93884,28.3515,119.93884,28.3515",
+    "geom:latitude":28.3515,
+    "geom:longitude":119.93884,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Fuyicun",
+    "gn:country_code":"CN",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1810832,
+    "gn:latitude":28.3515,
+    "gn:longitude":119.93884,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Fuyicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fu-i",
+        "Fuyi",
+        "Fuyicun"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d6e\u5f0b\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1810832
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"012b218f926b8537043c04733e444c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516399,
+            "empire_id":136253041,
+            "locality_id":1293892043,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1293892043,
+    "wof:lastmodified":1537593666,
+    "wof:name":"Fuyicun",
+    "wof:parent_id":890516399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.93883999999998,
+    28.3515,
+    119.93883999999998,
+    28.3515
+],
+  "geometry": {"coordinates":[119.93883999999998,28.3515],"type":"Point"}
+}

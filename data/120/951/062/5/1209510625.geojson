@@ -1,0 +1,64 @@
+{
+  "id": 1209510625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.01193,35.92416,115.01193,35.92416",
+    "geom:latitude":35.92416,
+    "geom:longitude":115.01193,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Yanghan",
+    "gn:country_code":"CN",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9181324,
+    "gn:latitude":35.92416,
+    "gn:longitude":115.01193,
+    "gn:modification_date":"2014-07-10",
+    "gn:name":"Yanghan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6768\u97e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9181324
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d717b62f36efbfb3d533668e3c54c0cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209510625
+        }
+    ],
+    "wof:id":1209510625,
+    "wof:lastmodified":1537605766,
+    "wof:name":"Yanghan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.01193,
+    35.92416,
+    115.01193,
+    35.92416
+],
+  "geometry": {"coordinates":[115.01193000000001,35.92416],"type":"Point"}
+}

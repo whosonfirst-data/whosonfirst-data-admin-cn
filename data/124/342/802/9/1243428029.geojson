@@ -1,0 +1,80 @@
+{
+  "id": 1243428029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.901,30.901,87.901,30.901",
+    "geom:latitude":30.901,
+    "geom:longitude":87.901,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Quchari",
+    "gn:country_code":"CN",
+    "gn:dem":4783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8049429,
+    "gn:latitude":30.901,
+    "gn:longitude":87.901,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Quchari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Quchari"
+    ],
+    "name:zho_x_preferred":[
+        "Quzeli"
+    ],
+    "name:zho_x_variant":[
+        "\u66f2\u5219\u91cc",
+        "Luren",
+        "\u9c81\u4ec1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8049429
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c286a3f46d58e3d686fd6466f37446b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1243428029,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1243428029,
+    "wof:lastmodified":1537602446,
+    "wof:name":"Quchari",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.90100000000002,
+    30.901,
+    87.90100000000002,
+    30.901
+],
+  "geometry": {"coordinates":[87.90100000000002,30.901],"type":"Point"}
+}

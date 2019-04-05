@@ -1,0 +1,77 @@
+{
+  "id": 1226709511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.11376,30.0847,103.11376,30.0847",
+    "geom:latitude":30.0847,
+    "geom:longitude":103.11376,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Mengyang",
+    "gn:country_code":"CN",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLS",
+    "gn:geonameid":1800678,
+    "gn:latitude":30.0847,
+    "gn:longitude":103.11376,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mengyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mingshan",
+        "Ming-shan-hsien",
+        "Mengyang"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u9633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        1108732541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1800678
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"15c442262e68da35f2bb439097e2b0f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732541,
+            "empire_id":136253041,
+            "locality_id":1226709511,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1226709511,
+    "wof:lastmodified":1537593001,
+    "wof:name":"Mengyang",
+    "wof:parent_id":1108732541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.11376,
+    30.0847,
+    103.11376,
+    30.0847
+],
+  "geometry": {"coordinates":[103.11376,30.0847],"type":"Point"}
+}

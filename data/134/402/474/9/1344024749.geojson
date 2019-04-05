@@ -1,0 +1,76 @@
+{
+  "id": 1344024749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9254,32.90119,105.9254,32.90119",
+    "geom:latitude":32.90119,
+    "geom:longitude":105.9254,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Yanzibian",
+    "gn:country_code":"CN",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1787020,
+    "gn:latitude":32.90119,
+    "gn:longitude":105.9254,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yanzibian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yen-tzu-pien",
+        "Yanzibian",
+        "\u71d5\u5b50\u782d",
+        "Yanzibian Zhen",
+        "\u71d5\u5b50\u782d\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1787020
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b7352c854d30b5c0c5b1eb71d5c02622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515099,
+            "empire_id":136253041,
+            "locality_id":1344024749,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1344024749,
+    "wof:lastmodified":1537592099,
+    "wof:name":"Yanzibian",
+    "wof:parent_id":890515099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9254,
+    32.90119,
+    105.9254,
+    32.90119
+],
+  "geometry": {"coordinates":[105.9254,32.90119],"type":"Point"}
+}

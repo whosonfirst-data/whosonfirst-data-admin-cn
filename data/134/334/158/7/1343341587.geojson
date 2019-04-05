@@ -1,0 +1,75 @@
+{
+  "id": 1343341587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.37856,29.69645,110.37856,29.69645",
+    "geom:latitude":29.69645,
+    "geom:longitude":110.37856,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mahuangxi",
+    "gn:country_code":"CN",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8015752,
+    "gn:latitude":29.69645,
+    "gn:longitude":110.37856,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mahuangxi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Mahuangxi"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u9ec4\u6eaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8015752
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ac3ee30319dc5f0d3fd49fc6527f2d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732427,
+            "empire_id":136253041,
+            "locality_id":1343341587,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1343341587,
+    "wof:lastmodified":1537602113,
+    "wof:name":"Mahuangxi",
+    "wof:parent_id":1108732427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.37856,
+    29.69645,
+    110.37856,
+    29.69645
+],
+  "geometry": {"coordinates":[110.37855999999999,29.69645],"type":"Point"}
+}

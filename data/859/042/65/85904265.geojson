@@ -1,0 +1,107 @@
+{
+  "id": 85904265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000068,
+    "geom:area_square_m":644156.62958,
+    "geom:bbox":"116.371872082,39.8833838528,116.383666992,39.8928798922",
+    "geom:latitude":39.887769,
+    "geom:longitude":116.378082,
+    "gn:id":"",
+    "iso:country":"CN",
+    "lbl:latitude":39.887551,
+    "lbl:longitude":116.37859,
+    "mps:latitude":39.887654,
+    "mps:longitude":116.378194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Luomashidajie"
+    ],
+    "name:unk_x_variant":[
+        "Luomashidajie"
+    ],
+    "qs:gn_adm0_cc":"CN",
+    "qs:gn_id":0,
+    "qs:gn_local":1816670,
+    "qs:local_max":27927,
+    "qs:local_sum":297141,
+    "qs:localhoods":105,
+    "qs:name":"Luomashidajie",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u5317\u4eac\u76f4\u8f96\u5e02",
+    "qs:name_adm2":"\u5317\u4eac",
+    "qs:name_lau":"\u4e1c\u57ce\u533a",
+    "qs:name_local":"\u5317\u4eac",
+    "qs:photo_max":151,
+    "qs:photo_sum":465,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424781,
+    "qs:woe_adm1":12578011,
+    "qs:woe_adm2":12686916,
+    "qs:woe_lau":56043478,
+    "qs:woe_local":2151330,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632695,
+        102027745,
+        136253041,
+        1108732371,
+        85669727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12906636,
+        "qs:id":430812,
+        "qs_pg:id":430812
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"125d76851b2bff3c980dc28b53e8a3f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732371,
+            "empire_id":136253041,
+            "locality_id":102027745,
+            "neighbourhood_id":85904265,
+            "region_id":85669727
+        }
+    ],
+    "wof:id":85904265,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269154,
+    "wof:name":"Luomashidajie",
+    "wof:parent_id":102027745,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.37187208212,
+    39.883383852811,
+    116.383666992,
+    39.8928798922
+],
+  "geometry": {"coordinates":[[[116.38092041,39.8865576924],[116.38092041,39.884450172038],[116.378173828,39.884450172449],[116.37735560714,39.883383852811],[116.375427246,39.884221522976],[116.37349888487,39.883383852811],[116.37268065971,39.884450174905],[116.37187208212001,39.885503909675],[116.372680664,39.88655769915],[116.372680664,39.888665159365],[116.375427246,39.888665162638],[116.375427246,39.890772557536],[116.378173828,39.890772560819],[116.378173828,39.8928798922],[116.38092041,39.8928798868],[116.38092041,39.890772560819],[116.383666992,39.890772557536],[116.383666992,39.888665160713],[116.383666992,39.886557699729],[116.38092041,39.8865576924]]],"type":"Polygon"}
+}

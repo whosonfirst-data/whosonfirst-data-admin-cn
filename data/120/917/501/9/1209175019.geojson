@@ -1,0 +1,64 @@
+{
+  "id": 1209175019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.057,23.8358,101.057,23.8358",
+    "geom:latitude":23.8358,
+    "geom:longitude":101.057,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Yangmao",
+    "gn:country_code":"CN",
+    "gn:dem":2078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9932012,
+    "gn:latitude":23.8358,
+    "gn:longitude":101.057,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Yangmao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7f8a\u6bdb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9932012
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f64815df83c265e0962db6ed8b8283ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209175019
+        }
+    ],
+    "wof:id":1209175019,
+    "wof:lastmodified":1537607707,
+    "wof:name":"Yangmao",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.057,
+    23.8358,
+    101.057,
+    23.8358
+],
+  "geometry": {"coordinates":[101.057,23.8358],"type":"Point"}
+}

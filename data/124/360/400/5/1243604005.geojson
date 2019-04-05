@@ -1,0 +1,78 @@
+{
+  "id": 1243604005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.20728,22.31865,113.20728,22.31865",
+    "geom:latitude":22.31865,
+    "geom:longitude":113.20728,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Lianzhou",
+    "gn:country_code":"CN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8333961,
+    "gn:latitude":22.31865,
+    "gn:longitude":113.20728,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Lianzhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lianzhou Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u83b2\u6d32"
+    ],
+    "name:zho_x_variant":[
+        "\u83b2\u6d32\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890516343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8333961
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"97d5c100c50db752592fc2e216125e91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516343,
+            "empire_id":136253041,
+            "locality_id":1243604005,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1243604005,
+    "wof:lastmodified":1537602937,
+    "wof:name":"Lianzhou",
+    "wof:parent_id":890516343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.20728,
+    22.31865,
+    113.20728,
+    22.31865
+],
+  "geometry": {"coordinates":[113.20728,22.31865],"type":"Point"}
+}

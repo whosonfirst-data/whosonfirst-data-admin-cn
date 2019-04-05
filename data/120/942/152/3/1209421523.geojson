@@ -1,0 +1,64 @@
+{
+  "id": 1209421523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.303,28.317,114.303,28.317",
+    "geom:latitude":28.317,
+    "geom:longitude":114.303,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Xujiaguo",
+    "gn:country_code":"CN",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9876895,
+    "gn:latitude":28.317,
+    "gn:longitude":114.303,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Xujiaguo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8bb8\u5bb6\u57da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9876895
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d05e33fbf9ff01dc4938f001d8ee2ec9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209421523
+        }
+    ],
+    "wof:id":1209421523,
+    "wof:lastmodified":1537606508,
+    "wof:name":"Xujiaguo",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.303,
+    28.317,
+    114.303,
+    28.317
+],
+  "geometry": {"coordinates":[114.303,28.317],"type":"Point"}
+}

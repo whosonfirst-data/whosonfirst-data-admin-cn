@@ -1,0 +1,64 @@
+{
+  "id": 1209180099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.464,25.7549,104.464,25.7549",
+    "geom:latitude":25.7549,
+    "geom:longitude":104.464,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Maozhenying",
+    "gn:country_code":"CN",
+    "gn:dem":1677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10004017,
+    "gn:latitude":25.7549,
+    "gn:longitude":104.464,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Maozhenying",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6bdb\u9635\u8425"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10004017
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ec4c4269888b8c4ed1a07265b30807d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209180099
+        }
+    ],
+    "wof:id":1209180099,
+    "wof:lastmodified":1537608719,
+    "wof:name":"Maozhenying",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.464,
+    25.7549,
+    104.464,
+    25.7549
+],
+  "geometry": {"coordinates":[104.464,25.7549],"type":"Point"}
+}

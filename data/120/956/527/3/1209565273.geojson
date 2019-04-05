@@ -1,0 +1,64 @@
+{
+  "id": 1209565273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.06653,20.36927,110.06653,20.36927",
+    "geom:latitude":20.36927,
+    "geom:longitude":110.06653,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Nazhong",
+    "gn:country_code":"CN",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10651439,
+    "gn:latitude":20.36927,
+    "gn:longitude":110.06653,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Nazhong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u90a3\u79cd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10651439
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e2b444ae424d9dc420b2ac0037b4d6a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209565273
+        }
+    ],
+    "wof:id":1209565273,
+    "wof:lastmodified":1537614104,
+    "wof:name":"Nazhong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.06653,
+    20.36927,
+    110.06653,
+    20.36927
+],
+  "geometry": {"coordinates":[110.06653,20.36927],"type":"Point"}
+}

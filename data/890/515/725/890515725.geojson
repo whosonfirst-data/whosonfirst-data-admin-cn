@@ -1,0 +1,79 @@
+{
+  "id": 890515725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.59961,27.93557,109.59961,27.93557",
+    "geom:latitude":27.93557,
+    "geom:longitude":109.59961,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":370000,
+    "gp:adm0":23424781,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0424\u0435\u043d\u0445\u0443\u0430\u043d\u044c"
+    ],
+    "qs:name":"\u51e4\u51f0",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u6e56\u5357\u7701",
+    "qs:photos":3688,
+    "qs:photos_1k":747,
+    "qs:photos_9k":16,
+    "qs:photos_9r":12,
+    "qs:photos_all":3688,
+    "qs:photos_sr":21,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        1108794059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7304020,
+        "gp:id":2142757,
+        "qs:id":1170625
+    },
+    "wof:country":"CN",
+    "wof:created":1469055928,
+    "wof:geomhash":"745a46c95f5810c2b82b5cfef20e5583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794059,
+            "empire_id":136253041,
+            "locality_id":890515725,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":890515725,
+    "wof:lastmodified":1505343899,
+    "wof:name":"\u51e4\u51f0",
+    "wof:parent_id":1108794059,
+    "wof:placetype":"locality",
+    "wof:population":370000,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.59961,
+    27.93557,
+    109.59961,
+    27.93557
+],
+  "geometry": {"coordinates":[109.59961,27.93557],"type":"Point"}
+}

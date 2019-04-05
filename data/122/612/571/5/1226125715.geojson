@@ -1,0 +1,80 @@
+{
+  "id": 1226125715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.603,28.003,87.603,28.003",
+    "geom:latitude":28.003,
+    "geom:longitude":87.603,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Samzhog",
+    "gn:country_code":"CN",
+    "gn:dem":5245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8049963,
+    "gn:latitude":28.003,
+    "gn:longitude":87.603,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Samzhog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Samzhog"
+    ],
+    "name:zho_x_preferred":[
+        "Sangzhuo"
+    ],
+    "name:zho_x_variant":[
+        "\u6851\u5353",
+        "Lula",
+        "\u5362\u814a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8049963
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5ef619f313b0fa1ca40853edf78e077e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1226125715,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226125715,
+    "wof:lastmodified":1537602472,
+    "wof:name":"Samzhog",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.603,
+    28.003,
+    87.603,
+    28.003
+],
+  "geometry": {"coordinates":[87.60299999999999,28.003],"type":"Point"}
+}

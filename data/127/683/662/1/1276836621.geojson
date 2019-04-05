@@ -1,0 +1,78 @@
+{
+  "id": 1276836621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.02472,32.89444,107.02472,32.89444",
+    "geom:latitude":32.89444,
+    "geom:longitude":107.02472,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Moujiaba",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1800368,
+    "gn:latitude":32.89444,
+    "gn:longitude":107.02472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Moujiaba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moutszyaba",
+        "Mukiaipa",
+        "Mou-chia-pa",
+        "Mu-chu-pa",
+        "Mukiapa",
+        "Moujiaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1800368
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ddd3495334f286cc8a8e4208341b5dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515099,
+            "empire_id":136253041,
+            "locality_id":1276836621,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1276836621,
+    "wof:lastmodified":1537592982,
+    "wof:name":"Moujiaba",
+    "wof:parent_id":890515099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.02472,
+    32.89444,
+    107.02472,
+    32.89444
+],
+  "geometry": {"coordinates":[107.02472,32.89444],"type":"Point"}
+}

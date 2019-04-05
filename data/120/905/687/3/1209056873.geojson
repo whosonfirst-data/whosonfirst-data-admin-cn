@@ -1,0 +1,64 @@
+{
+  "id": 1209056873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.544,25.7167,101.544,25.7167",
+    "geom:latitude":25.7167,
+    "geom:longitude":101.544,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Zhibeini",
+    "gn:country_code":"CN",
+    "gn:dem":1785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10151006,
+    "gn:latitude":25.7167,
+    "gn:longitude":101.544,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Zhibeini",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6307\u7891\u6ce5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10151006
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"90433f4044abdc7908bfe5afca057b7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209056873
+        }
+    ],
+    "wof:id":1209056873,
+    "wof:lastmodified":1537610474,
+    "wof:name":"Zhibeini",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.544,
+    25.7167,
+    101.544,
+    25.7167
+],
+  "geometry": {"coordinates":[101.544,25.7167],"type":"Point"}
+}

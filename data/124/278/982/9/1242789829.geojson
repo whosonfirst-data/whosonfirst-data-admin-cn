@@ -1,0 +1,76 @@
+{
+  "id": 1242789829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.48511,30.14072,120.48511,30.14072",
+    "geom:latitude":30.14072,
+    "geom:longitude":120.48511,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Anchang",
+    "gn:country_code":"CN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1818113,
+    "gn:latitude":30.14072,
+    "gn:longitude":120.48511,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Anchang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An-ch\u2019ang-shih",
+        "Anchang",
+        "\u5b89\u660c",
+        "Anchang Zhen",
+        "\u5b89\u660c\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890513785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818113
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0ce4f9362d1d05080193ace75e5ac1b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513785,
+            "empire_id":136253041,
+            "locality_id":1242789829,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1242789829,
+    "wof:lastmodified":1537594116,
+    "wof:name":"Anchang",
+    "wof:parent_id":890513785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.48511,
+    30.14072,
+    120.48511,
+    30.14072
+],
+  "geometry": {"coordinates":[120.48511000000001,30.14072],"type":"Point"}
+}

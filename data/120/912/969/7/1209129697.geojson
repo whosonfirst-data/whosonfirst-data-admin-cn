@@ -1,0 +1,64 @@
+{
+  "id": 1209129697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.083,33.9841,118.083,33.9841",
+    "geom:latitude":33.9841,
+    "geom:longitude":118.083,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Liangzhong",
+    "gn:country_code":"CN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11090058,
+    "gn:latitude":33.9841,
+    "gn:longitude":118.083,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Liangzhong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u826f\u79cd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11090058
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7ac77070549a68df22c3a5fde3844e93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209129697
+        }
+    ],
+    "wof:id":1209129697,
+    "wof:lastmodified":1537615350,
+    "wof:name":"Liangzhong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.083,
+    33.9841,
+    118.083,
+    33.9841
+],
+  "geometry": {"coordinates":[118.083,33.9841],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209169029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.50344,33.39538,109.50344,33.39538",
+    "geom:latitude":33.39538,
+    "geom:longitude":109.50344,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Lianchicun",
+    "gn:country_code":"CN",
+    "gn:dem":958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11337753,
+    "gn:latitude":33.39538,
+    "gn:longitude":109.50344,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Lianchicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u83b2\u6c60\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11337753
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e1c60679ffc49bad103526b91ddf8465",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209169029
+        }
+    ],
+    "wof:id":1209169029,
+    "wof:lastmodified":1537616212,
+    "wof:name":"Lianchicun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.50344,
+    33.39538,
+    109.50344,
+    33.39538
+],
+  "geometry": {"coordinates":[109.50344,33.39538],"type":"Point"}
+}

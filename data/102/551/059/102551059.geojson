@@ -1,0 +1,97 @@
+{
+  "id": 102551059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.776666667,25.8516666667,114.776666667,25.8516666667",
+    "geom:latitude":25.851667,
+    "geom:longitude":114.776667,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0642\u0627\u0646\u062a\u0634\u0648 \u0647\u0648\u0627\u0646\u062a\u0634\u064a\u0646"
+    ],
+    "name:eus_x_preferred":[
+        "Ganzhou aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0627\u0646\u0698\u0648 \u0647\u0648\u0627\u0646\u06af\u0698\u06cc\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Ganzhou Huangjinin lentoasema"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Ganzhou Huangjin"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Ganzhou-Huangjin"
+    ],
+    "name:swe_x_preferred":[
+        "Ganzhou Huangjin Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0433\u043e\u043d\u0436\u0443 \u04b3\u0443\u043e\u043d\u0433\u0436\u0438\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Ho\u00e0ng Kim C\u00e1m Ch\u00e2u"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d63\u5dde\u9ec4\u91d1\u673a\u573a"
+    ],
+    "oa:elevation_ft":"387",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":263,
+    "woe:hierarchy":{
+        "country_id":23424781,
+        "county_id":26198152,
+        "localadmin_id":12685478,
+        "planet_id":1,
+        "state_id":12577993
+    },
+    "wof:belongsto":[
+        85632695,
+        85669823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512054,
+        "iata:code":"KOW",
+        "icao:code":"ZSGZ",
+        "oa:id":"31769",
+        "wd:id":"Q1937973"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fdb9fba77a8ff70077ee9524a9f663bd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551059,
+            "country_id":85632695,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":102551059,
+    "wof:lastmodified":1543792155,
+    "wof:name":"Ganzhou Airport",
+    "wof:parent_id":85669823,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    114.77666666667,
+    25.851666666667,
+    114.77666666667,
+    25.851666666667
+],
+  "geometry": {"coordinates":[114.77666666667,25.851666666667],"type":"Point"}
+}

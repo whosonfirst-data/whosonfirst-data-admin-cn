@@ -1,0 +1,64 @@
+{
+  "id": 1209538165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.60345,42.911,125.60345,42.911",
+    "geom:latitude":42.911,
+    "geom:longitude":125.60345,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Fengyangcun",
+    "gn:country_code":"CN",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10967089,
+    "gn:latitude":42.911,
+    "gn:longitude":125.60345,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Fengyangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u51e4\u9633\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10967089
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8ca91c4b4d5898558aa6b684f65defb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209538165
+        }
+    ],
+    "wof:id":1209538165,
+    "wof:lastmodified":1537615011,
+    "wof:name":"Fengyangcun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.60345,
+    42.911,
+    125.60345,
+    42.911
+],
+  "geometry": {"coordinates":[125.60345,42.911],"type":"Point"}
+}

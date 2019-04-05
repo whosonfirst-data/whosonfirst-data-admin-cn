@@ -1,0 +1,78 @@
+{
+  "id": 1260136223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.03647,31.04993,121.03647,31.04993",
+    "geom:latitude":31.04993,
+    "geom:longitude":121.03647,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Zhuzhuang",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7843630,
+    "gn:latitude":31.04993,
+    "gn:longitude":121.03647,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhuzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6731\u5e84"
+    ],
+    "name:zho_x_preferred":[
+        "Zhujiazhuang"
+    ],
+    "name:zho_x_variant":[
+        "\u6731\u5bb6\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669831,
+        102191569,
+        85632695,
+        136253041,
+        890514815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7843630
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0baaf7288f1fc3aa859120329e0960e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514815,
+            "empire_id":136253041,
+            "locality_id":1260136223,
+            "region_id":85669831
+        }
+    ],
+    "wof:id":1260136223,
+    "wof:lastmodified":1537601640,
+    "wof:name":"Zhuzhuang",
+    "wof:parent_id":890514815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.03647,
+    31.04993,
+    121.03647,
+    31.04993
+],
+  "geometry": {"coordinates":[121.03646999999999,31.04993],"type":"Point"}
+}

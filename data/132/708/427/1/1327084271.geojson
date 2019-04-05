@@ -1,0 +1,76 @@
+{
+  "id": 1327084271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.16133,22.35245,112.16133,22.35245",
+    "geom:latitude":22.35245,
+    "geom:longitude":112.16133,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Shuangyuecun",
+    "gn:country_code":"CN",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1913587,
+    "gn:latitude":22.35245,
+    "gn:longitude":112.16133,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shuangyuecun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shuangyue",
+        "Shuangyuecun"
+    ],
+    "name:zho_x_preferred":[
+        "\u53cc\u60a6\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890514609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1913587
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f75c502c53371f83f38792221883ff5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514609,
+            "empire_id":136253041,
+            "locality_id":1327084271,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1327084271,
+    "wof:lastmodified":1537594633,
+    "wof:name":"Shuangyuecun",
+    "wof:parent_id":890514609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.16133,
+    22.35245,
+    112.16133,
+    22.35245
+],
+  "geometry": {"coordinates":[112.16133000000001,22.35245],"type":"Point"}
+}

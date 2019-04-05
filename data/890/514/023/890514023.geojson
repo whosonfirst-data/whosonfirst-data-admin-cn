@@ -1,0 +1,79 @@
+{
+  "id": 890514023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.08778,28.23972,113.08778,28.23972",
+    "geom:latitude":28.23972,
+    "geom:longitude":113.08778,
+    "gn:country":"CN",
+    "gn:fcode":"PPLA3",
+    "gn:pop":0,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Changsha Xian"
+    ],
+    "name:zho_x_preferred":[
+        "\u661f\u6c99"
+    ],
+    "name:zho_x_variant":[
+        "\u957f\u6c99\u53bf"
+    ],
+    "qs:name":"Xingsha",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890513085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1927332,
+        "gp:id":20251551,
+        "qs:id":372606,
+        "wd:id":"Q8044564",
+        "wk:page":"Xingsha Subdistrict"
+    },
+    "wof:country":"CN",
+    "wof:created":1469055844,
+    "wof:geomhash":"e1efaac35000ddd9bafc3bfed1772c62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513085,
+            "empire_id":136253041,
+            "locality_id":890514023,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":890514023,
+    "wof:lastmodified":1527793055,
+    "wof:name":"Xingsha",
+    "wof:parent_id":890513085,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.08778,
+    28.23972,
+    113.08778,
+    28.23972
+],
+  "geometry": {"coordinates":[113.08778,28.23972],"type":"Point"}
+}

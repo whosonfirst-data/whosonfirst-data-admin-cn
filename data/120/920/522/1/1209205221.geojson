@@ -1,0 +1,64 @@
+{
+  "id": 1209205221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.92963,45.85583,124.92963,45.85583",
+    "geom:latitude":45.85583,
+    "geom:longitude":124.92963,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Yuexiancun",
+    "gn:country_code":"CN",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11582416,
+    "gn:latitude":45.85583,
+    "gn:longitude":124.92963,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Yuexiancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8dc3\u5148\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11582416
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"89b11686ea7a674bc226594eb90a66d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209205221
+        }
+    ],
+    "wof:id":1209205221,
+    "wof:lastmodified":1537618115,
+    "wof:name":"Yuexiancun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.92963,
+    45.85583,
+    124.92963,
+    45.85583
+],
+  "geometry": {"coordinates":[124.92963,45.85583],"type":"Point"}
+}

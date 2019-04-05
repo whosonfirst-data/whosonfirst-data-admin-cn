@@ -1,0 +1,68 @@
+{
+  "id": 890513553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.75639,26.54083,110.75639,26.54083",
+    "geom:latitude":26.54083,
+    "geom:longitude":110.75639,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":880,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Wantang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890514309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1791756,
+        "gp:id":2142481,
+        "qs:id":560160
+    },
+    "wof:country":"CN",
+    "wof:created":1469055826,
+    "wof:geomhash":"d7f3038d315794c3f4245784c467d1dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514309,
+            "empire_id":136253041,
+            "locality_id":890513553,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":890513553,
+    "wof:lastmodified":1505343892,
+    "wof:name":"Wantang",
+    "wof:parent_id":890514309,
+    "wof:placetype":"locality",
+    "wof:population":880,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.75639,
+    26.54083,
+    110.75639,
+    26.54083
+],
+  "geometry": {"coordinates":[110.75639,26.54083],"type":"Point"}
+}

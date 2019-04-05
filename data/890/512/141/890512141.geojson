@@ -1,0 +1,68 @@
+{
+  "id": 890512141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.39639,39.9825,117.39639,39.9825",
+    "geom:latitude":39.9825,
+    "geom:longitude":117.39639,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":1007,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Yinliu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669817,
+        102191569,
+        85632695,
+        136253041,
+        890513813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1786517,
+        "gp:id":2159875,
+        "qs:id":88710
+    },
+    "wof:country":"CN",
+    "wof:created":1469055760,
+    "wof:geomhash":"51d48f7a07af049e42e1791c1ead8213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513813,
+            "empire_id":136253041,
+            "locality_id":890512141,
+            "region_id":85669817
+        }
+    ],
+    "wof:id":890512141,
+    "wof:lastmodified":1505343886,
+    "wof:name":"Yinliu",
+    "wof:parent_id":890513813,
+    "wof:placetype":"locality",
+    "wof:population":1007,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.39639,
+    39.9825,
+    117.39639,
+    39.9825
+],
+  "geometry": {"coordinates":[117.39639,39.9825],"type":"Point"}
+}

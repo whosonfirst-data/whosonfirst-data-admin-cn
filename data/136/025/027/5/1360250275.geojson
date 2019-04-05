@@ -1,0 +1,75 @@
+{
+  "id": 1360250275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.14015,39.83444,123.14015,39.83444",
+    "geom:latitude":39.83444,
+    "geom:longitude":123.14015,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Yanjiagou",
+    "gn:country_code":"CN",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7403064,
+    "gn:latitude":39.83444,
+    "gn:longitude":123.14015,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Yanjiagou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u960e\u5bb6\u6c9f"
+    ],
+    "name:zho_x_preferred":[
+        "\u960e\u5bb6\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890515891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7403064
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ee9484ce1984863246b2e1c1e99e6bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515891,
+            "empire_id":136253041,
+            "locality_id":1360250275,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1360250275,
+    "wof:lastmodified":1537598834,
+    "wof:name":"Yanjiagou",
+    "wof:parent_id":890515891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.14015,
+    39.83444,
+    123.14015,
+    39.83444
+],
+  "geometry": {"coordinates":[123.14015000000001,39.83444],"type":"Point"}
+}

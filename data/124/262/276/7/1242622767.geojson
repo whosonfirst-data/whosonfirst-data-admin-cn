@@ -1,0 +1,77 @@
+{
+  "id": 1242622767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.98275,31.13126,106.98275,31.13126",
+    "geom:latitude":31.13126,
+    "geom:longitude":106.98275,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Guifu",
+    "gn:country_code":"CN",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1809518,
+    "gn:latitude":31.13126,
+    "gn:longitude":106.98275,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guifu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuei-fu-i",
+        "Kuei-fu",
+        "Guifu"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d35\u798f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890513987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1809518
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"57ee60ae46fa647f9a353d4940d5246d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513987,
+            "empire_id":136253041,
+            "locality_id":1242622767,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1242622767,
+    "wof:lastmodified":1537593573,
+    "wof:name":"Guifu",
+    "wof:parent_id":890513987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.98275,
+    31.13126,
+    106.98275,
+    31.13126
+],
+  "geometry": {"coordinates":[106.98275,31.13126],"type":"Point"}
+}

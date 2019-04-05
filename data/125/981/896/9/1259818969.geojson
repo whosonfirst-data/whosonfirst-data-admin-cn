@@ -1,0 +1,71 @@
+{
+  "id": 1259818969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.593,19.933,109.593,19.933",
+    "geom:latitude":19.933,
+    "geom:longitude":109.593,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Base",
+    "gn:country_code":"CN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1915019,
+    "gn:latitude":19.933,
+    "gn:longitude":109.593,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Base",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u62d4\u8272",
+        "Basecun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632695,
+        85669759,
+        1108732341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1915019
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8c24295ebcc2ef1e5b60225e99cc7f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732341,
+            "locality_id":1259818969,
+            "region_id":85669759
+        }
+    ],
+    "wof:id":1259818969,
+    "wof:lastmodified":1537594682,
+    "wof:name":"Base",
+    "wof:parent_id":1108732341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.593,
+    19.933,
+    109.593,
+    19.933
+],
+  "geometry": {"coordinates":[109.593,19.933],"type":"Point"}
+}

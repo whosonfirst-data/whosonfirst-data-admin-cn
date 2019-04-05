@@ -1,0 +1,80 @@
+{
+  "id": 1242680505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.00418,28.31034,121.00418,28.31034",
+    "geom:latitude":28.31034,
+    "geom:longitude":121.00418,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yanhu",
+    "gn:country_code":"CN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8401346,
+    "gn:latitude":28.31034,
+    "gn:longitude":121.00418,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Yanhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yanhu Xiang",
+        "Danzaoli"
+    ],
+    "name:zho_x_preferred":[
+        "\u96c1\u6e56"
+    ],
+    "name:zho_x_variant":[
+        "\u96c1\u6e56\u4e61",
+        "\u4e39\u7076\u91cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890514289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8401346
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"58bb4c37984a6304a0f41a55ee9b4fde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514289,
+            "empire_id":136253041,
+            "locality_id":1242680505,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1242680505,
+    "wof:lastmodified":1537603356,
+    "wof:name":"Yanhu",
+    "wof:parent_id":890514289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.00418,
+    28.31034,
+    121.00418,
+    28.31034
+],
+  "geometry": {"coordinates":[121.00418000000001,28.31034],"type":"Point"}
+}

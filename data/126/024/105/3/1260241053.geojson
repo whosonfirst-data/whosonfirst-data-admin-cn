@@ -1,0 +1,76 @@
+{
+  "id": 1260241053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.74251,32.29734,106.74251,32.29734",
+    "geom:latitude":32.29734,
+    "geom:longitude":106.74251,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Dade",
+    "gn:country_code":"CN",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6962833,
+    "gn:latitude":32.29734,
+    "gn:longitude":106.74251,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dade",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dadexiang",
+        "\u5927\u5fb7\u4e61"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u5fb7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890512741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6962833
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"99399cc0745e05801b9bcc8192f9cf97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512741,
+            "empire_id":136253041,
+            "locality_id":1260241053,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1260241053,
+    "wof:lastmodified":1537596993,
+    "wof:name":"Dade",
+    "wof:parent_id":890512741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.74251,
+    32.29734000000001,
+    106.74251,
+    32.29734000000001
+],
+  "geometry": {"coordinates":[106.74251,32.29734000000001],"type":"Point"}
+}

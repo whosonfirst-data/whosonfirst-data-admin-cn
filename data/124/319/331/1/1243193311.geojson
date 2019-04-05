@@ -1,0 +1,78 @@
+{
+  "id": 1243193311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.18723,25.77784,119.18723,25.77784",
+    "geom:latitude":25.77784,
+    "geom:longitude":119.18723,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yidu",
+    "gn:country_code":"CN",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1786733,
+    "gn:latitude":25.77784,
+    "gn:longitude":119.18723,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Yidu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yidu Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e00\u90fd"
+    ],
+    "name:zho_x_variant":[
+        "\u4e00\u90fd\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1786733
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6e4d81242d23b37aaf2d8b83e828ebbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516575,
+            "empire_id":136253041,
+            "locality_id":1243193311,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1243193311,
+    "wof:lastmodified":1537592081,
+    "wof:name":"Yidu",
+    "wof:parent_id":890516575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.18723,
+    25.77784,
+    119.18723,
+    25.77784
+],
+  "geometry": {"coordinates":[119.18723,25.77784],"type":"Point"}
+}

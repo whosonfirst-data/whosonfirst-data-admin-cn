@@ -1,0 +1,64 @@
+{
+  "id": 1209159867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.341,30.8909,100.341,30.8909",
+    "geom:latitude":30.8909,
+    "geom:longitude":100.341,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Weitong",
+    "gn:country_code":"CN",
+    "gn:dem":3818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10207972,
+    "gn:latitude":30.8909,
+    "gn:longitude":100.341,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Weitong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5a01\u540c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10207972
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"77632109152b304975daca26704e70bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209159867
+        }
+    ],
+    "wof:id":1209159867,
+    "wof:lastmodified":1537611401,
+    "wof:name":"Weitong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.341,
+    30.8909,
+    100.341,
+    30.8909
+],
+  "geometry": {"coordinates":[100.34099999999999,30.8909],"type":"Point"}
+}

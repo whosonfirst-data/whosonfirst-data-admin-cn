@@ -1,0 +1,76 @@
+{
+  "id": 1293707659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.18158,33.707,112.18158,33.707",
+    "geom:latitude":33.707,
+    "geom:longitude":112.18158,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Luoziping",
+    "gn:country_code":"CN",
+    "gn:dem":1263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7073082,
+    "gn:latitude":33.707,
+    "gn:longitude":112.18158,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Luoziping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u7f57\u5b50\u576a",
+        "Luoziping"
+    ],
+    "name:zho_x_preferred":[
+        "\u9aa1\u5b50\u576a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669801,
+        102191569,
+        85632695,
+        136253041,
+        890515631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7073082
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0c4ea90ccdd50f9cce3192135db317f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515631,
+            "empire_id":136253041,
+            "locality_id":1293707659,
+            "region_id":85669801
+        }
+    ],
+    "wof:id":1293707659,
+    "wof:lastmodified":1537597874,
+    "wof:name":"Luoziping",
+    "wof:parent_id":890515631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.18158,
+    33.707,
+    112.18158,
+    33.707
+],
+  "geometry": {"coordinates":[112.18158,33.707],"type":"Point"}
+}

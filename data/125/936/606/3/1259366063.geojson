@@ -1,0 +1,78 @@
+{
+  "id": 1259366063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.3,29.9,97.3,29.9",
+    "geom:latitude":29.9,
+    "geom:longitude":97.3,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Pulung",
+    "gn:country_code":"CN",
+    "gn:dem":4164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8048270,
+    "gn:latitude":29.9,
+    "gn:longitude":97.3,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Pulung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Pulung"
+    ],
+    "name:zho_x_preferred":[
+        "Pulong"
+    ],
+    "name:zho_x_variant":[
+        "\u666e\u9686"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8048270
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e925e3a9d6b04bf2d9110a4d8c127ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1259366063,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1259366063,
+    "wof:lastmodified":1537602427,
+    "wof:name":"Pulung",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.3,
+    29.9,
+    97.3,
+    29.9
+],
+  "geometry": {"coordinates":[97.3,29.9],"type":"Point"}
+}

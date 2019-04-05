@@ -1,0 +1,64 @@
+{
+  "id": 1209505721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.51955,47.75459,123.51955,47.75459",
+    "geom:latitude":47.75459,
+    "geom:longitude":123.51955,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Dingjiajie",
+    "gn:country_code":"CN",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8475408,
+    "gn:latitude":47.75459,
+    "gn:longitude":123.51955,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Dingjiajie",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e01\u5bb6\u8857"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8475408
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"171864980a093a37ea56f66b094cff6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209505721
+        }
+    ],
+    "wof:id":1209505721,
+    "wof:lastmodified":1537603884,
+    "wof:name":"Dingjiajie",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.51955,
+    47.75459,
+    123.51955,
+    47.75459
+],
+  "geometry": {"coordinates":[123.51955,47.75459],"type":"Point"}
+}

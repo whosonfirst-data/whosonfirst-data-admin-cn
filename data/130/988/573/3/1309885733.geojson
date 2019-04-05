@@ -1,0 +1,75 @@
+{
+  "id": 1309885733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.81073,30.44109,111.81073,30.44109",
+    "geom:latitude":30.44109,
+    "geom:longitude":111.81073,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Baijiadi",
+    "gn:country_code":"CN",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7696140,
+    "gn:latitude":30.44109,
+    "gn:longitude":111.81073,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Baijiadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Baijiadi"
+    ],
+    "name:zho_x_variant":[
+        "\u767d\u5bb6\u5824"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        890513331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7696140
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"431978eafc5977392c0e8bb881cb4188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513331,
+            "empire_id":136253041,
+            "locality_id":1309885733,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1309885733,
+    "wof:lastmodified":1537601154,
+    "wof:name":"Baijiadi",
+    "wof:parent_id":890513331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.81073,
+    30.44109000000001,
+    111.81073,
+    30.44109000000001
+],
+  "geometry": {"coordinates":[111.81073000000001,30.44109000000001],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1326515313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.72583,43.84546,130.72583,43.84546",
+    "geom:latitude":43.84546,
+    "geom:longitude":130.72583,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Erdaogoucun",
+    "gn:country_code":"CN",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2037504,
+    "gn:latitude":43.84546,
+    "gn:longitude":130.72583,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Erdaogoucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erdaogou",
+        "\u4e8c\u9053\u6c9f",
+        "Erdaogoucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e8c\u9053\u6c9f\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890515915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2037504
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"dfcb39b78989f71a48db9e610ca29ff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515915,
+            "empire_id":136253041,
+            "locality_id":1326515313,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1326515313,
+    "wof:lastmodified":1537595830,
+    "wof:name":"Erdaogoucun",
+    "wof:parent_id":890515915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.72583,
+    43.84546,
+    130.72583,
+    43.84546
+],
+  "geometry": {"coordinates":[130.72583,43.84546],"type":"Point"}
+}

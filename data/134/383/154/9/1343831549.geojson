@@ -1,0 +1,84 @@
+{
+  "id": 1343831549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.3,30.1,81.3,30.1",
+    "geom:latitude":30.1,
+    "geom:longitude":81.3,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Xerwa",
+    "gn:country_code":"CN",
+    "gn:dem":5286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8059183,
+    "gn:latitude":30.1,
+    "gn:longitude":81.3,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"X\u00earwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "X\u00earwa"
+    ],
+    "name:zho_x_preferred":[
+        "Xie\u2019erwa"
+    ],
+    "name:zho_x_variant":[
+        "\u8c22\u5c14\u74e6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050353,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8059183
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b5d82a67f385ba6f229f0458a24716ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1343831549,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1343831549,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1343831549,
+    "wof:lastmodified":1537602501,
+    "wof:name":"Xerwa",
+    "wof:parent_id":1092050353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.3,
+    30.1,
+    81.3,
+    30.1
+],
+  "geometry": {"coordinates":[81.3,30.1],"type":"Point"}
+}

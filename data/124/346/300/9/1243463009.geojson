@@ -1,0 +1,80 @@
+{
+  "id": 1243463009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.07218,28.54331,121.07218,28.54331",
+    "geom:latitude":28.54331,
+    "geom:longitude":121.07218,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pingtian",
+    "gn:country_code":"CN",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8400679,
+    "gn:latitude":28.54331,
+    "gn:longitude":121.07218,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Pingtian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiandengyang",
+        "Pingtian Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e73\u7530"
+    ],
+    "name:zho_x_variant":[
+        "\u5929\u706f\u579f",
+        "\u5e73\u7530\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890515633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8400679
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9d4014b0ecaf27c7940638ea5635fbe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515633,
+            "empire_id":136253041,
+            "locality_id":1243463009,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1243463009,
+    "wof:lastmodified":1537603339,
+    "wof:name":"Pingtian",
+    "wof:parent_id":890515633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.07218,
+    28.54331,
+    121.07218,
+    28.54331
+],
+  "geometry": {"coordinates":[121.07218,28.54331],"type":"Point"}
+}

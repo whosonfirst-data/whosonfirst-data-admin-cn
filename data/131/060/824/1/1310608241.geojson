@@ -1,0 +1,78 @@
+{
+  "id": 1310608241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.384,28.4901,117.384,28.4901",
+    "geom:latitude":28.4901,
+    "geom:longitude":117.384,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zhulongcun",
+    "gn:country_code":"CN",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9879338,
+    "gn:latitude":28.4901,
+    "gn:longitude":117.384,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Zhulongcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhujialong"
+    ],
+    "name:zho_x_preferred":[
+        "\u6731\u5784\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u6731\u5bb6\u5784"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669823,
+        102191569,
+        85632695,
+        136253041,
+        890515869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9879338
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d1c6a41944c64812159adb4dff8aad19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515869,
+            "empire_id":136253041,
+            "locality_id":1310608241,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":1310608241,
+    "wof:lastmodified":1537606551,
+    "wof:name":"Zhulongcun",
+    "wof:parent_id":890515869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.384,
+    28.4901,
+    117.384,
+    28.4901
+],
+  "geometry": {"coordinates":[117.384,28.4901],"type":"Point"}
+}

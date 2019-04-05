@@ -1,0 +1,78 @@
+{
+  "id": 1226619739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.701,31.401,96.701,31.401",
+    "geom:latitude":31.401,
+    "geom:longitude":96.701,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Xodung",
+    "gn:country_code":"CN",
+    "gn:dem":4745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8059244,
+    "gn:latitude":31.401,
+    "gn:longitude":96.701,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Xodung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Xodung"
+    ],
+    "name:zho_x_preferred":[
+        "Xuedong"
+    ],
+    "name:zho_x_variant":[
+        "\u5b66\u4e1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8059244
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"489c230744c8b084a2ec099e34887623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1226619739,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226619739,
+    "wof:lastmodified":1537602505,
+    "wof:name":"Xodung",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.701,
+    31.401,
+    96.701,
+    31.401
+],
+  "geometry": {"coordinates":[96.70099999999999,31.401],"type":"Point"}
+}

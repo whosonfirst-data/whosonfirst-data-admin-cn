@@ -1,0 +1,74 @@
+{
+  "id": 1209255969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.93551,29.68242,105.93551,29.68242",
+    "geom:latitude":29.68242,
+    "geom:longitude":105.93551,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Wangu",
+    "gn:country_code":"CN",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1791875,
+    "gn:latitude":29.68242,
+    "gn:longitude":105.93551,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Wangu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wan-ku-ch\u2019ang",
+        "Wanguchang",
+        "Wan-ku-chen",
+        "Wangu Zhen",
+        "Wangu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e07\u53e4"
+    ],
+    "name:zho_x_variant":[
+        "\u4e07\u53e4\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1791875
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"86371e950df1d8dff0edb74b7c7893be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209255969
+        }
+    ],
+    "wof:id":1209255969,
+    "wof:lastmodified":1537592429,
+    "wof:name":"Wangu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.93551,
+    29.68242,
+    105.93551,
+    29.68242
+],
+  "geometry": {"coordinates":[105.93550999999999,29.68242],"type":"Point"}
+}

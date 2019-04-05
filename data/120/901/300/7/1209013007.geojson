@@ -1,0 +1,64 @@
+{
+  "id": 1209013007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.5797,29.83482,119.5797,29.83482",
+    "geom:latitude":29.83482,
+    "geom:longitude":119.5797,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Fanyuan",
+    "gn:country_code":"CN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8368285,
+    "gn:latitude":29.83482,
+    "gn:longitude":119.5797,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Fanyuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8303\u6e90"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8368285
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8e2dafe71caf542b21d3b5790547cd18",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209013007
+        }
+    ],
+    "wof:id":1209013007,
+    "wof:lastmodified":1537603104,
+    "wof:name":"Fanyuan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.5797,
+    29.83482,
+    119.5797,
+    29.83482
+],
+  "geometry": {"coordinates":[119.5797,29.83482],"type":"Point"}
+}

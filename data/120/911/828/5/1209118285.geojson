@@ -1,0 +1,64 @@
+{
+  "id": 1209118285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.54124,29.36544,120.54124,29.36544",
+    "geom:latitude":29.36544,
+    "geom:longitude":120.54124,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mache",
+    "gn:country_code":"CN",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11196733,
+    "gn:latitude":29.36544,
+    "gn:longitude":120.54124,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mache",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9ebb\u8f66"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11196733
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a0f2562cc385c413c2a15c593d138bcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209118285
+        }
+    ],
+    "wof:id":1209118285,
+    "wof:lastmodified":1537615830,
+    "wof:name":"Mache",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.54124,
+    29.36544,
+    120.54124,
+    29.36544
+],
+  "geometry": {"coordinates":[120.54124,29.36544],"type":"Point"}
+}

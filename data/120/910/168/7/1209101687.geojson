@@ -1,0 +1,64 @@
+{
+  "id": 1209101687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.74458,35.06319,113.74458,35.06319",
+    "geom:latitude":35.06319,
+    "geom:longitude":113.74458,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Xici",
+    "gn:country_code":"CN",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10362528,
+    "gn:latitude":35.06319,
+    "gn:longitude":113.74458,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Xici",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u897f\u78c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10362528
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1d8907212ac18be86af4c69c9c3725ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209101687
+        }
+    ],
+    "wof:id":1209101687,
+    "wof:lastmodified":1537612612,
+    "wof:name":"Xici",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.74458,
+    35.06319000000001,
+    113.74458,
+    35.06319000000001
+],
+  "geometry": {"coordinates":[113.74458,35.06319000000001],"type":"Point"}
+}

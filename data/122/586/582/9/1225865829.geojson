@@ -1,0 +1,76 @@
+{
+  "id": 1225865829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.21472,27.16472,119.21472,27.16472",
+    "geom:latitude":27.16472,
+    "geom:longitude":119.21472,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Siqiao",
+    "gn:country_code":"CN",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1794163,
+    "gn:latitude":27.16472,
+    "gn:longitude":119.21472,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Siqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6cd7\u6865",
+        "Siqiao Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd7\u6865\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1794163
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"da93ea0ad8f22d3850271a6bf1404be7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516577,
+            "empire_id":136253041,
+            "locality_id":1225865829,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1225865829,
+    "wof:lastmodified":1537592580,
+    "wof:name":"Siqiao",
+    "wof:parent_id":890516577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.21472,
+    27.16472000000001,
+    119.21472,
+    27.16472000000001
+],
+  "geometry": {"coordinates":[119.21472,27.16472000000001],"type":"Point"}
+}

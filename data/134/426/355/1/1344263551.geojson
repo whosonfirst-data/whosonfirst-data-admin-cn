@@ -1,0 +1,72 @@
+{
+  "id": 1344263551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.65,25.0527,114.65,25.0527",
+    "geom:latitude":25.0527,
+    "geom:longitude":114.65,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lanzhou",
+    "gn:country_code":"CN",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9877578,
+    "gn:latitude":25.0527,
+    "gn:longitude":114.65,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Lanzhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5170\u5dde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669823,
+        102191569,
+        85632695,
+        136253041,
+        890511835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9877578
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4db53f80f8d97d3beeb9b4b3a8d3780b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890511835,
+            "empire_id":136253041,
+            "locality_id":1344263551,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":1344263551,
+    "wof:lastmodified":1537606529,
+    "wof:name":"Lanzhou",
+    "wof:parent_id":890511835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.65,
+    25.0527,
+    114.65,
+    25.0527
+],
+  "geometry": {"coordinates":[114.65000000000001,25.0527],"type":"Point"}
+}

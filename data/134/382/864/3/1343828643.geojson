@@ -1,0 +1,78 @@
+{
+  "id": 1343828643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.505,28.905,89.505,28.905",
+    "geom:latitude":28.905,
+    "geom:longitude":89.505,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jiarijiao",
+    "gn:country_code":"CN",
+    "gn:dem":4098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8026551,
+    "gn:latitude":28.905,
+    "gn:longitude":89.505,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Jiarijiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Jagri\u2019gyab"
+    ],
+    "name:zho_x_preferred":[
+        "Jiarijiao"
+    ],
+    "name:zho_x_variant":[
+        "\u52a0\u65e5\u4ea4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026551
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d62b1ca5be97f7cd4ac2551f24a47b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1343828643,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1343828643,
+    "wof:lastmodified":1537602177,
+    "wof:name":"Jiarijiao",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.505,
+    28.905,
+    89.505,
+    28.905
+],
+  "geometry": {"coordinates":[89.505,28.905],"type":"Point"}
+}

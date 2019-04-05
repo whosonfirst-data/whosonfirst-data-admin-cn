@@ -1,0 +1,76 @@
+{
+  "id": 1260065575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.70689,52.00525,125.70689,52.00525",
+    "geom:latitude":52.00525,
+    "geom:longitude":125.70689,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Shiliuzhan",
+    "gn:country_code":"CN",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2034896,
+    "gn:latitude":52.00525,
+    "gn:longitude":125.70689,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Shiliuzhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shih-liu-chan",
+        "Shiliuzhan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5341\u516d\u7ad9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        1108732399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2034896
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b6f8323cf5d29c38ef2f8070a43ebb03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732399,
+            "empire_id":136253041,
+            "locality_id":1260065575,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1260065575,
+    "wof:lastmodified":1537595679,
+    "wof:name":"Shiliuzhan",
+    "wof:parent_id":1108732399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.70689,
+    52.00525,
+    125.70689,
+    52.00525
+],
+  "geometry": {"coordinates":[125.70689,52.00525],"type":"Point"}
+}

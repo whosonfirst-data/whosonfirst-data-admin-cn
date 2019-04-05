@@ -1,0 +1,64 @@
+{
+  "id": 1209615367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.30461,31.38141,119.30461,31.38141",
+    "geom:latitude":31.38141,
+    "geom:longitude":119.30461,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Yanjia",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8383233,
+    "gn:latitude":31.38141,
+    "gn:longitude":119.30461,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Yanjia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e25\u5bb6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8383233
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9a34f754b5e01896874935d313947da4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209615367
+        }
+    ],
+    "wof:id":1209615367,
+    "wof:lastmodified":1537603170,
+    "wof:name":"Yanjia",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.30461,
+    31.38141,
+    119.30461,
+    31.38141
+],
+  "geometry": {"coordinates":[119.30461,31.38141],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226413145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.33333,29.7,95.33333,29.7",
+    "geom:latitude":29.7,
+    "geom:longitude":95.33333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Qarasa",
+    "gn:country_code":"CN",
+    "gn:dem":1753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":1280266,
+    "gn:latitude":29.7,
+    "gn:longitude":95.33333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Qarasa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Qarasa"
+    ],
+    "name:zho_x_preferred":[
+        "Jiaresa"
+    ],
+    "name:zho_x_variant":[
+        "\u52a0\u70ed\u8428"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1280266,
+        "wk:page":"Qarasa"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"76e6d73055e46f36982d3c06bbfc0977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515951,
+            "empire_id":136253041,
+            "locality_id":1226413145,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226413145,
+    "wof:lastmodified":1537591437,
+    "wof:name":"Qarasa",
+    "wof:parent_id":890515951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.33333,
+    29.7,
+    95.33333,
+    29.7
+],
+  "geometry": {"coordinates":[95.33333,29.7],"type":"Point"}
+}

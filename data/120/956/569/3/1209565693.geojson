@@ -1,0 +1,64 @@
+{
+  "id": 1209565693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.263,27.5675,104.263,27.5675",
+    "geom:latitude":27.5675,
+    "geom:longitude":104.263,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Diaoping",
+    "gn:country_code":"CN",
+    "gn:dem":1617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10144005,
+    "gn:latitude":27.5675,
+    "gn:longitude":104.263,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Diaoping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7889\u576a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10144005
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fcd2f9438459ffbe0168ed76031a48a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209565693
+        }
+    ],
+    "wof:id":1209565693,
+    "wof:lastmodified":1537610296,
+    "wof:name":"Diaoping",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.263,
+    27.5675,
+    104.263,
+    27.5675
+],
+  "geometry": {"coordinates":[104.26300000000001,27.5675],"type":"Point"}
+}

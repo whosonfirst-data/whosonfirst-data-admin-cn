@@ -1,0 +1,80 @@
+{
+  "id": 1310011003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.03159,31.69844,120.03159,31.69844",
+    "geom:latitude":31.69844,
+    "geom:longitude":120.03159,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Yaoguan",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1786977,
+    "gn:latitude":31.69844,
+    "gn:longitude":120.03159,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Yaoguan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yao-kuan-hsiang",
+        "Yaoguan",
+        "Yaoguan Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u9065\u89c2"
+    ],
+    "name:zho_x_variant":[
+        "\u9065\u89c2\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890514735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1786977
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"309c94d80eed7832efd46d1eeccc3d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514735,
+            "empire_id":136253041,
+            "locality_id":1310011003,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1310011003,
+    "wof:lastmodified":1537592096,
+    "wof:name":"Yaoguan",
+    "wof:parent_id":890514735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.03159,
+    31.69844,
+    120.03159,
+    31.69844
+],
+  "geometry": {"coordinates":[120.03158999999999,31.69844],"type":"Point"}
+}

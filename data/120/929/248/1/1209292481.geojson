@@ -1,0 +1,64 @@
+{
+  "id": 1209292481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.97792,28.004,111.97792,28.004",
+    "geom:latitude":28.004,
+    "geom:longitude":111.97792,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Shatuanchong",
+    "gn:country_code":"CN",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10327072,
+    "gn:latitude":28.004,
+    "gn:longitude":111.97792,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Shatuanchong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7802\u56e2\u51b2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10327072
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d2446b203f747361e62479f00f0a03ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209292481
+        }
+    ],
+    "wof:id":1209292481,
+    "wof:lastmodified":1537612273,
+    "wof:name":"Shatuanchong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.97792,
+    28.004,
+    111.97792,
+    28.004
+],
+  "geometry": {"coordinates":[111.97792,28.004],"type":"Point"}
+}

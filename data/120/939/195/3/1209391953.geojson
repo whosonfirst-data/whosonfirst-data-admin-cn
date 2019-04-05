@@ -1,0 +1,64 @@
+{
+  "id": 1209391953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.13606,29.49081,109.13606,29.49081",
+    "geom:latitude":29.49081,
+    "geom:longitude":109.13606,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zhongnanmuping",
+    "gn:country_code":"CN",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7006109,
+    "gn:latitude":29.49081,
+    "gn:longitude":109.13606,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Zhongnanmuping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e2d\u6960\u6728\u576a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7006109
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b4986df7d72c8cc04d591f2aa20fc7e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209391953
+        }
+    ],
+    "wof:id":1209391953,
+    "wof:lastmodified":1537597339,
+    "wof:name":"Zhongnanmuping",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.13606,
+    29.49081,
+    109.13606,
+    29.49081
+],
+  "geometry": {"coordinates":[109.13606,29.49081],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209198633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.49307,34.48573,113.49307,34.48573",
+    "geom:latitude":34.48573,
+    "geom:longitude":113.49307,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Fenggou",
+    "gn:country_code":"CN",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10407110,
+    "gn:latitude":34.48573,
+    "gn:longitude":113.49307,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Fenggou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u51af\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10407110
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d667b57e2a12d92e9038995d8c591385",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209198633
+        }
+    ],
+    "wof:id":1209198633,
+    "wof:lastmodified":1537613083,
+    "wof:name":"Fenggou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.49307,
+    34.48573,
+    113.49307,
+    34.48573
+],
+  "geometry": {"coordinates":[113.49307,34.48573],"type":"Point"}
+}

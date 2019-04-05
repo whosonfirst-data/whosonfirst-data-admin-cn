@@ -1,0 +1,64 @@
+{
+  "id": 1209083087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.41706,30.92187,112.41706,30.92187",
+    "geom:latitude":30.92187,
+    "geom:longitude":112.41706,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zhongyan",
+    "gn:country_code":"CN",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7661383,
+    "gn:latitude":30.92187,
+    "gn:longitude":112.41706,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhongyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u949f\u5830"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7661383
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"98fec5b9640ae4d674b54cab2c56878c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209083087
+        }
+    ],
+    "wof:id":1209083087,
+    "wof:lastmodified":1537600815,
+    "wof:name":"Zhongyan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.41706,
+    30.92187,
+    112.41706,
+    30.92187
+],
+  "geometry": {"coordinates":[112.41706000000001,30.92187],"type":"Point"}
+}

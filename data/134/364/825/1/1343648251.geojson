@@ -1,0 +1,78 @@
+{
+  "id": 1343648251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.77837,30.12819,111.77837,30.12819",
+    "geom:latitude":30.12819,
+    "geom:longitude":111.77837,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nanhai",
+    "gn:country_code":"CN",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":7696234,
+    "gn:latitude":30.12819,
+    "gn:longitude":111.77837,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Nanhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5357\u6d77\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u6d77"
+    ],
+    "name:zho_x_variant":[
+        "Nanhai Zhen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7696234
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"35ef330ea64b7cab438acfff46c60131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732489,
+            "empire_id":136253041,
+            "locality_id":1343648251,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1343648251,
+    "wof:lastmodified":1537601160,
+    "wof:name":"Nanhai",
+    "wof:parent_id":1108732489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.77837,
+    30.12819,
+    111.77837,
+    30.12819
+],
+  "geometry": {"coordinates":[111.77837,30.12819],"type":"Point"}
+}

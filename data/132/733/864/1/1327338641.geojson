@@ -1,0 +1,75 @@
+{
+  "id": 1327338641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.59221,31.01516,120.59221,31.01516",
+    "geom:latitude":31.01516,
+    "geom:longitude":120.59221,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhengwazi",
+    "gn:country_code":"CN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7332341,
+    "gn:latitude":31.01516,
+    "gn:longitude":120.59221,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhengwazi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u90d1\u6d3c\u5b50"
+    ],
+    "name:zho_x_preferred":[
+        "\u90d1\u6d3c\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7332341
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"29e8b80140d0384c1a9019c66cebc310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515879,
+            "empire_id":136253041,
+            "locality_id":1327338641,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1327338641,
+    "wof:lastmodified":1537598088,
+    "wof:name":"Zhengwazi",
+    "wof:parent_id":890515879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.59221,
+    31.01516,
+    120.59221,
+    31.01516
+],
+  "geometry": {"coordinates":[120.59220999999999,31.01516],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1343840995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2,31.6,81.2,31.6",
+    "geom:latitude":31.6,
+    "geom:longitude":81.2,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mangla",
+    "gn:country_code":"CN",
+    "gn:dem":5107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8045719,
+    "gn:latitude":31.6,
+    "gn:longitude":81.2,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mangla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Mangla"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fd9\u62c9"
+    ],
+    "name:zho_x_variant":[
+        "Shiduo Gongshe",
+        "\u72ee\u591a\u516c\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8045719
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ff7be1e4ac4f523f611b7fd14f466983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732537,
+            "empire_id":136253041,
+            "locality_id":1343840995,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1343840995,
+    "wof:lastmodified":1537602391,
+    "wof:name":"Mangla",
+    "wof:parent_id":1108732537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2,
+    31.6,
+    81.2,
+    31.6
+],
+  "geometry": {"coordinates":[81.2,31.6],"type":"Point"}
+}

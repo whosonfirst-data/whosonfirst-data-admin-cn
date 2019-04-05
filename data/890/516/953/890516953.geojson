@@ -1,0 +1,70 @@
+{
+  "id": 890516953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.16167,26.96444,119.16167,26.96444",
+    "geom:latitude":26.96444,
+    "geom:longitude":119.16167,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":1470,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Shoushan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":8,
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1794788,
+        "gp:id":2139727,
+        "qs:id":560632,
+        "wk:page":"Shoushan"
+    },
+    "wof:country":"CN",
+    "wof:created":1469055986,
+    "wof:geomhash":"9d471cbb5363840ca118b3e4df05556d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516577,
+            "empire_id":136253041,
+            "locality_id":890516953,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":890516953,
+    "wof:lastmodified":1527758447,
+    "wof:name":"Shoushan",
+    "wof:parent_id":890516577,
+    "wof:placetype":"locality",
+    "wof:population":1470,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.16167,
+    26.96444,
+    119.16167,
+    26.96444
+],
+  "geometry": {"coordinates":[119.16167,26.96444],"type":"Point"}
+}

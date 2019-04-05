@@ -1,0 +1,78 @@
+{
+  "id": 890516411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.31944,32.26667,120.31944,32.26667",
+    "geom:latitude":32.26667,
+    "geom:longitude":120.31944,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424781,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Taizhou",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u6c5f\u82cf\u7701",
+    "qs:photos":199,
+    "qs:photos_1k":40,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":199,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1548081,
+        "gp:id":2137090,
+        "qs:id":894387,
+        "wd:id":"Q24809",
+        "wk:page":"Taizhou"
+    },
+    "wof:country":"CN",
+    "wof:created":1469055956,
+    "wof:geomhash":"39af57d7c4a60705eaf7828436b82892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516237,
+            "empire_id":136253041,
+            "locality_id":890516411,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":890516411,
+    "wof:lastmodified":1527765653,
+    "wof:name":"Taizhou",
+    "wof:parent_id":890516237,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.31944,
+    32.26667,
+    120.31944,
+    32.26667
+],
+  "geometry": {"coordinates":[120.31944,32.26667],"type":"Point"}
+}

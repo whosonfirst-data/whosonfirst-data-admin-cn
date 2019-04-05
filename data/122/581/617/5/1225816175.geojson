@@ -1,0 +1,78 @@
+{
+  "id": 1225816175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.9,28.8,84.9,28.8",
+    "geom:latitude":28.8,
+    "geom:longitude":84.9,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zangcun",
+    "gn:country_code":"CN",
+    "gn:dem":5824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8067075,
+    "gn:latitude":28.8,
+    "gn:longitude":84.9,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Zangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Zangcun"
+    ],
+    "name:und_x_variant":[
+        "Zhangcun"
+    ],
+    "name:zho_x_preferred":[
+        "\u6a1f\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8067075
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6811f632a052d6efcf01069301b99ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1225816175,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1225816175,
+    "wof:lastmodified":1537602533,
+    "wof:name":"Zangcun",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.9,
+    28.8,
+    84.9,
+    28.8
+],
+  "geometry": {"coordinates":[84.90000000000001,28.8],"type":"Point"}
+}

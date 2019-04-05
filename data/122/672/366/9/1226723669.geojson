@@ -1,0 +1,78 @@
+{
+  "id": 1226723669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.101,32.001,88.101,32.001",
+    "geom:latitude":32.001,
+    "geom:longitude":88.101,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sinyachagdog",
+    "gn:country_code":"CN",
+    "gn:dem":4533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8056059,
+    "gn:latitude":32.001,
+    "gn:longitude":88.101,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Sinyachagdog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Sinyachagdog"
+    ],
+    "name:zho_x_preferred":[
+        "Senyachaduo"
+    ],
+    "name:zho_x_variant":[
+        "\u68ee\u4e9a\u67e5\u591a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8056059
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7bb1699f5ff87c4b16848a6040d003d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1226723669,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226723669,
+    "wof:lastmodified":1537602479,
+    "wof:name":"Sinyachagdog",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.101,
+    32.001,
+    88.101,
+    32.001
+],
+  "geometry": {"coordinates":[88.101,32.001],"type":"Point"}
+}

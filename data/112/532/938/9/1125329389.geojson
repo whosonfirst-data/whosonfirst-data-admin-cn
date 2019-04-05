@@ -1,0 +1,79 @@
+{
+  "id": 1125329389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.15,21.68333,109.15,21.68333",
+    "geom:latitude":21.68333,
+    "geom:longitude":109.15,
+    "gn:gn_country":"CN",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"CN",
+    "lbl:latitude":21.68333,
+    "lbl:longitude":109.15,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Ho-p\u2019u Hsien"
+    ],
+    "qs_pg:aaroncc":"CN",
+    "qs_pg:gn_country":"CN",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1808332,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hepu Xian",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1027678,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        85669717,
+        102191569,
+        85632695,
+        136253041,
+        890516487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1808332,
+        "qs_pg:id":1027678
+    },
+    "wof:country":"CN",
+    "wof:created":1497045040,
+    "wof:geomhash":"b90202f7f110b64f8593eb7cbf1814b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516487,
+            "empire_id":136253041,
+            "localadmin_id":1125329389,
+            "region_id":85669717
+        }
+    ],
+    "wof:id":1125329389,
+    "wof:lastmodified":1509388332,
+    "wof:name":"Hepu Xian",
+    "wof:parent_id":890516487,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.15,
+    21.68333,
+    109.15,
+    21.68333
+],
+  "geometry": {"coordinates":[109.15000000000001,21.68333],"type":"Point"}
+}

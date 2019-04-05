@@ -1,0 +1,76 @@
+{
+  "id": 1260049225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.26861,24.14917,109.26861,24.14917",
+    "geom:latitude":24.14917,
+    "geom:longitude":109.26861,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Baipeng",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1817480,
+    "gn:latitude":24.14917,
+    "gn:longitude":109.26861,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Baipeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pai-p\u2019eng",
+        "Pai-p\u2019eng-chieh",
+        "Pai-p\u2019eng-hs\u00fc",
+        "Baipeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669717,
+        102191569,
+        85632695,
+        136253041,
+        890515127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1817480
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"768b346f4cd2ca4724edd3a85367accf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515127,
+            "empire_id":136253041,
+            "locality_id":1260049225,
+            "region_id":85669717
+        }
+    ],
+    "wof:id":1260049225,
+    "wof:lastmodified":1537594075,
+    "wof:name":"Baipeng",
+    "wof:parent_id":890515127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.26861,
+    24.14917,
+    109.26861,
+    24.14917
+],
+  "geometry": {"coordinates":[109.26861,24.14917],"type":"Point"}
+}

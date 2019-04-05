@@ -1,0 +1,64 @@
+{
+  "id": 1209111357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.09946,32.92549,119.09946,32.92549",
+    "geom:latitude":32.92549,
+    "geom:longitude":119.09946,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Xinyang",
+    "gn:country_code":"CN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8226571,
+    "gn:latitude":32.92549,
+    "gn:longitude":119.09946,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Xinyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u65b0\u6768"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8226571
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"437735617d5059c4c7ffcee78db0f6c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209111357
+        }
+    ],
+    "wof:id":1209111357,
+    "wof:lastmodified":1537602753,
+    "wof:name":"Xinyang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.09946,
+    32.92549,
+    119.09946,
+    32.92549
+],
+  "geometry": {"coordinates":[119.09945999999999,32.92549],"type":"Point"}
+}

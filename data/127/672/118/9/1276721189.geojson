@@ -1,0 +1,76 @@
+{
+  "id": 1276721189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.49489,28.58772,102.49489,28.58772",
+    "geom:latitude":28.58772,
+    "geom:longitude":102.49489,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Zhongsuo",
+    "gn:country_code":"CN",
+    "gn:dem":1714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1784303,
+    "gn:latitude":28.58772,
+    "gn:longitude":102.49489,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhongsuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chung-so",
+        "Zhongsuo"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u6240"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        1108794061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1784303
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2d5817b1d25387026464a1acfee486a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794061,
+            "empire_id":136253041,
+            "locality_id":1276721189,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1276721189,
+    "wof:lastmodified":1537591916,
+    "wof:name":"Zhongsuo",
+    "wof:parent_id":1108794061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.49489,
+    28.58772,
+    102.49489,
+    28.58772
+],
+  "geometry": {"coordinates":[102.49489,28.58772],"type":"Point"}
+}

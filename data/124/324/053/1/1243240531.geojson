@@ -1,0 +1,78 @@
+{
+  "id": 1243240531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.09048,32.26772,110.09048,32.26772",
+    "geom:latitude":32.26772,
+    "geom:longitude":110.09048,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Yishui",
+    "gn:country_code":"CN",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1786456,
+    "gn:latitude":32.26772,
+    "gn:longitude":110.09048,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Yishui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yishui Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ea2\u6c34"
+    ],
+    "name:zho_x_variant":[
+        "\u6ea2\u6c34\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        890515173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1786456
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"96bd8f968e19dba79172108db5165ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515173,
+            "empire_id":136253041,
+            "locality_id":1243240531,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1243240531,
+    "wof:lastmodified":1537592062,
+    "wof:name":"Yishui",
+    "wof:parent_id":890515173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.09048,
+    32.26772,
+    110.09048,
+    32.26772
+],
+  "geometry": {"coordinates":[110.09048,32.26772],"type":"Point"}
+}

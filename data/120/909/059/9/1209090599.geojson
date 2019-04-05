@@ -1,0 +1,64 @@
+{
+  "id": 1209090599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.8344,33.05001,112.8344,33.05001",
+    "geom:latitude":33.05001,
+    "geom:longitude":112.8344,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Fanzhuang",
+    "gn:country_code":"CN",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10875287,
+    "gn:latitude":33.05001,
+    "gn:longitude":112.8344,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Fanzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8303\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10875287
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"afad34dcde8d230ac7ba73b3824af15b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209090599
+        }
+    ],
+    "wof:id":1209090599,
+    "wof:lastmodified":1537614639,
+    "wof:name":"Fanzhuang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.8344,
+    33.05001,
+    112.8344,
+    33.05001
+],
+  "geometry": {"coordinates":[112.8344,33.05001],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 890515735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.10118,32.61957,106.10118,32.61957",
+    "geom:latitude":32.61957,
+    "geom:longitude":106.10118,
+    "gn:country":"CN",
+    "gn:fcode":"PPLA4",
+    "gn:pop":1350,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u66fe\u5bb6\u9547"
+    ],
+    "name:eng_x_preferred":[
+        "Zengjia"
+    ],
+    "name:unk_x_variant":[
+        "Tseng-chia-ho"
+    ],
+    "name:zho_x_preferred":[
+        "\u66fe\u5bb6"
+    ],
+    "qs:name":"Zengjia",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890512741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1785432,
+        "gp:id":2158386,
+        "qs:id":88676,
+        "wd:id":"Q11091477"
+    },
+    "wof:country":"CN",
+    "wof:created":1469055929,
+    "wof:geomhash":"d794b69c3e33430a5385c9fb8a236f9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512741,
+            "empire_id":136253041,
+            "locality_id":890515735,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":890515735,
+    "wof:lastmodified":1553816433,
+    "wof:name":"Zengjia",
+    "wof:parent_id":890512741,
+    "wof:placetype":"locality",
+    "wof:population":1350,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.10118,
+    32.61957,
+    106.10118,
+    32.61957
+],
+  "geometry": {"coordinates":[106.10118,32.61957],"type":"Point"}
+}

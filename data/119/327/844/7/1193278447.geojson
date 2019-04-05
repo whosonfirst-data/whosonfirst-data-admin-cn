@@ -1,0 +1,78 @@
+{
+  "id": 1193278447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.40604,28.67827,121.40604,28.67827",
+    "geom:latitude":28.67827,
+    "geom:longitude":121.40604,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Baiyun",
+    "gn:country_code":"CN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8400692,
+    "gn:latitude":28.67827,
+    "gn:longitude":121.40604,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Baiyun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baiyun Jiedao"
+    ],
+    "name:zho_x_preferred":[
+        "\u767d\u4e91"
+    ],
+    "name:zho_x_variant":[
+        "\u767d\u4e91\u8857\u9053"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890515633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8400692
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d3c95da76144490ef8c388f02b153139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515633,
+            "empire_id":136253041,
+            "locality_id":1193278447,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1193278447,
+    "wof:lastmodified":1537603340,
+    "wof:name":"Baiyun",
+    "wof:parent_id":890515633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.40604,
+    28.67827,
+    121.40604,
+    28.67827
+],
+  "geometry": {"coordinates":[121.40604,28.67827],"type":"Point"}
+}

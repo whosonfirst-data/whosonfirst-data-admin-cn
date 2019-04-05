@@ -1,0 +1,64 @@
+{
+  "id": 1209623727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.06988,28.84491,120.06988,28.84491",
+    "geom:latitude":28.84491,
+    "geom:longitude":120.06988,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Langcun",
+    "gn:country_code":"CN",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8398338,
+    "gn:latitude":28.84491,
+    "gn:longitude":120.06988,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Langcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u90ce\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8398338
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"15208192b304eb2cdd442d9cec5ceec8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209623727
+        }
+    ],
+    "wof:id":1209623727,
+    "wof:lastmodified":1537603262,
+    "wof:name":"Langcun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.06988,
+    28.84491,
+    120.06988,
+    28.84491
+],
+  "geometry": {"coordinates":[120.06988,28.84491],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310391561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.75,46.8,87.75,46.8",
+    "geom:latitude":46.8,
+    "geom:longitude":87.75,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Karamagay",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1529402,
+    "gn:latitude":46.8,
+    "gn:longitude":87.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Karamagay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u2019o-la-ma-kai",
+        "Ha-la-ma-k\u2019o-i",
+        "K\u2019a-la-ma-ka-i",
+        "Karamagay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669753,
+        102191569,
+        85632695,
+        136253041,
+        1108732531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1529402
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e5c4a760f1eb757a422b6560e1330246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732531,
+            "empire_id":136253041,
+            "locality_id":1310391561,
+            "region_id":85669753
+        }
+    ],
+    "wof:id":1310391561,
+    "wof:lastmodified":1537591594,
+    "wof:name":"Karamagay",
+    "wof:parent_id":1108732531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.75,
+    46.8,
+    87.75,
+    46.8
+],
+  "geometry": {"coordinates":[87.75,46.8],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242670945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.34472,40.67694,115.34472,40.67694",
+    "geom:latitude":40.67694,
+    "geom:longitude":115.34472,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Zhaochuan",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2033169,
+    "gn:latitude":40.67694,
+    "gn:longitude":115.34472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhaochuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chao-ch\u2019uan",
+        "Chao-chuan-p\u2019u",
+        "Chao-ch\u2019uan-pao",
+        "Zhaochuan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669797,
+        102191569,
+        85632695,
+        136253041,
+        890516481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2033169
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"373ec6c58cdbe4b147398fc9ce315383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516481,
+            "empire_id":136253041,
+            "locality_id":1242670945,
+            "region_id":85669797
+        }
+    ],
+    "wof:id":1242670945,
+    "wof:lastmodified":1537595570,
+    "wof:name":"Zhaochuan",
+    "wof:parent_id":890516481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.34472,
+    40.67694,
+    115.34472,
+    40.67694
+],
+  "geometry": {"coordinates":[115.34472,40.67694],"type":"Point"}
+}

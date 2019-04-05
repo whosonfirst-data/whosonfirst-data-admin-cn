@@ -1,0 +1,77 @@
+{
+  "id": 1243550441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.86874,26.05258,117.86874,26.05258",
+    "geom:latitude":26.05258,
+    "geom:longitude":117.86874,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Qitao",
+    "gn:country_code":"CN",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1922280,
+    "gn:latitude":26.05258,
+    "gn:longitude":117.86874,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Qitao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5947\u97ec",
+        "Qitao Zhen",
+        "\u5947\u97ec\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u97ec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1922280
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"de2b36b8b1eb73a9a6409ac072f3c236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516573,
+            "empire_id":136253041,
+            "locality_id":1243550441,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1243550441,
+    "wof:lastmodified":1537594894,
+    "wof:name":"Qitao",
+    "wof:parent_id":890516573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.86874,
+    26.05258,
+    117.86874,
+    26.05258
+],
+  "geometry": {"coordinates":[117.86874,26.05258],"type":"Point"}
+}

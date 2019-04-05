@@ -1,0 +1,80 @@
+{
+  "id": 1310002009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.28679,47.33972,130.28679,47.33972",
+    "geom:latitude":47.33972,
+    "geom:longitude":130.28679,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Guangming",
+    "gn:country_code":"CN",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":8523223,
+    "gn:latitude":47.33972,
+    "gn:longitude":130.28679,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Guangming",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guangming Jiedao",
+        "Xiangyang Qu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5149\u660e"
+    ],
+    "name:zho_x_variant":[
+        "\u5149\u660e\u8857\u9053",
+        "\u5411\u9633\u533a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890514875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8523223
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6c7da27c23aae061de0e5a0564338881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514875,
+            "empire_id":136253041,
+            "locality_id":1310002009,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1310002009,
+    "wof:lastmodified":1537604252,
+    "wof:name":"Guangming",
+    "wof:parent_id":890514875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.28679,
+    47.33972,
+    130.28679,
+    47.33972
+],
+  "geometry": {"coordinates":[130.28679,47.33972],"type":"Point"}
+}

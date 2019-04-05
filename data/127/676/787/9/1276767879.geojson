@@ -1,0 +1,78 @@
+{
+  "id": 1276767879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.74781,32.95552,119.74781,32.95552",
+    "geom:latitude":32.95552,
+    "geom:longitude":119.74781,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dingqiao",
+    "gn:country_code":"CN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8262042,
+    "gn:latitude":32.95552,
+    "gn:longitude":119.74781,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Dingqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dingsha"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e01\u6865"
+    ],
+    "name:zho_x_variant":[
+        "\u4e01\u6c99"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8262042
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"291e1aa639f46c0ae4fb759f00316b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516237,
+            "empire_id":136253041,
+            "locality_id":1276767879,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1276767879,
+    "wof:lastmodified":1537602798,
+    "wof:name":"Dingqiao",
+    "wof:parent_id":890516237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.74781000000002,
+    32.95552,
+    119.74781000000002,
+    32.95552
+],
+  "geometry": {"coordinates":[119.74781000000002,32.95552],"type":"Point"}
+}

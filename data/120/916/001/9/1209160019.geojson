@@ -1,0 +1,64 @@
+{
+  "id": 1209160019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.3345,32.1824,99.3345,32.1824",
+    "geom:latitude":32.1824,
+    "geom:longitude":99.3345,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ruoda",
+    "gn:country_code":"CN",
+    "gn:dem":3619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10208457,
+    "gn:latitude":32.1824,
+    "gn:longitude":99.3345,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Ruoda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u82e5\u8fbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10208457
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1d61de823580afd0a99a6a7e0a5e22c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209160019
+        }
+    ],
+    "wof:id":1209160019,
+    "wof:lastmodified":1537611419,
+    "wof:name":"Ruoda",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.3345,
+    32.1824,
+    99.3345,
+    32.1824
+],
+  "geometry": {"coordinates":[99.33450000000001,32.1824],"type":"Point"}
+}

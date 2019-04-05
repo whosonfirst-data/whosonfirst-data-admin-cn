@@ -1,0 +1,64 @@
+{
+  "id": 1209298609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.30798,33.85139,114.30798,33.85139",
+    "geom:latitude":33.85139,
+    "geom:longitude":114.30798,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Houqiao",
+    "gn:country_code":"CN",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10634063,
+    "gn:latitude":33.85139,
+    "gn:longitude":114.30798,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Houqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4faf\u6865"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10634063
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5fa740f9aa39d22f908218a2cca203f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209298609
+        }
+    ],
+    "wof:id":1209298609,
+    "wof:lastmodified":1537613790,
+    "wof:name":"Houqiao",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.30798,
+    33.85139,
+    114.30798,
+    33.85139
+],
+  "geometry": {"coordinates":[114.30798,33.85139],"type":"Point"}
+}

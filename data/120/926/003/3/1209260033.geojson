@@ -1,0 +1,64 @@
+{
+  "id": 1209260033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.441,31.6142,106.441,31.6142",
+    "geom:latitude":31.6142,
+    "geom:longitude":106.441,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Sansheng",
+    "gn:country_code":"CN",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10160692,
+    "gn:latitude":31.6142,
+    "gn:longitude":106.441,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Sansheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e09\u5723"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10160692
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3030d3df5c9b87d5619a11e416ea0de0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209260033
+        }
+    ],
+    "wof:id":1209260033,
+    "wof:lastmodified":1537610778,
+    "wof:name":"Sansheng",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.441,
+    31.6142,
+    106.441,
+    31.6142
+],
+  "geometry": {"coordinates":[106.441,31.6142],"type":"Point"}
+}

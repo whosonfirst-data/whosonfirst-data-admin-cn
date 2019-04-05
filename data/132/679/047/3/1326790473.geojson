@@ -1,0 +1,77 @@
+{
+  "id": 1326790473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.25415,24.94989,112.25415,24.94989",
+    "geom:latitude":24.94989,
+    "geom:longitude":112.25415,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Chongkoucun",
+    "gn:country_code":"CN",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1920514,
+    "gn:latitude":24.94989,
+    "gn:longitude":112.25415,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Chongkoucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chongkou",
+        "\u51b2\u53e3",
+        "Chongkoucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u51b2\u53e3\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890513267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1920514
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d7df1b3f2aae457e410a5d6384cb7f32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513267,
+            "empire_id":136253041,
+            "locality_id":1326790473,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1326790473,
+    "wof:lastmodified":1537594853,
+    "wof:name":"Chongkoucun",
+    "wof:parent_id":890513267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.25415,
+    24.94989,
+    112.25415,
+    24.94989
+],
+  "geometry": {"coordinates":[112.25415,24.94989],"type":"Point"}
+}

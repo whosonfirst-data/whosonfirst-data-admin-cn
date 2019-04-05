@@ -1,0 +1,75 @@
+{
+  "id": 1343551755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.59395,46.55704,123.59395,46.55704",
+    "geom:latitude":46.55704,
+    "geom:longitude":123.59395,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tai'ancun",
+    "gn:country_code":"CN",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11580103,
+    "gn:latitude":46.55704,
+    "gn:longitude":123.59395,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Tai\u2019ancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tai\u2019ancun"
+    ],
+    "name:zho_x_preferred":[
+        "\u592a\u5b89\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890516483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11580103
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b891df5c49948a7690a75645400ab050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516483,
+            "empire_id":136253041,
+            "locality_id":1343551755,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1343551755,
+    "wof:lastmodified":1537618029,
+    "wof:name":"Tai'ancun",
+    "wof:parent_id":890516483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.59395,
+    46.55704,
+    123.59395,
+    46.55704
+],
+  "geometry": {"coordinates":[123.59395000000001,46.55704],"type":"Point"}
+}

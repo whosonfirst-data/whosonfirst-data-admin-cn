@@ -1,0 +1,76 @@
+{
+  "id": 1243522355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.41667,38.01722,112.41667,38.01722",
+    "geom:latitude":38.01722,
+    "geom:longitude":112.41667,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Shanglan",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1796185,
+    "gn:latitude":38.01722,
+    "gn:longitude":112.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shanglan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lan-ts\u2019un",
+        "Shanglancun",
+        "Shang-lan-ts\u2019un",
+        "Shanglan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        890513333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1796185
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b9e4b3ec5920d5d12ac35db0eed9bffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513333,
+            "empire_id":136253041,
+            "locality_id":1243522355,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1243522355,
+    "wof:lastmodified":1537592715,
+    "wof:name":"Shanglan",
+    "wof:parent_id":890513333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.41667,
+    38.01722,
+    112.41667,
+    38.01722
+],
+  "geometry": {"coordinates":[112.41667,38.01722],"type":"Point"}
+}

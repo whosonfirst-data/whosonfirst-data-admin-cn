@@ -1,0 +1,78 @@
+{
+  "id": 1309788969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.1,29.3,89.1,29.3",
+    "geom:latitude":29.3,
+    "geom:longitude":89.1,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Leigui",
+    "gn:country_code":"CN",
+    "gn:dem":4044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8044443,
+    "gn:latitude":29.3,
+    "gn:longitude":89.1,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Leigui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Lhok\u00fc"
+    ],
+    "name:zho_x_preferred":[
+        "Leigui"
+    ],
+    "name:zho_x_variant":[
+        "\u96f7\u8d35"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8044443
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a3402a846430a7cd629e93b55705bd6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1309788969,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1309788969,
+    "wof:lastmodified":1537602371,
+    "wof:name":"Leigui",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.1,
+    29.3,
+    89.1,
+    29.3
+],
+  "geometry": {"coordinates":[89.09999999999999,29.3],"type":"Point"}
+}

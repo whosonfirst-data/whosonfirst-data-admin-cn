@@ -1,0 +1,64 @@
+{
+  "id": 1209084289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.76067,26.32045,110.76067,26.32045",
+    "geom:latitude":26.32045,
+    "geom:longitude":110.76067,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Xiadushan",
+    "gn:country_code":"CN",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10366289,
+    "gn:latitude":26.32045,
+    "gn:longitude":110.76067,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Xiadushan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e0b\u72ec\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10366289
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d135fefb7eea36af55fdeccbeaa0777c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209084289
+        }
+    ],
+    "wof:id":1209084289,
+    "wof:lastmodified":1537612743,
+    "wof:name":"Xiadushan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.76067,
+    26.32045,
+    110.76067,
+    26.32045
+],
+  "geometry": {"coordinates":[110.76067,26.32045],"type":"Point"}
+}

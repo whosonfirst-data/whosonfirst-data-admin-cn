@@ -1,0 +1,75 @@
+{
+  "id": 1209375743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.15919,24.70261,99.15919,24.70261",
+    "geom:latitude":24.70261,
+    "geom:longitude":99.15919,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Dianyang",
+    "gn:country_code":"CN",
+    "gn:dem":1826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1280008,
+    "gn:latitude":24.70261,
+    "gn:longitude":99.15919,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dianyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shih-tien-chieh",
+        "Shih-tien-chen",
+        "Shih-tien",
+        "Shik\u00fcan",
+        "Dianyang",
+        "Shidian"
+    ],
+    "name:zho_x_preferred":[
+        "\u7538\u9633"
+    ],
+    "name:zho_x_variant":[
+        "Shik\u00fcan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1280008
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"67a943fd1a6486194b89ff2554825d30",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209375743
+        }
+    ],
+    "wof:id":1209375743,
+    "wof:lastmodified":1537591413,
+    "wof:name":"Dianyang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.15919,
+    24.70261,
+    99.15919,
+    24.70261
+],
+  "geometry": {"coordinates":[99.15919,24.70261],"type":"Point"}
+}

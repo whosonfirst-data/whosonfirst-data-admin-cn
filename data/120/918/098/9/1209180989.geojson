@@ -1,0 +1,64 @@
+{
+  "id": 1209180989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.67041,35.09963,109.67041,35.09963",
+    "geom:latitude":35.09963,
+    "geom:longitude":109.67041,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Zhangwangcun",
+    "gn:country_code":"CN",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11213504,
+    "gn:latitude":35.09963,
+    "gn:longitude":109.67041,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Zhangwangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5f20\u738b\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11213504
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6b6bb99ff3b53f1c8f0231a8b476369a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209180989
+        }
+    ],
+    "wof:id":1209180989,
+    "wof:lastmodified":1537615923,
+    "wof:name":"Zhangwangcun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.67041,
+    35.09963,
+    109.67041,
+    35.09963
+],
+  "geometry": {"coordinates":[109.67041,35.09963],"type":"Point"}
+}

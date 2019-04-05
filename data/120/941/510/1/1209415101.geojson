@@ -1,0 +1,64 @@
+{
+  "id": 1209415101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.36591,34.09192,117.36591,34.09192",
+    "geom:latitude":34.09192,
+    "geom:longitude":117.36591,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Banshancun",
+    "gn:country_code":"CN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11530663,
+    "gn:latitude":34.09192,
+    "gn:longitude":117.36591,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Banshancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4f34\u5c71\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11530663
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"79d49d555729c6df8a33037d98365ba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209415101
+        }
+    ],
+    "wof:id":1209415101,
+    "wof:lastmodified":1537617436,
+    "wof:name":"Banshancun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.36591,
+    34.09192,
+    117.36591,
+    34.09192
+],
+  "geometry": {"coordinates":[117.36591,34.09192],"type":"Point"}
+}

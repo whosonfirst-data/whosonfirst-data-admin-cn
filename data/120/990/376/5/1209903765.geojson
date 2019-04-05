@@ -1,0 +1,69 @@
+{
+  "id": 1209903765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.5925,27.43083,110.5925,27.43083",
+    "geom:latitude":27.43083,
+    "geom:longitude":110.5925,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Dahua",
+    "gn:country_code":"CN",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1814281,
+    "gn:latitude":27.43083,
+    "gn:longitude":110.5925,
+    "gn:modification_date":"2004-06-29",
+    "gn:name":"Dahua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890514349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1814281
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b80aac759bc0b8422608681df98175ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514349,
+            "empire_id":136253041,
+            "locality_id":1209903765,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1209903765,
+    "wof:lastmodified":1536385248,
+    "wof:name":"Dahua",
+    "wof:parent_id":890514349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.5925,
+    27.43083,
+    110.5925,
+    27.43083
+],
+  "geometry": {"coordinates":[110.5925,27.43083],"type":"Point"}
+}

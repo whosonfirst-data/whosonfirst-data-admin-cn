@@ -1,0 +1,72 @@
+{
+  "id": 890512719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.55063,40.45742,123.55063,40.45742",
+    "geom:latitude":40.45742,
+    "geom:longitude":123.55063,
+    "gn:country":"CN",
+    "gn:fcode":"PPLA4",
+    "gn:pop":0,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "\u671d\u9633"
+    ],
+    "qs:name":"Chaoyang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":95,
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7920235,
+        "gp:id":12686803,
+        "qs:id":1063856,
+        "wk:page":"Chaoyang"
+    },
+    "wof:country":"CN",
+    "wof:created":1469055783,
+    "wof:geomhash":"c23cfec04961b03348f791367b85ae99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514231,
+            "empire_id":136253041,
+            "locality_id":890512719,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":890512719,
+    "wof:lastmodified":1527793097,
+    "wof:name":"Chaoyang",
+    "wof:parent_id":890514231,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.55063,
+    40.45742,
+    123.55063,
+    40.45742
+],
+  "geometry": {"coordinates":[123.55063,40.45742],"type":"Point"}
+}

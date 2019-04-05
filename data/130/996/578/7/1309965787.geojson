@@ -1,0 +1,78 @@
+{
+  "id": 1309965787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.0095,22.60552,113.0095,22.60552",
+    "geom:latitude":22.60552,
+    "geom:longitude":113.0095,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Duruan",
+    "gn:country_code":"CN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1811796,
+    "gn:latitude":22.60552,
+    "gn:longitude":113.0095,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Duruan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tu-juan",
+        "Duruan",
+        "Duruan Zhen",
+        "\u675c\u962e\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u962e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890514609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1811796
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"60a02996321ee33e8825e1b10dfc1575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514609,
+            "empire_id":136253041,
+            "locality_id":1309965787,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1309965787,
+    "wof:lastmodified":1537593724,
+    "wof:name":"Duruan",
+    "wof:parent_id":890514609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.0095,
+    22.60552,
+    113.0095,
+    22.60552
+],
+  "geometry": {"coordinates":[113.0095,22.60552],"type":"Point"}
+}

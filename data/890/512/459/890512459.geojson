@@ -1,0 +1,71 @@
+{
+  "id": 890512459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.3239,39.22634,117.3239,39.22634",
+    "geom:latitude":39.22634,
+    "geom:longitude":117.3239,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":6561,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6b22\u5768"
+    ],
+    "qs:name":"Huantuo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669817,
+        102191569,
+        85632695,
+        136253041,
+        890513813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1807082,
+        "gp:id":2159839,
+        "qs:id":136666
+    },
+    "wof:country":"CN",
+    "wof:created":1469055772,
+    "wof:geomhash":"c4561a5e5abd5ab147d73805e8147c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513813,
+            "empire_id":136253041,
+            "locality_id":890512459,
+            "region_id":85669817
+        }
+    ],
+    "wof:id":890512459,
+    "wof:lastmodified":1505343887,
+    "wof:name":"Huantuo",
+    "wof:parent_id":890513813,
+    "wof:placetype":"locality",
+    "wof:population":6561,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.3239,
+    39.22634,
+    117.3239,
+    39.22634
+],
+  "geometry": {"coordinates":[117.32389999999999,39.22634],"type":"Point"}
+}

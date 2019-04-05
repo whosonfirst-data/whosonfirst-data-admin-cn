@@ -1,0 +1,78 @@
+{
+  "id": 1343428799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.17842,39.39993,114.17842,39.39993",
+    "geom:latitude":39.39993,
+    "geom:longitude":114.17842,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Zhijiaocun",
+    "gn:country_code":"CN",
+    "gn:dem":1065,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1784521,
+    "gn:latitude":39.39993,
+    "gn:longitude":114.17842,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Zhijiaocun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chih-chiao",
+        "Chih-chiao-ts\u2019un",
+        "Zhijiao",
+        "Zhijiaocun"
+    ],
+    "name:zho_x_preferred":[
+        "\u652f\u89d2\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        890516415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1784521
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"51ad9da963750999444468b8302f2d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516415,
+            "empire_id":136253041,
+            "locality_id":1343428799,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1343428799,
+    "wof:lastmodified":1537591932,
+    "wof:name":"Zhijiaocun",
+    "wof:parent_id":890516415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.17842,
+    39.39993,
+    114.17842,
+    39.39993
+],
+  "geometry": {"coordinates":[114.17842,39.39993],"type":"Point"}
+}

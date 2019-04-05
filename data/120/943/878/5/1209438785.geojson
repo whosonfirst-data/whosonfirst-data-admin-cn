@@ -1,0 +1,75 @@
+{
+  "id": 1209438785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.76495,34.52352,118.76495,34.52352",
+    "geom:latitude":34.52352,
+    "geom:longitude":118.76495,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Niushan",
+    "gn:country_code":"CN",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1799252,
+    "gn:latitude":34.52352,
+    "gn:longitude":118.76495,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Niushan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tung-hai",
+        "Niu-shan-chuang",
+        "Donghai Zhen",
+        "Niu-shan-chen",
+        "Niushan"
+    ],
+    "name:zho_x_preferred":[
+        "\u725b\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "\u4e1c\u6d77\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1799252,
+        "wk:page":"Donghai_County"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d2a514ba8311a657f2275e3391e01ba0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209438785
+        }
+    ],
+    "wof:id":1209438785,
+    "wof:lastmodified":1537592921,
+    "wof:name":"Niushan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.76495,
+    34.52352,
+    118.76495,
+    34.52352
+],
+  "geometry": {"coordinates":[118.76495,34.52352],"type":"Point"}
+}

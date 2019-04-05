@@ -1,0 +1,100 @@
+{
+  "id": 1125820775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.09307,39.93819,116.09307,39.93819",
+    "geom:latitude":39.93819,
+    "geom:longitude":116.09307,
+    "gn:gn_country":"CN",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":197772,
+    "gn:population":197772,
+    "iso:country":"CN",
+    "lbl:latitude":39.93819,
+    "lbl:longitude":116.09307,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Men-t\u2019ou-kou-ho-t\u2019an"
+    ],
+    "name:zho_x_preferred":[
+        "\u95e8\u5934\u6c9f"
+    ],
+    "qs_pg:aaroncc":"CN",
+    "qs_pg:gn_country":"CN",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1800657,
+    "qs_pg:gn_pop":197772,
+    "qs_pg:name":"\u95e8\u5934\u6c9f",
+    "qs_pg:name_adm0":"\u4e2d\u570b",
+    "qs_pg:name_adm1":"\u5317\u4eac\u76f4\u8f96\u5e02",
+    "qs_pg:photos":815,
+    "qs_pg:photos_1k":165,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":815,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":8570,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424781,
+    "qs_pg:woe_id":2151331,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424781,
+    "woe:name_adm0":"\u4e2d\u570b",
+    "woe:name_adm1":"\u5317\u4eac\u76f4\u8f96\u5e02",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85669727,
+        102191569,
+        85632695,
+        136253041,
+        1108732371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1800657,
+        "gp:id":2151331,
+        "qs_pg:id":8570
+    },
+    "wof:country":"CN",
+    "wof:created":1497292054,
+    "wof:geomhash":"c216435c20d7503c285c20e46e497717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732371,
+            "empire_id":136253041,
+            "locality_id":1125820775,
+            "region_id":85669727
+        }
+    ],
+    "wof:id":1125820775,
+    "wof:lastmodified":1509394087,
+    "wof:name":"\u95e8\u5934\u6c9f",
+    "wof:parent_id":1108732371,
+    "wof:placetype":"locality",
+    "wof:population":197772,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.09307,
+    39.93819,
+    116.09307,
+    39.93819
+],
+  "geometry": {"coordinates":[116.09307,39.93819],"type":"Point"}
+}

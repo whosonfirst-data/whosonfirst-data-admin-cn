@@ -1,0 +1,64 @@
+{
+  "id": 1209401425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.48562,32.23668,110.48562,32.23668",
+    "geom:latitude":32.23668,
+    "geom:longitude":110.48562,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sancha",
+    "gn:country_code":"CN",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8509679,
+    "gn:latitude":32.23668,
+    "gn:longitude":110.48562,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Sancha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e09\u5c94"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8509679
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4774ad49d3e22ed4378ef8327fca26e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209401425
+        }
+    ],
+    "wof:id":1209401425,
+    "wof:lastmodified":1537603955,
+    "wof:name":"Sancha",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.48562,
+    32.23668,
+    110.48562,
+    32.23668
+],
+  "geometry": {"coordinates":[110.48562,32.23668],"type":"Point"}
+}

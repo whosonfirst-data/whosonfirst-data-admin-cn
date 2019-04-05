@@ -1,0 +1,64 @@
+{
+  "id": 1209187223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.17944,32.76833,105.17944,32.76833",
+    "geom:latitude":32.76833,
+    "geom:longitude":105.17944,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Hekou",
+    "gn:country_code":"CN",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1914140,
+    "gn:latitude":32.76833,
+    "gn:longitude":105.17944,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Hekou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6cb3\u53e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1914140
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a07ca5cb2f8bc43b805706ab5315914e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209187223
+        }
+    ],
+    "wof:id":1209187223,
+    "wof:lastmodified":1537594653,
+    "wof:name":"Hekou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.17944,
+    32.76833,
+    105.17944,
+    32.76833
+],
+  "geometry": {"coordinates":[105.17944,32.76833],"type":"Point"}
+}

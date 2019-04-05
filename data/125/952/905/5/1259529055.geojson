@@ -1,0 +1,75 @@
+{
+  "id": 1259529055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.5288,32.13727,101.5288,32.13727",
+    "geom:latitude":32.13727,
+    "geom:longitude":101.5288,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Sa'erjiao",
+    "gn:country_code":"CN",
+    "gn:dem":3502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6984831,
+    "gn:latitude":32.13727,
+    "gn:longitude":101.5288,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sa\u2019erjiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8428\u5c14\u4ea4"
+    ],
+    "name:zho_x_variant":[
+        "Sa\u2019erjiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        1108794065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6984831
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a26d040cacca2d28cf341ed69e29a68a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794065,
+            "empire_id":136253041,
+            "locality_id":1259529055,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1259529055,
+    "wof:lastmodified":1537597253,
+    "wof:name":"Sa'erjiao",
+    "wof:parent_id":1108794065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.5288,
+    32.13727,
+    101.5288,
+    32.13727
+],
+  "geometry": {"coordinates":[101.5288,32.13727],"type":"Point"}
+}

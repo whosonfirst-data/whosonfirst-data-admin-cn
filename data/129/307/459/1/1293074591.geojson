@@ -1,0 +1,80 @@
+{
+  "id": 1293074591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.603,31.503,94.603,31.503",
+    "geom:latitude":31.503,
+    "geom:longitude":94.603,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chirong",
+    "gn:country_code":"CN",
+    "gn:dem":4755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8066924,
+    "gn:latitude":31.503,
+    "gn:longitude":94.603,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Chirong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Chirong"
+    ],
+    "name:zho_x_preferred":[
+        "Zerong"
+    ],
+    "name:zho_x_variant":[
+        "\u5219\u8363",
+        "Jilutong",
+        "\u7eaa\u8def\u901a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066924
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"016cb2c4042ede55a333b30406feaac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1293074591,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1293074591,
+    "wof:lastmodified":1537602523,
+    "wof:name":"Chirong",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.603,
+    31.503,
+    94.603,
+    31.503
+],
+  "geometry": {"coordinates":[94.60299999999999,31.503],"type":"Point"}
+}

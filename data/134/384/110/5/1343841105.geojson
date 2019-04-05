@@ -1,0 +1,78 @@
+{
+  "id": 1343841105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.103,30.403,91.103,30.403",
+    "geom:latitude":30.403,
+    "geom:longitude":91.103,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gyagaindo",
+    "gn:country_code":"CN",
+    "gn:dem":4850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8026591,
+    "gn:latitude":30.403,
+    "gn:longitude":91.103,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gyagaindo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Gyagaindo"
+    ],
+    "name:zho_x_preferred":[
+        "Jiagenduo"
+    ],
+    "name:zho_x_variant":[
+        "\u7532\u6839\u591a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026591
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6b431aa0a52a0a3f2615bb67ab3346fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515877,
+            "empire_id":136253041,
+            "locality_id":1343841105,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1343841105,
+    "wof:lastmodified":1537602180,
+    "wof:name":"Gyagaindo",
+    "wof:parent_id":890515877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.103,
+    30.403,
+    91.103,
+    30.403
+],
+  "geometry": {"coordinates":[91.10299999999999,30.403],"type":"Point"}
+}

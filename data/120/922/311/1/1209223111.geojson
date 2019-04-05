@@ -1,0 +1,64 @@
+{
+  "id": 1209223111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.70421,27.61055,119.70421,27.61055",
+    "geom:latitude":27.61055,
+    "geom:longitude":119.70421,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Xibin",
+    "gn:country_code":"CN",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11182140,
+    "gn:latitude":27.61055,
+    "gn:longitude":119.70421,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Xibin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6eaa\u6ee8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11182140
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b10994b4b26ef3abf19c6d8f4b72772b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209223111
+        }
+    ],
+    "wof:id":1209223111,
+    "wof:lastmodified":1537615700,
+    "wof:name":"Xibin",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.70421,
+    27.61055,
+    119.70421,
+    27.61055
+],
+  "geometry": {"coordinates":[119.70421,27.61055],"type":"Point"}
+}

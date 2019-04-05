@@ -1,0 +1,64 @@
+{
+  "id": 1209365337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.6,23.6908,101.6,23.6908",
+    "geom:latitude":23.6908,
+    "geom:longitude":101.6,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Dazhai",
+    "gn:country_code":"CN",
+    "gn:dem":1886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9931921,
+    "gn:latitude":23.6908,
+    "gn:longitude":101.6,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Dazhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u5be8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9931921
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b70f4522d5820838b02f6dac3e5c71ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209365337
+        }
+    ],
+    "wof:id":1209365337,
+    "wof:lastmodified":1537607704,
+    "wof:name":"Dazhai",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6,
+    23.6908,
+    101.6,
+    23.6908
+],
+  "geometry": {"coordinates":[101.59999999999999,23.6908],"type":"Point"}
+}

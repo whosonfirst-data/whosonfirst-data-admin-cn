@@ -1,0 +1,75 @@
+{
+  "id": 1310675587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.41838,40.63324,123.41838,40.63324",
+    "geom:latitude":40.63324,
+    "geom:longitude":123.41838,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Qinghuaguan",
+    "gn:country_code":"CN",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7404259,
+    "gn:latitude":40.63324,
+    "gn:longitude":123.41838,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qinghuaguan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9752\u534e\u89c2"
+    ],
+    "name:zho_x_preferred":[
+        "\u9752\u534e\u89c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7404259
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a55c4f2f37a87339d3f7faa320d24b66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514231,
+            "empire_id":136253041,
+            "locality_id":1310675587,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1310675587,
+    "wof:lastmodified":1537598902,
+    "wof:name":"Qinghuaguan",
+    "wof:parent_id":890514231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.41838,
+    40.63324,
+    123.41838,
+    40.63324
+],
+  "geometry": {"coordinates":[123.41838,40.63324],"type":"Point"}
+}

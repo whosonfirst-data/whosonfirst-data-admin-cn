@@ -1,0 +1,79 @@
+{
+  "id": 1193110787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.16475,30.45006,94.16475,30.45006",
+    "geom:latitude":30.45006,
+    "geom:longitude":94.16475,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yarlung",
+    "gn:country_code":"CN",
+    "gn:dem":3374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8078698,
+    "gn:latitude":30.45006,
+    "gn:longitude":94.16475,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Yarlung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Yarlung"
+    ],
+    "name:zho_x_preferred":[
+        "Yalong"
+    ],
+    "name:zho_x_variant":[
+        "\u4e9a\u9686",
+        "\u4e9a\u804b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8078698
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f4790f13e648673f119dcfeab5a07378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515951,
+            "empire_id":136253041,
+            "locality_id":1193110787,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1193110787,
+    "wof:lastmodified":1537602561,
+    "wof:name":"Yarlung",
+    "wof:parent_id":890515951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.16475,
+    30.45006,
+    94.16475,
+    30.45006
+],
+  "geometry": {"coordinates":[94.16475,30.45006],"type":"Point"}
+}

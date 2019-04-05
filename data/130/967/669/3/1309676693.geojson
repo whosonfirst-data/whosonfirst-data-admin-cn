@@ -1,0 +1,75 @@
+{
+  "id": 1309676693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.36046,49.23221,119.36046,49.23221",
+    "geom:latitude":49.23221,
+    "geom:longitude":119.36046,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bayanbu'erde",
+    "gn:country_code":"CN",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440090,
+    "gn:latitude":49.23221,
+    "gn:longitude":119.36046,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Bayanbu\u2019erde",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayanbu\u2019erde"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5f66\u5e03\u5c14\u5fb7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669847,
+        102191569,
+        85632695,
+        136253041,
+        1108732385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440090
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ac56c836da935fbd406d133023988194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732385,
+            "empire_id":136253041,
+            "locality_id":1309676693,
+            "region_id":85669847
+        }
+    ],
+    "wof:id":1309676693,
+    "wof:lastmodified":1537603717,
+    "wof:name":"Bayanbu'erde",
+    "wof:parent_id":1108732385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.36046,
+    49.23221,
+    119.36046,
+    49.23221
+],
+  "geometry": {"coordinates":[119.36046,49.23221],"type":"Point"}
+}

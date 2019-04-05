@@ -1,0 +1,64 @@
+{
+  "id": 1209338155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.36792,33.02649,120.36792,33.02649",
+    "geom:latitude":33.02649,
+    "geom:longitude":120.36792,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhushecun",
+    "gn:country_code":"CN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11541883,
+    "gn:latitude":33.02649,
+    "gn:longitude":120.36792,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Zhushecun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6731\u820d\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11541883
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7098306f68590ae1e1592d8dad61da44",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209338155
+        }
+    ],
+    "wof:id":1209338155,
+    "wof:lastmodified":1537617565,
+    "wof:name":"Zhushecun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.36792,
+    33.02649,
+    120.36792,
+    33.02649
+],
+  "geometry": {"coordinates":[120.36792,33.02649],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1260081777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.63303,28.52121,116.63303,28.52121",
+    "geom:latitude":28.52121,
+    "geom:longitude":116.63303,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Jiulong",
+    "gn:country_code":"CN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1805148,
+    "gn:latitude":28.52121,
+    "gn:longitude":116.63303,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Jiulong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiu-lung",
+        "Jiulong",
+        "\u4e5d\u9f99",
+        "Jiulong Zhen",
+        "\u4e5d\u9f99\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669823,
+        102191569,
+        85632695,
+        136253041,
+        890515869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1805148
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a3c07676819b59ee2ea6e36720394efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515869,
+            "empire_id":136253041,
+            "locality_id":1260081777,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":1260081777,
+    "wof:lastmodified":1537593293,
+    "wof:name":"Jiulong",
+    "wof:parent_id":890515869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.63303,
+    28.52121,
+    116.63303,
+    28.52121
+],
+  "geometry": {"coordinates":[116.63303000000001,28.52121],"type":"Point"}
+}

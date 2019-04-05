@@ -1,0 +1,75 @@
+{
+  "id": 1243599695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.48358,33.39301,102.48358,33.39301",
+    "geom:latitude":33.39301,
+    "geom:longitude":102.48358,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ga'erma",
+    "gn:country_code":"CN",
+    "gn:dem":3440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6958321,
+    "gn:latitude":33.39301,
+    "gn:longitude":102.48358,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ga\u2019erma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u560e\u5c14\u739b"
+    ],
+    "name:zho_x_variant":[
+        "Ga\u2019erma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        1108794065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6958321
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c06ac099825be5ca13f8a76bbac47cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794065,
+            "empire_id":136253041,
+            "locality_id":1243599695,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1243599695,
+    "wof:lastmodified":1537596884,
+    "wof:name":"Ga'erma",
+    "wof:parent_id":1108794065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.48358,
+    33.39301,
+    102.48358,
+    33.39301
+],
+  "geometry": {"coordinates":[102.48358,33.39301],"type":"Point"}
+}

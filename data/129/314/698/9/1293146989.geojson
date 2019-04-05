@@ -1,0 +1,77 @@
+{
+  "id": 1293146989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.70427,20.95086,109.70427,20.95086",
+    "geom:latitude":20.95086,
+    "geom:longitude":109.70427,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Baojincun",
+    "gn:country_code":"CN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1940800,
+    "gn:latitude":20.95086,
+    "gn:longitude":109.70427,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Baojincun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pao-chin",
+        "Baojin",
+        "Baojincun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5305\u91d1\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890514753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1940800
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"570c2327de6f12f27f97d78a21930daa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514753,
+            "empire_id":136253041,
+            "locality_id":1293146989,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1293146989,
+    "wof:lastmodified":1537595051,
+    "wof:name":"Baojincun",
+    "wof:parent_id":890514753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.70427,
+    20.95086,
+    109.70427,
+    20.95086
+],
+  "geometry": {"coordinates":[109.70426999999999,20.95086],"type":"Point"}
+}

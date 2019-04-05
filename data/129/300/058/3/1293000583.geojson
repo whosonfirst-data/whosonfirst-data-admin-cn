@@ -1,0 +1,76 @@
+{
+  "id": 1293000583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.54051,32.45824,120.54051,32.45824",
+    "geom:latitude":32.45824,
+    "geom:longitude":120.54051,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chaiwan",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1815835,
+    "gn:latitude":32.45824,
+    "gn:longitude":120.54051,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Chaiwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019ai-wan-chen",
+        "Chaiwan",
+        "\u67f4\u6e7e",
+        "Chaiwan Zhen",
+        "\u67f4\u6e7e\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1815835
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"90b5ff07baca88d2e9899c16069b8b1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515155,
+            "empire_id":136253041,
+            "locality_id":1293000583,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1293000583,
+    "wof:lastmodified":1537593968,
+    "wof:name":"Chaiwan",
+    "wof:parent_id":890515155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.54051,
+    32.45824,
+    120.54051,
+    32.45824
+],
+  "geometry": {"coordinates":[120.54051,32.45824],"type":"Point"}
+}

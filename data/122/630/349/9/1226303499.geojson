@@ -1,0 +1,84 @@
+{
+  "id": 1226303499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.1,24.41667,100.1,24.41667",
+    "geom:latitude":24.41667,
+    "geom:longitude":100.1,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Aihua",
+    "gn:country_code":"CN",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1785662,
+    "gn:latitude":24.41667,
+    "gn:longitude":100.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aihua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00fcn-hsien",
+        "Y\u00fcnchow",
+        "Y\u00fcn",
+        "Yunxian",
+        "Aihua"
+    ],
+    "name:zho_x_preferred":[
+        "Y\u00fcn-ch\u2019eng-chen"
+    ],
+    "name:zho_x_variant":[
+        "Y\u00fcn-hsien",
+        "Y\u00fcnchow",
+        "Y\u00fcn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        890514555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1785662
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f0bbf0a083b7bab802f1be7d25a59c07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514555,
+            "empire_id":136253041,
+            "locality_id":1226303499,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1226303499,
+    "wof:lastmodified":1537592010,
+    "wof:name":"Aihua",
+    "wof:parent_id":890514555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.1,
+    24.41667,
+    100.1,
+    24.41667
+],
+  "geometry": {"coordinates":[100.09999999999999,24.41667],"type":"Point"}
+}

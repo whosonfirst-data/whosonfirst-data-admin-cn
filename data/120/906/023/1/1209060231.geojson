@@ -1,0 +1,64 @@
+{
+  "id": 1209060231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.95956,31.44,108.95956,31.44",
+    "geom:latitude":31.44,
+    "geom:longitude":108.95956,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Zhongjia",
+    "gn:country_code":"CN",
+    "gn:dem":1140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8398259,
+    "gn:latitude":31.44,
+    "gn:longitude":108.95956,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Zhongjia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u949f\u5bb6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8398259
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"41db6d8f8efdd5a678a5c6ef4a48034e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209060231
+        }
+    ],
+    "wof:id":1209060231,
+    "wof:lastmodified":1537603258,
+    "wof:name":"Zhongjia",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.95956,
+    31.44,
+    108.95956,
+    31.44
+],
+  "geometry": {"coordinates":[108.95956,31.44],"type":"Point"}
+}

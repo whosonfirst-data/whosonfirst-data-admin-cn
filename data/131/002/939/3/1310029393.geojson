@@ -1,0 +1,78 @@
+{
+  "id": 1310029393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.85343,32.073,119.85343,32.073",
+    "geom:latitude":32.073,
+    "geom:longitude":119.85343,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jiepai",
+    "gn:country_code":"CN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1548638,
+    "gn:latitude":32.073,
+    "gn:longitude":119.85343,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Jiepai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jiepai Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u754c\u724c"
+    ],
+    "name:zho_x_variant":[
+        "\u754c\u724c\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        1108732521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1548638
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0a3175ffa4c2f28ca7784502cd2c0eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732521,
+            "empire_id":136253041,
+            "locality_id":1310029393,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1310029393,
+    "wof:lastmodified":1537591672,
+    "wof:name":"Jiepai",
+    "wof:parent_id":1108732521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.85343,
+    32.073,
+    119.85343,
+    32.073
+],
+  "geometry": {"coordinates":[119.85343,32.073],"type":"Point"}
+}

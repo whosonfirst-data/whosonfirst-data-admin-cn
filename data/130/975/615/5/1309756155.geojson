@@ -1,0 +1,76 @@
+{
+  "id": 1309756155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.52359,23.36626,114.52359,23.36626",
+    "geom:latitude":23.36626,
+    "geom:longitude":114.52359,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Luzhou",
+    "gn:country_code":"CN",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":7005968,
+    "gn:latitude":23.36626,
+    "gn:longitude":114.52359,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Luzhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luzhou Zhen",
+        "\u82a6\u6d32\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u82a6\u6d32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890516563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7005968
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"25d1be7d2c23e2d74cde230332744b0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516563,
+            "empire_id":136253041,
+            "locality_id":1309756155,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1309756155,
+    "wof:lastmodified":1537597336,
+    "wof:name":"Luzhou",
+    "wof:parent_id":890516563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.52358999999998,
+    23.36626,
+    114.52358999999998,
+    23.36626
+],
+  "geometry": {"coordinates":[114.52358999999998,23.36626],"type":"Point"}
+}

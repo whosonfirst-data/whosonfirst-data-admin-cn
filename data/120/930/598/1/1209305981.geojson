@@ -1,0 +1,64 @@
+{
+  "id": 1209305981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1778,25.26205,116.1778,25.26205",
+    "geom:latitude":25.26205,
+    "geom:longitude":116.1778,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chaoshan",
+    "gn:country_code":"CN",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7640453,
+    "gn:latitude":25.26205,
+    "gn:longitude":116.1778,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chaoshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u671d\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7640453
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"525f7c2f2d1e7c711dea1c32382b92d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209305981
+        }
+    ],
+    "wof:id":1209305981,
+    "wof:lastmodified":1537600441,
+    "wof:name":"Chaoshan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1778,
+    25.26205,
+    116.1778,
+    25.26205
+],
+  "geometry": {"coordinates":[116.1778,25.26205],"type":"Point"}
+}

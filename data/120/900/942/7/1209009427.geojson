@@ -1,0 +1,64 @@
+{
+  "id": 1209009427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.00169,34.04134,119.00169,34.04134",
+    "geom:latitude":34.04134,
+    "geom:longitude":119.00169,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dongchang",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9801913,
+    "gn:latitude":34.04134,
+    "gn:longitude":119.00169,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Dongchang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e1c\u573a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9801913
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"369feca51059b31c5f96212b5a0bf115",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209009427
+        }
+    ],
+    "wof:id":1209009427,
+    "wof:lastmodified":1537606387,
+    "wof:name":"Dongchang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.00169,
+    34.04134000000001,
+    119.00169,
+    34.04134000000001
+],
+  "geometry": {"coordinates":[119.00169,34.04134000000001],"type":"Point"}
+}

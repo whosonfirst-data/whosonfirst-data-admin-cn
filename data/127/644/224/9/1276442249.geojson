@@ -1,0 +1,80 @@
+{
+  "id": 1276442249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.56128,34.0343,118.56128,34.0343",
+    "geom:latitude":34.0343,
+    "geom:longitude":118.56128,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Hanjicun",
+    "gn:country_code":"CN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1808919,
+    "gn:latitude":34.0343,
+    "gn:longitude":118.56128,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Hanjicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Han-chi",
+        "Hanji",
+        "Hanjicun"
+    ],
+    "name:zho_x_preferred":[
+        "\u97e9\u96c6"
+    ],
+    "name:zho_x_variant":[
+        "\u97e9\u96c6\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890512205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1808919
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"35428f92bcc41227212efba81e0ffc7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512205,
+            "empire_id":136253041,
+            "locality_id":1276442249,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1276442249,
+    "wof:lastmodified":1537593536,
+    "wof:name":"Hanjicun",
+    "wof:parent_id":890512205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.56128,
+    34.0343,
+    118.56128,
+    34.0343
+],
+  "geometry": {"coordinates":[118.56128,34.0343],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209065763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4269,30.1206,103.4269,30.1206",
+    "geom:latitude":30.1206,
+    "geom:longitude":103.4269,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Baiyun",
+    "gn:country_code":"CN",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6997652,
+    "gn:latitude":30.1206,
+    "gn:longitude":103.4269,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Baiyun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u767d\u4e91"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6997652
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bc04bd5cdc7a372472cdb0b31471e191",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209065763
+        }
+    ],
+    "wof:id":1209065763,
+    "wof:lastmodified":1537597272,
+    "wof:name":"Baiyun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4269,
+    30.1206,
+    103.4269,
+    30.1206
+],
+  "geometry": {"coordinates":[103.4269,30.1206],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209218523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.83209,29.82183,116.83209,29.82183",
+    "geom:latitude":29.82183,
+    "geom:longitude":116.83209,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taoling",
+    "gn:country_code":"CN",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7640742,
+    "gn:latitude":29.82183,
+    "gn:longitude":116.83209,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taoling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6843\u5cad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7640742
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4742cb12347cecdcaa8a448a4356eb1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209218523
+        }
+    ],
+    "wof:id":1209218523,
+    "wof:lastmodified":1537600451,
+    "wof:name":"Taoling",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.83209,
+    29.82183,
+    116.83209,
+    29.82183
+],
+  "geometry": {"coordinates":[116.83208999999999,29.82183],"type":"Point"}
+}

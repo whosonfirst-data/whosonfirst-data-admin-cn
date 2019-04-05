@@ -1,0 +1,64 @@
+{
+  "id": 1209067179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.981,25.491,103.981,25.491",
+    "geom:latitude":25.491,
+    "geom:longitude":103.981,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Zhuangke",
+    "gn:country_code":"CN",
+    "gn:dem":2111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10157723,
+    "gn:latitude":25.491,
+    "gn:longitude":103.981,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Zhuangke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5e84\u67ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10157723
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"58f8d7fa1120ec6a36b2a3858d6d2a9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209067179
+        }
+    ],
+    "wof:id":1209067179,
+    "wof:lastmodified":1537610682,
+    "wof:name":"Zhuangke",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.981,
+    25.491,
+    103.981,
+    25.491
+],
+  "geometry": {"coordinates":[103.98099999999999,25.491],"type":"Point"}
+}

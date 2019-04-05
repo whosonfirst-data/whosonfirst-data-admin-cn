@@ -1,0 +1,78 @@
+{
+  "id": 1243337119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.501,28.201,86.501,28.201",
+    "geom:latitude":28.201,
+    "geom:longitude":86.501,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gyarag",
+    "gn:country_code":"CN",
+    "gn:dem":5520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8026486,
+    "gn:latitude":28.201,
+    "gn:longitude":86.501,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gyarag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Gyarag"
+    ],
+    "name:zho_x_preferred":[
+        "Jiabula"
+    ],
+    "name:zho_x_variant":[
+        "\u52a0\u5e03\u62c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026486
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d493244459589259c5a4a16656e96dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1243337119,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1243337119,
+    "wof:lastmodified":1537602173,
+    "wof:name":"Gyarag",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.501,
+    28.201,
+    86.501,
+    28.201
+],
+  "geometry": {"coordinates":[86.501,28.201],"type":"Point"}
+}

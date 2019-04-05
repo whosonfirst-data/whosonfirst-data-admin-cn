@@ -1,0 +1,75 @@
+{
+  "id": 1226823799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.49339,41.33183,123.49339,41.33183",
+    "geom:latitude":41.33183,
+    "geom:longitude":123.49339,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Xiagangyao",
+    "gn:country_code":"CN",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7397747,
+    "gn:latitude":41.33183,
+    "gn:longitude":123.49339,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Xiagangyao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e0b\u7f38\u7a91"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u7f38\u7a91"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7397747
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fe0d9c5b55537d0346f33c6fc5325ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514643,
+            "empire_id":136253041,
+            "locality_id":1226823799,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1226823799,
+    "wof:lastmodified":1537598531,
+    "wof:name":"Xiagangyao",
+    "wof:parent_id":890514643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.49339,
+    41.33183,
+    123.49339,
+    41.33183
+],
+  "geometry": {"coordinates":[123.49339000000001,41.33183],"type":"Point"}
+}

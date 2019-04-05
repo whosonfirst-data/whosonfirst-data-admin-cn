@@ -1,0 +1,64 @@
+{
+  "id": 1209512573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.23696,33.82923,100.23696,33.82923",
+    "geom:latitude":33.82923,
+    "geom:longitude":100.23696,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kela",
+    "gn:country_code":"CN",
+    "gn:dem":3998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8450463,
+    "gn:latitude":33.82923,
+    "gn:longitude":100.23696,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Kela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u79d1\u62c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8450463
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e11f5dc3510c666a45f5b04737135ac8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209512573
+        }
+    ],
+    "wof:id":1209512573,
+    "wof:lastmodified":1537603760,
+    "wof:name":"Kela",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.23696,
+    33.82923,
+    100.23696,
+    33.82923
+],
+  "geometry": {"coordinates":[100.23696,33.82923],"type":"Point"}
+}

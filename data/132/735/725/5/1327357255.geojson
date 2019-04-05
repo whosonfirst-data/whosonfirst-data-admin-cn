@@ -1,0 +1,76 @@
+{
+  "id": 1327357255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.64242,31.95631,121.64242,31.95631",
+    "geom:latitude":31.95631,
+    "geom:longitude":121.64242,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Fu'an",
+    "gn:country_code":"CN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1887522,
+    "gn:latitude":31.95631,
+    "gn:longitude":121.64242,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Fu\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fu-an-chen",
+        "Fu\u2019an",
+        "\u5bcc\u5b89",
+        "Fu\u2019anzhen",
+        "\u5bcc\u5b89\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1887522
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e7eac2fa9828be4cd70afb62616ce182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515155,
+            "empire_id":136253041,
+            "locality_id":1327357255,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1327357255,
+    "wof:lastmodified":1537594244,
+    "wof:name":"Fu'an",
+    "wof:parent_id":890515155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.64242,
+    31.95631,
+    121.64242,
+    31.95631
+],
+  "geometry": {"coordinates":[121.64242,31.95631],"type":"Point"}
+}

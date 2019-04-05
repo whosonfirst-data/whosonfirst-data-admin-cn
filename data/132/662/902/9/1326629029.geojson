@@ -1,0 +1,77 @@
+{
+  "id": 1326629029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.88318,42.9382,125.88318,42.9382",
+    "geom:latitude":42.9382,
+    "geom:longitude":125.88318,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Songjiajiecun",
+    "gn:country_code":"CN",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2046316,
+    "gn:latitude":42.9382,
+    "gn:longitude":125.88318,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Songjiajiecun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sung-chia-chieh",
+        "Songjiajie",
+        "Songjiajiecun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b8b\u5bb6\u8857\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669843,
+        102191569,
+        85632695,
+        136253041,
+        890516735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2046316
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"63970ff4b02992d38bb9ef9e5ccca09f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516735,
+            "empire_id":136253041,
+            "locality_id":1326629029,
+            "region_id":85669843
+        }
+    ],
+    "wof:id":1326629029,
+    "wof:lastmodified":1537595904,
+    "wof:name":"Songjiajiecun",
+    "wof:parent_id":890516735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.88318,
+    42.9382,
+    125.88318,
+    42.9382
+],
+  "geometry": {"coordinates":[125.88318,42.9382],"type":"Point"}
+}

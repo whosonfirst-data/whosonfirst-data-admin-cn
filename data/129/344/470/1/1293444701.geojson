@@ -1,0 +1,80 @@
+{
+  "id": 1293444701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.59728,34.89414,109.59728,34.89414",
+    "geom:latitude":34.89414,
+    "geom:longitude":109.59728,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Donglucun",
+    "gn:country_code":"CN",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1910339,
+    "gn:latitude":34.89414,
+    "gn:longitude":109.59728,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Donglucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dongchencun",
+        "Donglu",
+        "Donglucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u9c81"
+    ],
+    "name:zho_x_variant":[
+        "\u4e1c\u9c81\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890511937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1910339
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b7839e40b1778ec71c9893ea765a5226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890511937,
+            "empire_id":136253041,
+            "locality_id":1293444701,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1293444701,
+    "wof:lastmodified":1537594579,
+    "wof:name":"Donglucun",
+    "wof:parent_id":890511937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.59728,
+    34.89414,
+    109.59728,
+    34.89414
+],
+  "geometry": {"coordinates":[109.59728,34.89414],"type":"Point"}
+}

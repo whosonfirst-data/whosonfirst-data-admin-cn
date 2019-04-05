@@ -1,0 +1,64 @@
+{
+  "id": 1209261433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.96,25.6992,100.96,25.6992",
+    "geom:latitude":25.6992,
+    "geom:longitude":100.96,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ziladi",
+    "gn:country_code":"CN",
+    "gn:dem":1796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10150947,
+    "gn:latitude":25.6992,
+    "gn:longitude":100.96,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Ziladi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5b50\u814a\u5730"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10150947
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9d1d9086878de5736166fac04c2185ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209261433
+        }
+    ],
+    "wof:id":1209261433,
+    "wof:lastmodified":1537610472,
+    "wof:name":"Ziladi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.96,
+    25.6992,
+    100.96,
+    25.6992
+],
+  "geometry": {"coordinates":[100.95999999999999,25.6992],"type":"Point"}
+}

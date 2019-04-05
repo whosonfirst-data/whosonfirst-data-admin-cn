@@ -1,0 +1,81 @@
+{
+  "id": 1242824811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.25,22.03333,100.25,22.03333",
+    "geom:latitude":22.03333,
+    "geom:longitude":100.25,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Mengzhe",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1800668,
+    "gn:latitude":22.03333,
+    "gn:longitude":100.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mengzhe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wu-fu",
+        "Meng-che",
+        "Wufu-hsien",
+        "Nan-chiao",
+        "Mangse",
+        "Nan-chiao-hsien",
+        "Pan-na-meng-che",
+        "Nankiao",
+        "Mengzhe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        1108732499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1800668
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a299125ae29b728b1b956c35641208cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732499,
+            "empire_id":136253041,
+            "locality_id":1242824811,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1242824811,
+    "wof:lastmodified":1537593001,
+    "wof:name":"Mengzhe",
+    "wof:parent_id":1108732499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.25,
+    22.03333,
+    100.25,
+    22.03333
+],
+  "geometry": {"coordinates":[100.25,22.03333],"type":"Point"}
+}

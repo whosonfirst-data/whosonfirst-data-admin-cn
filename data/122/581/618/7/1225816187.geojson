@@ -1,0 +1,78 @@
+{
+  "id": 1225816187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.001,29.901,98.001,29.901",
+    "geom:latitude":29.901,
+    "geom:longitude":98.001,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tangza",
+    "gn:country_code":"CN",
+    "gn:dem":4559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8078172,
+    "gn:latitude":29.901,
+    "gn:longitude":98.001,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Tangza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Tangza"
+    ],
+    "name:zho_x_preferred":[
+        "Tongsha"
+    ],
+    "name:zho_x_variant":[
+        "\u901a\u6c99"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8078172
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d6a7d4792a81c7b69cc2e89d28a3ccea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1225816187,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1225816187,
+    "wof:lastmodified":1537602547,
+    "wof:name":"Tangza",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.001,
+    29.901,
+    98.001,
+    29.901
+],
+  "geometry": {"coordinates":[98.001,29.901],"type":"Point"}
+}

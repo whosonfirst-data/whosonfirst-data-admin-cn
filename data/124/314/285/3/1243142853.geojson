@@ -1,0 +1,78 @@
+{
+  "id": 1243142853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.9,29.8,98.9,29.8",
+    "geom:latitude":29.8,
+    "geom:longitude":98.9,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yorba",
+    "gn:country_code":"CN",
+    "gn:dem":4524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8078867,
+    "gn:latitude":29.8,
+    "gn:longitude":98.9,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Yorba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Yorba"
+    ],
+    "name:zho_x_preferred":[
+        "Yueba"
+    ],
+    "name:zho_x_variant":[
+        "\u7ea6\u5df4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8078867
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6462b1ad46e82ae76b2ee857def694dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1243142853,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1243142853,
+    "wof:lastmodified":1537602571,
+    "wof:name":"Yorba",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.9,
+    29.8,
+    98.9,
+    29.8
+],
+  "geometry": {"coordinates":[98.90000000000001,29.8],"type":"Point"}
+}

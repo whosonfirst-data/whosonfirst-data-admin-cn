@@ -1,0 +1,76 @@
+{
+  "id": 1225868717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.39844,32.73281,120.39844,32.73281",
+    "geom:latitude":32.73281,
+    "geom:longitude":120.39844,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Anfeng",
+    "gn:country_code":"CN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1818093,
+    "gn:latitude":32.73281,
+    "gn:longitude":120.39844,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Anfeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An-feng-chen",
+        "Anfeng",
+        "\u5b89\u4e30",
+        "Anfeng Zhen",
+        "\u5b89\u4e30\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818093
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5a92e80b514ddb9d2ff7f0f39e887c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515153,
+            "empire_id":136253041,
+            "locality_id":1225868717,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1225868717,
+    "wof:lastmodified":1537594114,
+    "wof:name":"Anfeng",
+    "wof:parent_id":890515153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.39844,
+    32.73281,
+    120.39844,
+    32.73281
+],
+  "geometry": {"coordinates":[120.39843999999999,32.73281],"type":"Point"}
+}

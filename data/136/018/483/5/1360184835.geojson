@@ -1,0 +1,75 @@
+{
+  "id": 1360184835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.13709,31.70867,120.13709,31.70867",
+    "geom:latitude":31.70867,
+    "geom:longitude":120.13709,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhonghejing",
+    "gn:country_code":"CN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7332605,
+    "gn:latitude":31.70867,
+    "gn:longitude":120.13709,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Zhonghejing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e2d\u6cb3\u6cfe"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u6cb3\u6cfe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890514735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7332605
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"17c2897d66430dc8d7d776e033b3ea93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514735,
+            "empire_id":136253041,
+            "locality_id":1360184835,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1360184835,
+    "wof:lastmodified":1537598104,
+    "wof:name":"Zhonghejing",
+    "wof:parent_id":890514735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.13709,
+    31.70867,
+    120.13709,
+    31.70867
+],
+  "geometry": {"coordinates":[120.13709,31.70867],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209511437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.49156,51.69617,123.49156,51.69617",
+    "geom:latitude":51.69617,
+    "geom:longitude":123.49156,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Baishan",
+    "gn:country_code":"CN",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472134,
+    "gn:latitude":51.69617,
+    "gn:longitude":123.49156,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Baishan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u767d\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472134
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e59aedbe74f8bb47f6421db467972c10",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209511437
+        }
+    ],
+    "wof:id":1209511437,
+    "wof:lastmodified":1537603880,
+    "wof:name":"Baishan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.49156,
+    51.69617,
+    123.49156,
+    51.69617
+],
+  "geometry": {"coordinates":[123.49156000000001,51.69617],"type":"Point"}
+}

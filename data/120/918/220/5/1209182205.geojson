@@ -1,0 +1,64 @@
+{
+  "id": 1209182205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.62031,35.38628,110.62031,35.38628",
+    "geom:latitude":35.38628,
+    "geom:longitude":110.62031,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Zhuangtoucun",
+    "gn:country_code":"CN",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11425753,
+    "gn:latitude":35.38628,
+    "gn:longitude":110.62031,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Zhuangtoucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5e84\u5934\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11425753
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"21ca859eef9e8265fa5eb7ed3ee5cbc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209182205
+        }
+    ],
+    "wof:id":1209182205,
+    "wof:lastmodified":1537616392,
+    "wof:name":"Zhuangtoucun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.62031,
+    35.38628,
+    110.62031,
+    35.38628
+],
+  "geometry": {"coordinates":[110.62031,35.38628],"type":"Point"}
+}

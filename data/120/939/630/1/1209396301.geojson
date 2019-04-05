@@ -1,0 +1,64 @@
+{
+  "id": 1209396301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.118,25.388,109.118,25.388",
+    "geom:latitude":25.388,
+    "geom:longitude":109.118,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yuanbao",
+    "gn:country_code":"CN",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9941234,
+    "gn:latitude":25.388,
+    "gn:longitude":109.118,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Yuanbao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5143\u5b9d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9941234
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"88744f506ce68f75c7f22445b29e3add",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209396301
+        }
+    ],
+    "wof:id":1209396301,
+    "wof:lastmodified":1537608017,
+    "wof:name":"Yuanbao",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.118,
+    25.388,
+    109.118,
+    25.388
+],
+  "geometry": {"coordinates":[109.11799999999999,25.388],"type":"Point"}
+}

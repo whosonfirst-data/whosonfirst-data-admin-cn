@@ -1,0 +1,75 @@
+{
+  "id": 1343435173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.8295,49.03427,123.8295,49.03427",
+    "geom:latitude":49.03427,
+    "geom:longitude":123.8295,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ku'erti",
+    "gn:country_code":"CN",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8442236,
+    "gn:latitude":49.03427,
+    "gn:longitude":123.8295,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Ku\u2019erti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ku\u2019erti"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e93\u5c14\u63d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669847,
+        102191569,
+        85632695,
+        136253041,
+        1108732385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8442236
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"64cc3e7a2f8b4c7d108354ceb5623877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732385,
+            "empire_id":136253041,
+            "locality_id":1343435173,
+            "region_id":85669847
+        }
+    ],
+    "wof:id":1343435173,
+    "wof:lastmodified":1537603723,
+    "wof:name":"Ku'erti",
+    "wof:parent_id":1108732385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.8295,
+    49.03427,
+    123.8295,
+    49.03427
+],
+  "geometry": {"coordinates":[123.8295,49.03427],"type":"Point"}
+}

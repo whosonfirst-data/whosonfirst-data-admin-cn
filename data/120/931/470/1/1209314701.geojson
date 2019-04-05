@@ -1,0 +1,64 @@
+{
+  "id": 1209314701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.77865,32.00077,119.77865,32.00077",
+    "geom:latitude":32.00077,
+    "geom:longitude":119.77865,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Panjia",
+    "gn:country_code":"CN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8265203,
+    "gn:latitude":32.00077,
+    "gn:longitude":119.77865,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Panjia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6f58\u5bb6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8265203
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"71c6e7243d7079c258155a070e0004d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209314701
+        }
+    ],
+    "wof:id":1209314701,
+    "wof:lastmodified":1537602840,
+    "wof:name":"Panjia",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.77865,
+    32.00077,
+    119.77865,
+    32.00077
+],
+  "geometry": {"coordinates":[119.77865,32.00077],"type":"Point"}
+}

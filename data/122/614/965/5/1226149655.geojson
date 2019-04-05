@@ -1,0 +1,76 @@
+{
+  "id": 1226149655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.56755,28.73525,116.56755,28.73525",
+    "geom:latitude":28.73525,
+    "geom:longitude":116.56755,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Santang",
+    "gn:country_code":"CN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1796590,
+    "gn:latitude":28.73525,
+    "gn:longitude":116.56755,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Santang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San-t\u2019ang-shih",
+        "Santang",
+        "\u4e09\u5858",
+        "Santang Xiang",
+        "\u4e09\u5858\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669823,
+        102191569,
+        85632695,
+        136253041,
+        890515869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1796590
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"263c6685020fdebe6d05b498fe92ec10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515869,
+            "empire_id":136253041,
+            "locality_id":1226149655,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":1226149655,
+    "wof:lastmodified":1537592744,
+    "wof:name":"Santang",
+    "wof:parent_id":890515869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.56755,
+    28.73525,
+    116.56755,
+    28.73525
+],
+  "geometry": {"coordinates":[116.56755,28.73525],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243172353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.08147,32.50684,121.08147,32.50684",
+    "geom:latitude":32.50684,
+    "geom:longitude":121.08147,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Xinhai Yizu",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":7741922,
+    "gn:latitude":32.50684,
+    "gn:longitude":121.08147,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Xinhai Yizu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Xinhai Yizu"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u6d77\u4e00\u7ec4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7741922
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"cdb9db21614f30ab9ad4646fe4f70b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515155,
+            "empire_id":136253041,
+            "locality_id":1243172353,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1243172353,
+    "wof:lastmodified":1537601365,
+    "wof:name":"Xinhai Yizu",
+    "wof:parent_id":890515155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.08147,
+    32.50684,
+    121.08147,
+    32.50684
+],
+  "geometry": {"coordinates":[121.08147,32.50684],"type":"Point"}
+}

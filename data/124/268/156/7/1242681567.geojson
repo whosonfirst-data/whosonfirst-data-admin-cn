@@ -1,0 +1,79 @@
+{
+  "id": 1242681567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.61047,30.38174,116.61047,30.38174",
+    "geom:latitude":30.38174,
+    "geom:longitude":116.61047,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Leibucun",
+    "gn:country_code":"CN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1804244,
+    "gn:latitude":30.38174,
+    "gn:longitude":116.61047,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Leibucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leigongbu",
+        "Lei-kung-fou",
+        "Lei-kung-pu",
+        "Leibu",
+        "Leibucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u57e0\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890516201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1804244
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"791ed9cc662a5db862381c374b17bbd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516201,
+            "empire_id":136253041,
+            "locality_id":1242681567,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1242681567,
+    "wof:lastmodified":1537593240,
+    "wof:name":"Leibucun",
+    "wof:parent_id":890516201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.61047,
+    30.38174,
+    116.61047,
+    30.38174
+],
+  "geometry": {"coordinates":[116.61047000000001,30.38174],"type":"Point"}
+}

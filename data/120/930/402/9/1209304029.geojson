@@ -1,0 +1,65 @@
+{
+  "id": 1209304029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.11561,33.53904,112.11561,33.53904",
+    "geom:latitude":33.53904,
+    "geom:longitude":112.11561,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Donggou",
+    "gn:country_code":"CN",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7046842,
+    "gn:latitude":33.53904,
+    "gn:longitude":112.11561,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Donggou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e1c\u6c9f",
+        "Donggou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7046842
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1e5f336d907ee6a72861a5eb468d4828",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209304029
+        }
+    ],
+    "wof:id":1209304029,
+    "wof:lastmodified":1537597511,
+    "wof:name":"Donggou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.11561,
+    33.53904,
+    112.11561,
+    33.53904
+],
+  "geometry": {"coordinates":[112.11561,33.53904],"type":"Point"}
+}

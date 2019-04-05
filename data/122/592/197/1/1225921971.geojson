@@ -1,0 +1,75 @@
+{
+  "id": 1225921971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.81111,27.21722,111.81111,27.21722",
+    "geom:latitude":27.21722,
+    "geom:longitude":111.81111,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zhouguanqiao",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1784171,
+    "gn:latitude":27.21722,
+    "gn:longitude":111.81111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhouguanqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chou-Kuan",
+        "Zhouguan",
+        "Zhouguanqiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890514309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1784171
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e1a396f0ca33f8370c43f3485be3eb6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514309,
+            "empire_id":136253041,
+            "locality_id":1225921971,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1225921971,
+    "wof:lastmodified":1537591907,
+    "wof:name":"Zhouguanqiao",
+    "wof:parent_id":890514309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.81111,
+    27.21722,
+    111.81111,
+    27.21722
+],
+  "geometry": {"coordinates":[111.81111,27.21722],"type":"Point"}
+}

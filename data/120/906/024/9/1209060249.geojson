@@ -1,0 +1,64 @@
+{
+  "id": 1209060249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.60123,29.73659,106.60123,29.73659",
+    "geom:latitude":29.73659,
+    "geom:longitude":106.60123,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Shuidong",
+    "gn:country_code":"CN",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8417069,
+    "gn:latitude":29.73659,
+    "gn:longitude":106.60123,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Shuidong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6c34\u6d1e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8417069
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b2f605560046244df1904a53768b9ac8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209060249
+        }
+    ],
+    "wof:id":1209060249,
+    "wof:lastmodified":1537603572,
+    "wof:name":"Shuidong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.60123,
+    29.73659,
+    106.60123,
+    29.73659
+],
+  "geometry": {"coordinates":[106.60123,29.73659],"type":"Point"}
+}

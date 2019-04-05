@@ -1,0 +1,77 @@
+{
+  "id": 1225902003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.89732,35.95552,110.89732,35.95552",
+    "geom:latitude":35.95552,
+    "geom:longitude":110.89732,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Renyicun",
+    "gn:country_code":"CN",
+    "gn:dem":1220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1797166,
+    "gn:latitude":35.95552,
+    "gn:longitude":110.89732,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Renyicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jen-i",
+        "Renyi",
+        "Renyicun"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ec1\u4e49\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        1108732337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1797166
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2d9e1e9c4ca8b874daea34d64ae555a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732337,
+            "empire_id":136253041,
+            "locality_id":1225902003,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1225902003,
+    "wof:lastmodified":1537592786,
+    "wof:name":"Renyicun",
+    "wof:parent_id":1108732337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.89732,
+    35.95552,
+    110.89732,
+    35.95552
+],
+  "geometry": {"coordinates":[110.89731999999999,35.95552],"type":"Point"}
+}

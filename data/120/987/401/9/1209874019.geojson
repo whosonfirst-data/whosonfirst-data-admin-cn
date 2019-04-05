@@ -1,0 +1,77 @@
+{
+  "id": 1209874019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.06787,35.91031,112.06787,35.91031",
+    "geom:latitude":35.91031,
+    "geom:longitude":112.06787,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Shanjiao",
+    "gn:country_code":"CN",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1795989,
+    "gn:latitude":35.91031,
+    "gn:longitude":112.06787,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Shanjiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shan-chiao",
+        "Shan-chiao-ts\u2019un",
+        "Shanjiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c71\u4ea4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        1108732337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1795989
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b980e9afc96bf4044135add25ee942b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732337,
+            "empire_id":136253041,
+            "locality_id":1209874019,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1209874019,
+    "wof:lastmodified":1537592703,
+    "wof:name":"Shanjiao",
+    "wof:parent_id":1108732337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.06787,
+    35.91031,
+    112.06787,
+    35.91031
+],
+  "geometry": {"coordinates":[112.06787,35.91031],"type":"Point"}
+}

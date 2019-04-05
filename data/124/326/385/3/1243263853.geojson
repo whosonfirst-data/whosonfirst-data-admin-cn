@@ -1,0 +1,75 @@
+{
+  "id": 1243263853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.18115,32.87425,120.18115,32.87425",
+    "geom:latitude":32.87425,
+    "geom:longitude":120.18115,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jundeqiao",
+    "gn:country_code":"CN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7528620,
+    "gn:latitude":32.87425,
+    "gn:longitude":120.18115,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Jundeqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4fca\u5fb7\u6865"
+    ],
+    "name:zho_x_preferred":[
+        "\u4fca\u5fb7\u6865"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7528620
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"71d5f8ac916ad9d4be3a7bba7b282452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516237,
+            "empire_id":136253041,
+            "locality_id":1243263853,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1243263853,
+    "wof:lastmodified":1537599979,
+    "wof:name":"Jundeqiao",
+    "wof:parent_id":890516237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.18115,
+    32.87425,
+    120.18115,
+    32.87425
+],
+  "geometry": {"coordinates":[120.18115,32.87425],"type":"Point"}
+}

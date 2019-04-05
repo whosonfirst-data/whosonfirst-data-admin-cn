@@ -1,0 +1,75 @@
+{
+  "id": 1226826005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.4715,29.95555,111.4715,29.95555",
+    "geom:latitude":29.95555,
+    "geom:longitude":111.4715,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Huaqiaoyu",
+    "gn:country_code":"CN",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8134372,
+    "gn:latitude":29.95555,
+    "gn:longitude":111.4715,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Huaqiaoyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Huaqiaoyu"
+    ],
+    "name:zho_x_variant":[
+        "\u82b1\u6865\u5cea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8134372
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3c4fbca4ab7e645edd92a98f9a2f31d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732489,
+            "empire_id":136253041,
+            "locality_id":1226826005,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1226826005,
+    "wof:lastmodified":1537602588,
+    "wof:name":"Huaqiaoyu",
+    "wof:parent_id":1108732489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.4715,
+    29.95555,
+    111.4715,
+    29.95555
+],
+  "geometry": {"coordinates":[111.47150000000001,29.95555],"type":"Point"}
+}

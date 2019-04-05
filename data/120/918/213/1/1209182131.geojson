@@ -1,0 +1,64 @@
+{
+  "id": 1209182131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.39874,38.84164,112.39874,38.84164",
+    "geom:latitude":38.84164,
+    "geom:longitude":112.39874,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kuantan",
+    "gn:country_code":"CN",
+    "gn:dem":1523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11454978,
+    "gn:latitude":38.84164,
+    "gn:longitude":112.39874,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Kuantan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5bbd\u6ee9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11454978
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"908602cae819b63a8cd3bc9da99c0918",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209182131
+        }
+    ],
+    "wof:id":1209182131,
+    "wof:lastmodified":1537616659,
+    "wof:name":"Kuantan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.39874,
+    38.84164000000001,
+    112.39874,
+    38.84164000000001
+],
+  "geometry": {"coordinates":[112.39874,38.84164000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226133187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.51963,45.51162,128.51963,45.51162",
+    "geom:latitude":45.51162,
+    "geom:longitude":128.51963,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Anshan",
+    "gn:country_code":"CN",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2038631,
+    "gn:latitude":45.51162,
+    "gn:longitude":128.51963,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Anshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anshan Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "\u5b89\u5c71\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890516235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2038631
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6306d2beedca5f11d303c88f0bc6ab41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516235,
+            "empire_id":136253041,
+            "locality_id":1226133187,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1226133187,
+    "wof:lastmodified":1537595896,
+    "wof:name":"Anshan",
+    "wof:parent_id":890516235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.51963,
+    45.51162,
+    128.51963,
+    45.51162
+],
+  "geometry": {"coordinates":[128.51963000000001,45.51162],"type":"Point"}
+}

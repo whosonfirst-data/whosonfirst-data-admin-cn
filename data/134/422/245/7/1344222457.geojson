@@ -1,0 +1,75 @@
+{
+  "id": 1344222457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.61199,41.92802,123.61199,41.92802",
+    "geom:latitude":41.92802,
+    "geom:longitude":123.61199,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Zhongguantun",
+    "gn:country_code":"CN",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7398104,
+    "gn:latitude":41.92802,
+    "gn:longitude":123.61199,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhongguantun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4ef2\u5b98\u5c6f"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ef2\u5b98\u5c6f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7398104
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a9c54bc5ecd75f5b715aa9019778a89d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732451,
+            "empire_id":136253041,
+            "locality_id":1344222457,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1344222457,
+    "wof:lastmodified":1537598551,
+    "wof:name":"Zhongguantun",
+    "wof:parent_id":1108732451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.61199,
+    41.92802,
+    123.61199,
+    41.92802
+],
+  "geometry": {"coordinates":[123.61199000000001,41.92802],"type":"Point"}
+}

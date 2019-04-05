@@ -1,0 +1,64 @@
+{
+  "id": 1209221095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.988,25.725,113.988,25.725",
+    "geom:latitude":25.725,
+    "geom:longitude":113.988,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Yandongkeng",
+    "gn:country_code":"CN",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9613775,
+    "gn:latitude":25.725,
+    "gn:longitude":113.988,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Yandongkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u76d0\u4e1c\u5751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9613775
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"df8ac45f87b683299f71534438fb8111",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209221095
+        }
+    ],
+    "wof:id":1209221095,
+    "wof:lastmodified":1537605934,
+    "wof:name":"Yandongkeng",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.988,
+    25.725,
+    113.988,
+    25.725
+],
+  "geometry": {"coordinates":[113.988,25.725],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226317381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.88366,41.75475,124.88366,41.75475",
+    "geom:latitude":41.75475,
+    "geom:longitude":124.88366,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Sujiabu",
+    "gn:country_code":"CN",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7398848,
+    "gn:latitude":41.75475,
+    "gn:longitude":124.88366,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Sujiabu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sujiapu",
+        "\u82cf\u5bb6\u5821",
+        "Sujiabu"
+    ],
+    "name:zho_x_preferred":[
+        "\u82cf\u5bb6\u5821"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890513011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7398848
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d5f177ff899b1cc2bafc1e10de529df8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513011,
+            "empire_id":136253041,
+            "locality_id":1226317381,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1226317381,
+    "wof:lastmodified":1537598589,
+    "wof:name":"Sujiabu",
+    "wof:parent_id":890513011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.88366,
+    41.75475,
+    124.88366,
+    41.75475
+],
+  "geometry": {"coordinates":[124.88366000000001,41.75475],"type":"Point"}
+}

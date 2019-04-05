@@ -1,0 +1,64 @@
+{
+  "id": 1209587919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.002,23.6624,108.002,23.6624",
+    "geom:latitude":23.6624,
+    "geom:longitude":108.002,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Pozhai",
+    "gn:country_code":"CN",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9929123,
+    "gn:latitude":23.6624,
+    "gn:longitude":108.002,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Pozhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5761\u5be8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9929123
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"37d2056664e50272dc911ff5a9cb1393",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209587919
+        }
+    ],
+    "wof:id":1209587919,
+    "wof:lastmodified":1537607612,
+    "wof:name":"Pozhai",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.002,
+    23.6624,
+    108.002,
+    23.6624
+],
+  "geometry": {"coordinates":[108.002,23.6624],"type":"Point"}
+}

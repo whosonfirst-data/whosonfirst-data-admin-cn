@@ -1,0 +1,64 @@
+{
+  "id": 1209660911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.346,31.3329,105.346,31.3329",
+    "geom:latitude":31.3329,
+    "geom:longitude":105.346,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Fengling",
+    "gn:country_code":"CN",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10162779,
+    "gn:latitude":31.3329,
+    "gn:longitude":105.346,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Fengling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5cf0\u5cad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10162779
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"aedbdbbf87ebde29248a19a2c87146e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209660911
+        }
+    ],
+    "wof:id":1209660911,
+    "wof:lastmodified":1537610850,
+    "wof:name":"Fengling",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.346,
+    31.3329,
+    105.346,
+    31.3329
+],
+  "geometry": {"coordinates":[105.346,31.3329],"type":"Point"}
+}

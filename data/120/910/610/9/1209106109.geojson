@@ -1,0 +1,64 @@
+{
+  "id": 1209106109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.2222,33.32643,120.2222,33.32643",
+    "geom:latitude":33.32643,
+    "geom:longitude":120.2222,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Wudong",
+    "gn:country_code":"CN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8991271,
+    "gn:latitude":33.32643,
+    "gn:longitude":120.2222,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Wudong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4f0d\u4e1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8991271
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9ce3a35b3cc4637ebd1ce60247300639",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209106109
+        }
+    ],
+    "wof:id":1209106109,
+    "wof:lastmodified":1537604974,
+    "wof:name":"Wudong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.2222,
+    33.32643,
+    120.2222,
+    33.32643
+],
+  "geometry": {"coordinates":[120.2222,33.32643],"type":"Point"}
+}

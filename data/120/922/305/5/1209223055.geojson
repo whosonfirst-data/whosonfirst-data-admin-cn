@@ -1,0 +1,64 @@
+{
+  "id": 1209223055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.56468,28.41874,119.56468,28.41874",
+    "geom:latitude":28.41874,
+    "geom:longitude":119.56468,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Longwan",
+    "gn:country_code":"CN",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11151700,
+    "gn:latitude":28.41874,
+    "gn:longitude":119.56468,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Longwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9f99\u6e7e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11151700
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"573cea3b149f229dce2cb44ceeacbdbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209223055
+        }
+    ],
+    "wof:id":1209223055,
+    "wof:lastmodified":1537615647,
+    "wof:name":"Longwan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.56468,
+    28.41874,
+    119.56468,
+    28.41874
+],
+  "geometry": {"coordinates":[119.56468,28.41874],"type":"Point"}
+}

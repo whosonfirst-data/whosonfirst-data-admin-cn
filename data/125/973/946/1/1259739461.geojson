@@ -1,0 +1,77 @@
+{
+  "id": 1259739461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.30775,31.01866,121.30775,31.01866",
+    "geom:latitude":31.01866,
+    "geom:longitude":121.30775,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Chedun",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1815347,
+    "gn:latitude":31.01866,
+    "gn:longitude":121.30775,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Chedun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019e-tun",
+        "Ch\u2019e-tun-chen",
+        "Chedun",
+        "\u8f66\u58a9",
+        "Chedun Zhen",
+        "\u8f66\u58a9\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669831,
+        102191569,
+        85632695,
+        136253041,
+        890514815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1815347
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5b1debe6f6ac57738bf6d4b5743f78c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514815,
+            "empire_id":136253041,
+            "locality_id":1259739461,
+            "region_id":85669831
+        }
+    ],
+    "wof:id":1259739461,
+    "wof:lastmodified":1537593940,
+    "wof:name":"Chedun",
+    "wof:parent_id":890514815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.30775,
+    31.01866,
+    121.30775,
+    31.01866
+],
+  "geometry": {"coordinates":[121.30775,31.01866],"type":"Point"}
+}

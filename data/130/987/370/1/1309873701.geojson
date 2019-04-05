@@ -1,0 +1,76 @@
+{
+  "id": 1309873701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.71276,39.55337,111.71276,39.55337",
+    "geom:latitude":39.55337,
+    "geom:longitude":111.71276,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Baicaoping",
+    "gn:country_code":"CN",
+    "gn:dem":1278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1817769,
+    "gn:latitude":39.55337,
+    "gn:longitude":111.71276,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Baicaoping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pai-ts\u2019ao-p\u2019ing",
+        "Baicaoping"
+    ],
+    "name:zho_x_preferred":[
+        "\u767e\u8349\u576a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        890513031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1817769
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"23fd2395f36ec9ef6b8aa625c83776c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513031,
+            "empire_id":136253041,
+            "locality_id":1309873701,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1309873701,
+    "wof:lastmodified":1537594094,
+    "wof:name":"Baicaoping",
+    "wof:parent_id":890513031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.71276,
+    39.55337,
+    111.71276,
+    39.55337
+],
+  "geometry": {"coordinates":[111.71276,39.55337],"type":"Point"}
+}

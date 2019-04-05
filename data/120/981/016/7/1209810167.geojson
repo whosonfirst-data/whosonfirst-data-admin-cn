@@ -1,0 +1,69 @@
+{
+  "id": 1209810167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.95,53.3,123.95,53.3",
+    "geom:latitude":53.3,
+    "geom:longitude":123.95,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Emur",
+    "gn:country_code":"CN",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2037521,
+    "gn:latitude":53.3,
+    "gn:longitude":123.95,
+    "gn:modification_date":"1994-02-05",
+    "gn:name":"Emur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        1108732399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2037521
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"cd4804a36289519189224328d1940ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732399,
+            "empire_id":136253041,
+            "locality_id":1209810167,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1209810167,
+    "wof:lastmodified":1536386801,
+    "wof:name":"Emur",
+    "wof:parent_id":1108732399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.95,
+    53.3,
+    123.95,
+    53.3
+],
+  "geometry": {"coordinates":[123.95,53.3],"type":"Point"}
+}

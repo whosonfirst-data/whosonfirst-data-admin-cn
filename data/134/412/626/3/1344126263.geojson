@@ -1,0 +1,84 @@
+{
+  "id": 1344126263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.78967,22.39967,106.78967,22.39967",
+    "geom:latitude":22.39967,
+    "geom:longitude":106.78967,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Longzhou",
+    "gn:country_code":"CN",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1802249,
+    "gn:latitude":22.39967,
+    "gn:longitude":106.78967,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Longzhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Li-chiang",
+        "Lung-hsien",
+        "Lung-ching-hsien",
+        "Lung-ching",
+        "Lungchow-hsien",
+        "Lung-chou-chen",
+        "Lung-chou",
+        "Lung-shou",
+        "Lungchow",
+        "Longzhou"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f99\u5dde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669717,
+        102191569,
+        85632695,
+        136253041,
+        890513103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1802249
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d5eb2bb7d62cfb3d1042ebfeeec4b1c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513103,
+            "empire_id":136253041,
+            "locality_id":1344126263,
+            "region_id":85669717
+        }
+    ],
+    "wof:id":1344126263,
+    "wof:lastmodified":1537593108,
+    "wof:name":"Longzhou",
+    "wof:parent_id":890513103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.78967,
+    22.39967,
+    106.78967,
+    22.39967
+],
+  "geometry": {"coordinates":[106.78967,22.39967],"type":"Point"}
+}

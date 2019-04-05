@@ -1,0 +1,77 @@
+{
+  "id": 1243091361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.61768,32.44769,119.61768,32.44769",
+    "geom:latitude":32.44769,
+    "geom:longitude":119.61768,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhuanqiao",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1784004,
+    "gn:latitude":32.44769,
+    "gn:longitude":119.61768,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Zhuanqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chuan-ch\u2019iao",
+        "Chuan-ch\u2019iao-chen",
+        "Zhuanqiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u7816\u6865"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1784004
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3cfbe0fae12d67857d0c42091ef91f2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516397,
+            "empire_id":136253041,
+            "locality_id":1243091361,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1243091361,
+    "wof:lastmodified":1537591895,
+    "wof:name":"Zhuanqiao",
+    "wof:parent_id":890516397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.61768,
+    32.44769,
+    119.61768,
+    32.44769
+],
+  "geometry": {"coordinates":[119.61767999999999,32.44769],"type":"Point"}
+}

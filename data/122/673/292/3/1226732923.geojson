@@ -1,0 +1,80 @@
+{
+  "id": 1226732923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.301,30.401,92.301,30.401",
+    "geom:latitude":30.401,
+    "geom:longitude":92.301,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kurtang",
+    "gn:country_code":"CN",
+    "gn:dem":5322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8026392,
+    "gn:latitude":30.401,
+    "gn:longitude":92.301,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kurtang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Kurtang"
+    ],
+    "name:zho_x_preferred":[
+        "Hutang"
+    ],
+    "name:zho_x_variant":[
+        "\u80e1\u5858",
+        "Cuomai Gongshe",
+        "\u63aa\u9ea6\u516c\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026392
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f9b277d8374c0608c3d6e82ab70a8f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1226732923,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226732923,
+    "wof:lastmodified":1537602167,
+    "wof:name":"Kurtang",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.301,
+    30.401,
+    92.301,
+    30.401
+],
+  "geometry": {"coordinates":[92.301,30.401],"type":"Point"}
+}

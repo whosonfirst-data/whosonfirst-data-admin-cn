@@ -1,0 +1,77 @@
+{
+  "id": 1242972345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.7061,28.0246,114.7061,28.0246",
+    "geom:latitude":28.0246,
+    "geom:longitude":114.7061,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Gaolan",
+    "gn:country_code":"CN",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1810496,
+    "gn:latitude":28.0246,
+    "gn:longitude":114.7061,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gaolan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kao-feng",
+        "Kao-lan",
+        "Gaolan",
+        "\u9ad8\u5c9a",
+        "Gaolan Xiang",
+        "\u9ad8\u5c9a\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669823,
+        102191569,
+        85632695,
+        136253041,
+        890515379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1810496
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"59728e1671016a074abd42f385a7d253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515379,
+            "empire_id":136253041,
+            "locality_id":1242972345,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":1242972345,
+    "wof:lastmodified":1537593640,
+    "wof:name":"Gaolan",
+    "wof:parent_id":890515379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.7061,
+    28.0246,
+    114.7061,
+    28.0246
+],
+  "geometry": {"coordinates":[114.70610000000001,28.0246],"type":"Point"}
+}

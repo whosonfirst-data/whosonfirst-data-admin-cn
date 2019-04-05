@@ -1,0 +1,69 @@
+{
+  "id": 1344117513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8,25.75,101.8,25.75",
+    "geom:latitude":25.75,
+    "geom:longitude":101.8,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Pingtian",
+    "gn:country_code":"CN",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1798674,
+    "gn:latitude":25.75,
+    "gn:longitude":101.8,
+    "gn:modification_date":"2000-10-27",
+    "gn:name":"Pingtian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        1108732445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1798674
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1ec7bc948bcf6e51373f6411e9361bc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732445,
+            "empire_id":136253041,
+            "locality_id":1344117513,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1344117513,
+    "wof:lastmodified":1536793724,
+    "wof:name":"Pingtian",
+    "wof:parent_id":1108732445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8,
+    25.75,
+    101.8,
+    25.75
+],
+  "geometry": {"coordinates":[101.8,25.75],"type":"Point"}
+}

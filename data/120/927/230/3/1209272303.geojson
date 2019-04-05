@@ -1,0 +1,64 @@
+{
+  "id": 1209272303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.25891,39.73133,112.25891,39.73133",
+    "geom:latitude":39.73133,
+    "geom:longitude":112.25891,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Huodi",
+    "gn:country_code":"CN",
+    "gn:dem":1583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7508732,
+    "gn:latitude":39.73133,
+    "gn:longitude":112.25891,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Huodi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4f19\u5730"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7508732
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8bc9fe22e5d1435099a6dbede2292cb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209272303
+        }
+    ],
+    "wof:id":1209272303,
+    "wof:lastmodified":1537599441,
+    "wof:name":"Huodi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.25891,
+    39.73133,
+    112.25891,
+    39.73133
+],
+  "geometry": {"coordinates":[112.25891,39.73133],"type":"Point"}
+}

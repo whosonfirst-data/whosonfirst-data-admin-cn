@@ -1,0 +1,81 @@
+{
+  "id": 1226233645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.24056,25.3925,118.24056,25.3925",
+    "geom:latitude":25.3925,
+    "geom:longitude":118.24056,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Wufeng",
+    "gn:country_code":"CN",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1921077,
+    "gn:latitude":25.3925,
+    "gn:longitude":118.24056,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Wufeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qiaotoupu",
+        "Wufeng",
+        "Wufeng Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u543e\u5cf0"
+    ],
+    "name:zho_x_variant":[
+        "\u543e\u5cf0\u9547",
+        "\u6865\u5934\u57d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890514127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1921077
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f59569ebe2bdabfb8b6f67de0edbdfe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514127,
+            "empire_id":136253041,
+            "locality_id":1226233645,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1226233645,
+    "wof:lastmodified":1537594865,
+    "wof:name":"Wufeng",
+    "wof:parent_id":890514127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.24056000000002,
+    25.3925,
+    118.24056000000002,
+    25.3925
+],
+  "geometry": {"coordinates":[118.24056000000002,25.3925],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209255883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.14264,30.65843,108.14264,30.65843",
+    "geom:latitude":30.65843,
+    "geom:longitude":108.14264,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Shizhu",
+    "gn:country_code":"CN",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8404056,
+    "gn:latitude":30.65843,
+    "gn:longitude":108.14264,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Shizhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u77f3\u732a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8404056
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b405ffff218b8f7865c9089df856daff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209255883
+        }
+    ],
+    "wof:id":1209255883,
+    "wof:lastmodified":1537603376,
+    "wof:name":"Shizhu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.14264,
+    30.65843,
+    108.14264,
+    30.65843
+],
+  "geometry": {"coordinates":[108.14264,30.65843],"type":"Point"}
+}

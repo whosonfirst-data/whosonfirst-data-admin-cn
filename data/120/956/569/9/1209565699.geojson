@@ -1,0 +1,64 @@
+{
+  "id": 1209565699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.1495,24.3382,99.1495,24.3382",
+    "geom:latitude":24.3382,
+    "geom:longitude":99.1495,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Guadeng",
+    "gn:country_code":"CN",
+    "gn:dem":1241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9938593,
+    "gn:latitude":24.3382,
+    "gn:longitude":99.1495,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Guadeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6302\u706f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9938593
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"faf7a175672fa8db5988621278e9ef67",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209565699
+        }
+    ],
+    "wof:id":1209565699,
+    "wof:lastmodified":1537607933,
+    "wof:name":"Guadeng",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.1495,
+    24.3382,
+    99.1495,
+    24.3382
+],
+  "geometry": {"coordinates":[99.1495,24.3382],"type":"Point"}
+}

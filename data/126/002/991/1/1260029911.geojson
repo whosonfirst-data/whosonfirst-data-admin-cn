@@ -1,0 +1,76 @@
+{
+  "id": 1260029911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.57926,24.52711,115.57926,24.52711",
+    "geom:latitude":24.52711,
+    "geom:longitude":115.57926,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Luofu",
+    "gn:country_code":"CN",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1801951,
+    "gn:latitude":24.52711,
+    "gn:longitude":115.57926,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Luofu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lo-fu",
+        "Luofu",
+        "Luofu Zhen",
+        "\u7f57\u6d6e\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890516561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1801951,
+        "wk:page":"Luofu%2C_Meizhou"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a3c5094723ddb6cff2ed28f6ee83c455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516561,
+            "empire_id":136253041,
+            "locality_id":1260029911,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1260029911,
+    "wof:lastmodified":1537593086,
+    "wof:name":"Luofu",
+    "wof:parent_id":890516561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.57926,
+    24.52711,
+    115.57926,
+    24.52711
+],
+  "geometry": {"coordinates":[115.57926,24.52711],"type":"Point"}
+}

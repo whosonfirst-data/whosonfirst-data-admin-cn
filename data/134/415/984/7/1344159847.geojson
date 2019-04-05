@@ -1,0 +1,78 @@
+{
+  "id": 1344159847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.12189,30.07428,121.12189,30.07428",
+    "geom:latitude":30.07428,
+    "geom:longitude":121.12189,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Fanzhoucun",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1881484,
+    "gn:latitude":30.07428,
+    "gn:longitude":121.12189,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Fanzhoucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fanzhou",
+        "\u7548\u5468",
+        "Fan-chou-ts\u2019un",
+        "Fanzhoucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u7548\u5468\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1881484
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"68ecfd3a6663afe590c671723b817332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516553,
+            "empire_id":136253041,
+            "locality_id":1344159847,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1344159847,
+    "wof:lastmodified":1537594139,
+    "wof:name":"Fanzhoucun",
+    "wof:parent_id":890516553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.12189,
+    30.07428,
+    121.12189,
+    30.07428
+],
+  "geometry": {"coordinates":[121.12188999999999,30.07428],"type":"Point"}
+}

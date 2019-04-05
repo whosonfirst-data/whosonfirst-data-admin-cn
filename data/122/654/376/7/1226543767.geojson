@@ -1,0 +1,82 @@
+{
+  "id": 1226543767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.11667,30.15,116.11667,30.15",
+    "geom:latitude":30.15,
+    "geom:longitude":116.11667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Fuyu",
+    "gn:country_code":"CN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1793761,
+    "gn:latitude":30.15,
+    "gn:longitude":116.11667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Fuyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Su-sung-hsien",
+        "Su-sung",
+        "Susong",
+        "Fuyu",
+        "Susong Xian"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b5a\u7389"
+    ],
+    "name:zho_x_variant":[
+        "\u5bbf\u677e\u53bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890516201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1793761
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2f9cb89e3ceeb022048582b41e7e8ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516201,
+            "empire_id":136253041,
+            "locality_id":1226543767,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1226543767,
+    "wof:lastmodified":1537592550,
+    "wof:name":"Fuyu",
+    "wof:parent_id":890516201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.11667,
+    30.15,
+    116.11667,
+    30.15
+],
+  "geometry": {"coordinates":[116.11667,30.15],"type":"Point"}
+}

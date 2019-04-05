@@ -1,0 +1,78 @@
+{
+  "id": 1259576843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.63225,27.57009,117.63225,27.57009",
+    "geom:latitude":27.57009,
+    "geom:longitude":117.63225,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hamalong",
+    "gn:country_code":"CN",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007443,
+    "gn:latitude":27.57009,
+    "gn:longitude":117.63225,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Hamalong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hama"
+    ],
+    "name:zho_x_preferred":[
+        "\u86e4\u87c6\u5785"
+    ],
+    "name:zho_x_variant":[
+        "\u86e4\u87c6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007443
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"32a15ac4e8ca64faa079611d52731882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516651,
+            "empire_id":136253041,
+            "locality_id":1259576843,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1259576843,
+    "wof:lastmodified":1537615115,
+    "wof:name":"Hamalong",
+    "wof:parent_id":890516651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.63225,
+    27.57009,
+    117.63225,
+    27.57009
+],
+  "geometry": {"coordinates":[117.63225,27.57009],"type":"Point"}
+}

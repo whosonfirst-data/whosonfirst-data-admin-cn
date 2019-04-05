@@ -1,0 +1,77 @@
+{
+  "id": 1226004261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.52812,30.63078,106.52812,30.63078",
+    "geom:latitude":30.63078,
+    "geom:longitude":106.52812,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Goujiao",
+    "gn:country_code":"CN",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1810056,
+    "gn:latitude":30.63078,
+    "gn:longitude":106.52812,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Goujiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kou-chiao-chen",
+        "Goujiaozhen",
+        "Goujiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u82df\u89d2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890516355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1810056
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4bc17e36d89ff240e499239e20b48f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516355,
+            "empire_id":136253041,
+            "locality_id":1226004261,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1226004261,
+    "wof:lastmodified":1537593610,
+    "wof:name":"Goujiao",
+    "wof:parent_id":890516355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.52812,
+    30.63078,
+    106.52812,
+    30.63078
+],
+  "geometry": {"coordinates":[106.52812,30.63078],"type":"Point"}
+}

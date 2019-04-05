@@ -1,0 +1,64 @@
+{
+  "id": 1209585009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.27,23.0737,110.27,23.0737",
+    "geom:latitude":23.0737,
+    "geom:longitude":110.27,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yaoyingpo",
+    "gn:country_code":"CN",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9894943,
+    "gn:latitude":23.0737,
+    "gn:longitude":110.27,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Yaoyingpo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8000\u82f1\u5761"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9894943
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d984b39bd9e3497966532a05c74e1dee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209585009
+        }
+    ],
+    "wof:id":1209585009,
+    "wof:lastmodified":1537606608,
+    "wof:name":"Yaoyingpo",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.27,
+    23.0737,
+    110.27,
+    23.0737
+],
+  "geometry": {"coordinates":[110.27,23.0737],"type":"Point"}
+}

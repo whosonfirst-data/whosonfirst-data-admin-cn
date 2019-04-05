@@ -1,0 +1,78 @@
+{
+  "id": 1326690993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.59232,24.82894,99.59232,24.82894",
+    "geom:latitude":24.82894,
+    "geom:longitude":99.59232,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Youdian",
+    "gn:country_code":"CN",
+    "gn:dem":1822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1281542,
+    "gn:latitude":24.82894,
+    "gn:longitude":99.59232,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Youdian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yu-tien",
+        "Yu-tien-hsien-tso",
+        "Changning",
+        "Youdian"
+    ],
+    "name:zho_x_preferred":[
+        "\u53f3\u7538"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        890514251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1281542
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"703e54cfc3b7518b649f5a7f788a17bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514251,
+            "empire_id":136253041,
+            "locality_id":1326690993,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1326690993,
+    "wof:lastmodified":1537591528,
+    "wof:name":"Youdian",
+    "wof:parent_id":890514251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.59232,
+    24.82894,
+    99.59232,
+    24.82894
+],
+  "geometry": {"coordinates":[99.59232,24.82894],"type":"Point"}
+}

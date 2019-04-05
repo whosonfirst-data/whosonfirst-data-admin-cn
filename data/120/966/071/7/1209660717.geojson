@@ -1,0 +1,64 @@
+{
+  "id": 1209660717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.182,28.6336,102.182,28.6336",
+    "geom:latitude":28.6336,
+    "geom:longitude":102.182,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Pofu",
+    "gn:country_code":"CN",
+    "gn:dem":1889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10211930,
+    "gn:latitude":28.6336,
+    "gn:longitude":102.182,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Pofu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8feb\u592b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10211930
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"46108db6f51ee3ec58be8e4b3c4d0fed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209660717
+        }
+    ],
+    "wof:id":1209660717,
+    "wof:lastmodified":1537611458,
+    "wof:name":"Pofu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.182,
+    28.6336,
+    102.182,
+    28.6336
+],
+  "geometry": {"coordinates":[102.182,28.6336],"type":"Point"}
+}

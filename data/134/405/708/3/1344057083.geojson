@@ -1,0 +1,77 @@
+{
+  "id": 1344057083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.1615,32.44989,120.1615,32.44989",
+    "geom:latitude":32.44989,
+    "geom:longitude":120.1615,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Wangshicun",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1548498,
+    "gn:latitude":32.44989,
+    "gn:longitude":120.1615,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Wangshicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wangshi",
+        "\u738b\u77f3",
+        "Wangshicun"
+    ],
+    "name:zho_x_preferred":[
+        "\u738b\u77f3\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1548498
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3260fbc82134ba27e4d2b113b32fd6f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516237,
+            "empire_id":136253041,
+            "locality_id":1344057083,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1344057083,
+    "wof:lastmodified":1537591665,
+    "wof:name":"Wangshicun",
+    "wof:parent_id":890516237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.1615,
+    32.44989,
+    120.1615,
+    32.44989
+],
+  "geometry": {"coordinates":[120.1615,32.44989],"type":"Point"}
+}

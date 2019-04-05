@@ -1,0 +1,64 @@
+{
+  "id": 1209465519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.355,24.3301,103.355,24.3301",
+    "geom:latitude":24.3301,
+    "geom:longitude":103.355,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Dawojiu",
+    "gn:country_code":"CN",
+    "gn:dem":1393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6825045,
+    "gn:latitude":24.3301,
+    "gn:longitude":103.355,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Dawojiu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u7a9d\u65e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6825045
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5b249dd39417d2d91e4906380ced4a2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209465519
+        }
+    ],
+    "wof:id":1209465519,
+    "wof:lastmodified":1537596285,
+    "wof:name":"Dawojiu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.355,
+    24.3301,
+    103.355,
+    24.3301
+],
+  "geometry": {"coordinates":[103.355,24.3301],"type":"Point"}
+}

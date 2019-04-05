@@ -1,0 +1,76 @@
+{
+  "id": 1293789075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.91278,33.90944,118.91278,33.90944",
+    "geom:latitude":33.90944,
+    "geom:longitude":118.91278,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Qianji",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1798324,
+    "gn:latitude":33.90944,
+    "gn:longitude":118.91278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Qianji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019ien-chi",
+        "Tsienkiatsi",
+        "Ch\u2019ien-chia-chi",
+        "Qianji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890512205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1798324
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1feba451afe9a2f01eeab2c201a6019f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512205,
+            "empire_id":136253041,
+            "locality_id":1293789075,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1293789075,
+    "wof:lastmodified":1537592867,
+    "wof:name":"Qianji",
+    "wof:parent_id":890512205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.91278,
+    33.90944,
+    118.91278,
+    33.90944
+],
+  "geometry": {"coordinates":[118.91278,33.90944],"type":"Point"}
+}

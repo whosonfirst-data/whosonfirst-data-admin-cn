@@ -1,0 +1,78 @@
+{
+  "id": 1242848071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.702,31.602,94.702,31.602",
+    "geom:latitude":31.602,
+    "geom:longitude":94.702,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Galoka",
+    "gn:country_code":"CN",
+    "gn:dem":4422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930197,
+    "gn:latitude":31.602,
+    "gn:longitude":94.702,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Galoka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Galoka"
+    ],
+    "name:zho_x_preferred":[
+        "Galuoka"
+    ],
+    "name:zho_x_variant":[
+        "\u560e\u7f57\u5361"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930197
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f28e2818eb1010a75240fb903d16a6fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1242848071,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1242848071,
+    "wof:lastmodified":1537602080,
+    "wof:name":"Galoka",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.702,
+    31.602,
+    94.702,
+    31.602
+],
+  "geometry": {"coordinates":[94.702,31.602],"type":"Point"}
+}

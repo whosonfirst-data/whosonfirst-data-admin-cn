@@ -1,0 +1,64 @@
+{
+  "id": 1209275305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.63,25.4152,101.63,25.4152",
+    "geom:latitude":25.4152,
+    "geom:longitude":101.63,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Zhangyuanchong",
+    "gn:country_code":"CN",
+    "gn:dem":1890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10150181,
+    "gn:latitude":25.4152,
+    "gn:longitude":101.63,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Zhangyuanchong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5f20\u5143\u51b2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10150181
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"53d7df13f29c5f1a03aa123880a774db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209275305
+        }
+    ],
+    "wof:id":1209275305,
+    "wof:lastmodified":1537610445,
+    "wof:name":"Zhangyuanchong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.63,
+    25.4152,
+    101.63,
+    25.4152
+],
+  "geometry": {"coordinates":[101.63,25.4152],"type":"Point"}
+}

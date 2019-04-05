@@ -1,0 +1,82 @@
+{
+  "id": 1243176001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.16101,31.29362,119.16101,31.29362",
+    "geom:latitude":31.29362,
+    "geom:longitude":119.16101,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dingbu",
+    "gn:country_code":"CN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1812821,
+    "gn:latitude":31.29362,
+    "gn:longitude":119.16101,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Dingbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ting-pu",
+        "Ting-fou-chen",
+        "Ting-fou",
+        "Dingbu",
+        "Dingbu Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b9a\u57e0"
+    ],
+    "name:zho_x_variant":[
+        "\u5b9a\u57e0\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890515063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1812821
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"427334e271fdb864f4b9f172aea483f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515063,
+            "empire_id":136253041,
+            "locality_id":1243176001,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1243176001,
+    "wof:lastmodified":1537593788,
+    "wof:name":"Dingbu",
+    "wof:parent_id":890515063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.16101,
+    31.29362,
+    119.16101,
+    31.29362
+],
+  "geometry": {"coordinates":[119.16101,31.29362],"type":"Point"}
+}

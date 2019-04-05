@@ -1,0 +1,75 @@
+{
+  "id": 1225831679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.93517,29.92458,109.93517,29.92458",
+    "geom:latitude":29.92458,
+    "geom:longitude":109.93517,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zhongmawan",
+    "gn:country_code":"CN",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7893339,
+    "gn:latitude":29.92458,
+    "gn:longitude":109.93517,
+    "gn:modification_date":"2011-08-10",
+    "gn:name":"Zhongmawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Zhongmawan"
+    ],
+    "name:zho_x_variant":[
+        "\u4e2d\u9a6c\u5f2f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7893339
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"64ab6d88c42d9eef639106a5bf337d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732427,
+            "empire_id":136253041,
+            "locality_id":1225831679,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1225831679,
+    "wof:lastmodified":1537601843,
+    "wof:name":"Zhongmawan",
+    "wof:parent_id":1108732427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.93517,
+    29.92458,
+    109.93517,
+    29.92458
+],
+  "geometry": {"coordinates":[109.93517,29.92458],"type":"Point"}
+}

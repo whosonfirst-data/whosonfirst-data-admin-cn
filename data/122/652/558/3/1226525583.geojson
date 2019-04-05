@@ -1,0 +1,78 @@
+{
+  "id": 1226525583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.3,28.7,88.3,28.7",
+    "geom:latitude":28.7,
+    "geom:longitude":88.3,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gangdo",
+    "gn:country_code":"CN",
+    "gn:dem":5768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930301,
+    "gn:latitude":28.7,
+    "gn:longitude":88.3,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gangdo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Gangdo"
+    ],
+    "name:zho_x_preferred":[
+        "Gangduo"
+    ],
+    "name:zho_x_variant":[
+        "\u5c97\u6735"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930301
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"daa238a1a77c2e204a2e8093969ed390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1226525583,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226525583,
+    "wof:lastmodified":1537602087,
+    "wof:name":"Gangdo",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.3,
+    28.7,
+    88.3,
+    28.7
+],
+  "geometry": {"coordinates":[88.3,28.7],"type":"Point"}
+}

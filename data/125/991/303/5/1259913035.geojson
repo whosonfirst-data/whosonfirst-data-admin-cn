@@ -1,0 +1,78 @@
+{
+  "id": 1259913035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.72861,18.58106,108.72861,18.58106",
+    "geom:latitude":18.58106,
+    "geom:longitude":108.72861,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Foluo",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1811105,
+    "gn:latitude":18.58106,
+    "gn:longitude":108.72861,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Foluo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fo-lo",
+        "Foluo",
+        "Foluo Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f5b\u7f57"
+    ],
+    "name:zho_x_variant":[
+        "\u4f5b\u7f57\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632695,
+        85669759,
+        1108732345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1811105
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"39bf1d2e9b1ef7dc7be08b9ca436331a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732345,
+            "locality_id":1259913035,
+            "region_id":85669759
+        }
+    ],
+    "wof:id":1259913035,
+    "wof:lastmodified":1537593680,
+    "wof:name":"Foluo",
+    "wof:parent_id":1108732345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.72861,
+    18.58106,
+    108.72861,
+    18.58106
+],
+  "geometry": {"coordinates":[108.72861,18.58106],"type":"Point"}
+}

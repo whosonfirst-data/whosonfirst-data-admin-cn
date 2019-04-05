@@ -1,0 +1,78 @@
+{
+  "id": 1193251945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.601,29.401,95.601,29.401",
+    "geom:latitude":29.401,
+    "geom:longitude":95.601,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nyaba",
+    "gn:country_code":"CN",
+    "gn:dem":3261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8046553,
+    "gn:latitude":29.401,
+    "gn:longitude":95.601,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Nyaba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Nyaba"
+    ],
+    "name:zho_x_preferred":[
+        "Nieba"
+    ],
+    "name:zho_x_variant":[
+        "\u8042\u5df4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8046553
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2fd5a1eb5f6d4328e92f3abcc2a06194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515951,
+            "empire_id":136253041,
+            "locality_id":1193251945,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1193251945,
+    "wof:lastmodified":1537602414,
+    "wof:name":"Nyaba",
+    "wof:parent_id":890515951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.601,
+    29.401,
+    95.601,
+    29.401
+],
+  "geometry": {"coordinates":[95.601,29.401],"type":"Point"}
+}

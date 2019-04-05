@@ -1,0 +1,66 @@
+{
+  "id": 1209064265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.73333,35.3,112.73333,35.3",
+    "geom:latitude":35.3,
+    "geom:longitude":112.73333,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Lingdong",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1803530,
+    "gn:latitude":35.3,
+    "gn:longitude":112.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lingdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ling-tung",
+        "Lingdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1803530
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"17f193a9cd56326e90237f7451ea08fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209064265
+        }
+    ],
+    "wof:id":1209064265,
+    "wof:lastmodified":1537593196,
+    "wof:name":"Lingdong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.73333,
+    35.3,
+    112.73333,
+    35.3
+],
+  "geometry": {"coordinates":[112.73333,35.3],"type":"Point"}
+}

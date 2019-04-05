@@ -1,0 +1,77 @@
+{
+  "id": 1193253099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.99932,42.62939,123.99932,42.62939",
+    "geom:latitude":42.62939,
+    "geom:longitude":123.99932,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Jingouzicun",
+    "gn:country_code":"CN",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2036473,
+    "gn:latitude":42.62939,
+    "gn:longitude":123.99932,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Jingouzicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chin-kou-tzu",
+        "Jingouzi",
+        "Jingouzicun"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u6c9f\u5b50\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2036473
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6f9a3f253483a2057b2db57fc04f9266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514741,
+            "empire_id":136253041,
+            "locality_id":1193253099,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1193253099,
+    "wof:lastmodified":1537595776,
+    "wof:name":"Jingouzicun",
+    "wof:parent_id":890514741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.99932,
+    42.62939,
+    123.99932,
+    42.62939
+],
+  "geometry": {"coordinates":[123.99932,42.62939],"type":"Point"}
+}

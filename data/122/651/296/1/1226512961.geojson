@@ -1,0 +1,79 @@
+{
+  "id": 1226512961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.83502,29.8069,95.83502,29.8069",
+    "geom:latitude":29.8069,
+    "geom:longitude":95.83502,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Daxing",
+    "gn:country_code":"CN",
+    "gn:dem":2835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":7929862,
+    "gn:latitude":29.8069,
+    "gn:longitude":95.83502,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Daxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Daxing"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fbe\u5174"
+    ],
+    "name:zho_x_variant":[
+        "Dongru",
+        "\u4e1c\u5982"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7929862
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"676fbf7d1e2710bcd27998619e0b61cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515951,
+            "empire_id":136253041,
+            "locality_id":1226512961,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226512961,
+    "wof:lastmodified":1537602064,
+    "wof:name":"Daxing",
+    "wof:parent_id":890515951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.83502,
+    29.8069,
+    95.83502,
+    29.8069
+],
+  "geometry": {"coordinates":[95.83502,29.8069],"type":"Point"}
+}

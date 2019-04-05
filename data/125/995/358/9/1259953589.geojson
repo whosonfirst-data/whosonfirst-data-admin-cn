@@ -1,0 +1,79 @@
+{
+  "id": 1259953589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.9,29.78333,93.9,29.78333",
+    "geom:latitude":29.78333,
+    "geom:longitude":93.9,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Qabgar",
+    "gn:country_code":"CN",
+    "gn:dem":3151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":1280300,
+    "gn:latitude":29.78333,
+    "gn:longitude":93.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Qabgar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Qabgar"
+    ],
+    "name:zho_x_preferred":[
+        "Qiangga"
+    ],
+    "name:zho_x_variant":[
+        "\u5f3a\u560e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1280300,
+        "wk:page":"Qabgar"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"979e987f440a77d3b3b433a9fa785cbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515951,
+            "empire_id":136253041,
+            "locality_id":1259953589,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1259953589,
+    "wof:lastmodified":1537591440,
+    "wof:name":"Qabgar",
+    "wof:parent_id":890515951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.9,
+    29.78333,
+    93.9,
+    29.78333
+],
+  "geometry": {"coordinates":[93.90000000000001,29.78333],"type":"Point"}
+}

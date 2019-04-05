@@ -1,0 +1,64 @@
+{
+  "id": 1209106207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.11815,32.03503,120.11815,32.03503",
+    "geom:latitude":32.03503,
+    "geom:longitude":120.11815,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Laogang",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8360222,
+    "gn:latitude":32.03503,
+    "gn:longitude":120.11815,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Laogang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8001\u6e2f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8360222
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c08dd58cb387dadcc5e56bc8ad01407d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209106207
+        }
+    ],
+    "wof:id":1209106207,
+    "wof:lastmodified":1537602986,
+    "wof:name":"Laogang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.11815,
+    32.03503,
+    120.11815,
+    32.03503
+],
+  "geometry": {"coordinates":[120.11815,32.03503],"type":"Point"}
+}

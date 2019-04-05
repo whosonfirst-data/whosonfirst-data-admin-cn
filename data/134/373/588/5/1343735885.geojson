@@ -1,0 +1,78 @@
+{
+  "id": 1343735885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.2,31.3,91.2,31.3",
+    "geom:latitude":31.3,
+    "geom:longitude":91.2,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yangbug",
+    "gn:country_code":"CN",
+    "gn:dem":4848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8078746,
+    "gn:latitude":31.3,
+    "gn:longitude":91.2,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Yangbug",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Yangbug"
+    ],
+    "name:zho_x_preferred":[
+        "Yangbu"
+    ],
+    "name:zho_x_variant":[
+        "\u592e\u5e03"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8078746
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"032afa0543eb56b1c154f4d87401878c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1343735885,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1343735885,
+    "wof:lastmodified":1537602564,
+    "wof:name":"Yangbug",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.2,
+    31.3,
+    91.2,
+    31.3
+],
+  "geometry": {"coordinates":[91.2,31.3],"type":"Point"}
+}

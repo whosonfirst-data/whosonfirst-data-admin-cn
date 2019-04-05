@@ -1,0 +1,80 @@
+{
+  "id": 1243234407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.7,29.1,91.7,29.1",
+    "geom:latitude":29.1,
+    "geom:longitude":91.7,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Caru",
+    "gn:country_code":"CN",
+    "gn:dem":3927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7928763,
+    "gn:latitude":29.1,
+    "gn:longitude":91.7,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Caru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Caru"
+    ],
+    "name:zho_x_preferred":[
+        "Charu"
+    ],
+    "name:zho_x_variant":[
+        "\u8336\u5982",
+        "Hongqi Gongshe",
+        "\u7ea2\u65d7\u516c\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108794057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7928763
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ccf370e91a542ad899b99b35fb257b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794057,
+            "empire_id":136253041,
+            "locality_id":1243234407,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1243234407,
+    "wof:lastmodified":1537602039,
+    "wof:name":"Caru",
+    "wof:parent_id":1108794057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.7,
+    29.1,
+    91.7,
+    29.1
+],
+  "geometry": {"coordinates":[91.7,29.1],"type":"Point"}
+}

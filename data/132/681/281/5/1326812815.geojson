@@ -1,0 +1,75 @@
+{
+  "id": 1326812815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.878,37.567,103.878,37.567",
+    "geom:latitude":37.567,
+    "geom:longitude":103.878,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Chang'an",
+    "gn:country_code":"CN",
+    "gn:dem":1691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10647736,
+    "gn:latitude":37.567,
+    "gn:longitude":103.878,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Chang\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chang\u2019an"
+    ],
+    "name:zho_x_preferred":[
+        "\u957f\u5b89"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669711,
+        102191569,
+        85632695,
+        136253041,
+        890516465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10647736
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b271db9b613cee0005511f15ce90bc74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516465,
+            "empire_id":136253041,
+            "locality_id":1326812815,
+            "region_id":85669711
+        }
+    ],
+    "wof:id":1326812815,
+    "wof:lastmodified":1537613964,
+    "wof:name":"Chang'an",
+    "wof:parent_id":890516465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.878,
+    37.567,
+    103.878,
+    37.567
+],
+  "geometry": {"coordinates":[103.878,37.567],"type":"Point"}
+}

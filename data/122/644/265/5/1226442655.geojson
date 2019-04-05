@@ -1,0 +1,79 @@
+{
+  "id": 1226442655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.15369,31.64349,121.15369,31.64349",
+    "geom:latitude":31.64349,
+    "geom:longitude":121.15369,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Shisicun",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1794999,
+    "gn:latitude":31.64349,
+    "gn:longitude":121.15369,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Shisicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shih-ssu-an-chen",
+        "Shisizhen",
+        "Shisi",
+        "\u65f6\u601d",
+        "Shisicun"
+    ],
+    "name:zho_x_preferred":[
+        "\u65f6\u601d\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1794999
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"932f41a5fa0db2ee5bb7e7c867df80e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515879,
+            "empire_id":136253041,
+            "locality_id":1226442655,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1226442655,
+    "wof:lastmodified":1537592638,
+    "wof:name":"Shisicun",
+    "wof:parent_id":890515879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.15369,
+    31.64349,
+    121.15369,
+    31.64349
+],
+  "geometry": {"coordinates":[121.15369,31.64349],"type":"Point"}
+}

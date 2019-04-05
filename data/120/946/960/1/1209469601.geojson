@@ -1,0 +1,64 @@
+{
+  "id": 1209469601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.05719,32.05602,109.05719,32.05602",
+    "geom:latitude":32.05602,
+    "geom:longitude":109.05719,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Wadanggang",
+    "gn:country_code":"CN",
+    "gn:dem":1764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11333380,
+    "gn:latitude":32.05602,
+    "gn:longitude":109.05719,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Wadanggang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u74e6\u5f53\u5c97"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11333380
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e82137ff9c53cec1f87ef5195eb16731",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209469601
+        }
+    ],
+    "wof:id":1209469601,
+    "wof:lastmodified":1537616185,
+    "wof:name":"Wadanggang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.05719,
+    32.05602,
+    109.05719,
+    32.05602
+],
+  "geometry": {"coordinates":[109.05719000000001,32.05602],"type":"Point"}
+}

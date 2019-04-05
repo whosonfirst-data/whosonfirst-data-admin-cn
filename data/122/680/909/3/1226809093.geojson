@@ -1,0 +1,78 @@
+{
+  "id": 1226809093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.53371,23.87151,116.53371,23.87151",
+    "geom:latitude":23.87151,
+    "geom:longitude":116.53371,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Kuishancun",
+    "gn:country_code":"CN",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10944025,
+    "gn:latitude":23.87151,
+    "gn:longitude":116.53371,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Kuishancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuishan"
+    ],
+    "name:zho_x_preferred":[
+        "\u8475\u5c71\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u8475\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890513033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10944025
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"46b319294200d727f127897a6128826a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513033,
+            "empire_id":136253041,
+            "locality_id":1226809093,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1226809093,
+    "wof:lastmodified":1537614968,
+    "wof:name":"Kuishancun",
+    "wof:parent_id":890513033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.53371,
+    23.87151,
+    116.53371,
+    23.87151
+],
+  "geometry": {"coordinates":[116.53371,23.87151],"type":"Point"}
+}

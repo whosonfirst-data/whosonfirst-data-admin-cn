@@ -1,0 +1,76 @@
+{
+  "id": 1243263845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.4,33.25,119.4,33.25",
+    "geom:latitude":33.25,
+    "geom:longitude":119.4,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Wangzhigang",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1791831,
+    "gn:latitude":33.25,
+    "gn:longitude":119.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wangzhigang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wang-chih",
+        "Wang-chih-kang",
+        "Wang-chih-chiang",
+        "Wangzhigang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1791831
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4ba61c0d4c4e2ab51b5e9ca1ac3fa108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516397,
+            "empire_id":136253041,
+            "locality_id":1243263845,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1243263845,
+    "wof:lastmodified":1537592426,
+    "wof:name":"Wangzhigang",
+    "wof:parent_id":890516397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.4,
+    33.25,
+    119.4,
+    33.25
+],
+  "geometry": {"coordinates":[119.40000000000001,33.25],"type":"Point"}
+}

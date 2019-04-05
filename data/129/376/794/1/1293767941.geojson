@@ -1,0 +1,77 @@
+{
+  "id": 1293767941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.02917,35.97667,115.02917,35.97667",
+    "geom:latitude":35.97667,
+    "geom:longitude":115.02917,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Datun",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1789606,
+    "gn:latitude":35.97667,
+    "gn:longitude":115.02917,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Datun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0442\u0443\u043d"
+    ],
+    "name:und_x_variant":[
+        "Xidatun",
+        "Datun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669801,
+        102191569,
+        85632695,
+        136253041,
+        890514079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1789606
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1dc66077e6ed6d859350c27cd0cb22c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514079,
+            "empire_id":136253041,
+            "locality_id":1293767941,
+            "region_id":85669801
+        }
+    ],
+    "wof:id":1293767941,
+    "wof:lastmodified":1537592284,
+    "wof:name":"Datun",
+    "wof:parent_id":890514079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.02917,
+    35.97667,
+    115.02917,
+    35.97667
+],
+  "geometry": {"coordinates":[115.02916999999999,35.97667],"type":"Point"}
+}

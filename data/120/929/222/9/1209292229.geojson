@@ -1,0 +1,64 @@
+{
+  "id": 1209292229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.00712,28.50743,112.00712,28.50743",
+    "geom:latitude":28.50743,
+    "geom:longitude":112.00712,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Huanghedong",
+    "gn:country_code":"CN",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10325215,
+    "gn:latitude":28.50743,
+    "gn:longitude":112.00712,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Huanghedong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9ec4\u6cb3\u6d1e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10325215
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5a741435eb78d3dc726e45530cb10cba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209292229
+        }
+    ],
+    "wof:id":1209292229,
+    "wof:lastmodified":1537612194,
+    "wof:name":"Huanghedong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.00712,
+    28.50743,
+    112.00712,
+    28.50743
+],
+  "geometry": {"coordinates":[112.00712,28.50743],"type":"Point"}
+}

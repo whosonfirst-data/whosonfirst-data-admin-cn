@@ -1,0 +1,91 @@
+{
+  "id": 1125843485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.13417,37.51556,111.13417,37.51556",
+    "geom:latitude":37.51556,
+    "geom:longitude":111.13417,
+    "gn:gn_country":"CN",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CN",
+    "lbl:latitude":37.51556,
+    "lbl:longitude":111.13417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Yunin"
+    ],
+    "qs_pg:aaroncc":"CN",
+    "qs_pg:gn_country":"CN",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1803255,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"\u79bb\u77f3",
+    "qs_pg:name_adm0":"\u4e2d\u570b",
+    "qs_pg:name_adm1":"\u5c71\u897f\u7701",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1237798,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424781,
+    "qs_pg:woe_id":2154557,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424781,
+    "woe:name_adm0":"\u4e2d\u570b",
+    "woe:name_adm1":"\u5c71\u897f\u7701",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        1108732379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1803255,
+        "gp:id":2154557,
+        "qs_pg:id":1237798
+    },
+    "wof:country":"CN",
+    "wof:created":1497293040,
+    "wof:geomhash":"15527b2203e5557c49b94d3231db2558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732379,
+            "empire_id":136253041,
+            "locality_id":1125843485,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1125843485,
+    "wof:lastmodified":1509395439,
+    "wof:name":"\u79bb\u77f3",
+    "wof:parent_id":1108732379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.13417,
+    37.51556,
+    111.13417,
+    37.51556
+],
+  "geometry": {"coordinates":[111.13417,37.51556],"type":"Point"}
+}

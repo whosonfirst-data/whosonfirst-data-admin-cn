@@ -1,0 +1,76 @@
+{
+  "id": 1193074265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.57285,25.01301,113.57285,25.01301",
+    "geom:latitude":25.01301,
+    "geom:longitude":113.57285,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Huaping",
+    "gn:country_code":"CN",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8201180,
+    "gn:latitude":25.01301,
+    "gn:longitude":113.57285,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Huaping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huaping Zhen",
+        "\u82b1\u576a\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u82b1\u576a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890516559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8201180
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4e6f102482c454ca5ffb09bed7dc0e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516559,
+            "empire_id":136253041,
+            "locality_id":1193074265,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1193074265,
+    "wof:lastmodified":1537602688,
+    "wof:name":"Huaping",
+    "wof:parent_id":890516559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.57285,
+    25.01301,
+    113.57285,
+    25.01301
+],
+  "geometry": {"coordinates":[113.57285,25.01301],"type":"Point"}
+}

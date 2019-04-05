@@ -1,0 +1,76 @@
+{
+  "id": 1343818427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.27705,21.60589,110.27705,21.60589",
+    "geom:latitude":21.60589,
+    "geom:longitude":110.27705,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Luozhou",
+    "gn:country_code":"CN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":6646315,
+    "gn:latitude":21.60589,
+    "gn:longitude":110.27705,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Luozhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luozhou Jiedao",
+        "\u7f57\u5dde\u8857\u9053"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u5dde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890514753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646315
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e181a8b7fd7ca5d791213df0e7152c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514753,
+            "empire_id":136253041,
+            "locality_id":1343818427,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1343818427,
+    "wof:lastmodified":1537596080,
+    "wof:name":"Luozhou",
+    "wof:parent_id":890514753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.27705,
+    21.60589,
+    110.27705,
+    21.60589
+],
+  "geometry": {"coordinates":[110.27705,21.60589],"type":"Point"}
+}

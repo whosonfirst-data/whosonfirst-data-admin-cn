@@ -1,0 +1,72 @@
+{
+  "id": 1193227231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.479,29.627,103.479,29.627",
+    "geom:latitude":29.627,
+    "geom:longitude":103.479,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Zhouzui",
+    "gn:country_code":"CN",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10182818,
+    "gn:latitude":29.627,
+    "gn:longitude":103.479,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Zhouzui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5468\u5480"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890512711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10182818
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2f105aa864a5a0fdd62b30e2de2ddd1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512711,
+            "empire_id":136253041,
+            "locality_id":1193227231,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1193227231,
+    "wof:lastmodified":1537610898,
+    "wof:name":"Zhouzui",
+    "wof:parent_id":890512711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.479,
+    29.627,
+    103.479,
+    29.627
+],
+  "geometry": {"coordinates":[103.479,29.627],"type":"Point"}
+}

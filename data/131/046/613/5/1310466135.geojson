@@ -1,0 +1,76 @@
+{
+  "id": 1310466135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.08623,36.37019,106.08623,36.37019",
+    "geom:latitude":36.37019,
+    "geom:longitude":106.08623,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Heicheng",
+    "gn:country_code":"CN",
+    "gn:dem":1524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1808701,
+    "gn:latitude":36.37019,
+    "gn:longitude":106.08623,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Heicheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hei-ch\u2019eng-chen",
+        "Heicheng Zhen",
+        "Heicheng",
+        "\u9ed1\u57ce",
+        "\u9ed1\u57ce\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669763,
+        102191569,
+        85632695,
+        136253041,
+        890515165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1808701
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"257a41771c97d1e899be4502302499ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515165,
+            "empire_id":136253041,
+            "locality_id":1310466135,
+            "region_id":85669763
+        }
+    ],
+    "wof:id":1310466135,
+    "wof:lastmodified":1537593522,
+    "wof:name":"Heicheng",
+    "wof:parent_id":890515165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.08623,
+    36.37019,
+    106.08623,
+    36.37019
+],
+  "geometry": {"coordinates":[106.08623,36.37019],"type":"Point"}
+}

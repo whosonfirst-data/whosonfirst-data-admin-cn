@@ -1,0 +1,78 @@
+{
+  "id": 890516857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.48528,32.90639,108.48528,32.90639",
+    "geom:latitude":32.90639,
+    "geom:longitude":108.48528,
+    "gn:country":"CN",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Han-yin Hsien"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c49\u9634\u53bf"
+    ],
+    "name:zho_x_variant":[
+        "\u6c49\u9634"
+    ],
+    "qs:name":"Hanyin Xian",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1808862,
+        "qs:id":244479,
+        "wd:id":"Q1201374",
+        "wk:page":"Hanyin County"
+    },
+    "wof:country":"CN",
+    "wof:created":1469055979,
+    "wof:geomhash":"dc5cfbdc7dbdd8a728905593e61a11f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515101,
+            "empire_id":136253041,
+            "localadmin_id":890516857,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":890516857,
+    "wof:lastmodified":1527765650,
+    "wof:name":"Hanyin Xian",
+    "wof:parent_id":890515101,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.48528,
+    32.90639,
+    108.48528,
+    32.90639
+],
+  "geometry": {"coordinates":[108.48528,32.90639],"type":"Point"}
+}

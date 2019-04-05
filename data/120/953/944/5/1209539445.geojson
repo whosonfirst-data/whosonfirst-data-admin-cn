@@ -1,0 +1,64 @@
+{
+  "id": 1209539445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.30248,32.18575,120.30248,32.18575",
+    "geom:latitude":32.18575,
+    "geom:longitude":120.30248,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Wangxian",
+    "gn:country_code":"CN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8361005,
+    "gn:latitude":32.18575,
+    "gn:longitude":120.30248,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Wangxian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u738b\u5baa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8361005
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3e6e95147fe795bca23426d24f54f3c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209539445
+        }
+    ],
+    "wof:id":1209539445,
+    "wof:lastmodified":1537603006,
+    "wof:name":"Wangxian",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.30248,
+    32.18575,
+    120.30248,
+    32.18575
+],
+  "geometry": {"coordinates":[120.30248,32.18575],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209039251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.82434,31.4382,119.82434,31.4382",
+    "geom:latitude":31.4382,
+    "geom:longitude":119.82434,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Lukoutou",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8383307,
+    "gn:latitude":31.4382,
+    "gn:longitude":119.82434,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Lukoutou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8def\u53e3\u5934"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8383307
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e82473a3e76c850f09c602f923b78d45",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209039251
+        }
+    ],
+    "wof:id":1209039251,
+    "wof:lastmodified":1537603173,
+    "wof:name":"Lukoutou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.82434,
+    31.4382,
+    119.82434,
+    31.4382
+],
+  "geometry": {"coordinates":[119.82434000000001,31.4382],"type":"Point"}
+}

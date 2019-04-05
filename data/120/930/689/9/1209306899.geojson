@@ -1,0 +1,64 @@
+{
+  "id": 1209306899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.87076,35.36158,101.87076,35.36158",
+    "geom:latitude":35.36158,
+    "geom:longitude":101.87076,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Licang",
+    "gn:country_code":"CN",
+    "gn:dem":2908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8456364,
+    "gn:latitude":35.36158,
+    "gn:longitude":101.87076,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Licang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7acb\u4ed3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8456364
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"735c10598c1813f7bef9fc89efe0ac4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209306899
+        }
+    ],
+    "wof:id":1209306899,
+    "wof:lastmodified":1537603811,
+    "wof:name":"Licang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.87076,
+    35.36158,
+    101.87076,
+    35.36158
+],
+  "geometry": {"coordinates":[101.87076,35.36158],"type":"Point"}
+}

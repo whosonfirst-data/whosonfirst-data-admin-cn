@@ -1,0 +1,79 @@
+{
+  "id": 1260034475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.90778,34.335,108.90778,34.335",
+    "geom:latitude":34.335,
+    "geom:longitude":108.90778,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Hancheng",
+    "gn:country_code":"CN",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1998338,
+    "gn:latitude":34.335,
+    "gn:longitude":108.90778,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hancheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hancheng Jieban",
+        "Hancheng"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c49\u6210"
+    ],
+    "name:zho_x_variant":[
+        "\u6c49\u6210\u8857\u529e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1998338
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ee398384e7277547d9aef072a2abf692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515687,
+            "empire_id":136253041,
+            "locality_id":1260034475,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1260034475,
+    "wof:lastmodified":1537595408,
+    "wof:name":"Hancheng",
+    "wof:parent_id":890515687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.90778,
+    34.335,
+    108.90778,
+    34.335
+],
+  "geometry": {"coordinates":[108.90778,34.335],"type":"Point"}
+}

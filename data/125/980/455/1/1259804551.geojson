@@ -1,0 +1,75 @@
+{
+  "id": 1259804551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.43126,26.17697,117.43126,26.17697",
+    "geom:latitude":26.17697,
+    "geom:longitude":117.43126,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zhongshancun",
+    "gn:country_code":"CN",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7468483,
+    "gn:latitude":26.17697,
+    "gn:longitude":117.43126,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhongshancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5fe0\u5c71\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fe0\u5c71\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7468483
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b054ac8f3f95736141c6998ab79b055f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516573,
+            "empire_id":136253041,
+            "locality_id":1259804551,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1259804551,
+    "wof:lastmodified":1537599307,
+    "wof:name":"Zhongshancun",
+    "wof:parent_id":890516573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.43126,
+    26.17697,
+    117.43126,
+    26.17697
+],
+  "geometry": {"coordinates":[117.43125999999999,26.17697],"type":"Point"}
+}

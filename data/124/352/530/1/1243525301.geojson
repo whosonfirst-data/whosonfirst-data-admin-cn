@@ -1,0 +1,89 @@
+{
+  "id": 1243525301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.00958,31.39625,90.00958,31.39625",
+    "geom:latitude":31.39625,
+    "geom:longitude":90.00958,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Pubu",
+    "gn:country_code":"CN",
+    "gn:dem":4717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1280317,
+    "gn:latitude":31.39625,
+    "gn:longitude":90.00958,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Pubu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Pubu"
+    ],
+    "name:und_x_variant":[
+        "Baingoin",
+        "Pan-ko",
+        "P\u2019u-pao",
+        "Pubu",
+        "Pubao Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "Pubao"
+    ],
+    "name:zho_x_variant":[
+        "\u666e\u4fdd",
+        "Bange Xian",
+        "\u73ed\u6208\u53bf",
+        "\u666e\u4fdd\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1280317,
+        "wk:page":"Pubu"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6c845c9f74ed3a5ed474119c0303e8c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1243525301,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1243525301,
+    "wof:lastmodified":1537591442,
+    "wof:name":"Pubu",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.00958,
+    31.39625,
+    90.00958,
+    31.39625
+],
+  "geometry": {"coordinates":[90.00958,31.39625],"type":"Point"}
+}

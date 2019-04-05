@@ -1,0 +1,75 @@
+{
+  "id": 1243524653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.94224,32.93999,104.94224,32.93999",
+    "geom:latitude":32.93999,
+    "geom:longitude":104.94224,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Koutouba",
+    "gn:country_code":"CN",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":7335145,
+    "gn:latitude":32.93999,
+    "gn:longitude":104.94224,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Koutouba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u53e3\u5934\u575d"
+    ],
+    "name:zho_x_preferred":[
+        "\u53e3\u5934\u575d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669711,
+        102191569,
+        85632695,
+        136253041,
+        890516335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7335145
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3f67deda893b806668b24392e7fcb0c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516335,
+            "empire_id":136253041,
+            "locality_id":1243524653,
+            "region_id":85669711
+        }
+    ],
+    "wof:id":1243524653,
+    "wof:lastmodified":1537598136,
+    "wof:name":"Koutouba",
+    "wof:parent_id":890516335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.94223999999998,
+    32.93999,
+    104.94223999999998,
+    32.93999
+],
+  "geometry": {"coordinates":[104.94223999999998,32.93999],"type":"Point"}
+}

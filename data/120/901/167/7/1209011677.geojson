@@ -1,0 +1,64 @@
+{
+  "id": 1209011677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.69,26.0575,114.69,26.0575",
+    "geom:latitude":26.0575,
+    "geom:longitude":114.69,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Hebu",
+    "gn:country_code":"CN",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9615448,
+    "gn:latitude":26.0575,
+    "gn:longitude":114.69,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Hebu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5408\u5e03"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9615448
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1e14c9f2d9ee7174aa1a4812fa1cae7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209011677
+        }
+    ],
+    "wof:id":1209011677,
+    "wof:lastmodified":1537605989,
+    "wof:name":"Hebu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.69,
+    26.0575,
+    114.69,
+    26.0575
+],
+  "geometry": {"coordinates":[114.69,26.0575],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226007199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.228,42.2924,123.228,42.2924",
+    "geom:latitude":42.2924,
+    "geom:longitude":123.228,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Zhandaogou",
+    "gn:country_code":"CN",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7400981,
+    "gn:latitude":42.2924,
+    "gn:longitude":123.228,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Zhandaogou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u7ad9\u9053\u6c9f"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ad9\u9053\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7400981
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"df8edfce919953b1bcee4e4ca8268ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732451,
+            "empire_id":136253041,
+            "locality_id":1226007199,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1226007199,
+    "wof:lastmodified":1537598707,
+    "wof:name":"Zhandaogou",
+    "wof:parent_id":1108732451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.228,
+    42.2924,
+    123.228,
+    42.2924
+],
+  "geometry": {"coordinates":[123.22799999999999,42.2924],"type":"Point"}
+}

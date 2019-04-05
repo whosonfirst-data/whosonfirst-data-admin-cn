@@ -1,0 +1,64 @@
+{
+  "id": 1209095097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.69779,40.3189,115.69779,40.3189",
+    "geom:latitude":40.3189,
+    "geom:longitude":115.69779,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Guanzhuang",
+    "gn:country_code":"CN",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10133144,
+    "gn:latitude":40.3189,
+    "gn:longitude":115.69779,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Guanzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5b98\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10133144
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9d2273e95e1cf4c85167407680fae96e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209095097
+        }
+    ],
+    "wof:id":1209095097,
+    "wof:lastmodified":1537610048,
+    "wof:name":"Guanzhuang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.69779,
+    40.3189,
+    115.69779,
+    40.3189
+],
+  "geometry": {"coordinates":[115.69779,40.3189],"type":"Point"}
+}

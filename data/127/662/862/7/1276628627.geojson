@@ -1,0 +1,78 @@
+{
+  "id": 1276628627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.801,31.401,97.801,31.401",
+    "geom:latitude":31.401,
+    "geom:longitude":97.801,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Xarida",
+    "gn:country_code":"CN",
+    "gn:dem":4432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8059121,
+    "gn:latitude":31.401,
+    "gn:longitude":97.801,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Xarida",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Xarida"
+    ],
+    "name:zho_x_preferred":[
+        "Xiarida"
+    ],
+    "name:zho_x_variant":[
+        "\u590f\u65e5\u8fbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8059121
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9f33209e73483e6243f2bfe149a8e4d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1276628627,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1276628627,
+    "wof:lastmodified":1537602498,
+    "wof:name":"Xarida",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.801,
+    31.401,
+    97.801,
+    31.401
+],
+  "geometry": {"coordinates":[97.801,31.401],"type":"Point"}
+}

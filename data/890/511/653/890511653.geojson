@@ -1,0 +1,71 @@
+{
+  "id": 890511653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.89845,29.99152,120.89845,29.99152",
+    "geom:latitude":29.99152,
+    "geom:longitude":120.89845,
+    "gn:country":"CN",
+    "gn:fcode":"PPLA4",
+    "gn:pop":155000,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "\u6881\u6e56"
+    ],
+    "qs:name":"Lianghu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890513785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1919014,
+        "gp:id":20269438,
+        "qs:id":568566
+    },
+    "wof:country":"CN",
+    "wof:created":1469055739,
+    "wof:geomhash":"10c21feae6a82fcde67bf1e871e2c48d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513785,
+            "empire_id":136253041,
+            "locality_id":890511653,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":890511653,
+    "wof:lastmodified":1505343883,
+    "wof:name":"Lianghu",
+    "wof:parent_id":890513785,
+    "wof:placetype":"locality",
+    "wof:population":155000,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.89845,
+    29.99152,
+    120.89845,
+    29.99152
+],
+  "geometry": {"coordinates":[120.89845,29.99152],"type":"Point"}
+}

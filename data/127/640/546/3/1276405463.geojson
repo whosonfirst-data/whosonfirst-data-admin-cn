@@ -1,0 +1,69 @@
+{
+  "id": 1276405463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.4,28.5,107.4,28.5",
+    "geom:latitude":28.5,
+    "geom:longitude":107.4,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Liba",
+    "gn:country_code":"CN",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1803812,
+    "gn:latitude":28.5,
+    "gn:longitude":107.4,
+    "gn:modification_date":"1994-02-05",
+    "gn:name":"Liba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669721,
+        102191569,
+        85632695,
+        136253041,
+        890516473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1803812
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"84f859182cc8446ee3d6882e0adbcc41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516473,
+            "empire_id":136253041,
+            "locality_id":1276405463,
+            "region_id":85669721
+        }
+    ],
+    "wof:id":1276405463,
+    "wof:lastmodified":1536682010,
+    "wof:name":"Liba",
+    "wof:parent_id":890516473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.4,
+    28.5,
+    107.4,
+    28.5
+],
+  "geometry": {"coordinates":[107.40000000000001,28.5],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310270165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.26719,40.59582,122.26719,40.59582",
+    "geom:latitude":40.59582,
+    "geom:longitude":122.26719,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Erdao",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2037508,
+    "gn:latitude":40.59582,
+    "gn:longitude":122.26719,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Erdao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e8c\u9053",
+        "Erdaogou",
+        "Erdao Zhen",
+        "\u4e8c\u9053\u6c9f",
+        "\u4e8c\u9053\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2037508
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"702e90645079d0dbdb8ed0754c7ad343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732495,
+            "empire_id":136253041,
+            "locality_id":1310270165,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1310270165,
+    "wof:lastmodified":1537595831,
+    "wof:name":"Erdao",
+    "wof:parent_id":1108732495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.26719,
+    40.59582,
+    122.26719,
+    40.59582
+],
+  "geometry": {"coordinates":[122.26719,40.59582],"type":"Point"}
+}

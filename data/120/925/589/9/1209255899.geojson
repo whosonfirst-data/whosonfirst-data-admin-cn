@@ -1,0 +1,64 @@
+{
+  "id": 1209255899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.85599,31.30229,109.85599,31.30229",
+    "geom:latitude":31.30229,
+    "geom:longitude":109.85599,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Shizikou",
+    "gn:country_code":"CN",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8399000,
+    "gn:latitude":31.30229,
+    "gn:longitude":109.85599,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Shizikou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u72ee\u5b50\u53e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8399000
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f8ee75224fc84fe0b92313c86dbb967e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209255899
+        }
+    ],
+    "wof:id":1209255899,
+    "wof:lastmodified":1537603285,
+    "wof:name":"Shizikou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.85599,
+    31.30229000000001,
+    109.85599,
+    31.30229000000001
+],
+  "geometry": {"coordinates":[109.85599000000001,31.30229000000001],"type":"Point"}
+}

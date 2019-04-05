@@ -1,0 +1,77 @@
+{
+  "id": 1259989039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.92417,33.29194,115.92417,33.29194",
+    "geom:latitude":33.29194,
+    "geom:longitude":115.92417,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Simiaocun",
+    "gn:country_code":"CN",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1557853,
+    "gn:latitude":33.29194,
+    "gn:longitude":115.92417,
+    "gn:modification_date":"2015-07-02",
+    "gn:name":"Simiaocun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ssu-ta-wang-miao",
+        "Simiao",
+        "Simiaocun"
+    ],
+    "name:zho_x_preferred":[
+        "\u56db\u5e99\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890515239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1557853
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d4581df584df1dcd8ad5815d61e2a3fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515239,
+            "empire_id":136253041,
+            "locality_id":1259989039,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1259989039,
+    "wof:lastmodified":1537591846,
+    "wof:name":"Simiaocun",
+    "wof:parent_id":890515239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.92417,
+    33.29194,
+    115.92417,
+    33.29194
+],
+  "geometry": {"coordinates":[115.92417,33.29194],"type":"Point"}
+}

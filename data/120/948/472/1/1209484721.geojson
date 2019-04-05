@@ -1,0 +1,64 @@
+{
+  "id": 1209484721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.497,23.6983,109.497,23.6983",
+    "geom:latitude":23.6983,
+    "geom:longitude":109.497,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Beikong",
+    "gn:country_code":"CN",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9934604,
+    "gn:latitude":23.6983,
+    "gn:longitude":109.497,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Beikong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u80cc\u5b54"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9934604
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"cd05fcf06af07e548d33779b36d3687a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209484721
+        }
+    ],
+    "wof:id":1209484721,
+    "wof:lastmodified":1537607800,
+    "wof:name":"Beikong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.497,
+    23.6983,
+    109.497,
+    23.6983
+],
+  "geometry": {"coordinates":[109.497,23.6983],"type":"Point"}
+}

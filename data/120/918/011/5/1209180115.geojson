@@ -1,0 +1,64 @@
+{
+  "id": 1209180115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.492,25.8042,104.492,25.8042",
+    "geom:latitude":25.8042,
+    "geom:longitude":104.492,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Majiaosi",
+    "gn:country_code":"CN",
+    "gn:dem":1633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10003889,
+    "gn:latitude":25.8042,
+    "gn:longitude":104.492,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Majiaosi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9a6c\u811a\u5bfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10003889
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1200fd83a9edec6fb590713387166e82",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209180115
+        }
+    ],
+    "wof:id":1209180115,
+    "wof:lastmodified":1537608715,
+    "wof:name":"Majiaosi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.492,
+    25.8042,
+    104.492,
+    25.8042
+],
+  "geometry": {"coordinates":[104.492,25.8042],"type":"Point"}
+}

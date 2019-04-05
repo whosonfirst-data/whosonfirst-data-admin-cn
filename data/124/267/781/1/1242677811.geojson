@@ -1,0 +1,81 @@
+{
+  "id": 1242677811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.57615,32.61691,119.57615,32.61691",
+    "geom:latitude":32.61691,
+    "geom:longitude":119.57615,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhenwu",
+    "gn:country_code":"CN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1784599,
+    "gn:latitude":32.61691,
+    "gn:longitude":119.57615,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zhenwu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chen-wu-miao",
+        "Zhenwumiao",
+        "Zhenwu",
+        "Zhenwu Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u771f\u6b66"
+    ],
+    "name:zho_x_variant":[
+        "\u771f\u6b66\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1784599
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c60f22fdcac2a9447754495925b1860b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516397,
+            "empire_id":136253041,
+            "locality_id":1242677811,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1242677811,
+    "wof:lastmodified":1537591936,
+    "wof:name":"Zhenwu",
+    "wof:parent_id":890516397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.57615,
+    32.61691,
+    119.57615,
+    32.61691
+],
+  "geometry": {"coordinates":[119.57615,32.61691],"type":"Point"}
+}

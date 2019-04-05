@@ -1,0 +1,76 @@
+{
+  "id": 1242980185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.39512,31.00435,119.39512,31.00435",
+    "geom:latitude":31.00435,
+    "geom:longitude":119.39512,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Xiaohe",
+    "gn:country_code":"CN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7675496,
+    "gn:latitude":31.00435,
+    "gn:longitude":119.39512,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Xiaohe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5c0f\u6cb3",
+        "\u5c0f\u6cb3\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "Xiaohecun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890515063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7675496
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"97d01a69f150b75c1e0da2090dbf62c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515063,
+            "empire_id":136253041,
+            "locality_id":1242980185,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1242980185,
+    "wof:lastmodified":1537600867,
+    "wof:name":"Xiaohe",
+    "wof:parent_id":890515063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.39512,
+    31.00435,
+    119.39512,
+    31.00435
+],
+  "geometry": {"coordinates":[119.39512000000001,31.00435],"type":"Point"}
+}

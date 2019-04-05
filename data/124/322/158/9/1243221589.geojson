@@ -1,0 +1,75 @@
+{
+  "id": 1243221589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.96971,38.81251,111.96971,38.81251",
+    "geom:latitude":38.81251,
+    "geom:longitude":111.96971,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Nangoumiao",
+    "gn:country_code":"CN",
+    "gn:dem":2288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7519702,
+    "gn:latitude":38.81251,
+    "gn:longitude":111.96971,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Nangoumiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5357\u6c9f\u5e99"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u6c9f\u5e99"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        890513031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7519702
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fb17ddca254b7f0b14ee59f7cb4830ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513031,
+            "empire_id":136253041,
+            "locality_id":1243221589,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1243221589,
+    "wof:lastmodified":1537599789,
+    "wof:name":"Nangoumiao",
+    "wof:parent_id":890513031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.96971,
+    38.81251,
+    111.96971,
+    38.81251
+],
+  "geometry": {"coordinates":[111.96971000000001,38.81251],"type":"Point"}
+}

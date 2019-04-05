@@ -1,0 +1,64 @@
+{
+  "id": 1209069347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.7,27.5747,106.7,27.5747",
+    "geom:latitude":27.5747,
+    "geom:longitude":106.7,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tianwang",
+    "gn:country_code":"CN",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1551721,
+    "gn:latitude":27.5747,
+    "gn:longitude":106.7,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Tianwang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5929\u65fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1551721
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"69e06e1efda98d58787d7058b430c0ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209069347
+        }
+    ],
+    "wof:id":1209069347,
+    "wof:lastmodified":1537591738,
+    "wof:name":"Tianwang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.7,
+    27.5747,
+    106.7,
+    27.5747
+],
+  "geometry": {"coordinates":[106.7,27.5747],"type":"Point"}
+}

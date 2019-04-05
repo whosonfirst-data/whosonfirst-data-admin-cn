@@ -1,0 +1,78 @@
+{
+  "id": 1243023511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.065,36.4439,120.065,36.4439",
+    "geom:latitude":36.4439,
+    "geom:longitude":120.065,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Beiwangzhu",
+    "gn:country_code":"CN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8721656,
+    "gn:latitude":36.4439,
+    "gn:longitude":120.065,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Beiwangzhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beiwangzhu Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u738b\u73e0\u9547"
+    ],
+    "name:zho_x_variant":[
+        "\u5317\u738b\u73e0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669813,
+        102191569,
+        85632695,
+        136253041,
+        890514775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8721656
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b9ec735988292f76d493cdd9dd359490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514775,
+            "empire_id":136253041,
+            "locality_id":1243023511,
+            "region_id":85669813
+        }
+    ],
+    "wof:id":1243023511,
+    "wof:lastmodified":1537604931,
+    "wof:name":"Beiwangzhu",
+    "wof:parent_id":890514775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.065,
+    36.4439,
+    120.065,
+    36.4439
+],
+  "geometry": {"coordinates":[120.065,36.4439],"type":"Point"}
+}

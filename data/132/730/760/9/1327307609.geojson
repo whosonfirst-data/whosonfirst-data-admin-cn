@@ -1,0 +1,78 @@
+{
+  "id": 1327307609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.2,32.1,93.2,32.1",
+    "geom:latitude":32.1,
+    "geom:longitude":93.2,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yigzhug",
+    "gn:country_code":"CN",
+    "gn:dem":4555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8078791,
+    "gn:latitude":32.1,
+    "gn:longitude":93.2,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Yigzhug",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Yigzhug"
+    ],
+    "name:zho_x_preferred":[
+        "Yichu"
+    ],
+    "name:zho_x_variant":[
+        "\u4f0a\u695a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8078791
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ddd65a92a25ddda3e4ef0c815de69306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1327307609,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1327307609,
+    "wof:lastmodified":1537602567,
+    "wof:name":"Yigzhug",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.2,
+    32.1,
+    93.2,
+    32.1
+],
+  "geometry": {"coordinates":[93.2,32.1],"type":"Point"}
+}

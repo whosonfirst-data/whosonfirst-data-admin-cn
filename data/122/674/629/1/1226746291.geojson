@@ -1,0 +1,74 @@
+{
+  "id": 1226746291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.69094,41.70477,125.69094,41.70477",
+    "geom:latitude":41.70477,
+    "geom:longitude":125.69094,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jindou",
+    "gn:country_code":"CN",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":7569005,
+    "gn:latitude":41.70477,
+    "gn:longitude":125.69094,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Jindou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u91d1\u6597",
+        "Jindou Chaoxianzu Manzu Xiang",
+        "\u91d1\u6597\u671d\u9c9c\u65cf\u6ee1\u65cf\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669843,
+        102191569,
+        85632695,
+        136253041,
+        890516249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7569005
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"af7921de7c3e8304a2090670b81b0a74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516249,
+            "empire_id":136253041,
+            "locality_id":1226746291,
+            "region_id":85669843
+        }
+    ],
+    "wof:id":1226746291,
+    "wof:lastmodified":1537600074,
+    "wof:name":"Jindou",
+    "wof:parent_id":890516249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.69094,
+    41.70477,
+    125.69094,
+    41.70477
+],
+  "geometry": {"coordinates":[125.69094,41.70477],"type":"Point"}
+}

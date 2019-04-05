@@ -1,0 +1,78 @@
+{
+  "id": 1310288181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.901,32.301,87.901,32.301",
+    "geom:latitude":32.301,
+    "geom:longitude":87.901,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Wurulhai",
+    "gn:country_code":"CN",
+    "gn:dem":4773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8078344,
+    "gn:latitude":32.301,
+    "gn:longitude":87.901,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Wurulhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Wurulhai"
+    ],
+    "name:zho_x_preferred":[
+        "Wurulai"
+    ],
+    "name:zho_x_variant":[
+        "\u4f0d\u5982\u83b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8078344
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"88594297bb5a70a243feab99b4321643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1310288181,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1310288181,
+    "wof:lastmodified":1537602559,
+    "wof:name":"Wurulhai",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.90100000000002,
+    32.301,
+    87.90100000000002,
+    32.301
+],
+  "geometry": {"coordinates":[87.90100000000002,32.301],"type":"Point"}
+}

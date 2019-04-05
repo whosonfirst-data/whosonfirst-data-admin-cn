@@ -1,0 +1,76 @@
+{
+  "id": 1309807365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.71588,33.83228,115.71588,33.83228",
+    "geom:latitude":33.83228,
+    "geom:longitude":115.71588,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shi'erlicun",
+    "gn:country_code":"CN",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1558350,
+    "gn:latitude":33.83228,
+    "gn:longitude":115.71588,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Shi\u2019erlicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shi\u2019erlicun",
+        "Shi\u2019erli"
+    ],
+    "name:zho_x_preferred":[
+        "\u5341\u4e8c\u91cc\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890515239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1558350
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"eb08cfededdda37e20e195cfd20219bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515239,
+            "empire_id":136253041,
+            "locality_id":1309807365,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1309807365,
+    "wof:lastmodified":1537591857,
+    "wof:name":"Shi'erlicun",
+    "wof:parent_id":890515239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.71588,
+    33.83228,
+    115.71588,
+    33.83228
+],
+  "geometry": {"coordinates":[115.71588,33.83228],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209075613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.341,24.3602,111.341,24.3602",
+    "geom:latitude":24.3602,
+    "geom:longitude":111.341,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tianzhuchong",
+    "gn:country_code":"CN",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9917316,
+    "gn:latitude":24.3602,
+    "gn:longitude":111.341,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Tianzhuchong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5929\u67f1\u51b2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9917316
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b15050c23315eee9af996402838e71c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209075613
+        }
+    ],
+    "wof:id":1209075613,
+    "wof:lastmodified":1537607270,
+    "wof:name":"Tianzhuchong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.341,
+    24.3602,
+    111.341,
+    24.3602
+],
+  "geometry": {"coordinates":[111.34099999999999,24.3602],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209208245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.22973,24.85801,116.22973,24.85801",
+    "geom:latitude":24.85801,
+    "geom:longitude":116.22973,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Luofangjiao",
+    "gn:country_code":"CN",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6672119,
+    "gn:latitude":24.85801,
+    "gn:longitude":116.22973,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Luofangjiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7f57\u574a\u89d2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6672119
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d18ba08411c758c5bdea976ca83f943e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209208245
+        }
+    ],
+    "wof:id":1209208245,
+    "wof:lastmodified":1537596110,
+    "wof:name":"Luofangjiao",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.22973,
+    24.85801,
+    116.22973,
+    24.85801
+],
+  "geometry": {"coordinates":[116.22973,24.85801],"type":"Point"}
+}

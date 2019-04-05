@@ -1,0 +1,64 @@
+{
+  "id": 1209487579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.185,24.8141,107.185,24.8141",
+    "geom:latitude":24.8141,
+    "geom:longitude":107.185,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Badu",
+    "gn:country_code":"CN",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9910960,
+    "gn:latitude":24.8141,
+    "gn:longitude":107.185,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Badu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5df4\u72ec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9910960
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b60fe2f6c6f39e5734451b67b296dca1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209487579
+        }
+    ],
+    "wof:id":1209487579,
+    "wof:lastmodified":1537607100,
+    "wof:name":"Badu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.185,
+    24.8141,
+    107.185,
+    24.8141
+],
+  "geometry": {"coordinates":[107.185,24.8141],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1259926823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.33679,25.70855,101.33679,25.70855",
+    "geom:latitude":25.70855,
+    "geom:longitude":101.33679,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Jinbi",
+    "gn:country_code":"CN",
+    "gn:dem":1859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1805749,
+    "gn:latitude":25.70855,
+    "gn:longitude":101.33679,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jinbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chin-pi-chen",
+        "Ta-yao-hsien",
+        "Chin-pi-chieh",
+        "Ta-yao",
+        "Chin-pi",
+        "Jinbi"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u78a7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        1108732445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1805749
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e23ca442a5ecb83d9303734703ba6b5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732445,
+            "empire_id":136253041,
+            "locality_id":1259926823,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1259926823,
+    "wof:lastmodified":1537593336,
+    "wof:name":"Jinbi",
+    "wof:parent_id":1108732445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.33679,
+    25.70855,
+    101.33679,
+    25.70855
+],
+  "geometry": {"coordinates":[101.33678999999999,25.70855],"type":"Point"}
+}

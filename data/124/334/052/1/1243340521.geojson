@@ -1,0 +1,78 @@
+{
+  "id": 1243340521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.90012,29.21745,113.90012,29.21745",
+    "geom:latitude":29.21745,
+    "geom:longitude":113.90012,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Guandao",
+    "gn:country_code":"CN",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8512544,
+    "gn:latitude":29.21745,
+    "gn:longitude":113.90012,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Guandao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guandao Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5173\u5200"
+    ],
+    "name:zho_x_variant":[
+        "\u5173\u5200\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        890514637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8512544
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ffb668d5fe79f5075e6e712318e95ac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514637,
+            "empire_id":136253041,
+            "locality_id":1243340521,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1243340521,
+    "wof:lastmodified":1537604028,
+    "wof:name":"Guandao",
+    "wof:parent_id":890514637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.90012,
+    29.21745,
+    113.90012,
+    29.21745
+],
+  "geometry": {"coordinates":[113.90012,29.21745],"type":"Point"}
+}

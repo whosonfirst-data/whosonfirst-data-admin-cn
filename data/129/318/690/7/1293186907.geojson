@@ -1,0 +1,82 @@
+{
+  "id": 1293186907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.12112,34.72939,79.12112,34.72939",
+    "geom:latitude":34.72939,
+    "geom:longitude":79.12112,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hongshantou",
+    "gn:country_code":"CN",
+    "gn:dem":5346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346627,
+    "gn:latitude":34.72939,
+    "gn:longitude":79.12112,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hongshantou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u7ea2\u5c71\u5934",
+        "Hongshantou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695697,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346627
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"dae72ff95d4496344d6ddf4f0034f41b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":1293186907,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":1293186907,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":1293186907,
+    "wof:lastmodified":1537591547,
+    "wof:name":"Hongshantou",
+    "wof:parent_id":1108695697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.12111999999998,
+    34.72939,
+    79.12111999999998,
+    34.72939
+],
+  "geometry": {"coordinates":[79.12111999999998,34.72939],"type":"Point"}
+}

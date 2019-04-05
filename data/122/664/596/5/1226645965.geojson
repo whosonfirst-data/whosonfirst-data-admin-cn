@@ -1,0 +1,75 @@
+{
+  "id": 1226645965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.02205,34.11197,120.02205,34.11197",
+    "geom:latitude":34.11197,
+    "geom:longitude":120.02205,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Wangdouzhuang",
+    "gn:country_code":"CN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8020742,
+    "gn:latitude":34.11197,
+    "gn:longitude":120.02205,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Wangdouzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Wangdouzhuang"
+    ],
+    "name:zho_x_variant":[
+        "\u738b\u7aa6\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020742
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d35b032364b48a9a3f16c2f8eb2a0e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515153,
+            "empire_id":136253041,
+            "locality_id":1226645965,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1226645965,
+    "wof:lastmodified":1537602160,
+    "wof:name":"Wangdouzhuang",
+    "wof:parent_id":890515153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.02205,
+    34.11197,
+    120.02205,
+    34.11197
+],
+  "geometry": {"coordinates":[120.02204999999999,34.11197],"type":"Point"}
+}

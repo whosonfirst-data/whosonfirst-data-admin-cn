@@ -1,0 +1,76 @@
+{
+  "id": 1277035463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.16667,26.08333,103.16667,26.08333",
+    "geom:latitude":26.08333,
+    "geom:longitude":103.16667,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Xincun",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":1228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1789155,
+    "gn:latitude":26.08333,
+    "gn:longitude":103.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Xincun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tung-ch\u2019uan-shih",
+        "Hsin-ts\u2019un-chieh",
+        "Hsin-ts\u2019un",
+        "Xincun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        890513777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1789155
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"87bd4abd996bd0a8bbcc62de74648896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513777,
+            "empire_id":136253041,
+            "locality_id":1277035463,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1277035463,
+    "wof:lastmodified":1537592248,
+    "wof:name":"Xincun",
+    "wof:parent_id":890513777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.16667,
+    26.08333,
+    103.16667,
+    26.08333
+],
+  "geometry": {"coordinates":[103.16667,26.08333],"type":"Point"}
+}

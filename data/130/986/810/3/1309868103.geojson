@@ -1,0 +1,77 @@
+{
+  "id": 1309868103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.88333,41.85,123.88333,41.85",
+    "geom:latitude":41.85,
+    "geom:longitude":123.88333,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Daguantun",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2037987,
+    "gn:latitude":41.85,
+    "gn:longitude":123.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Daguantun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taikanton",
+        "Daikanton",
+        "Ta-kuan-t\u2019un-ts\u2019un",
+        "Ta-kuan-t\u2019un",
+        "Daguantun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890513011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2037987
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ade9b9f0f18114f61789f4cd7e648fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513011,
+            "empire_id":136253041,
+            "locality_id":1309868103,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1309868103,
+    "wof:lastmodified":1537595856,
+    "wof:name":"Daguantun",
+    "wof:parent_id":890513011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.88333,
+    41.85,
+    123.88333,
+    41.85
+],
+  "geometry": {"coordinates":[123.88333,41.85],"type":"Point"}
+}

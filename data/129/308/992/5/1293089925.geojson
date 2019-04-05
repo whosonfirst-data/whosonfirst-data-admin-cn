@@ -1,0 +1,81 @@
+{
+  "id": 1293089925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.64417,41.19889,116.64417,41.19889",
+    "geom:latitude":41.19889,
+    "geom:longitude":116.64417,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Dage",
+    "gn:country_code":"CN",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2037990,
+    "gn:latitude":41.19889,
+    "gn:longitude":116.64417,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Dage",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-ko",
+        "Fengning",
+        "Ta-ku-chen",
+        "Fynnin",
+        "Ta-kou-chen",
+        "Ta-ko-chen",
+        "Dage"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u9601"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669797,
+        102191569,
+        85632695,
+        136253041,
+        890513327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2037990
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3688808495a6f36c5d12de2d074a33d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513327,
+            "empire_id":136253041,
+            "locality_id":1293089925,
+            "region_id":85669797
+        }
+    ],
+    "wof:id":1293089925,
+    "wof:lastmodified":1537595856,
+    "wof:name":"Dage",
+    "wof:parent_id":890513327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.64417,
+    41.19889000000001,
+    116.64417,
+    41.19889000000001
+],
+  "geometry": {"coordinates":[116.64417,41.19889000000001],"type":"Point"}
+}

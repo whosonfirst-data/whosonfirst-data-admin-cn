@@ -1,0 +1,78 @@
+{
+  "id": 1226723641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.208,32.008,92.208,32.008",
+    "geom:latitude":32.008,
+    "geom:longitude":92.208,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nujia",
+    "gn:country_code":"CN",
+    "gn:dem":4892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8046596,
+    "gn:latitude":32.008,
+    "gn:longitude":92.208,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Nujia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Nu\u2019gya"
+    ],
+    "name:zho_x_preferred":[
+        "Nujia"
+    ],
+    "name:zho_x_variant":[
+        "\u5974\u52a0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8046596
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"91ca496e812953d6b306748a81476c29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1226723641,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226723641,
+    "wof:lastmodified":1537602418,
+    "wof:name":"Nujia",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.208,
+    32.008,
+    92.208,
+    32.008
+],
+  "geometry": {"coordinates":[92.208,32.008],"type":"Point"}
+}

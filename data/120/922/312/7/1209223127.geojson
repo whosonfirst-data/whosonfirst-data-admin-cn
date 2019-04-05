@@ -1,0 +1,65 @@
+{
+  "id": 1209223127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.76222,30.69721,120.76222,30.69721",
+    "geom:latitude":30.69721,
+    "geom:longitude":120.76222,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shi'an",
+    "gn:country_code":"CN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7733633,
+    "gn:latitude":30.69721,
+    "gn:longitude":120.76222,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shi\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shi\u2019an",
+        "\u77f3\u5b89"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7733633
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fd1ed865e25e38729cbafbd2d5a018c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209223127
+        }
+    ],
+    "wof:id":1209223127,
+    "wof:lastmodified":1537601169,
+    "wof:name":"Shi'an",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.76222,
+    30.69721,
+    120.76222,
+    30.69721
+],
+  "geometry": {"coordinates":[120.76222,30.69721],"type":"Point"}
+}

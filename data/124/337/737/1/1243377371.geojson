@@ -1,0 +1,72 @@
+{
+  "id": 1243377371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.7,30.325,118.7,30.325",
+    "geom:latitude":30.325,
+    "geom:longitude":118.7,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Wangjia",
+    "gn:country_code":"CN",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1553561,
+    "gn:latitude":30.325,
+    "gn:longitude":118.7,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Wangjia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6c6a\u5bb6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890515063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1553561
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"094a9dd6da25017e79f1deb1fb9b6c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515063,
+            "empire_id":136253041,
+            "locality_id":1243377371,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1243377371,
+    "wof:lastmodified":1537591780,
+    "wof:name":"Wangjia",
+    "wof:parent_id":890515063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.7,
+    30.325,
+    118.7,
+    30.325
+],
+  "geometry": {"coordinates":[118.7,30.325],"type":"Point"}
+}

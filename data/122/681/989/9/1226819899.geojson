@@ -1,0 +1,78 @@
+{
+  "id": 1226819899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.204,29.104,89.204,29.104",
+    "geom:latitude":29.104,
+    "geom:longitude":89.204,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Poingong",
+    "gn:country_code":"CN",
+    "gn:dem":4583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8048227,
+    "gn:latitude":29.104,
+    "gn:longitude":89.204,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Poingong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Poingong"
+    ],
+    "name:zho_x_preferred":[
+        "Pengguo"
+    ],
+    "name:zho_x_variant":[
+        "\u5f6d\u679c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8048227
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"20a7bd01b6b3cebb389dcc324d597e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1226819899,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226819899,
+    "wof:lastmodified":1537602424,
+    "wof:name":"Poingong",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.204,
+    29.104,
+    89.204,
+    29.104
+],
+  "geometry": {"coordinates":[89.20399999999999,29.104],"type":"Point"}
+}

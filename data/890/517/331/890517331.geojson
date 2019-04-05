@@ -1,0 +1,71 @@
+{
+  "id": 890517331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.24222,27.06639,108.24222,27.06639",
+    "geom:latitude":27.06639,
+    "geom:longitude":108.24222,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":198,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Kan-hsi"
+    ],
+    "qs:name":"Ganxi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        1108794067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1810659,
+        "gp:id":2146826,
+        "qs:id":563157
+    },
+    "wof:country":"CN",
+    "wof:created":1469056004,
+    "wof:geomhash":"7ca588040d564e3fc82d742352d36c28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794067,
+            "empire_id":136253041,
+            "locality_id":890517331,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":890517331,
+    "wof:lastmodified":1505343905,
+    "wof:name":"Ganxi",
+    "wof:parent_id":1108794067,
+    "wof:placetype":"locality",
+    "wof:population":198,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.24222,
+    27.06639,
+    108.24222,
+    27.06639
+],
+  "geometry": {"coordinates":[108.24222,27.06639],"type":"Point"}
+}

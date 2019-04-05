@@ -1,0 +1,76 @@
+{
+  "id": 1225891401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.04038,27.95426,105.04038,27.95426",
+    "geom:latitude":27.95426,
+    "geom:longitude":105.04038,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Zhongba",
+    "gn:country_code":"CN",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8999919,
+    "gn:latitude":27.95426,
+    "gn:longitude":105.04038,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Zhongba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e2d\u575d",
+        "Luobu",
+        "Luobu Xiang",
+        "\u7f57\u5e03",
+        "\u7f57\u5e03\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        890514257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8999919
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"915703a0baff971da9746c2c83e3a088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514257,
+            "empire_id":136253041,
+            "locality_id":1225891401,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1225891401,
+    "wof:lastmodified":1537605002,
+    "wof:name":"Zhongba",
+    "wof:parent_id":890514257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.04038,
+    27.95426,
+    105.04038,
+    27.95426
+],
+  "geometry": {"coordinates":[105.04038,27.95426],"type":"Point"}
+}

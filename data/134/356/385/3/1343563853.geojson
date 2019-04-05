@@ -1,0 +1,80 @@
+{
+  "id": 1343563853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.64444,27.76139,119.64444,27.76139",
+    "geom:latitude":27.76139,
+    "geom:longitude":119.64444,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Jingnan",
+    "gn:country_code":"CN",
+    "gn:dem":1010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1918558,
+    "gn:latitude":27.76139,
+    "gn:longitude":119.64444,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Jingnan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhongxi",
+        "Jingnan Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u666f\u5357"
+    ],
+    "name:zho_x_variant":[
+        "\u5fe0\u6eaa",
+        "\u666f\u5357\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1918558
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d3d6683f8d8182708073e1dc520368ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516399,
+            "empire_id":136253041,
+            "locality_id":1343563853,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1343563853,
+    "wof:lastmodified":1537594787,
+    "wof:name":"Jingnan",
+    "wof:parent_id":890516399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.64444,
+    27.76139,
+    119.64444,
+    27.76139
+],
+  "geometry": {"coordinates":[119.64444,27.76139],"type":"Point"}
+}

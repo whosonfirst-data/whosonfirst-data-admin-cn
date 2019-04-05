@@ -1,0 +1,64 @@
+{
+  "id": 1209522747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.77663,28.05825,116.77663,28.05825",
+    "geom:latitude":28.05825,
+    "geom:longitude":116.77663,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Wenxicun",
+    "gn:country_code":"CN",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7327648,
+    "gn:latitude":28.05825,
+    "gn:longitude":116.77663,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Wenxicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6587\u6eaa\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7327648
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"927c50f585df9fbf456b7610b51160fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209522747
+        }
+    ],
+    "wof:id":1209522747,
+    "wof:lastmodified":1537597975,
+    "wof:name":"Wenxicun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.77663,
+    28.05825,
+    116.77663,
+    28.05825
+],
+  "geometry": {"coordinates":[116.77663,28.05825],"type":"Point"}
+}

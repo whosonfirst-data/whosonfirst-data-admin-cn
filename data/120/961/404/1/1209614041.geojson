@@ -1,0 +1,64 @@
+{
+  "id": 1209614041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1469,45.85719,123.1469,45.85719",
+    "geom:latitude":45.85719,
+    "geom:longitude":123.1469,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yangyingzicun",
+    "gn:country_code":"CN",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10874412,
+    "gn:latitude":45.85719,
+    "gn:longitude":123.1469,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Yangyingzicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6d0b\u8425\u5b50\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10874412
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ee66d4d188f47fe58ce57acd79a11a46",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209614041
+        }
+    ],
+    "wof:id":1209614041,
+    "wof:lastmodified":1537614612,
+    "wof:name":"Yangyingzicun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1469,
+    45.85719,
+    123.1469,
+    45.85719
+],
+  "geometry": {"coordinates":[123.1469,45.85719],"type":"Point"}
+}

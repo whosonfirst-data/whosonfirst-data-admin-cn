@@ -1,0 +1,79 @@
+{
+  "id": 1343556341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.39361,39.10833,116.39361,39.10833",
+    "geom:latitude":39.10833,
+    "geom:longitude":116.39361,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bazhou",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1816832,
+    "gn:latitude":39.10833,
+    "gn:longitude":116.39361,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bazhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pachow",
+        "Baxian",
+        "Pa-hsien-ch\u2019eng-kuan",
+        "Pa-hsien",
+        "Pa",
+        "Bazhou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669797,
+        102191569,
+        85632695,
+        136253041,
+        890516977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1816832,
+        "wk:page":"Bazhou_City"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fc33f81ec195326bcb79f42277b82648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516977,
+            "empire_id":136253041,
+            "locality_id":1343556341,
+            "region_id":85669797
+        }
+    ],
+    "wof:id":1343556341,
+    "wof:lastmodified":1537594030,
+    "wof:name":"Bazhou",
+    "wof:parent_id":890516977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.39361,
+    39.10833,
+    116.39361,
+    39.10833
+],
+  "geometry": {"coordinates":[116.39361,39.10833],"type":"Point"}
+}

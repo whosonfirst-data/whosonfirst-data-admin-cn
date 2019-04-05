@@ -1,0 +1,64 @@
+{
+  "id": 1209025005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.23529,34.21993,113.23529,34.21993",
+    "geom:latitude":34.21993,
+    "geom:longitude":113.23529,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Songwan",
+    "gn:country_code":"CN",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10405852,
+    "gn:latitude":34.21993,
+    "gn:longitude":113.23529,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Songwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5b8b\u6e7e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10405852
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d4d5e1b0698e47ed6e89c34f39a3b517",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209025005
+        }
+    ],
+    "wof:id":1209025005,
+    "wof:lastmodified":1537613039,
+    "wof:name":"Songwan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.23529,
+    34.21993,
+    113.23529,
+    34.21993
+],
+  "geometry": {"coordinates":[113.23529000000001,34.21993],"type":"Point"}
+}

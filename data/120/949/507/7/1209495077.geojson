@@ -1,0 +1,64 @@
+{
+  "id": 1209495077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.68749,32.29934,112.68749,32.29934",
+    "geom:latitude":32.29934,
+    "geom:longitude":112.68749,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zhougang",
+    "gn:country_code":"CN",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8525628,
+    "gn:latitude":32.29934,
+    "gn:longitude":112.68749,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Zhougang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5468\u5c97"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8525628
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2c06e35de93e483e1a2dcac6c519d45e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209495077
+        }
+    ],
+    "wof:id":1209495077,
+    "wof:lastmodified":1537604317,
+    "wof:name":"Zhougang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.68749,
+    32.29934,
+    112.68749,
+    32.29934
+],
+  "geometry": {"coordinates":[112.68749,32.29934],"type":"Point"}
+}

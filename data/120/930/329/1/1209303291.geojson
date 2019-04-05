@@ -1,0 +1,64 @@
+{
+  "id": 1209303291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.377,37.9091,117.377,37.9091",
+    "geom:latitude":37.9091,
+    "geom:longitude":117.377,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Beideng",
+    "gn:country_code":"CN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9631644,
+    "gn:latitude":37.9091,
+    "gn:longitude":117.377,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Beideng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5317\u9093"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9631644
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"560ca5e880a14a2b946bf94b0985a6dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209303291
+        }
+    ],
+    "wof:id":1209303291,
+    "wof:lastmodified":1537606150,
+    "wof:name":"Beideng",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.377,
+    37.9091,
+    117.377,
+    37.9091
+],
+  "geometry": {"coordinates":[117.377,37.9091],"type":"Point"}
+}

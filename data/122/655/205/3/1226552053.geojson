@@ -1,0 +1,77 @@
+{
+  "id": 1226552053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.1564,28.04346,121.1564,28.04346",
+    "geom:latitude":28.04346,
+    "geom:longitude":121.1564,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dalongwan",
+    "gn:country_code":"CN",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1802354,
+    "gn:latitude":28.04346,
+    "gn:longitude":121.1564,
+    "gn:modification_date":"2012-10-06",
+    "gn:name":"Dalongwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Longwan",
+        "Lung-wan",
+        "Dalongwan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u9f99\u6e7e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890515633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1802354
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ae83a4b6a3700414e6940d0d1c1b5d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515633,
+            "empire_id":136253041,
+            "locality_id":1226552053,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1226552053,
+    "wof:lastmodified":1537593116,
+    "wof:name":"Dalongwan",
+    "wof:parent_id":890515633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.1564,
+    28.04346,
+    121.1564,
+    28.04346
+],
+  "geometry": {"coordinates":[121.1564,28.04346],"type":"Point"}
+}

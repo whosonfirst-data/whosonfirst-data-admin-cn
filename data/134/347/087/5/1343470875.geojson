@@ -1,0 +1,78 @@
+{
+  "id": 1343470875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.48352,30.16827,121.48352,30.16827",
+    "geom:latitude":30.16827,
+    "geom:longitude":121.48352,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Wudongzhacun",
+    "gn:country_code":"CN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1791299,
+    "gn:latitude":30.16827,
+    "gn:longitude":121.48352,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Wudongzhacun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wu-tung-cha",
+        "Wudongzha",
+        "\u4e94\u6d1e\u95f8",
+        "Wudongzhacun"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e94\u6d1e\u95f8\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1791299
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4abcab6041dc82e302f651fcdcf4f31d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516553,
+            "empire_id":136253041,
+            "locality_id":1343470875,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1343470875,
+    "wof:lastmodified":1537592393,
+    "wof:name":"Wudongzhacun",
+    "wof:parent_id":890516553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.48352,
+    30.16827,
+    121.48352,
+    30.16827
+],
+  "geometry": {"coordinates":[121.48352,30.16827],"type":"Point"}
+}

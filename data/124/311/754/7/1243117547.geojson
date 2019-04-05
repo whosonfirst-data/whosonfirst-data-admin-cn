@@ -1,0 +1,77 @@
+{
+  "id": 1243117547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.70242,32.19882,107.70242,32.19882",
+    "geom:latitude":32.19882,
+    "geom:longitude":107.70242,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Zhuyu",
+    "gn:country_code":"CN",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1783775,
+    "gn:latitude":32.19882,
+    "gn:longitude":107.70242,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhuyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chu-y\u00fc",
+        "Zhuyuguan",
+        "Zhuyu"
+    ],
+    "name:zho_x_preferred":[
+        "\u7af9\u5cea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890513987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1783775
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"17c70dba5b05f71ba405a10c661cf341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513987,
+            "empire_id":136253041,
+            "locality_id":1243117547,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1243117547,
+    "wof:lastmodified":1537591879,
+    "wof:name":"Zhuyu",
+    "wof:parent_id":890513987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.70242,
+    32.19882,
+    107.70242,
+    32.19882
+],
+  "geometry": {"coordinates":[107.70242,32.19882],"type":"Point"}
+}

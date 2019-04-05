@@ -1,0 +1,80 @@
+{
+  "id": 1209699033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.002,28.902,88.002,28.902",
+    "geom:latitude":28.902,
+    "geom:longitude":88.002,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kara",
+    "gn:country_code":"CN",
+    "gn:dem":4325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8041907,
+    "gn:latitude":28.902,
+    "gn:longitude":88.002,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Kara"
+    ],
+    "name:zho_x_preferred":[
+        "Kala"
+    ],
+    "name:zho_x_variant":[
+        "\u5361\u62c9",
+        "Puxia",
+        "\u666e\u5413"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8041907
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e41d8a069661dbe7e5b90588c95dc9d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1209699033,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1209699033,
+    "wof:lastmodified":1537602349,
+    "wof:name":"Kara",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.00200000000002,
+    28.902,
+    88.00200000000002,
+    28.902
+],
+  "geometry": {"coordinates":[88.00200000000002,28.902],"type":"Point"}
+}

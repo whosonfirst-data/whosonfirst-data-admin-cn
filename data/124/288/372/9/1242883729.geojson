@@ -1,0 +1,75 @@
+{
+  "id": 1242883729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.66667,34.39167,116.66667,34.39167",
+    "geom:latitude":34.39167,
+    "geom:longitude":116.66667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Laohuangkoucun",
+    "gn:country_code":"CN",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1558486,
+    "gn:latitude":34.39167,
+    "gn:longitude":116.66667,
+    "gn:modification_date":"2015-07-02",
+    "gn:name":"Laohuangkoucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laohuangkou"
+    ],
+    "name:zho_x_preferred":[
+        "\u8001\u9ec4\u53e3\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890514507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1558486
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2b9bc9f524a6e57460efce13fe1a5a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514507,
+            "empire_id":136253041,
+            "locality_id":1242883729,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1242883729,
+    "wof:lastmodified":1537591860,
+    "wof:name":"Laohuangkoucun",
+    "wof:parent_id":890514507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.66667,
+    34.39167,
+    116.66667,
+    34.39167
+],
+  "geometry": {"coordinates":[116.66667,34.39167],"type":"Point"}
+}

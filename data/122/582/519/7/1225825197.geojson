@@ -1,0 +1,76 @@
+{
+  "id": 1225825197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.71105,32.02154,112.71105,32.02154",
+    "geom:latitude":32.02154,
+    "geom:longitude":112.71105,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Donggang",
+    "gn:country_code":"CN",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1812570,
+    "gn:latitude":32.02154,
+    "gn:longitude":112.71105,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Donggang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tung-chi-kang",
+        "Donggang"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u5c97"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1812570
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c1e82298bd77bd001d2e35f614e2abe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732497,
+            "empire_id":136253041,
+            "locality_id":1225825197,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1225825197,
+    "wof:lastmodified":1537593772,
+    "wof:name":"Donggang",
+    "wof:parent_id":1108732497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.71105,
+    32.02154,
+    112.71105,
+    32.02154
+],
+  "geometry": {"coordinates":[112.71105,32.02154],"type":"Point"}
+}

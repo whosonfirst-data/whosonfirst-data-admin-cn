@@ -1,0 +1,77 @@
+{
+  "id": 1309689305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.02724,29.91573,109.02724,29.91573",
+    "geom:latitude":29.91573,
+    "geom:longitude":109.02724,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sanchahe",
+    "gn:country_code":"CN",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7006212,
+    "gn:latitude":29.91573,
+    "gn:longitude":109.02724,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sanchahe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chahe",
+        "Sanchahe",
+        "\u4e09\u5c94\u6cb3"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c94\u6cb3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7006212
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"23c81e4167e951fcf1f80e64b44ef9b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732427,
+            "empire_id":136253041,
+            "locality_id":1309689305,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1309689305,
+    "wof:lastmodified":1537597343,
+    "wof:name":"Sanchahe",
+    "wof:parent_id":1108732427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.02724,
+    29.91573,
+    109.02724,
+    29.91573
+],
+  "geometry": {"coordinates":[109.02724000000001,29.91573],"type":"Point"}
+}

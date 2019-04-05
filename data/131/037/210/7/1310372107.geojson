@@ -1,0 +1,80 @@
+{
+  "id": 1310372107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.34572,34.27611,108.34572,34.27611",
+    "geom:latitude":34.27611,
+    "geom:longitude":108.34572,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Zhaoyicun",
+    "gn:country_code":"CN",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1999106,
+    "gn:latitude":34.27611,
+    "gn:longitude":108.34572,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Zhaoyicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhaocun",
+        "\u8d75\u6751",
+        "Zhaoyicun"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d75\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u8d75\u4e00\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1999106
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"193a810f143e5dbe4608f127483df06a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515689,
+            "empire_id":136253041,
+            "locality_id":1310372107,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1310372107,
+    "wof:lastmodified":1537595433,
+    "wof:name":"Zhaoyicun",
+    "wof:parent_id":890515689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.34572,
+    34.27611,
+    108.34572,
+    34.27611
+],
+  "geometry": {"coordinates":[108.34572,34.27611],"type":"Point"}
+}

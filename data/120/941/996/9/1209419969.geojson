@@ -1,0 +1,64 @@
+{
+  "id": 1209419969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.31409,33.36407,119.31409,33.36407",
+    "geom:latitude":33.36407,
+    "geom:longitude":119.31409,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhangbeicun",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11575429,
+    "gn:latitude":33.36407,
+    "gn:longitude":119.31409,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Zhangbeicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5f20\u5317\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11575429
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"35ee2e74adbca86fda53fd97d8900450",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209419969
+        }
+    ],
+    "wof:id":1209419969,
+    "wof:lastmodified":1537617915,
+    "wof:name":"Zhangbeicun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.31409,
+    33.36407,
+    119.31409,
+    33.36407
+],
+  "geometry": {"coordinates":[119.31408999999999,33.36407],"type":"Point"}
+}

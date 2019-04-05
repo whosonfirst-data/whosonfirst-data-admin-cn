@@ -1,0 +1,80 @@
+{
+  "id": 1226145873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.53729,28.05487,120.53729,28.05487",
+    "geom:latitude":28.05487,
+    "geom:longitude":120.53729,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zhongshancun",
+    "gn:country_code":"CN",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1899130,
+    "gn:latitude":28.05487,
+    "gn:longitude":120.53729,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Zhongshancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chuang-shan",
+        "Zhongshan",
+        "Zhongshancun"
+    ],
+    "name:zho_x_preferred":[
+        "\u949f\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "\u949f\u5c71\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890514289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1899130
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8c5f7d64a58a2b3c61580d181697b350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514289,
+            "empire_id":136253041,
+            "locality_id":1226145873,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1226145873,
+    "wof:lastmodified":1537594457,
+    "wof:name":"Zhongshancun",
+    "wof:parent_id":890514289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.53728999999998,
+    28.05487,
+    120.53728999999998,
+    28.05487
+],
+  "geometry": {"coordinates":[120.53728999999998,28.05487],"type":"Point"}
+}

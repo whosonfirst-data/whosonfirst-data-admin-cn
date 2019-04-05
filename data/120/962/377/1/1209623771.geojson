@@ -1,0 +1,65 @@
+{
+  "id": 1209623771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.21694,29.7725,122.21694,29.7725",
+    "geom:latitude":29.7725,
+    "geom:longitude":122.21694,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Longyanli",
+    "gn:country_code":"CN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892713,
+    "gn:latitude":29.7725,
+    "gn:longitude":122.21694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Longyanli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9f99\u773c\u91cc",
+        "Longyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892713
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"614589bdd42c18e6147c15f1176d81e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209623771
+        }
+    ],
+    "wof:id":1209623771,
+    "wof:lastmodified":1537594276,
+    "wof:name":"Longyanli",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.21694,
+    29.7725,
+    122.21694,
+    29.7725
+],
+  "geometry": {"coordinates":[122.21693999999999,29.7725],"type":"Point"}
+}

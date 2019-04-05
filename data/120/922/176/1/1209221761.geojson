@@ -1,0 +1,64 @@
+{
+  "id": 1209221761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.88351,28.973,116.88351,28.973",
+    "geom:latitude":28.973,
+    "geom:longitude":116.88351,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shetou",
+    "gn:country_code":"CN",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7328785,
+    "gn:latitude":28.973,
+    "gn:longitude":116.88351,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shetou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u820d\u5934"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7328785
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"43c6f9ef516d53b80e4d5be7920bc8dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209221761
+        }
+    ],
+    "wof:id":1209221761,
+    "wof:lastmodified":1537598012,
+    "wof:name":"Shetou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.88351000000002,
+    28.97300000000001,
+    116.88351000000002,
+    28.97300000000001
+],
+  "geometry": {"coordinates":[116.88351000000002,28.97300000000001],"type":"Point"}
+}

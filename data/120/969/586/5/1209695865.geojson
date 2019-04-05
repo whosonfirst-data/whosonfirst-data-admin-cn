@@ -1,0 +1,64 @@
+{
+  "id": 1209695865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.96012,30.77263,111.96012,30.77263",
+    "geom:latitude":30.77263,
+    "geom:longitude":111.96012,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Minjiachang",
+    "gn:country_code":"CN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1910507,
+    "gn:latitude":30.77263,
+    "gn:longitude":111.96012,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Minjiachang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u95f5\u5bb6\u573a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1910507
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"99bc361e0469ab53ca31ca126855d2b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209695865
+        }
+    ],
+    "wof:id":1209695865,
+    "wof:lastmodified":1537594581,
+    "wof:name":"Minjiachang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.96012,
+    30.77263,
+    111.96012,
+    30.77263
+],
+  "geometry": {"coordinates":[111.96012,30.77263],"type":"Point"}
+}

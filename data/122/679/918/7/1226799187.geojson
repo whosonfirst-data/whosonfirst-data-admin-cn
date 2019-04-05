@@ -1,0 +1,76 @@
+{
+  "id": 1226799187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.02985,22.52625,113.02985,22.52625",
+    "geom:latitude":22.52625,
+    "geom:longitude":113.02985,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Huicheng",
+    "gn:country_code":"CN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":6856472,
+    "gn:latitude":22.52625,
+    "gn:longitude":113.02985,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Huicheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huicheng Jiedao",
+        "\u4f1a\u57ce\u8857\u9053"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f1a\u57ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890514609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6856472
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9b4cfab4aef6073a73517c3610e76cc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514609,
+            "empire_id":136253041,
+            "locality_id":1226799187,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1226799187,
+    "wof:lastmodified":1537596454,
+    "wof:name":"Huicheng",
+    "wof:parent_id":890514609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.02985,
+    22.52625,
+    113.02985,
+    22.52625
+],
+  "geometry": {"coordinates":[113.02985,22.52625],"type":"Point"}
+}

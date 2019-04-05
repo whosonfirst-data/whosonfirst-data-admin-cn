@@ -1,0 +1,77 @@
+{
+  "id": 1243218323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.2702,32.44422,109.2702,32.44422",
+    "geom:latitude":32.44422,
+    "geom:longitude":109.2702,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Xujiabacun",
+    "gn:country_code":"CN",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1787944,
+    "gn:latitude":32.44422,
+    "gn:longitude":109.2702,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Xujiabacun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hs\u00fc-chia-pa",
+        "Xujiaba",
+        "Xujiabacun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f90\u5bb6\u575d\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1787944
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d0017c7ed2ebb7bce8e4011ef963b3f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515101,
+            "empire_id":136253041,
+            "locality_id":1243218323,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1243218323,
+    "wof:lastmodified":1537592157,
+    "wof:name":"Xujiabacun",
+    "wof:parent_id":890515101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.2702,
+    32.44422,
+    109.2702,
+    32.44422
+],
+  "geometry": {"coordinates":[109.2702,32.44422],"type":"Point"}
+}

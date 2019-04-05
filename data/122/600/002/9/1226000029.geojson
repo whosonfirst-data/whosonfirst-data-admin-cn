@@ -1,0 +1,77 @@
+{
+  "id": 1226000029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.15612,36.94316,119.15612,36.94316",
+    "geom:latitude":36.94316,
+    "geom:longitude":119.15612,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Dabozicun",
+    "gn:country_code":"CN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1798540,
+    "gn:latitude":36.94316,
+    "gn:longitude":119.15612,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Dabozicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u2019o-tzu",
+        "Pozi",
+        "Dabozicun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u6cca\u5b50\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669813,
+        102191569,
+        85632695,
+        136253041,
+        890514755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1798540
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bda62ca7ec573d751ed1db47da1b1b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514755,
+            "empire_id":136253041,
+            "locality_id":1226000029,
+            "region_id":85669813
+        }
+    ],
+    "wof:id":1226000029,
+    "wof:lastmodified":1537592881,
+    "wof:name":"Dabozicun",
+    "wof:parent_id":890514755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.15612,
+    36.94316,
+    119.15612,
+    36.94316
+],
+  "geometry": {"coordinates":[119.15612,36.94316],"type":"Point"}
+}

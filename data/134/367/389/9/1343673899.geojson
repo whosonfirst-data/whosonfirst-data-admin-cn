@@ -1,0 +1,80 @@
+{
+  "id": 1343673899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.22852,27.99408,121.22852,27.99408",
+    "geom:latitude":27.99408,
+    "geom:longitude":121.22852,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dongjiucun",
+    "gn:country_code":"CN",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1812431,
+    "gn:latitude":27.99408,
+    "gn:longitude":121.22852,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Dongjiucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tung-chiu",
+        "Dongjiu",
+        "Dongjiucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u81fc"
+    ],
+    "name:zho_x_variant":[
+        "\u4e1c\u81fc\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890514289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1812431
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9901d63a15cfcc509a1b5e9769fa7f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514289,
+            "empire_id":136253041,
+            "locality_id":1343673899,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1343673899,
+    "wof:lastmodified":1537593763,
+    "wof:name":"Dongjiucun",
+    "wof:parent_id":890514289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.22852,
+    27.99408,
+    121.22852,
+    27.99408
+],
+  "geometry": {"coordinates":[121.22852,27.99408],"type":"Point"}
+}

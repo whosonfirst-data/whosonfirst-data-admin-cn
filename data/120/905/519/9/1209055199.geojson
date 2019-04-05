@@ -1,0 +1,64 @@
+{
+  "id": 1209055199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.28707,30.65653,108.28707,30.65653",
+    "geom:latitude":30.65653,
+    "geom:longitude":108.28707,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Pailou",
+    "gn:country_code":"CN",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8404370,
+    "gn:latitude":30.65653,
+    "gn:longitude":108.28707,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Pailou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u724c\u697c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8404370
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1376050b72ee3765fd4146d99ba7b64a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209055199
+        }
+    ],
+    "wof:id":1209055199,
+    "wof:lastmodified":1537603386,
+    "wof:name":"Pailou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.28707,
+    30.65653,
+    108.28707,
+    30.65653
+],
+  "geometry": {"coordinates":[108.28707,30.65653],"type":"Point"}
+}

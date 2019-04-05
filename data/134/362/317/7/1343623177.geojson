@@ -1,0 +1,75 @@
+{
+  "id": 1343623177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.21726,48.24616,123.21726,48.24616",
+    "geom:latitude":48.24616,
+    "geom:longitude":123.21726,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Lujiagou",
+    "gn:country_code":"CN",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439226,
+    "gn:latitude":48.24616,
+    "gn:longitude":123.21726,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"L\u00fcjiagou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00fcjiagou"
+    ],
+    "name:zho_x_preferred":[
+        "\u5415\u5bb6\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669847,
+        102191569,
+        85632695,
+        136253041,
+        1108732385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439226
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bf79801ca986c6dbb6cb49ae0a08ef9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732385,
+            "empire_id":136253041,
+            "locality_id":1343623177,
+            "region_id":85669847
+        }
+    ],
+    "wof:id":1343623177,
+    "wof:lastmodified":1537603699,
+    "wof:name":"Lujiagou",
+    "wof:parent_id":1108732385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.21726,
+    48.24616,
+    123.21726,
+    48.24616
+],
+  "geometry": {"coordinates":[123.21726,48.24616],"type":"Point"}
+}

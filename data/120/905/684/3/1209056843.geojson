@@ -1,0 +1,64 @@
+{
+  "id": 1209056843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.845,24.5319,102.845,24.5319",
+    "geom:latitude":24.5319,
+    "geom:longitude":102.845,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Zhuangzi",
+    "gn:country_code":"CN",
+    "gn:dem":1742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6824696,
+    "gn:latitude":24.5319,
+    "gn:longitude":102.845,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Zhuangzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5e84\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6824696
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2d7ec6620ecd43b60c21bb6539e2b4a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209056843
+        }
+    ],
+    "wof:id":1209056843,
+    "wof:lastmodified":1537596273,
+    "wof:name":"Zhuangzi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.845,
+    24.5319,
+    102.845,
+    24.5319
+],
+  "geometry": {"coordinates":[102.845,24.5319],"type":"Point"}
+}

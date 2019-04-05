@@ -1,0 +1,76 @@
+{
+  "id": 1360263017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.72809,29.54553,111.72809,29.54553",
+    "geom:latitude":29.54553,
+    "geom:longitude":111.72809,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Daohe",
+    "gn:country_code":"CN",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1813246,
+    "gn:latitude":29.54553,
+    "gn:longitude":111.72809,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Daohe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9053\u6cb3",
+        "Dayanchang",
+        "Daohe Xiang",
+        "\u5927\u5ca9\u573a",
+        "\u9053\u6cb3\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890515867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1813246
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9f0eb12ac20bcc4d611343de96d52750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515867,
+            "empire_id":136253041,
+            "locality_id":1360263017,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1360263017,
+    "wof:lastmodified":1537593813,
+    "wof:name":"Daohe",
+    "wof:parent_id":890515867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.72809,
+    29.54553,
+    111.72809,
+    29.54553
+],
+  "geometry": {"coordinates":[111.72808999999999,29.54553],"type":"Point"}
+}

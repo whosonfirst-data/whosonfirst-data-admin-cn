@@ -1,0 +1,75 @@
+{
+  "id": 1209804985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.99527,33.85126,113.99527,33.85126",
+    "geom:latitude":33.85126,
+    "geom:longitude":113.99527,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Yingwangcun",
+    "gn:country_code":"CN",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7514285,
+    "gn:latitude":33.85126,
+    "gn:longitude":113.99527,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Yingwangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u82f1\u738b\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "\u82f1\u738b\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669801,
+        102191569,
+        85632695,
+        136253041,
+        890516247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7514285
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"cda6a1e6966c98355284ab89e7fca6a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516247,
+            "empire_id":136253041,
+            "locality_id":1209804985,
+            "region_id":85669801
+        }
+    ],
+    "wof:id":1209804985,
+    "wof:lastmodified":1537599581,
+    "wof:name":"Yingwangcun",
+    "wof:parent_id":890516247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.99527,
+    33.85126,
+    113.99527,
+    33.85126
+],
+  "geometry": {"coordinates":[113.99527,33.85126],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209537631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.36742,33.4534,101.36742,33.4534",
+    "geom:latitude":33.4534,
+    "geom:longitude":101.36742,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Guojiang",
+    "gn:country_code":"CN",
+    "gn:dem":3842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8450520,
+    "gn:latitude":33.4534,
+    "gn:longitude":101.36742,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Guojiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u679c\u6c5f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8450520
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7fdee6262a64dc83730a3c64cab8c23e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209537631
+        }
+    ],
+    "wof:id":1209537631,
+    "wof:lastmodified":1537603761,
+    "wof:name":"Guojiang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.36742,
+    33.4534,
+    101.36742,
+    33.4534
+],
+  "geometry": {"coordinates":[101.36742,33.4534],"type":"Point"}
+}

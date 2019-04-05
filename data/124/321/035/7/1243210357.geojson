@@ -1,0 +1,77 @@
+{
+  "id": 1243210357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.9943,22.83197,114.9943,22.83197",
+    "geom:latitude":22.83197,
+    "geom:longitude":114.9943,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Ebu",
+    "gn:country_code":"CN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1916231,
+    "gn:latitude":22.83197,
+    "gn:longitude":114.9943,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Ebu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ebu Zhen",
+        "\u9e45\u57e0\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u9e45\u57e0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890515843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1916231,
+        "wk:page":"Ebu"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2ae28cd3626b6928314bc7d2752a21dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515843,
+            "empire_id":136253041,
+            "locality_id":1243210357,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1243210357,
+    "wof:lastmodified":1537594719,
+    "wof:name":"Ebu",
+    "wof:parent_id":890515843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.9943,
+    22.83197,
+    114.9943,
+    22.83197
+],
+  "geometry": {"coordinates":[114.9943,22.83197],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209273843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.787,30.8461,107.787,30.8461",
+    "geom:latitude":30.8461,
+    "geom:longitude":107.787,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Huangmaoping",
+    "gn:country_code":"CN",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10154795,
+    "gn:latitude":30.8461,
+    "gn:longitude":107.787,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Huangmaoping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9ec4\u8305\u576a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10154795
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a6a425dd236af2a6779bf4ad9ea86873",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209273843
+        }
+    ],
+    "wof:id":1209273843,
+    "wof:lastmodified":1537610555,
+    "wof:name":"Huangmaoping",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.787,
+    30.8461,
+    107.787,
+    30.8461
+],
+  "geometry": {"coordinates":[107.78700000000001,30.8461],"type":"Point"}
+}

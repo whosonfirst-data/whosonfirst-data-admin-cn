@@ -1,0 +1,75 @@
+{
+  "id": 1243457317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.95019,30.15509,121.95019,30.15509",
+    "geom:latitude":30.15509,
+    "geom:longitude":121.95019,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Beidou'ao",
+    "gn:country_code":"CN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8226205,
+    "gn:latitude":30.15509,
+    "gn:longitude":121.95019,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Beidou\u2019ao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beidou\u2019ao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u6597\u5c99"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890513083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8226205
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"094980c2b6a6ee678d6c2e2f1c8d66b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513083,
+            "empire_id":136253041,
+            "locality_id":1243457317,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1243457317,
+    "wof:lastmodified":1537602743,
+    "wof:name":"Beidou'ao",
+    "wof:parent_id":890513083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.95019,
+    30.15509,
+    121.95019,
+    30.15509
+],
+  "geometry": {"coordinates":[121.95019000000001,30.15509],"type":"Point"}
+}

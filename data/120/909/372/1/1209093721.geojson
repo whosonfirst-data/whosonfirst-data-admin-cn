@@ -1,0 +1,64 @@
+{
+  "id": 1209093721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.23421,28.88219,113.23421,28.88219",
+    "geom:latitude":28.88219,
+    "geom:longitude":113.23421,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tianjiating",
+    "gn:country_code":"CN",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10320985,
+    "gn:latitude":28.88219,
+    "gn:longitude":113.23421,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Tianjiating",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7530\u5bb6\u4ead"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10320985
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6abf3aadeed33e8f0cda6fcfc103da79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209093721
+        }
+    ],
+    "wof:id":1209093721,
+    "wof:lastmodified":1537612133,
+    "wof:name":"Tianjiating",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.23421,
+    28.88219,
+    113.23421,
+    28.88219
+],
+  "geometry": {"coordinates":[113.23421,28.88219],"type":"Point"}
+}

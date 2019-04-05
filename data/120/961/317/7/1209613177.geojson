@@ -1,0 +1,64 @@
+{
+  "id": 1209613177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.93863,45.53619,123.93863,45.53619",
+    "geom:latitude":45.53619,
+    "geom:longitude":123.93863,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Laifucun",
+    "gn:country_code":"CN",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10891108,
+    "gn:latitude":45.53619,
+    "gn:longitude":123.93863,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Laifucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6765\u5bcc\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10891108
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a0d18e536f19cdd68f0fbe1fa8d5ab37",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209613177
+        }
+    ],
+    "wof:id":1209613177,
+    "wof:lastmodified":1537614691,
+    "wof:name":"Laifucun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.93863,
+    45.53619000000001,
+    123.93863,
+    45.53619000000001
+],
+  "geometry": {"coordinates":[123.93863,45.53619000000001],"type":"Point"}
+}

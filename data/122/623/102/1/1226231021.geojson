@@ -1,0 +1,75 @@
+{
+  "id": 1226231021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.52797,39.96353,119.52797,39.96353",
+    "geom:latitude":39.96353,
+    "geom:longitude":119.52797,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Xin'anli",
+    "gn:country_code":"CN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10371000,
+    "gn:latitude":39.96353,
+    "gn:longitude":119.52797,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Xin\u2019anli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xin\u2019anli"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5b89\u91cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669797,
+        102191569,
+        85632695,
+        136253041,
+        890513075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10371000
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"053f87bc0b4e1efaca3e59e8b430f420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513075,
+            "empire_id":136253041,
+            "locality_id":1226231021,
+            "region_id":85669797
+        }
+    ],
+    "wof:id":1226231021,
+    "wof:lastmodified":1537612870,
+    "wof:name":"Xin'anli",
+    "wof:parent_id":890513075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.52797,
+    39.96353,
+    119.52797,
+    39.96353
+],
+  "geometry": {"coordinates":[119.52797,39.96353],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343964553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.32579,28.26413,117.32579,28.26413",
+    "geom:latitude":28.26413,
+    "geom:longitude":117.32579,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Jianzhu",
+    "gn:country_code":"CN",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":7064678,
+    "gn:latitude":28.26413,
+    "gn:longitude":117.32579,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Jianzhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jianzhu Xiang",
+        "\u7bad\u7af9\u4e61",
+        "Jianzhu"
+    ],
+    "name:zho_x_preferred":[
+        "\u7bad\u7af9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669823,
+        102191569,
+        85632695,
+        136253041,
+        890515869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7064678
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fef3f8364d8d4a76ee52fa86d9b63ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515869,
+            "empire_id":136253041,
+            "locality_id":1343964553,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":1343964553,
+    "wof:lastmodified":1537597695,
+    "wof:name":"Jianzhu",
+    "wof:parent_id":890515869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.32578999999998,
+    28.26413,
+    117.32578999999998,
+    28.26413
+],
+  "geometry": {"coordinates":[117.32578999999998,28.26413],"type":"Point"}
+}

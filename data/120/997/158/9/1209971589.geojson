@@ -1,0 +1,81 @@
+{
+  "id": 1209971589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.89472,34.85278,108.89472,34.85278",
+    "geom:latitude":34.85278,
+    "geom:longitude":108.89472,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Potou",
+    "gn:country_code":"CN",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1910278,
+    "gn:latitude":34.85278,
+    "gn:longitude":108.89472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Potou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Potoucun",
+        "Potou Zhen",
+        "Potouzhen",
+        "Potou"
+    ],
+    "name:zho_x_preferred":[
+        "\u5761\u5934"
+    ],
+    "name:zho_x_variant":[
+        "\u5761\u5934\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        1108732515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1910278
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5390312785f1030fd7efbd7df8323cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732515,
+            "empire_id":136253041,
+            "locality_id":1209971589,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1209971589,
+    "wof:lastmodified":1537594576,
+    "wof:name":"Potou",
+    "wof:parent_id":1108732515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.89472,
+    34.85278,
+    108.89472,
+    34.85278
+],
+  "geometry": {"coordinates":[108.89472000000001,34.85278],"type":"Point"}
+}

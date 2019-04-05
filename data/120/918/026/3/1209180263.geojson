@@ -1,0 +1,64 @@
+{
+  "id": 1209180263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.725,25.8488,105.725,25.8488",
+    "geom:latitude":25.8488,
+    "geom:longitude":105.725,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Longzong",
+    "gn:country_code":"CN",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10021051,
+    "gn:latitude":25.8488,
+    "gn:longitude":105.725,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Longzong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7b3c\u5b97"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10021051
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"28d5cba832ab57c54d052ce343a8bc31",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209180263
+        }
+    ],
+    "wof:id":1209180263,
+    "wof:lastmodified":1537609116,
+    "wof:name":"Longzong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.725,
+    25.8488,
+    105.725,
+    25.8488
+],
+  "geometry": {"coordinates":[105.72499999999999,25.8488],"type":"Point"}
+}

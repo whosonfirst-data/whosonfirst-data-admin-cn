@@ -1,0 +1,80 @@
+{
+  "id": 1326625015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.98865,35.89116,99.98865,35.89116",
+    "geom:latitude":35.89116,
+    "geom:longitude":99.98865,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Heka",
+    "gn:country_code":"CN",
+    "gn:dem":3259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1281050,
+    "gn:latitude":35.89116,
+    "gn:longitude":99.98865,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Heka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ho-k\u2019a",
+        "Heka",
+        "Heka Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cb3\u5361"
+    ],
+    "name:zho_x_variant":[
+        "\u6cb3\u5361\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669715,
+        102191569,
+        85632695,
+        136253041,
+        890515871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1281050
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"07a64c84729d3bda281b1c04d1283335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515871,
+            "empire_id":136253041,
+            "locality_id":1326625015,
+            "region_id":85669715
+        }
+    ],
+    "wof:id":1326625015,
+    "wof:lastmodified":1537591495,
+    "wof:name":"Heka",
+    "wof:parent_id":890515871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.98865,
+    35.89116,
+    99.98865,
+    35.89116
+],
+  "geometry": {"coordinates":[99.98865000000001,35.89116],"type":"Point"}
+}

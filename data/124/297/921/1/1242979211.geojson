@@ -1,0 +1,77 @@
+{
+  "id": 1242979211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.36692,28.62077,121.36692,28.62077",
+    "geom:latitude":28.62077,
+    "geom:longitude":121.36692,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zhuchangcun",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1897630,
+    "gn:latitude":28.62077,
+    "gn:longitude":121.36692,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Zhuchangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chu-ch\u2019ang-wang",
+        "Zhuchang",
+        "Zhuchangcun"
+    ],
+    "name:zho_x_preferred":[
+        "\u795d\u660c\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890515633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1897630
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"dc7d01f0731c8b874e823e6159c1bf6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515633,
+            "empire_id":136253041,
+            "locality_id":1242979211,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1242979211,
+    "wof:lastmodified":1537594393,
+    "wof:name":"Zhuchangcun",
+    "wof:parent_id":890515633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.36692,
+    28.62077,
+    121.36692,
+    28.62077
+],
+  "geometry": {"coordinates":[121.36691999999999,28.62077],"type":"Point"}
+}

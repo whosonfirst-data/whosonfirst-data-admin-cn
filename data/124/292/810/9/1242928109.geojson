@@ -1,0 +1,80 @@
+{
+  "id": 1242928109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.75339,34.40702,108.75339,34.40702",
+    "geom:latitude":34.40702,
+    "geom:longitude":108.75339,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Nanhecun",
+    "gn:country_code":"CN",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2001091,
+    "gn:latitude":34.40702,
+    "gn:longitude":108.75339,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Nanhecun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nanhe",
+        "\u5357\u8d3a",
+        "Nanhecun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u8d3a"
+    ],
+    "name:zho_x_variant":[
+        "\u5357\u8d3a\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2001091
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b3202c69de37f938457821f8a8dfa4a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515689,
+            "empire_id":136253041,
+            "locality_id":1242928109,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1242928109,
+    "wof:lastmodified":1537595478,
+    "wof:name":"Nanhecun",
+    "wof:parent_id":890515689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.75339,
+    34.40702,
+    108.75339,
+    34.40702
+],
+  "geometry": {"coordinates":[108.75339,34.40702],"type":"Point"}
+}

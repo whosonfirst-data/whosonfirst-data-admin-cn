@@ -1,0 +1,64 @@
+{
+  "id": 1209560833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.61673,30.52765,101.61673,30.52765",
+    "geom:latitude":30.52765,
+    "geom:longitude":101.61673,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Taizhan",
+    "gn:country_code":"CN",
+    "gn:dem":3541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6998705,
+    "gn:latitude":30.52765,
+    "gn:longitude":101.61673,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taizhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u53f0\u7ad9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6998705
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"13f5843b8779ee21f6b9900c2a47e6d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209560833
+        }
+    ],
+    "wof:id":1209560833,
+    "wof:lastmodified":1537597279,
+    "wof:name":"Taizhan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.61673,
+    30.52765,
+    101.61673,
+    30.52765
+],
+  "geometry": {"coordinates":[101.61673,30.52765],"type":"Point"}
+}

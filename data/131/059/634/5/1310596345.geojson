@@ -1,0 +1,79 @@
+{
+  "id": 1310596345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.15612,47.2716,126.15612,47.2716",
+    "geom:latitude":47.2716,
+    "geom:longitude":126.15612,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Aiguocun",
+    "gn:country_code":"CN",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2038672,
+    "gn:latitude":47.2716,
+    "gn:longitude":126.15612,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Aiguocun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aiguo",
+        "Aiguocun"
+    ],
+    "name:zho_x_preferred":[
+        "\u7231\u56fd"
+    ],
+    "name:zho_x_variant":[
+        "\u7231\u56fd\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890514509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2038672
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f1901da25f48582695389e77856d0571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514509,
+            "empire_id":136253041,
+            "locality_id":1310596345,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1310596345,
+    "wof:lastmodified":1537595899,
+    "wof:name":"Aiguocun",
+    "wof:parent_id":890514509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.15612,
+    47.2716,
+    126.15612,
+    47.2716
+],
+  "geometry": {"coordinates":[126.15612,47.2716],"type":"Point"}
+}

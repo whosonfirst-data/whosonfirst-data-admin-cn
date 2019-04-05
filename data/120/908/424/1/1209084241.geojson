@@ -1,0 +1,64 @@
+{
+  "id": 1209084241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.61171,27.53718,109.61171,27.53718",
+    "geom:latitude":27.53718,
+    "geom:longitude":109.61171,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Shachong",
+    "gn:country_code":"CN",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10368315,
+    "gn:latitude":27.53718,
+    "gn:longitude":109.61171,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Shachong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6c99\u51b2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10368315
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"68ba26fe1896e262d5b053647e94013e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209084241
+        }
+    ],
+    "wof:id":1209084241,
+    "wof:lastmodified":1537612792,
+    "wof:name":"Shachong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.61171000000002,
+    27.53718,
+    109.61171000000002,
+    27.53718
+],
+  "geometry": {"coordinates":[109.61171000000002,27.53718],"type":"Point"}
+}

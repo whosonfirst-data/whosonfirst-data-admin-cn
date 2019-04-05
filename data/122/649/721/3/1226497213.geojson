@@ -1,0 +1,76 @@
+{
+  "id": 1226497213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.23222,32.47333,107.23222,32.47333",
+    "geom:latitude":32.47333,
+    "geom:longitude":107.23222,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Chengjiaba",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1815259,
+    "gn:latitude":32.47333,
+    "gn:longitude":107.23222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chengjiaba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fucheng",
+        "Shang-ch\u2019eng",
+        "Ch\u2019eng-chia-pa",
+        "Chengjiaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1815259
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"145ee0ed171a7f4d3f1a212e4d9e642c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515099,
+            "empire_id":136253041,
+            "locality_id":1226497213,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1226497213,
+    "wof:lastmodified":1537593933,
+    "wof:name":"Chengjiaba",
+    "wof:parent_id":890515099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.23222,
+    32.47333,
+    107.23222,
+    32.47333
+],
+  "geometry": {"coordinates":[107.23222,32.47333],"type":"Point"}
+}

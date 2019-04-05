@@ -1,0 +1,76 @@
+{
+  "id": 1360159447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.62555,42.80228,123.62555,42.80228",
+    "geom:latitude":42.80228,
+    "geom:longitude":123.62555,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Beixin Fabu",
+    "gn:country_code":"CN",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7005555,
+    "gn:latitude":42.80228,
+    "gn:longitude":123.62555,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Beixin Fabu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beixinfabao",
+        "Beixin Fabu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u65b0\u53d1\u5821"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7005555
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2398d6a21f5710b05fb266164e651a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514741,
+            "empire_id":136253041,
+            "locality_id":1360159447,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1360159447,
+    "wof:lastmodified":1537597322,
+    "wof:name":"Beixin Fabu",
+    "wof:parent_id":890514741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.62555,
+    42.80228,
+    123.62555,
+    42.80228
+],
+  "geometry": {"coordinates":[123.62555,42.80228],"type":"Point"}
+}

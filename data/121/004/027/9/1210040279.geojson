@@ -1,0 +1,78 @@
+{
+  "id": 1210040279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.11219,31.70136,119.11219,31.70136",
+    "geom:latitude":31.70136,
+    "geom:longitude":119.11219,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dongping",
+    "gn:country_code":"CN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1548310,
+    "gn:latitude":31.70136,
+    "gn:longitude":119.11219,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Dongping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dongping Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u5c4f"
+    ],
+    "name:zho_x_variant":[
+        "\u4e1c\u5c4f\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1548310
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"658592ef18ac685b5251fc6af9fcba0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516425,
+            "empire_id":136253041,
+            "locality_id":1210040279,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1210040279,
+    "wof:lastmodified":1537591658,
+    "wof:name":"Dongping",
+    "wof:parent_id":890516425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.11218999999998,
+    31.70136,
+    119.11218999999998,
+    31.70136
+],
+  "geometry": {"coordinates":[119.11218999999998,31.70136],"type":"Point"}
+}

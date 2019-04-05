@@ -1,0 +1,84 @@
+{
+  "id": 1310684275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.0,29.1,95.0,29.1",
+    "geom:latitude":29.1,
+    "geom:longitude":95.0,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Xirang",
+    "gn:country_code":"CN",
+    "gn:dem":1416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8059032,
+    "gn:latitude":29.1,
+    "gn:longitude":95.0,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Xirang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Xirang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u8ba9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672259,
+        85632701,
+        102191569,
+        85632469,
+        890511445,
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8059032
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"af6a093ba673635ac9732224b4011616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890511445,
+            "disputed_id":85632701,
+            "locality_id":1310684275,
+            "region_id":85672259
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890511445,
+            "disputed_id":85632701,
+            "locality_id":1310684275,
+            "region_id":85672259
+        }
+    ],
+    "wof:id":1310684275,
+    "wof:lastmodified":1537602493,
+    "wof:name":"Xirang",
+    "wof:parent_id":890511445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.0,
+    29.1,
+    95.0,
+    29.1
+],
+  "geometry": {"coordinates":[95.0,29.1],"type":"Point"}
+}

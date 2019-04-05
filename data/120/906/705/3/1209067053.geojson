@@ -1,0 +1,64 @@
+{
+  "id": 1209067053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.3463,24.4566,99.3463,24.4566",
+    "geom:latitude":24.4566,
+    "geom:longitude":99.3463,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mangdan",
+    "gn:country_code":"CN",
+    "gn:dem":774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9938888,
+    "gn:latitude":24.4566,
+    "gn:longitude":99.3463,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Mangdan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8292\u80c6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9938888
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"32309c591326e2073756f9248e17bb36",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209067053
+        }
+    ],
+    "wof:id":1209067053,
+    "wof:lastmodified":1537607944,
+    "wof:name":"Mangdan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.3463,
+    24.4566,
+    99.3463,
+    24.4566
+],
+  "geometry": {"coordinates":[99.3463,24.4566],"type":"Point"}
+}

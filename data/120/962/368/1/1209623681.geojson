@@ -1,0 +1,64 @@
+{
+  "id": 1209623681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.38367,28.67977,121.38367,28.67977",
+    "geom:latitude":28.67977,
+    "geom:longitude":121.38367,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Jieling",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8400836,
+    "gn:latitude":28.67977,
+    "gn:longitude":121.38367,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Jieling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u754c\u5cad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8400836
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6a14d4a12492f9dec02c6a8f16942ee9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209623681
+        }
+    ],
+    "wof:id":1209623681,
+    "wof:lastmodified":1537603345,
+    "wof:name":"Jieling",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.38367,
+    28.67977,
+    121.38367,
+    28.67977
+],
+  "geometry": {"coordinates":[121.38367,28.67977],"type":"Point"}
+}

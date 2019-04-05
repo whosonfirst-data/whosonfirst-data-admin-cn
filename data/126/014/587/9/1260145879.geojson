@@ -1,0 +1,75 @@
+{
+  "id": 1260145879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.60098,42.24792,123.60098,42.24792",
+    "geom:latitude":42.24792,
+    "geom:longitude":123.60098,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Huanghezi",
+    "gn:country_code":"CN",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7399435,
+    "gn:latitude":42.24792,
+    "gn:longitude":123.60098,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Huanghezi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9ec4\u6cb3\u5b50"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ec4\u6cb3\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7399435
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"09935a43f58380293b78c34de4c7188d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514741,
+            "empire_id":136253041,
+            "locality_id":1260145879,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1260145879,
+    "wof:lastmodified":1537598620,
+    "wof:name":"Huanghezi",
+    "wof:parent_id":890514741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.60098,
+    42.24792,
+    123.60098,
+    42.24792
+],
+  "geometry": {"coordinates":[123.60098000000001,42.24792],"type":"Point"}
+}

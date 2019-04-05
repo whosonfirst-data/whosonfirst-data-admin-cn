@@ -1,0 +1,64 @@
+{
+  "id": 1209129805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.74711,32.5915,119.74711,32.5915",
+    "geom:latitude":32.5915,
+    "geom:longitude":119.74711,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dalu",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8270510,
+    "gn:latitude":32.5915,
+    "gn:longitude":119.74711,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Dalu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u8def"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8270510
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"58f8772e85ee9ba4a274922dd96cff27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209129805
+        }
+    ],
+    "wof:id":1209129805,
+    "wof:lastmodified":1537602871,
+    "wof:name":"Dalu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.74711,
+    32.5915,
+    119.74711,
+    32.5915
+],
+  "geometry": {"coordinates":[119.74711000000001,32.5915],"type":"Point"}
+}

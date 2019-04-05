@@ -1,0 +1,78 @@
+{
+  "id": 1326925493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.53895,46.60199,123.53895,46.60199",
+    "geom:latitude":46.60199,
+    "geom:longitude":123.53895,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pingyang",
+    "gn:country_code":"CN",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2035457,
+    "gn:latitude":46.60199,
+    "gn:longitude":123.53895,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Pingyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pingyang Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e73\u6d0b"
+    ],
+    "name:zho_x_variant":[
+        "\u5e73\u6d0b\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890516483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2035457
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5182273a3472e13784b8e02aa00f0c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516483,
+            "empire_id":136253041,
+            "locality_id":1326925493,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1326925493,
+    "wof:lastmodified":1537595716,
+    "wof:name":"Pingyang",
+    "wof:parent_id":890516483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.53895,
+    46.60199,
+    123.53895,
+    46.60199
+],
+  "geometry": {"coordinates":[123.53895,46.60199],"type":"Point"}
+}

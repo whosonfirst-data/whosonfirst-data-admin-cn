@@ -1,0 +1,72 @@
+{
+  "id": 1209785315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.851,23.8799,109.851,23.8799",
+    "geom:latitude":23.8799,
+    "geom:longitude":109.851,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zhongnan",
+    "gn:country_code":"CN",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9933939,
+    "gn:latitude":23.8799,
+    "gn:longitude":109.851,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Zhongnan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e2d\u5357"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669717,
+        102191569,
+        85632695,
+        136253041,
+        1108732439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9933939
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"745b7ab52c17ef5fefeec3463c45f261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732439,
+            "empire_id":136253041,
+            "locality_id":1209785315,
+            "region_id":85669717
+        }
+    ],
+    "wof:id":1209785315,
+    "wof:lastmodified":1537607775,
+    "wof:name":"Zhongnan",
+    "wof:parent_id":1108732439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.851,
+    23.8799,
+    109.851,
+    23.8799
+],
+  "geometry": {"coordinates":[109.851,23.8799],"type":"Point"}
+}

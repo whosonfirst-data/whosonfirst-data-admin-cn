@@ -1,0 +1,64 @@
+{
+  "id": 1209663943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.21181,29.34234,106.21181,29.34234",
+    "geom:latitude":29.34234,
+    "geom:longitude":106.21181,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Tianxing",
+    "gn:country_code":"CN",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8421969,
+    "gn:latitude":29.34234,
+    "gn:longitude":106.21181,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Tianxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5929\u661f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8421969
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"acc07214ff7061572551fe3a6594c08d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209663943
+        }
+    ],
+    "wof:id":1209663943,
+    "wof:lastmodified":1537603643,
+    "wof:name":"Tianxing",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.21181,
+    29.34234,
+    106.21181,
+    29.34234
+],
+  "geometry": {"coordinates":[106.21181,29.34234],"type":"Point"}
+}

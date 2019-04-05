@@ -1,0 +1,64 @@
+{
+  "id": 1209585821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.859,37.2486,102.859,37.2486",
+    "geom:latitude":37.2486,
+    "geom:longitude":102.859,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zhigou",
+    "gn:country_code":"CN",
+    "gn:dem":2735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10648340,
+    "gn:latitude":37.2486,
+    "gn:longitude":102.859,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Zhigou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u76f4\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10648340
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9f751affda03bf4316adcbf0c1e61199",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209585821
+        }
+    ],
+    "wof:id":1209585821,
+    "wof:lastmodified":1537613987,
+    "wof:name":"Zhigou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.859,
+    37.2486,
+    102.859,
+    37.2486
+],
+  "geometry": {"coordinates":[102.85899999999999,37.2486],"type":"Point"}
+}

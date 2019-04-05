@@ -1,0 +1,76 @@
+{
+  "id": 1259744033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.187,24.8164,101.187,24.8164",
+    "geom:latitude":24.8164,
+    "geom:longitude":101.187,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Yaozhala",
+    "gn:country_code":"CN",
+    "gn:dem":2200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10009086,
+    "gn:latitude":24.8164,
+    "gn:longitude":101.187,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Yaozhala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mezhala",
+        "Yaozhala"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e48\u69a8\u62c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        1108732445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10009086
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ac312927109f07badc1147942baeffdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732445,
+            "empire_id":136253041,
+            "locality_id":1259744033,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1259744033,
+    "wof:lastmodified":1537608873,
+    "wof:name":"Yaozhala",
+    "wof:parent_id":1108732445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.187,
+    24.8164,
+    101.187,
+    24.8164
+],
+  "geometry": {"coordinates":[101.187,24.8164],"type":"Point"}
+}

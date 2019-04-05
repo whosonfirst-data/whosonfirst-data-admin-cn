@@ -1,0 +1,64 @@
+{
+  "id": 1209065937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.662,30.3506,105.662,30.3506",
+    "geom:latitude":30.3506,
+    "geom:longitude":105.662,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Tiangong",
+    "gn:country_code":"CN",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10161791,
+    "gn:latitude":30.3506,
+    "gn:longitude":105.662,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Tiangong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5929\u5bab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10161791
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f3ebd1895bcee021d7ad26b84142fe30",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209065937
+        }
+    ],
+    "wof:id":1209065937,
+    "wof:lastmodified":1537610816,
+    "wof:name":"Tiangong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.662,
+    30.3506,
+    105.662,
+    30.3506
+],
+  "geometry": {"coordinates":[105.66200000000001,30.3506],"type":"Point"}
+}

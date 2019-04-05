@@ -1,0 +1,88 @@
+{
+  "id": 102550565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.930277778,40.7386111111,114.930277778,40.7386111111",
+    "geom:latitude":40.738611,
+    "geom:longitude":114.930278,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u062a\u0634\u0627\u0646\u063a\u062c\u064a\u0627\u0643\u0648 \u0646\u064a\u0646\u063a\u064a\u0648\u0627\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0698\u0627\u0646\u06af\u062c\u06cc\u0627\u06a9\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Zhangjiakou"
+    ],
+    "name:swe_x_preferred":[
+        "Zhangjiakou Ningyuan Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0436\u043e\u043d\u0433\u04b7\u0438\u043e\u043a\u0443"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Ninh Vi\u1ec5n Tr\u01b0\u01a1ng Gia Kh\u1ea9u"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f20\u5bb6\u53e3\u5b81\u8fdc\u673a\u573a"
+    ],
+    "oa:elevation_ft":"2347",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":160,
+    "woe:hierarchy":{
+        "country_id":23424781,
+        "county_id":26198252,
+        "localadmin_id":20071150,
+        "planet_id":1,
+        "state_id":12578000
+    },
+    "wof:belongsto":[
+        85632695,
+        85669797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512292,
+        "iata:code":"ZQZ",
+        "icao:code":"ZBZJ",
+        "oa:id":"44100",
+        "wd:id":"Q8070469"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0051c75d91d814758a9314a79fd18408",
+    "wof:hierarchy":[
+        {
+            "campus_id":102550565,
+            "country_id":85632695,
+            "region_id":85669797
+        }
+    ],
+    "wof:id":102550565,
+    "wof:lastmodified":1543792156,
+    "wof:name":"Zhangjiakou Southeast Airport",
+    "wof:parent_id":85669797,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    114.93027777778,
+    40.738611111111,
+    114.93027777778,
+    40.738611111111
+],
+  "geometry": {"coordinates":[114.93027777778001,40.738611111111],"type":"Point"}
+}

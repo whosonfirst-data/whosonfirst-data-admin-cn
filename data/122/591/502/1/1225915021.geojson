@@ -1,0 +1,78 @@
+{
+  "id": 1225915021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.27531,30.29698,95.27531,30.29698",
+    "geom:latitude":30.29698,
+    "geom:longitude":95.27531,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zepu",
+    "gn:country_code":"CN",
+    "gn:dem":3325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8066921,
+    "gn:latitude":30.29698,
+    "gn:longitude":95.27531,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Zepu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Q\u00eapu"
+    ],
+    "name:zho_x_preferred":[
+        "Zepu"
+    ],
+    "name:zho_x_variant":[
+        "\u5219\u666e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066921
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ec74f47d510480c7b6f52ae685c7777d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515951,
+            "empire_id":136253041,
+            "locality_id":1225915021,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1225915021,
+    "wof:lastmodified":1537602523,
+    "wof:name":"Zepu",
+    "wof:parent_id":890515951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.27531,
+    30.29698,
+    95.27531,
+    30.29698
+],
+  "geometry": {"coordinates":[95.27531,30.29698],"type":"Point"}
+}

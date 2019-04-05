@@ -1,0 +1,78 @@
+{
+  "id": 1360309235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.25909,33.32031,119.25909,33.32031",
+    "geom:latitude":33.32031,
+    "geom:longitude":119.25909,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Huangpucun",
+    "gn:country_code":"CN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1807298,
+    "gn:latitude":33.32031,
+    "gn:longitude":119.25909,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Huangpucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huang-p\u2019u-chen",
+        "Huangpu",
+        "\u9ec4\u6d66",
+        "Huangpucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ec4\u6d66\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1807298
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0d3f61fcaa40e41ba19c65142a7c716c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516397,
+            "empire_id":136253041,
+            "locality_id":1360309235,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1360309235,
+    "wof:lastmodified":1537593431,
+    "wof:name":"Huangpucun",
+    "wof:parent_id":890516397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.25909,
+    33.32031,
+    119.25909,
+    33.32031
+],
+  "geometry": {"coordinates":[119.25909,33.32031],"type":"Point"}
+}

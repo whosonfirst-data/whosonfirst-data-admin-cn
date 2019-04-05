@@ -1,0 +1,64 @@
+{
+  "id": 1209400109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.70508,47.39545,131.70508,47.39545",
+    "geom:latitude":47.39545,
+    "geom:longitude":131.70508,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Yongshuncun",
+    "gn:country_code":"CN",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11566788,
+    "gn:latitude":47.39545,
+    "gn:longitude":131.70508,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Yongshuncun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6c38\u987a\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11566788
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"159db38d6ec778f2169350c674e6818a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209400109
+        }
+    ],
+    "wof:id":1209400109,
+    "wof:lastmodified":1537617710,
+    "wof:name":"Yongshuncun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.70508,
+    47.39545,
+    131.70508,
+    47.39545
+],
+  "geometry": {"coordinates":[131.70508000000001,47.39545],"type":"Point"}
+}

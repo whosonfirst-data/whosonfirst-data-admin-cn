@@ -1,0 +1,75 @@
+{
+  "id": 1210016705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.77247,32.19176,120.77247,32.19176",
+    "geom:latitude":32.19176,
+    "geom:longitude":120.77247,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hujiazhuang",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7528191,
+    "gn:latitude":32.19176,
+    "gn:longitude":120.77247,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Hujiazhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u80e1\u5bb6\u5e84"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u5bb6\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7528191
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1525db0c6fa3b9cc1be3dd5e4716cdc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515155,
+            "empire_id":136253041,
+            "locality_id":1210016705,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1210016705,
+    "wof:lastmodified":1537599954,
+    "wof:name":"Hujiazhuang",
+    "wof:parent_id":890515155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.77247,
+    32.19176,
+    120.77247,
+    32.19176
+],
+  "geometry": {"coordinates":[120.77247,32.19176],"type":"Point"}
+}

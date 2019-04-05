@@ -1,0 +1,75 @@
+{
+  "id": 1209991301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.42008,41.21621,124.42008,41.21621",
+    "geom:latitude":41.21621,
+    "geom:longitude":124.42008,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Dahujia Buzi",
+    "gn:country_code":"CN",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2054158,
+    "gn:latitude":41.21621,
+    "gn:longitude":124.42008,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Dahujia Buzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dahujia Puzi",
+        "\u5927\u80e1\u5bb6\u5821\u5b50",
+        "Dahujiabaozi",
+        "Dahujia Buzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890513783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2054158
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ef6726bbb9d82ff3ae4f8c7ff8a2b428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513783,
+            "empire_id":136253041,
+            "locality_id":1209991301,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1209991301,
+    "wof:lastmodified":1537595979,
+    "wof:name":"Dahujia Buzi",
+    "wof:parent_id":890513783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.42008,
+    41.21621,
+    124.42008,
+    41.21621
+],
+  "geometry": {"coordinates":[124.42008,41.21621],"type":"Point"}
+}

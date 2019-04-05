@@ -1,0 +1,64 @@
+{
+  "id": 1209328005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.04205,32.41749,117.04205,32.41749",
+    "geom:latitude":32.41749,
+    "geom:longitude":117.04205,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Miaozhoucun",
+    "gn:country_code":"CN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10413650,
+    "gn:latitude":32.41749,
+    "gn:longitude":117.04205,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Miaozhoucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5e99\u5468\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10413650
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8cc141817ee08983b10ac55366b2f873",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209328005
+        }
+    ],
+    "wof:id":1209328005,
+    "wof:lastmodified":1537613202,
+    "wof:name":"Miaozhoucun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.04205,
+    32.41749,
+    117.04205,
+    32.41749
+],
+  "geometry": {"coordinates":[117.04205,32.41749],"type":"Point"}
+}

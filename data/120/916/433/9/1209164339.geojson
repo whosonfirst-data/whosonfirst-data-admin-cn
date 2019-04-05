@@ -1,0 +1,64 @@
+{
+  "id": 1209164339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.7037,24.00725,113.7037,24.00725",
+    "geom:latitude":24.00725,
+    "geom:longitude":113.7037,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Shangdong",
+    "gn:country_code":"CN",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7008263,
+    "gn:latitude":24.00725,
+    "gn:longitude":113.7037,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Shangdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e0a\u6d1e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7008263
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c930e3d61229b10b76e681dcbee93193",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209164339
+        }
+    ],
+    "wof:id":1209164339,
+    "wof:lastmodified":1537597382,
+    "wof:name":"Shangdong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.7037,
+    24.00725,
+    113.7037,
+    24.00725
+],
+  "geometry": {"coordinates":[113.7037,24.00725],"type":"Point"}
+}

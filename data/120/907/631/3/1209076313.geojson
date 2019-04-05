@@ -1,0 +1,64 @@
+{
+  "id": 1209076313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.372,35.6341,107.372,35.6341",
+    "geom:latitude":35.6341,
+    "geom:longitude":107.372,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Beichuan",
+    "gn:country_code":"CN",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10738690,
+    "gn:latitude":35.6341,
+    "gn:longitude":107.372,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Beichuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5317\u5ddd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10738690
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bed73704f6ffa65675ef9cd388f970ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209076313
+        }
+    ],
+    "wof:id":1209076313,
+    "wof:lastmodified":1537614234,
+    "wof:name":"Beichuan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.372,
+    35.6341,
+    107.372,
+    35.6341
+],
+  "geometry": {"coordinates":[107.372,35.6341],"type":"Point"}
+}

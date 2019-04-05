@@ -1,0 +1,64 @@
+{
+  "id": 1209009581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.27893,33.43127,119.27893,33.43127",
+    "geom:latitude":33.43127,
+    "geom:longitude":119.27893,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Danlicun",
+    "gn:country_code":"CN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11576180,
+    "gn:latitude":33.43127,
+    "gn:longitude":119.27893,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Danlicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5355\u91cc\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11576180
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e262297c82569bb2cf7393ca4497ea79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209009581
+        }
+    ],
+    "wof:id":1209009581,
+    "wof:lastmodified":1537617943,
+    "wof:name":"Danlicun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.27893,
+    33.43127,
+    119.27893,
+    33.43127
+],
+  "geometry": {"coordinates":[119.27893,33.43127],"type":"Point"}
+}

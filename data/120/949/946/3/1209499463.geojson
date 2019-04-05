@@ -1,0 +1,66 @@
+{
+  "id": 1209499463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.81833,35.82333,113.81833,35.82333",
+    "geom:latitude":35.82333,
+    "geom:longitude":113.81833,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Chadian",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1815876,
+    "gn:latitude":35.82333,
+    "gn:longitude":113.81833,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chadian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019a-tien",
+        "Chadian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1815876
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e7b1ba9ab14927f19753c772aac5ebd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209499463
+        }
+    ],
+    "wof:id":1209499463,
+    "wof:lastmodified":1537593971,
+    "wof:name":"Chadian",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.81833,
+    35.82333,
+    113.81833,
+    35.82333
+],
+  "geometry": {"coordinates":[113.81833,35.82333],"type":"Point"}
+}

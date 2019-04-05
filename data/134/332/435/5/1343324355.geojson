@@ -1,0 +1,75 @@
+{
+  "id": 1343324355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.03555,41.25059,123.03555,41.25059",
+    "geom:latitude":41.25059,
+    "geom:longitude":123.03555,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Wangluotun",
+    "gn:country_code":"CN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7404737,
+    "gn:latitude":41.25059,
+    "gn:longitude":123.03555,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Wangluotun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u738b\u7f57\u5c6f"
+    ],
+    "name:zho_x_preferred":[
+        "\u738b\u7f57\u5c6f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7404737
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b167cc8922f5aa5fc6da0c3c79608c61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514643,
+            "empire_id":136253041,
+            "locality_id":1343324355,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1343324355,
+    "wof:lastmodified":1537598940,
+    "wof:name":"Wangluotun",
+    "wof:parent_id":890514643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.03555,
+    41.25059,
+    123.03555,
+    41.25059
+],
+  "geometry": {"coordinates":[123.03555,41.25059],"type":"Point"}
+}

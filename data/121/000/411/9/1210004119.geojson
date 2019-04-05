@@ -1,0 +1,69 @@
+{
+  "id": 1210004119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.85861,26.0175,111.85861,26.0175",
+    "geom:latitude":26.0175,
+    "geom:longitude":111.85861,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Laoyuanzi",
+    "gn:country_code":"CN",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1996190,
+    "gn:latitude":26.0175,
+    "gn:longitude":111.85861,
+    "gn:modification_date":"2005-07-26",
+    "gn:name":"Laoyuanzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890515001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1996190
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"593c4cde0ad48ff83f8f125f3e057c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515001,
+            "empire_id":136253041,
+            "locality_id":1210004119,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1210004119,
+    "wof:lastmodified":1536375541,
+    "wof:name":"Laoyuanzi",
+    "wof:parent_id":890515001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.85861,
+    26.0175,
+    111.85861,
+    26.0175
+],
+  "geometry": {"coordinates":[111.85861,26.0175],"type":"Point"}
+}

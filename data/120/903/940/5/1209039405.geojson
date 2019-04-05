@@ -1,0 +1,64 @@
+{
+  "id": 1209039405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.65491,34.36267,118.65491,34.36267",
+    "geom:latitude":34.36267,
+    "geom:longitude":118.65491,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Yangcun",
+    "gn:country_code":"CN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9816416,
+    "gn:latitude":34.36267,
+    "gn:longitude":118.65491,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Yangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6768\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9816416
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c19880d045f1c68442c21da6a0db51e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209039405
+        }
+    ],
+    "wof:id":1209039405,
+    "wof:lastmodified":1537606401,
+    "wof:name":"Yangcun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.65491000000002,
+    34.36267,
+    118.65491000000002,
+    34.36267
+],
+  "geometry": {"coordinates":[118.65491000000002,34.36267],"type":"Point"}
+}

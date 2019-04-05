@@ -1,0 +1,78 @@
+{
+  "id": 1310278627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.3,31.4,94.3,31.4",
+    "geom:latitude":31.4,
+    "geom:longitude":94.3,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kedeng",
+    "gn:country_code":"CN",
+    "gn:dem":4821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8042400,
+    "gn:latitude":31.4,
+    "gn:longitude":94.3,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kedeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "K\u00ead\u00eang"
+    ],
+    "name:zho_x_preferred":[
+        "Kedeng"
+    ],
+    "name:zho_x_variant":[
+        "\u5ba2\u767b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8042400
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e7e742fbff300f4d9fa9334ba927d979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1310278627,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1310278627,
+    "wof:lastmodified":1537602357,
+    "wof:name":"Kedeng",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.3,
+    31.4,
+    94.3,
+    31.4
+],
+  "geometry": {"coordinates":[94.3,31.4],"type":"Point"}
+}

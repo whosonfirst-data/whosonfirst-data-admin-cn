@@ -1,0 +1,64 @@
+{
+  "id": 1209201301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.95708,30.54337,113.95708,30.54337",
+    "geom:latitude":30.54337,
+    "geom:longitude":113.95708,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Chenjiazui",
+    "gn:country_code":"CN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8514749,
+    "gn:latitude":30.54337,
+    "gn:longitude":113.95708,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Chenjiazui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9648\u5bb6\u5480"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8514749
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e3e25c5e76de5be9420dcfd368f0e2f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209201301
+        }
+    ],
+    "wof:id":1209201301,
+    "wof:lastmodified":1537604103,
+    "wof:name":"Chenjiazui",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.95708,
+    30.54337,
+    113.95708,
+    30.54337
+],
+  "geometry": {"coordinates":[113.95708,30.54337],"type":"Point"}
+}

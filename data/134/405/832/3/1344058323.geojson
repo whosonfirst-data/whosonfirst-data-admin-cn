@@ -1,0 +1,74 @@
+{
+  "id": 1344058323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.65544,27.16387,116.65544,27.16387",
+    "geom:latitude":27.16387,
+    "geom:longitude":116.65544,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Taiyuan",
+    "gn:country_code":"CN",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7739109,
+    "gn:latitude":27.16387,
+    "gn:longitude":116.65544,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Taiyuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u592a\u6e90",
+        "Taiyuanxiang",
+        "\u592a\u6e90\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669823,
+        102191569,
+        85632695,
+        136253041,
+        890516617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7739109
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"948ee56ad87944fadd75167fa47e5917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516617,
+            "empire_id":136253041,
+            "locality_id":1344058323,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":1344058323,
+    "wof:lastmodified":1537601278,
+    "wof:name":"Taiyuan",
+    "wof:parent_id":890516617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.65543999999998,
+    27.16387000000001,
+    116.65543999999998,
+    27.16387000000001
+],
+  "geometry": {"coordinates":[116.65543999999998,27.16387000000001],"type":"Point"}
+}

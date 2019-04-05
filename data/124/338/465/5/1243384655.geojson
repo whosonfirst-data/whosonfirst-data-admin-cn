@@ -1,0 +1,77 @@
+{
+  "id": 1243384655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.50583,25.59194,117.50583,25.59194",
+    "geom:latitude":25.59194,
+    "geom:longitude":117.50583,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Xinqiao",
+    "gn:country_code":"CN",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1788681,
+    "gn:latitude":25.59194,
+    "gn:longitude":117.50583,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Xinqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-ch\u2019iao",
+        "Xinqiao",
+        "Xinqiao Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u6865"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1788681
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8a77a3289820342ae385a537fe17a2f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516203,
+            "empire_id":136253041,
+            "locality_id":1243384655,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1243384655,
+    "wof:lastmodified":1537592211,
+    "wof:name":"Xinqiao",
+    "wof:parent_id":890516203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.50583,
+    25.59194,
+    117.50583,
+    25.59194
+],
+  "geometry": {"coordinates":[117.50583,25.59194],"type":"Point"}
+}

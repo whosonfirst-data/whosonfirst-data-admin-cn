@@ -1,0 +1,78 @@
+{
+  "id": 1260057081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.7919,30.93093,114.7919,30.93093",
+    "geom:latitude":30.93093,
+    "geom:longitude":114.7919,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Sandian",
+    "gn:country_code":"CN",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1796936,
+    "gn:latitude":30.93093,
+    "gn:longitude":114.7919,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Sandian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San-tien-shih",
+        "San-tien-chieh",
+        "San-tien",
+        "Sandian",
+        "\u4e09\u5e97",
+        "Sandian Jiedao",
+        "\u4e09\u5e97\u8857\u9053"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        890516557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1796936
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d9d676534dff79ae0ff8ef675ed6048b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516557,
+            "empire_id":136253041,
+            "locality_id":1260057081,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1260057081,
+    "wof:lastmodified":1537592769,
+    "wof:name":"Sandian",
+    "wof:parent_id":890516557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.7919,
+    30.93093,
+    114.7919,
+    30.93093
+],
+  "geometry": {"coordinates":[114.7919,30.93093],"type":"Point"}
+}

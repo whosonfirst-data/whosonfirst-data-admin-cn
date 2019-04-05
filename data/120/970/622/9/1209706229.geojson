@@ -1,0 +1,80 @@
+{
+  "id": 1209706229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.31222,47.34277,130.31222,47.34277",
+    "geom:latitude":47.34277,
+    "geom:longitude":130.31222,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Dongshan",
+    "gn:country_code":"CN",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":8523224,
+    "gn:latitude":47.34277,
+    "gn:longitude":130.31222,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Dongshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dongshan Jiedao",
+        "Dongshan Qu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "\u4e1c\u5c71\u8857\u9053",
+        "\u4e1c\u5c71\u533a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890514875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8523224
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ec986d5751b1b45e2f5c80f279bcf08a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514875,
+            "empire_id":136253041,
+            "locality_id":1209706229,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1209706229,
+    "wof:lastmodified":1537604252,
+    "wof:name":"Dongshan",
+    "wof:parent_id":890514875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.31222,
+    47.34277,
+    130.31222,
+    47.34277
+],
+  "geometry": {"coordinates":[130.31222,47.34277],"type":"Point"}
+}

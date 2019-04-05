@@ -1,0 +1,64 @@
+{
+  "id": 1209580347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.65008,49.28269,124.65008,49.28269",
+    "geom:latitude":49.28269,
+    "geom:longitude":124.65008,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Laoshantou",
+    "gn:country_code":"CN",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8444574,
+    "gn:latitude":49.28269,
+    "gn:longitude":124.65008,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Laoshantou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8001\u5c71\u5934"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8444574
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a2dc64475279496048f9ab8045e902f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209580347
+        }
+    ],
+    "wof:id":1209580347,
+    "wof:lastmodified":1537603736,
+    "wof:name":"Laoshantou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.65008,
+    49.28269,
+    124.65008,
+    49.28269
+],
+  "geometry": {"coordinates":[124.65008,49.28269],"type":"Point"}
+}

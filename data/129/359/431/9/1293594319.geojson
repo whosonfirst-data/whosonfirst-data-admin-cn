@@ -1,0 +1,75 @@
+{
+  "id": 1293594319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.56444,32.17333,119.56444,32.17333",
+    "geom:latitude":32.17333,
+    "geom:longitude":119.56444,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chiang-tu Hsien",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1806440,
+    "gn:latitude":32.17333,
+    "gn:longitude":119.56444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chiang-tu Hsien",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chien-pi",
+        "Chien-pi-chen",
+        "Chiang-tu Hsien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        1108732521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1806440
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"930a2c640d712e1ed95e3a56a3cee769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732521,
+            "empire_id":136253041,
+            "locality_id":1293594319,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1293594319,
+    "wof:lastmodified":1537593379,
+    "wof:name":"Chiang-tu Hsien",
+    "wof:parent_id":1108732521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.56444,
+    32.17333,
+    119.56444,
+    32.17333
+],
+  "geometry": {"coordinates":[119.56444,32.17333],"type":"Point"}
+}

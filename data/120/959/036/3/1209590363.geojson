@@ -1,0 +1,64 @@
+{
+  "id": 1209590363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.64726,40.49533,123.64726,40.49533",
+    "geom:latitude":40.49533,
+    "geom:longitude":123.64726,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shipeng",
+    "gn:country_code":"CN",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7920127,
+    "gn:latitude":40.49533,
+    "gn:longitude":123.64726,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shipeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u77f3\u68da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7920127
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9b3afb8f6f199e90d2c7b9714d5fff09",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209590363
+        }
+    ],
+    "wof:id":1209590363,
+    "wof:lastmodified":1537601960,
+    "wof:name":"Shipeng",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.64726,
+    40.49533,
+    123.64726,
+    40.49533
+],
+  "geometry": {"coordinates":[123.64726,40.49533],"type":"Point"}
+}

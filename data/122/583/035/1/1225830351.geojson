@@ -1,0 +1,78 @@
+{
+  "id": 1225830351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.64607,47.72429,130.64607,47.72429",
+    "geom:latitude":47.72429,
+    "geom:longitude":130.64607,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Huanshan",
+    "gn:country_code":"CN",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8523285,
+    "gn:latitude":47.72429,
+    "gn:longitude":130.64607,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Huanshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huanshan Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u73af\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "\u73af\u5c71\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890514875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8523285
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"378a3d66717ded187ed77e39bc8c4bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514875,
+            "empire_id":136253041,
+            "locality_id":1225830351,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1225830351,
+    "wof:lastmodified":1537604254,
+    "wof:name":"Huanshan",
+    "wof:parent_id":890514875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.64607,
+    47.72429,
+    130.64607,
+    47.72429
+],
+  "geometry": {"coordinates":[130.64607000000001,47.72429],"type":"Point"}
+}

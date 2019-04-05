@@ -1,0 +1,77 @@
+{
+  "id": 1243361755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.94292,41.83085,126.94292,41.83085",
+    "geom:latitude":41.83085,
+    "geom:longitude":126.94292,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sangonglicun",
+    "gn:country_code":"CN",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2052428,
+    "gn:latitude":41.83085,
+    "gn:longitude":126.94292,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Sangonglicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sangongli",
+        "\u4e09\u516c\u91cc",
+        "Sangonglicun"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u516c\u91cc\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669843,
+        102191569,
+        85632695,
+        136253041,
+        890516621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2052428
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7d1d58039803309c0990039a208ebc3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516621,
+            "empire_id":136253041,
+            "locality_id":1243361755,
+            "region_id":85669843
+        }
+    ],
+    "wof:id":1243361755,
+    "wof:lastmodified":1537595946,
+    "wof:name":"Sangonglicun",
+    "wof:parent_id":890516621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.94292,
+    41.83085,
+    126.94292,
+    41.83085
+],
+  "geometry": {"coordinates":[126.94292,41.83085],"type":"Point"}
+}

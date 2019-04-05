@@ -1,0 +1,80 @@
+{
+  "id": 1260152921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.66678,23.97282,109.66678,23.97282",
+    "geom:latitude":23.97282,
+    "geom:longitude":109.66678,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Xiangzhou",
+    "gn:country_code":"CN",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1790435,
+    "gn:latitude":23.97282,
+    "gn:longitude":109.66678,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Xiangzhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsiang-chou",
+        "Tseung-hsien",
+        "Hsiang-hsien",
+        "Hsiang",
+        "Hsiang-chou-chen",
+        "Xiangzhou"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c61\u5dde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669717,
+        102191569,
+        85632695,
+        136253041,
+        1108732439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1790435
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0cda131733f32632664546fd80ef2239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732439,
+            "empire_id":136253041,
+            "locality_id":1260152921,
+            "region_id":85669717
+        }
+    ],
+    "wof:id":1260152921,
+    "wof:lastmodified":1537592337,
+    "wof:name":"Xiangzhou",
+    "wof:parent_id":1108732439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.66678,
+    23.97282,
+    109.66678,
+    23.97282
+],
+  "geometry": {"coordinates":[109.66678,23.97282],"type":"Point"}
+}

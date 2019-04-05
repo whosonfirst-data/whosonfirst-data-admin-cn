@@ -1,0 +1,77 @@
+{
+  "id": 1243228481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.70556,42.2925,115.70556,42.2925",
+    "geom:latitude":42.2925,
+    "geom:longitude":115.70556,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Habiragan",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":1376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2037100,
+    "gn:latitude":42.2925,
+    "gn:longitude":115.70556,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Habiragan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nan-wai-tzu",
+        "Habirag",
+        "Habiragan Xiang",
+        "Ha-pa-ka",
+        "Habiragan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669847,
+        102191569,
+        85632695,
+        136253041,
+        1108732519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2037100
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"04bc63ddbc067f7149c5a011b6303c49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732519,
+            "empire_id":136253041,
+            "locality_id":1243228481,
+            "region_id":85669847
+        }
+    ],
+    "wof:id":1243228481,
+    "wof:lastmodified":1537595809,
+    "wof:name":"Habiragan",
+    "wof:parent_id":1108732519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.70556,
+    42.2925,
+    115.70556,
+    42.2925
+],
+  "geometry": {"coordinates":[115.70556000000001,42.2925],"type":"Point"}
+}

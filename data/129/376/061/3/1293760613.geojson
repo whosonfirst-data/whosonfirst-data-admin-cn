@@ -1,0 +1,75 @@
+{
+  "id": 1293760613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.37474,30.00795,110.37474,30.00795",
+    "geom:latitude":30.00795,
+    "geom:longitude":110.37474,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zhongjiatai",
+    "gn:country_code":"CN",
+    "gn:dem":1140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8015762,
+    "gn:latitude":30.00795,
+    "gn:longitude":110.37474,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhongjiatai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Zhongjiatai"
+    ],
+    "name:zho_x_variant":[
+        "\u949f\u5bb6\u53f0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        890513331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8015762
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"91c311c51b72a9db7c3a37c54d931d6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513331,
+            "empire_id":136253041,
+            "locality_id":1293760613,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1293760613,
+    "wof:lastmodified":1537602114,
+    "wof:name":"Zhongjiatai",
+    "wof:parent_id":890513331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.37474,
+    30.00795,
+    110.37474,
+    30.00795
+],
+  "geometry": {"coordinates":[110.37474,30.00795],"type":"Point"}
+}

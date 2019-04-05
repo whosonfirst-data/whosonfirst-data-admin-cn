@@ -1,0 +1,64 @@
+{
+  "id": 1209119621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.12689,33.17468,116.12689,33.17468",
+    "geom:latitude":33.17468,
+    "geom:longitude":116.12689,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Guozhaicun",
+    "gn:country_code":"CN",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11440395,
+    "gn:latitude":33.17468,
+    "gn:longitude":116.12689,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Guozhaicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u90ed\u5be8\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11440395
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3361c429b8ba6eb41d6c4ee8acdabdad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209119621
+        }
+    ],
+    "wof:id":1209119621,
+    "wof:lastmodified":1537616464,
+    "wof:name":"Guozhaicun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.12689,
+    33.17468,
+    116.12689,
+    33.17468
+],
+  "geometry": {"coordinates":[116.12689,33.17468],"type":"Point"}
+}

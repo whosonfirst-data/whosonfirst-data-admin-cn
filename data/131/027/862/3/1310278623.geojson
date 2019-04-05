@@ -1,0 +1,78 @@
+{
+  "id": 1310278623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.0299,28.3744,97.0299,28.3744",
+    "geom:latitude":28.3744,
+    "geom:longitude":97.0299,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sanggo",
+    "gn:country_code":"CN",
+    "gn:dem":1463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8056149,
+    "gn:latitude":28.3744,
+    "gn:longitude":97.0299,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Sanggo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Sanggo"
+    ],
+    "name:zho_x_preferred":[
+        "Songgu"
+    ],
+    "name:zho_x_variant":[
+        "\u677e\u53e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8056149
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"da71de47080c9d296fb5c24449cc2b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515951,
+            "empire_id":136253041,
+            "locality_id":1310278623,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1310278623,
+    "wof:lastmodified":1537602486,
+    "wof:name":"Sanggo",
+    "wof:parent_id":890515951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.0299,
+    28.3744,
+    97.0299,
+    28.3744
+],
+  "geometry": {"coordinates":[97.0299,28.3744],"type":"Point"}
+}

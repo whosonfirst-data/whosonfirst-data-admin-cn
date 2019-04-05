@@ -1,0 +1,85 @@
+{
+  "id": 890516667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.96667,39.48333,75.96667,39.48333",
+    "geom:latitude":39.48333,
+    "geom:longitude":75.96667,
+    "gn:country":"CN",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "gp:adm0":23424781,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uig_x_preferred":[
+        "Kaxgar Shi"
+    ],
+    "name:uig_x_variant":[
+        "Kaxgar",
+        "Kashgar Shi"
+    ],
+    "name:unk_x_variant":[
+        "K\u2019o-shih Shih"
+    ],
+    "qs:name":"\u5580\u4ec0\u5e02",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a",
+    "qs:photos":1207,
+    "qs:photos_1k":245,
+    "qs:photos_9k":28,
+    "qs:photos_9r":14,
+    "qs:photos_all":6207,
+    "qs:photos_sr":11,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669753,
+        102191569,
+        85632695,
+        136253041,
+        1108732391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1280847,
+        "gp:id":12686363,
+        "qs:id":44189
+    },
+    "wof:country":"CN",
+    "wof:created":1469055967,
+    "wof:geomhash":"3f34b4aa8398376c0128d2b0bda72343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732391,
+            "empire_id":136253041,
+            "localadmin_id":890516667,
+            "region_id":85669753
+        }
+    ],
+    "wof:id":890516667,
+    "wof:lastmodified":1505343902,
+    "wof:name":"\u5580\u4ec0\u5e02",
+    "wof:parent_id":1108732391,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.96667,
+    39.48333,
+    75.96667,
+    39.48333
+],
+  "geometry": {"coordinates":[75.96666999999999,39.48333],"type":"Point"}
+}

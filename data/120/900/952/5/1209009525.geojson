@@ -1,0 +1,64 @@
+{
+  "id": 1209009525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.228,33.6874,118.228,33.6874",
+    "geom:latitude":33.6874,
+    "geom:longitude":118.228,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dakou",
+    "gn:country_code":"CN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11094028,
+    "gn:latitude":33.6874,
+    "gn:longitude":118.228,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Dakou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u53e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11094028
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"64eb2d28f8d66842bbbd7e890f89c162",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209009525
+        }
+    ],
+    "wof:id":1209009525,
+    "wof:lastmodified":1537615375,
+    "wof:name":"Dakou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.228,
+    33.6874,
+    118.228,
+    33.6874
+],
+  "geometry": {"coordinates":[118.22799999999999,33.6874],"type":"Point"}
+}

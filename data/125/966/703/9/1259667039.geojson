@@ -1,0 +1,80 @@
+{
+  "id": 1259667039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.801,28.301,92.801,28.301",
+    "geom:latitude":28.301,
+    "geom:longitude":92.801,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gamlung",
+    "gn:country_code":"CN",
+    "gn:dem":3507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930315,
+    "gn:latitude":28.301,
+    "gn:longitude":92.801,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gamlung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Gamlung"
+    ],
+    "name:zho_x_preferred":[
+        "Ganglong"
+    ],
+    "name:zho_x_variant":[
+        "\u5c97\u9f99",
+        "Gongrong Gongshe",
+        "\u5171\u8363\u516c\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108794057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930315
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ae2b495b6ef06faf30885e52206f0ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794057,
+            "empire_id":136253041,
+            "locality_id":1259667039,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1259667039,
+    "wof:lastmodified":1537602088,
+    "wof:name":"Gamlung",
+    "wof:parent_id":1108794057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.801,
+    28.301,
+    92.801,
+    28.301
+],
+  "geometry": {"coordinates":[92.801,28.301],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209181641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.51,36.1503,117.51,36.1503",
+    "geom:latitude":36.1503,
+    "geom:longitude":117.51,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Shengjing",
+    "gn:country_code":"CN",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9125437,
+    "gn:latitude":36.1503,
+    "gn:longitude":117.51,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Shengjing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5723\u4e95"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9125437
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b0e47381ae901e2cec2fbf39315a6cd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209181641
+        }
+    ],
+    "wof:id":1209181641,
+    "wof:lastmodified":1537605499,
+    "wof:name":"Shengjing",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.51,
+    36.1503,
+    117.51,
+    36.1503
+],
+  "geometry": {"coordinates":[117.51000000000001,36.1503],"type":"Point"}
+}

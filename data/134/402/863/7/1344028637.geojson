@@ -1,0 +1,78 @@
+{
+  "id": 1344028637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.5,28.4,92.5,28.4",
+    "geom:latitude":28.4,
+    "geom:longitude":92.5,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mingelin",
+    "gn:country_code":"CN",
+    "gn:dem":3882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8045794,
+    "gn:latitude":28.4,
+    "gn:longitude":92.5,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mingelin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Min\u2019gyiling"
+    ],
+    "name:zho_x_preferred":[
+        "Mingelin"
+    ],
+    "name:zho_x_variant":[
+        "\u654f\u683c\u6797"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108794057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8045794
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5bf664bd55bb9a4f33949368952f7e68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794057,
+            "empire_id":136253041,
+            "locality_id":1344028637,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1344028637,
+    "wof:lastmodified":1537602396,
+    "wof:name":"Mingelin",
+    "wof:parent_id":1108794057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.5,
+    28.4,
+    92.5,
+    28.4
+],
+  "geometry": {"coordinates":[92.5,28.4],"type":"Point"}
+}

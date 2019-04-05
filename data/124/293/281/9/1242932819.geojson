@@ -1,0 +1,77 @@
+{
+  "id": 1242932819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.33799,28.07417,103.33799,28.07417",
+    "geom:latitude":28.07417,
+    "geom:longitude":103.33799,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Mohong",
+    "gn:country_code":"CN",
+    "gn:dem":2126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1800400,
+    "gn:latitude":28.07417,
+    "gn:longitude":103.33799,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mohong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mohongjiagu",
+        "Mo-hung",
+        "Mohong"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u7ea2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        1108794061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1800400
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c142f56aaf1bef0c37b17f0dc4b7fe06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794061,
+            "empire_id":136253041,
+            "locality_id":1242932819,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1242932819,
+    "wof:lastmodified":1537592984,
+    "wof:name":"Mohong",
+    "wof:parent_id":1108794061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.33799,
+    28.07417,
+    103.33799,
+    28.07417
+],
+  "geometry": {"coordinates":[103.33799,28.07417],"type":"Point"}
+}

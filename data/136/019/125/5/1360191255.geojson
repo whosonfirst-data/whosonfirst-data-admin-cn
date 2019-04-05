@@ -1,0 +1,78 @@
+{
+  "id": 1360191255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.59022,25.04208,115.59022,25.04208",
+    "geom:latitude":25.04208,
+    "geom:longitude":115.59022,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sanbiao",
+    "gn:country_code":"CN",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1796991,
+    "gn:latitude":25.04208,
+    "gn:longitude":115.59022,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sanbiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San-piao",
+        "Sanbiao",
+        "Sanbiao Xiang",
+        "\u4e09\u6807\u4e61"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u6807"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669823,
+        102191569,
+        85632695,
+        136253041,
+        890511835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1796991
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"82a745f456e68f8c596e3db12670e2e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890511835,
+            "empire_id":136253041,
+            "locality_id":1360191255,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":1360191255,
+    "wof:lastmodified":1537592773,
+    "wof:name":"Sanbiao",
+    "wof:parent_id":890511835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.59022,
+    25.04208,
+    115.59022,
+    25.04208
+],
+  "geometry": {"coordinates":[115.59022,25.04208],"type":"Point"}
+}

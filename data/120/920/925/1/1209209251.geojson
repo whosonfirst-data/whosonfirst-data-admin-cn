@@ -1,0 +1,64 @@
+{
+  "id": 1209209251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.2727,35.24004,112.2727,35.24004",
+    "geom:latitude":35.24004,
+    "geom:longitude":112.2727,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Yangpa",
+    "gn:country_code":"CN",
+    "gn:dem":1161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10362931,
+    "gn:latitude":35.24004,
+    "gn:longitude":112.2727,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Yangpa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7f8a\u722c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10362931
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"cb716e19fe0e4c50e221ddb7f623b162",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209209251
+        }
+    ],
+    "wof:id":1209209251,
+    "wof:lastmodified":1537612627,
+    "wof:name":"Yangpa",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.2727,
+    35.24004,
+    112.2727,
+    35.24004
+],
+  "geometry": {"coordinates":[112.2727,35.24004],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209949175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.01667,34.08333,119.01667,34.08333",
+    "geom:latitude":34.08333,
+    "geom:longitude":119.01667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Machang",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1801590,
+    "gn:latitude":34.08333,
+    "gn:longitude":119.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Machang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma-ch\u2019ang-chen",
+        "Machang",
+        "\u9a6c\u5382",
+        "Machang Zhen",
+        "\u9a6c\u5382\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890512205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1801590
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c42c5c6033c614bca94972d20eb3c832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512205,
+            "empire_id":136253041,
+            "locality_id":1209949175,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1209949175,
+    "wof:lastmodified":1537593060,
+    "wof:name":"Machang",
+    "wof:parent_id":890512205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.01667,
+    34.08333,
+    119.01667,
+    34.08333
+],
+  "geometry": {"coordinates":[119.01667,34.08333],"type":"Point"}
+}

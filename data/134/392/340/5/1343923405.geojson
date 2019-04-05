@@ -1,0 +1,75 @@
+{
+  "id": 1343923405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6286,41.94522,123.6286,41.94522",
+    "geom:latitude":41.94522,
+    "geom:longitude":123.6286,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Lianhuachi",
+    "gn:country_code":"CN",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7398208,
+    "gn:latitude":41.94522,
+    "gn:longitude":123.6286,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Lianhuachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u83b2\u82b1\u6c60"
+    ],
+    "name:zho_x_preferred":[
+        "\u83b2\u82b1\u6c60"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7398208
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"74da9490df27c7df864c1b6157a89322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732451,
+            "empire_id":136253041,
+            "locality_id":1343923405,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1343923405,
+    "wof:lastmodified":1537598556,
+    "wof:name":"Lianhuachi",
+    "wof:parent_id":1108732451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6286,
+    41.94522,
+    123.6286,
+    41.94522
+],
+  "geometry": {"coordinates":[123.62860000000001,41.94522],"type":"Point"}
+}

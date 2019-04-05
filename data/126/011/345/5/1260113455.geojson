@@ -1,0 +1,67 @@
+{
+  "id": 1260113455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.45,19.6,110.45,19.6",
+    "geom:latitude":19.6,
+    "geom:longitude":110.45,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Changchang",
+    "gn:country_code":"CN",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1815782,
+    "gn:latitude":19.6,
+    "gn:longitude":110.45,
+    "gn:modification_date":"1994-02-05",
+    "gn:name":"Changchang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632695,
+        85669759,
+        1108732459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1815782
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"aeedf356feecd3eda19a24355f601a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732459,
+            "locality_id":1260113455,
+            "region_id":85669759
+        }
+    ],
+    "wof:id":1260113455,
+    "wof:lastmodified":1536945373,
+    "wof:name":"Changchang",
+    "wof:parent_id":1108732459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.45,
+    19.6,
+    110.45,
+    19.6
+],
+  "geometry": {"coordinates":[110.45,19.6],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209783725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.53986,39.97504,113.53986,39.97504",
+    "geom:latitude":39.97504,
+    "geom:longitude":113.53986,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Chenzhuang",
+    "gn:country_code":"CN",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1815050,
+    "gn:latitude":39.97504,
+    "gn:longitude":113.53986,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Chenzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019en-chia-chuang",
+        "Ch\u2019en-chuang",
+        "Chenzhuang",
+        "\u9648\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        890516415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1815050
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"903926f6f83a4f04fd3b8c6b53a955b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516415,
+            "empire_id":136253041,
+            "locality_id":1209783725,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1209783725,
+    "wof:lastmodified":1537593919,
+    "wof:name":"Chenzhuang",
+    "wof:parent_id":890516415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.53986,
+    39.97504,
+    113.53986,
+    39.97504
+],
+  "geometry": {"coordinates":[113.53986,39.97504],"type":"Point"}
+}

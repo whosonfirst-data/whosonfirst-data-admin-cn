@@ -1,0 +1,81 @@
+{
+  "id": 890515943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.13104,25.68548,100.13104,25.68548",
+    "geom:latitude":25.68548,
+    "geom:longitude":100.13104,
+    "gn:country":"CN",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424781,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "Dali Baizu Zizhizhou"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u7406\u767d\u65cf\u81ea\u6cbb\u5dde"
+    ],
+    "name:zho_x_variant":[
+        "\u5927\u7406"
+    ],
+    "qs:name":"\u5927\u7406\u767d\u65cf\u81ea\u6cbb\u5dde",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u4e91\u5357\u7701",
+    "qs:photos":3687,
+    "qs:photos_1k":747,
+    "qs:photos_9k":64,
+    "qs:photos_9r":18,
+    "qs:photos_all":14545,
+    "qs:photos_sr":21,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632695,
+        85669791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1814065,
+        "gp:id":26198192,
+        "qs:id":355081
+    },
+    "wof:country":"CN",
+    "wof:created":1469055936,
+    "wof:geomhash":"2ca06005dadf3bee5864ab18e15d4706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515943,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":890515943,
+    "wof:lastmodified":1505343900,
+    "wof:name":"\u5927\u7406\u767d\u65cf\u81ea\u6cbb\u5dde",
+    "wof:parent_id":85669791,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.13104,
+    25.68548,
+    100.13104,
+    25.68548
+],
+  "geometry": {"coordinates":[100.13104,25.68548],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1326663245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.24305,18.31544,109.24305,18.31544",
+    "geom:latitude":18.31544,
+    "geom:longitude":109.24305,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Bujiazhai",
+    "gn:country_code":"CN",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7632691,
+    "gn:latitude":18.31544,
+    "gn:longitude":109.24305,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bujiazhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jiazhai",
+        "Bujiazhai",
+        "\u5e03\u52a0\u5be8"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u5be8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632695,
+        85669759,
+        1108732333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7632691
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f07cffd2f050f00cb1d72ff8dc9126c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732333,
+            "locality_id":1326663245,
+            "region_id":85669759
+        }
+    ],
+    "wof:id":1326663245,
+    "wof:lastmodified":1537600296,
+    "wof:name":"Bujiazhai",
+    "wof:parent_id":1108732333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.24305,
+    18.31544,
+    109.24305,
+    18.31544
+],
+  "geometry": {"coordinates":[109.24305,18.31544],"type":"Point"}
+}

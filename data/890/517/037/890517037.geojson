@@ -1,0 +1,84 @@
+{
+  "id": 890517037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.42437,24.61956,118.42437,24.61956",
+    "geom:latitude":24.61956,
+    "geom:longitude":118.42437,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":4000,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u77f3\u4e95\u9547"
+    ],
+    "name:eng_x_preferred":[
+        "Shijing"
+    ],
+    "name:swe_x_preferred":[
+        "Shijing"
+    ],
+    "name:unk_x_variant":[
+        "Shihtsing"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u4e95"
+    ],
+    "qs:name":"Shijing",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890514127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1795261,
+        "gp:id":2140255,
+        "qs:id":88933,
+        "wd:id":"Q7496517"
+    },
+    "wof:country":"CN",
+    "wof:created":1469055991,
+    "wof:geomhash":"26b0a575dcf8a76da721e40d6743f9c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514127,
+            "empire_id":136253041,
+            "locality_id":890517037,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":890517037,
+    "wof:lastmodified":1553816434,
+    "wof:name":"Shijing",
+    "wof:parent_id":890514127,
+    "wof:placetype":"locality",
+    "wof:population":4000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.42437,
+    24.61956,
+    118.42437,
+    24.61956
+],
+  "geometry": {"coordinates":[118.42437,24.61956],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226819873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.701,29.801,93.701,29.801",
+    "geom:latitude":29.801,
+    "geom:longitude":93.701,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Namsai",
+    "gn:country_code":"CN",
+    "gn:dem":3479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8046410,
+    "gn:latitude":29.801,
+    "gn:longitude":93.701,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Namsai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Namsai"
+    ],
+    "name:zho_x_preferred":[
+        "Namusai"
+    ],
+    "name:zho_x_variant":[
+        "\u7eb3\u6728\u8d5b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8046410
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0426efca9cdde3ec6f4f9a5a99e633c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515951,
+            "empire_id":136253041,
+            "locality_id":1226819873,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226819873,
+    "wof:lastmodified":1537602406,
+    "wof:name":"Namsai",
+    "wof:parent_id":890515951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.701,
+    29.801,
+    93.701,
+    29.801
+],
+  "geometry": {"coordinates":[93.70099999999999,29.801],"type":"Point"}
+}

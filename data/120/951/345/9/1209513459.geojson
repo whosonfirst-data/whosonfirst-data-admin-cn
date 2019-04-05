@@ -1,0 +1,64 @@
+{
+  "id": 1209513459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.75471,45.98219,123.75471,45.98219",
+    "geom:latitude":45.98219,
+    "geom:longitude":123.75471,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hangnaicun",
+    "gn:country_code":"CN",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10873559,
+    "gn:latitude":45.98219,
+    "gn:longitude":123.75471,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Hangnaicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u676d\u4e43\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10873559
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3793642076650b929583353b3cdd20c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209513459
+        }
+    ],
+    "wof:id":1209513459,
+    "wof:lastmodified":1537614580,
+    "wof:name":"Hangnaicun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.75471,
+    45.98219,
+    123.75471,
+    45.98219
+],
+  "geometry": {"coordinates":[123.75471,45.98219],"type":"Point"}
+}

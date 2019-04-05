@@ -1,0 +1,77 @@
+{
+  "id": 1293047693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.74362,28.56146,99.74362,28.56146",
+    "geom:latitude":28.56146,
+    "geom:longitude":99.74362,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Dongwang",
+    "gn:country_code":"CN",
+    "gn:dem":3240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":6643960,
+    "gn:latitude":28.56146,
+    "gn:longitude":99.74362,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dongwang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dongwang Xiang",
+        "\u4e1c\u65fa\u4e61",
+        "Dongwang"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u65fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        1108732505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6643960
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c216d17bd04d816f1d6a14dfb4782fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732505,
+            "empire_id":136253041,
+            "locality_id":1293047693,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1293047693,
+    "wof:lastmodified":1537596078,
+    "wof:name":"Dongwang",
+    "wof:parent_id":1108732505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.74362,
+    28.56146,
+    99.74362,
+    28.56146
+],
+  "geometry": {"coordinates":[99.74362000000001,28.56146],"type":"Point"}
+}

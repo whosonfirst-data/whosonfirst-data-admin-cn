@@ -1,0 +1,78 @@
+{
+  "id": 1293101525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.96667,28.93333,119.96667,28.93333",
+    "geom:latitude":28.93333,
+    "geom:longitude":119.96667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nizhai",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1799204,
+    "gn:latitude":28.93333,
+    "gn:longitude":119.96667,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Nizhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ni-chai",
+        "Nizhai",
+        "Huajie"
+    ],
+    "name:zho_x_preferred":[
+        "\u502a\u5b85"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890513337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1799204
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ec2b392d6583f3f4f9f9985e705c10e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513337,
+            "empire_id":136253041,
+            "locality_id":1293101525,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1293101525,
+    "wof:lastmodified":1537592919,
+    "wof:name":"Nizhai",
+    "wof:parent_id":890513337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.96667,
+    28.93333,
+    119.96667,
+    28.93333
+],
+  "geometry": {"coordinates":[119.96666999999999,28.93333],"type":"Point"}
+}

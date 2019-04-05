@@ -1,0 +1,79 @@
+{
+  "id": 1242956177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.3732,31.4774,79.3732,31.4774",
+    "geom:latitude":31.4774,
+    "geom:longitude":79.3732,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Remu",
+    "gn:country_code":"CN",
+    "gn:dem":4392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8756275,
+    "gn:latitude":31.4774,
+    "gn:longitude":79.3732,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Remu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rangmu",
+        "Remu"
+    ],
+    "name:zho_x_preferred":[
+        "\u8ba9\u6728"
+    ],
+    "name:zho_x_variant":[
+        "\u70ed\u6728"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8756275
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1d8d0309bbe89486f84453b5fcefbac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732537,
+            "empire_id":136253041,
+            "locality_id":1242956177,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1242956177,
+    "wof:lastmodified":1537604963,
+    "wof:name":"Remu",
+    "wof:parent_id":1108732537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.3732,
+    31.4774,
+    79.3732,
+    31.4774
+],
+  "geometry": {"coordinates":[79.3732,31.4774],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209090481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.52651,34.71389,112.52651,34.71389",
+    "geom:latitude":34.71389,
+    "geom:longitude":112.52651,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Maoguo",
+    "gn:country_code":"CN",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10361915,
+    "gn:latitude":34.71389,
+    "gn:longitude":112.52651,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Maoguo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5e3d\u90ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10361915
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"905d993686b038cdd6819d7bb0c9c915",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209090481
+        }
+    ],
+    "wof:id":1209090481,
+    "wof:lastmodified":1537612589,
+    "wof:name":"Maoguo",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.52651000000002,
+    34.71389,
+    112.52651000000002,
+    34.71389
+],
+  "geometry": {"coordinates":[112.52651000000002,34.71389],"type":"Point"}
+}

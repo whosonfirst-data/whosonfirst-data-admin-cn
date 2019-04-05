@@ -1,0 +1,81 @@
+{
+  "id": 1243147031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.96524,40.58565,122.96524,40.58565",
+    "geom:latitude":40.58565,
+    "geom:longitude":122.96524,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Gushan",
+    "gn:country_code":"CN",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2037117,
+    "gn:latitude":40.58565,
+    "gn:longitude":122.96524,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gushan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ku-shan",
+        "Gushanzimanzu",
+        "Gushan Zhen",
+        "Gushan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b64\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "\u5b64\u5c71\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2037117
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"301cbe1ad400ad0ce1ff585c5fe27530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514231,
+            "empire_id":136253041,
+            "locality_id":1243147031,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1243147031,
+    "wof:lastmodified":1537595810,
+    "wof:name":"Gushan",
+    "wof:parent_id":890514231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.96524,
+    40.58565,
+    122.96524,
+    40.58565
+],
+  "geometry": {"coordinates":[122.96523999999999,40.58565],"type":"Point"}
+}

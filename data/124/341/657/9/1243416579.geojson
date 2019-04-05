@@ -1,0 +1,72 @@
+{
+  "id": 1243416579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2081,40.39037,123.2081,40.39037",
+    "geom:latitude":40.39037,
+    "geom:longitude":123.2081,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Gangou",
+    "gn:country_code":"CN",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537346,
+    "gn:latitude":40.39037,
+    "gn:longitude":123.2081,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Gangou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5e72\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537346
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3a650b831e7746970e71ceb373048923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514231,
+            "empire_id":136253041,
+            "locality_id":1243416579,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1243416579,
+    "wof:lastmodified":1537604355,
+    "wof:name":"Gangou",
+    "wof:parent_id":890514231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2081,
+    40.39037,
+    123.2081,
+    40.39037
+],
+  "geometry": {"coordinates":[123.2081,40.39037],"type":"Point"}
+}

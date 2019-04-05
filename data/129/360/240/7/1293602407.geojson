@@ -1,0 +1,87 @@
+{
+  "id": 1293602407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.33792,29.82365,118.33792,29.82365",
+    "geom:latitude":29.82365,
+    "geom:longitude":118.33792,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yansi",
+    "gn:country_code":"CN",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1787094,
+    "gn:latitude":29.82365,
+    "gn:longitude":118.33792,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Yansi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An-ssu",
+        "Yen-ssu",
+        "Yen-ssu-chieh",
+        "Yensze",
+        "Huizhou Qu",
+        "Yansi Zhen",
+        "Huizhou",
+        "Yansi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5ca9\u5bfa"
+    ],
+    "name:zho_x_variant":[
+        "\u5ca9\u5bfa\u9547",
+        "\u5fbd\u5dde\u533a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        1108732553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1787094,
+        "wk:page":"Huizhou_District"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2cdc05fd193462fb907b440aff1e96f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732553,
+            "empire_id":136253041,
+            "locality_id":1293602407,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1293602407,
+    "wof:lastmodified":1537592104,
+    "wof:name":"Yansi",
+    "wof:parent_id":1108732553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.33792,
+    29.82365,
+    118.33792,
+    29.82365
+],
+  "geometry": {"coordinates":[118.33792,29.82365],"type":"Point"}
+}

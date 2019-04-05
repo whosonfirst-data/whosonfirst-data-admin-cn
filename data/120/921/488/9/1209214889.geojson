@@ -1,0 +1,64 @@
+{
+  "id": 1209214889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.77427,32.09125,120.77427,32.09125",
+    "geom:latitude":32.09125,
+    "geom:longitude":120.77427,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jicheng",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8358806,
+    "gn:latitude":32.09125,
+    "gn:longitude":120.77427,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Jicheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u96c6\u6210"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8358806
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a307861eef3e4a6e7c0ebee156394a92",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209214889
+        }
+    ],
+    "wof:id":1209214889,
+    "wof:lastmodified":1537602950,
+    "wof:name":"Jicheng",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.77427,
+    32.09125,
+    120.77427,
+    32.09125
+],
+  "geometry": {"coordinates":[120.77427,32.09125],"type":"Point"}
+}

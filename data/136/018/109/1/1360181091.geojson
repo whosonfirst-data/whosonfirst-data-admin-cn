@@ -1,0 +1,76 @@
+{
+  "id": 1360181091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.74828,33.31048,113.74828,33.31048",
+    "geom:latitude":33.31048,
+    "geom:longitude":113.74828,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Luzhuangcun",
+    "gn:country_code":"CN",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7514120,
+    "gn:latitude":33.31048,
+    "gn:longitude":113.74828,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"L\u00fczhuangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00fczhuangcun",
+        "\u5415\u5e84\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "\u5415\u5e84\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669801,
+        102191569,
+        85632695,
+        136253041,
+        890514843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7514120
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c6e7a6b8199fecd6cd62003888d83767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514843,
+            "empire_id":136253041,
+            "locality_id":1360181091,
+            "region_id":85669801
+        }
+    ],
+    "wof:id":1360181091,
+    "wof:lastmodified":1537599570,
+    "wof:name":"Luzhuangcun",
+    "wof:parent_id":890514843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.74828,
+    33.31048,
+    113.74828,
+    33.31048
+],
+  "geometry": {"coordinates":[113.74827999999999,33.31048],"type":"Point"}
+}

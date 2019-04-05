@@ -1,0 +1,80 @@
+{
+  "id": 1326703775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.301,30.801,85.301,30.801",
+    "geom:latitude":30.801,
+    "geom:longitude":85.301,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Xarlung",
+    "gn:country_code":"CN",
+    "gn:dem":5321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8059099,
+    "gn:latitude":30.801,
+    "gn:longitude":85.301,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Xarlung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Xarlung"
+    ],
+    "name:zho_x_preferred":[
+        "Xialong"
+    ],
+    "name:zho_x_variant":[
+        "\u590f\u9686",
+        "Cuoqin Gongshe",
+        "\u63aa\u52e4\u516c\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8059099
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0c3c99842fd468211f68eabcf2c1d9d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732537,
+            "empire_id":136253041,
+            "locality_id":1326703775,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1326703775,
+    "wof:lastmodified":1537602496,
+    "wof:name":"Xarlung",
+    "wof:parent_id":1108732537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.301,
+    30.801,
+    85.301,
+    30.801
+],
+  "geometry": {"coordinates":[85.301,30.801],"type":"Point"}
+}

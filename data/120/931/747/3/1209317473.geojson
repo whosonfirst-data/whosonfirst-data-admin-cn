@@ -1,0 +1,64 @@
+{
+  "id": 1209317473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.32284,30.238,122.32284,30.238",
+    "geom:latitude":30.238,
+    "geom:longitude":122.32284,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shawan",
+    "gn:country_code":"CN",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8226306,
+    "gn:latitude":30.238,
+    "gn:longitude":122.32284,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Shawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6c99\u6e7e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8226306
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"52f5d59d587ebf88ea10c716e891906b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209317473
+        }
+    ],
+    "wof:id":1209317473,
+    "wof:lastmodified":1537602746,
+    "wof:name":"Shawan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.32284,
+    30.238,
+    122.32284,
+    30.238
+],
+  "geometry": {"coordinates":[122.32284,30.238],"type":"Point"}
+}

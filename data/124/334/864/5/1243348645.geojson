@@ -1,0 +1,86 @@
+{
+  "id": 1243348645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.32678,45.45324,128.32678,45.45324",
+    "geom:latitude":45.45324,
+    "geom:longitude":128.32678,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Yanshou",
+    "gn:country_code":"CN",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2033454,
+    "gn:latitude":45.45324,
+    "gn:longitude":128.32678,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Yanshou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tunbin",
+        "Yen-shou-hsien",
+        "T\u2019ung-pin",
+        "Yen-shou-chen",
+        "Yen-show",
+        "Yen-shou",
+        "Yanshou",
+        "Yanshou Xian"
+    ],
+    "name:zho_x_preferred":[
+        "\u5ef6\u5bff"
+    ],
+    "name:zho_x_variant":[
+        "\u5ef6\u5bff\u53bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890516235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2033454,
+        "wk:page":"Yanshou_County"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ad0931ef74951e3e04ec7f39b6e4ea77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516235,
+            "empire_id":136253041,
+            "locality_id":1243348645,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1243348645,
+    "wof:lastmodified":1537595585,
+    "wof:name":"Yanshou",
+    "wof:parent_id":890516235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.32678,
+    45.45324,
+    128.32678,
+    45.45324
+],
+  "geometry": {"coordinates":[128.32678000000001,45.45324],"type":"Point"}
+}

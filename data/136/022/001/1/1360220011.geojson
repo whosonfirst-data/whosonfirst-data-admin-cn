@@ -1,0 +1,74 @@
+{
+  "id": 1360220011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.4086,19.08,109.4086,19.08",
+    "geom:latitude":19.08,
+    "geom:longitude":109.4086,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Nankai",
+    "gn:country_code":"CN",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1881715,
+    "gn:latitude":19.08,
+    "gn:longitude":109.4086,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nankai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lieh-pao",
+        "Nankai",
+        "\u5357\u5f00",
+        "Nankai Xiang",
+        "\u5357\u5f00\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632695,
+        85669759,
+        1108732481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1881715
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0b4634865e5129f51bf98acac47d9041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732481,
+            "locality_id":1360220011,
+            "region_id":85669759
+        }
+    ],
+    "wof:id":1360220011,
+    "wof:lastmodified":1537594146,
+    "wof:name":"Nankai",
+    "wof:parent_id":1108732481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.4086,
+    19.08,
+    109.4086,
+    19.08
+],
+  "geometry": {"coordinates":[109.40860000000001,19.08],"type":"Point"}
+}

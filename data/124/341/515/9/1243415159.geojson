@@ -1,0 +1,69 @@
+{
+  "id": 1243415159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.4,23.88333,99.4,23.88333",
+    "geom:latitude":23.88333,
+    "geom:longitude":99.4,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Chonggang",
+    "gn:country_code":"CN",
+    "gn:dem":2400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1281515,
+    "gn:latitude":23.88333,
+    "gn:longitude":99.4,
+    "gn:modification_date":"1994-02-05",
+    "gn:name":"Chonggang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        890514555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1281515
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1455ed5458441b75eca1956055459ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514555,
+            "empire_id":136253041,
+            "locality_id":1243415159,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1243415159,
+    "wof:lastmodified":1536849609,
+    "wof:name":"Chonggang",
+    "wof:parent_id":890514555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.4,
+    23.88333,
+    99.4,
+    23.88333
+],
+  "geometry": {"coordinates":[99.40000000000001,23.88333],"type":"Point"}
+}

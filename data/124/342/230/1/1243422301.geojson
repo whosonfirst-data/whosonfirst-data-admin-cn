@@ -1,0 +1,76 @@
+{
+  "id": 1243422301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.07028,40.12333,113.07028,40.12333",
+    "geom:latitude":40.12333,
+    "geom:longitude":113.07028,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Yungang",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":1162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2033254,
+    "gn:latitude":40.12333,
+    "gn:longitude":113.07028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yungang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00fcn-kang",
+        "Y\u00fcn-kang-pao",
+        "Y\u00fcn-kang-pu",
+        "Yungang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        890516415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2033254
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"89911cbeeffe5f08f634fae6f8d7dc13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516415,
+            "empire_id":136253041,
+            "locality_id":1243422301,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1243422301,
+    "wof:lastmodified":1537595575,
+    "wof:name":"Yungang",
+    "wof:parent_id":890516415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.07028,
+    40.12333,
+    113.07028,
+    40.12333
+],
+  "geometry": {"coordinates":[113.07028,40.12333],"type":"Point"}
+}

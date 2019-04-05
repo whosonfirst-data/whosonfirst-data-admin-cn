@@ -1,0 +1,78 @@
+{
+  "id": 1293559897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.001,28.401,90.001,28.401",
+    "geom:latitude":28.401,
+    "geom:longitude":90.001,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dagripu",
+    "gn:country_code":"CN",
+    "gn:dem":5640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7929752,
+    "gn:latitude":28.401,
+    "gn:longitude":90.001,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dagripu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Dagripu"
+    ],
+    "name:zho_x_preferred":[
+        "Daripu"
+    ],
+    "name:zho_x_variant":[
+        "\u6253\u65e5\u666e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7929752
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b70471e6d41c513bb8924209e8eefd43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1293559897,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1293559897,
+    "wof:lastmodified":1537602057,
+    "wof:name":"Dagripu",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.001,
+    28.401,
+    90.001,
+    28.401
+],
+  "geometry": {"coordinates":[90.001,28.401],"type":"Point"}
+}

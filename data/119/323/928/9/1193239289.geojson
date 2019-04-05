@@ -1,0 +1,76 @@
+{
+  "id": 1193239289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.24,24.0878,101.24,24.0878",
+    "geom:latitude":24.0878,
+    "geom:longitude":101.24,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kouyao",
+    "gn:country_code":"CN",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9932318,
+    "gn:latitude":24.0878,
+    "gn:longitude":101.24,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Kouyao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koume",
+        "Kouyao"
+    ],
+    "name:zho_x_preferred":[
+        "\u6263\u4e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        890514995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9932318
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f807c96ec1cdb64379b7b3b9df7e79c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514995,
+            "empire_id":136253041,
+            "locality_id":1193239289,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1193239289,
+    "wof:lastmodified":1537607717,
+    "wof:name":"Kouyao",
+    "wof:parent_id":890514995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.24,
+    24.0878,
+    101.24,
+    24.0878
+],
+  "geometry": {"coordinates":[101.23999999999999,24.0878],"type":"Point"}
+}

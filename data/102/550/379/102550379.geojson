@@ -1,0 +1,72 @@
+{
+  "id": 102550379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.343889,36.133889,114.343889,36.133889",
+    "geom:latitude":36.133889,
+    "geom:longitude":114.343889,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:swe_x_preferred":[
+        "Anyang Airport"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u9633\u8c6b\u4e1c\u5317\u673a\u573a"
+    ],
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":50,
+    "woe:hierarchy":{
+        "country_id":23424781,
+        "county_id":26198368,
+        "localadmin_id":20071140,
+        "planet_id":1,
+        "state_id":12577999
+    },
+    "wof:belongsto":[
+        85632695,
+        85669801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511982,
+        "iata:code":"AYN",
+        "icao:code":"ZHAY",
+        "oa:id":"30670",
+        "wd:id":"Q10947290"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"67522deda92f560da1b6a1fb134da6d5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102550379,
+            "country_id":85632695,
+            "region_id":85669801
+        }
+    ],
+    "wof:id":102550379,
+    "wof:lastmodified":1543792155,
+    "wof:name":"Anyang Airport",
+    "wof:parent_id":85669801,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    114.343889,
+    36.133889,
+    114.343889,
+    36.133889
+],
+  "geometry": {"coordinates":[114.343889,36.133889],"type":"Point"}
+}

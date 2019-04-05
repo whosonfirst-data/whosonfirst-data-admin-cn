@@ -1,0 +1,87 @@
+{
+  "id": 1242652857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.768,26.6668,105.768,26.6668",
+    "geom:latitude":26.6668,
+    "geom:longitude":105.768,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Zhijin",
+    "gn:country_code":"CN",
+    "gn:dem":1313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1784520,
+    "gn:latitude":26.6668,
+    "gn:longitude":105.768,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Zhijin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chihkin",
+        "Chih-chin",
+        "Chih-chin-hsien",
+        "Pingyuanchow",
+        "Chihkiohsien",
+        "P\u2019ing-y\u00fcan",
+        "Chihkin-hsien",
+        "Chih-chin-ch\u2019eng",
+        "Zhijin",
+        "Zhijin Chengguanzhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ec7\u9526"
+    ],
+    "name:zho_x_variant":[
+        "\u7ec7\u9526\u57ce\u5173\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669721,
+        102191569,
+        85632695,
+        136253041,
+        1108732447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1784520
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d701ee2f4b4b0d45dead040d978cc2ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732447,
+            "empire_id":136253041,
+            "locality_id":1242652857,
+            "region_id":85669721
+        }
+    ],
+    "wof:id":1242652857,
+    "wof:lastmodified":1537591932,
+    "wof:name":"Zhijin",
+    "wof:parent_id":1108732447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.768,
+    26.6668,
+    105.768,
+    26.6668
+],
+  "geometry": {"coordinates":[105.768,26.6668],"type":"Point"}
+}

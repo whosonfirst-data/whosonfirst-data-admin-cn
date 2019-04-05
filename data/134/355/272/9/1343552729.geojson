@@ -1,0 +1,76 @@
+{
+  "id": 1343552729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.28361,26.13674,119.28361,26.13674",
+    "geom:latitude":26.13674,
+    "geom:longitude":119.28361,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chixing",
+    "gn:country_code":"CN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8143719,
+    "gn:latitude":26.13674,
+    "gn:longitude":119.28361,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Chixing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u8d64\u661f",
+        "\u8d64\u661f\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "Chixingcun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8143719
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"35fdf40483a8088709c84cbe08a8dcf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516575,
+            "empire_id":136253041,
+            "locality_id":1343552729,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1343552729,
+    "wof:lastmodified":1537602676,
+    "wof:name":"Chixing",
+    "wof:parent_id":890516575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.28361,
+    26.13674,
+    119.28361,
+    26.13674
+],
+  "geometry": {"coordinates":[119.28361,26.13674],"type":"Point"}
+}

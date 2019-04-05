@@ -1,0 +1,75 @@
+{
+  "id": 1192992983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.76687,40.86129,123.76687,40.86129",
+    "geom:latitude":40.86129,
+    "geom:longitude":123.76687,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Baihaoling",
+    "gn:country_code":"CN",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7397985,
+    "gn:latitude":40.86129,
+    "gn:longitude":123.76687,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Baihaoling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u767d\u7693\u5cad"
+    ],
+    "name:zho_x_preferred":[
+        "\u767d\u7693\u5cad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890513783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7397985
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9f4d74c8d4c74c7fd1c4f7d3c3b5c7e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513783,
+            "empire_id":136253041,
+            "locality_id":1192992983,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1192992983,
+    "wof:lastmodified":1537598545,
+    "wof:name":"Baihaoling",
+    "wof:parent_id":890513783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.76687,
+    40.86129,
+    123.76687,
+    40.86129
+],
+  "geometry": {"coordinates":[123.76687,40.86129],"type":"Point"}
+}

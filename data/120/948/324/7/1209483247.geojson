@@ -1,0 +1,64 @@
+{
+  "id": 1209483247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.51493,36.05085,113.51493,36.05085",
+    "geom:latitude":36.05085,
+    "geom:longitude":113.51493,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Zhaocheng",
+    "gn:country_code":"CN",
+    "gn:dem":1610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11458356,
+    "gn:latitude":36.05085,
+    "gn:longitude":113.51493,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Zhaocheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8d75\u57ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11458356
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a3993c1ae42e81afb88f25717476cb92",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209483247
+        }
+    ],
+    "wof:id":1209483247,
+    "wof:lastmodified":1537616739,
+    "wof:name":"Zhaocheng",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.51493,
+    36.05085,
+    113.51493,
+    36.05085
+],
+  "geometry": {"coordinates":[113.51493000000001,36.05085],"type":"Point"}
+}

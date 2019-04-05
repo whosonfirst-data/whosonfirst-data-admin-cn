@@ -1,0 +1,78 @@
+{
+  "id": 1242973603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6919,30.0683,120.6919,30.0683",
+    "geom:latitude":30.0683,
+    "geom:longitude":120.6919,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Wurongcun",
+    "gn:country_code":"CN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1881975,
+    "gn:latitude":30.0683,
+    "gn:longitude":120.6919,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Wurongcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wurong",
+        "\u5434\u878d",
+        "Wu-jung",
+        "Wurongcun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5434\u878d\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890513785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1881975
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c24d91a3ff0b2e31c912654d413c7e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513785,
+            "empire_id":136253041,
+            "locality_id":1242973603,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1242973603,
+    "wof:lastmodified":1537594156,
+    "wof:name":"Wurongcun",
+    "wof:parent_id":890513785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6919,
+    30.0683,
+    120.6919,
+    30.0683
+],
+  "geometry": {"coordinates":[120.6919,30.0683],"type":"Point"}
+}

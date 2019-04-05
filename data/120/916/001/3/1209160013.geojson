@@ -1,0 +1,64 @@
+{
+  "id": 1209160013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.749,28.2114,102.749,28.2114",
+    "geom:latitude":28.2114,
+    "geom:longitude":102.749,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Yiji",
+    "gn:country_code":"CN",
+    "gn:dem":2669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10215324,
+    "gn:latitude":28.2114,
+    "gn:longitude":102.749,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Yiji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u76ca\u673a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10215324
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a3ff7c9f19984db8df0ef6ce0512f872",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209160013
+        }
+    ],
+    "wof:id":1209160013,
+    "wof:lastmodified":1537611479,
+    "wof:name":"Yiji",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.749,
+    28.2114,
+    102.749,
+    28.2114
+],
+  "geometry": {"coordinates":[102.749,28.2114],"type":"Point"}
+}

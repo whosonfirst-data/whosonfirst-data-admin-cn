@@ -1,0 +1,74 @@
+{
+  "id": 1293469649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.49377,30.19075,111.49377,30.19075",
+    "geom:latitude":30.19075,
+    "geom:longitude":111.49377,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Chayuansi",
+    "gn:country_code":"CN",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1815361,
+    "gn:latitude":30.19075,
+    "gn:longitude":111.49377,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chayuansi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019a-y\u00fcan-ssu",
+        "Chayuansi",
+        "\u8336\u56ed\u5bfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        890513331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1815361
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ab920e2b5b8d0cf56b37ea1e6c28d6b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513331,
+            "empire_id":136253041,
+            "locality_id":1293469649,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1293469649,
+    "wof:lastmodified":1537593941,
+    "wof:name":"Chayuansi",
+    "wof:parent_id":890513331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.49377,
+    30.19075,
+    111.49377,
+    30.19075
+],
+  "geometry": {"coordinates":[111.49377,30.19075],"type":"Point"}
+}

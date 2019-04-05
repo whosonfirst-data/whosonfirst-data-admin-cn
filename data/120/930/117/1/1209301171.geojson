@@ -1,0 +1,75 @@
+{
+  "id": 1209301171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.22496,32.02526,112.22496,32.02526",
+    "geom:latitude":32.02526,
+    "geom:longitude":112.22496,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Dongjin",
+    "gn:country_code":"CN",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1812435,
+    "gn:latitude":32.02526,
+    "gn:longitude":112.22496,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Dongjin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tung-chin-wan",
+        "Dongjin Zhen",
+        "Tung-ching-wan",
+        "Dongjinwan",
+        "Dongjin"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u6d25"
+    ],
+    "name:zho_x_variant":[
+        "\u4e1c\u6d25\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1812435,
+        "wk:page":"Dongjin%2C_Hubei"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e8e2f1eb01790c1d379ca30c287ef553",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209301171
+        }
+    ],
+    "wof:id":1209301171,
+    "wof:lastmodified":1537593764,
+    "wof:name":"Dongjin",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.22496,
+    32.02526,
+    112.22496,
+    32.02526
+],
+  "geometry": {"coordinates":[112.22496,32.02526],"type":"Point"}
+}

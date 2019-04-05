@@ -1,0 +1,77 @@
+{
+  "id": 1344259725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.96971,28.44847,120.96971,28.44847",
+    "geom:latitude":28.44847,
+    "geom:longitude":120.96971,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Shanggangcun",
+    "gn:country_code":"CN",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1883254,
+    "gn:latitude":28.44847,
+    "gn:longitude":120.96971,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Shanggangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shang-chiang",
+        "Shanggang",
+        "Shanggangcun"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u6e2f\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890514289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1883254
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7425984f9ca0bb82f5aad7f9d4a09182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514289,
+            "empire_id":136253041,
+            "locality_id":1344259725,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1344259725,
+    "wof:lastmodified":1537594186,
+    "wof:name":"Shanggangcun",
+    "wof:parent_id":890514289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.96971,
+    28.44847,
+    120.96971,
+    28.44847
+],
+  "geometry": {"coordinates":[120.96971000000001,28.44847],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1209882989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.93921,34.79414,108.93921,34.79414",
+    "geom:latitude":34.79414,
+    "geom:longitude":108.93921,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Weihuicun",
+    "gn:country_code":"CN",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1999950,
+    "gn:latitude":34.79414,
+    "gn:longitude":108.93921,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Weihuicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Weihui",
+        "\u9b4f\u56de",
+        "Weihuicun"
+    ],
+    "name:zho_x_preferred":[
+        "\u9b4f\u56de"
+    ],
+    "name:zho_x_variant":[
+        "\u9b4f\u8ff4\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1999950
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"89f06310dca38be7573ec3f4a8d707a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515689,
+            "empire_id":136253041,
+            "locality_id":1209882989,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1209882989,
+    "wof:lastmodified":1537595450,
+    "wof:name":"Weihuicun",
+    "wof:parent_id":890515689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.93921,
+    34.79414000000001,
+    108.93921,
+    34.79414000000001
+],
+  "geometry": {"coordinates":[108.93921,34.79414000000001],"type":"Point"}
+}

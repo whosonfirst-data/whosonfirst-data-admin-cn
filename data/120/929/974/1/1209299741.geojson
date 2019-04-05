@@ -1,0 +1,64 @@
+{
+  "id": 1209299741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.55152,46.97569,130.55152,46.97569",
+    "geom:latitude":46.97569,
+    "geom:longitude":130.55152,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Heimang",
+    "gn:country_code":"CN",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11569978,
+    "gn:latitude":46.97569,
+    "gn:longitude":130.55152,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Heimang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9ed1\u87d2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11569978
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"335a422d6e6386dcc3224b23262cb891",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209299741
+        }
+    ],
+    "wof:id":1209299741,
+    "wof:lastmodified":1537617763,
+    "wof:name":"Heimang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.55151999999998,
+    46.97569,
+    130.55151999999998,
+    46.97569
+],
+  "geometry": {"coordinates":[130.55151999999998,46.97569],"type":"Point"}
+}

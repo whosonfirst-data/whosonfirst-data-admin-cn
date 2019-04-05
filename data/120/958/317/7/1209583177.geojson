@@ -1,0 +1,64 @@
+{
+  "id": 1209583177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.335,35.9475,117.335,35.9475",
+    "geom:latitude":35.9475,
+    "geom:longitude":117.335,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Shijiazhuang",
+    "gn:country_code":"CN",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9117706,
+    "gn:latitude":35.9475,
+    "gn:longitude":117.335,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Shijiazhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u65f6\u5bb6\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9117706
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"686834c960e27f3fd4ebf5692fdfc118",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209583177
+        }
+    ],
+    "wof:id":1209583177,
+    "wof:lastmodified":1537605244,
+    "wof:name":"Shijiazhuang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.335,
+    35.9475,
+    117.335,
+    35.9475
+],
+  "geometry": {"coordinates":[117.33499999999999,35.9475],"type":"Point"}
+}

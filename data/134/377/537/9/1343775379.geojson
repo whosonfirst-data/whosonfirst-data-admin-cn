@@ -1,0 +1,78 @@
+{
+  "id": 1343775379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.90018,32.10826,117.90018,32.10826",
+    "geom:latitude":32.10826,
+    "geom:longitude":117.90018,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Longxingcun",
+    "gn:country_code":"CN",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1802295,
+    "gn:latitude":32.10826,
+    "gn:longitude":117.90018,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Longxingcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lung-hsing",
+        "Lung-hsing-chi",
+        "Longxing",
+        "Longxingcun"
+    ],
+    "name:zho_x_preferred":[
+        "\u9686\u5174\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890513329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1802295
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7d272b073309666f9d77847f8dc5333b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513329,
+            "empire_id":136253041,
+            "locality_id":1343775379,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1343775379,
+    "wof:lastmodified":1537593111,
+    "wof:name":"Longxingcun",
+    "wof:parent_id":890513329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.90018,
+    32.10825999999999,
+    117.90018,
+    32.10825999999999
+],
+  "geometry": {"coordinates":[117.90018000000001,32.10825999999999],"type":"Point"}
+}

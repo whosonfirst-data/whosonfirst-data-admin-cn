@@ -1,0 +1,64 @@
+{
+  "id": 1209615263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.117,34.3556,117.117,34.3556",
+    "geom:latitude":34.3556,
+    "geom:longitude":117.117,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dongcheng",
+    "gn:country_code":"CN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11089553,
+    "gn:latitude":34.3556,
+    "gn:longitude":117.117,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Dongcheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e1c\u57ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11089553
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2712a8ed9de54ad07ade6af9540fe63a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209615263
+        }
+    ],
+    "wof:id":1209615263,
+    "wof:lastmodified":1537615334,
+    "wof:name":"Dongcheng",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.117,
+    34.3556,
+    117.117,
+    34.3556
+],
+  "geometry": {"coordinates":[117.117,34.3556],"type":"Point"}
+}

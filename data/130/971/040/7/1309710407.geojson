@@ -1,0 +1,77 @@
+{
+  "id": 1309710407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.91286,43.42001,125.91286,43.42001",
+    "geom:latitude":43.42001,
+    "geom:longitude":125.91286,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Shaoguocun",
+    "gn:country_code":"CN",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2034982,
+    "gn:latitude":43.42001,
+    "gn:longitude":125.91286,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Shaoguocun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shao-kuo",
+        "Shaoguo",
+        "Shaoguocun"
+    ],
+    "name:zho_x_preferred":[
+        "\u70e7\u9505\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669843,
+        102191569,
+        85632695,
+        136253041,
+        890514235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2034982
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c0732530d6aa6df87b326cab52c268de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514235,
+            "empire_id":136253041,
+            "locality_id":1309710407,
+            "region_id":85669843
+        }
+    ],
+    "wof:id":1309710407,
+    "wof:lastmodified":1537595684,
+    "wof:name":"Shaoguocun",
+    "wof:parent_id":890514235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.91286,
+    43.42001,
+    125.91286,
+    43.42001
+],
+  "geometry": {"coordinates":[125.91285999999999,43.42001],"type":"Point"}
+}

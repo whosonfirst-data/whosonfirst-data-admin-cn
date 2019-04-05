@@ -1,0 +1,78 @@
+{
+  "id": 1343634999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.67261,31.12659,96.67261,31.12659",
+    "geom:latitude":31.12659,
+    "geom:longitude":96.67261,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nganda",
+    "gn:country_code":"CN",
+    "gn:dem":3769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":7930127,
+    "gn:latitude":31.12659,
+    "gn:longitude":96.67261,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Nganda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Nganda"
+    ],
+    "name:zho_x_preferred":[
+        "Enda"
+    ],
+    "name:zho_x_variant":[
+        "\u6069\u8fbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930127
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a10015a8f62d2033d6388598c1eab803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1343634999,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1343634999,
+    "wof:lastmodified":1537602075,
+    "wof:name":"Nganda",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.67261,
+    31.12659,
+    96.67261,
+    31.12659
+],
+  "geometry": {"coordinates":[96.67261000000001,31.12659],"type":"Point"}
+}

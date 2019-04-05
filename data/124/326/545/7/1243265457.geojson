@@ -1,0 +1,77 @@
+{
+  "id": 1243265457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.25633,28.5096,117.25633,28.5096",
+    "geom:latitude":28.5096,
+    "geom:longitude":117.25633,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Baitian",
+    "gn:country_code":"CN",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":7065574,
+    "gn:latitude":28.5096,
+    "gn:longitude":117.25633,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Baitian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baitian Xiang",
+        "\u767d\u7530\u4e61",
+        "Baitian"
+    ],
+    "name:zho_x_preferred":[
+        "\u767d\u7530"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669823,
+        102191569,
+        85632695,
+        136253041,
+        890514939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7065574
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6aa0e28ac5208f0628e46c8ce834bf7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514939,
+            "empire_id":136253041,
+            "locality_id":1243265457,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":1243265457,
+    "wof:lastmodified":1537597726,
+    "wof:name":"Baitian",
+    "wof:parent_id":890514939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.25633,
+    28.5096,
+    117.25633,
+    28.5096
+],
+  "geometry": {"coordinates":[117.25633000000001,28.5096],"type":"Point"}
+}

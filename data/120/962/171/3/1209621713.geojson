@@ -1,0 +1,64 @@
+{
+  "id": 1209621713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.888,27.0137,113.888,27.0137",
+    "geom:latitude":27.0137,
+    "geom:longitude":113.888,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Shantian",
+    "gn:country_code":"CN",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9613683,
+    "gn:latitude":27.0137,
+    "gn:longitude":113.888,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Shantian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u73ca\u7530"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9613683
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7ecb044fa8feb75ae81fa18247786a5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209621713
+        }
+    ],
+    "wof:id":1209621713,
+    "wof:lastmodified":1537605931,
+    "wof:name":"Shantian",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.888,
+    27.0137,
+    113.888,
+    27.0137
+],
+  "geometry": {"coordinates":[113.88800000000001,27.0137],"type":"Point"}
+}

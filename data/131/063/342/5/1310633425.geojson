@@ -1,0 +1,75 @@
+{
+  "id": 1310633425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.16667,31.85,119.16667,31.85",
+    "geom:latitude":31.85,
+    "geom:longitude":119.16667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Erjingqiao",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1811692,
+    "gn:latitude":31.85,
+    "gn:longitude":119.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Erjingqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erh-ching-ch\u2019iao",
+        "Erh-sheng-ch\u2019iao",
+        "Erjingqiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        1108732521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1811692
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3a735eba8913a9a6b4d04165bc9240ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732521,
+            "empire_id":136253041,
+            "locality_id":1310633425,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1310633425,
+    "wof:lastmodified":1537593716,
+    "wof:name":"Erjingqiao",
+    "wof:parent_id":1108732521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.16667,
+    31.85,
+    119.16667,
+    31.85
+],
+  "geometry": {"coordinates":[119.16667,31.85],"type":"Point"}
+}

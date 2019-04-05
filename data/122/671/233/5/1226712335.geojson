@@ -1,0 +1,77 @@
+{
+  "id": 1226712335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.68865,41.2149,125.68865,41.2149",
+    "geom:latitude":41.2149,
+    "geom:longitude":125.68865,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Sipingcun",
+    "gn:country_code":"CN",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2034712,
+    "gn:latitude":41.2149,
+    "gn:longitude":125.68865,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Sipingcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sipingjie",
+        "Siping",
+        "Sipingcun"
+    ],
+    "name:zho_x_preferred":[
+        "\u56db\u5e73\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890513783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2034712
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"480c11397a64683e87155ad349cc7453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513783,
+            "empire_id":136253041,
+            "locality_id":1226712335,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1226712335,
+    "wof:lastmodified":1537595665,
+    "wof:name":"Sipingcun",
+    "wof:parent_id":890513783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.68865,
+    41.2149,
+    125.68865,
+    41.2149
+],
+  "geometry": {"coordinates":[125.68865,41.2149],"type":"Point"}
+}

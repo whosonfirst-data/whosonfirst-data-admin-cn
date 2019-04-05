@@ -1,0 +1,78 @@
+{
+  "id": 1326700949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.901,27.401,88.901,27.401",
+    "geom:latitude":27.401,
+    "geom:longitude":88.901,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Beimugang",
+    "gn:country_code":"CN",
+    "gn:dem":3648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7898289,
+    "gn:latitude":27.401,
+    "gn:longitude":88.901,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Beimugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "B\u00fcmogang"
+    ],
+    "name:zho_x_preferred":[
+        "Beimugang"
+    ],
+    "name:zho_x_variant":[
+        "\u8d1d\u59c6\u5c97"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7898289
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0666458e8bade2931441d0a8628d70b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1326700949,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1326700949,
+    "wof:lastmodified":1537601878,
+    "wof:name":"Beimugang",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.90100000000002,
+    27.401,
+    88.90100000000002,
+    27.401
+],
+  "geometry": {"coordinates":[88.90100000000002,27.401],"type":"Point"}
+}

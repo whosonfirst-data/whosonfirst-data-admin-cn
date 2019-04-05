@@ -1,0 +1,75 @@
+{
+  "id": 1193099477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.093,41.7395,122.093,41.7395",
+    "geom:latitude":41.7395,
+    "geom:longitude":122.093,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Zuojiagou",
+    "gn:country_code":"CN",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7400149,
+    "gn:latitude":41.7395,
+    "gn:longitude":122.093,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Zuojiagou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5de6\u5bb6\u6c9f"
+    ],
+    "name:zho_x_preferred":[
+        "\u5de6\u5bb6\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7400149
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1c2c56ca4dd8b019b1bc0d8345ecdc4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514397,
+            "empire_id":136253041,
+            "locality_id":1193099477,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1193099477,
+    "wof:lastmodified":1537598659,
+    "wof:name":"Zuojiagou",
+    "wof:parent_id":890514397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.093,
+    41.7395,
+    122.093,
+    41.7395
+],
+  "geometry": {"coordinates":[122.093,41.7395],"type":"Point"}
+}

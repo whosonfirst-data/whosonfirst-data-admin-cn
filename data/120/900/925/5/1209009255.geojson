@@ -1,0 +1,64 @@
+{
+  "id": 1209009255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.4643,32.11741,119.4643,32.11741",
+    "geom:latitude":32.11741,
+    "geom:longitude":119.4643,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhangxiang",
+    "gn:country_code":"CN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8268694,
+    "gn:latitude":32.11741,
+    "gn:longitude":119.4643,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Zhangxiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5f20\u5df7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8268694
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"15f049719df5c20397fa77f42e16e80d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209009255
+        }
+    ],
+    "wof:id":1209009255,
+    "wof:lastmodified":1537602859,
+    "wof:name":"Zhangxiang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.4643,
+    32.11741,
+    119.4643,
+    32.11741
+],
+  "geometry": {"coordinates":[119.46429999999999,32.11741],"type":"Point"}
+}

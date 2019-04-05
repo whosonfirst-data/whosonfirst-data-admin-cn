@@ -1,0 +1,76 @@
+{
+  "id": 1209963559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.45,25.48333,98.45,25.48333",
+    "geom:latitude":25.48333,
+    "geom:longitude":98.45,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ruidian",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":1809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1280124,
+    "gn:latitude":25.48333,
+    "gn:longitude":98.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ruidian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diantan\u2019ai",
+        "Tien-t\u2019an-ai",
+        "Jui-tien",
+        "Ruidian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        890514251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1280124
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"266b77835a0b81a78aac94bd3811eff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514251,
+            "empire_id":136253041,
+            "locality_id":1209963559,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1209963559,
+    "wof:lastmodified":1537591424,
+    "wof:name":"Ruidian",
+    "wof:parent_id":890514251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.45,
+    25.48333,
+    98.45,
+    25.48333
+],
+  "geometry": {"coordinates":[98.45,25.48333],"type":"Point"}
+}

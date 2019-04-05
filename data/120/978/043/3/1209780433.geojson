@@ -1,0 +1,78 @@
+{
+  "id": 1209780433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.45031,49.5013,121.45031,49.5013",
+    "geom:latitude":49.5013,
+    "geom:longitude":121.45031,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Meitian",
+    "gn:country_code":"CN",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8458359,
+    "gn:latitude":49.5013,
+    "gn:longitude":121.45031,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Meitian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meitian Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u7164\u7530"
+    ],
+    "name:zho_x_variant":[
+        "\u7164\u7530\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669847,
+        102191569,
+        85632695,
+        136253041,
+        1108732385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8458359
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"19c9ba8e525912ba6ec224fccce3ac2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732385,
+            "empire_id":136253041,
+            "locality_id":1209780433,
+            "region_id":85669847
+        }
+    ],
+    "wof:id":1209780433,
+    "wof:lastmodified":1537603828,
+    "wof:name":"Meitian",
+    "wof:parent_id":1108732385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.45031000000002,
+    49.5013,
+    121.45031000000002,
+    49.5013
+],
+  "geometry": {"coordinates":[121.45031000000002,49.5013],"type":"Point"}
+}

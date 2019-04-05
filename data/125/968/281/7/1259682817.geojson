@@ -1,0 +1,76 @@
+{
+  "id": 1259682817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.03333,44.96667,123.03333,44.96667",
+    "geom:latitude":44.96667,
+    "geom:longitude":123.03333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Hongxing",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2036818,
+    "gn:latitude":44.96667,
+    "gn:longitude":123.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hongxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hung-hsing-chan",
+        "Hung-hsing",
+        "Hung-hsing-chen",
+        "Hongxing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669843,
+        102191569,
+        85632695,
+        136253041,
+        890512869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2036818
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e73de12deeee7f4de53bc2120e7b324b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512869,
+            "empire_id":136253041,
+            "locality_id":1259682817,
+            "region_id":85669843
+        }
+    ],
+    "wof:id":1259682817,
+    "wof:lastmodified":1537595793,
+    "wof:name":"Hongxing",
+    "wof:parent_id":890512869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.03333,
+    44.96667,
+    123.03333,
+    44.96667
+],
+  "geometry": {"coordinates":[123.03333000000001,44.96667],"type":"Point"}
+}

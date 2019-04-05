@@ -1,0 +1,64 @@
+{
+  "id": 1209574923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.082,29.802,101.082,29.802",
+    "geom:latitude":29.802,
+    "geom:longitude":101.082,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Dilaga",
+    "gn:country_code":"CN",
+    "gn:dem":2989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10208647,
+    "gn:latitude":29.802,
+    "gn:longitude":101.082,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Dilaga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5730\u62c9\u5c15"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10208647
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4d80599f5ffce54e964ce1f8fb11c3fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209574923
+        }
+    ],
+    "wof:id":1209574923,
+    "wof:lastmodified":1537611428,
+    "wof:name":"Dilaga",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.082,
+    29.802,
+    101.082,
+    29.802
+],
+  "geometry": {"coordinates":[101.08199999999999,29.802],"type":"Point"}
+}

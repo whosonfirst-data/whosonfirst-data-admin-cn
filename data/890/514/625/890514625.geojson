@@ -1,0 +1,88 @@
+{
+  "id": 890514625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.04861,32.45861,114.04861,32.45861",
+    "geom:latitude":32.45861,
+    "geom:longitude":114.04861,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":67945,
+    "gp:adm0":23424781,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u660e\u6e2f\u9547"
+    ],
+    "name:eng_x_preferred":[
+        "Minggang"
+    ],
+    "name:nob_x_preferred":[
+        "Minggang"
+    ],
+    "name:swe_x_preferred":[
+        "Minggang"
+    ],
+    "name:unk_x_variant":[
+        "Ming-chiang"
+    ],
+    "qs:name":"\u660e\u6e2f",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u6cb3\u5357\u7701",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669801,
+        102191569,
+        85632695,
+        136253041,
+        890512239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1800521,
+        "gp:id":2172261,
+        "qs:id":461395,
+        "wd:id":"Q6864717"
+    },
+    "wof:country":"CN",
+    "wof:created":1469055869,
+    "wof:geomhash":"76e533f83a0d5490a5bb9f5735b89683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512239,
+            "empire_id":136253041,
+            "locality_id":890514625,
+            "region_id":85669801
+        }
+    ],
+    "wof:id":890514625,
+    "wof:lastmodified":1513941175,
+    "wof:name":"\u660e\u6e2f",
+    "wof:parent_id":890512239,
+    "wof:placetype":"locality",
+    "wof:population":67945,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.04861,
+    32.45861,
+    114.04861,
+    32.45861
+],
+  "geometry": {"coordinates":[114.04861,32.45861],"type":"Point"}
+}

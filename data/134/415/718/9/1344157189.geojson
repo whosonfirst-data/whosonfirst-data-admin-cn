@@ -1,0 +1,69 @@
+{
+  "id": 1344157189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.3,31.525,119.3,31.525",
+    "geom:latitude":31.525,
+    "geom:longitude":119.3,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ziwudun",
+    "gn:country_code":"CN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1548267,
+    "gn:latitude":31.525,
+    "gn:longitude":119.3,
+    "gn:modification_date":"1999-01-12",
+    "gn:name":"Ziwudun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890514735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1548267
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"98f72977b2cf4c9cb2ff8967193bbdf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514735,
+            "empire_id":136253041,
+            "locality_id":1344157189,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1344157189,
+    "wof:lastmodified":1536736077,
+    "wof:name":"Ziwudun",
+    "wof:parent_id":890514735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.3,
+    31.525,
+    119.3,
+    31.525
+],
+  "geometry": {"coordinates":[119.3,31.525],"type":"Point"}
+}

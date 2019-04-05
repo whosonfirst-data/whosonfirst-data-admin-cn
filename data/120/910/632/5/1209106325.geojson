@@ -1,0 +1,64 @@
+{
+  "id": 1209106325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.05059,32.90149,119.05059,32.90149",
+    "geom:latitude":32.90149,
+    "geom:longitude":119.05059,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Wamiao",
+    "gn:country_code":"CN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8226581,
+    "gn:latitude":32.90149,
+    "gn:longitude":119.05059,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Wamiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u74e6\u5e99"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8226581
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0b38adbc998b8720de0118c760b7d3a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209106325
+        }
+    ],
+    "wof:id":1209106325,
+    "wof:lastmodified":1537602754,
+    "wof:name":"Wamiao",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.05059,
+    32.90149,
+    119.05059,
+    32.90149
+],
+  "geometry": {"coordinates":[119.05059,32.90149],"type":"Point"}
+}

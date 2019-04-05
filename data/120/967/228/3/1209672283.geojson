@@ -1,0 +1,64 @@
+{
+  "id": 1209672283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.5256,34.16341,110.5256,34.16341",
+    "geom:latitude":34.16341,
+    "geom:longitude":110.5256,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Hanzhuang",
+    "gn:country_code":"CN",
+    "gn:dem":1048,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11316168,
+    "gn:latitude":34.16341,
+    "gn:longitude":110.5256,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Hanzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u97e9\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11316168
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5648616ad1433b17032b4fced905b393",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209672283
+        }
+    ],
+    "wof:id":1209672283,
+    "wof:lastmodified":1537616047,
+    "wof:name":"Hanzhuang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.5256,
+    34.16341,
+    110.5256,
+    34.16341
+],
+  "geometry": {"coordinates":[110.5256,34.16341],"type":"Point"}
+}

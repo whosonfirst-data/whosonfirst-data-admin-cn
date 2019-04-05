@@ -1,0 +1,69 @@
+{
+  "id": 1310363659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.49278,31.20389,121.49278,31.20389",
+    "geom:latitude":31.20389,
+    "geom:longitude":121.49278,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Zhangqiao",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1785099,
+    "gn:latitude":31.20389,
+    "gn:longitude":121.49278,
+    "gn:modification_date":"1995-10-18",
+    "gn:name":"Zhangqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669831,
+        102191569,
+        85632695,
+        136253041,
+        890514815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1785099
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"dd2a5fcdd918638f12d749e05b9d936a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514815,
+            "empire_id":136253041,
+            "locality_id":1310363659,
+            "region_id":85669831
+        }
+    ],
+    "wof:id":1310363659,
+    "wof:lastmodified":1536622209,
+    "wof:name":"Zhangqiao",
+    "wof:parent_id":890514815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.49278,
+    31.20389,
+    121.49278,
+    31.20389
+],
+  "geometry": {"coordinates":[121.49278,31.20389],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209669157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.62641,30.53508,108.62641,30.53508",
+    "geom:latitude":30.53508,
+    "geom:longitude":108.62641,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Zheyan",
+    "gn:country_code":"CN",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8404217,
+    "gn:latitude":30.53508,
+    "gn:longitude":108.62641,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Zheyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6298\u5ca9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8404217
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"02f7d41565cd351e1884ad502a06a47c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209669157
+        }
+    ],
+    "wof:id":1209669157,
+    "wof:lastmodified":1537603381,
+    "wof:name":"Zheyan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.62641,
+    30.53508,
+    108.62641,
+    30.53508
+],
+  "geometry": {"coordinates":[108.62641000000001,30.53508],"type":"Point"}
+}

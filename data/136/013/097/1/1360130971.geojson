@@ -1,0 +1,78 @@
+{
+  "id": 1360130971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.11463,22.69527,112.11463,22.69527",
+    "geom:latitude":22.69527,
+    "geom:longitude":112.11463,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Lezhu",
+    "gn:country_code":"CN",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1804127,
+    "gn:latitude":22.69527,
+    "gn:longitude":112.11463,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lezhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Le-chu",
+        "Lezhu",
+        "Lezhu Zhen",
+        "\u7c15\u7af9\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c15\u7af9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890512761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1804127
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4dd11a79ac7d876f42e39474220160dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512761,
+            "empire_id":136253041,
+            "locality_id":1360130971,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1360130971,
+    "wof:lastmodified":1537593233,
+    "wof:name":"Lezhu",
+    "wof:parent_id":890512761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.11463,
+    22.69527,
+    112.11463,
+    22.69527
+],
+  "geometry": {"coordinates":[112.11463000000001,22.69527],"type":"Point"}
+}

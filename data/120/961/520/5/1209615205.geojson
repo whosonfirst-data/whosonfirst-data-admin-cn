@@ -1,0 +1,64 @@
+{
+  "id": 1209615205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.279,31.98247,119.279,31.98247",
+    "geom:latitude":31.98247,
+    "geom:longitude":119.279,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhexi",
+    "gn:country_code":"CN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8395202,
+    "gn:latitude":31.98247,
+    "gn:longitude":119.279,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Zhexi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u67d8\u6eaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8395202
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"df8ee2e4841a441b8b88d8b7cc58f143",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209615205
+        }
+    ],
+    "wof:id":1209615205,
+    "wof:lastmodified":1537603211,
+    "wof:name":"Zhexi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.279,
+    31.98247000000001,
+    119.279,
+    31.98247000000001
+],
+  "geometry": {"coordinates":[119.279,31.98247000000001],"type":"Point"}
+}

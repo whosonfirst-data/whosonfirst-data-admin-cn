@@ -1,0 +1,64 @@
+{
+  "id": 1209427075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.90816,27.96392,118.90816,27.96392",
+    "geom:latitude":27.96392,
+    "geom:longitude":118.90816,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zhangxi",
+    "gn:country_code":"CN",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11178821,
+    "gn:latitude":27.96392,
+    "gn:longitude":118.90816,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Zhangxi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6a1f\u6eaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11178821
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d625af6f0eb66797c30c34361f7429fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209427075
+        }
+    ],
+    "wof:id":1209427075,
+    "wof:lastmodified":1537615664,
+    "wof:name":"Zhangxi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.90816,
+    27.96392,
+    118.90816,
+    27.96392
+],
+  "geometry": {"coordinates":[118.90816,27.96392],"type":"Point"}
+}

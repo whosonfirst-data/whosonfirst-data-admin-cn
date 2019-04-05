@@ -1,0 +1,77 @@
+{
+  "id": 1327290565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.1443,34.81804,107.1443,34.81804",
+    "geom:latitude":34.81804,
+    "geom:longitude":107.1443,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Nanwanlingcun",
+    "gn:country_code":"CN",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1799697,
+    "gn:latitude":34.81804,
+    "gn:longitude":107.1443,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Nanwanlingcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nanwanling",
+        "\u5357\u6e7e\u5cad",
+        "Nanwanlingcun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u6e7e\u5cad\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890516525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1799697
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5581b89fd803cbaca6c150f9de478895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516525,
+            "empire_id":136253041,
+            "locality_id":1327290565,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1327290565,
+    "wof:lastmodified":1537592946,
+    "wof:name":"Nanwanlingcun",
+    "wof:parent_id":890516525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.1443,
+    34.81804,
+    107.1443,
+    34.81804
+],
+  "geometry": {"coordinates":[107.1443,34.81804],"type":"Point"}
+}

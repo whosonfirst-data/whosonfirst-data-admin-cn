@@ -1,0 +1,76 @@
+{
+  "id": 1259640339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.78101,34.61726,108.78101,34.61726",
+    "geom:latitude":34.61726,
+    "geom:longitude":108.78101,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Dengjia",
+    "gn:country_code":"CN",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1910257,
+    "gn:latitude":34.61726,
+    "gn:longitude":108.78101,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dengjia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dengjiacun",
+        "Dengjia"
+    ],
+    "name:zho_x_preferred":[
+        "\u9093\u5bb6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1910257
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6212c91cd31f639702e0c2a63a8934c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515689,
+            "empire_id":136253041,
+            "locality_id":1259640339,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1259640339,
+    "wof:lastmodified":1537594575,
+    "wof:name":"Dengjia",
+    "wof:parent_id":890515689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.78101,
+    34.61725999999999,
+    108.78101,
+    34.61725999999999
+],
+  "geometry": {"coordinates":[108.78100999999999,34.61725999999999],"type":"Point"}
+}

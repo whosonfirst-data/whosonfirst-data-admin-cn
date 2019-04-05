@@ -1,0 +1,80 @@
+{
+  "id": 1209922823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8558,28.42569,120.8558,28.42569",
+    "geom:latitude":28.42569,
+    "geom:longitude":120.8558,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Yanzhoucun",
+    "gn:country_code":"CN",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1883133,
+    "gn:latitude":28.42569,
+    "gn:longitude":120.8558,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Yanzhoucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yen-hsia-ts\u2019un",
+        "Yanzhou",
+        "Yanzhoucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5ca9\u821f"
+    ],
+    "name:zho_x_variant":[
+        "\u5ca9\u821f\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890514289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1883133
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"533ee18e6b2da7d80f9744960c01e2cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514289,
+            "empire_id":136253041,
+            "locality_id":1209922823,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1209922823,
+    "wof:lastmodified":1537594178,
+    "wof:name":"Yanzhoucun",
+    "wof:parent_id":890514289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8558,
+    28.42569,
+    120.8558,
+    28.42569
+],
+  "geometry": {"coordinates":[120.8558,28.42569],"type":"Point"}
+}

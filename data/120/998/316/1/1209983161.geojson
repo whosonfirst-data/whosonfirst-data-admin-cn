@@ -1,0 +1,75 @@
+{
+  "id": 1209983161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.35,38.16667,110.35,38.16667",
+    "geom:latitude":38.16667,
+    "geom:longitude":110.35,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Tongqinzhai",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":1005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1792596,
+    "gn:latitude":38.16667,
+    "gn:longitude":110.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tongqinzhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u2019ung-chen",
+        "T\u2019ung-ch\u2019in-chai",
+        "Tongqinzhai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1792596
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"15524f5e51ec72126d29bef77fb809a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515097,
+            "empire_id":136253041,
+            "locality_id":1209983161,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1209983161,
+    "wof:lastmodified":1537592473,
+    "wof:name":"Tongqinzhai",
+    "wof:parent_id":890515097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.35,
+    38.16667,
+    110.35,
+    38.16667
+],
+  "geometry": {"coordinates":[110.34999999999999,38.16667],"type":"Point"}
+}

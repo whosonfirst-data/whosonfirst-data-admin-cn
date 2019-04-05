@@ -1,0 +1,64 @@
+{
+  "id": 1209576039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.86255,21.55116,109.86255,21.55116",
+    "geom:latitude":21.55116,
+    "geom:longitude":109.86255,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Zhujiang",
+    "gn:country_code":"CN",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6844029,
+    "gn:latitude":21.55116,
+    "gn:longitude":109.86255,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Zhujiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u73e0\u6c5f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6844029
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b03bfcb9b4426d425383398228adb370",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209576039
+        }
+    ],
+    "wof:id":1209576039,
+    "wof:lastmodified":1537596360,
+    "wof:name":"Zhujiang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.86255,
+    21.55116,
+    109.86255,
+    21.55116
+],
+  "geometry": {"coordinates":[109.86255,21.55116],"type":"Point"}
+}

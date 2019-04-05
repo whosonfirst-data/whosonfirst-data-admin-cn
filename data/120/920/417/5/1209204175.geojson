@@ -1,0 +1,65 @@
+{
+  "id": 1209204175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.47588,33.30935,112.47588,33.30935",
+    "geom:latitude":33.30935,
+    "geom:longitude":112.47588,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sishan",
+    "gn:country_code":"CN",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7046631,
+    "gn:latitude":33.30935,
+    "gn:longitude":112.47588,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sishan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5bfa\u5c71",
+        "Sishan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7046631
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a23b5a8221ab6e0a04d68f15a9cd4ff8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209204175
+        }
+    ],
+    "wof:id":1209204175,
+    "wof:lastmodified":1537597505,
+    "wof:name":"Sishan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.47588,
+    33.30935,
+    112.47588,
+    33.30935
+],
+  "geometry": {"coordinates":[112.47588,33.30935],"type":"Point"}
+}

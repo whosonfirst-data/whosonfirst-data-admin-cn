@@ -1,0 +1,64 @@
+{
+  "id": 1209273605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.786,28.3576,102.786,28.3576",
+    "geom:latitude":28.3576,
+    "geom:longitude":102.786,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kele",
+    "gn:country_code":"CN",
+    "gn:dem":2721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10216781,
+    "gn:latitude":28.3576,
+    "gn:longitude":102.786,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Kele",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u514b\u52d2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10216781
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"69cfd7d84af02c1fe65e44a919f9679e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209273605
+        }
+    ],
+    "wof:id":1209273605,
+    "wof:lastmodified":1537611530,
+    "wof:name":"Kele",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.786,
+    28.3576,
+    102.786,
+    28.3576
+],
+  "geometry": {"coordinates":[102.786,28.3576],"type":"Point"}
+}

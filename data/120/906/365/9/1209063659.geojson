@@ -1,0 +1,64 @@
+{
+  "id": 1209063659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.04245,36.2011,120.04245,36.2011",
+    "geom:latitude":36.2011,
+    "geom:longitude":120.04245,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Piechegoucun",
+    "gn:country_code":"CN",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11244330,
+    "gn:latitude":36.2011,
+    "gn:longitude":120.04245,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Piechegoucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6487\u8f66\u6c9f\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11244330
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5786d796e53624501568b6dff8d2ea3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209063659
+        }
+    ],
+    "wof:id":1209063659,
+    "wof:lastmodified":1537615977,
+    "wof:name":"Piechegoucun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.04245,
+    36.2011,
+    120.04245,
+    36.2011
+],
+  "geometry": {"coordinates":[120.04245,36.2011],"type":"Point"}
+}

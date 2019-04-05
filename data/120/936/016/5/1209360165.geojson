@@ -1,0 +1,64 @@
+{
+  "id": 1209360165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.644,28.9981,105.644,28.9981",
+    "geom:latitude":28.9981,
+    "geom:longitude":105.644,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Malin",
+    "gn:country_code":"CN",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10185497,
+    "gn:latitude":28.9981,
+    "gn:longitude":105.644,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Malin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9a6c\u6797"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10185497
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9d22a87d40869d5a62081903b14b3ed6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209360165
+        }
+    ],
+    "wof:id":1209360165,
+    "wof:lastmodified":1537610989,
+    "wof:name":"Malin",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.644,
+    28.9981,
+    105.644,
+    28.9981
+],
+  "geometry": {"coordinates":[105.64400000000001,28.9981],"type":"Point"}
+}

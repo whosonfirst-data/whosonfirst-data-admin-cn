@@ -1,0 +1,64 @@
+{
+  "id": 1209302045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.49802,24.98325,111.49802,24.98325",
+    "geom:latitude":24.98325,
+    "geom:longitude":111.49802,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bagan",
+    "gn:country_code":"CN",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10356010,
+    "gn:latitude":24.98325,
+    "gn:longitude":111.49802,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Bagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u62d4\u5e72"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10356010
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c2d840f2c36a5db5c9aff468481ee48a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209302045
+        }
+    ],
+    "wof:id":1209302045,
+    "wof:lastmodified":1537612425,
+    "wof:name":"Bagan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.49802,
+    24.98325,
+    111.49802,
+    24.98325
+],
+  "geometry": {"coordinates":[111.49802,24.98325],"type":"Point"}
+}

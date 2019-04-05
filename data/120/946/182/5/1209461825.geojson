@@ -1,0 +1,64 @@
+{
+  "id": 1209461825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.856,27.4806,99.856,27.4806",
+    "geom:latitude":27.4806,
+    "geom:longitude":99.856,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Zhite",
+    "gn:country_code":"CN",
+    "gn:dem":3226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10139483,
+    "gn:latitude":27.4806,
+    "gn:longitude":99.856,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Zhite",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u652f\u7279"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10139483
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"84a36041b0b974e340be0aa2f5474a14",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209461825
+        }
+    ],
+    "wof:id":1209461825,
+    "wof:lastmodified":1537610142,
+    "wof:name":"Zhite",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.856,
+    27.4806,
+    99.856,
+    27.4806
+],
+  "geometry": {"coordinates":[99.85599999999999,27.4806],"type":"Point"}
+}

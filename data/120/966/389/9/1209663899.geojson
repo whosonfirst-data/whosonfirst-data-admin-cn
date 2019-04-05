@@ -1,0 +1,64 @@
+{
+  "id": 1209663899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.07743,31.46709,109.07743,31.46709",
+    "geom:latitude":31.46709,
+    "geom:longitude":109.07743,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Dongqiao",
+    "gn:country_code":"CN",
+    "gn:dem":916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8398069,
+    "gn:latitude":31.46709,
+    "gn:longitude":109.07743,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Dongqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e1c\u6865"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8398069
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"679806b5fa8aad382095ea68f0f9a272",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209663899
+        }
+    ],
+    "wof:id":1209663899,
+    "wof:lastmodified":1537603252,
+    "wof:name":"Dongqiao",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.07743,
+    31.46709,
+    109.07743,
+    31.46709
+],
+  "geometry": {"coordinates":[109.07743000000001,31.46709],"type":"Point"}
+}

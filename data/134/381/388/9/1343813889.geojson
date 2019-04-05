@@ -1,0 +1,77 @@
+{
+  "id": 1343813889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.41865,36.97769,111.41865,36.97769",
+    "geom:latitude":36.97769,
+    "geom:longitude":111.41865,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Tansuo",
+    "gn:country_code":"CN",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1793233,
+    "gn:latitude":36.97769,
+    "gn:longitude":111.41865,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Tansuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u2019an-su-ts\u2019un",
+        "Tansu",
+        "Tansuo"
+    ],
+    "name:zho_x_preferred":[
+        "\u575b\u7d22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        1108732379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1793233
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"63ab1e5ee31f36b8d431000aa221ae87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732379,
+            "empire_id":136253041,
+            "locality_id":1343813889,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1343813889,
+    "wof:lastmodified":1537592516,
+    "wof:name":"Tansuo",
+    "wof:parent_id":1108732379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.41865,
+    36.97769,
+    111.41865,
+    36.97769
+],
+  "geometry": {"coordinates":[111.41865,36.97769],"type":"Point"}
+}

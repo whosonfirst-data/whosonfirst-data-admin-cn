@@ -1,0 +1,77 @@
+{
+  "id": 1226247973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.68488,33.94287,118.68488,33.94287",
+    "geom:latitude":33.94287,
+    "geom:longitude":118.68488,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nixucun",
+    "gn:country_code":"CN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1898017,
+    "gn:latitude":33.94287,
+    "gn:longitude":118.68488,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Nixucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ni-y\u00fc",
+        "Niwei",
+        "Nixucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u502a\u5729\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890512205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1898017
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f5ce9a75b3abb75b5da17429c915752e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512205,
+            "empire_id":136253041,
+            "locality_id":1226247973,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1226247973,
+    "wof:lastmodified":1537594417,
+    "wof:name":"Nixucun",
+    "wof:parent_id":890512205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.68488,
+    33.94287,
+    118.68488,
+    33.94287
+],
+  "geometry": {"coordinates":[118.68488000000001,33.94287],"type":"Point"}
+}

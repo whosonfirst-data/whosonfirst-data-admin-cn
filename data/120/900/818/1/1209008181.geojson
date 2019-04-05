@@ -1,0 +1,64 @@
+{
+  "id": 1209008181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.90469,31.3921,117.90469,31.3921",
+    "geom:latitude":31.3921,
+    "geom:longitude":117.90469,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hezuocun",
+    "gn:country_code":"CN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10636074,
+    "gn:latitude":31.3921,
+    "gn:longitude":117.90469,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Hezuocun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5408\u4f5c\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10636074
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"74704ec4d1f7a211f6b5d3da9d547c2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209008181
+        }
+    ],
+    "wof:id":1209008181,
+    "wof:lastmodified":1537613863,
+    "wof:name":"Hezuocun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.90469,
+    31.3921,
+    117.90469,
+    31.3921
+],
+  "geometry": {"coordinates":[117.90469,31.3921],"type":"Point"}
+}

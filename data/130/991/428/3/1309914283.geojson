@@ -1,0 +1,77 @@
+{
+  "id": 1309914283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.66229,27.83752,120.66229,27.83752",
+    "geom:latitude":27.83752,
+    "geom:longitude":120.66229,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Libeiyangcun",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1893143,
+    "gn:latitude":27.83752,
+    "gn:longitude":120.66229,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Libeiyangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Li-pei-yang",
+        "Libeiyang",
+        "Libeiyangcun"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u5317\u579f\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890514289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1893143
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1221dffdb67bb213398196d0a0d0e224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514289,
+            "empire_id":136253041,
+            "locality_id":1309914283,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1309914283,
+    "wof:lastmodified":1537594293,
+    "wof:name":"Libeiyangcun",
+    "wof:parent_id":890514289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.66228999999998,
+    27.83752,
+    120.66228999999998,
+    27.83752
+],
+  "geometry": {"coordinates":[120.66228999999998,27.83752],"type":"Point"}
+}

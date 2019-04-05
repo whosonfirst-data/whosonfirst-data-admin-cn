@@ -1,0 +1,64 @@
+{
+  "id": 1209565185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.99545,23.66135,116.99545,23.66135",
+    "geom:latitude":23.66135,
+    "geom:longitude":116.99545,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Qianpu",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6683337,
+    "gn:latitude":23.66135,
+    "gn:longitude":116.99545,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Qianpu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u524d\u57d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6683337
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fc323a5445d046abec42a4e1354c5b81",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209565185
+        }
+    ],
+    "wof:id":1209565185,
+    "wof:lastmodified":1537596200,
+    "wof:name":"Qianpu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.99545,
+    23.66135,
+    116.99545,
+    23.66135
+],
+  "geometry": {"coordinates":[116.99545000000001,23.66135],"type":"Point"}
+}

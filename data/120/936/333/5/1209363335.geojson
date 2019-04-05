@@ -1,0 +1,64 @@
+{
+  "id": 1209363335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.69043,31.52111,108.69043,31.52111",
+    "geom:latitude":31.52111,
+    "geom:longitude":108.69043,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Fuping",
+    "gn:country_code":"CN",
+    "gn:dem":1678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8400401,
+    "gn:latitude":31.52111,
+    "gn:longitude":108.69043,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Fuping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u590d\u576a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8400401
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a22bb6794584e9f2cbf58c7cd5d80cdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209363335
+        }
+    ],
+    "wof:id":1209363335,
+    "wof:lastmodified":1537603330,
+    "wof:name":"Fuping",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.69043,
+    31.52111,
+    108.69043,
+    31.52111
+],
+  "geometry": {"coordinates":[108.69043000000001,31.52111],"type":"Point"}
+}

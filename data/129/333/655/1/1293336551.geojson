@@ -1,0 +1,77 @@
+{
+  "id": 1293336551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.22213,23.03318,113.22213,23.03318",
+    "geom:latitude":23.03318,
+    "geom:longitude":113.22213,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Dafang",
+    "gn:country_code":"CN",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1808726,
+    "gn:latitude":23.03318,
+    "gn:longitude":113.22213,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dafang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ho-tung",
+        "Hedong",
+        "Dafang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u65b9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890513089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1808726
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3d037481b59f6545e5031ef9c8b9f893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513089,
+            "empire_id":136253041,
+            "locality_id":1293336551,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1293336551,
+    "wof:lastmodified":1537593524,
+    "wof:name":"Dafang",
+    "wof:parent_id":890513089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.22213,
+    23.03318,
+    113.22213,
+    23.03318
+],
+  "geometry": {"coordinates":[113.22213000000001,23.03318],"type":"Point"}
+}

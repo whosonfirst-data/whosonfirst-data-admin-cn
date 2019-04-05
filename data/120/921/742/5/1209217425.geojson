@@ -1,0 +1,64 @@
+{
+  "id": 1209217425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.2171,28.8879,119.2171,28.8879",
+    "geom:latitude":28.8879,
+    "geom:longitude":119.2171,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Wukou",
+    "gn:country_code":"CN",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11146955,
+    "gn:latitude":28.8879,
+    "gn:longitude":119.2171,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Wukou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u575e\u53e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11146955
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0faa71e9614d181d48955b08de73f4f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209217425
+        }
+    ],
+    "wof:id":1209217425,
+    "wof:lastmodified":1537615579,
+    "wof:name":"Wukou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.2171,
+    28.8879,
+    119.2171,
+    28.8879
+],
+  "geometry": {"coordinates":[119.2171,28.8879],"type":"Point"}
+}

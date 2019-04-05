@@ -1,0 +1,75 @@
+{
+  "id": 1243005733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.93036,31.72249,120.93036,31.72249",
+    "geom:latitude":31.72249,
+    "geom:longitude":120.93036,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bixi",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1816317,
+    "gn:latitude":31.72249,
+    "gn:longitude":120.93036,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bixi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pi-ch\u2019i-shih",
+        "Bixishi",
+        "Pi-hsi-shih",
+        "Bixi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1816317
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"408e9a076eb27fdeaf2f302a2c309273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515879,
+            "empire_id":136253041,
+            "locality_id":1243005733,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1243005733,
+    "wof:lastmodified":1537593999,
+    "wof:name":"Bixi",
+    "wof:parent_id":890515879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.93036,
+    31.72249,
+    120.93036,
+    31.72249
+],
+  "geometry": {"coordinates":[120.93035999999999,31.72249],"type":"Point"}
+}

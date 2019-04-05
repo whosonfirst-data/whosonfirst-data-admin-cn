@@ -1,0 +1,64 @@
+{
+  "id": 1209660797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.998,30.7336,100.998,30.7336",
+    "geom:latitude":30.7336,
+    "geom:longitude":100.998,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Zedu",
+    "gn:country_code":"CN",
+    "gn:dem":3456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10200094,
+    "gn:latitude":30.7336,
+    "gn:longitude":100.998,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Zedu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5219\u90fd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10200094
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fbd8f955237bea8c11db40f37821114d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209660797
+        }
+    ],
+    "wof:id":1209660797,
+    "wof:lastmodified":1537611284,
+    "wof:name":"Zedu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.998,
+    30.7336,
+    100.998,
+    30.7336
+],
+  "geometry": {"coordinates":[100.998,30.7336],"type":"Point"}
+}

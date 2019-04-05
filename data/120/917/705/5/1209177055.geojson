@@ -1,0 +1,66 @@
+{
+  "id": 1209177055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.08333,25.85,108.08333,25.85",
+    "geom:latitude":25.85,
+    "geom:longitude":108.08333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Bajie",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1817168,
+    "gn:latitude":25.85,
+    "gn:longitude":108.08333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bajie",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pa-chieh",
+        "Bajie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1817168
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a8c4e3709ce80af65ee205e894aad50e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209177055
+        }
+    ],
+    "wof:id":1209177055,
+    "wof:lastmodified":1537594053,
+    "wof:name":"Bajie",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.08333,
+    25.85,
+    108.08333,
+    25.85
+],
+  "geometry": {"coordinates":[108.08333,25.85],"type":"Point"}
+}

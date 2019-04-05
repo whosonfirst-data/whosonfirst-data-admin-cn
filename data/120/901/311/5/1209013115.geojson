@@ -1,0 +1,66 @@
+{
+  "id": 1209013115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.24333,30.70417,121.24333,30.70417",
+    "geom:latitude":30.70417,
+    "geom:longitude":121.24333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Panjiaxu",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1896776,
+    "gn:latitude":30.70417,
+    "gn:longitude":121.24333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Panjiaxu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u2019an-chia-tang",
+        "Panjiaxu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896776
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"275569f571fc190159f1eb912533550f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209013115
+        }
+    ],
+    "wof:id":1209013115,
+    "wof:lastmodified":1537594371,
+    "wof:name":"Panjiaxu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.24333,
+    30.70417,
+    121.24333,
+    30.70417
+],
+  "geometry": {"coordinates":[121.24333,30.70417],"type":"Point"}
+}

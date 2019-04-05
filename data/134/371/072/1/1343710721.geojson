@@ -1,0 +1,72 @@
+{
+  "id": 1343710721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.41,32.571,105.41,32.571",
+    "geom:latitude":32.571,
+    "geom:longitude":105.41,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Zhongyuan",
+    "gn:country_code":"CN",
+    "gn:dem":785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10148966,
+    "gn:latitude":32.571,
+    "gn:longitude":105.41,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Zhongyuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e2d\u5143"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890512741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10148966
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"884d599098cdf3650ab05f41421074bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512741,
+            "empire_id":136253041,
+            "locality_id":1343710721,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1343710721,
+    "wof:lastmodified":1537610402,
+    "wof:name":"Zhongyuan",
+    "wof:parent_id":890512741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.41,
+    32.571,
+    105.41,
+    32.571
+],
+  "geometry": {"coordinates":[105.41,32.571],"type":"Point"}
+}

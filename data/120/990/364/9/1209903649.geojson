@@ -1,0 +1,78 @@
+{
+  "id": 1209903649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.73363,28.8072,109.73363,28.8072",
+    "geom:latitude":28.8072,
+    "geom:longitude":109.73363,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Baiyang",
+    "gn:country_code":"CN",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1928635,
+    "gn:latitude":28.8072,
+    "gn:longitude":109.73363,
+    "gn:modification_date":"2013-05-09",
+    "gn:name":"Baiyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baiyang Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u67cf\u6768"
+    ],
+    "name:zho_x_variant":[
+        "\u67cf\u6768\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        1108794059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1928635
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c06f139cf4fc27d3cd24c919b6a6ce0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794059,
+            "empire_id":136253041,
+            "locality_id":1209903649,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1209903649,
+    "wof:lastmodified":1537594992,
+    "wof:name":"Baiyang",
+    "wof:parent_id":1108794059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.73363,
+    28.8072,
+    109.73363,
+    28.8072
+],
+  "geometry": {"coordinates":[109.73363000000001,28.8072],"type":"Point"}
+}

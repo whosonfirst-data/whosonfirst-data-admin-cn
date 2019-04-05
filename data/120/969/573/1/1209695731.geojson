@@ -1,0 +1,64 @@
+{
+  "id": 1209695731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.19324,31.57096,113.19324,31.57096",
+    "geom:latitude":31.57096,
+    "geom:longitude":113.19324,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Hujiafan",
+    "gn:country_code":"CN",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7653326,
+    "gn:latitude":31.57096,
+    "gn:longitude":113.19324,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Hujiafan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u80e1\u5bb6\u7548"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7653326
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2e6237275846822fd2b4fcf74388b774",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209695731
+        }
+    ],
+    "wof:id":1209695731,
+    "wof:lastmodified":1537600633,
+    "wof:name":"Hujiafan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.19324,
+    31.57096,
+    113.19324,
+    31.57096
+],
+  "geometry": {"coordinates":[113.19324,31.57096],"type":"Point"}
+}

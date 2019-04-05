@@ -1,0 +1,77 @@
+{
+  "id": 1260263995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.49278,25.41444,111.49278,25.41444",
+    "geom:latitude":25.41444,
+    "geom:longitude":111.49278,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Xinche",
+    "gn:country_code":"CN",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":6422373,
+    "gn:latitude":25.41444,
+    "gn:longitude":111.49278,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Xinche",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xinche Xiang",
+        "\u65b0\u8f66\u4e61",
+        "Xinche"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u8f66"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890515001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6422373
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6a3bdb0aa4318b5f752048f7c1a8ad37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515001,
+            "empire_id":136253041,
+            "locality_id":1260263995,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1260263995,
+    "wof:lastmodified":1537596042,
+    "wof:name":"Xinche",
+    "wof:parent_id":890515001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.49278,
+    25.41444,
+    111.49278,
+    25.41444
+],
+  "geometry": {"coordinates":[111.49278,25.41444],"type":"Point"}
+}

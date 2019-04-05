@@ -1,0 +1,93 @@
+{
+  "id": 1125273243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.71806,30.23583,119.71806,30.23583",
+    "geom:latitude":30.23583,
+    "geom:longitude":119.71806,
+    "gn:gn_country":"CN",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"CN",
+    "lbl:latitude":30.23583,
+    "lbl:longitude":119.71806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Lin-an-hsien"
+    ],
+    "qs_pg:aaroncc":"CN",
+    "qs_pg:gn_country":"CN",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":1803594,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"\u4e34\u5b89\u5e02",
+    "qs_pg:name_adm0":"\u4e2d\u570b",
+    "qs_pg:name_adm1":"\u6d59\u6c5f\u7701",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":175,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1059693,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424781,
+    "qs_pg:woe_id":12685416,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424781,
+    "woe:name_adm0":"\u4e2d\u570b",
+    "woe:name_adm1":"\u6d59\u6c5f\u7701",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1803594,
+        "gp:id":12685416,
+        "qs_pg:id":1059693
+    },
+    "wof:country":"CN",
+    "wof:created":1497042217,
+    "wof:geomhash":"d5728955940ceca16723e1e354c156e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516555,
+            "empire_id":136253041,
+            "localadmin_id":1125273243,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1125273243,
+    "wof:lastmodified":1509387086,
+    "wof:name":"\u4e34\u5b89\u5e02",
+    "wof:parent_id":890516555,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.71806,
+    30.23583,
+    119.71806,
+    30.23583
+],
+  "geometry": {"coordinates":[119.71805999999999,30.23583],"type":"Point"}
+}

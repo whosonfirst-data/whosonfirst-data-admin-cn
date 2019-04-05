@@ -1,0 +1,78 @@
+{
+  "id": 1276240543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.32278,28.55889,121.32278,28.55889",
+    "geom:latitude":28.55889,
+    "geom:longitude":121.32278,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Luoyang",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1897604,
+    "gn:latitude":28.55889,
+    "gn:longitude":121.32278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Luoyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u044f\u043d"
+    ],
+    "name:und_x_variant":[
+        "Lo-yang-shih",
+        "Luoyang",
+        "\u87ba\u6d0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890515633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1897604
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"233324da97cc1adc6df2133e3d7ebec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515633,
+            "empire_id":136253041,
+            "locality_id":1276240543,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1276240543,
+    "wof:lastmodified":1537594391,
+    "wof:name":"Luoyang",
+    "wof:parent_id":890515633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.32278,
+    28.55889,
+    121.32278,
+    28.55889
+],
+  "geometry": {"coordinates":[121.32277999999999,28.55889],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1209899389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.7,30.3,90.7,30.3",
+    "geom:latitude":30.3,
+    "geom:longitude":90.7,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Doiling",
+    "gn:country_code":"CN",
+    "gn:dem":4701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8537587,
+    "gn:latitude":30.3,
+    "gn:longitude":90.7,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Doiling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Doiling"
+    ],
+    "name:und_x_variant":[
+        "Duiling"
+    ],
+    "name:zho_x_preferred":[
+        "\u5806\u7075"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537587
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ab9311f4647e6af41c34998317434fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515877,
+            "empire_id":136253041,
+            "locality_id":1209899389,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1209899389,
+    "wof:lastmodified":1537604357,
+    "wof:name":"Doiling",
+    "wof:parent_id":890515877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.7,
+    30.3,
+    90.7,
+    30.3
+],
+  "geometry": {"coordinates":[90.7,30.3],"type":"Point"}
+}

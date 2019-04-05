@@ -1,0 +1,78 @@
+{
+  "id": 1343245291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.66497,30.1573,98.66497,30.1573",
+    "geom:latitude":30.1573,
+    "geom:longitude":98.66497,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dagra",
+    "gn:country_code":"CN",
+    "gn:dem":3861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":7929804,
+    "gn:latitude":30.1573,
+    "gn:longitude":98.66497,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Dagra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Dagra"
+    ],
+    "name:zho_x_preferred":[
+        "Dala"
+    ],
+    "name:zho_x_variant":[
+        "\u8fbe\u62c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7929804
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fe3aa5dc82dc4b38949e0ea135e8e383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1343245291,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1343245291,
+    "wof:lastmodified":1537602061,
+    "wof:name":"Dagra",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.66497,
+    30.1573,
+    98.66497,
+    30.1573
+],
+  "geometry": {"coordinates":[98.66497,30.1573],"type":"Point"}
+}

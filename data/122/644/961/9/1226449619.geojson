@@ -1,0 +1,76 @@
+{
+  "id": 1226449619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.68594,29.22126,117.68594,29.22126",
+    "geom:latitude":29.22126,
+    "geom:longitude":117.68594,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zhongyun",
+    "gn:country_code":"CN",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1784217,
+    "gn:latitude":29.22126,
+    "gn:longitude":117.68594,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhongyun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chung-y\u00fcn",
+        "Zhongyun",
+        "\u4e2d\u4e91",
+        "Zhongyun Zhen",
+        "\u4e2d\u4e91\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669823,
+        102191569,
+        85632695,
+        136253041,
+        890515869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1784217
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"279e1b5c8b3039dceee5fa26343950fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515869,
+            "empire_id":136253041,
+            "locality_id":1226449619,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":1226449619,
+    "wof:lastmodified":1537591910,
+    "wof:name":"Zhongyun",
+    "wof:parent_id":890515869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.68594,
+    29.22126,
+    117.68594,
+    29.22126
+],
+  "geometry": {"coordinates":[117.68594,29.22126],"type":"Point"}
+}

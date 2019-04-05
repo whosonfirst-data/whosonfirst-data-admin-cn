@@ -1,0 +1,64 @@
+{
+  "id": 1209284509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.324,35.0575,103.324,35.0575",
+    "geom:latitude":35.0575,
+    "geom:longitude":103.324,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Jiale",
+    "gn:country_code":"CN",
+    "gn:dem":3402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7446481,
+    "gn:latitude":35.0575,
+    "gn:longitude":103.324,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"Jiale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u52a0\u52d2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7446481
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bc68e2c103526351b3c383a65bc9f98d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209284509
+        }
+    ],
+    "wof:id":1209284509,
+    "wof:lastmodified":1537599180,
+    "wof:name":"Jiale",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.324,
+    35.0575,
+    103.324,
+    35.0575
+],
+  "geometry": {"coordinates":[103.324,35.0575],"type":"Point"}
+}

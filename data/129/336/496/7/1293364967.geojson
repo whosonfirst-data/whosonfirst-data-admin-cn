@@ -1,0 +1,75 @@
+{
+  "id": 1293364967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.32204,40.47846,123.32204,40.47846",
+    "geom:latitude":40.47846,
+    "geom:longitude":123.32204,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shizuigou",
+    "gn:country_code":"CN",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7404341,
+    "gn:latitude":40.47846,
+    "gn:longitude":123.32204,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shizuigou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u77f3\u5480\u6c9f"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u5480\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7404341
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d50fa1d93509740e92d01edc33a4829a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514231,
+            "empire_id":136253041,
+            "locality_id":1293364967,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1293364967,
+    "wof:lastmodified":1537598909,
+    "wof:name":"Shizuigou",
+    "wof:parent_id":890514231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.32204,
+    40.47846,
+    123.32204,
+    40.47846
+],
+  "geometry": {"coordinates":[123.32204,40.47846],"type":"Point"}
+}

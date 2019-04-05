@@ -1,0 +1,75 @@
+{
+  "id": 1343285537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.77721,31.03515,120.77721,31.03515",
+    "geom:latitude":31.03515,
+    "geom:longitude":120.77721,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dongzhuangtou",
+    "gn:country_code":"CN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7332344,
+    "gn:latitude":31.03515,
+    "gn:longitude":120.77721,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dongzhuangtou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e1c\u5e84\u5934"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u5e84\u5934"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7332344
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a09d5d0dce742f7fdaf61870a090d3ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515879,
+            "empire_id":136253041,
+            "locality_id":1343285537,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1343285537,
+    "wof:lastmodified":1537598088,
+    "wof:name":"Dongzhuangtou",
+    "wof:parent_id":890515879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.77721,
+    31.03515,
+    120.77721,
+    31.03515
+],
+  "geometry": {"coordinates":[120.77721,31.03515],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1209701827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.38376,43.24727,88.38376,43.24727",
+    "geom:latitude":43.24727,
+    "geom:longitude":88.38376,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hougou",
+    "gn:country_code":"CN",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1529455,
+    "gn:latitude":43.24727,
+    "gn:longitude":88.38376,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Hougou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hou-kou",
+        "Hu-ku",
+        "Khugu",
+        "Hougou"
+    ],
+    "name:zho_x_preferred":[
+        "\u540e\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669753,
+        102191569,
+        85632695,
+        136253041,
+        890516251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1529455
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"19e2e67127034b8ff070d1c328765739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516251,
+            "empire_id":136253041,
+            "locality_id":1209701827,
+            "region_id":85669753
+        }
+    ],
+    "wof:id":1209701827,
+    "wof:lastmodified":1537591600,
+    "wof:name":"Hougou",
+    "wof:parent_id":890516251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.38376,
+    43.24727,
+    88.38376,
+    43.24727
+],
+  "geometry": {"coordinates":[88.38376,43.24727],"type":"Point"}
+}

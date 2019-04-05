@@ -1,0 +1,64 @@
+{
+  "id": 1209580935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.64579,40.09969,123.64579,40.09969",
+    "geom:latitude":40.09969,
+    "geom:longitude":123.64579,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Dachaigoucun",
+    "gn:country_code":"CN",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11566188,
+    "gn:latitude":40.09969,
+    "gn:longitude":123.64579,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Dachaigoucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u67f4\u6c9f\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11566188
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8f1f0be956c7b72b35edcd2c1f0fb619",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209580935
+        }
+    ],
+    "wof:id":1209580935,
+    "wof:lastmodified":1537617697,
+    "wof:name":"Dachaigoucun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.64579,
+    40.09969,
+    123.64579,
+    40.09969
+],
+  "geometry": {"coordinates":[123.64579000000001,40.09969],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293166329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.42997,40.27078,120.42997,40.27078",
+    "geom:latitude":40.27078,
+    "geom:longitude":120.42997,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Xiaozhuangzi",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2033909,
+    "gn:latitude":40.27078,
+    "gn:longitude":120.42997,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Xiaozhuangzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xiaozhuangzi Zhen",
+        "Xiaozhuangzi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u5e84\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2033909
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2ac2e95de0260e7ff63f56dca2bba5a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514399,
+            "empire_id":136253041,
+            "locality_id":1293166329,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1293166329,
+    "wof:lastmodified":1537595615,
+    "wof:name":"Xiaozhuangzi",
+    "wof:parent_id":890514399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.42997,
+    40.27078,
+    120.42997,
+    40.27078
+],
+  "geometry": {"coordinates":[120.42997,40.27078],"type":"Point"}
+}

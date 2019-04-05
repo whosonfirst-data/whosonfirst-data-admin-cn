@@ -1,0 +1,64 @@
+{
+  "id": 1209519415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.60754,31.34867,118.60754,31.34867",
+    "geom:latitude":31.34867,
+    "geom:longitude":118.60754,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shencun",
+    "gn:country_code":"CN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040736,
+    "gn:latitude":31.34867,
+    "gn:longitude":118.60754,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Shencun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6c88\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040736
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5a7343f6531ac29dd2863abfb12cd7d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209519415
+        }
+    ],
+    "wof:id":1209519415,
+    "wof:lastmodified":1537597489,
+    "wof:name":"Shencun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.60754,
+    31.34867,
+    118.60754,
+    31.34867
+],
+  "geometry": {"coordinates":[118.60754,31.34867],"type":"Point"}
+}

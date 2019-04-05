@@ -1,0 +1,75 @@
+{
+  "id": 1260039273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.15016,31.77726,105.15016,31.77726",
+    "geom:latitude":31.77726,
+    "geom:longitude":105.15016,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Xuzhou",
+    "gn:country_code":"CN",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6871010,
+    "gn:latitude":31.77726,
+    "gn:longitude":105.15016,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Xuzhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u044e\u0439\u0447\u0436\u043e\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u8bb8\u5dde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890514157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6871010
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ff4792d67ed7d025144b7e4ddbd84c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514157,
+            "empire_id":136253041,
+            "locality_id":1260039273,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1260039273,
+    "wof:lastmodified":1537596556,
+    "wof:name":"Xuzhou",
+    "wof:parent_id":890514157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.15016,
+    31.77726,
+    105.15016,
+    31.77726
+],
+  "geometry": {"coordinates":[105.15016,31.77726],"type":"Point"}
+}

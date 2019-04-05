@@ -1,0 +1,100 @@
+{
+  "id": 102551035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.465277778,46.8433333333,130.465277778,46.8433333333",
+    "geom:latitude":46.843333,
+    "geom:longitude":130.465278,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u062c\u064a\u0627\u0645\u0648\u0633\u064a \u062f\u0648\u0646\u063a\u0627\u062c\u064a\u0627\u0648"
+    ],
+    "name:eus_x_preferred":[
+        "Jiamusi aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062c\u06cc\u0627\u0645\u0648\u0633\u06cc \u062f\u0646\u06af\u062c\u06cc\u0627\u0648"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e3\u30e0\u30b9\u6771\u90ca\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Jiamusi"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Jiamusi-Dongjiao"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u043d\u0446\u0437\u044f\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Jiamusi Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b7\u0438\u043e\u043c\u0443\u0441\u0438 \u0434\u043d\u0433\u04b7\u0438\u043e\u0432"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay \u0110\u00f4ng Giao Giai M\u1ed9c T\u01b0"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f73\u6728\u65af\u4e1c\u90ca\u673a\u573a"
+    ],
+    "oa:elevation_ft":"262",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":40,
+    "woe:hierarchy":{
+        "country_id":23424781,
+        "county_id":26198262,
+        "localadmin_id":12685814,
+        "planet_id":1,
+        "state_id":12577998
+    },
+    "wof:belongsto":[
+        85632695,
+        85669849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512086,
+        "iata:code":"JMU",
+        "icao:code":"ZYJM",
+        "oa:id":"27239",
+        "wd:id":"Q2661353"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d93d98a4485977e254d1bfea170d5cc1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551035,
+            "country_id":85632695,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":102551035,
+    "wof:lastmodified":1543792155,
+    "wof:name":"Jiamusi East Airport",
+    "wof:parent_id":85669849,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    130.46527777778,
+    46.843333333333,
+    130.46527777778,
+    46.843333333333
+],
+  "geometry": {"coordinates":[130.46527777777999,46.843333333333],"type":"Point"}
+}

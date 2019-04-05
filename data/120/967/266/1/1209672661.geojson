@@ -1,0 +1,64 @@
+{
+  "id": 1209672661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.403,35.515,115.403,35.515",
+    "geom:latitude":35.515,
+    "geom:longitude":115.403,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Shuangmiao",
+    "gn:country_code":"CN",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9118600,
+    "gn:latitude":35.515,
+    "gn:longitude":115.403,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Shuangmiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u53cc\u5e99"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9118600
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fd6814969bfa5ff231988c02f863d20c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209672661
+        }
+    ],
+    "wof:id":1209672661,
+    "wof:lastmodified":1537605282,
+    "wof:name":"Shuangmiao",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.403,
+    35.515,
+    115.403,
+    35.515
+],
+  "geometry": {"coordinates":[115.40300000000001,35.515],"type":"Point"}
+}

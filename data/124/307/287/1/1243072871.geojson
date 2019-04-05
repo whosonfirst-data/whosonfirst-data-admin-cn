@@ -1,0 +1,75 @@
+{
+  "id": 1243072871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.60827,31.50182,120.60827,31.50182",
+    "geom:latitude":31.50182,
+    "geom:longitude":120.60827,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Wangjiazhuang",
+    "gn:country_code":"CN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7332003,
+    "gn:latitude":31.50182,
+    "gn:longitude":120.60827,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Wangjiazhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u738b\u5bb6\u5e84"
+    ],
+    "name:zho_x_preferred":[
+        "\u738b\u5bb6\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7332003
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"349a7dc7333afa689d69eb4499765880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515879,
+            "empire_id":136253041,
+            "locality_id":1243072871,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1243072871,
+    "wof:lastmodified":1537598069,
+    "wof:name":"Wangjiazhuang",
+    "wof:parent_id":890515879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.60827,
+    31.50182,
+    120.60827,
+    31.50182
+],
+  "geometry": {"coordinates":[120.60827,31.50182],"type":"Point"}
+}

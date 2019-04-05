@@ -1,0 +1,80 @@
+{
+  "id": 890512445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.29472,27.025,109.29472,27.025",
+    "geom:latitude":27.025,
+    "geom:longitude":109.29472,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":1292,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5170\u7530\u9547"
+    ],
+    "name:eng_x_preferred":[
+        "Lantian"
+    ],
+    "name:unk_x_variant":[
+        "Lan-t\u2019ien-fang"
+    ],
+    "qs:name":"Lantian",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":152,
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        1108794067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1804452,
+        "gp:id":2147122,
+        "qs:id":136626,
+        "wd:id":"Q10893705",
+        "wk:page":"Lantian County"
+    },
+    "wof:country":"CN",
+    "wof:created":1469055770,
+    "wof:geomhash":"a2986aa00534a663858f132075390269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794067,
+            "empire_id":136253041,
+            "locality_id":890512445,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":890512445,
+    "wof:lastmodified":1553816433,
+    "wof:name":"Lantian",
+    "wof:parent_id":1108794067,
+    "wof:placetype":"locality",
+    "wof:population":1292,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.29472,
+    27.025,
+    109.29472,
+    27.025
+],
+  "geometry": {"coordinates":[109.29472,27.025],"type":"Point"}
+}

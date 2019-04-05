@@ -1,0 +1,80 @@
+{
+  "id": 1276141081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.48696,44.43013,129.48696,44.43013",
+    "geom:latitude":44.43013,
+    "geom:longitude":129.48696,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Wenchun",
+    "gn:country_code":"CN",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2034169,
+    "gn:latitude":44.43013,
+    "gn:longitude":129.48696,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Wenchun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wen-ch\u2019un-ts\u2019un",
+        "Wenchun",
+        "Wenchun Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e29\u6625"
+    ],
+    "name:zho_x_variant":[
+        "\u6e29\u6625\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890515915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2034169
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f5599fd13726de95d1a768ffc420a5d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515915,
+            "empire_id":136253041,
+            "locality_id":1276141081,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1276141081,
+    "wof:lastmodified":1537595631,
+    "wof:name":"Wenchun",
+    "wof:parent_id":890515915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.48696,
+    44.43013,
+    129.48696,
+    44.43013
+],
+  "geometry": {"coordinates":[129.48696000000001,44.43013],"type":"Point"}
+}

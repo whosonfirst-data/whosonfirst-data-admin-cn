@@ -1,0 +1,64 @@
+{
+  "id": 1209295515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.52327,25.74222,111.52327,25.74222",
+    "geom:latitude":25.74222,
+    "geom:longitude":111.52327,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Daojiangyuan",
+    "gn:country_code":"CN",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10355719,
+    "gn:latitude":25.74222,
+    "gn:longitude":111.52327,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Daojiangyuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5012\u6c5f\u6e90"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10355719
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"da4ed0f2af9b3f97c50f8ca05bbd5350",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209295515
+        }
+    ],
+    "wof:id":1209295515,
+    "wof:lastmodified":1537612415,
+    "wof:name":"Daojiangyuan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.52327,
+    25.74222,
+    111.52327,
+    25.74222
+],
+  "geometry": {"coordinates":[111.52327,25.74222],"type":"Point"}
+}

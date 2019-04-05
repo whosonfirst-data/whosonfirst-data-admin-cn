@@ -1,0 +1,81 @@
+{
+  "id": 1326503815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.403,27.803,87.403,27.803",
+    "geom:latitude":27.803,
+    "geom:longitude":87.403,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Natang",
+    "gn:country_code":"CN",
+    "gn:dem":3279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8046437,
+    "gn:latitude":27.803,
+    "gn:longitude":87.403,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Natang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Natang"
+    ],
+    "name:zho_x_preferred":[
+        "\u62ff\u5858"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8046437
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4ece033f3e3cff69bd1135f742c5d7d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1326503815,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1326503815,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1326503815,
+    "wof:lastmodified":1537602407,
+    "wof:name":"Natang",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.40299999999998,
+    27.803,
+    87.40299999999998,
+    27.803
+],
+  "geometry": {"coordinates":[87.40299999999998,27.803],"type":"Point"}
+}

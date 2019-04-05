@@ -1,0 +1,78 @@
+{
+  "id": 1326801223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.8,28.4,97.8,28.4",
+    "geom:latitude":28.4,
+    "geom:longitude":97.8,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Xogring",
+    "gn:country_code":"CN",
+    "gn:dem":4777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8059249,
+    "gn:latitude":28.4,
+    "gn:longitude":97.8,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Xogring",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Xogring"
+    ],
+    "name:zho_x_preferred":[
+        "Xueren"
+    ],
+    "name:zho_x_variant":[
+        "\u5b66\u4ec1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8059249
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"92e5ea2c6bae093eca912217cd1c64af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515951,
+            "empire_id":136253041,
+            "locality_id":1326801223,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1326801223,
+    "wof:lastmodified":1537602506,
+    "wof:name":"Xogring",
+    "wof:parent_id":890515951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.8,
+    28.4,
+    97.8,
+    28.4
+],
+  "geometry": {"coordinates":[97.8,28.4],"type":"Point"}
+}

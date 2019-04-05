@@ -1,0 +1,64 @@
+{
+  "id": 1209569303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.5735,30.5601,108.5735,30.5601",
+    "geom:latitude":30.5601,
+    "geom:longitude":108.5735,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Dagoupo",
+    "gn:country_code":"CN",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8404166,
+    "gn:latitude":30.5601,
+    "gn:longitude":108.5735,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Dagoupo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u6c9f\u5761"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8404166
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2ad8995a885341a7fc212166872e4787",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209569303
+        }
+    ],
+    "wof:id":1209569303,
+    "wof:lastmodified":1537603379,
+    "wof:name":"Dagoupo",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.5735,
+    30.5601,
+    108.5735,
+    30.5601
+],
+  "geometry": {"coordinates":[108.5735,30.5601],"type":"Point"}
+}

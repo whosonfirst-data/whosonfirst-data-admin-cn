@@ -1,0 +1,77 @@
+{
+  "id": 1344161963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.39427,31.70761,119.39427,31.70761",
+    "geom:latitude":31.70761,
+    "geom:longitude":119.39427,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Xuebu",
+    "gn:country_code":"CN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":6957982,
+    "gn:latitude":31.70761,
+    "gn:longitude":119.39427,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Xuebu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xuebu Zhen",
+        "\u859b\u57e0\u9547",
+        "Xuebu"
+    ],
+    "name:zho_x_preferred":[
+        "\u859b\u57e0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890514735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6957982
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"568cc66b1384510c17f695f9c08834a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514735,
+            "empire_id":136253041,
+            "locality_id":1344161963,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1344161963,
+    "wof:lastmodified":1537596878,
+    "wof:name":"Xuebu",
+    "wof:parent_id":890514735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.39427,
+    31.70761,
+    119.39427,
+    31.70761
+],
+  "geometry": {"coordinates":[119.39427000000001,31.70761],"type":"Point"}
+}

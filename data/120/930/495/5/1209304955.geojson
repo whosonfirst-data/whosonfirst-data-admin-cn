@@ -1,0 +1,64 @@
+{
+  "id": 1209304955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.84049,52.07814,125.84049,52.07814",
+    "geom:latitude":52.07814,
+    "geom:longitude":125.84049,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Dalahan",
+    "gn:country_code":"CN",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472156,
+    "gn:latitude":52.07814,
+    "gn:longitude":125.84049,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Dalahan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8fbe\u62c9\u7f55"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472156
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f1c346ab14c96097cd68caaca4cbface",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209304955
+        }
+    ],
+    "wof:id":1209304955,
+    "wof:lastmodified":1537603881,
+    "wof:name":"Dalahan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.84049,
+    52.07814000000001,
+    125.84049,
+    52.07814000000001
+],
+  "geometry": {"coordinates":[125.84049,52.07814000000001],"type":"Point"}
+}

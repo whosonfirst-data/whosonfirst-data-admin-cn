@@ -1,0 +1,64 @@
+{
+  "id": 1209361669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.726,23.5975,100.726,23.5975",
+    "geom:latitude":23.5975,
+    "geom:longitude":100.726,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Hejia",
+    "gn:country_code":"CN",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9924597,
+    "gn:latitude":23.5975,
+    "gn:longitude":100.726,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Hejia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4f55\u5bb6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9924597
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c9c652ea5aa19a9aa3d15aa8a9854974",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209361669
+        }
+    ],
+    "wof:id":1209361669,
+    "wof:lastmodified":1537607461,
+    "wof:name":"Hejia",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.726,
+    23.5975,
+    100.726,
+    23.5975
+],
+  "geometry": {"coordinates":[100.726,23.5975],"type":"Point"}
+}

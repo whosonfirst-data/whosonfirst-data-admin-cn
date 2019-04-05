@@ -1,0 +1,64 @@
+{
+  "id": 1209508727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.56259,25.61241,117.56259,25.61241",
+    "geom:latitude":25.61241,
+    "geom:longitude":117.56259,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Liuchun",
+    "gn:country_code":"CN",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10961838,
+    "gn:latitude":25.61241,
+    "gn:longitude":117.56259,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Liuchun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7559\u6625"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10961838
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e017ec65776d23302d5eace7ea2094c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209508727
+        }
+    ],
+    "wof:id":1209508727,
+    "wof:lastmodified":1537614981,
+    "wof:name":"Liuchun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.56259,
+    25.61241,
+    117.56259,
+    25.61241
+],
+  "geometry": {"coordinates":[117.56259,25.61241],"type":"Point"}
+}

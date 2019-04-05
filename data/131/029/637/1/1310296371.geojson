@@ -1,0 +1,79 @@
+{
+  "id": 1310296371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.96425,25.10972,117.96425,25.10972",
+    "geom:latitude":25.10972,
+    "geom:longitude":117.96425,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Shangqing",
+    "gn:country_code":"CN",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2006019,
+    "gn:latitude":25.10972,
+    "gn:longitude":117.96425,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Shangqing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hanqing",
+        "Shangqing"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c1a\u537f"
+    ],
+    "name:zho_x_variant":[
+        "\u7ff0\u537f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890514127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2006019
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ac428458bfd420835a8c4eb522eb6af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514127,
+            "empire_id":136253041,
+            "locality_id":1310296371,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1310296371,
+    "wof:lastmodified":1537595541,
+    "wof:name":"Shangqing",
+    "wof:parent_id":890514127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.96425,
+    25.10972000000001,
+    117.96425,
+    25.10972000000001
+],
+  "geometry": {"coordinates":[117.96425000000001,25.10972000000001],"type":"Point"}
+}

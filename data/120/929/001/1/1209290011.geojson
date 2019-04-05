@@ -1,0 +1,64 @@
+{
+  "id": 1209290011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.519,25.6575,105.519,25.6575",
+    "geom:latitude":25.6575,
+    "geom:longitude":105.519,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Acang",
+    "gn:country_code":"CN",
+    "gn:dem":1162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10004250,
+    "gn:latitude":25.6575,
+    "gn:longitude":105.519,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Acang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u963f\u85cf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10004250
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"414236320f8b4784a977fa52b215e282",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209290011
+        }
+    ],
+    "wof:id":1209290011,
+    "wof:lastmodified":1537608729,
+    "wof:name":"Acang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.519,
+    25.6575,
+    105.519,
+    25.6575
+],
+  "geometry": {"coordinates":[105.51900000000001,25.6575],"type":"Point"}
+}

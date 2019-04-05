@@ -1,0 +1,76 @@
+{
+  "id": 1293242313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.97782,23.73535,112.97782,23.73535",
+    "geom:latitude":23.73535,
+    "geom:longitude":112.97782,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Taihe",
+    "gn:country_code":"CN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":6647609,
+    "gn:latitude":23.73535,
+    "gn:longitude":112.97782,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Taihe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taihe Zhen",
+        "\u592a\u548c\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u592a\u548c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890513267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647609
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d134f1795e2a9d116a3cd2c81cfb38d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513267,
+            "empire_id":136253041,
+            "locality_id":1293242313,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1293242313,
+    "wof:lastmodified":1537596080,
+    "wof:name":"Taihe",
+    "wof:parent_id":890513267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.97782,
+    23.73535,
+    112.97782,
+    23.73535
+],
+  "geometry": {"coordinates":[112.97781999999999,23.73535],"type":"Point"}
+}

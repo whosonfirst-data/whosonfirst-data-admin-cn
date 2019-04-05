@@ -1,0 +1,76 @@
+{
+  "id": 1243165463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.9275,39.30722,115.9275,39.30722",
+    "geom:latitude":39.30722,
+    "geom:longitude":115.9275,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Qianjiazhuang",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1798310,
+    "gn:latitude":39.30722,
+    "gn:longitude":115.9275,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Qianjiazhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019ien-chia-chen",
+        "Ch\u2019ien-chia-chuang",
+        "Ch\u2019ien-chia-ying",
+        "Qianjiazhuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669797,
+        102191569,
+        85632695,
+        136253041,
+        890513095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1798310
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"409227e2abb5f1a56a5c6ef1de564088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513095,
+            "empire_id":136253041,
+            "locality_id":1243165463,
+            "region_id":85669797
+        }
+    ],
+    "wof:id":1243165463,
+    "wof:lastmodified":1537592867,
+    "wof:name":"Qianjiazhuang",
+    "wof:parent_id":890513095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.9275,
+    39.30722,
+    115.9275,
+    39.30722
+],
+  "geometry": {"coordinates":[115.92749999999999,39.30722],"type":"Point"}
+}

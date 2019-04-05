@@ -1,0 +1,64 @@
+{
+  "id": 1209585103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.038,24.5242,107.038,24.5242",
+    "geom:latitude":24.5242,
+    "geom:longitude":107.038,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hengli",
+    "gn:country_code":"CN",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9925466,
+    "gn:latitude":24.5242,
+    "gn:longitude":107.038,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Hengli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6052\u91cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9925466
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ac7fe071c69053f6d403a1dc73bf4dbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209585103
+        }
+    ],
+    "wof:id":1209585103,
+    "wof:lastmodified":1537607490,
+    "wof:name":"Hengli",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.038,
+    24.5242,
+    107.038,
+    24.5242
+],
+  "geometry": {"coordinates":[107.038,24.5242],"type":"Point"}
+}

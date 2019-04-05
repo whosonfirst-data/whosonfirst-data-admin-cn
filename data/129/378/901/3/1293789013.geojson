@@ -1,0 +1,76 @@
+{
+  "id": 1293789013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.7727,32.11444,118.7727,32.11444",
+    "geom:latitude":32.11444,
+    "geom:longitude":118.7727,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mufushan",
+    "gn:country_code":"CN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":7502688,
+    "gn:latitude":32.11444,
+    "gn:longitude":118.7727,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mufushan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5e55\u5e9c\u5c71",
+        "Mufushan Jiedao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e55\u5e9c\u5c71\u8857\u9053"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7502688
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"60ab9ec13f52870860f06b30d6c7325b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516425,
+            "empire_id":136253041,
+            "locality_id":1293789013,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1293789013,
+    "wof:lastmodified":1537599415,
+    "wof:name":"Mufushan",
+    "wof:parent_id":890516425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.7727,
+    32.11444,
+    118.7727,
+    32.11444
+],
+  "geometry": {"coordinates":[118.7727,32.11444],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1310397001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.46599,25.11986,118.46599,25.11986",
+    "geom:latitude":25.11986,
+    "geom:longitude":118.46599,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Meishan",
+    "gn:country_code":"CN",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1800821,
+    "gn:latitude":25.11986,
+    "gn:longitude":118.46599,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Meishan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meinuzuoji",
+        "Meishan",
+        "Meishan Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "\u6885\u5c71\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890514127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1800821
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"57d5fd40b8fd852b534ca4824c8524fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514127,
+            "empire_id":136253041,
+            "locality_id":1310397001,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1310397001,
+    "wof:lastmodified":1537593011,
+    "wof:name":"Meishan",
+    "wof:parent_id":890514127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.46599,
+    25.11986,
+    118.46599,
+    25.11986
+],
+  "geometry": {"coordinates":[118.46599000000001,25.11986],"type":"Point"}
+}

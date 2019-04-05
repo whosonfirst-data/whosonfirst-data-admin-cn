@@ -1,0 +1,78 @@
+{
+  "id": 1226761087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.47861,29.75818,118.47861,29.75818",
+    "geom:latitude":29.75818,
+    "geom:longitude":118.47861,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sencun",
+    "gn:country_code":"CN",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1553364,
+    "gn:latitude":29.75818,
+    "gn:longitude":118.47861,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Sencun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sencun Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u68ee\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u68ee\u6751\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        1108732553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1553364
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6a638f517c0484e05faa058bdca8ccea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732553,
+            "empire_id":136253041,
+            "locality_id":1226761087,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1226761087,
+    "wof:lastmodified":1537591773,
+    "wof:name":"Sencun",
+    "wof:parent_id":1108732553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.47861,
+    29.75818,
+    118.47861,
+    29.75818
+],
+  "geometry": {"coordinates":[118.47861,29.75818],"type":"Point"}
+}

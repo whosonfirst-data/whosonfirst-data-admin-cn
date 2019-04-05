@@ -1,0 +1,78 @@
+{
+  "id": 1193120341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.01286,31.15137,95.01286,31.15137",
+    "geom:latitude":31.15137,
+    "geom:longitude":95.01286,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Wadi",
+    "gn:country_code":"CN",
+    "gn:dem":3897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8078226,
+    "gn:latitude":31.15137,
+    "gn:longitude":95.01286,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Wadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Ward\u00eang"
+    ],
+    "name:zho_x_preferred":[
+        "Wadi"
+    ],
+    "name:zho_x_variant":[
+        "\u74e6\u5730"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8078226
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"57e25d829c26ae8ab11a7f76081ed5e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1193120341,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1193120341,
+    "wof:lastmodified":1537602550,
+    "wof:name":"Wadi",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.01286,
+    31.15137,
+    95.01286,
+    31.15137
+],
+  "geometry": {"coordinates":[95.01286,31.15137],"type":"Point"}
+}

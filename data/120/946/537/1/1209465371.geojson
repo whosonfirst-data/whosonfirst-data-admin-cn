@@ -1,0 +1,64 @@
+{
+  "id": 1209465371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.14,23.408,102.14,23.408",
+    "geom:latitude":23.408,
+    "geom:longitude":102.14,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Shuijing",
+    "gn:country_code":"CN",
+    "gn:dem":1509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9931743,
+    "gn:latitude":23.408,
+    "gn:longitude":102.14,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Shuijing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6c34\u4e95"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9931743
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f01a02b83058c0b86a6a40bc6accaddb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209465371
+        }
+    ],
+    "wof:id":1209465371,
+    "wof:lastmodified":1537607698,
+    "wof:name":"Shuijing",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.14,
+    23.408,
+    102.14,
+    23.408
+],
+  "geometry": {"coordinates":[102.14,23.408],"type":"Point"}
+}

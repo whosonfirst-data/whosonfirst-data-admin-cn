@@ -1,0 +1,64 @@
+{
+  "id": 1209276699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.59845,40.46775,123.59845,40.46775",
+    "geom:latitude":40.46775,
+    "geom:longitude":123.59845,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Getengyu",
+    "gn:country_code":"CN",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7919449,
+    "gn:latitude":40.46775,
+    "gn:longitude":123.59845,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Getengyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u845b\u85e4\u5cea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7919449
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"837e33063d1210137a496864b19ed7cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209276699
+        }
+    ],
+    "wof:id":1209276699,
+    "wof:lastmodified":1537601934,
+    "wof:name":"Getengyu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.59845,
+    40.46775,
+    123.59845,
+    40.46775
+],
+  "geometry": {"coordinates":[123.59845,40.46775],"type":"Point"}
+}

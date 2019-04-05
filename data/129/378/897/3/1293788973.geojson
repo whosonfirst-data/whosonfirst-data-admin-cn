@@ -1,0 +1,75 @@
+{
+  "id": 1293788973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.29089,33.83948,119.29089,33.83948",
+    "geom:latitude":33.83948,
+    "geom:longitude":119.29089,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Wang'erzhuang",
+    "gn:country_code":"CN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1548014,
+    "gn:latitude":33.83948,
+    "gn:longitude":119.29089,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Wang\u2019erzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wang\u2019erzhuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u738b\u4e8c\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        1108732465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1548014
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"dda004083f5ea49f4b539b4d211d978f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732465,
+            "empire_id":136253041,
+            "locality_id":1293788973,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1293788973,
+    "wof:lastmodified":1537591652,
+    "wof:name":"Wang'erzhuang",
+    "wof:parent_id":1108732465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.29089,
+    33.83948,
+    119.29089,
+    33.83948
+],
+  "geometry": {"coordinates":[119.29089,33.83948],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293000675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.17845,31.60185,120.17845,31.60185",
+    "geom:latitude":31.60185,
+    "geom:longitude":120.17845,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Outang",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1799136,
+    "gn:latitude":31.60185,
+    "gn:longitude":120.17845,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Outang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ou-t\u2019ang-ch\u2019iao",
+        "Ou-t\u2019ang-ch\u2019iao-chen",
+        "Outang"
+    ],
+    "name:zho_x_preferred":[
+        "\u85d5\u5858"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890514733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1799136
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"aa8dd88c9677c66ad8cab66c4e8af58d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514733,
+            "empire_id":136253041,
+            "locality_id":1293000675,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1293000675,
+    "wof:lastmodified":1537592915,
+    "wof:name":"Outang",
+    "wof:parent_id":890514733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.17845,
+    31.60185,
+    120.17845,
+    31.60185
+],
+  "geometry": {"coordinates":[120.17845,31.60185],"type":"Point"}
+}

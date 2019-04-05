@@ -1,0 +1,80 @@
+{
+  "id": 1360268603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.1,30.2,97.1,30.2",
+    "geom:latitude":30.2,
+    "geom:longitude":97.1,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Karlag",
+    "gn:country_code":"CN",
+    "gn:dem":3674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8041908,
+    "gn:latitude":30.2,
+    "gn:longitude":97.1,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Karlag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Karlag"
+    ],
+    "name:zho_x_preferred":[
+        "Kala"
+    ],
+    "name:zho_x_variant":[
+        "\u5361\u62c9",
+        "Kawa",
+        "\u5361\u74e6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8041908
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bd7ab9a454760997559cb2f54f7a8ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1360268603,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1360268603,
+    "wof:lastmodified":1537602349,
+    "wof:name":"Karlag",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.1,
+    30.2,
+    97.1,
+    30.2
+],
+  "geometry": {"coordinates":[97.09999999999999,30.2],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209160961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.56074,24.33559,116.56074,24.33559",
+    "geom:latitude":24.33559,
+    "geom:longitude":116.56074,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Shicheng",
+    "gn:country_code":"CN",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6681373,
+    "gn:latitude":24.33559,
+    "gn:longitude":116.56074,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Shicheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u77f3\u57ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6681373
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"234930f65b33f9085de06faa3eb27826",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209160961
+        }
+    ],
+    "wof:id":1209160961,
+    "wof:lastmodified":1537596140,
+    "wof:name":"Shicheng",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.56074,
+    24.33559,
+    116.56074,
+    24.33559
+],
+  "geometry": {"coordinates":[116.56074,24.33559],"type":"Point"}
+}

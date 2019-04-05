@@ -1,0 +1,78 @@
+{
+  "id": 1209870839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.18167,34.37639,108.18167,34.37639",
+    "geom:latitude":34.37639,
+    "geom:longitude":108.18167,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Wangcun",
+    "gn:country_code":"CN",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1813403,
+    "gn:latitude":34.37639,
+    "gn:longitude":108.18167,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Wangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-wang",
+        "Dawang",
+        "Ta-wang-ts\u2019un",
+        "\u738b\u6751",
+        "Wangcun Zhen",
+        "\u738b\u6751\u9547",
+        "Wangcun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1813403
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5833e1245b184433503b1ddb1fa1182a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515689,
+            "empire_id":136253041,
+            "locality_id":1209870839,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1209870839,
+    "wof:lastmodified":1537593822,
+    "wof:name":"Wangcun",
+    "wof:parent_id":890515689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.18167,
+    34.37639,
+    108.18167,
+    34.37639
+],
+  "geometry": {"coordinates":[108.18167,34.37639],"type":"Point"}
+}

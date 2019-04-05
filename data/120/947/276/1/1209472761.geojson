@@ -1,0 +1,64 @@
+{
+  "id": 1209472761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.80265,40.05031,113.80265,40.05031",
+    "geom:latitude":40.05031,
+    "geom:longitude":113.80265,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Shangzhuang",
+    "gn:country_code":"CN",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11427040,
+    "gn:latitude":40.05031,
+    "gn:longitude":113.80265,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Shangzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e0a\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11427040
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e3b26f3f43aa5777302283a09ba4dbc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209472761
+        }
+    ],
+    "wof:id":1209472761,
+    "wof:lastmodified":1537616437,
+    "wof:name":"Shangzhuang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.80265,
+    40.05031,
+    113.80265,
+    40.05031
+],
+  "geometry": {"coordinates":[113.80265,40.05031],"type":"Point"}
+}

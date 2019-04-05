@@ -1,0 +1,81 @@
+{
+  "id": 1226266447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.32981,32.41603,119.32981,32.41603",
+    "geom:latitude":32.41603,
+    "geom:longitude":119.32981,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Yangmiao",
+    "gn:country_code":"CN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1787533,
+    "gn:latitude":32.41603,
+    "gn:longitude":119.32981,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Yangmiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yang-chia-miao",
+        "Yangjiamiao",
+        "Yangmiao",
+        "Yangmiao Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u6768\u5e99"
+    ],
+    "name:zho_x_variant":[
+        "\u6768\u5e99\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1787533
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e9bc5eb44b022fb03b8d152d0a3163cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516397,
+            "empire_id":136253041,
+            "locality_id":1226266447,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1226266447,
+    "wof:lastmodified":1537592131,
+    "wof:name":"Yangmiao",
+    "wof:parent_id":890516397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.32981,
+    32.41603,
+    119.32981,
+    32.41603
+],
+  "geometry": {"coordinates":[119.32980999999999,32.41603],"type":"Point"}
+}

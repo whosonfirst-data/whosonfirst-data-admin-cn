@@ -1,0 +1,78 @@
+{
+  "id": 890514705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.17631,41.12348,126.17631,41.12348",
+    "geom:latitude":41.12348,
+    "geom:longitude":126.17631,
+    "gn:country":"CN",
+    "gn:fcode":"PPLA3",
+    "gn:pop":0,
+    "gp:adm0":23424781,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "T\u2019ung-kou-ch\u2019eng"
+    ],
+    "qs:name":"\u96c6\u5b89\u5e02",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u5409\u6797\u7701",
+    "qs:photos":5,
+    "qs:photos_1k":1,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":389,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669843,
+        102191569,
+        85632695,
+        136253041,
+        890516249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2036579,
+        "gp:id":12685645,
+        "qs:id":498954
+    },
+    "wof:country":"CN",
+    "wof:created":1469055873,
+    "wof:geomhash":"b5e787791468c1991b1dae4022b3ae2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516249,
+            "empire_id":136253041,
+            "localadmin_id":890514705,
+            "region_id":85669843
+        }
+    ],
+    "wof:id":890514705,
+    "wof:lastmodified":1505343898,
+    "wof:name":"\u96c6\u5b89\u5e02",
+    "wof:parent_id":890516249,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.17631,
+    41.12348,
+    126.17631,
+    41.12348
+],
+  "geometry": {"coordinates":[126.17631,41.12348],"type":"Point"}
+}

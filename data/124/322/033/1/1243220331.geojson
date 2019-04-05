@@ -1,0 +1,78 @@
+{
+  "id": 1243220331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.27771,34.74417,109.27771,34.74417",
+    "geom:latitude":34.74417,
+    "geom:longitude":109.27771,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Liugu",
+    "gn:country_code":"CN",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1803145,
+    "gn:latitude":34.74417,
+    "gn:longitude":109.27771,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Liugu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liu-ku-chen",
+        "Liu-ku",
+        "Liugu",
+        "Liugu Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u7559\u53e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890511937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1803145
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e42fc777429a5bf161c5cca2150be998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890511937,
+            "empire_id":136253041,
+            "locality_id":1243220331,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1243220331,
+    "wof:lastmodified":1537593171,
+    "wof:name":"Liugu",
+    "wof:parent_id":890511937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.27771,
+    34.74417,
+    109.27771,
+    34.74417
+],
+  "geometry": {"coordinates":[109.27771,34.74417],"type":"Point"}
+}

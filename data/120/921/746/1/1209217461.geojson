@@ -1,0 +1,65 @@
+{
+  "id": 1209217461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.11232,29.0379,119.11232,29.0379",
+    "geom:latitude":29.0379,
+    "geom:longitude":119.11232,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zeji",
+    "gn:country_code":"CN",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6973373,
+    "gn:latitude":29.0379,
+    "gn:longitude":119.11232,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Zeji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6cfd\u57fa",
+        "Zeji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6973373
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3ee52760f213fddccbfc5aa225abb67d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209217461
+        }
+    ],
+    "wof:id":1209217461,
+    "wof:lastmodified":1537597131,
+    "wof:name":"Zeji",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.11232,
+    29.0379,
+    119.11232,
+    29.0379
+],
+  "geometry": {"coordinates":[119.11232,29.0379],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209583095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.119,35.008,117.119,35.008",
+    "geom:latitude":35.008,
+    "geom:longitude":117.119,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Lupo",
+    "gn:country_code":"CN",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9117813,
+    "gn:latitude":35.008,
+    "gn:longitude":117.119,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"L\u00fcpo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00fcpo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5415\u5761"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9117813
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"68c52cd9f5ddaf7f62b9c9bca652b09e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209583095
+        }
+    ],
+    "wof:id":1209583095,
+    "wof:lastmodified":1537605248,
+    "wof:name":"Lupo",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.119,
+    35.008,
+    117.119,
+    35.008
+],
+  "geometry": {"coordinates":[117.119,35.008],"type":"Point"}
+}

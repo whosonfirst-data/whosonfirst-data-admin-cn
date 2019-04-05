@@ -1,0 +1,64 @@
+{
+  "id": 1209075523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.143,23.1913,110.143,23.1913",
+    "geom:latitude":23.1913,
+    "geom:longitude":110.143,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yitang",
+    "gn:country_code":"CN",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9894382,
+    "gn:latitude":23.1913,
+    "gn:longitude":110.143,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Yitang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e49\u5858"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9894382
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"acebd47cb9e05bf7162216a3278b9346",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209075523
+        }
+    ],
+    "wof:id":1209075523,
+    "wof:lastmodified":1537606587,
+    "wof:name":"Yitang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.143,
+    23.1913,
+    110.143,
+    23.1913
+],
+  "geometry": {"coordinates":[110.143,23.1913],"type":"Point"}
+}

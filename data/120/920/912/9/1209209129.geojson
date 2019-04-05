@@ -1,0 +1,64 @@
+{
+  "id": 1209209129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.92619,35.77264,113.92619,35.77264",
+    "geom:latitude":35.77264,
+    "geom:longitude":113.92619,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Xijiang",
+    "gn:country_code":"CN",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10363703,
+    "gn:latitude":35.77264,
+    "gn:longitude":113.92619,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Xijiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u897f\u848b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10363703
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"703109adce288ed1f502e2d4144a68c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209209129
+        }
+    ],
+    "wof:id":1209209129,
+    "wof:lastmodified":1537612656,
+    "wof:name":"Xijiang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.92619,
+    35.77264,
+    113.92619,
+    35.77264
+],
+  "geometry": {"coordinates":[113.92619000000001,35.77264],"type":"Point"}
+}

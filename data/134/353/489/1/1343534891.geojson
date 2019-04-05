@@ -1,0 +1,78 @@
+{
+  "id": 1343534891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.29195,28.59905,93.29195,28.59905",
+    "geom:latitude":28.59905,
+    "geom:longitude":93.29195,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mibag",
+    "gn:country_code":"CN",
+    "gn:dem":3978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8045778,
+    "gn:latitude":28.59905,
+    "gn:longitude":93.29195,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Mibag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Mibag"
+    ],
+    "name:zho_x_preferred":[
+        "Mipa"
+    ],
+    "name:zho_x_variant":[
+        "\u7c73\u5e15"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108794057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8045778
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"12e6f7b0712933ebf168a934b3a76602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794057,
+            "empire_id":136253041,
+            "locality_id":1343534891,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1343534891,
+    "wof:lastmodified":1537602395,
+    "wof:name":"Mibag",
+    "wof:parent_id":1108794057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.29195,
+    28.59905,
+    93.29195,
+    28.59905
+],
+  "geometry": {"coordinates":[93.29195,28.59905],"type":"Point"}
+}

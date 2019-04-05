@@ -1,0 +1,64 @@
+{
+  "id": 1209108873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.69748,29.55069,120.69748,29.55069",
+    "geom:latitude":29.55069,
+    "geom:longitude":120.69748,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shanbei",
+    "gn:country_code":"CN",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11198010,
+    "gn:latitude":29.55069,
+    "gn:longitude":120.69748,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Shanbei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5261\u5317"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11198010
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4d2f27fa49e1f35cb609f16bd8b5be63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209108873
+        }
+    ],
+    "wof:id":1209108873,
+    "wof:lastmodified":1537615833,
+    "wof:name":"Shanbei",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.69748,
+    29.55069,
+    120.69748,
+    29.55069
+],
+  "geometry": {"coordinates":[120.69748,29.55069],"type":"Point"}
+}

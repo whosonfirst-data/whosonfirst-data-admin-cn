@@ -1,0 +1,80 @@
+{
+  "id": 1293559933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.8,30.6,91.8,30.6",
+    "geom:latitude":30.6,
+    "geom:longitude":91.8,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Maryong",
+    "gn:country_code":"CN",
+    "gn:dem":4745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8045603,
+    "gn:latitude":30.6,
+    "gn:longitude":91.8,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Maryong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Maryong"
+    ],
+    "name:zho_x_preferred":[
+        "Marong"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u8363",
+        "Ruomoduo",
+        "\u82e5\u83ab\u591a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8045603
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a27f6d904e00e6efc393d42fb4c99ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515877,
+            "empire_id":136253041,
+            "locality_id":1293559933,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1293559933,
+    "wof:lastmodified":1537602385,
+    "wof:name":"Maryong",
+    "wof:parent_id":890515877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.8,
+    30.6,
+    91.8,
+    30.6
+],
+  "geometry": {"coordinates":[91.8,30.6],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209011603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.2298,27.47456,116.2298,27.47456",
+    "geom:latitude":27.47456,
+    "geom:longitude":116.2298,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shuizhou",
+    "gn:country_code":"CN",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7738097,
+    "gn:latitude":27.47456,
+    "gn:longitude":116.2298,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shuizhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6c34\u6d32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7738097
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b4e6a44ea6703884c25b271383a720cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209011603
+        }
+    ],
+    "wof:id":1209011603,
+    "wof:lastmodified":1537601244,
+    "wof:name":"Shuizhou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.2298,
+    27.47456,
+    116.2298,
+    27.47456
+],
+  "geometry": {"coordinates":[116.2298,27.47456],"type":"Point"}
+}

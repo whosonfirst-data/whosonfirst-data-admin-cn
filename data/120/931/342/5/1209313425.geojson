@@ -1,0 +1,64 @@
+{
+  "id": 1209313425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.43184,44.43349,123.43184,44.43349",
+    "geom:latitude":44.43349,
+    "geom:longitude":123.43184,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dongnanjie",
+    "gn:country_code":"CN",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10889954,
+    "gn:latitude":44.43349,
+    "gn:longitude":123.43184,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Dongnanjie",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e1c\u5357\u8857"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10889954
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"07e5d24a81bf3180b20c051f06fe6416",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209313425
+        }
+    ],
+    "wof:id":1209313425,
+    "wof:lastmodified":1537614661,
+    "wof:name":"Dongnanjie",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.43184,
+    44.43349,
+    123.43184,
+    44.43349
+],
+  "geometry": {"coordinates":[123.43183999999999,44.43349],"type":"Point"}
+}

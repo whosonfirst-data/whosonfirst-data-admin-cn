@@ -1,0 +1,85 @@
+{
+  "id": 1327333605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.59967,30.8949,120.59967,30.8949",
+    "geom:latitude":30.8949,
+    "geom:longitude":120.59967,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tanqiucun",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1793244,
+    "gn:latitude":30.8949,
+    "gn:longitude":120.59967,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Tanqiucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u2019an-ch\u2019iu-chen",
+        "T\u2019an-peng-chen",
+        "T\u2019an-ch\u2019iu",
+        "Tanqiu",
+        "\u8c2d\u4e18",
+        "Tanqiu Shequ",
+        "\u8c2d\u4e18\u793e\u533a",
+        "Tanqiucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u575b\u4e18\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u575b\u4e18"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1793244
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"38f5e9835e4171f9fe209ddae7ba1390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515879,
+            "empire_id":136253041,
+            "locality_id":1327333605,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1327333605,
+    "wof:lastmodified":1537592517,
+    "wof:name":"Tanqiucun",
+    "wof:parent_id":890515879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.59967,
+    30.8949,
+    120.59967,
+    30.8949
+],
+  "geometry": {"coordinates":[120.59967,30.8949],"type":"Point"}
+}

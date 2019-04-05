@@ -1,0 +1,76 @@
+{
+  "id": 1242933247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.77097,23.17802,112.77097,23.17802",
+    "geom:latitude":23.17802,
+    "geom:longitude":112.77097,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Qingqixu",
+    "gn:country_code":"CN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1914573,
+    "gn:latitude":23.17802,
+    "gn:longitude":112.77097,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qingqixu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qingqi",
+        "Qingqixu"
+    ],
+    "name:zho_x_preferred":[
+        "\u9752\u5c90\u5729"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890513089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1914573
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9aeda68c3c0025d7b0b19ef66ea630e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513089,
+            "empire_id":136253041,
+            "locality_id":1242933247,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1242933247,
+    "wof:lastmodified":1537594668,
+    "wof:name":"Qingqixu",
+    "wof:parent_id":890513089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.77097,
+    23.17802,
+    112.77097,
+    23.17802
+],
+  "geometry": {"coordinates":[112.77097000000001,23.17802],"type":"Point"}
+}

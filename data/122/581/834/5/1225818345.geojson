@@ -1,0 +1,76 @@
+{
+  "id": 1225818345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.43827,34.01109,103.43827,34.01109",
+    "geom:latitude":34.01109,
+    "geom:longitude":103.43827,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Niangsancun",
+    "gn:country_code":"CN",
+    "gn:dem":2703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7342941,
+    "gn:latitude":34.01109,
+    "gn:longitude":103.43827,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Niangsancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niangyu",
+        "\u5a18\u7389"
+    ],
+    "name:zho_x_preferred":[
+        "\u5a18\u4e09\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669711,
+        102191569,
+        85632695,
+        136253041,
+        1108794071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7342941
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f7f8ed9fc01a494fe458fbf29cee2634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794071,
+            "empire_id":136253041,
+            "locality_id":1225818345,
+            "region_id":85669711
+        }
+    ],
+    "wof:id":1225818345,
+    "wof:lastmodified":1537598140,
+    "wof:name":"Niangsancun",
+    "wof:parent_id":1108794071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.43827,
+    34.01109,
+    103.43827,
+    34.01109
+],
+  "geometry": {"coordinates":[103.43827,34.01109],"type":"Point"}
+}

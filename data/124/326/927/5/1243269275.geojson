@@ -1,0 +1,75 @@
+{
+  "id": 1243269275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.20019,33.54363,119.20019,33.54363",
+    "geom:latitude":33.54363,
+    "geom:longitude":119.20019,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Luyang",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8521764,
+    "gn:latitude":33.54363,
+    "gn:longitude":119.20019,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"L\u00fcyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00fcyang"
+    ],
+    "name:zho_x_preferred":[
+        "\u7eff\u6768"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        1108732465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8521764
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b24fd9226961d2d2f7db4c3cb540e9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732465,
+            "empire_id":136253041,
+            "locality_id":1243269275,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1243269275,
+    "wof:lastmodified":1537604245,
+    "wof:name":"Luyang",
+    "wof:parent_id":1108732465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.20019,
+    33.54363,
+    119.20019,
+    33.54363
+],
+  "geometry": {"coordinates":[119.20019000000001,33.54363],"type":"Point"}
+}

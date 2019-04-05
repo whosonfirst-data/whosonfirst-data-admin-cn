@@ -1,0 +1,78 @@
+{
+  "id": 1310079237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.201,32.201,81.201,32.201",
+    "geom:latitude":32.201,
+    "geom:longitude":81.201,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gyaqurab",
+    "gn:country_code":"CN",
+    "gn:dem":5293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8026607,
+    "gn:latitude":32.201,
+    "gn:longitude":81.201,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gyaqurab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Gyaqurab"
+    ],
+    "name:zho_x_preferred":[
+        "Jiaqurebu"
+    ],
+    "name:zho_x_variant":[
+        "\u7532\u66f2\u70ed\u5e03"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026607
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"89bca68695f5d05ac66e0231fbce0579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732537,
+            "empire_id":136253041,
+            "locality_id":1310079237,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1310079237,
+    "wof:lastmodified":1537602181,
+    "wof:name":"Gyaqurab",
+    "wof:parent_id":1108732537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.20100000000002,
+    32.201,
+    81.20100000000002,
+    32.201
+],
+  "geometry": {"coordinates":[81.20100000000002,32.201],"type":"Point"}
+}

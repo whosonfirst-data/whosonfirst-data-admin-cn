@@ -1,0 +1,75 @@
+{
+  "id": 1259750029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.60389,35.54389,109.60389,35.54389",
+    "geom:latitude":35.54389,
+    "geom:longitude":109.60389,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Baiyi",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1817243,
+    "gn:latitude":35.54389,
+    "gn:longitude":109.60389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Baiyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pai-i-chen",
+        "Pai-i",
+        "Baiyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890516587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1817243
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e9f9c75a18be2f0ee819ecf28f682716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516587,
+            "empire_id":136253041,
+            "locality_id":1259750029,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1259750029,
+    "wof:lastmodified":1537594057,
+    "wof:name":"Baiyi",
+    "wof:parent_id":890516587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.60389,
+    35.54389000000001,
+    109.60389,
+    35.54389000000001
+],
+  "geometry": {"coordinates":[109.60389000000001,35.54389000000001],"type":"Point"}
+}

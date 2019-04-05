@@ -1,0 +1,78 @@
+{
+  "id": 1226648849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.72581,28.66705,120.72581,28.66705",
+    "geom:latitude":28.66705,
+    "geom:longitude":120.72581,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shangzhang",
+    "gn:country_code":"CN",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8398289,
+    "gn:latitude":28.66705,
+    "gn:longitude":120.72581,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Shangzhang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shangzhang Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u5f20"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0a\u5f20\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890515633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8398289
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"951dc25be843bec6d0c90d96b3cc0198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515633,
+            "empire_id":136253041,
+            "locality_id":1226648849,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1226648849,
+    "wof:lastmodified":1537603260,
+    "wof:name":"Shangzhang",
+    "wof:parent_id":890515633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.72581,
+    28.66705,
+    120.72581,
+    28.66705
+],
+  "geometry": {"coordinates":[120.72581,28.66705],"type":"Point"}
+}

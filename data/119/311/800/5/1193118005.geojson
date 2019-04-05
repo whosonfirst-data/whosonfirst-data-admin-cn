@@ -1,0 +1,75 @@
+{
+  "id": 1193118005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.29218,29.07689,111.29218,29.07689",
+    "geom:latitude":29.07689,
+    "geom:longitude":111.29218,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Wangjiashan",
+    "gn:country_code":"CN",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8134757,
+    "gn:latitude":29.07689,
+    "gn:longitude":111.29218,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Wangjiashan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Wangjiashan"
+    ],
+    "name:zho_x_variant":[
+        "\u6c6a\u5bb6\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890515867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8134757
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"64b740969d71a3da16986e817e1cedab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515867,
+            "empire_id":136253041,
+            "locality_id":1193118005,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1193118005,
+    "wof:lastmodified":1537602602,
+    "wof:name":"Wangjiashan",
+    "wof:parent_id":890515867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.29218,
+    29.07689,
+    111.29218,
+    29.07689
+],
+  "geometry": {"coordinates":[111.29218,29.07689],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209596291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.83074,24.84071,111.83074,24.84071",
+    "geom:latitude":24.84071,
+    "geom:longitude":111.83074,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Zhangjiadong",
+    "gn:country_code":"CN",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1930478,
+    "gn:latitude":24.84071,
+    "gn:longitude":111.83074,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"Zhangjiadong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5f20\u5bb6\u6d1e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1930478
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bcbde6fa5343524a30fac03681b5db9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209596291
+        }
+    ],
+    "wof:id":1209596291,
+    "wof:lastmodified":1537595015,
+    "wof:name":"Zhangjiadong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.83074,
+    24.84071,
+    111.83074,
+    24.84071
+],
+  "geometry": {"coordinates":[111.83074000000001,24.84071],"type":"Point"}
+}

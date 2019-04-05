@@ -1,0 +1,80 @@
+{
+  "id": 1276872509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.94458,31.71581,119.94458,31.71581",
+    "geom:latitude":31.71581,
+    "geom:longitude":119.94458,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hutang",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":8411102,
+    "gn:latitude":31.71581,
+    "gn:longitude":119.94458,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Hutang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hutang Zhen",
+        "Wujin Qu"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e56\u5858"
+    ],
+    "name:zho_x_variant":[
+        "\u6e56\u5858\u9547",
+        "\u6b66\u8fdb\u533a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890514735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411102
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9a55e3f56b3345fa469697cd31bebc5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514735,
+            "empire_id":136253041,
+            "locality_id":1276872509,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1276872509,
+    "wof:lastmodified":1537603502,
+    "wof:name":"Hutang",
+    "wof:parent_id":890514735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.94458,
+    31.71581,
+    119.94458,
+    31.71581
+],
+  "geometry": {"coordinates":[119.94458,31.71581],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209173275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.595,28.281,101.595,28.281",
+    "geom:latitude":28.281,
+    "geom:longitude":101.595,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Magengzi",
+    "gn:country_code":"CN",
+    "gn:dem":2325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10217432,
+    "gn:latitude":28.281,
+    "gn:longitude":101.595,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Magengzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9a6c\u9888\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10217432
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"58847d39a889a462f117699ada9b9c4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209173275
+        }
+    ],
+    "wof:id":1209173275,
+    "wof:lastmodified":1537611554,
+    "wof:name":"Magengzi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.595,
+    28.281,
+    101.595,
+    28.281
+],
+  "geometry": {"coordinates":[101.595,28.281],"type":"Point"}
+}

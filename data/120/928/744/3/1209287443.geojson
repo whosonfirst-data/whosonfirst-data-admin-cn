@@ -1,0 +1,64 @@
+{
+  "id": 1209287443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.754,33.9299,104.754,33.9299",
+    "geom:latitude":33.9299,
+    "geom:longitude":104.754,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Majiashan",
+    "gn:country_code":"CN",
+    "gn:dem":2140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10803123,
+    "gn:latitude":33.9299,
+    "gn:longitude":104.754,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Majiashan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9a6c\u5bb6\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10803123
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d24cf36435e9620d169bd33769038dd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209287443
+        }
+    ],
+    "wof:id":1209287443,
+    "wof:lastmodified":1537614462,
+    "wof:name":"Majiashan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.754,
+    33.9299,
+    104.754,
+    33.9299
+],
+  "geometry": {"coordinates":[104.754,33.9299],"type":"Point"}
+}

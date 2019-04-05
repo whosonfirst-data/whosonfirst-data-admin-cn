@@ -1,0 +1,79 @@
+{
+  "id": 1226705411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.54288,37.70165,120.54288,37.70165",
+    "geom:latitude":37.70165,
+    "geom:longitude":120.54288,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Qingwencun",
+    "gn:country_code":"CN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8628149,
+    "gn:latitude":37.70165,
+    "gn:longitude":120.54288,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Qingwencun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qingwen",
+        "Qingwencun"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e05\u6c76"
+    ],
+    "name:zho_x_variant":[
+        "\u6e05\u6c76\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669813,
+        102191569,
+        85632695,
+        136253041,
+        890516301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8628149
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"02c63fd6351b03589fa34b31a5aa9c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516301,
+            "empire_id":136253041,
+            "locality_id":1226705411,
+            "region_id":85669813
+        }
+    ],
+    "wof:id":1226705411,
+    "wof:lastmodified":1537604831,
+    "wof:name":"Qingwencun",
+    "wof:parent_id":890516301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.54288,
+    37.70165,
+    120.54288,
+    37.70165
+],
+  "geometry": {"coordinates":[120.54288,37.70165],"type":"Point"}
+}

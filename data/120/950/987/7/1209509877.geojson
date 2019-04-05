@@ -1,0 +1,64 @@
+{
+  "id": 1209509877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.34219,40.49254,115.34219,40.49254",
+    "geom:latitude":40.49254,
+    "geom:longitude":115.34219,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Shijiaying",
+    "gn:country_code":"CN",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10132985,
+    "gn:latitude":40.49254,
+    "gn:longitude":115.34219,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Shijiaying",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u65bd\u5bb6\u8425"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10132985
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"86f826cad152c8b84110cf2338e166b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209509877
+        }
+    ],
+    "wof:id":1209509877,
+    "wof:lastmodified":1537610042,
+    "wof:name":"Shijiaying",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.34219,
+    40.49254000000001,
+    115.34219,
+    40.49254000000001
+],
+  "geometry": {"coordinates":[115.34219,40.49254000000001],"type":"Point"}
+}

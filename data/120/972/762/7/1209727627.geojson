@@ -1,0 +1,69 @@
+{
+  "id": 1209727627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.29667,30.15111,121.29667,30.15111",
+    "geom:latitude":30.15111,
+    "geom:longitude":121.29667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zhangshu",
+    "gn:country_code":"CN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1898945,
+    "gn:latitude":30.15111,
+    "gn:longitude":121.29667,
+    "gn:modification_date":"1996-06-25",
+    "gn:name":"Zhangshu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1898945
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c8a3493bc0bc09c20847100b0dbe48dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516553,
+            "empire_id":136253041,
+            "locality_id":1209727627,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1209727627,
+    "wof:lastmodified":1536382095,
+    "wof:name":"Zhangshu",
+    "wof:parent_id":890516553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.29667,
+    30.15111,
+    121.29667,
+    30.15111
+],
+  "geometry": {"coordinates":[121.29667000000001,30.15111],"type":"Point"}
+}

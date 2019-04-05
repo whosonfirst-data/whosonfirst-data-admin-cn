@@ -1,0 +1,79 @@
+{
+  "id": 1243051089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.1751,31.3243,82.1751,31.3243",
+    "geom:latitude":31.3243,
+    "geom:longitude":82.1751,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Quecang",
+    "gn:country_code":"CN",
+    "gn:dem":4923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8993139,
+    "gn:latitude":31.3243,
+    "gn:longitude":82.1751,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Quecang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quecangcun",
+        "Quecang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5374\u85cf\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u5374\u85cf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8993139
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"09783ea05f81d221138b17fe35a5e43a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732537,
+            "empire_id":136253041,
+            "locality_id":1243051089,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1243051089,
+    "wof:lastmodified":1537604984,
+    "wof:name":"Quecang",
+    "wof:parent_id":1108732537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.1751,
+    31.3243,
+    82.1751,
+    31.3243
+],
+  "geometry": {"coordinates":[82.1751,31.3243],"type":"Point"}
+}

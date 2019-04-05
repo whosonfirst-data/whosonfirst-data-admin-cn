@@ -1,0 +1,64 @@
+{
+  "id": 1209291477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.13009,30.3572,109.13009,30.3572",
+    "geom:latitude":30.3572,
+    "geom:longitude":109.13009,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Malancao",
+    "gn:country_code":"CN",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8516974,
+    "gn:latitude":30.3572,
+    "gn:longitude":109.13009,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Malancao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9a6c\u680f\u69fd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8516974
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8b7171eb7ad761d47991dcd8a964c368",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209291477
+        }
+    ],
+    "wof:id":1209291477,
+    "wof:lastmodified":1537604151,
+    "wof:name":"Malancao",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.13009,
+    30.3572,
+    109.13009,
+    30.3572
+],
+  "geometry": {"coordinates":[109.13009,30.3572],"type":"Point"}
+}

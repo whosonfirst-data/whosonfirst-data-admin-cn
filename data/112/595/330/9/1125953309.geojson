@@ -1,0 +1,93 @@
+{
+  "id": 1125953309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.16667,30.1,118.16667,30.1",
+    "geom:latitude":30.1,
+    "geom:longitude":118.16667,
+    "gn:gn_country":"CN",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CN",
+    "lbl:latitude":30.1,
+    "lbl:longitude":118.16667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Huangshanbinguan"
+    ],
+    "qs_pg:aaroncc":"CN",
+    "qs_pg:gn_country":"CN",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1807256,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"\u9ec4\u5c71\u5bbe\u9986",
+    "qs_pg:name_adm0":"\u4e2d\u570b",
+    "qs_pg:name_adm1":"\u5b89\u5fbd\u7701",
+    "qs_pg:photos":5000,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":22,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":5000,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":8526,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424781,
+    "qs_pg:woe_id":2126620,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424781,
+    "woe:name_adm0":"\u4e2d\u570b",
+    "woe:name_adm1":"\u5b89\u5fbd\u7701",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        1108732553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1807256,
+        "gp:id":2126620,
+        "qs_pg:id":8526
+    },
+    "wof:country":"CN",
+    "wof:created":1497297535,
+    "wof:geomhash":"7f8abe9e41f2b72dcbf78164acc2bbd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732553,
+            "empire_id":136253041,
+            "locality_id":1125953309,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1125953309,
+    "wof:lastmodified":1509402833,
+    "wof:name":"\u9ec4\u5c71\u5bbe\u9986",
+    "wof:parent_id":1108732553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.16667,
+    30.1,
+    118.16667,
+    30.1
+],
+  "geometry": {"coordinates":[118.16667,30.1],"type":"Point"}
+}

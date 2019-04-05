@@ -1,0 +1,78 @@
+{
+  "id": 1260248973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.52039,34.36813,108.52039,34.36813",
+    "geom:latitude":34.36813,
+    "geom:longitude":108.52039,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Guxiancun",
+    "gn:country_code":"CN",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1999316,
+    "gn:latitude":34.36813,
+    "gn:longitude":108.52039,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Guxiancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guxian"
+    ],
+    "name:zho_x_preferred":[
+        "\u56fa\u663e"
+    ],
+    "name:zho_x_variant":[
+        "\u56fa\u663e\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1999316
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"94039b41c37ed5bab3237b4194b76626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515689,
+            "empire_id":136253041,
+            "locality_id":1260248973,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1260248973,
+    "wof:lastmodified":1537595440,
+    "wof:name":"Guxiancun",
+    "wof:parent_id":890515689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.52039,
+    34.36813,
+    108.52039,
+    34.36813
+],
+  "geometry": {"coordinates":[108.52039000000001,34.36813],"type":"Point"}
+}

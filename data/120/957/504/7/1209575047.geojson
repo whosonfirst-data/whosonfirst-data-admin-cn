@@ -1,0 +1,64 @@
+{
+  "id": 1209575047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.256,30.9455,105.256,30.9455",
+    "geom:latitude":30.9455,
+    "geom:longitude":105.256,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Longhuai",
+    "gn:country_code":"CN",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10161252,
+    "gn:latitude":30.9455,
+    "gn:longitude":105.256,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Longhuai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9f99\u6000"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10161252
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b40365dd03b79f002d27d4c636529840",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209575047
+        }
+    ],
+    "wof:id":1209575047,
+    "wof:lastmodified":1537610797,
+    "wof:name":"Longhuai",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.256,
+    30.9455,
+    105.256,
+    30.9455
+],
+  "geometry": {"coordinates":[105.256,30.9455],"type":"Point"}
+}

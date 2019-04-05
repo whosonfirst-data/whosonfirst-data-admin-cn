@@ -1,0 +1,76 @@
+{
+  "id": 1226730839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.35556,28.69917,111.35556,28.69917",
+    "geom:latitude":28.69917,
+    "geom:longitude":111.35556,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zhengjiayi",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1784686,
+    "gn:latitude":28.69917,
+    "gn:longitude":111.35556,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhengjiayi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chengkiayu",
+        "Chengkiayi",
+        "Cheng-chia-i",
+        "Zhengjiayi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890515867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1784686
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"700eea79f23fdb68fe702e3a00580052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515867,
+            "empire_id":136253041,
+            "locality_id":1226730839,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1226730839,
+    "wof:lastmodified":1537591942,
+    "wof:name":"Zhengjiayi",
+    "wof:parent_id":890515867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.35556,
+    28.69917,
+    111.35556,
+    28.69917
+],
+  "geometry": {"coordinates":[111.35556,28.69917],"type":"Point"}
+}

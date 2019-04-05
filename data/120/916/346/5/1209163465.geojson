@@ -1,0 +1,64 @@
+{
+  "id": 1209163465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.891,31.1546,104.891,31.1546",
+    "geom:latitude":31.1546,
+    "geom:longitude":104.891,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Zhoujiaba",
+    "gn:country_code":"CN",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10163179,
+    "gn:latitude":31.1546,
+    "gn:longitude":104.891,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Zhoujiaba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5468\u5bb6\u575d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10163179
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3238ceeaf55d7071cc92bee7a124b817",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209163465
+        }
+    ],
+    "wof:id":1209163465,
+    "wof:lastmodified":1537610864,
+    "wof:name":"Zhoujiaba",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.891,
+    31.1546,
+    104.891,
+    31.1546
+],
+  "geometry": {"coordinates":[104.89100000000001,31.1546],"type":"Point"}
+}

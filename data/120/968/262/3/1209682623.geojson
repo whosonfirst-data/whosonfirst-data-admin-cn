@@ -1,0 +1,64 @@
+{
+  "id": 1209682623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.52689,34.79456,107.52689,34.79456",
+    "geom:latitude":34.79456,
+    "geom:longitude":107.52689,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Hetan",
+    "gn:country_code":"CN",
+    "gn:dem":1298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7369270,
+    "gn:latitude":34.79456,
+    "gn:longitude":107.52689,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Hetan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6cb3\u6ee9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7369270
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"15f5ed370ad8d083b4d7248d08373ecc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209682623
+        }
+    ],
+    "wof:id":1209682623,
+    "wof:lastmodified":1537598305,
+    "wof:name":"Hetan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.52689,
+    34.79456,
+    107.52689,
+    34.79456
+],
+  "geometry": {"coordinates":[107.52688999999999,34.79456],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243128871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.17833,36.05194,110.17833,36.05194",
+    "geom:latitude":36.05194,
+    "geom:longitude":110.17833,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Danzhou",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1813796,
+    "gn:latitude":36.05194,
+    "gn:longitude":110.17833,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Danzhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yichuan",
+        "I-ch\u2019uan-hsien",
+        "I-ch\u2019uan",
+        "Danzhou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890516587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1813796
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6cbc2efc330cc44101d2a6e0551598b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516587,
+            "empire_id":136253041,
+            "locality_id":1243128871,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1243128871,
+    "wof:lastmodified":1537593845,
+    "wof:name":"Danzhou",
+    "wof:parent_id":890516587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.17833,
+    36.05194,
+    110.17833,
+    36.05194
+],
+  "geometry": {"coordinates":[110.17833,36.05194],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1209780461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.92936,48.96533,116.92936,48.96533",
+    "geom:latitude":48.96533,
+    "geom:longitude":116.92936,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Har Nuden",
+    "gn:country_code":"CN",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2037003,
+    "gn:latitude":48.96533,
+    "gn:longitude":116.92936,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Har Nuden",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ha-la-ni-tun",
+        "Har Nuden",
+        "Harinudun"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u65e5\u52aa\u6566"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669847,
+        102191569,
+        85632695,
+        136253041,
+        1108732385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2037003
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"452e5eebd45acd5af33e6f7de984f922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732385,
+            "empire_id":136253041,
+            "locality_id":1209780461,
+            "region_id":85669847
+        }
+    ],
+    "wof:id":1209780461,
+    "wof:lastmodified":1537595803,
+    "wof:name":"Har Nuden",
+    "wof:parent_id":1108732385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.92936,
+    48.96533,
+    116.92936,
+    48.96533
+],
+  "geometry": {"coordinates":[116.92936,48.96533],"type":"Point"}
+}

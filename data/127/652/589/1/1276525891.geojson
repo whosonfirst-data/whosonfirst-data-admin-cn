@@ -1,0 +1,77 @@
+{
+  "id": 1276525891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.01444,27.59194,111.01444,27.59194",
+    "geom:latitude":27.59194,
+    "geom:longitude":111.01444,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Yatian",
+    "gn:country_code":"CN",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1929865,
+    "gn:latitude":27.59194,
+    "gn:longitude":111.01444,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Yatian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lijiawuchang",
+        "Yatian",
+        "\u9e2d\u7530",
+        "Yatian Zhen",
+        "\u9ece\u5bb6\u5c4b\u573a",
+        "\u9e2d\u7530\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890514309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1929865
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fd51543d1a6239a164f5198ab512b083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514309,
+            "empire_id":136253041,
+            "locality_id":1276525891,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1276525891,
+    "wof:lastmodified":1537595006,
+    "wof:name":"Yatian",
+    "wof:parent_id":890514309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.01444,
+    27.59194,
+    111.01444,
+    27.59194
+],
+  "geometry": {"coordinates":[111.01443999999999,27.59194],"type":"Point"}
+}

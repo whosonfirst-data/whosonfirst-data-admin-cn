@@ -1,0 +1,64 @@
+{
+  "id": 1209053315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.459,27.6407,100.459,27.6407",
+    "geom:latitude":27.6407,
+    "geom:longitude":100.459,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Nake",
+    "gn:country_code":"CN",
+    "gn:dem":1835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10139718,
+    "gn:latitude":27.6407,
+    "gn:longitude":100.459,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Nake",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7eb3\u58f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10139718
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"58fba2c301b8cf73db3bc2efba364819",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209053315
+        }
+    ],
+    "wof:id":1209053315,
+    "wof:lastmodified":1537610150,
+    "wof:name":"Nake",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.459,
+    27.6407,
+    100.459,
+    27.6407
+],
+  "geometry": {"coordinates":[100.459,27.6407],"type":"Point"}
+}

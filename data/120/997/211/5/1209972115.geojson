@@ -1,0 +1,75 @@
+{
+  "id": 1209972115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.98333,35.31667,117.98333,35.31667",
+    "geom:latitude":35.31667,
+    "geom:longitude":117.98333,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Nanshigoucun",
+    "gn:country_code":"CN",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1795369,
+    "gn:latitude":35.31667,
+    "gn:longitude":117.98333,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Nanshigoucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shigou"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u77f3\u6c9f\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669813,
+        102191569,
+        85632695,
+        136253041,
+        1108732339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1795369
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"076e49b384d873a0b7f0b291a4b9e2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732339,
+            "empire_id":136253041,
+            "locality_id":1209972115,
+            "region_id":85669813
+        }
+    ],
+    "wof:id":1209972115,
+    "wof:lastmodified":1537592665,
+    "wof:name":"Nanshigoucun",
+    "wof:parent_id":1108732339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.98333,
+    35.31667,
+    117.98333,
+    35.31667
+],
+  "geometry": {"coordinates":[117.98333,35.31667],"type":"Point"}
+}

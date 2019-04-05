@@ -1,0 +1,76 @@
+{
+  "id": 1259939937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.46361,23.43361,116.46361,23.43361",
+    "geom:latitude":23.43361,
+    "geom:longitude":116.46361,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Guanbu",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1810013,
+    "gn:latitude":23.43361,
+    "gn:longitude":116.46361,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Guanbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guanbu Zhen",
+        "\u5173\u57e0\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u5173\u57e0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        1108732449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1810013
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"31d3800c57e29e86137b7e8bcaf112fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732449,
+            "empire_id":136253041,
+            "locality_id":1259939937,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1259939937,
+    "wof:lastmodified":1537593607,
+    "wof:name":"Guanbu",
+    "wof:parent_id":1108732449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.46361,
+    23.43361,
+    116.46361,
+    23.43361
+],
+  "geometry": {"coordinates":[116.46361,23.43361],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209095653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.33725,33.78245,112.33725,33.78245",
+    "geom:latitude":33.78245,
+    "geom:longitude":112.33725,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sidaohe",
+    "gn:country_code":"CN",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7057425,
+    "gn:latitude":33.78245,
+    "gn:longitude":112.33725,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sidaohe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u56db\u9053\u6cb3",
+        "Sidaohe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7057425
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2c3c67b66411182061812db3322a06e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209095653
+        }
+    ],
+    "wof:id":1209095653,
+    "wof:lastmodified":1537597619,
+    "wof:name":"Sidaohe",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.33725,
+    33.78245,
+    112.33725,
+    33.78245
+],
+  "geometry": {"coordinates":[112.33725,33.78245],"type":"Point"}
+}

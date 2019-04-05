@@ -1,0 +1,68 @@
+{
+  "id": 890511889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.44556,39.75806,117.44556,39.75806",
+    "geom:latitude":39.75806,
+    "geom:longitude":117.44556,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":1786,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Beitan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669817,
+        102191569,
+        85632695,
+        136253041,
+        890513813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1816557,
+        "gp:id":2159521,
+        "qs:id":277624
+    },
+    "wof:country":"CN",
+    "wof:created":1469055750,
+    "wof:geomhash":"8b3090fd4869bd013bec5e4500d8cbbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513813,
+            "empire_id":136253041,
+            "locality_id":890511889,
+            "region_id":85669817
+        }
+    ],
+    "wof:id":890511889,
+    "wof:lastmodified":1505343884,
+    "wof:name":"Beitan",
+    "wof:parent_id":890513813,
+    "wof:placetype":"locality",
+    "wof:population":1786,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.44556,
+    39.75806,
+    117.44556,
+    39.75806
+],
+  "geometry": {"coordinates":[117.44556,39.75806],"type":"Point"}
+}

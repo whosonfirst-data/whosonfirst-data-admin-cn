@@ -1,0 +1,64 @@
+{
+  "id": 1209111181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.82068,32.93127,119.82068,32.93127",
+    "geom:latitude":32.93127,
+    "geom:longitude":119.82068,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chengbaocun",
+    "gn:country_code":"CN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8262505,
+    "gn:latitude":32.93127,
+    "gn:longitude":119.82068,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Chengbaocun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u57ce\u5821\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8262505
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0e69c5c1596dfd3fdfd40f276c2a88fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209111181
+        }
+    ],
+    "wof:id":1209111181,
+    "wof:lastmodified":1537602809,
+    "wof:name":"Chengbaocun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.82068,
+    32.93127,
+    119.82068,
+    32.93127
+],
+  "geometry": {"coordinates":[119.82068,32.93127],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242700259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.00055,42.16749,129.00055,42.16749",
+    "geom:latitude":42.16749,
+    "geom:longitude":129.00055,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yushi",
+    "gn:country_code":"CN",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7491763,
+    "gn:latitude":42.16749,
+    "gn:longitude":129.00055,
+    "gn:modification_date":"2013-10-10",
+    "gn:name":"Yushi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yushicun",
+        "\u7389\u77f3\u6751",
+        "Y\u00fc-shih-tung",
+        "Yushi",
+        "\u7389\u77f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669843,
+        102191569,
+        85632695,
+        136253041,
+        1108732421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7491763
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fa2ebb132c303212bcb8d219aebbcb3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732421,
+            "empire_id":136253041,
+            "locality_id":1242700259,
+            "region_id":85669843
+        }
+    ],
+    "wof:id":1242700259,
+    "wof:lastmodified":1537599408,
+    "wof:name":"Yushi",
+    "wof:parent_id":1108732421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.00055,
+    42.16749,
+    129.00055,
+    42.16749
+],
+  "geometry": {"coordinates":[129.00055,42.16749],"type":"Point"}
+}

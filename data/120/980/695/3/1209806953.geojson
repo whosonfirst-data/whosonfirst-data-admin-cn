@@ -1,0 +1,77 @@
+{
+  "id": 1209806953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.09945,25.10001,116.09945,25.10001",
+    "geom:latitude":25.10001,
+    "geom:longitude":116.09945,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Qifang",
+    "gn:country_code":"CN",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1921720,
+    "gn:latitude":25.10001,
+    "gn:longitude":116.09945,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qifang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chengxiang",
+        "Qifang",
+        "\u4e03\u574a",
+        "Chengxiang Xiang",
+        "\u57ce\u53a2",
+        "\u57ce\u53a2\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1921720
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c8f03aafcc2ce9acb2d51453e3582c37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516203,
+            "empire_id":136253041,
+            "locality_id":1209806953,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1209806953,
+    "wof:lastmodified":1537594876,
+    "wof:name":"Qifang",
+    "wof:parent_id":890516203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.09945,
+    25.10001,
+    116.09945,
+    25.10001
+],
+  "geometry": {"coordinates":[116.09945,25.10001],"type":"Point"}
+}

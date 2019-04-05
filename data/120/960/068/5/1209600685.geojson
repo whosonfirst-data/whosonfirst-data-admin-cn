@@ -1,0 +1,64 @@
+{
+  "id": 1209600685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.48219,45.32417,129.48219,45.32417",
+    "geom:latitude":45.32417,
+    "geom:longitude":129.48219,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Shigongli",
+    "gn:country_code":"CN",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11588218,
+    "gn:latitude":45.32417,
+    "gn:longitude":129.48219,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Shigongli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5341\u516c\u91cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11588218
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"705e4cb9bdb59558664e58ec02653059",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209600685
+        }
+    ],
+    "wof:id":1209600685,
+    "wof:lastmodified":1537618256,
+    "wof:name":"Shigongli",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.48219,
+    45.32417,
+    129.48219,
+    45.32417
+],
+  "geometry": {"coordinates":[129.48219,45.32417],"type":"Point"}
+}

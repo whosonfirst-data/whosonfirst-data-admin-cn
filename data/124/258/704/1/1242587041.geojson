@@ -1,0 +1,80 @@
+{
+  "id": 1242587041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.51049,31.49799,118.51049,31.49799",
+    "geom:latitude":31.49799,
+    "geom:longitude":118.51049,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taibai",
+    "gn:country_code":"CN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1552855,
+    "gn:latitude":31.49799,
+    "gn:longitude":118.51049,
+    "gn:modification_date":"2012-10-06",
+    "gn:name":"Taibai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhangjianian",
+        "Taibai Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u592a\u767d"
+    ],
+    "name:zho_x_variant":[
+        "\u5f20\u5bb6\u78be",
+        "\u592a\u767d\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        1108732543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1552855
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7d13006a818dcd6e46efa0bab3758b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732543,
+            "empire_id":136253041,
+            "locality_id":1242587041,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1242587041,
+    "wof:lastmodified":1537591759,
+    "wof:name":"Taibai",
+    "wof:parent_id":1108732543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.51049,
+    31.49799,
+    118.51049,
+    31.49799
+],
+  "geometry": {"coordinates":[118.51049,31.49799],"type":"Point"}
+}

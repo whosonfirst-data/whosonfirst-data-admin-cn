@@ -1,0 +1,64 @@
+{
+  "id": 1209662211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.241,23.4685,103.241,23.4685",
+    "geom:latitude":23.4685,
+    "geom:longitude":103.241,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Tazhakou",
+    "gn:country_code":"CN",
+    "gn:dem":1320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10037874,
+    "gn:latitude":23.4685,
+    "gn:longitude":103.241,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Tazhakou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4ed6\u672d\u53e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10037874
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8f6b5ed7babd56f3a59502294807689c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209662211
+        }
+    ],
+    "wof:id":1209662211,
+    "wof:lastmodified":1537609615,
+    "wof:name":"Tazhakou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.241,
+    23.4685,
+    103.241,
+    23.4685
+],
+  "geometry": {"coordinates":[103.241,23.4685],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1344056865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.65991,31.57727,120.65991,31.57727",
+    "geom:latitude":31.57727,
+    "geom:longitude":120.65991,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Shenbangcun",
+    "gn:country_code":"CN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1898215,
+    "gn:latitude":31.57727,
+    "gn:longitude":120.65991,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Shenbangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shen-pang",
+        "Shenbang",
+        "Shenbangcun"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c88\u90a6\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1898215
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b6c5eb0f8e9ce6e30dcd9608534ac724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515879,
+            "empire_id":136253041,
+            "locality_id":1344056865,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1344056865,
+    "wof:lastmodified":1537594423,
+    "wof:name":"Shenbangcun",
+    "wof:parent_id":890515879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.65991,
+    31.57727,
+    120.65991,
+    31.57727
+],
+  "geometry": {"coordinates":[120.65991,31.57727],"type":"Point"}
+}

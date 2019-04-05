@@ -1,0 +1,79 @@
+{
+  "id": 1226822645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.56406,31.07358,80.56406,31.07358",
+    "geom:latitude":31.07358,
+    "geom:longitude":80.56406,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kyunglung",
+    "gn:country_code":"CN",
+    "gn:dem":4244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":1280783,
+    "gn:latitude":31.07358,
+    "gn:longitude":80.56406,
+    "gn:modification_date":"2014-04-30",
+    "gn:name":"Kyunglung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Kyunglung"
+    ],
+    "name:zho_x_preferred":[
+        "Qulong"
+    ],
+    "name:zho_x_variant":[
+        "\u66f2\u9f99"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1280783,
+        "wk:page":"Kyunglung"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bc8a948ca4be07d065ea22f1a25c7d8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732537,
+            "empire_id":136253041,
+            "locality_id":1226822645,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226822645,
+    "wof:lastmodified":1537591478,
+    "wof:name":"Kyunglung",
+    "wof:parent_id":1108732537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.56406,
+    31.07358,
+    80.56406,
+    31.07358
+],
+  "geometry": {"coordinates":[80.56406,31.07358],"type":"Point"}
+}

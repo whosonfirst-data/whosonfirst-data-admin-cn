@@ -1,0 +1,80 @@
+{
+  "id": 1225848863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.18777,29.67478,118.18777,29.67478",
+    "geom:latitude":29.67478,
+    "geom:longitude":118.18777,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dongzhoucun",
+    "gn:country_code":"CN",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1553358,
+    "gn:latitude":29.67478,
+    "gn:longitude":118.18777,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Dongzhoucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dongzhou",
+        "\u4e1c\u5dde",
+        "Dongzhoucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u5dde"
+    ],
+    "name:zho_x_variant":[
+        "\u4e1c\u5dde\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        1108732553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1553358
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"34f062640a703cc8f2544d3be6499b87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732553,
+            "empire_id":136253041,
+            "locality_id":1225848863,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1225848863,
+    "wof:lastmodified":1537591772,
+    "wof:name":"Dongzhoucun",
+    "wof:parent_id":1108732553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.18777,
+    29.67478,
+    118.18777,
+    29.67478
+],
+  "geometry": {"coordinates":[118.18777,29.67478],"type":"Point"}
+}

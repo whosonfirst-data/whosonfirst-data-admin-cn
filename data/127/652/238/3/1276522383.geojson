@@ -1,0 +1,75 @@
+{
+  "id": 1276522383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.30974,41.29524,123.30974,41.29524",
+    "geom:latitude":41.29524,
+    "geom:longitude":123.30974,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Choujingzi",
+    "gn:country_code":"CN",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7397760,
+    "gn:latitude":41.29524,
+    "gn:longitude":123.30974,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Choujingzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u7a20\u4e95\u5b50"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a20\u4e95\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7397760
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1fda90c0bd64aafc01b0a81d077f700b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514643,
+            "empire_id":136253041,
+            "locality_id":1276522383,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1276522383,
+    "wof:lastmodified":1537598531,
+    "wof:name":"Choujingzi",
+    "wof:parent_id":890514643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.30974,
+    41.29524,
+    123.30974,
+    41.29524
+],
+  "geometry": {"coordinates":[123.30974000000001,41.29524],"type":"Point"}
+}

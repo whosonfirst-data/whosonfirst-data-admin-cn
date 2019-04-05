@@ -1,0 +1,64 @@
+{
+  "id": 1209091621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.9073,48.14995,123.9073,48.14995",
+    "geom:latitude":48.14995,
+    "geom:longitude":123.9073,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Zhanghaishantun",
+    "gn:country_code":"CN",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472060,
+    "gn:latitude":48.14995,
+    "gn:longitude":123.9073,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Zhanghaishantun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5f20\u6d77\u5c71\u5c6f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472060
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"33d40477b5942d4787807d2ff4437f8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209091621
+        }
+    ],
+    "wof:id":1209091621,
+    "wof:lastmodified":1537603878,
+    "wof:name":"Zhanghaishantun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.9073,
+    48.14995,
+    123.9073,
+    48.14995
+],
+  "geometry": {"coordinates":[123.90730000000001,48.14995],"type":"Point"}
+}

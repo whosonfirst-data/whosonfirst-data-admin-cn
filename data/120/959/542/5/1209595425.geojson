@@ -1,0 +1,64 @@
+{
+  "id": 1209595425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.26765,30.25729,109.26765,30.25729",
+    "geom:latitude":30.25729,
+    "geom:longitude":109.26765,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zaoshuping",
+    "gn:country_code":"CN",
+    "gn:dem":836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8517066,
+    "gn:latitude":30.25729,
+    "gn:longitude":109.26765,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Zaoshuping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u67a3\u6811\u576a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8517066
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"924c22fe50ce03041252c05caa6e51e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209595425
+        }
+    ],
+    "wof:id":1209595425,
+    "wof:lastmodified":1537604154,
+    "wof:name":"Zaoshuping",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.26765,
+    30.25729,
+    109.26765,
+    30.25729
+],
+  "geometry": {"coordinates":[109.26765,30.25729],"type":"Point"}
+}

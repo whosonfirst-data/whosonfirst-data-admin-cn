@@ -1,0 +1,78 @@
+{
+  "id": 1226325817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.701,31.401,93.701,31.401",
+    "geom:latitude":31.401,
+    "geom:longitude":93.701,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yardong",
+    "gn:country_code":"CN",
+    "gn:dem":4887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8078677,
+    "gn:latitude":31.401,
+    "gn:longitude":93.701,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Yardong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Yardong"
+    ],
+    "name:zho_x_preferred":[
+        "Yadong"
+    ],
+    "name:zho_x_variant":[
+        "\u4e9a\u680b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8078677
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"aa6590e2452da58444a2c6cae1b3e22a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1226325817,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226325817,
+    "wof:lastmodified":1537602560,
+    "wof:name":"Yardong",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.701,
+    31.401,
+    93.701,
+    31.401
+],
+  "geometry": {"coordinates":[93.70099999999999,31.401],"type":"Point"}
+}

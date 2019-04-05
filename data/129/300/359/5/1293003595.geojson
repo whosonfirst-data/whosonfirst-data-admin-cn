@@ -1,0 +1,69 @@
+{
+  "id": 1293003595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.55,29.89722,121.55,29.89722",
+    "geom:latitude":29.89722,
+    "geom:longitude":121.55,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Wantou",
+    "gn:country_code":"CN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1887115,
+    "gn:latitude":29.89722,
+    "gn:longitude":121.55,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Wantou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1887115
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c7d9d811b583a1e07abf8682c2c2de23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516553,
+            "empire_id":136253041,
+            "locality_id":1293003595,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1293003595,
+    "wof:lastmodified":1536986779,
+    "wof:name":"Wantou",
+    "wof:parent_id":890516553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.55,
+    29.89722,
+    121.55,
+    29.89722
+],
+  "geometry": {"coordinates":[121.55,29.89722],"type":"Point"}
+}

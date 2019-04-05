@@ -1,0 +1,76 @@
+{
+  "id": 1293459775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.28417,35.79889,104.28417,35.79889",
+    "geom:latitude":35.79889,
+    "geom:longitude":104.28417,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Gancaodian",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":1875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1810789,
+    "gn:latitude":35.79889,
+    "gn:longitude":104.28417,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gancaodian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kan-ts\u2019ao-tien",
+        "Gan\u2019tsaodyan\u2019",
+        "Kan-ts\u2019au-tien",
+        "Gancaodian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669711,
+        102191569,
+        85632695,
+        136253041,
+        890513013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1810789
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"186f7e82c00bd7e5e06586488b31eb95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513013,
+            "empire_id":136253041,
+            "locality_id":1293459775,
+            "region_id":85669711
+        }
+    ],
+    "wof:id":1293459775,
+    "wof:lastmodified":1537593662,
+    "wof:name":"Gancaodian",
+    "wof:parent_id":890513013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.28417,
+    35.79889,
+    104.28417,
+    35.79889
+],
+  "geometry": {"coordinates":[104.28417,35.79889],"type":"Point"}
+}

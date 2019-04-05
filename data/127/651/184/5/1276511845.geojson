@@ -1,0 +1,69 @@
+{
+  "id": 1276511845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.31861,40.685,111.31861,40.685",
+    "geom:latitude":40.685,
+    "geom:longitude":111.31861,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Gouziban",
+    "gn:country_code":"CN",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2052471,
+    "gn:latitude":40.685,
+    "gn:longitude":111.31861,
+    "gn:modification_date":"2001-02-09",
+    "gn:name":"Gouziban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669847,
+        102191569,
+        85632695,
+        136253041,
+        890513779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2052471
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d8153c3a201713f63c6acc19b662f0fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513779,
+            "empire_id":136253041,
+            "locality_id":1276511845,
+            "region_id":85669847
+        }
+    ],
+    "wof:id":1276511845,
+    "wof:lastmodified":1537035473,
+    "wof:name":"Gouziban",
+    "wof:parent_id":890513779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.31861,
+    40.685,
+    111.31861,
+    40.685
+],
+  "geometry": {"coordinates":[111.31861000000001,40.685],"type":"Point"}
+}

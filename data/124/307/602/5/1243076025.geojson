@@ -1,0 +1,75 @@
+{
+  "id": 1243076025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.78182,28.02442,120.78182,28.02442",
+    "geom:latitude":28.02442,
+    "geom:longitude":120.78182,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Wansheng",
+    "gn:country_code":"CN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8402068,
+    "gn:latitude":28.02442,
+    "gn:longitude":120.78182,
+    "gn:modification_date":"2013-11-01",
+    "gn:name":"Wansheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043d\u044c\u0448\u044d\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e07\u5723"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890514289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8402068
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"dd3c36401969dc088a233baa44dc8b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514289,
+            "empire_id":136253041,
+            "locality_id":1243076025,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1243076025,
+    "wof:lastmodified":1537603364,
+    "wof:name":"Wansheng",
+    "wof:parent_id":890514289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.78182,
+    28.02442000000001,
+    120.78182,
+    28.02442000000001
+],
+  "geometry": {"coordinates":[120.78182,28.02442000000001],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209365249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.279,25.9468,103.279,25.9468",
+    "geom:latitude":25.9468,
+    "geom:longitude":103.279,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Lunaqing",
+    "gn:country_code":"CN",
+    "gn:dem":2053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10158688,
+    "gn:latitude":25.9468,
+    "gn:longitude":103.279,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Lunaqing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9c81\u7eb3\u7b90"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10158688
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7a3506016505cf2a2ee3d3769f903abf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209365249
+        }
+    ],
+    "wof:id":1209365249,
+    "wof:lastmodified":1537610716,
+    "wof:name":"Lunaqing",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.279,
+    25.9468,
+    103.279,
+    25.9468
+],
+  "geometry": {"coordinates":[103.279,25.9468],"type":"Point"}
+}

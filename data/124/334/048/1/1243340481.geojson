@@ -1,0 +1,77 @@
+{
+  "id": 1243340481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.45944,32.27861,111.45944,32.27861",
+    "geom:latitude":32.27861,
+    "geom:longitude":111.45944,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Shihuajie",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1795334,
+    "gn:latitude":32.27861,
+    "gn:longitude":111.45944,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shihuajie",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihuachieh",
+        "Shihhwakai",
+        "Shih-hua-chieh",
+        "Shih-hua-chich",
+        "Shihuajie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1795334
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5e05fe000f1209d7e4cb1cc7a1a2ea0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732497,
+            "empire_id":136253041,
+            "locality_id":1243340481,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1243340481,
+    "wof:lastmodified":1537592662,
+    "wof:name":"Shihuajie",
+    "wof:parent_id":1108732497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.45944,
+    32.27861,
+    111.45944,
+    32.27861
+],
+  "geometry": {"coordinates":[111.45944,32.27861],"type":"Point"}
+}

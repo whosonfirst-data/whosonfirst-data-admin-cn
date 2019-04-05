@@ -1,0 +1,64 @@
+{
+  "id": 1209461403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.00714,23.92232,112.00714,23.92232",
+    "geom:latitude":23.92232,
+    "geom:longitude":112.00714,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Zhouwu",
+    "gn:country_code":"CN",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6972038,
+    "gn:latitude":23.92232,
+    "gn:longitude":112.00714,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Zhouwu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5468\u5c4b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6972038
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bd90adbb7b3c8789977e27c7d40864d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209461403
+        }
+    ],
+    "wof:id":1209461403,
+    "wof:lastmodified":1537597070,
+    "wof:name":"Zhouwu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.00714,
+    23.92232000000001,
+    112.00714,
+    23.92232000000001
+],
+  "geometry": {"coordinates":[112.00714000000001,23.92232000000001],"type":"Point"}
+}

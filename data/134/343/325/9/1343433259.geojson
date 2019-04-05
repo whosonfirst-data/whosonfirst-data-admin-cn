@@ -1,0 +1,76 @@
+{
+  "id": 1343433259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.068,24.7215,105.068,24.7215",
+    "geom:latitude":24.7215,
+    "geom:longitude":105.068,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zheyao",
+    "gn:country_code":"CN",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9911306,
+    "gn:latitude":24.7215,
+    "gn:longitude":105.068,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Zheyao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zheme",
+        "Zheyao"
+    ],
+    "name:zho_x_preferred":[
+        "\u8005\u4e48"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669717,
+        102191569,
+        85632695,
+        136253041,
+        890516485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9911306
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9d123ae66cea1dd6a12c246d8ad94ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516485,
+            "empire_id":136253041,
+            "locality_id":1343433259,
+            "region_id":85669717
+        }
+    ],
+    "wof:id":1343433259,
+    "wof:lastmodified":1537607112,
+    "wof:name":"Zheyao",
+    "wof:parent_id":890516485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.068,
+    24.7215,
+    105.068,
+    24.7215
+],
+  "geometry": {"coordinates":[105.068,24.7215],"type":"Point"}
+}

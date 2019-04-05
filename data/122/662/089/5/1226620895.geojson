@@ -1,0 +1,77 @@
+{
+  "id": 1226620895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.57395,40.39736,123.57395,40.39736",
+    "geom:latitude":40.39736,
+    "geom:longitude":123.57395,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Guanjiabu",
+    "gn:country_code":"CN",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7404422,
+    "gn:latitude":40.39736,
+    "gn:longitude":123.57395,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Guanjiabu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guanjiabao",
+        "\u5173\u5bb6\u5821",
+        "Guanjiabu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5173\u5bb6\u5821"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7404422
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"448497628ebd397ef54975a3c885de1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514231,
+            "empire_id":136253041,
+            "locality_id":1226620895,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1226620895,
+    "wof:lastmodified":1537598917,
+    "wof:name":"Guanjiabu",
+    "wof:parent_id":890514231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.57395,
+    40.39736,
+    123.57395,
+    40.39736
+],
+  "geometry": {"coordinates":[123.57395,40.39736],"type":"Point"}
+}

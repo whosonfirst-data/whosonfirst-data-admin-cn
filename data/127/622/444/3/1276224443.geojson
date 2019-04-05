@@ -1,0 +1,79 @@
+{
+  "id": 1276224443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.50974,35.57169,100.50974,35.57169",
+    "geom:latitude":35.57169,
+    "geom:longitude":100.50974,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dalung",
+    "gn:country_code":"CN",
+    "gn:dem":3286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1813984,
+    "gn:latitude":35.57169,
+    "gn:longitude":100.50974,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dalung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Dalung"
+    ],
+    "name:und_x_variant":[
+        "Dalong",
+        "\u8fbe\u9f99"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fbe\u9f99"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669715,
+        102191569,
+        85632695,
+        136253041,
+        890515871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1813984
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"618661ceaa7e09fc376f649c60380bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515871,
+            "empire_id":136253041,
+            "locality_id":1276224443,
+            "region_id":85669715
+        }
+    ],
+    "wof:id":1276224443,
+    "wof:lastmodified":1537593855,
+    "wof:name":"Dalung",
+    "wof:parent_id":890515871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.50974,
+    35.57169000000001,
+    100.50974,
+    35.57169000000001
+],
+  "geometry": {"coordinates":[100.50973999999999,35.57169000000001],"type":"Point"}
+}

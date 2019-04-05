@@ -1,0 +1,84 @@
+{
+  "id": 1310129653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.45319,31.80652,119.45319,31.80652",
+    "geom:latitude":31.80652,
+    "geom:longitude":119.45319,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhixi",
+    "gn:country_code":"CN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1784486,
+    "gn:latitude":31.80652,
+    "gn:longitude":119.45319,
+    "gn:modification_date":"2012-10-06",
+    "gn:name":"Zhixi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chih-ch\u2019i",
+        "Chen-ch\u2019i-ch\u2019iao-chen",
+        "Chih-hsi-ch\u2019iao",
+        "Chih-ch\u2019i-ch\u2019iao",
+        "Zhixiqiao",
+        "Zhixi",
+        "Zhixi Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u76f4\u6eaa"
+    ],
+    "name:zho_x_variant":[
+        "\u76f4\u6eaa\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890514735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1784486
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2716aae521e362d3587e04de0a922b14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514735,
+            "empire_id":136253041,
+            "locality_id":1310129653,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1310129653,
+    "wof:lastmodified":1537591929,
+    "wof:name":"Zhixi",
+    "wof:parent_id":890514735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.45319,
+    31.80652000000001,
+    119.45319,
+    31.80652000000001
+],
+  "geometry": {"coordinates":[119.45319000000001,31.80652000000001],"type":"Point"}
+}

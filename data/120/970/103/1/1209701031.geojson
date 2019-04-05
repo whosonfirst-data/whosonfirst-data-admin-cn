@@ -1,0 +1,78 @@
+{
+  "id": 1209701031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.15,44.11667,129.15,44.11667",
+    "geom:latitude":44.11667,
+    "geom:longitude":129.15,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bohai",
+    "gn:country_code":"CN",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2038277,
+    "gn:latitude":44.11667,
+    "gn:longitude":129.15,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Bohai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bohai Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e24\u6d77"
+    ],
+    "name:zho_x_variant":[
+        "\u6e24\u6d77\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890515915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2038277
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"20d7725c161ce4fcde29b958d7631948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515915,
+            "empire_id":136253041,
+            "locality_id":1209701031,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1209701031,
+    "wof:lastmodified":1537595872,
+    "wof:name":"Bohai",
+    "wof:parent_id":890515915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.15,
+    44.11667,
+    129.15,
+    44.11667
+],
+  "geometry": {"coordinates":[129.15000000000001,44.11667],"type":"Point"}
+}

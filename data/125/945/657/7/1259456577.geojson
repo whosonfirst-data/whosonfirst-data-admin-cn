@@ -1,0 +1,78 @@
+{
+  "id": 1259456577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.1,32.0,98.1,32.0",
+    "geom:latitude":32.0,
+    "geom:longitude":98.1,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Garrong",
+    "gn:country_code":"CN",
+    "gn:dem":4414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930222,
+    "gn:latitude":32.0,
+    "gn:longitude":98.1,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Garrong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Garrong"
+    ],
+    "name:zho_x_preferred":[
+        "Garong"
+    ],
+    "name:zho_x_variant":[
+        "\u560e\u7ed2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930222
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2e839405563003e13aa5983a01381bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1259456577,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1259456577,
+    "wof:lastmodified":1537602081,
+    "wof:name":"Garrong",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.1,
+    32.0,
+    98.1,
+    32.0
+],
+  "geometry": {"coordinates":[98.09999999999999,32.0],"type":"Point"}
+}

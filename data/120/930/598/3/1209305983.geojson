@@ -1,0 +1,64 @@
+{
+  "id": 1209305983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.43149,24.05762,117.43149,24.05762",
+    "geom:latitude":24.05762,
+    "geom:longitude":117.43149,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gulou",
+    "gn:country_code":"CN",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8597703,
+    "gn:latitude":24.05762,
+    "gn:longitude":117.43149,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Gulou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u53e4\u697c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8597703
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"15bfd039f134d409f355e30b0fa1584d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209305983
+        }
+    ],
+    "wof:id":1209305983,
+    "wof:lastmodified":1537604800,
+    "wof:name":"Gulou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.43149,
+    24.05762,
+    117.43149,
+    24.05762
+],
+  "geometry": {"coordinates":[117.43149,24.05762],"type":"Point"}
+}

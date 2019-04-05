@@ -1,0 +1,80 @@
+{
+  "id": 1226018477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.002,29.902,88.002,29.902",
+    "geom:latitude":29.902,
+    "geom:longitude":88.002,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ogma",
+    "gn:country_code":"CN",
+    "gn:dem":4644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8078240,
+    "gn:latitude":29.902,
+    "gn:longitude":88.002,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ogma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Ogma"
+    ],
+    "name:zho_x_preferred":[
+        "Wama"
+    ],
+    "name:zho_x_variant":[
+        "\u74e6\u739b",
+        "La\u2019alang Gongshe",
+        "\u62c9\u963f\u6717\u516c\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8078240
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"015db854937973ca04ee384817bdd49d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1226018477,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226018477,
+    "wof:lastmodified":1537602551,
+    "wof:name":"Ogma",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.00200000000002,
+    29.902,
+    88.00200000000002,
+    29.902
+],
+  "geometry": {"coordinates":[88.00200000000002,29.902],"type":"Point"}
+}

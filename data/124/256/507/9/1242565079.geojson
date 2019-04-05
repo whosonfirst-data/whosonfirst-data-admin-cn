@@ -1,0 +1,88 @@
+{
+  "id": 1242565079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.25379,26.00188,113.25379,26.00188",
+    "geom:latitude":26.00188,
+    "geom:longitude":113.25379,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tangdong",
+    "gn:country_code":"CN",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1783688,
+    "gn:latitude":26.00188,
+    "gn:longitude":113.25379,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Tangdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hing-ning-hsien",
+        "Hsing-ning",
+        "Tsehhing",
+        "Tzu-hsing-hsien",
+        "Hingning",
+        "Tzehing",
+        "Tzehsing-hsien",
+        "Tzu-hsing",
+        "Zixing",
+        "Tangdong",
+        "Zixing Shi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5510\u6d1e"
+    ],
+    "name:zho_x_variant":[
+        "\u8d44\u5174\u5e02"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890516905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1783688
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8eec4dd23401a7a1560448142a1ac26a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516905,
+            "empire_id":136253041,
+            "locality_id":1242565079,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1242565079,
+    "wof:lastmodified":1537591872,
+    "wof:name":"Tangdong",
+    "wof:parent_id":890516905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.25379,
+    26.00188,
+    113.25379,
+    26.00188
+],
+  "geometry": {"coordinates":[113.25379,26.00188],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209973443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.77057,34.57649,109.77057,34.57649",
+    "geom:latitude":34.57649,
+    "geom:longitude":109.77057,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Xiamiao",
+    "gn:country_code":"CN",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1790636,
+    "gn:latitude":34.57649,
+    "gn:longitude":109.77057,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Xiamiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsia-miao",
+        "Hsia-miao-chen",
+        "\u4e0b\u5e99",
+        "Xiamiao",
+        "Xiamiao Zhen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890511937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1790636
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ccec2cc859d0fefb8e8a0d4954440de5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890511937,
+            "empire_id":136253041,
+            "locality_id":1209973443,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1209973443,
+    "wof:lastmodified":1537592351,
+    "wof:name":"Xiamiao",
+    "wof:parent_id":890511937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.77057,
+    34.57649,
+    109.77057,
+    34.57649
+],
+  "geometry": {"coordinates":[109.77057000000001,34.57649],"type":"Point"}
+}

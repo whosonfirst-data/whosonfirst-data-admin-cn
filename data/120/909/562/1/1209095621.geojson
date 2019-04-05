@@ -1,0 +1,65 @@
+{
+  "id": 1209095621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.90222,34.68056,113.90222,34.68056",
+    "geom:latitude":34.68056,
+    "geom:longitude":113.90222,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zheng'an",
+    "gn:country_code":"CN",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1784731,
+    "gn:latitude":34.68056,
+    "gn:longitude":113.90222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zheng\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cheng-an",
+        "Zheng\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1784731
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f28f5397b103aa15fe3e071cc799c8ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209095621
+        }
+    ],
+    "wof:id":1209095621,
+    "wof:lastmodified":1537591945,
+    "wof:name":"Zheng'an",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.90222,
+    34.68056,
+    113.90222,
+    34.68056
+],
+  "geometry": {"coordinates":[113.90222,34.68056],"type":"Point"}
+}

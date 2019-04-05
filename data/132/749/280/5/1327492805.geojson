@@ -1,0 +1,79 @@
+{
+  "id": 1327492805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.15264,29.28385,105.15264,29.28385",
+    "geom:latitude":29.28385,
+    "geom:longitude":105.15264,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Xiangshi",
+    "gn:country_code":"CN",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1790509,
+    "gn:latitude":29.28385,
+    "gn:longitude":105.15264,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Xiangshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsiang-shih-chen",
+        "Xiangshizhen",
+        "Hsiang-shih-shan",
+        "Xiangshishan",
+        "Xiangshi"
+    ],
+    "name:zho_x_preferred":[
+        "\u54cd\u77f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        1108732369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1790509
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3d22b1a5beeeca726903f81d7514d450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732369,
+            "empire_id":136253041,
+            "locality_id":1327492805,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1327492805,
+    "wof:lastmodified":1537592341,
+    "wof:name":"Xiangshi",
+    "wof:parent_id":1108732369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.15264,
+    29.28385,
+    105.15264,
+    29.28385
+],
+  "geometry": {"coordinates":[105.15264000000001,29.28385],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1260297187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.45661,28.62202,121.45661,28.62202",
+    "geom:latitude":28.62202,
+    "geom:longitude":121.45661,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Loulicun",
+    "gn:country_code":"CN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1897635,
+    "gn:latitude":28.62202,
+    "gn:longitude":121.45661,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Loulicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liu-li",
+        "Louli",
+        "Loulicun"
+    ],
+    "name:zho_x_preferred":[
+        "\u697c\u91cc"
+    ],
+    "name:zho_x_variant":[
+        "\u697c\u91cc\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890515633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1897635
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"79964158875af7a4f049539338137112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515633,
+            "empire_id":136253041,
+            "locality_id":1260297187,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1260297187,
+    "wof:lastmodified":1537594393,
+    "wof:name":"Loulicun",
+    "wof:parent_id":890515633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.45661,
+    28.62202000000001,
+    121.45661,
+    28.62202000000001
+],
+  "geometry": {"coordinates":[121.45661,28.62202000000001],"type":"Point"}
+}

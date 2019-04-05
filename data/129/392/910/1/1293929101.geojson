@@ -1,0 +1,76 @@
+{
+  "id": 1293929101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.16474,29.41975,105.16474,29.41975",
+    "geom:latitude":29.41975,
+    "geom:longitude":105.16474,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Taipingpu",
+    "gn:country_code":"CN",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1904100,
+    "gn:latitude":29.41975,
+    "gn:longitude":105.16474,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taipingpu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taiping",
+        "Taipingpu"
+    ],
+    "name:zho_x_preferred":[
+        "\u592a\u5e73\u94fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        1108732369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1904100
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6ffcc8b9614c5db27463fd84a8066654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732369,
+            "empire_id":136253041,
+            "locality_id":1293929101,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1293929101,
+    "wof:lastmodified":1537594499,
+    "wof:name":"Taipingpu",
+    "wof:parent_id":1108732369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.16474,
+    29.41975,
+    105.16474,
+    29.41975
+],
+  "geometry": {"coordinates":[105.16473999999999,29.41975],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276849605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.48439,39.83227,119.48439,39.83227",
+    "geom:latitude":39.83227,
+    "geom:longitude":119.48439,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Beidaihe",
+    "gn:country_code":"CN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":9937668,
+    "gn:latitude":39.83227,
+    "gn:longitude":119.48439,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Beidaihe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Beidaihe"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u6234\u6cb3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669797,
+        102191569,
+        85632695,
+        136253041,
+        890513075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9937668,
+        "wk:page":"Beidaihe_District"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0e3f882cd5a786551398bf7cf391b8da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513075,
+            "empire_id":136253041,
+            "locality_id":1276849605,
+            "region_id":85669797
+        }
+    ],
+    "wof:id":1276849605,
+    "wof:lastmodified":1537607902,
+    "wof:name":"Beidaihe",
+    "wof:parent_id":890513075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.48439,
+    39.83227,
+    119.48439,
+    39.83227
+],
+  "geometry": {"coordinates":[119.48439,39.83227],"type":"Point"}
+}

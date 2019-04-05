@@ -1,0 +1,78 @@
+{
+  "id": 1243022957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.33161,32.9164,109.33161,32.9164",
+    "geom:latitude":32.9164,
+    "geom:longitude":109.33161,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Shiliwacun",
+    "gn:country_code":"CN",
+    "gn:dem":867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1795224,
+    "gn:latitude":32.9164,
+    "gn:longitude":109.33161,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Shiliwacun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shili\u2019ao",
+        "Shih-li-ao",
+        "Shili",
+        "Shiliwacun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5341\u91cc\u6d3c\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1795224
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"24e4784d5d2e0801bee2eac860a25a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515101,
+            "empire_id":136253041,
+            "locality_id":1243022957,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1243022957,
+    "wof:lastmodified":1537592654,
+    "wof:name":"Shiliwacun",
+    "wof:parent_id":890515101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.33161,
+    32.9164,
+    109.33161,
+    32.9164
+],
+  "geometry": {"coordinates":[109.33161,32.9164],"type":"Point"}
+}

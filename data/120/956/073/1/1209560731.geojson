@@ -1,0 +1,64 @@
+{
+  "id": 1209560731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.218,31.0351,105.218,31.0351",
+    "geom:latitude":31.0351,
+    "geom:longitude":105.218,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Xincheng",
+    "gn:country_code":"CN",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10161850,
+    "gn:latitude":31.0351,
+    "gn:longitude":105.218,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Xincheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u65b0\u57ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10161850
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"dac3237db23a06f88e39d00d1e416c77",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209560731
+        }
+    ],
+    "wof:id":1209560731,
+    "wof:lastmodified":1537610818,
+    "wof:name":"Xincheng",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.218,
+    31.0351,
+    105.218,
+    31.0351
+],
+  "geometry": {"coordinates":[105.218,31.0351],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209100841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.27328,41.10712,116.27328,41.10712",
+    "geom:latitude":41.10712,
+    "geom:longitude":116.27328,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Laochangzi",
+    "gn:country_code":"CN",
+    "gn:dem":1325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10000475,
+    "gn:latitude":41.10712,
+    "gn:longitude":116.27328,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Laochangzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8001\u573a\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10000475
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5c55e30111b995d3b5909dd6903fe9fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209100841
+        }
+    ],
+    "wof:id":1209100841,
+    "wof:lastmodified":1537608621,
+    "wof:name":"Laochangzi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.27328,
+    41.10712,
+    116.27328,
+    41.10712
+],
+  "geometry": {"coordinates":[116.27328,41.10712],"type":"Point"}
+}

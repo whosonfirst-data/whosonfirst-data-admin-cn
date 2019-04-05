@@ -1,0 +1,64 @@
+{
+  "id": 1209323171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.37649,27.95155,120.37649,27.95155",
+    "geom:latitude":27.95155,
+    "geom:longitude":120.37649,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sanjiaotou",
+    "gn:country_code":"CN",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6663396,
+    "gn:latitude":27.95155,
+    "gn:longitude":120.37649,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sanjiaotou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e09\u89d2\u5934"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6663396
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ec7a3fb9a05da85c54412302832ac96a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209323171
+        }
+    ],
+    "wof:id":1209323171,
+    "wof:lastmodified":1537596088,
+    "wof:name":"Sanjiaotou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.37649,
+    27.95155,
+    120.37649,
+    27.95155
+],
+  "geometry": {"coordinates":[120.37649,27.95155],"type":"Point"}
+}

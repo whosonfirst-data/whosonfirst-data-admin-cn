@@ -1,0 +1,77 @@
+{
+  "id": 1225902021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.4241,37.02144,111.4241,37.02144",
+    "geom:latitude":37.02144,
+    "geom:longitude":111.4241,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Damaijiao",
+    "gn:country_code":"CN",
+    "gn:dem":1089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1813963,
+    "gn:latitude":37.02144,
+    "gn:longitude":111.4241,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Damaijiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-mai-chiao",
+        "Ta-mai-chiao-chen",
+        "Damaijiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u9ea6\u90ca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        1108732379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1813963
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7b77d7c49a0c11cd8a4d68f9ed4a7339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732379,
+            "empire_id":136253041,
+            "locality_id":1225902021,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1225902021,
+    "wof:lastmodified":1537593853,
+    "wof:name":"Damaijiao",
+    "wof:parent_id":1108732379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.4241,
+    37.02144000000001,
+    111.4241,
+    37.02144000000001
+],
+  "geometry": {"coordinates":[111.4241,37.02144000000001],"type":"Point"}
+}

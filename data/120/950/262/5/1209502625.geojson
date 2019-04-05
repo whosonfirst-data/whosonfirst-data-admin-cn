@@ -1,0 +1,64 @@
+{
+  "id": 1209502625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.40589,28.02078,110.40589,28.02078",
+    "geom:latitude":28.02078,
+    "geom:longitude":110.40589,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Simeng",
+    "gn:country_code":"CN",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1794200,
+    "gn:latitude":28.02078,
+    "gn:longitude":110.40589,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Simeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u601d\u8499"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1794200
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2512ab17fcaae7573989a6c73955fb89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209502625
+        }
+    ],
+    "wof:id":1209502625,
+    "wof:lastmodified":1537592583,
+    "wof:name":"Simeng",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.40589,
+    28.02078,
+    110.40589,
+    28.02078
+],
+  "geometry": {"coordinates":[110.40589,28.02078],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209588509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.09512,34.45919,103.09512,34.45919",
+    "geom:latitude":34.45919,
+    "geom:longitude":103.09512,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Shiba",
+    "gn:country_code":"CN",
+    "gn:dem":2928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7343070,
+    "gn:latitude":34.45919,
+    "gn:longitude":103.09512,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shiba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u77f3\u5df4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7343070
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"984df8db482cc24dba3d934a67002668",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209588509
+        }
+    ],
+    "wof:id":1209588509,
+    "wof:lastmodified":1537598145,
+    "wof:name":"Shiba",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.09512,
+    34.45919,
+    103.09512,
+    34.45919
+],
+  "geometry": {"coordinates":[103.09511999999999,34.45919],"type":"Point"}
+}

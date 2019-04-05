@@ -1,0 +1,76 @@
+{
+  "id": 1310547657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.49701,22.2257,113.49701,22.2257",
+    "geom:latitude":22.2257,
+    "geom:longitude":113.49701,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Nanping",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1799848,
+    "gn:latitude":22.2257,
+    "gn:longitude":113.49701,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nanping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nanping Zhen",
+        "\u5357\u5c4f\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u5c4f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890516343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1799848
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d642fcffb322fa5a0eab2d40bdc8f3ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516343,
+            "empire_id":136253041,
+            "locality_id":1310547657,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1310547657,
+    "wof:lastmodified":1537592953,
+    "wof:name":"Nanping",
+    "wof:parent_id":890516343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.49701,
+    22.2257,
+    113.49701,
+    22.2257
+],
+  "geometry": {"coordinates":[113.49701,22.2257],"type":"Point"}
+}

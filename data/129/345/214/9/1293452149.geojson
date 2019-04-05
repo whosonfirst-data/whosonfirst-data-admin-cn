@@ -1,0 +1,75 @@
+{
+  "id": 1293452149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.2157,40.93004,120.2157,40.93004",
+    "geom:latitude":40.93004,
+    "geom:longitude":120.2157,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mazhangzi",
+    "gn:country_code":"CN",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7396284,
+    "gn:latitude":40.93004,
+    "gn:longitude":120.2157,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mazhangzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9a6c\u6756\u5b50"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u6756\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7396284
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"db764216787b177588ea3eccd630c53d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514399,
+            "empire_id":136253041,
+            "locality_id":1293452149,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1293452149,
+    "wof:lastmodified":1537598449,
+    "wof:name":"Mazhangzi",
+    "wof:parent_id":890514399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.2157,
+    40.93004000000001,
+    120.2157,
+    40.93004000000001
+],
+  "geometry": {"coordinates":[120.2157,40.93004000000001],"type":"Point"}
+}

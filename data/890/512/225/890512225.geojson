@@ -1,0 +1,71 @@
+{
+  "id": 890512225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.29802,29.95762,122.29802,29.95762",
+    "geom:latitude":29.95762,
+    "geom:longitude":122.29802,
+    "gn:country":"CN",
+    "gn:fcode":"PPLA4",
+    "gn:pop":95433,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "San Ka Mun"
+    ],
+    "qs:name":"Shenjiamen",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890513083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1795632,
+        "gp:id":2132611,
+        "qs:id":136459
+    },
+    "wof:country":"CN",
+    "wof:created":1469055763,
+    "wof:geomhash":"b4356f11ffb39dfbae75f2357a602b42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513083,
+            "empire_id":136253041,
+            "locality_id":890512225,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":890512225,
+    "wof:lastmodified":1505343886,
+    "wof:name":"Shenjiamen",
+    "wof:parent_id":890513083,
+    "wof:placetype":"locality",
+    "wof:population":95433,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.29802,
+    29.95762,
+    122.29802,
+    29.95762
+],
+  "geometry": {"coordinates":[122.29801999999999,29.95762],"type":"Point"}
+}

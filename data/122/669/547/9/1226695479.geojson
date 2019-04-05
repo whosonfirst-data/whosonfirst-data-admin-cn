@@ -1,0 +1,74 @@
+{
+  "id": 1226695479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.05,31.85,101.05,31.85",
+    "geom:latitude":31.85,
+    "geom:longitude":101.05,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Zango",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":4221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1785505,
+    "gn:latitude":31.85,
+    "gn:longitude":101.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zango",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San-Ku",
+        "Zango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        1108794065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1785505
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"75567a142302f49c86ee54e7478386d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794065,
+            "empire_id":136253041,
+            "locality_id":1226695479,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1226695479,
+    "wof:lastmodified":1537591999,
+    "wof:name":"Zango",
+    "wof:parent_id":1108794065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.05,
+    31.85,
+    101.05,
+    31.85
+],
+  "geometry": {"coordinates":[101.05,31.85],"type":"Point"}
+}

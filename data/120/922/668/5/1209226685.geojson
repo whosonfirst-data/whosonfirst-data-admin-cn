@@ -1,0 +1,65 @@
+{
+  "id": 1209226685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.78287,29.36955,119.78287,29.36955",
+    "geom:latitude":29.36955,
+    "geom:longitude":119.78287,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Jincun",
+    "gn:country_code":"CN",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6972653,
+    "gn:latitude":29.36955,
+    "gn:longitude":119.78287,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Jincun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u91d1\u6751",
+        "Jincun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6972653
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a062110ef9b1a7a6d3a3e5e139e68655",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209226685
+        }
+    ],
+    "wof:id":1209226685,
+    "wof:lastmodified":1537597094,
+    "wof:name":"Jincun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.78287,
+    29.36955,
+    119.78287,
+    29.36955
+],
+  "geometry": {"coordinates":[119.78287,29.36955],"type":"Point"}
+}

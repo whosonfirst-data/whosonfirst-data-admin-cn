@@ -1,0 +1,64 @@
+{
+  "id": 1209053341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.184,26.621,101.184,26.621",
+    "geom:latitude":26.621,
+    "geom:longitude":101.184,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Dalongdong",
+    "gn:country_code":"CN",
+    "gn:dem":1323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10137861,
+    "gn:latitude":26.621,
+    "gn:longitude":101.184,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Dalongdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u9f99\u6d1e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10137861
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b5384f56be698142753ff0f4312047f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209053341
+        }
+    ],
+    "wof:id":1209053341,
+    "wof:lastmodified":1537610085,
+    "wof:name":"Dalongdong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.184,
+    26.621,
+    101.184,
+    26.621
+],
+  "geometry": {"coordinates":[101.184,26.621],"type":"Point"}
+}

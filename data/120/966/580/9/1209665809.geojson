@@ -1,0 +1,64 @@
+{
+  "id": 1209665809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.017,27.7727,105.017,27.7727",
+    "geom:latitude":27.7727,
+    "geom:longitude":105.017,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Longlicun",
+    "gn:country_code":"CN",
+    "gn:dem":1260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10145201,
+    "gn:latitude":27.7727,
+    "gn:longitude":105.017,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Longlicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9f99\u91cc\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10145201
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7c601aaa0b2ff6a9892be7a9d33efefb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209665809
+        }
+    ],
+    "wof:id":1209665809,
+    "wof:lastmodified":1537610338,
+    "wof:name":"Longlicun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.017,
+    27.7727,
+    105.017,
+    27.7727
+],
+  "geometry": {"coordinates":[105.017,27.7727],"type":"Point"}
+}

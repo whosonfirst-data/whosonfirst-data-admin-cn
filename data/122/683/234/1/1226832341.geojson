@@ -1,0 +1,80 @@
+{
+  "id": 1226832341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.401,30.101,95.401,30.101",
+    "geom:latitude":30.101,
+    "geom:longitude":95.401,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nyilogka",
+    "gn:country_code":"CN",
+    "gn:dem":3903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8046499,
+    "gn:latitude":30.101,
+    "gn:longitude":95.401,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Nyilogka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Nyilogka"
+    ],
+    "name:zho_x_preferred":[
+        "Niluoka"
+    ],
+    "name:zho_x_variant":[
+        "\u5c3c\u843d\u5361",
+        "Yusha Gongshe",
+        "\u7389\u6c99\u516c\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8046499
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e5e7958aaf5f26ebcdb03ed171b74bc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515951,
+            "empire_id":136253041,
+            "locality_id":1226832341,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226832341,
+    "wof:lastmodified":1537602411,
+    "wof:name":"Nyilogka",
+    "wof:parent_id":890515951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.401,
+    30.101,
+    95.401,
+    30.101
+],
+  "geometry": {"coordinates":[95.401,30.101],"type":"Point"}
+}

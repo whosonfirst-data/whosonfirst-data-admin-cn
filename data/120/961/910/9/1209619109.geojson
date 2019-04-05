@@ -1,0 +1,64 @@
+{
+  "id": 1209619109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.40472,33.04968,115.40472,33.04968",
+    "geom:latitude":33.04968,
+    "geom:longitude":115.40472,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zhaoyingcun",
+    "gn:country_code":"CN",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11440286,
+    "gn:latitude":33.04968,
+    "gn:longitude":115.40472,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Zhaoyingcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8d75\u8425\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11440286
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"91796a3e50dfbf5ed1b2580b3fac65ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209619109
+        }
+    ],
+    "wof:id":1209619109,
+    "wof:lastmodified":1537616460,
+    "wof:name":"Zhaoyingcun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.40472,
+    33.04968,
+    115.40472,
+    33.04968
+],
+  "geometry": {"coordinates":[115.40472,33.04968],"type":"Point"}
+}

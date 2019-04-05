@@ -1,0 +1,64 @@
+{
+  "id": 1209495155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.89703,31.7504,110.89703,31.7504",
+    "geom:latitude":31.7504,
+    "geom:longitude":110.89703,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sandaoling",
+    "gn:country_code":"CN",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8510166,
+    "gn:latitude":31.7504,
+    "gn:longitude":110.89703,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Sandaoling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e09\u9053\u5cad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8510166
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1966bd44d855d31d12172b144d352529",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209495155
+        }
+    ],
+    "wof:id":1209495155,
+    "wof:lastmodified":1537603971,
+    "wof:name":"Sandaoling",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.89703,
+    31.7504,
+    110.89703,
+    31.7504
+],
+  "geometry": {"coordinates":[110.89703,31.7504],"type":"Point"}
+}

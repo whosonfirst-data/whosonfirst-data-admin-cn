@@ -1,0 +1,77 @@
+{
+  "id": 1309788245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.42009,33.19133,104.42009,33.19133",
+    "geom:latitude":33.19133,
+    "geom:longitude":104.42009,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zhongzhai",
+    "gn:country_code":"CN",
+    "gn:dem":1375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1784207,
+    "gn:latitude":33.19133,
+    "gn:longitude":104.42009,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhongzhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chung-chai",
+        "Zhongzhai",
+        "\u4e2d\u5be8"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u5be8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669711,
+        102191569,
+        85632695,
+        136253041,
+        890516335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1784207
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6fa0722326674bd3c545a5c63ec44a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516335,
+            "empire_id":136253041,
+            "locality_id":1309788245,
+            "region_id":85669711
+        }
+    ],
+    "wof:id":1309788245,
+    "wof:lastmodified":1537591910,
+    "wof:name":"Zhongzhai",
+    "wof:parent_id":890516335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.42009,
+    33.19133,
+    104.42009,
+    33.19133
+],
+  "geometry": {"coordinates":[104.42009,33.19133],"type":"Point"}
+}

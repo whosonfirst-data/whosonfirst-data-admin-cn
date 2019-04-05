@@ -1,0 +1,76 @@
+{
+  "id": 1243550557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.5524,25.86591,119.5524,25.86591",
+    "geom:latitude":25.86591,
+    "geom:longitude":119.5524,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Yangxia",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1907379,
+    "gn:latitude":25.86591,
+    "gn:longitude":119.5524,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Yangxia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yang-hsia",
+        "Yangxia"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d0b\u4e0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1907379
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6512b5935ca47779a6263832474d8ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516575,
+            "empire_id":136253041,
+            "locality_id":1243550557,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1243550557,
+    "wof:lastmodified":1537594520,
+    "wof:name":"Yangxia",
+    "wof:parent_id":890516575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.5524,
+    25.86591,
+    119.5524,
+    25.86591
+],
+  "geometry": {"coordinates":[119.55240000000001,25.86591],"type":"Point"}
+}

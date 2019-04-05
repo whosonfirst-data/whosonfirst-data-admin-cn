@@ -1,0 +1,64 @@
+{
+  "id": 1209326775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.24353,27.50522,119.24353,27.50522",
+    "geom:latitude":27.50522,
+    "geom:longitude":119.24353,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zhengshan",
+    "gn:country_code":"CN",
+    "gn:dem":966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11182238,
+    "gn:latitude":27.50522,
+    "gn:longitude":119.24353,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Zhengshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u90d1\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11182238
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"50869ffe413b391ae6c1776877ad2462",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209326775
+        }
+    ],
+    "wof:id":1209326775,
+    "wof:lastmodified":1537615703,
+    "wof:name":"Zhengshan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.24353,
+    27.50522,
+    119.24353,
+    27.50522
+],
+  "geometry": {"coordinates":[119.24353000000001,27.50522],"type":"Point"}
+}

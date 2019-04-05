@@ -1,0 +1,75 @@
+{
+  "id": 1260262789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.46031,30.04616,111.46031,30.04616",
+    "geom:latitude":30.04616,
+    "geom:longitude":111.46031,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Qinghesi",
+    "gn:country_code":"CN",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7695082,
+    "gn:latitude":30.04616,
+    "gn:longitude":111.46031,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qinghesi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Qinghesi"
+    ],
+    "name:zho_x_variant":[
+        "\u5e86\u8d3a\u5bfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7695082
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bc852be0a59b6672f269e6a982f97bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732489,
+            "empire_id":136253041,
+            "locality_id":1260262789,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1260262789,
+    "wof:lastmodified":1537601090,
+    "wof:name":"Qinghesi",
+    "wof:parent_id":1108732489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.46031,
+    30.04616,
+    111.46031,
+    30.04616
+],
+  "geometry": {"coordinates":[111.46031000000001,30.04616],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193172473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.37083,19.9075,110.37083,19.9075",
+    "geom:latitude":19.9075,
+    "geom:longitude":110.37083,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Meilang",
+    "gn:country_code":"CN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1913886,
+    "gn:latitude":19.9075,
+    "gn:longitude":110.37083,
+    "gn:modification_date":"2001-02-28",
+    "gn:name":"Meilang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632695,
+        85669759,
+        1108732459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1913886
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"942021d02b1f3df49b54408313ef2109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732459,
+            "locality_id":1193172473,
+            "region_id":85669759
+        }
+    ],
+    "wof:id":1193172473,
+    "wof:lastmodified":1536378900,
+    "wof:name":"Meilang",
+    "wof:parent_id":1108732459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.37083,
+    19.9075,
+    110.37083,
+    19.9075
+],
+  "geometry": {"coordinates":[110.37083,19.9075],"type":"Point"}
+}

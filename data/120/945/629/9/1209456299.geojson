@@ -1,0 +1,64 @@
+{
+  "id": 1209456299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.24363,30.05273,106.24363,30.05273",
+    "geom:latitude":30.05273,
+    "geom:longitude":106.24363,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Wuxian",
+    "gn:country_code":"CN",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8417967,
+    "gn:latitude":30.05273,
+    "gn:longitude":106.24363,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Wuxian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e94\u663e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8417967
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"785238f3d801152fe49568c947ffa6e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209456299
+        }
+    ],
+    "wof:id":1209456299,
+    "wof:lastmodified":1537603593,
+    "wof:name":"Wuxian",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.24363,
+    30.05273,
+    106.24363,
+    30.05273
+],
+  "geometry": {"coordinates":[106.24363,30.05273],"type":"Point"}
+}

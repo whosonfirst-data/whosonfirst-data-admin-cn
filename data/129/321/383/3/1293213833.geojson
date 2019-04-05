@@ -1,0 +1,69 @@
+{
+  "id": 1293213833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.25721,31.64844,118.25721,31.64844",
+    "geom:latitude":31.64844,
+    "geom:longitude":118.25721,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chicun",
+    "gn:country_code":"CN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7049017,
+    "gn:latitude":31.64844,
+    "gn:longitude":118.25721,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        1108732543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7049017
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e7da73b2ad404527bf767669a20033dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732543,
+            "empire_id":136253041,
+            "locality_id":1293213833,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1293213833,
+    "wof:lastmodified":1536684445,
+    "wof:name":"Chicun",
+    "wof:parent_id":1108732543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.25721,
+    31.64844,
+    118.25721,
+    31.64844
+],
+  "geometry": {"coordinates":[118.25721,31.64844],"type":"Point"}
+}

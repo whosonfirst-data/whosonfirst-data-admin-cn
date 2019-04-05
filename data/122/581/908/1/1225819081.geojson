@@ -1,0 +1,80 @@
+{
+  "id": 1225819081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.801,32.001,93.801,32.001",
+    "geom:latitude":32.001,
+    "geom:longitude":93.801,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kairitang",
+    "gn:country_code":"CN",
+    "gn:dem":4469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930254,
+    "gn:latitude":32.001,
+    "gn:longitude":93.801,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kairitang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Kairitang"
+    ],
+    "name:zho_x_preferred":[
+        "Gairitang"
+    ],
+    "name:zho_x_variant":[
+        "\u6539\u65e5\u5858",
+        "Qianta Gongshe",
+        "\u524d\u5854\u516c\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930254
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"608eef2dfbc72f6d73e728b574112da2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1225819081,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1225819081,
+    "wof:lastmodified":1537602084,
+    "wof:name":"Kairitang",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.801,
+    32.001,
+    93.801,
+    32.001
+],
+  "geometry": {"coordinates":[93.801,32.001],"type":"Point"}
+}

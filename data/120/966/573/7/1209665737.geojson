@@ -1,0 +1,64 @@
+{
+  "id": 1209665737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.018,24.0446,100.018,24.0446",
+    "geom:latitude":24.0446,
+    "geom:longitude":100.018,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Zhenai",
+    "gn:country_code":"CN",
+    "gn:dem":1534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9923773,
+    "gn:latitude":24.0446,
+    "gn:longitude":100.018,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Zhenai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u906e\u5948"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9923773
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c87042453ddc35942e0dd0fdefbfffc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209665737
+        }
+    ],
+    "wof:id":1209665737,
+    "wof:lastmodified":1537607434,
+    "wof:name":"Zhenai",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.018,
+    24.0446,
+    100.018,
+    24.0446
+],
+  "geometry": {"coordinates":[100.018,24.0446],"type":"Point"}
+}

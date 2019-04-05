@@ -1,0 +1,81 @@
+{
+  "id": 1326998815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.55275,39.9625,116.55275,39.9625",
+    "geom:latitude":39.9625,
+    "geom:longitude":116.55275,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Dongba",
+    "gn:country_code":"CN",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1812677,
+    "gn:latitude":39.9625,
+    "gn:longitude":116.55275,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Dongba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tung-pa",
+        "Tung-pa-chen",
+        "Dongba",
+        "Dongba Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u575d"
+    ],
+    "name:zho_x_variant":[
+        "\u4e1c\u575d\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669727,
+        102191569,
+        85632695,
+        136253041,
+        1108732371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1812677
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f219ddd75690407a6b029c6bc03f27bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732371,
+            "empire_id":136253041,
+            "locality_id":1326998815,
+            "region_id":85669727
+        }
+    ],
+    "wof:id":1326998815,
+    "wof:lastmodified":1537593779,
+    "wof:name":"Dongba",
+    "wof:parent_id":1108732371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.55275,
+    39.9625,
+    116.55275,
+    39.9625
+],
+  "geometry": {"coordinates":[116.55275,39.9625],"type":"Point"}
+}

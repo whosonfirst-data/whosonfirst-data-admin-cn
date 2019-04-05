@@ -1,0 +1,79 @@
+{
+  "id": 1226116095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.86667,30.73333,98.86667,30.73333",
+    "geom:latitude":30.73333,
+    "geom:longitude":98.86667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Langmai",
+    "gn:country_code":"CN",
+    "gn:dem":4441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":1280766,
+    "gn:latitude":30.73333,
+    "gn:longitude":98.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Langmai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Langmai"
+    ],
+    "name:zho_x_preferred":[
+        "Luomai"
+    ],
+    "name:zho_x_variant":[
+        "\u7f57\u9ea6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1280766,
+        "wk:page":"Langmai"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f59df11e377d92761a02a23d7293cf6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1226116095,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226116095,
+    "wof:lastmodified":1537591477,
+    "wof:name":"Langmai",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.86667,
+    30.73333,
+    98.86667,
+    30.73333
+],
+  "geometry": {"coordinates":[98.86667,30.73333],"type":"Point"}
+}

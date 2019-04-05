@@ -1,0 +1,72 @@
+{
+  "id": 1243324201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.744,23.8307,101.744,23.8307",
+    "geom:latitude":23.8307,
+    "geom:longitude":101.744,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Zhongdi",
+    "gn:country_code":"CN",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10007834,
+    "gn:latitude":23.8307,
+    "gn:longitude":101.744,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Zhongdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e2d\u5730"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        890512033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10007834
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2394f8f37a74299a74f7a5b719df18dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512033,
+            "empire_id":136253041,
+            "locality_id":1243324201,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1243324201,
+    "wof:lastmodified":1537608830,
+    "wof:name":"Zhongdi",
+    "wof:parent_id":890512033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.744,
+    23.8307,
+    101.744,
+    23.8307
+],
+  "geometry": {"coordinates":[101.744,23.8307],"type":"Point"}
+}

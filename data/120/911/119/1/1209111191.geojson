@@ -1,0 +1,64 @@
+{
+  "id": 1209111191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.71718,32.09464,119.71718,32.09464",
+    "geom:latitude":32.09464,
+    "geom:longitude":119.71718,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zoujia",
+    "gn:country_code":"CN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8266337,
+    "gn:latitude":32.09464,
+    "gn:longitude":119.71718,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Zoujia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u90b9\u5bb6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8266337
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"48f2956ec43ed9f4622f3fa8a2e5012a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209111191
+        }
+    ],
+    "wof:id":1209111191,
+    "wof:lastmodified":1537602850,
+    "wof:name":"Zoujia",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.71718,
+    32.09464000000001,
+    119.71718,
+    32.09464000000001
+],
+  "geometry": {"coordinates":[119.71718,32.09464000000001],"type":"Point"}
+}

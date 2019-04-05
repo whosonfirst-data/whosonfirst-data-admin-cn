@@ -1,0 +1,78 @@
+{
+  "id": 1343635033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.3,28.9,88.3,28.9",
+    "geom:latitude":28.9,
+    "geom:longitude":88.3,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kumai",
+    "gn:country_code":"CN",
+    "gn:dem":5228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8042431,
+    "gn:latitude":28.9,
+    "gn:longitude":88.3,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kumai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Kumai"
+    ],
+    "name:zho_x_preferred":[
+        "Kumei"
+    ],
+    "name:zho_x_variant":[
+        "\u5e93\u7f8e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8042431
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3853ac155114f2d1a6531ec4a5a62237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1343635033,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1343635033,
+    "wof:lastmodified":1537602359,
+    "wof:name":"Kumai",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.3,
+    28.9,
+    88.3,
+    28.9
+],
+  "geometry": {"coordinates":[88.3,28.9],"type":"Point"}
+}

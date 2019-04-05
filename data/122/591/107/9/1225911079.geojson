@@ -1,0 +1,77 @@
+{
+  "id": 1225911079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.84722,33.5425,108.84722,33.5425",
+    "geom:latitude":33.5425,
+    "geom:longitude":108.84722,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Dongchuan",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1812631,
+    "gn:latitude":33.5425,
+    "gn:longitude":108.84722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dongchuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tung-ch\u2019uan-chen",
+        "Dongchuanjie",
+        "Tung-ch\u2019uan",
+        "Tung-ch\u2019uan-chieh",
+        "Dongchuan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890513907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1812631
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"625cacf886adf238dba651889a00f492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513907,
+            "empire_id":136253041,
+            "locality_id":1225911079,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1225911079,
+    "wof:lastmodified":1537593775,
+    "wof:name":"Dongchuan",
+    "wof:parent_id":890513907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.84722,
+    33.5425,
+    108.84722,
+    33.5425
+],
+  "geometry": {"coordinates":[108.84721999999999,33.5425],"type":"Point"}
+}

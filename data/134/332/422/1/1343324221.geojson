@@ -1,0 +1,79 @@
+{
+  "id": 1343324221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.97799,40.79549,122.97799,40.79549",
+    "geom:latitude":40.79549,
+    "geom:longitude":122.97799,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Caimucun",
+    "gn:country_code":"CN",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2053283,
+    "gn:latitude":40.79549,
+    "gn:longitude":122.97799,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Caimucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caimu",
+        "\u6750\u6728",
+        "Caimugou",
+        "\u6750\u6728\u6c9f",
+        "Caimucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u6750\u6728\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2053283
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"772299887072e93bf525abfb139ee4d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514231,
+            "empire_id":136253041,
+            "locality_id":1343324221,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1343324221,
+    "wof:lastmodified":1537595964,
+    "wof:name":"Caimucun",
+    "wof:parent_id":890514231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.97799,
+    40.79549,
+    122.97799,
+    40.79549
+],
+  "geometry": {"coordinates":[122.97799000000001,40.79549],"type":"Point"}
+}

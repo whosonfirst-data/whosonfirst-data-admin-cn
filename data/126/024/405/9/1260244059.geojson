@@ -1,0 +1,75 @@
+{
+  "id": 1260244059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.15858,40.88238,122.15858,40.88238",
+    "geom:latitude":40.88238,
+    "geom:longitude":122.15858,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Ping'an",
+    "gn:country_code":"CN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2035493,
+    "gn:latitude":40.88238,
+    "gn:longitude":122.15858,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ping\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ping\u2019an",
+        "\u5e73\u5b89",
+        "Ping\u2019an Xiang",
+        "\u5e73\u5b89\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890516569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2035493
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0544d6c312d7339238e90b9b81bf88f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516569,
+            "empire_id":136253041,
+            "locality_id":1260244059,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1260244059,
+    "wof:lastmodified":1537595718,
+    "wof:name":"Ping'an",
+    "wof:parent_id":890516569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.15858,
+    40.88238,
+    122.15858,
+    40.88238
+],
+  "geometry": {"coordinates":[122.15858,40.88238],"type":"Point"}
+}

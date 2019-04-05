@@ -1,0 +1,65 @@
+{
+  "id": 1209208253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.50739,27.32337,119.50739,27.32337",
+    "geom:latitude":27.32337,
+    "geom:longitude":119.50739,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Leishi",
+    "gn:country_code":"CN",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1984509,
+    "gn:latitude":27.32337,
+    "gn:longitude":119.50739,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Leishi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u78ca\u77f3",
+        "Leishi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1984509
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fad635e7412e5f428e83637a141b884c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209208253
+        }
+    ],
+    "wof:id":1209208253,
+    "wof:lastmodified":1537595232,
+    "wof:name":"Leishi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.50739,
+    27.32337,
+    119.50739,
+    27.32337
+],
+  "geometry": {"coordinates":[119.50739,27.32337],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209375695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.55,21.7168,100.55,21.7168",
+    "geom:latitude":21.7168,
+    "geom:longitude":100.55,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Jinpa",
+    "gn:country_code":"CN",
+    "gn:dem":1316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9903572,
+    "gn:latitude":21.7168,
+    "gn:longitude":100.55,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Jinpa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u91d1\u6015"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9903572
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c662923d86a2557ab2d6fdb3b438790b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209375695
+        }
+    ],
+    "wof:id":1209375695,
+    "wof:lastmodified":1537606884,
+    "wof:name":"Jinpa",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.55,
+    21.7168,
+    100.55,
+    21.7168
+],
+  "geometry": {"coordinates":[100.55,21.7168],"type":"Point"}
+}

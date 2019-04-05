@@ -1,0 +1,64 @@
+{
+  "id": 1209622433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.014,26.2503,115.014,26.2503",
+    "geom:latitude":26.2503,
+    "geom:longitude":115.014,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Meikeng",
+    "gn:country_code":"CN",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9616322,
+    "gn:latitude":26.2503,
+    "gn:longitude":115.014,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Meikeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6885\u5751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9616322
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bb97fcfdb33353b3b673b0d61928597a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209622433
+        }
+    ],
+    "wof:id":1209622433,
+    "wof:lastmodified":1537606018,
+    "wof:name":"Meikeng",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.014,
+    26.2503,
+    115.014,
+    26.2503
+],
+  "geometry": {"coordinates":[115.014,26.2503],"type":"Point"}
+}

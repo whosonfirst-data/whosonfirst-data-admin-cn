@@ -1,0 +1,76 @@
+{
+  "id": 1193009767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.84618,26.35045,116.84618,26.35045",
+    "geom:latitude":26.35045,
+    "geom:longitude":116.84618,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Hucun",
+    "gn:country_code":"CN",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1806934,
+    "gn:latitude":26.35045,
+    "gn:longitude":116.84618,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hu-ts\u2019un",
+        "Hucun",
+        "\u6e56\u6751",
+        "Hucun Zhen",
+        "\u6e56\u6751\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1806934
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b97b50dfc49aef8b23eab71a8cf0e2b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516573,
+            "empire_id":136253041,
+            "locality_id":1193009767,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1193009767,
+    "wof:lastmodified":1537593408,
+    "wof:name":"Hucun",
+    "wof:parent_id":890516573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.84618,
+    26.35045,
+    116.84618,
+    26.35045
+],
+  "geometry": {"coordinates":[116.84618,26.35045],"type":"Point"}
+}

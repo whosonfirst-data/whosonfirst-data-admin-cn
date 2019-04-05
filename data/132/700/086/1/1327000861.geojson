@@ -1,0 +1,78 @@
+{
+  "id": 1327000861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.1,29.1,98.1,29.1",
+    "geom:latitude":29.1,
+    "geom:longitude":98.1,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ogba",
+    "gn:country_code":"CN",
+    "gn:dem":4594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":7930071,
+    "gn:latitude":29.1,
+    "gn:longitude":98.1,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ogba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Ogba"
+    ],
+    "name:zho_x_preferred":[
+        "Eba"
+    ],
+    "name:zho_x_variant":[
+        "\u4fc4\u575d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930071
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7102431cdd440fc7b07bb8073c89b4ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1327000861,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1327000861,
+    "wof:lastmodified":1537602073,
+    "wof:name":"Ogba",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.1,
+    29.1,
+    98.1,
+    29.1
+],
+  "geometry": {"coordinates":[98.09999999999999,29.1],"type":"Point"}
+}

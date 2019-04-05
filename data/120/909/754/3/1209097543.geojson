@@ -1,0 +1,64 @@
+{
+  "id": 1209097543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.07342,27.34249,118.07342,27.34249",
+    "geom:latitude":27.34249,
+    "geom:longitude":118.07342,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yandun",
+    "gn:country_code":"CN",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6906114,
+    "gn:latitude":27.34249,
+    "gn:longitude":118.07342,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Yandun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e25\u58a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6906114
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"58c2d5d325a2fc8616f9ace474ef83e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209097543
+        }
+    ],
+    "wof:id":1209097543,
+    "wof:lastmodified":1537596661,
+    "wof:name":"Yandun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.07342,
+    27.34249,
+    118.07342,
+    27.34249
+],
+  "geometry": {"coordinates":[118.07342,27.34249],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 890512451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.01556,37.99806,114.01556,37.99806",
+    "geom:latitude":37.99806,
+    "geom:longitude":114.01556,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":61292,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5929\u957f\u9547"
+    ],
+    "name:eng_x_preferred":[
+        "Tianchang"
+    ],
+    "name:swe_x_preferred":[
+        "Tianchang"
+    ],
+    "name:unk_x_variant":[
+        "Ching-nan"
+    ],
+    "qs:name":"Tianchang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        85669797,
+        102191569,
+        85632695,
+        136253041,
+        890515171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1805563,
+        "gp:id":2170579,
+        "qs:id":136650,
+        "wd:id":"Q7800165",
+        "wk:page":"Tianchang"
+    },
+    "wof:country":"CN",
+    "wof:created":1469055771,
+    "wof:geomhash":"c186e4f462822fbb643bf2bdf946a74b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515171,
+            "empire_id":136253041,
+            "locality_id":890512451,
+            "region_id":85669797
+        }
+    ],
+    "wof:id":890512451,
+    "wof:lastmodified":1553816433,
+    "wof:name":"Tianchang",
+    "wof:parent_id":890515171,
+    "wof:placetype":"locality",
+    "wof:population":61292,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.01556,
+    37.99806,
+    114.01556,
+    37.99806
+],
+  "geometry": {"coordinates":[114.01555999999999,37.99806],"type":"Point"}
+}

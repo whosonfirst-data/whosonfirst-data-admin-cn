@@ -1,0 +1,64 @@
+{
+  "id": 1209360223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.523,30.6249,105.523,30.6249",
+    "geom:latitude":30.6249,
+    "geom:longitude":105.523,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Yujian",
+    "gn:country_code":"CN",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10163676,
+    "gn:latitude":30.6249,
+    "gn:longitude":105.523,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Yujian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4f59\u5efa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10163676
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3ed815e962bde98ee2743caaab7d7bb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209360223
+        }
+    ],
+    "wof:id":1209360223,
+    "wof:lastmodified":1537610881,
+    "wof:name":"Yujian",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.523,
+    30.6249,
+    105.523,
+    30.6249
+],
+  "geometry": {"coordinates":[105.523,30.6249],"type":"Point"}
+}

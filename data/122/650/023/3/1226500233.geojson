@@ -1,0 +1,78 @@
+{
+  "id": 1226500233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.74686,35.08922,110.74686,35.08922",
+    "geom:latitude":35.08922,
+    "geom:longitude":110.74686,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Xiangluocun",
+    "gn:country_code":"CN",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1790538,
+    "gn:latitude":35.08922,
+    "gn:longitude":110.74686,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Xiangluocun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsiang-lo",
+        "Hsiang-lo-ts\u2019un",
+        "Xiangluo",
+        "Xiangluocun"
+    ],
+    "name:zho_x_preferred":[
+        "\u9999\u843d\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        890514745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1790538
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"aec69c71391df720f1092a0e01bb028f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514745,
+            "empire_id":136253041,
+            "locality_id":1226500233,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1226500233,
+    "wof:lastmodified":1537592343,
+    "wof:name":"Xiangluocun",
+    "wof:parent_id":890514745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.74686,
+    35.08922,
+    110.74686,
+    35.08922
+],
+  "geometry": {"coordinates":[110.74686,35.08922],"type":"Point"}
+}

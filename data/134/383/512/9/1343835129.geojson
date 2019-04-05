@@ -1,0 +1,77 @@
+{
+  "id": 1343835129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.16667,30.2,113.16667,30.2",
+    "geom:latitude":30.2,
+    "geom:longitude":113.16667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Miancheng",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1800648,
+    "gn:latitude":30.2,
+    "gn:longitude":113.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Miancheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiu-mien-yang",
+        "Mien-yang",
+        "Mien-ch\u2019eng",
+        "Mien-yang-hsien",
+        "Miancheng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1800648
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f8da8b3c286ecada3f12509bc33d2266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732353,
+            "empire_id":136253041,
+            "locality_id":1343835129,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1343835129,
+    "wof:lastmodified":1537592999,
+    "wof:name":"Miancheng",
+    "wof:parent_id":1108732353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.16667,
+    30.2,
+    113.16667,
+    30.2
+],
+  "geometry": {"coordinates":[113.16667,30.2],"type":"Point"}
+}

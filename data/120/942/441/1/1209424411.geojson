@@ -1,0 +1,64 @@
+{
+  "id": 1209424411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.67711,33.86754,115.67711,33.86754",
+    "geom:latitude":33.86754,
+    "geom:longitude":115.67711,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zhouzhuangcun",
+    "gn:country_code":"CN",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10360746,
+    "gn:latitude":33.86754,
+    "gn:longitude":115.67711,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Zhouzhuangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5468\u5e84\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10360746
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"378fd0bad651d3425c337ce1a4c1efc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209424411
+        }
+    ],
+    "wof:id":1209424411,
+    "wof:lastmodified":1537612555,
+    "wof:name":"Zhouzhuangcun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.67711,
+    33.86754000000001,
+    115.67711,
+    33.86754000000001
+],
+  "geometry": {"coordinates":[115.67711,33.86754000000001],"type":"Point"}
+}

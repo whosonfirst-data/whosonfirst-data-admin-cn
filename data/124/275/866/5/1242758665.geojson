@@ -1,0 +1,80 @@
+{
+  "id": 1242758665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.97306,27.44944,110.97306,27.44944",
+    "geom:latitude":27.44944,
+    "geom:longitude":110.97306,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Qijiang",
+    "gn:country_code":"CN",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1983329,
+    "gn:latitude":27.44944,
+    "gn:longitude":110.97306,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Qijiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qijiang Xiang",
+        "Shibei"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e03\u6c5f"
+    ],
+    "name:zho_x_variant":[
+        "\u4e03\u6c5f\u4e61",
+        "\u77f3\u80cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890514309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1983329
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1234f3ac7b553be16caf4540eafcdd26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514309,
+            "empire_id":136253041,
+            "locality_id":1242758665,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1242758665,
+    "wof:lastmodified":1537595195,
+    "wof:name":"Qijiang",
+    "wof:parent_id":890514309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.97306,
+    27.44944000000001,
+    110.97306,
+    27.44944000000001
+],
+  "geometry": {"coordinates":[110.97306,27.44944000000001],"type":"Point"}
+}

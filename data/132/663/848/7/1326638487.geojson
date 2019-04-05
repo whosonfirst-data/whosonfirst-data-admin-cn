@@ -1,0 +1,78 @@
+{
+  "id": 1326638487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7453,30.06952,120.7453,30.06952",
+    "geom:latitude":30.06952,
+    "geom:longitude":120.7453,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Xiaojincun",
+    "gn:country_code":"CN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1881944,
+    "gn:latitude":30.06952,
+    "gn:longitude":120.7453,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Xiaojincun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsiao-yin-shih",
+        "Xiaojin",
+        "\u8096\u91d1",
+        "Xiaojincun"
+    ],
+    "name:zho_x_preferred":[
+        "\u8096\u91d1\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890513785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1881944
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b94b2420a773bb8c473f801856e5d8b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513785,
+            "empire_id":136253041,
+            "locality_id":1326638487,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1326638487,
+    "wof:lastmodified":1537594155,
+    "wof:name":"Xiaojincun",
+    "wof:parent_id":890513785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7453,
+    30.06952,
+    120.7453,
+    30.06952
+],
+  "geometry": {"coordinates":[120.7453,30.06952],"type":"Point"}
+}

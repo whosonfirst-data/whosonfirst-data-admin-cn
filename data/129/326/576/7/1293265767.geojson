@@ -1,0 +1,78 @@
+{
+  "id": 1293265767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.0,31.8,97.0,31.8",
+    "geom:latitude":31.8,
+    "geom:longitude":97.0,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chagza",
+    "gn:country_code":"CN",
+    "gn:dem":3453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7928806,
+    "gn:latitude":31.8,
+    "gn:longitude":97.0,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chagza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Chagza"
+    ],
+    "name:zho_x_preferred":[
+        "Chaza"
+    ],
+    "name:zho_x_variant":[
+        "\u67e5\u6742"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7928806
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2bd541e2748f6fdeae829b6b1db8b06c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1293265767,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1293265767,
+    "wof:lastmodified":1537602042,
+    "wof:name":"Chagza",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.0,
+    31.8,
+    97.0,
+    31.8
+],
+  "geometry": {"coordinates":[97.0,31.8],"type":"Point"}
+}

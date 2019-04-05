@@ -1,0 +1,77 @@
+{
+  "id": 1343858307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.00568,34.92212,119.00568,34.92212",
+    "geom:latitude":34.92212,
+    "geom:longitude":119.00568,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tuchengcun",
+    "gn:country_code":"CN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1792430,
+    "gn:latitude":34.92212,
+    "gn:longitude":119.00568,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Tuchengcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u2019u-ch\u2019eng-chi",
+        "Tuchengji",
+        "Tuchengcun"
+    ],
+    "name:zho_x_preferred":[
+        "\u571f\u57ce\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890514777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1792430
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c42366a853f37747c0879322f0141e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514777,
+            "empire_id":136253041,
+            "locality_id":1343858307,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1343858307,
+    "wof:lastmodified":1537592463,
+    "wof:name":"Tuchengcun",
+    "wof:parent_id":890514777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.00568,
+    34.92212,
+    119.00568,
+    34.92212
+],
+  "geometry": {"coordinates":[119.00568,34.92212],"type":"Point"}
+}

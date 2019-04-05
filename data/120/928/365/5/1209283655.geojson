@@ -1,0 +1,64 @@
+{
+  "id": 1209283655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.65,22.5755,109.65,22.5755",
+    "geom:latitude":22.5755,
+    "geom:longitude":109.65,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dawu",
+    "gn:country_code":"CN",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9897876,
+    "gn:latitude":22.5755,
+    "gn:longitude":109.65,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Dawu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u52a1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9897876
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c75ada7349a9f3210f6f1ca30fb110fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209283655
+        }
+    ],
+    "wof:id":1209283655,
+    "wof:lastmodified":1537606709,
+    "wof:name":"Dawu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.65,
+    22.5755,
+    109.65,
+    22.5755
+],
+  "geometry": {"coordinates":[109.65000000000001,22.5755],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209420049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.61366,32.86519,119.61366,32.86519",
+    "geom:latitude":32.86519,
+    "geom:longitude":119.61366,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ganghe",
+    "gn:country_code":"CN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8226912,
+    "gn:latitude":32.86519,
+    "gn:longitude":119.61366,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ganghe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6e2f\u6cb3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8226912
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"60f62ec3d71eb52825023d62690f522d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209420049
+        }
+    ],
+    "wof:id":1209420049,
+    "wof:lastmodified":1537602761,
+    "wof:name":"Ganghe",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.61366,
+    32.86519000000001,
+    119.61366,
+    32.86519000000001
+],
+  "geometry": {"coordinates":[119.61366,32.86519000000001],"type":"Point"}
+}

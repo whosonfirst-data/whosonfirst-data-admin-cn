@@ -1,0 +1,80 @@
+{
+  "id": 1260293321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.36013,28.87251,120.36013,28.87251",
+    "geom:latitude":28.87251,
+    "geom:longitude":120.36013,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Huzhuangcun",
+    "gn:country_code":"CN",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1883019,
+    "gn:latitude":28.87251,
+    "gn:longitude":120.36013,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Huzhuangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hu-chuang",
+        "Huzhuang",
+        "Huzhuangcun"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u5e84"
+    ],
+    "name:zho_x_variant":[
+        "\u80e1\u5e84\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890513337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1883019
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"39a9e4be8617ae8fe4bd801620e593ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513337,
+            "empire_id":136253041,
+            "locality_id":1260293321,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1260293321,
+    "wof:lastmodified":1537594172,
+    "wof:name":"Huzhuangcun",
+    "wof:parent_id":890513337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.36013,
+    28.87251,
+    120.36013,
+    28.87251
+],
+  "geometry": {"coordinates":[120.36013,28.87251],"type":"Point"}
+}

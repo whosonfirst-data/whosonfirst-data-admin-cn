@@ -1,0 +1,64 @@
+{
+  "id": 1209396369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.244,24.7381,110.244,24.7381",
+    "geom:latitude":24.7381,
+    "geom:longitude":110.244,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Pingchong",
+    "gn:country_code":"CN",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9996763,
+    "gn:latitude":24.7381,
+    "gn:longitude":110.244,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Pingchong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u576a\u51b2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9996763
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"febd4954b35b777a3f844b7146c724e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209396369
+        }
+    ],
+    "wof:id":1209396369,
+    "wof:lastmodified":1537608531,
+    "wof:name":"Pingchong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.244,
+    24.7381,
+    110.244,
+    24.7381
+],
+  "geometry": {"coordinates":[110.244,24.7381],"type":"Point"}
+}

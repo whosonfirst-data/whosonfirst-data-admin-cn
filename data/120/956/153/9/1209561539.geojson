@@ -1,0 +1,64 @@
+{
+  "id": 1209561539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.18053,23.21621,116.18053,23.21621",
+    "geom:latitude":23.21621,
+    "geom:longitude":116.18053,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Mashanzhai",
+    "gn:country_code":"CN",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6682704,
+    "gn:latitude":23.21621,
+    "gn:longitude":116.18053,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mashanzhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9a6c\u6805\u5be8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6682704
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"625009dac690dc71127cab3b2cd70702",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209561539
+        }
+    ],
+    "wof:id":1209561539,
+    "wof:lastmodified":1537596182,
+    "wof:name":"Mashanzhai",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.18053,
+    23.21621,
+    116.18053,
+    23.21621
+],
+  "geometry": {"coordinates":[116.18053,23.21621],"type":"Point"}
+}

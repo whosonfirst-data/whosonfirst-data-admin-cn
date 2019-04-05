@@ -1,0 +1,80 @@
+{
+  "id": 1343711009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.64473,32.79816,103.64473,32.79816",
+    "geom:latitude":32.79816,
+    "geom:longitude":103.64473,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Zhangla",
+    "gn:country_code":"CN",
+    "gn:dem":3057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1785136,
+    "gn:latitude":32.79816,
+    "gn:longitude":103.64473,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhangla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chzhanla",
+        "Chang-la",
+        "Chungla",
+        "Chang-nao-ying",
+        "Chang-la-ying",
+        "Zhangla"
+    ],
+    "name:zho_x_preferred":[
+        "\u6f33\u814a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        1108794065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1785136
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"13b0e29d5bc7244f18b6dbc410c3d9a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794065,
+            "empire_id":136253041,
+            "locality_id":1343711009,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1343711009,
+    "wof:lastmodified":1537591972,
+    "wof:name":"Zhangla",
+    "wof:parent_id":1108794065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.64473,
+    32.79816,
+    103.64473,
+    32.79816
+],
+  "geometry": {"coordinates":[103.64473,32.79816],"type":"Point"}
+}

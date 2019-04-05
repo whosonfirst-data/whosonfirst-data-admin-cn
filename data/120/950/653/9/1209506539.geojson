@@ -1,0 +1,65 @@
+{
+  "id": 1209506539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.5029,27.07032,119.5029,27.07032",
+    "geom:latitude":27.07032,
+    "geom:longitude":119.5029,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Yangping",
+    "gn:country_code":"CN",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1984282,
+    "gn:latitude":27.07032,
+    "gn:longitude":119.5029,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Yangping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6d0b\u576a",
+        "Yangping"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1984282
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a5f43885ae429949222566cb6bf948f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209506539
+        }
+    ],
+    "wof:id":1209506539,
+    "wof:lastmodified":1537595223,
+    "wof:name":"Yangping",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.5029,
+    27.07032,
+    119.5029,
+    27.07032
+],
+  "geometry": {"coordinates":[119.5029,27.07032],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209055555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.71444,31.8345,99.71444,31.8345",
+    "geom:latitude":31.8345,
+    "geom:longitude":99.71444,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Gemei",
+    "gn:country_code":"CN",
+    "gn:dem":3761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6985092,
+    "gn:latitude":31.8345,
+    "gn:longitude":99.71444,
+    "gn:modification_date":"2013-09-10",
+    "gn:name":"Gemei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u683c\u7f8e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6985092
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"54645340264812ae131d2bd4e28ef16b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209055555
+        }
+    ],
+    "wof:id":1209055555,
+    "wof:lastmodified":1537597262,
+    "wof:name":"Gemei",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.71444,
+    31.8345,
+    99.71444,
+    31.8345
+],
+  "geometry": {"coordinates":[99.71444,31.8345],"type":"Point"}
+}

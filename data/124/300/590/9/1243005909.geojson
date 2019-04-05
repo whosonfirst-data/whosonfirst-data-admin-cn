@@ -1,0 +1,75 @@
+{
+  "id": 1243005909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.69016,32.45866,120.69016,32.45866",
+    "geom:latitude":32.45866,
+    "geom:longitude":120.69016,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Xue'an",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1548495,
+    "gn:latitude":32.45866,
+    "gn:longitude":120.69016,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Xue\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xue\u2019an",
+        "\u96ea\u5cb8",
+        "Xue\u2019an Zhen",
+        "\u96ea\u5cb8\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1548495
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f7c0298980cb57097f73cb2fd29f2624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515155,
+            "empire_id":136253041,
+            "locality_id":1243005909,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1243005909,
+    "wof:lastmodified":1537591665,
+    "wof:name":"Xue'an",
+    "wof:parent_id":890515155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.69016,
+    32.45865999999999,
+    120.69016,
+    32.45865999999999
+],
+  "geometry": {"coordinates":[120.69016000000001,32.45865999999999],"type":"Point"}
+}

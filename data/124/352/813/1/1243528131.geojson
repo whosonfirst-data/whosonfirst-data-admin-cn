@@ -1,0 +1,75 @@
+{
+  "id": 1243528131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.09341,29.65375,89.09341,29.65375",
+    "geom:latitude":29.65375,
+    "geom:longitude":89.09341,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Miru",
+    "gn:country_code":"CN",
+    "gn:dem":4005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8045781,
+    "gn:latitude":29.65375,
+    "gn:longitude":89.09341,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Miru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Miru"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u6c5d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8045781
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b88fc5a7ef3cf83ef95b04b38192d0b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1243528131,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1243528131,
+    "wof:lastmodified":1537602396,
+    "wof:name":"Miru",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.09340999999998,
+    29.65375,
+    89.09340999999998,
+    29.65375
+],
+  "geometry": {"coordinates":[89.09340999999998,29.65375],"type":"Point"}
+}

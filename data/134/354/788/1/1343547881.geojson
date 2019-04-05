@@ -1,0 +1,80 @@
+{
+  "id": 1343547881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.0172,32.02483,112.0172,32.02483",
+    "geom:latitude":32.02483,
+    "geom:longitude":112.0172,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Nizui",
+    "gn:country_code":"CN",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1799199,
+    "gn:latitude":32.02483,
+    "gn:longitude":112.0172,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Nizui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ni-tsui",
+        "Nizui",
+        "Nizui Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce5\u5480"
+    ],
+    "name:zho_x_variant":[
+        "\u6ce5\u5480\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1799199
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"792205aa46701aad7336feb1c3aa0974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732497,
+            "empire_id":136253041,
+            "locality_id":1343547881,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1343547881,
+    "wof:lastmodified":1537592919,
+    "wof:name":"Nizui",
+    "wof:parent_id":1108732497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.0172,
+    32.02483,
+    112.0172,
+    32.02483
+],
+  "geometry": {"coordinates":[112.0172,32.02483],"type":"Point"}
+}

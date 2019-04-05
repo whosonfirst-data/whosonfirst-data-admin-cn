@@ -1,0 +1,80 @@
+{
+  "id": 1310378989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.303,29.003,89.303,29.003",
+    "geom:latitude":29.003,
+    "geom:longitude":89.303,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Qangdoi",
+    "gn:country_code":"CN",
+    "gn:dem":4121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8048362,
+    "gn:latitude":29.003,
+    "gn:longitude":89.303,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qangdoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Qangdoi"
+    ],
+    "name:zho_x_preferred":[
+        "Qiangdui"
+    ],
+    "name:zho_x_variant":[
+        "\u5f3a\u5806",
+        "Xiaqi",
+        "\u590f\u5951"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8048362
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3ef1be653b890c389cc4af6c2b781b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1310378989,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1310378989,
+    "wof:lastmodified":1537602432,
+    "wof:name":"Qangdoi",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.303,
+    29.003,
+    89.303,
+    29.003
+],
+  "geometry": {"coordinates":[89.303,29.003],"type":"Point"}
+}

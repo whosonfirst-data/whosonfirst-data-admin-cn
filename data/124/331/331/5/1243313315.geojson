@@ -1,0 +1,69 @@
+{
+  "id": 1243313315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.67917,23.98889,116.67917,23.98889",
+    "geom:latitude":23.98889,
+    "geom:longitude":116.67917,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Genan",
+    "gn:country_code":"CN",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1996712,
+    "gn:latitude":23.98889,
+    "gn:longitude":116.67917,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Genan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890513033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1996712
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"daa2594ab53968b4a501917b71b630e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513033,
+            "empire_id":136253041,
+            "locality_id":1243313315,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1243313315,
+    "wof:lastmodified":1536996846,
+    "wof:name":"Genan",
+    "wof:parent_id":890513033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.67917,
+    23.98889,
+    116.67917,
+    23.98889
+],
+  "geometry": {"coordinates":[116.67917,23.98889],"type":"Point"}
+}

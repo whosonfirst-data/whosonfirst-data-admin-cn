@@ -1,0 +1,76 @@
+{
+  "id": 1259525125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.07,30.9425,103.07,30.9425",
+    "geom:latitude":30.9425,
+    "geom:longitude":103.07,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Xindianzi",
+    "gn:country_code":"CN",
+    "gn:dem":2445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1789102,
+    "gn:latitude":30.9425,
+    "gn:longitude":103.07,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Xindianzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-tien-tzu",
+        "Xindianzi"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5e97\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        1108794065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1789102
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"cce3dc2eafc55a8be8b6529ee2f0f2fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794065,
+            "empire_id":136253041,
+            "locality_id":1259525125,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1259525125,
+    "wof:lastmodified":1537592244,
+    "wof:name":"Xindianzi",
+    "wof:parent_id":1108794065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.07,
+    30.9425,
+    103.07,
+    30.9425
+],
+  "geometry": {"coordinates":[103.06999999999999,30.9425],"type":"Point"}
+}

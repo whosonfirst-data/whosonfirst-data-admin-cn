@@ -1,0 +1,64 @@
+{
+  "id": 1209085079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.94022,41.25985,116.94022,41.25985",
+    "geom:latitude":41.25985,
+    "geom:longitude":116.94022,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kanggou",
+    "gn:country_code":"CN",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10001222,
+    "gn:latitude":41.25985,
+    "gn:longitude":116.94022,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Kanggou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6297\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10001222
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6e4522de5356cd093fc1ac85a4f2ecd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209085079
+        }
+    ],
+    "wof:id":1209085079,
+    "wof:lastmodified":1537608646,
+    "wof:name":"Kanggou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.94022,
+    41.25985,
+    116.94022,
+    41.25985
+],
+  "geometry": {"coordinates":[116.94022,41.25985],"type":"Point"}
+}

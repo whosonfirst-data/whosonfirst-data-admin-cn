@@ -1,0 +1,64 @@
+{
+  "id": 1209326729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.59581,30.05247,120.59581,30.05247",
+    "geom:latitude":30.05247,
+    "geom:longitude":120.59581,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ligushe",
+    "gn:country_code":"CN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7733802,
+    "gn:latitude":30.05247,
+    "gn:longitude":120.59581,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Ligushe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u91cc\u8c37\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7733802
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3e34cd24b0d27f943a900cddfb2193ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209326729
+        }
+    ],
+    "wof:id":1209326729,
+    "wof:lastmodified":1537601175,
+    "wof:name":"Ligushe",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.59581,
+    30.05247,
+    120.59581,
+    30.05247
+],
+  "geometry": {"coordinates":[120.59581,30.05247],"type":"Point"}
+}

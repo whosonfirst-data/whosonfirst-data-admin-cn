@@ -1,0 +1,79 @@
+{
+  "id": 1309976913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.2,29.6,85.2,29.6",
+    "geom:latitude":29.6,
+    "geom:longitude":85.2,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Catang",
+    "gn:country_code":"CN",
+    "gn:dem":5015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7894446,
+    "gn:latitude":29.6,
+    "gn:longitude":85.2,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Catang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Catang"
+    ],
+    "name:zho_x_preferred":[
+        "\u64e6\u5858"
+    ],
+    "name:zho_x_variant":[
+        "Jiwu Gongshe",
+        "\u5409\u543e\u516c\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7894446
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"22da488e0355296479cf9fdabf0042b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1309976913,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1309976913,
+    "wof:lastmodified":1537601855,
+    "wof:name":"Catang",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.2,
+    29.6,
+    85.2,
+    29.6
+],
+  "geometry": {"coordinates":[85.2,29.6],"type":"Point"}
+}

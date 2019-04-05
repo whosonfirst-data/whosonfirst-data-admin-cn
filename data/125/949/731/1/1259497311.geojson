@@ -1,0 +1,82 @@
+{
+  "id": 1259497311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.35874,31.0772,118.35874,31.0772",
+    "geom:latitude":31.0772,
+    "geom:longitude":118.35874,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Huangmu",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1807331,
+    "gn:latitude":31.0772,
+    "gn:longitude":118.35874,
+    "gn:modification_date":"2012-10-06",
+    "gn:name":"Huangmu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huang-mu",
+        "Huang-mu-tu",
+        "Huangmudu",
+        "Huangmu",
+        "Huangmu Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ec4\u5893"
+    ],
+    "name:zho_x_variant":[
+        "\u9ec4\u5893\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890513093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1807331
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2271194890e4f10a98f30e8ff07fa2eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513093,
+            "empire_id":136253041,
+            "locality_id":1259497311,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1259497311,
+    "wof:lastmodified":1537593432,
+    "wof:name":"Huangmu",
+    "wof:parent_id":890513093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.35874,
+    31.0772,
+    118.35874,
+    31.0772
+],
+  "geometry": {"coordinates":[118.35874,31.0772],"type":"Point"}
+}

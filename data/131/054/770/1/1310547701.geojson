@@ -1,0 +1,77 @@
+{
+  "id": 1310547701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.39236,21.03506,110.39236,21.03506",
+    "geom:latitude":21.03506,
+    "geom:longitude":110.39236,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Dongshan",
+    "gn:country_code":"CN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1812286,
+    "gn:latitude":21.03506,
+    "gn:longitude":110.39236,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Dongshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lei-tung",
+        "Tung-shan",
+        "Dongshan",
+        "\u4e1c\u5c71",
+        "Dongshan Zhen",
+        "\u4e1c\u5c71\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890514753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1812286
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"83ec0c35e3bc89404402eebc866d08b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514753,
+            "empire_id":136253041,
+            "locality_id":1310547701,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1310547701,
+    "wof:lastmodified":1537593754,
+    "wof:name":"Dongshan",
+    "wof:parent_id":890514753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.39236,
+    21.03506,
+    110.39236,
+    21.03506
+],
+  "geometry": {"coordinates":[110.39236,21.03506],"type":"Point"}
+}

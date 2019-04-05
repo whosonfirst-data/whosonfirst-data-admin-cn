@@ -1,0 +1,80 @@
+{
+  "id": 1226670015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.05072,32.92169,120.05072,32.92169",
+    "geom:latitude":32.92169,
+    "geom:longitude":120.05072,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guanruancun",
+    "gn:country_code":"CN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1548601,
+    "gn:latitude":32.92169,
+    "gn:longitude":120.05072,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Guanruancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guanruan",
+        "Guanruanzhuang",
+        "Guanruancun"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ba1\u962e"
+    ],
+    "name:zho_x_variant":[
+        "\u7ba1\u962e\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1548601
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d2d565512add7d17653868e6de51b018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516237,
+            "empire_id":136253041,
+            "locality_id":1226670015,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1226670015,
+    "wof:lastmodified":1537591670,
+    "wof:name":"Guanruancun",
+    "wof:parent_id":890516237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.05072,
+    32.92169000000001,
+    120.05072,
+    32.92169000000001
+],
+  "geometry": {"coordinates":[120.05072,32.92169000000001],"type":"Point"}
+}

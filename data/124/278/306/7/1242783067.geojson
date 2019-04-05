@@ -1,0 +1,79 @@
+{
+  "id": 1242783067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.34088,31.50971,119.34088,31.50971",
+    "geom:latitude":31.50971,
+    "geom:longitude":119.34088,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shuixicun",
+    "gn:country_code":"CN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1548266,
+    "gn:latitude":31.50971,
+    "gn:longitude":119.34088,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Shuixicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shuixi",
+        "Shuixicun"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c34\u897f"
+    ],
+    "name:zho_x_variant":[
+        "\u6c34\u897f\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890514735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1548266
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7b6da109a360cdbbccadf98b06466fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514735,
+            "empire_id":136253041,
+            "locality_id":1242783067,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1242783067,
+    "wof:lastmodified":1537591656,
+    "wof:name":"Shuixicun",
+    "wof:parent_id":890514735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.34088,
+    31.50971,
+    119.34088,
+    31.50971
+],
+  "geometry": {"coordinates":[119.34088,31.50971],"type":"Point"}
+}

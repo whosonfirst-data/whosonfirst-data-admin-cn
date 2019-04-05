@@ -1,0 +1,77 @@
+{
+  "id": 1327120293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.3,36.6,78.3,36.6",
+    "geom:latitude":36.6,
+    "geom:longitude":78.3,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Azgar",
+    "gn:country_code":"CN",
+    "gn:dem":4174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1281728,
+    "gn:latitude":36.6,
+    "gn:longitude":78.3,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Azgar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uig_x_preferred":[
+        "Az\u01a3ar"
+    ],
+    "name:uig_x_variant":[
+        "Azghar",
+        "\u0626\u0627\u0632\u063a\u0627\u0631",
+        "\u0410\u0437\u0493\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669753,
+        102191569,
+        85632695,
+        136253041,
+        1108732387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1281728
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"40fbc3476d2cc98df9da5749fe58a963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732387,
+            "empire_id":136253041,
+            "locality_id":1327120293,
+            "region_id":85669753
+        }
+    ],
+    "wof:id":1327120293,
+    "wof:lastmodified":1537591541,
+    "wof:name":"Azgar",
+    "wof:parent_id":1108732387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.3,
+    36.6,
+    78.3,
+    36.6
+],
+  "geometry": {"coordinates":[78.3,36.6],"type":"Point"}
+}

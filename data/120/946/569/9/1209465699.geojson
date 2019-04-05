@@ -1,0 +1,64 @@
+{
+  "id": 1209465699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.139,22.8951,100.139,22.8951",
+    "geom:latitude":22.8951,
+    "geom:longitude":100.139,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Potou",
+    "gn:country_code":"CN",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9914643,
+    "gn:latitude":22.8951,
+    "gn:longitude":100.139,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Potou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5761\u5934"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9914643
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6dc9e224f31193071e1ce6bf076e4313",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209465699
+        }
+    ],
+    "wof:id":1209465699,
+    "wof:lastmodified":1537607214,
+    "wof:name":"Potou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.139,
+    22.8951,
+    100.139,
+    22.8951
+],
+  "geometry": {"coordinates":[100.139,22.8951],"type":"Point"}
+}

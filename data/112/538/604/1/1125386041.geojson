@@ -1,0 +1,79 @@
+{
+  "id": 1125386041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.98417,22.15111,107.98417,22.15111",
+    "geom:latitude":22.15111,
+    "geom:longitude":107.98417,
+    "gn:gn_country":"CN",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"CN",
+    "lbl:latitude":22.15111,
+    "lbl:longitude":107.98417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Shang-ssu Hsien"
+    ],
+    "qs_pg:aaroncc":"CN",
+    "qs_pg:gn_country":"CN",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1796103,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Shangsi Xian",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1031523,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        85669717,
+        102191569,
+        85632695,
+        136253041,
+        890512639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1796103,
+        "qs_pg:id":1031523
+    },
+    "wof:country":"CN",
+    "wof:created":1497048383,
+    "wof:geomhash":"d62849ea5e033655d6c7bbd80052d598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512639,
+            "empire_id":136253041,
+            "localadmin_id":1125386041,
+            "region_id":85669717
+        }
+    ],
+    "wof:id":1125386041,
+    "wof:lastmodified":1509389721,
+    "wof:name":"Shangsi Xian",
+    "wof:parent_id":890512639,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.98417,
+    22.15111,
+    107.98417,
+    22.15111
+],
+  "geometry": {"coordinates":[107.98417000000001,22.15111],"type":"Point"}
+}

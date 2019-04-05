@@ -1,0 +1,76 @@
+{
+  "id": 1360189913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.9031,32.2259,118.9031,32.2259",
+    "geom:latitude":32.2259,
+    "geom:longitude":118.9031,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Yudai",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1548973,
+    "gn:latitude":32.2259,
+    "gn:longitude":118.9031,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Yudai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u7389\u5e26",
+        "Yudai Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u7389\u5e26\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1548973
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b50f09370e98fb08f47ad9b4c4e1c363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516425,
+            "empire_id":136253041,
+            "locality_id":1360189913,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1360189913,
+    "wof:lastmodified":1537591687,
+    "wof:name":"Yudai",
+    "wof:parent_id":890516425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.9031,
+    32.2259,
+    118.9031,
+    32.2259
+],
+  "geometry": {"coordinates":[118.90309999999999,32.2259],"type":"Point"}
+}

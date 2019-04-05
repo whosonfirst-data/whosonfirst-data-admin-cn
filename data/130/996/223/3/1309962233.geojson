@@ -1,0 +1,76 @@
+{
+  "id": 1309962233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.44971,40.70777,116.44971,40.70777",
+    "geom:latitude":40.70777,
+    "geom:longitude":116.44971,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Shaliangzi",
+    "gn:country_code":"CN",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2035050,
+    "gn:latitude":40.70777,
+    "gn:longitude":116.44971,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Shaliangzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sha-liang-tzu",
+        "Shaliangzi"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u6881\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669727,
+        102191569,
+        85632695,
+        136253041,
+        1108732371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2035050
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"46a0f53d3a1875952ef03d44e30866c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732371,
+            "empire_id":136253041,
+            "locality_id":1309962233,
+            "region_id":85669727
+        }
+    ],
+    "wof:id":1309962233,
+    "wof:lastmodified":1537595689,
+    "wof:name":"Shaliangzi",
+    "wof:parent_id":1108732371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.44971,
+    40.70777,
+    116.44971,
+    40.70777
+],
+  "geometry": {"coordinates":[116.44971,40.70777],"type":"Point"}
+}

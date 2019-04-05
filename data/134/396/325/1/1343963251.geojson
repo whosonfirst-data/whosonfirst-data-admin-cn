@@ -1,0 +1,77 @@
+{
+  "id": 1343963251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.99689,31.93213,118.99689,31.93213",
+    "geom:latitude":31.93213,
+    "geom:longitude":118.99689,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Suoshu",
+    "gn:country_code":"CN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1793776,
+    "gn:latitude":31.93213,
+    "gn:longitude":118.99689,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Suoshu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "So-shu-chen",
+        "So-shu",
+        "Suoshu"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u5885"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1793776
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0f76a507bfb5654916b1b1841d2bf1e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516425,
+            "empire_id":136253041,
+            "locality_id":1343963251,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1343963251,
+    "wof:lastmodified":1537592551,
+    "wof:name":"Suoshu",
+    "wof:parent_id":890516425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.99689,
+    31.93213,
+    118.99689,
+    31.93213
+],
+  "geometry": {"coordinates":[118.99688999999999,31.93213],"type":"Point"}
+}

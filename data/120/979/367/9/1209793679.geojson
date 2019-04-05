@@ -1,0 +1,73 @@
+{
+  "id": 1209793679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.88333,25.37861,111.88333,25.37861",
+    "geom:latitude":25.37861,
+    "geom:longitude":111.88333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Liaodong",
+    "gn:country_code":"CN",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6420878,
+    "gn:latitude":25.37861,
+    "gn:longitude":111.88333,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Liaodong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5ed6\u6d1e",
+        "Liaodong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890515001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420878
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"97c996858b69332306dd4b5b9bb06d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515001,
+            "empire_id":136253041,
+            "locality_id":1209793679,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1209793679,
+    "wof:lastmodified":1537596020,
+    "wof:name":"Liaodong",
+    "wof:parent_id":890515001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.88333,
+    25.37861,
+    111.88333,
+    25.37861
+],
+  "geometry": {"coordinates":[111.88333,25.37861],"type":"Point"}
+}

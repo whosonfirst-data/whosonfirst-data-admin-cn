@@ -1,0 +1,64 @@
+{
+  "id": 1209470111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.716,35.4985,116.716,35.4985",
+    "geom:latitude":35.4985,
+    "geom:longitude":116.716,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Eyachang",
+    "gn:country_code":"CN",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9120265,
+    "gn:latitude":35.4985,
+    "gn:longitude":116.716,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Eyachang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9e45\u9e2d\u5382"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9120265
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9c7c803a947d9d0ef2e20f05683a366d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209470111
+        }
+    ],
+    "wof:id":1209470111,
+    "wof:lastmodified":1537605338,
+    "wof:name":"Eyachang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.716,
+    35.4985,
+    116.716,
+    35.4985
+],
+  "geometry": {"coordinates":[116.71599999999999,35.4985],"type":"Point"}
+}

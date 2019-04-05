@@ -1,0 +1,77 @@
+{
+  "id": 1309960577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.96709,34.28361,109.96709,34.28361",
+    "geom:latitude":34.28361,
+    "geom:longitude":109.96709,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Shikegou",
+    "gn:country_code":"CN",
+    "gn:dem":1285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7048097,
+    "gn:latitude":34.28361,
+    "gn:longitude":109.96709,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shikegou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shike",
+        "Shikegou",
+        "\u77f3\u53ef\u6c9f"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u53ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890511937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7048097
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f2f9e9c895d8b07f99d600b58a58c6c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890511937,
+            "empire_id":136253041,
+            "locality_id":1309960577,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1309960577,
+    "wof:lastmodified":1537597529,
+    "wof:name":"Shikegou",
+    "wof:parent_id":890511937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.96708999999998,
+    34.28361,
+    109.96708999999998,
+    34.28361
+],
+  "geometry": {"coordinates":[109.96708999999998,34.28361],"type":"Point"}
+}

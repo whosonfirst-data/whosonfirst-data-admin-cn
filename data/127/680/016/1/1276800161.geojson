@@ -1,0 +1,75 @@
+{
+  "id": 1276800161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.15236,32.10806,120.15236,32.10806",
+    "geom:latitude":32.10806,
+    "geom:longitude":120.15236,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dong'an",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8361102,
+    "gn:latitude":32.10806,
+    "gn:longitude":120.15236,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Dong\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dong\u2019an"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u5b89"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8361102
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"800ad36c63044793d1bc0f5273b37a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516237,
+            "empire_id":136253041,
+            "locality_id":1276800161,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1276800161,
+    "wof:lastmodified":1537603009,
+    "wof:name":"Dong'an",
+    "wof:parent_id":890516237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.15236000000002,
+    32.10805999999999,
+    120.15236000000002,
+    32.10805999999999
+],
+  "geometry": {"coordinates":[120.15236000000002,32.10805999999999],"type":"Point"}
+}

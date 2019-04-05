@@ -1,0 +1,76 @@
+{
+  "id": 1226809231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.99888,23.40014,112.99888,23.40014",
+    "geom:latitude":23.40014,
+    "geom:longitude":112.99888,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Chini",
+    "gn:country_code":"CN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1814990,
+    "gn:latitude":23.40014,
+    "gn:longitude":112.99888,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Chini",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019ih-ni",
+        "Chini",
+        "\u8d64\u576d",
+        "Chini Zhen",
+        "\u8d64\u576d\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890513087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1814990
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a613428adc31e8448d64a9ad5c7ca356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513087,
+            "empire_id":136253041,
+            "locality_id":1226809231,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1226809231,
+    "wof:lastmodified":1537593914,
+    "wof:name":"Chini",
+    "wof:parent_id":890513087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.99888,
+    23.40014,
+    112.99888,
+    23.40014
+],
+  "geometry": {"coordinates":[112.99888,23.40014],"type":"Point"}
+}

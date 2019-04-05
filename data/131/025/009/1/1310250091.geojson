@@ -1,0 +1,78 @@
+{
+  "id": 1310250091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.06001,29.28567,101.06001,29.28567",
+    "geom:latitude":29.28567,
+    "geom:longitude":101.06001,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Jiju",
+    "gn:country_code":"CN",
+    "gn:dem":2959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1805785,
+    "gn:latitude":29.28567,
+    "gn:longitude":101.06001,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jiju",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chi-ch\u00fc",
+        "Chieh-ch\u00fc",
+        "Jij\u00fc",
+        "Jiju"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u5c45"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890514703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1805785
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"10a52f640d36b2c9336cd518e42fc489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514703,
+            "empire_id":136253041,
+            "locality_id":1310250091,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1310250091,
+    "wof:lastmodified":1537593338,
+    "wof:name":"Jiju",
+    "wof:parent_id":890514703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.06001,
+    29.28567,
+    101.06001,
+    29.28567
+],
+  "geometry": {"coordinates":[101.06001000000001,29.28567],"type":"Point"}
+}

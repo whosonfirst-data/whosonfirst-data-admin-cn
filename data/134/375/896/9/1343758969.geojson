@@ -1,0 +1,78 @@
+{
+  "id": 1343758969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.47722,46.17689,125.47722,46.17689",
+    "geom:latitude":46.17689,
+    "geom:longitude":125.47722,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Anmin",
+    "gn:country_code":"CN",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8507877,
+    "gn:latitude":46.17689,
+    "gn:longitude":125.47722,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Anmin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anmin Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u6c11"
+    ],
+    "name:zho_x_variant":[
+        "\u5b89\u6c11\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890514509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8507877
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8f15404d82f4f0dacae38dcaf25eeb00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514509,
+            "empire_id":136253041,
+            "locality_id":1343758969,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1343758969,
+    "wof:lastmodified":1537603927,
+    "wof:name":"Anmin",
+    "wof:parent_id":890514509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.47722,
+    46.17689,
+    125.47722,
+    46.17689
+],
+  "geometry": {"coordinates":[125.47722,46.17689],"type":"Point"}
+}

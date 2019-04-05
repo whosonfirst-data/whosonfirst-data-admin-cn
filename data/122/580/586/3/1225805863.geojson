@@ -1,0 +1,80 @@
+{
+  "id": 1225805863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.65607,27.37374,99.65607,27.37374",
+    "geom:latitude":27.37374,
+    "geom:longitude":99.65607,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Geluwan",
+    "gn:country_code":"CN",
+    "gn:dem":1909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8432778,
+    "gn:latitude":27.37374,
+    "gn:longitude":99.65607,
+    "gn:modification_date":"2015-04-09",
+    "gn:name":"Geluwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shangjiang",
+        "Shangjiang Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u9c81\u6e7e"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0a\u6c5f",
+        "\u4e0a\u6c5f\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        1108732505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8432778
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c9fdf1b7ad28dd31528bb7ea7fd0158c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732505,
+            "empire_id":136253041,
+            "locality_id":1225805863,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1225805863,
+    "wof:lastmodified":1537603698,
+    "wof:name":"Geluwan",
+    "wof:parent_id":1108732505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.65607,
+    27.37374,
+    99.65607,
+    27.37374
+],
+  "geometry": {"coordinates":[99.65607,27.37374],"type":"Point"}
+}

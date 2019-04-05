@@ -1,0 +1,76 @@
+{
+  "id": 1243537089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.02663,36.95679,107.02663,36.95679",
+    "geom:latitude":36.95679,
+    "geom:longitude":107.02663,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Shancheng",
+    "gn:country_code":"CN",
+    "gn:dem":1402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1796339,
+    "gn:latitude":36.95679,
+    "gn:longitude":107.02663,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shancheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xianchengbu",
+        "Shancheng",
+        "\u5c71\u57ce",
+        "Shancheng Xiang",
+        "\u5c71\u57ce\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669711,
+        102191569,
+        85632695,
+        136253041,
+        890512845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1796339
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"12527da288aac7529ff1a694be5e24d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512845,
+            "empire_id":136253041,
+            "locality_id":1243537089,
+            "region_id":85669711
+        }
+    ],
+    "wof:id":1243537089,
+    "wof:lastmodified":1537592727,
+    "wof:name":"Shancheng",
+    "wof:parent_id":890512845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.02663,
+    36.95679000000001,
+    107.02663,
+    36.95679000000001
+],
+  "geometry": {"coordinates":[107.02663,36.95679000000001],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1277080697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.31588,29.32537,117.31588,29.32537",
+    "geom:latitude":29.32537,
+    "geom:longitude":117.31588,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Xianghu",
+    "gn:country_code":"CN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1790567,
+    "gn:latitude":29.32537,
+    "gn:longitude":117.31588,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Xianghu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsiang-hu",
+        "Xianghu",
+        "\u6e58\u6e56",
+        "Xianghu Zhen",
+        "\u6e58\u6e56\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669823,
+        102191569,
+        85632695,
+        136253041,
+        890514599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1790567
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"27c2ec6e76e52f23f0c59a2d68c9f31e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514599,
+            "empire_id":136253041,
+            "locality_id":1277080697,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":1277080697,
+    "wof:lastmodified":1537592346,
+    "wof:name":"Xianghu",
+    "wof:parent_id":890514599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.31588,
+    29.32537,
+    117.31588,
+    29.32537
+],
+  "geometry": {"coordinates":[117.31588000000001,29.32537],"type":"Point"}
+}

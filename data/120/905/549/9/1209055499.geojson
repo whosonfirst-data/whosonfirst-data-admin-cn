@@ -1,0 +1,64 @@
+{
+  "id": 1209055499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.078,30.4967,102.078,30.4967",
+    "geom:latitude":30.4967,
+    "geom:longitude":102.078,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Menba",
+    "gn:country_code":"CN",
+    "gn:dem":2195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10199046,
+    "gn:latitude":30.4967,
+    "gn:longitude":102.078,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Menba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u95e8\u575d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10199046
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9c185b6849a661cd920abcfd4ccc1dc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209055499
+        }
+    ],
+    "wof:id":1209055499,
+    "wof:lastmodified":1537611248,
+    "wof:name":"Menba",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.078,
+    30.4967,
+    102.078,
+    30.4967
+],
+  "geometry": {"coordinates":[102.078,30.4967],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226052067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.28333,31.825,118.28333,31.825",
+    "geom:latitude":31.825,
+    "geom:longitude":118.28333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sunyuanbu",
+    "gn:country_code":"CN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1553012,
+    "gn:latitude":31.825,
+    "gn:longitude":118.28333,
+    "gn:modification_date":"2015-01-06",
+    "gn:name":"Sunyuanbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5b59\u5143\u5821",
+        "Sunbao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b59\u5143\u5821"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        1108732543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1553012
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5c61983ff69b4e212beb62114afc9427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732543,
+            "empire_id":136253041,
+            "locality_id":1226052067,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1226052067,
+    "wof:lastmodified":1537591764,
+    "wof:name":"Sunyuanbu",
+    "wof:parent_id":1108732543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.28333,
+    31.825,
+    118.28333,
+    31.825
+],
+  "geometry": {"coordinates":[118.28333000000001,31.825],"type":"Point"}
+}

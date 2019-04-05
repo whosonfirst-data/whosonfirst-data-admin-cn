@@ -1,0 +1,72 @@
+{
+  "id": 1343724343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.39053,42.66023,123.39053,42.66023",
+    "geom:latitude":42.66023,
+    "geom:longitude":123.39053,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Zhongxuchang",
+    "gn:country_code":"CN",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":7012391,
+    "gn:latitude":42.66023,
+    "gn:longitude":123.39053,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Zhongxuchang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u79cd\u755c\u573a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7012391
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7bb5ea55e1e4c8aa84576b14fb752843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732451,
+            "empire_id":136253041,
+            "locality_id":1343724343,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1343724343,
+    "wof:lastmodified":1537597420,
+    "wof:name":"Zhongxuchang",
+    "wof:parent_id":1108732451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.39053,
+    42.66023,
+    123.39053,
+    42.66023
+],
+  "geometry": {"coordinates":[123.39053,42.66023],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209187141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.691,35.6144,103.691,35.6144",
+    "geom:latitude":35.6144,
+    "geom:longitude":103.691,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Majiliang",
+    "gn:country_code":"CN",
+    "gn:dem":2110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10754719,
+    "gn:latitude":35.6144,
+    "gn:longitude":103.691,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Majiliang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9a6c\u810a\u6881"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10754719
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6f61539b2eb1004cfd53cb1ebe52c062",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209187141
+        }
+    ],
+    "wof:id":1209187141,
+    "wof:lastmodified":1537614372,
+    "wof:name":"Majiliang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.691,
+    35.6144,
+    103.691,
+    35.6144
+],
+  "geometry": {"coordinates":[103.691,35.6144],"type":"Point"}
+}

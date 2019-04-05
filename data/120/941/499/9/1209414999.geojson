@@ -1,0 +1,64 @@
+{
+  "id": 1209414999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.66457,31.73532,119.66457,31.73532",
+    "geom:latitude":31.73532,
+    "geom:longitude":119.66457,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dazhu",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8394845,
+    "gn:latitude":31.73532,
+    "gn:longitude":119.66457,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Dazhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u6e1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8394845
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7fdc0c6f90737cd8d06e410f4fef981a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209414999
+        }
+    ],
+    "wof:id":1209414999,
+    "wof:lastmodified":1537603199,
+    "wof:name":"Dazhu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.66457,
+    31.73532,
+    119.66457,
+    31.73532
+],
+  "geometry": {"coordinates":[119.66457,31.73532],"type":"Point"}
+}

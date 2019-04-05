@@ -1,0 +1,78 @@
+{
+  "id": 1343653025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.64571,25.97138,119.64571,25.97138",
+    "geom:latitude":25.97138,
+    "geom:longitude":119.64571,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Hunan",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1921758,
+    "gn:latitude":25.97138,
+    "gn:longitude":119.64571,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Hunan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hunan Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e56\u5357"
+    ],
+    "name:zho_x_variant":[
+        "\u6e56\u5357\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1921758
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0dfb0c6680d09547599b7561a6063c0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516575,
+            "empire_id":136253041,
+            "locality_id":1343653025,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1343653025,
+    "wof:lastmodified":1537594877,
+    "wof:name":"Hunan",
+    "wof:parent_id":890516575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.64571,
+    25.97138,
+    119.64571,
+    25.97138
+],
+  "geometry": {"coordinates":[119.64570999999999,25.97138],"type":"Point"}
+}

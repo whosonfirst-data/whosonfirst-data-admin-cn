@@ -1,0 +1,64 @@
+{
+  "id": 1209296065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.246,22.3461,109.246,22.3461",
+    "geom:latitude":22.3461,
+    "geom:longitude":109.246,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"xincun",
+    "gn:country_code":"CN",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9899204,
+    "gn:latitude":22.3461,
+    "gn:longitude":109.246,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"xincun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5fc3\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9899204
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"85f9221161b557d9d749c7f0fa30f989",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209296065
+        }
+    ],
+    "wof:id":1209296065,
+    "wof:lastmodified":1537606753,
+    "wof:name":"xincun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.246,
+    22.3461,
+    109.246,
+    22.3461
+],
+  "geometry": {"coordinates":[109.246,22.3461],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343252551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.25666,46.91569,131.25666,46.91569",
+    "geom:latitude":46.91569,
+    "geom:longitude":131.25666,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bei'ancun",
+    "gn:country_code":"CN",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11570836,
+    "gn:latitude":46.91569,
+    "gn:longitude":131.25666,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bei\u2019ancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bei\u2019ancun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u5b89\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        1108732377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11570836
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3460fc2cfff9c2388bfdda83dc758f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732377,
+            "empire_id":136253041,
+            "locality_id":1343252551,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1343252551,
+    "wof:lastmodified":1537617794,
+    "wof:name":"Bei'ancun",
+    "wof:parent_id":1108732377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.25666,
+    46.91569000000001,
+    131.25666,
+    46.91569000000001
+],
+  "geometry": {"coordinates":[131.25666000000001,46.91569000000001],"type":"Point"}
+}

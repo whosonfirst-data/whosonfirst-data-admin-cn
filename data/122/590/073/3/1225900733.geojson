@@ -1,0 +1,80 @@
+{
+  "id": 1225900733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.16821,40.50752,117.16821,40.50752",
+    "geom:latitude":40.50752,
+    "geom:longitude":117.16821,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Beizhuang",
+    "gn:country_code":"CN",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2038304,
+    "gn:latitude":40.50752,
+    "gn:longitude":117.16821,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Beizhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pei-chuang",
+        "Beizhuang",
+        "Beizhuang Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u5e84"
+    ],
+    "name:zho_x_variant":[
+        "\u5317\u5e84\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669727,
+        102191569,
+        85632695,
+        136253041,
+        1108732371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2038304
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4aba940204b27d21e060bff1848bee06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732371,
+            "empire_id":136253041,
+            "locality_id":1225900733,
+            "region_id":85669727
+        }
+    ],
+    "wof:id":1225900733,
+    "wof:lastmodified":1537595874,
+    "wof:name":"Beizhuang",
+    "wof:parent_id":1108732371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.16821000000002,
+    40.50752,
+    117.16821000000002,
+    40.50752
+],
+  "geometry": {"coordinates":[117.16821000000002,40.50752],"type":"Point"}
+}

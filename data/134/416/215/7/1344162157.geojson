@@ -1,0 +1,78 @@
+{
+  "id": 1344162157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.61417,31.85167,121.61417,31.85167",
+    "geom:latitude":31.85167,
+    "geom:longitude":121.61417,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Weijiao",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1791655,
+    "gn:latitude":31.85167,
+    "gn:longitude":121.61417,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Weijiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hs\u00fc-chiao",
+        "Y\u00fc-chiao",
+        "Wei-chiao-chen",
+        "Y\u00fc-chiao-chen",
+        "Weijiaozhen",
+        "Weijiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1791655
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4736f4c75785f6941c701a68cad692f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515155,
+            "empire_id":136253041,
+            "locality_id":1344162157,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1344162157,
+    "wof:lastmodified":1537592415,
+    "wof:name":"Weijiao",
+    "wof:parent_id":890515155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.61417,
+    31.85167,
+    121.61417,
+    31.85167
+],
+  "geometry": {"coordinates":[121.61417,31.85167],"type":"Point"}
+}

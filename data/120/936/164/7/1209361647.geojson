@@ -1,0 +1,64 @@
+{
+  "id": 1209361647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.596,25.324,104.596,25.324",
+    "geom:latitude":25.324,
+    "geom:longitude":104.596,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Beiyinqing",
+    "gn:country_code":"CN",
+    "gn:dem":1728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10157235,
+    "gn:latitude":25.324,
+    "gn:longitude":104.596,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Beiyinqing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u80cc\u9634\u7b90"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10157235
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5659e018cb49ea29043225bfae49bde0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209361647
+        }
+    ],
+    "wof:id":1209361647,
+    "wof:lastmodified":1537610660,
+    "wof:name":"Beiyinqing",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.596,
+    25.324,
+    104.596,
+    25.324
+],
+  "geometry": {"coordinates":[104.596,25.324],"type":"Point"}
+}

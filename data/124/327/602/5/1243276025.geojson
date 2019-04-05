@@ -1,0 +1,73 @@
+{
+  "id": 1243276025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.58652,29.51346,119.58652,29.51346",
+    "geom:latitude":29.51346,
+    "geom:longitude":119.58652,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mazhai",
+    "gn:country_code":"CN",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6972461,
+    "gn:latitude":29.51346,
+    "gn:longitude":119.58652,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mazhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9a6c\u5b85",
+        "Mazhai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6972461
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a6c17e564c12c027a594dc13299ee556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516555,
+            "empire_id":136253041,
+            "locality_id":1243276025,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1243276025,
+    "wof:lastmodified":1537597083,
+    "wof:name":"Mazhai",
+    "wof:parent_id":890516555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.58652,
+    29.51346,
+    119.58652,
+    29.51346
+],
+  "geometry": {"coordinates":[119.58651999999999,29.51346],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1259356569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.301,28.501,98.301,28.501",
+    "geom:latitude":28.501,
+    "geom:longitude":98.301,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chagna",
+    "gn:country_code":"CN",
+    "gn:dem":3472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8066999,
+    "gn:latitude":28.501,
+    "gn:longitude":98.301,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Chagna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Chagna"
+    ],
+    "name:zho_x_preferred":[
+        "Zhana"
+    ],
+    "name:zho_x_variant":[
+        "\u624e\u90a3",
+        "Chawalong Qu",
+        "\u5bdf\u74e6\u9f99\u533a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066999
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6f9e72463aab9b362b7c2013f6af0ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515951,
+            "empire_id":136253041,
+            "locality_id":1259356569,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1259356569,
+    "wof:lastmodified":1537602528,
+    "wof:name":"Chagna",
+    "wof:parent_id":890515951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.301,
+    28.501,
+    98.301,
+    28.501
+],
+  "geometry": {"coordinates":[98.301,28.501],"type":"Point"}
+}

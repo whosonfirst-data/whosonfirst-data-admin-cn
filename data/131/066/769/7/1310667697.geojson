@@ -1,0 +1,78 @@
+{
+  "id": 1310667697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.11507,34.2103,109.11507,34.2103",
+    "geom:latitude":34.2103,
+    "geom:longitude":109.11507,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Dizhai",
+    "gn:country_code":"CN",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1812702,
+    "gn:latitude":34.2103,
+    "gn:longitude":109.11507,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dizhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ti-chai-chen",
+        "Ti-chai",
+        "Dizhai",
+        "Dizhai Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u72c4\u5be8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1812702
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0f9b935412acca7422b0ed73c8e0cd57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515687,
+            "empire_id":136253041,
+            "locality_id":1310667697,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1310667697,
+    "wof:lastmodified":1537593781,
+    "wof:name":"Dizhai",
+    "wof:parent_id":890515687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.11507,
+    34.2103,
+    109.11507,
+    34.2103
+],
+  "geometry": {"coordinates":[109.11507,34.2103],"type":"Point"}
+}

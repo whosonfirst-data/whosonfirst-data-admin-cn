@@ -1,0 +1,75 @@
+{
+  "id": 1326654015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.46104,33.04606,119.46104,33.04606",
+    "geom:latitude":33.04606,
+    "geom:longitude":119.46104,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhangxiaoyanzi",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8034344,
+    "gn:latitude":33.04606,
+    "gn:longitude":119.46104,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhangxiaoyanzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Zhangxiaoyanzi"
+    ],
+    "name:zho_x_variant":[
+        "\u5f20\u5c0f\u5830\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8034344
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7cd9a5cc949466eeaf0445970d74d841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516397,
+            "empire_id":136253041,
+            "locality_id":1326654015,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1326654015,
+    "wof:lastmodified":1537602188,
+    "wof:name":"Zhangxiaoyanzi",
+    "wof:parent_id":890516397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.46104,
+    33.04606,
+    119.46104,
+    33.04606
+],
+  "geometry": {"coordinates":[119.46104,33.04606],"type":"Point"}
+}

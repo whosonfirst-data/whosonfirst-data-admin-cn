@@ -1,0 +1,87 @@
+{
+  "id": 1259955379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.439,28.5537,107.439,28.5537",
+    "geom:latitude":28.5537,
+    "geom:longitude":107.439,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Fengyi",
+    "gn:country_code":"CN",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1811183,
+    "gn:latitude":28.5537,
+    "gn:longitude":107.439,
+    "gn:modification_date":"2014-02-08",
+    "gn:name":"Fengyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cheng-an-hsien",
+        "Feng-i",
+        "Zheng\u2019an",
+        "Chenganchow",
+        "Cheng-an Chou",
+        "Cheng-an",
+        "Fengyi",
+        "Zheng\u2019an Xian",
+        "Fengyi Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u51e4\u4eea"
+    ],
+    "name:zho_x_variant":[
+        "\u6b63\u5b89\u53bf",
+        "\u51e4\u4eea\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669721,
+        102191569,
+        85632695,
+        136253041,
+        890516473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1811183
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4d5a2de2a3ffe7069a37c0f9444b8c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516473,
+            "empire_id":136253041,
+            "locality_id":1259955379,
+            "region_id":85669721
+        }
+    ],
+    "wof:id":1259955379,
+    "wof:lastmodified":1537593685,
+    "wof:name":"Fengyi",
+    "wof:parent_id":890516473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.439,
+    28.5537,
+    107.439,
+    28.5537
+],
+  "geometry": {"coordinates":[107.43899999999999,28.5537],"type":"Point"}
+}

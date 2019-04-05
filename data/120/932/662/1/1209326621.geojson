@@ -1,0 +1,64 @@
+{
+  "id": 1209326621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.27436,30.29503,121.27436,30.29503",
+    "geom:latitude":30.29503,
+    "geom:longitude":121.27436,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Songjia",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11198805,
+    "gn:latitude":30.29503,
+    "gn:longitude":121.27436,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Songjia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5b8b\u5bb6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11198805
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e67efd74a4213dcc0fa6832df514809d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209326621
+        }
+    ],
+    "wof:id":1209326621,
+    "wof:lastmodified":1537615856,
+    "wof:name":"Songjia",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.27436000000002,
+    30.29503,
+    121.27436000000002,
+    30.29503
+],
+  "geometry": {"coordinates":[121.27436000000002,30.29503],"type":"Point"}
+}

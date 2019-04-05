@@ -1,0 +1,64 @@
+{
+  "id": 1209527747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.40739,29.55303,120.40739,29.55303",
+    "geom:latitude":29.55303,
+    "geom:longitude":120.40739,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Diankou",
+    "gn:country_code":"CN",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11199183,
+    "gn:latitude":29.55303,
+    "gn:longitude":120.40739,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Diankou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6bbf\u53e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11199183
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ed70b598d131dd8f163ca2ca390da909",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209527747
+        }
+    ],
+    "wof:id":1209527747,
+    "wof:lastmodified":1537615870,
+    "wof:name":"Diankou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.40739,
+    29.55303,
+    120.40739,
+    29.55303
+],
+  "geometry": {"coordinates":[120.40739000000001,29.55303],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1193236205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.19556,37.74639,113.19556,37.74639",
+    "geom:latitude":37.74639,
+    "geom:longitude":113.19556,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Jingshang",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1805592,
+    "gn:latitude":37.74639,
+    "gn:longitude":113.19556,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jingshang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ching-shang",
+        "Ching-shang-ts\u2019un",
+        "Jingshang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        890513369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1805592
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"aa5968751e093989426ac254fb34c6f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513369,
+            "empire_id":136253041,
+            "locality_id":1193236205,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1193236205,
+    "wof:lastmodified":1537593324,
+    "wof:name":"Jingshang",
+    "wof:parent_id":890513369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.19556,
+    37.74639000000001,
+    113.19556,
+    37.74639000000001
+],
+  "geometry": {"coordinates":[113.19556,37.74639000000001],"type":"Point"}
+}

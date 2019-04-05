@@ -1,0 +1,116 @@
+{
+  "id": 85907117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7842992.646639,
+    "geom:bbox":"113.195843,23.079506,113.195843,23.079506",
+    "geom:latitude":23.079506,
+    "geom:longitude":113.195843,
+    "gn:latitude":22.3251,
+    "gn:longitude":112.57373,
+    "iso:country":"CN",
+    "lbl:latitude":23.079506,
+    "lbl:longitude":113.195843,
+    "mps:latitude":23.091336,
+    "mps:longitude":113.201632,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Huadi"
+    ],
+    "name:unk_x_variant":[
+        "Shadi",
+        "Huadi"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u5730"
+    ],
+    "qs:gn_adm0_cc":"CN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":1809858,
+    "qs:gn_nam_loc":"\u5e7f\u5dde\u5e02, \u5e7f\u5dde\u5e02, \u5e7f\u5dde, \u5e7f\u4e1c\u7701, CN",
+    "qs:gn_namadm1":"30",
+    "qs:gn_name":"Shadi",
+    "qs:local_max":9142,
+    "qs:local_sum":30614,
+    "qs:localhoods":22,
+    "qs:name":"Huadi",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u5e7f\u4e1c\u7701",
+    "qs:name_adm2":"\u5e7f\u5dde\u5e02",
+    "qs:name_lau":"\u5e7f\u5dde\u5e02",
+    "qs:name_local":"\u5e7f\u5dde",
+    "qs:photo_max":57,
+    "qs:photo_sum":112,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424781,
+    "qs:woe_adm1":12578019,
+    "qs:woe_adm2":26198245,
+    "qs:woe_lau":12687611,
+    "qs:woe_local":2161838,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632695,
+        136253041,
+        890513087,
+        85669743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8366182,
+        "gp:id":22724608,
+        "qs:id":43556,
+        "qs_pg:id":43556
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"485a53dc160687e42177283348f02d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513087,
+            "empire_id":136253041,
+            "locality_id":-1,
+            "neighbourhood_id":85907117,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":85907117,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531936515,
+    "wof:name":"Huadi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.195843,
+    23.079506,
+    113.195843,
+    23.079506
+],
+  "geometry": {"coordinates":[113.195843,23.079506],"type":"Point"}
+}

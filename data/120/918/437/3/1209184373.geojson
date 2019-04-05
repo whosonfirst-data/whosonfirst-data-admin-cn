@@ -1,0 +1,64 @@
+{
+  "id": 1209184373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.965,36.652,102.965,36.652",
+    "geom:latitude":36.652,
+    "geom:longitude":102.965,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Hawula",
+    "gn:country_code":"CN",
+    "gn:dem":2422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10649027,
+    "gn:latitude":36.652,
+    "gn:longitude":102.965,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Hawula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u54c8\u5514\u62c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10649027
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9f09e11773e4e47250b24209bd9ac363",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209184373
+        }
+    ],
+    "wof:id":1209184373,
+    "wof:lastmodified":1537614013,
+    "wof:name":"Hawula",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.965,
+    36.652,
+    102.965,
+    36.652
+],
+  "geometry": {"coordinates":[102.965,36.652],"type":"Point"}
+}

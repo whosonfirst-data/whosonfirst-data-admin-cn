@@ -1,0 +1,64 @@
+{
+  "id": 1209260221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.629,31.3728,107.629,31.3728",
+    "geom:latitude":31.3728,
+    "geom:longitude":107.629,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Zhongshi",
+    "gn:country_code":"CN",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10155350,
+    "gn:latitude":31.3728,
+    "gn:longitude":107.629,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Zhongshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u91cd\u77f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10155350
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"13dbf12f9e087a5ea9bf730bf75915f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209260221
+        }
+    ],
+    "wof:id":1209260221,
+    "wof:lastmodified":1537610574,
+    "wof:name":"Zhongshi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.629,
+    31.3728,
+    107.629,
+    31.3728
+],
+  "geometry": {"coordinates":[107.629,31.3728],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1310250157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.30884,31.63633,100.30884,31.63633",
+    "geom:latitude":31.63633,
+    "geom:longitude":100.30884,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Zhuwo",
+    "gn:country_code":"CN",
+    "gn:dem":3393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1784767,
+    "gn:latitude":31.63633,
+    "gn:longitude":100.30884,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhuwo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Driwo",
+        "Chzhue",
+        "Chu-wo",
+        "Chu-o",
+        "Zh\u00eahor",
+        "Zhuwo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6731\u502d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890514703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1784767
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b691e47fcbb346b70d4495ba6f461239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514703,
+            "empire_id":136253041,
+            "locality_id":1310250157,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1310250157,
+    "wof:lastmodified":1537591947,
+    "wof:name":"Zhuwo",
+    "wof:parent_id":890514703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.30884,
+    31.63633,
+    100.30884,
+    31.63633
+],
+  "geometry": {"coordinates":[100.30884,31.63633],"type":"Point"}
+}

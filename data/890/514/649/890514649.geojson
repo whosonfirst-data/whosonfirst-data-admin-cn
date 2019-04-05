@@ -1,0 +1,68 @@
+{
+  "id": 890514649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.16,28.35417,106.16,28.35417",
+    "geom:latitude":28.35417,
+    "geom:longitude":106.16,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":552,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Sanyuanchang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669721,
+        102191569,
+        85632695,
+        136253041,
+        890516473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1552068,
+        "gp:id":2146770,
+        "qs:id":557045
+    },
+    "wof:country":"CN",
+    "wof:created":1469055870,
+    "wof:geomhash":"560d93aab25ddada2946c40eca18b855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516473,
+            "empire_id":136253041,
+            "locality_id":890514649,
+            "region_id":85669721
+        }
+    ],
+    "wof:id":890514649,
+    "wof:lastmodified":1505343897,
+    "wof:name":"Sanyuanchang",
+    "wof:parent_id":890516473,
+    "wof:placetype":"locality",
+    "wof:population":552,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.16,
+    28.35417,
+    106.16,
+    28.35417
+],
+  "geometry": {"coordinates":[106.16,28.35417],"type":"Point"}
+}

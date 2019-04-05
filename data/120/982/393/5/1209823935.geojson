@@ -1,0 +1,76 @@
+{
+  "id": 1209823935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.72121,28.07707,120.72121,28.07707",
+    "geom:latitude":28.07707,
+    "geom:longitude":120.72121,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Luoxicun",
+    "gn:country_code":"CN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1883188,
+    "gn:latitude":28.07707,
+    "gn:longitude":120.72121,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Luoxicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lo-hsi",
+        "Luoxicun"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u6eaa\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890514289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1883188
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"903b1bfe659e06bdc7886cf98b0c58ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514289,
+            "empire_id":136253041,
+            "locality_id":1209823935,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1209823935,
+    "wof:lastmodified":1537594181,
+    "wof:name":"Luoxicun",
+    "wof:parent_id":890514289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.72121,
+    28.07707000000001,
+    120.72121,
+    28.07707000000001
+],
+  "geometry": {"coordinates":[120.72121,28.07707000000001],"type":"Point"}
+}

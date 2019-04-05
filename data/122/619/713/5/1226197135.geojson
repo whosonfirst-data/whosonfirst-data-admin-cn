@@ -1,0 +1,76 @@
+{
+  "id": 1226197135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.16958,33.52572,106.16958,33.52572",
+    "geom:latitude":33.52572,
+    "geom:longitude":106.16958,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Jiugushu",
+    "gn:country_code":"CN",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1805193,
+    "gn:latitude":33.52572,
+    "gn:longitude":106.16958,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Jiugushu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiu-ku-shu",
+        "Tiao-ku-shu",
+        "Tao-ku-shu",
+        "Jiugushu",
+        "\u4e5d\u80a1\u6811"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1805193
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2bd1d263d20d10c4c02a71604a00f61a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515099,
+            "empire_id":136253041,
+            "locality_id":1226197135,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1226197135,
+    "wof:lastmodified":1537593297,
+    "wof:name":"Jiugushu",
+    "wof:parent_id":890515099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.16958,
+    33.52572,
+    106.16958,
+    33.52572
+],
+  "geometry": {"coordinates":[106.16958,33.52572],"type":"Point"}
+}

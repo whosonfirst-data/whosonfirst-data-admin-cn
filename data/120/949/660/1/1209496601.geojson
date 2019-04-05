@@ -1,0 +1,64 @@
+{
+  "id": 1209496601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.689,25.293,109.689,25.293",
+    "geom:latitude":25.293,
+    "geom:longitude":109.689,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Maling",
+    "gn:country_code":"CN",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9941467,
+    "gn:latitude":25.293,
+    "gn:longitude":109.689,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Maling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9a6c\u5cad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9941467
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3fe93a621d3d3ca977f285a0070b246e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209496601
+        }
+    ],
+    "wof:id":1209496601,
+    "wof:lastmodified":1537608025,
+    "wof:name":"Maling",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.689,
+    25.29300000000001,
+    109.689,
+    25.29300000000001
+],
+  "geometry": {"coordinates":[109.68899999999999,25.29300000000001],"type":"Point"}
+}

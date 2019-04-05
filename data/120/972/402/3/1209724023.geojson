@@ -1,0 +1,78 @@
+{
+  "id": 1209724023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.60799,30.02572,120.60799,30.02572",
+    "geom:latitude":30.02572,
+    "geom:longitude":120.60799,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donghu",
+    "gn:country_code":"CN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1812491,
+    "gn:latitude":30.02572,
+    "gn:longitude":120.60799,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Donghu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chengdongxiang",
+        "Donghuzhen",
+        "\u57ce\u4e1c\u4e61",
+        "\u4e1c\u6e56\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u6e56"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890513785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1812491
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bd4dc7f2a5ad31c5b52f0a960c497856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513785,
+            "empire_id":136253041,
+            "locality_id":1209724023,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1209724023,
+    "wof:lastmodified":1537593767,
+    "wof:name":"Donghu",
+    "wof:parent_id":890513785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.60799,
+    30.02572,
+    120.60799,
+    30.02572
+],
+  "geometry": {"coordinates":[120.60799,30.02572],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259979613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.28776,31.06921,120.28776,31.06921",
+    "geom:latitude":31.06921,
+    "geom:longitude":120.28776,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhangdaicun",
+    "gn:country_code":"CN",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7332353,
+    "gn:latitude":31.06921,
+    "gn:longitude":120.28776,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhangdaicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5f20\u57ed\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f20\u57ed\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7332353
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0f28d0cb73debb63ba065c065e0bf76c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515879,
+            "empire_id":136253041,
+            "locality_id":1259979613,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1259979613,
+    "wof:lastmodified":1537598089,
+    "wof:name":"Zhangdaicun",
+    "wof:parent_id":890515879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.28776,
+    31.06921,
+    120.28776,
+    31.06921
+],
+  "geometry": {"coordinates":[120.28776000000001,31.06921],"type":"Point"}
+}

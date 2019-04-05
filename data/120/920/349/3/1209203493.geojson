@@ -1,0 +1,64 @@
+{
+  "id": 1209203493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.26136,41.29337,116.26136,41.29337",
+    "geom:latitude":41.29337,
+    "geom:longitude":116.26136,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Maxiangou",
+    "gn:country_code":"CN",
+    "gn:dem":1303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10000463,
+    "gn:latitude":41.29337,
+    "gn:longitude":116.26136,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Maxiangou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9ebb\u7ebf\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10000463
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8aa01918e5dbcc10a7413ae2ad7bd992",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209203493
+        }
+    ],
+    "wof:id":1209203493,
+    "wof:lastmodified":1537608621,
+    "wof:name":"Maxiangou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.26136,
+    41.29337,
+    116.26136,
+    41.29337
+],
+  "geometry": {"coordinates":[116.26136,41.29337],"type":"Point"}
+}

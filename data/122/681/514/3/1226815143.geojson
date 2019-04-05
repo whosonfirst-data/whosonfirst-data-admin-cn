@@ -1,0 +1,79 @@
+{
+  "id": 1226815143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.31325,28.96259,108.31325,28.96259",
+    "geom:latitude":28.96259,
+    "geom:longitude":108.31325,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Hongdu",
+    "gn:country_code":"CN",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1808152,
+    "gn:latitude":28.96259,
+    "gn:longitude":108.31325,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Hongdu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hongdu Zhen",
+        "Hongdu"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d2a\u6e21"
+    ],
+    "name:zho_x_variant":[
+        "\u6d2a\u6e21\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669721,
+        102191569,
+        85632695,
+        136253041,
+        1108732513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1808152
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a47b754760bb7519c512eff989093a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732513,
+            "empire_id":136253041,
+            "locality_id":1226815143,
+            "region_id":85669721
+        }
+    ],
+    "wof:id":1226815143,
+    "wof:lastmodified":1537593482,
+    "wof:name":"Hongdu",
+    "wof:parent_id":1108732513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.31325,
+    28.96259,
+    108.31325,
+    28.96259
+],
+  "geometry": {"coordinates":[108.31325,28.96259],"type":"Point"}
+}

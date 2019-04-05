@@ -1,0 +1,72 @@
+{
+  "id": 1310012345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.01345,27.82071,115.01345,27.82071",
+    "geom:latitude":27.82071,
+    "geom:longitude":115.01345,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Louxia",
+    "gn:country_code":"CN",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7684068,
+    "gn:latitude":27.82071,
+    "gn:longitude":115.01345,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Louxia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u697c\u4e0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669823,
+        102191569,
+        85632695,
+        136253041,
+        890515379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7684068
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"57f9a438308373e93a01c46c3cd1eae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515379,
+            "empire_id":136253041,
+            "locality_id":1310012345,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":1310012345,
+    "wof:lastmodified":1537600941,
+    "wof:name":"Louxia",
+    "wof:parent_id":890515379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.01345,
+    27.82071,
+    115.01345,
+    27.82071
+],
+  "geometry": {"coordinates":[115.01345000000001,27.82071],"type":"Point"}
+}

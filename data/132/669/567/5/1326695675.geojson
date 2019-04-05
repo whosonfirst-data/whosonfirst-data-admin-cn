@@ -1,0 +1,75 @@
+{
+  "id": 1326695675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.11732,39.89086,123.11732,39.89086",
+    "geom:latitude":39.89086,
+    "geom:longitude":123.11732,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Zhangjialu",
+    "gn:country_code":"CN",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7403049,
+    "gn:latitude":39.89086,
+    "gn:longitude":123.11732,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhangjialu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5f20\u5bb6\u7089"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f20\u5bb6\u7089"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890515891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7403049
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"63bb912381aad09ea94ca540e4651216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515891,
+            "empire_id":136253041,
+            "locality_id":1326695675,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1326695675,
+    "wof:lastmodified":1537598833,
+    "wof:name":"Zhangjialu",
+    "wof:parent_id":890515891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.11732,
+    39.89086,
+    123.11732,
+    39.89086
+],
+  "geometry": {"coordinates":[123.11732000000001,39.89086],"type":"Point"}
+}

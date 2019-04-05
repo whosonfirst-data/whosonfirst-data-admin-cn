@@ -1,0 +1,76 @@
+{
+  "id": 1193122429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.66667,49.28333,129.66667,49.28333",
+    "geom:latitude":49.28333,
+    "geom:longitude":129.66667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Furao",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2037360,
+    "gn:latitude":49.28333,
+    "gn:longitude":129.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Furao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wen-ho-chen",
+        "Fu-jao",
+        "Wu-y\u00fcn-hsien",
+        "Furao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890515199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2037360
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"36c6e0ba2490f1e82c3de77192d68833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515199,
+            "empire_id":136253041,
+            "locality_id":1193122429,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1193122429,
+    "wof:lastmodified":1537595823,
+    "wof:name":"Furao",
+    "wof:parent_id":890515199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.66666999999998,
+    49.28333,
+    129.66666999999998,
+    49.28333
+],
+  "geometry": {"coordinates":[129.66666999999998,49.28333],"type":"Point"}
+}

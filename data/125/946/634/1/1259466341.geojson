@@ -1,0 +1,80 @@
+{
+  "id": 1259466341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.701,29.801,95.701,29.801",
+    "geom:latitude":29.801,
+    "geom:longitude":95.701,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sandain",
+    "gn:country_code":"CN",
+    "gn:dem":3590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8049909,
+    "gn:latitude":29.801,
+    "gn:longitude":95.701,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Sandain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Sandain"
+    ],
+    "name:zho_x_preferred":[
+        "Sangdeng"
+    ],
+    "name:zho_x_variant":[
+        "\u6851\u767b",
+        "Zhamu Qu",
+        "\u624e\u6728\u533a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8049909
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f7d4e2ac1d34a1d94496443f66027f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515951,
+            "empire_id":136253041,
+            "locality_id":1259466341,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1259466341,
+    "wof:lastmodified":1537602468,
+    "wof:name":"Sandain",
+    "wof:parent_id":890515951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.701,
+    29.801,
+    95.701,
+    29.801
+],
+  "geometry": {"coordinates":[95.70099999999999,29.801],"type":"Point"}
+}

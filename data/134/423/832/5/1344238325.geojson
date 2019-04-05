@@ -1,0 +1,77 @@
+{
+  "id": 1344238325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.81667,24.83333,110.81667,24.83333",
+    "geom:latitude":24.83333,
+    "geom:longitude":110.81667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Gongcheng",
+    "gn:country_code":"CN",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1810152,
+    "gn:latitude":24.83333,
+    "gn:longitude":110.81667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gongcheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Kung-ch\u2019eng-hsien"
+    ],
+    "name:zho_x_variant":[
+        "Kung-ch\u2019eng-chen",
+        "Kung-ch\u2019eng",
+        "\u606d\u57ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669717,
+        102191569,
+        85632695,
+        136253041,
+        1108732443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1810152
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d10141eabd7fcc5ccd7a00eaa7ce5ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732443,
+            "empire_id":136253041,
+            "locality_id":1344238325,
+            "region_id":85669717
+        }
+    ],
+    "wof:id":1344238325,
+    "wof:lastmodified":1537593617,
+    "wof:name":"Gongcheng",
+    "wof:parent_id":1108732443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.81667,
+    24.83333,
+    110.81667,
+    24.83333
+],
+  "geometry": {"coordinates":[110.81667,24.83333],"type":"Point"}
+}

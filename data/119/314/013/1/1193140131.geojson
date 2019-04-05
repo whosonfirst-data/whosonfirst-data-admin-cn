@@ -1,0 +1,81 @@
+{
+  "id": 1193140131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.86023,27.85277,119.86023,27.85277",
+    "geom:latitude":27.85277,
+    "geom:longitude":119.86023,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Shiyang",
+    "gn:country_code":"CN",
+    "gn:dem":940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1918623,
+    "gn:latitude":27.85277,
+    "gn:longitude":119.86023,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Shiyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e0a\u579f",
+        "Shangyang",
+        "Shiyang",
+        "Shiyang Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u579f"
+    ],
+    "name:zho_x_variant":[
+        "\u77f3\u579f\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890514289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1918623
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fda2650bf8d7106006de3f34c1f0fb83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514289,
+            "empire_id":136253041,
+            "locality_id":1193140131,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1193140131,
+    "wof:lastmodified":1537594791,
+    "wof:name":"Shiyang",
+    "wof:parent_id":890514289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.86023,
+    27.85277,
+    119.86023,
+    27.85277
+],
+  "geometry": {"coordinates":[119.86023,27.85277],"type":"Point"}
+}

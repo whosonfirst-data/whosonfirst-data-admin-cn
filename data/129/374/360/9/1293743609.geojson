@@ -1,0 +1,75 @@
+{
+  "id": 1293743609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.46249,23.73761,116.46249,23.73761",
+    "geom:latitude":23.73761,
+    "geom:longitude":116.46249,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Hengyang",
+    "gn:country_code":"CN",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1936403,
+    "gn:latitude":23.73761,
+    "gn:longitude":116.46249,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hengyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u044d\u043d\u044a\u044f\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u6a2a\u6d0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890513033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1936403
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"66e79cc0fd964c03c166f664eb3a7a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513033,
+            "empire_id":136253041,
+            "locality_id":1293743609,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1293743609,
+    "wof:lastmodified":1537595034,
+    "wof:name":"Hengyang",
+    "wof:parent_id":890513033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.46249,
+    23.73761,
+    116.46249,
+    23.73761
+],
+  "geometry": {"coordinates":[116.46249,23.73761],"type":"Point"}
+}

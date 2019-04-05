@@ -1,0 +1,76 @@
+{
+  "id": 1192986493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.52806,34.99306,110.52806,34.99306",
+    "geom:latitude":34.99306,
+    "geom:longitude":110.52806,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Qiji",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1798046,
+    "gn:latitude":34.99306,
+    "gn:longitude":110.52806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Qiji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019i-chi",
+        "Ch\u2019i-chi-ts\u2019un",
+        "Ch\u2019i-chi-chen",
+        "Qiji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        890514745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1798046
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9c53c14c9426806827e46bd217e94592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514745,
+            "empire_id":136253041,
+            "locality_id":1192986493,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1192986493,
+    "wof:lastmodified":1537592846,
+    "wof:name":"Qiji",
+    "wof:parent_id":890514745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.52806,
+    34.99306,
+    110.52806,
+    34.99306
+],
+  "geometry": {"coordinates":[110.52806,34.99306],"type":"Point"}
+}

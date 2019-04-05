@@ -1,0 +1,77 @@
+{
+  "id": 1343364133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.91071,32.30133,119.91071,32.30133",
+    "geom:latitude":32.30133,
+    "geom:longitude":119.91071,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tianhe",
+    "gn:country_code":"CN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1548699,
+    "gn:latitude":32.30133,
+    "gn:longitude":119.91071,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Tianhe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tianjiahe",
+        "\u7530\u5bb6\u6cb3",
+        "Tianhe"
+    ],
+    "name:zho_x_preferred":[
+        "\u7530\u6cb3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1548699
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"742d79d3d34b93d6bb0347423c97dbf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516237,
+            "empire_id":136253041,
+            "locality_id":1343364133,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1343364133,
+    "wof:lastmodified":1537591675,
+    "wof:name":"Tianhe",
+    "wof:parent_id":890516237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.91071,
+    32.30133,
+    119.91071,
+    32.30133
+],
+  "geometry": {"coordinates":[119.91070999999999,32.30133],"type":"Point"}
+}

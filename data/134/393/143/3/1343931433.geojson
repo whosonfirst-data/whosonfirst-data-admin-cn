@@ -1,0 +1,78 @@
+{
+  "id": 1343931433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.501,28.601,89.501,28.601",
+    "geom:latitude":28.601,
+    "geom:longitude":89.501,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Maincain",
+    "gn:country_code":"CN",
+    "gn:dem":4871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8045718,
+    "gn:latitude":28.601,
+    "gn:longitude":89.501,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Maincain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Maincain"
+    ],
+    "name:zho_x_preferred":[
+        "Manze"
+    ],
+    "name:zho_x_variant":[
+        "\u6ee1\u5219"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8045718
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"194218d2fe692703f51e90dd8e3c7941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1343931433,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1343931433,
+    "wof:lastmodified":1537602391,
+    "wof:name":"Maincain",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.501,
+    28.601,
+    89.501,
+    28.601
+],
+  "geometry": {"coordinates":[89.501,28.601],"type":"Point"}
+}

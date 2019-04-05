@@ -1,0 +1,75 @@
+{
+  "id": 1343775361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.20209,30.12512,116.20209,30.12512",
+    "geom:latitude":30.12512,
+    "geom:longitude":116.20209,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lichongcun",
+    "gn:country_code":"CN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1555467,
+    "gn:latitude":30.12512,
+    "gn:longitude":116.20209,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Lichongcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lichong"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ece\u51b2\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890516201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1555467
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4bad402861c7d611dd432d1fb1c62d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516201,
+            "empire_id":136253041,
+            "locality_id":1343775361,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1343775361,
+    "wof:lastmodified":1537591808,
+    "wof:name":"Lichongcun",
+    "wof:parent_id":890516201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.20208999999998,
+    30.12512000000001,
+    116.20208999999998,
+    30.12512000000001
+],
+  "geometry": {"coordinates":[116.20208999999998,30.12512000000001],"type":"Point"}
+}

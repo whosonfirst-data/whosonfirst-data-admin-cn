@@ -1,0 +1,78 @@
+{
+  "id": 1225899195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.46127,37.48177,107.46127,37.48177",
+    "geom:latitude":37.48177,
+    "geom:longitude":107.46127,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Hongzhuangcun",
+    "gn:country_code":"CN",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1807913,
+    "gn:latitude":37.48177,
+    "gn:longitude":107.46127,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Hongzhuangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hung-chuang",
+        "Hung-chuang-erh",
+        "Hongzhuang",
+        "Hongzhuangcun"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ea2\u5e84\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1807913
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"63904187ec540da0683dc9023af54530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515097,
+            "empire_id":136253041,
+            "locality_id":1225899195,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1225899195,
+    "wof:lastmodified":1537593468,
+    "wof:name":"Hongzhuangcun",
+    "wof:parent_id":890515097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.46127,
+    37.48177,
+    107.46127,
+    37.48177
+],
+  "geometry": {"coordinates":[107.46127,37.48177],"type":"Point"}
+}

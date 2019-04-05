@@ -1,0 +1,78 @@
+{
+  "id": 1226512387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.71,35.6758,106.71,35.6758",
+    "geom:latitude":35.6758,
+    "geom:longitude":106.71,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zhaohe",
+    "gn:country_code":"CN",
+    "gn:dem":1453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1784900,
+    "gn:latitude":35.6758,
+    "gn:longitude":106.71,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Zhaohe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhaojiahe"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d75\u6cb3"
+    ],
+    "name:zho_x_variant":[
+        "\u8d75\u5bb6\u6cb3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669711,
+        102191569,
+        85632695,
+        136253041,
+        890516253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1784900
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"679c5018a6fbce33f9885b43ed07bc49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516253,
+            "empire_id":136253041,
+            "locality_id":1226512387,
+            "region_id":85669711
+        }
+    ],
+    "wof:id":1226512387,
+    "wof:lastmodified":1537591956,
+    "wof:name":"Zhaohe",
+    "wof:parent_id":890516253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.71,
+    35.6758,
+    106.71,
+    35.6758
+],
+  "geometry": {"coordinates":[106.70999999999999,35.6758],"type":"Point"}
+}

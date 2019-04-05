@@ -1,0 +1,76 @@
+{
+  "id": 1260237751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.81546,40.54583,116.81546,40.54583",
+    "geom:latitude":40.54583,
+    "geom:longitude":116.81546,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Beishicheng",
+    "gn:country_code":"CN",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2038334,
+    "gn:latitude":40.54583,
+    "gn:longitude":116.81546,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Beishicheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pei-shih-ch\u2019eng",
+        "Beishicheng"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u77f3\u57ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669727,
+        102191569,
+        85632695,
+        136253041,
+        1108732371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2038334
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4fd7df0e32c19de94c1374b7e01ac298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732371,
+            "empire_id":136253041,
+            "locality_id":1260237751,
+            "region_id":85669727
+        }
+    ],
+    "wof:id":1260237751,
+    "wof:lastmodified":1537595876,
+    "wof:name":"Beishicheng",
+    "wof:parent_id":1108732371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.81546000000002,
+    40.54583,
+    116.81546000000002,
+    40.54583
+],
+  "geometry": {"coordinates":[116.81546000000002,40.54583],"type":"Point"}
+}

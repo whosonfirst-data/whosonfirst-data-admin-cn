@@ -1,0 +1,75 @@
+{
+  "id": 1310027605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.43311,37.59308,100.43311,37.59308",
+    "geom:latitude":37.59308,
+    "geom:longitude":100.43311,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"1809111",
+    "gn:admin3_code":"1798012.0",
+    "gn:asciiname":"Cetar",
+    "gn:country_code":"CN",
+    "gn:dem":3592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1815901,
+    "gn:latitude":37.59308,
+    "gn:longitude":100.43311,
+    "gn:modification_date":"2018-05-18",
+    "gn:name":"C\u00eatar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "C\u00eatar",
+        "\u67f4\u8fbe\u5c14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669715,
+        102191569,
+        85632695,
+        136253041,
+        890515873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1815901
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"de70254be415e3c8d9edf14f9e08aacf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515873,
+            "empire_id":136253041,
+            "locality_id":1310027605,
+            "region_id":85669715
+        }
+    ],
+    "wof:id":1310027605,
+    "wof:lastmodified":1537593972,
+    "wof:name":"Cetar",
+    "wof:parent_id":890515873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.43311,
+    37.59308,
+    100.43311,
+    37.59308
+],
+  "geometry": {"coordinates":[100.43311,37.59308],"type":"Point"}
+}

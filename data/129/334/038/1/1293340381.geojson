@@ -1,0 +1,76 @@
+{
+  "id": 1293340381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.48718,22.97341,113.48718,22.97341",
+    "geom:latitude":22.97341,
+    "geom:longitude":113.48718,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Shilou",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1795173,
+    "gn:latitude":22.97341,
+    "gn:longitude":113.48718,
+    "gn:modification_date":"2015-10-18",
+    "gn:name":"Shilou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shih-lou",
+        "Shilou",
+        "\u77f3\u697c",
+        "Shilou Zhen",
+        "\u77f3\u697c\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890513087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1795173
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0768e8b6e73fbbeb23f0ef9c76e705f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513087,
+            "empire_id":136253041,
+            "locality_id":1293340381,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1293340381,
+    "wof:lastmodified":1537592650,
+    "wof:name":"Shilou",
+    "wof:parent_id":890513087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.48718,
+    22.97341,
+    113.48718,
+    22.97341
+],
+  "geometry": {"coordinates":[113.48718,22.97341],"type":"Point"}
+}

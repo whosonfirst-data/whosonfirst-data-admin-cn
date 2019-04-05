@@ -1,0 +1,64 @@
+{
+  "id": 1209510601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.72184,32.1965,115.72184,32.1965",
+    "geom:latitude":32.1965,
+    "geom:longitude":115.72184,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Shahepu",
+    "gn:country_code":"CN",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10908482,
+    "gn:latitude":32.1965,
+    "gn:longitude":115.72184,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Shahepu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6c99\u6cb3\u94fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10908482
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"13169d49b92f237fb7ef0bd078ba94af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209510601
+        }
+    ],
+    "wof:id":1209510601,
+    "wof:lastmodified":1537614769,
+    "wof:name":"Shahepu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.72184,
+    32.1965,
+    115.72184,
+    32.1965
+],
+  "geometry": {"coordinates":[115.72184,32.1965],"type":"Point"}
+}

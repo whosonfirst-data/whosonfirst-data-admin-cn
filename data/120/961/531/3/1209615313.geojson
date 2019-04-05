@@ -1,0 +1,64 @@
+{
+  "id": 1209615313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.469,34.0299,118.469,34.0299",
+    "geom:latitude":34.0299,
+    "geom:longitude":118.469,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gaozhuang",
+    "gn:country_code":"CN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11113087,
+    "gn:latitude":34.0299,
+    "gn:longitude":118.469,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Gaozhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9ad8\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11113087
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"89e5dc85809d90b39f5c783377aafd49",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209615313
+        }
+    ],
+    "wof:id":1209615313,
+    "wof:lastmodified":1537615432,
+    "wof:name":"Gaozhuang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.469,
+    34.0299,
+    118.469,
+    34.0299
+],
+  "geometry": {"coordinates":[118.46899999999999,34.0299],"type":"Point"}
+}

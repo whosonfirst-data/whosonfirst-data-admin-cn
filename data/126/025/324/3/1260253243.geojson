@@ -1,0 +1,80 @@
+{
+  "id": 1260253243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.109,31.109,97.109,31.109",
+    "geom:latitude":31.109,
+    "geom:longitude":97.109,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Toding",
+    "gn:country_code":"CN",
+    "gn:dem":4351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8078217,
+    "gn:latitude":31.109,
+    "gn:longitude":97.109,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Toding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Toding"
+    ],
+    "name:zho_x_preferred":[
+        "Tuode"
+    ],
+    "name:zho_x_variant":[
+        "\u62d6\u5fb7",
+        "Dayi Qu",
+        "\u8fbe\u9091\u533a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8078217
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"41aa12981ee9606701d7849eb97ea7bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1260253243,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1260253243,
+    "wof:lastmodified":1537602549,
+    "wof:name":"Toding",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.109,
+    31.109,
+    97.109,
+    31.109
+],
+  "geometry": {"coordinates":[97.10899999999999,31.109],"type":"Point"}
+}

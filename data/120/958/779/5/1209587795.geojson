@@ -1,0 +1,64 @@
+{
+  "id": 1209587795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.498,23.9522,110.498,23.9522",
+    "geom:latitude":23.9522,
+    "geom:longitude":110.498,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Huazhou",
+    "gn:country_code":"CN",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9918273,
+    "gn:latitude":23.9522,
+    "gn:longitude":110.498,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Huazhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u82b1\u6d32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9918273
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c722f84e8c0811de49303931cb74ab33",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209587795
+        }
+    ],
+    "wof:id":1209587795,
+    "wof:lastmodified":1537607302,
+    "wof:name":"Huazhou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.498,
+    23.9522,
+    110.498,
+    23.9522
+],
+  "geometry": {"coordinates":[110.498,23.9522],"type":"Point"}
+}

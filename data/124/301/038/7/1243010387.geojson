@@ -1,0 +1,67 @@
+{
+  "id": 1243010387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.88472,18.7025,109.88472,18.7025",
+    "geom:latitude":18.7025,
+    "geom:longitude":109.88472,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Shijing",
+    "gn:country_code":"CN",
+    "gn:dem":748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1917700,
+    "gn:latitude":18.7025,
+    "gn:longitude":109.88472,
+    "gn:modification_date":"2001-04-04",
+    "gn:name":"Shijing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632695,
+        85669759,
+        1108732539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1917700
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b7aa98316a5e1eac31dd4a25d2217cb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732539,
+            "locality_id":1243010387,
+            "region_id":85669759
+        }
+    ],
+    "wof:id":1243010387,
+    "wof:lastmodified":1536937893,
+    "wof:name":"Shijing",
+    "wof:parent_id":1108732539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.88472,
+    18.7025,
+    109.88472,
+    18.7025
+],
+  "geometry": {"coordinates":[109.88472,18.7025],"type":"Point"}
+}

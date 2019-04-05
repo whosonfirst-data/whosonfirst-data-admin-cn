@@ -1,0 +1,78 @@
+{
+  "id": 1193232247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.45066,29.83291,106.45066,29.83291",
+    "geom:latitude":29.83291,
+    "geom:longitude":106.45066,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Dongyang",
+    "gn:country_code":"CN",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8417106,
+    "gn:latitude":29.83291,
+    "gn:longitude":106.45066,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Dongyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dongyang Jiedao"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u9633"
+    ],
+    "name:zho_x_variant":[
+        "\u4e1c\u9633\u8857\u9053"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669725,
+        102191569,
+        85632695,
+        136253041,
+        890513063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8417106
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5baee205df1f0357eff3ff57e519820d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513063,
+            "empire_id":136253041,
+            "locality_id":1193232247,
+            "region_id":85669725
+        }
+    ],
+    "wof:id":1193232247,
+    "wof:lastmodified":1537603574,
+    "wof:name":"Dongyang",
+    "wof:parent_id":890513063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.45066,
+    29.83291,
+    106.45066,
+    29.83291
+],
+  "geometry": {"coordinates":[106.45066,29.83291],"type":"Point"}
+}

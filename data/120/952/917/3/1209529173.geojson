@@ -1,0 +1,64 @@
+{
+  "id": 1209529173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.21623,29.83031,118.21623,29.83031",
+    "geom:latitude":29.83031,
+    "geom:longitude":118.21623,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Wutian",
+    "gn:country_code":"CN",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7090176,
+    "gn:latitude":29.83031,
+    "gn:longitude":118.21623,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Wutian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5434\u7530"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7090176
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1c728a9e64c74cd91534d91eaa434182",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209529173
+        }
+    ],
+    "wof:id":1209529173,
+    "wof:lastmodified":1537597905,
+    "wof:name":"Wutian",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.21623,
+    29.83031,
+    118.21623,
+    29.83031
+],
+  "geometry": {"coordinates":[118.21623,29.83031],"type":"Point"}
+}

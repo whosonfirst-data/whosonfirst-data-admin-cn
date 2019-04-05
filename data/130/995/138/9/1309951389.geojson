@@ -1,0 +1,77 @@
+{
+  "id": 1309951389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.94242,31.93635,105.94242,31.93635",
+    "geom:latitude":31.93635,
+    "geom:longitude":105.94242,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Wulong",
+    "gn:country_code":"CN",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1791099,
+    "gn:latitude":31.93635,
+    "gn:longitude":105.94242,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wulong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wu-lung-ch\u2019ang",
+        "Wulongchang",
+        "Wulong"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e94\u9f99"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890512741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1791099
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5ec1a20053a8ee6f399f0487daf2dc6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512741,
+            "empire_id":136253041,
+            "locality_id":1309951389,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1309951389,
+    "wof:lastmodified":1537592381,
+    "wof:name":"Wulong",
+    "wof:parent_id":890512741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.94242,
+    31.93635,
+    105.94242,
+    31.93635
+],
+  "geometry": {"coordinates":[105.94242,31.93635],"type":"Point"}
+}

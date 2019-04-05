@@ -1,0 +1,64 @@
+{
+  "id": 1209052133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.85239,27.86524,102.85239,27.86524",
+    "geom:latitude":27.86524,
+    "geom:longitude":102.85239,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Meigan",
+    "gn:country_code":"CN",
+    "gn:dem":2279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6964006,
+    "gn:latitude":27.86524,
+    "gn:longitude":102.85239,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Meigan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7f8e\u7518"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6964006
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c6a4b862ce1c6967306fcbb63d828169",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209052133
+        }
+    ],
+    "wof:id":1209052133,
+    "wof:lastmodified":1537597027,
+    "wof:name":"Meigan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.85239,
+    27.86524,
+    102.85239,
+    27.86524
+],
+  "geometry": {"coordinates":[102.85239,27.86524],"type":"Point"}
+}

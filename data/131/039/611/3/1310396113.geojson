@@ -1,0 +1,77 @@
+{
+  "id": 1310396113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.53333,45.65,126.53333,45.65",
+    "geom:latitude":45.65,
+    "geom:longitude":126.53333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Wanggang",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2034248,
+    "gn:latitude":45.65,
+    "gn:longitude":126.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wanggang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shen-wang-kang",
+        "Wang-kang",
+        "Shen-chia-wang-kang",
+        "Chenchawankai",
+        "Wanggang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890516235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2034248
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f4d3e65492de2934f60f679cf8123062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516235,
+            "empire_id":136253041,
+            "locality_id":1310396113,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1310396113,
+    "wof:lastmodified":1537595635,
+    "wof:name":"Wanggang",
+    "wof:parent_id":890516235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.53333,
+    45.65,
+    126.53333,
+    45.65
+],
+  "geometry": {"coordinates":[126.53333000000001,45.65],"type":"Point"}
+}

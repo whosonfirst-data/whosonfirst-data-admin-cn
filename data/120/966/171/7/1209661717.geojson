@@ -1,0 +1,64 @@
+{
+  "id": 1209661717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.73468,23.30792,116.73468,23.30792",
+    "geom:latitude":23.30792,
+    "geom:longitude":116.73468,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Gezhou",
+    "gn:country_code":"CN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11038407,
+    "gn:latitude":23.30792,
+    "gn:longitude":116.73468,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Gezhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u845b\u6d32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11038407
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5fcc36d184497b0cdb16e9f49ec83b57",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209661717
+        }
+    ],
+    "wof:id":1209661717,
+    "wof:lastmodified":1537615164,
+    "wof:name":"Gezhou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.73468,
+    23.30792000000001,
+    116.73468,
+    23.30792000000001
+],
+  "geometry": {"coordinates":[116.73468,23.30792000000001],"type":"Point"}
+}

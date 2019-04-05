@@ -1,0 +1,64 @@
+{
+  "id": 1209088041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.324,22.9622,109.324,22.9622",
+    "geom:latitude":22.9622,
+    "geom:longitude":109.324,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Shankou",
+    "gn:country_code":"CN",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9895689,
+    "gn:latitude":22.9622,
+    "gn:longitude":109.324,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Shankou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5c71\u53e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9895689
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5ae4964ecd32b73389a8cf75b00ff315",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209088041
+        }
+    ],
+    "wof:id":1209088041,
+    "wof:lastmodified":1537606634,
+    "wof:name":"Shankou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.324,
+    22.9622,
+    109.324,
+    22.9622
+],
+  "geometry": {"coordinates":[109.324,22.9622],"type":"Point"}
+}

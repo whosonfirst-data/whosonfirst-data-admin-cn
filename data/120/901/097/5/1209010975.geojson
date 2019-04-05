@@ -1,0 +1,64 @@
+{
+  "id": 1209010975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.92865,27.04949,115.92865,27.04949",
+    "geom:latitude":27.04949,
+    "geom:longitude":115.92865,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Xiangjia",
+    "gn:country_code":"CN",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7684442,
+    "gn:latitude":27.04949,
+    "gn:longitude":115.92865,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Xiangjia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9879\u5bb6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7684442
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"00b0d65a13df800944233adfd2c1d604",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209010975
+        }
+    ],
+    "wof:id":1209010975,
+    "wof:lastmodified":1537600954,
+    "wof:name":"Xiangjia",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.92865,
+    27.04949,
+    115.92865,
+    27.04949
+],
+  "geometry": {"coordinates":[115.92865,27.04949],"type":"Point"}
+}

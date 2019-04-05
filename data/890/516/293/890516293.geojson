@@ -1,0 +1,80 @@
+{
+  "id": 890516293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.15056,39.70417,119.15056,39.70417",
+    "geom:latitude":39.70417,
+    "geom:longitude":119.15056,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":64476,
+    "gp:adm0":23424781,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043d\u043b\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Ch\u2019ang-li-hsien"
+    ],
+    "qs:name":"\u573a\u91cc",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u6cb3\u5317\u7701",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":20,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669797,
+        102191569,
+        85632695,
+        136253041,
+        890513075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1815656,
+        "gp:id":2171305,
+        "qs:id":190411
+    },
+    "wof:country":"CN",
+    "wof:created":1469055951,
+    "wof:geomhash":"95d20a5096a064f0b7e1f5a918538f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513075,
+            "empire_id":136253041,
+            "locality_id":890516293,
+            "region_id":85669797
+        }
+    ],
+    "wof:id":890516293,
+    "wof:lastmodified":1505343902,
+    "wof:name":"\u573a\u91cc",
+    "wof:parent_id":890513075,
+    "wof:placetype":"locality",
+    "wof:population":64476,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.15056,
+    39.70417,
+    119.15056,
+    39.70417
+],
+  "geometry": {"coordinates":[119.15056,39.70417],"type":"Point"}
+}

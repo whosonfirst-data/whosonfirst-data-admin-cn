@@ -1,0 +1,64 @@
+{
+  "id": 1209246271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.46233,44.75531,125.46233,44.75531",
+    "geom:latitude":44.75531,
+    "geom:longitude":125.46233,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sanmenxucun",
+    "gn:country_code":"CN",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10915710,
+    "gn:latitude":44.75531,
+    "gn:longitude":125.46233,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Sanmenxucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e09\u95e8\u5f90\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10915710
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7b98dca32d64b6d73d8d0901fb81aa60",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209246271
+        }
+    ],
+    "wof:id":1209246271,
+    "wof:lastmodified":1537614871,
+    "wof:name":"Sanmenxucun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.46233,
+    44.75531,
+    125.46233,
+    44.75531
+],
+  "geometry": {"coordinates":[125.46232999999999,44.75531],"type":"Point"}
+}

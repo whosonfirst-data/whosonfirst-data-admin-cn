@@ -1,0 +1,78 @@
+{
+  "id": 1343745287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.401,28.301,92.401,28.301",
+    "geom:latitude":28.301,
+    "geom:longitude":92.401,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yeba",
+    "gn:country_code":"CN",
+    "gn:dem":4452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8078785,
+    "gn:latitude":28.301,
+    "gn:longitude":92.401,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Yeba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Y\u00earba"
+    ],
+    "name:zho_x_preferred":[
+        "Yeba"
+    ],
+    "name:zho_x_variant":[
+        "\u53f6\u5df4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108794057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8078785
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"cdc3dd721922a5f7dec021b38ae1e6ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794057,
+            "empire_id":136253041,
+            "locality_id":1343745287,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1343745287,
+    "wof:lastmodified":1537602566,
+    "wof:name":"Yeba",
+    "wof:parent_id":1108794057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.401,
+    28.301,
+    92.401,
+    28.301
+],
+  "geometry": {"coordinates":[92.401,28.301],"type":"Point"}
+}

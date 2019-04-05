@@ -1,0 +1,78 @@
+{
+  "id": 1209798715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.34001,28.62203,97.34001,28.62203",
+    "geom:latitude":28.62203,
+    "geom:longitude":97.34001,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zhalha",
+    "gn:country_code":"CN",
+    "gn:dem":2131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8066982,
+    "gn:latitude":28.62203,
+    "gn:longitude":97.34001,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Zhalha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Zhalha"
+    ],
+    "name:zho_x_preferred":[
+        "Zhala"
+    ],
+    "name:zho_x_variant":[
+        "\u624e\u62c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066982
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bc10bad64c7e695ef22c2214e740ac4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515951,
+            "empire_id":136253041,
+            "locality_id":1209798715,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1209798715,
+    "wof:lastmodified":1537602527,
+    "wof:name":"Zhalha",
+    "wof:parent_id":890515951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.34001,
+    28.62203,
+    97.34001,
+    28.62203
+],
+  "geometry": {"coordinates":[97.34001000000001,28.62203],"type":"Point"}
+}

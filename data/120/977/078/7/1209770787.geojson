@@ -1,0 +1,78 @@
+{
+  "id": 1209770787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.775,36.55944,119.775,36.55944",
+    "geom:latitude":36.55944,
+    "geom:longitude":119.775,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Tingkoucun",
+    "gn:country_code":"CN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1792745,
+    "gn:latitude":36.55944,
+    "gn:longitude":119.775,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Tingkoucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tingkouchi",
+        "Tingkow",
+        "Tingkou",
+        "Tingkoucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ead\u53e3\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669813,
+        102191569,
+        85632695,
+        136253041,
+        890514755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1792745
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"94e5af18b8ae43d4987ecf3fe401f7c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514755,
+            "empire_id":136253041,
+            "locality_id":1209770787,
+            "region_id":85669813
+        }
+    ],
+    "wof:id":1209770787,
+    "wof:lastmodified":1537592483,
+    "wof:name":"Tingkoucun",
+    "wof:parent_id":890514755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.775,
+    36.55944,
+    119.775,
+    36.55944
+],
+  "geometry": {"coordinates":[119.77500000000001,36.55944],"type":"Point"}
+}

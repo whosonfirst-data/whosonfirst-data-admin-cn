@@ -1,0 +1,64 @@
+{
+  "id": 1209677993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.771,41.6402,123.771,41.6402",
+    "geom:latitude":41.6402,
+    "geom:longitude":123.771,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Beishancun",
+    "gn:country_code":"CN",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11513431,
+    "gn:latitude":41.6402,
+    "gn:longitude":123.771,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Beishancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5317\u5c71\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11513431
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9397a263dc1231d2f41d1a4a1393ac5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209677993
+        }
+    ],
+    "wof:id":1209677993,
+    "wof:lastmodified":1537617219,
+    "wof:name":"Beishancun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.771,
+    41.6402,
+    123.771,
+    41.6402
+],
+  "geometry": {"coordinates":[123.771,41.6402],"type":"Point"}
+}

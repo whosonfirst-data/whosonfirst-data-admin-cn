@@ -1,0 +1,64 @@
+{
+  "id": 1209173357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.1835,32.3819,98.1835,32.3819",
+    "geom:latitude":32.3819,
+    "geom:longitude":98.1835,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Geba",
+    "gn:country_code":"CN",
+    "gn:dem":3836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10208450,
+    "gn:latitude":32.3819,
+    "gn:longitude":98.1835,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Geba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u683c\u5df4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10208450
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"76cdec0aeb2b7209065c403b9c96f1a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209173357
+        }
+    ],
+    "wof:id":1209173357,
+    "wof:lastmodified":1537611418,
+    "wof:name":"Geba",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.1835,
+    32.3819,
+    98.1835,
+    32.3819
+],
+  "geometry": {"coordinates":[98.1835,32.3819],"type":"Point"}
+}

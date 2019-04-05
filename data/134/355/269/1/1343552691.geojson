@@ -1,0 +1,76 @@
+{
+  "id": 1343552691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.25707,27.12605,117.25707,27.12605",
+    "geom:latitude":27.12605,
+    "geom:longitude":117.25707,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Xiaojiafang",
+    "gn:country_code":"CN",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1790164,
+    "gn:latitude":27.12605,
+    "gn:longitude":117.25707,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Xiaojiafang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsiao-chia-fang",
+        "Xiaojiafang"
+    ],
+    "name:zho_x_preferred":[
+        "\u8096\u5bb6\u574a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1790164
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"414aa3846907a9975dd077751e8640a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516651,
+            "empire_id":136253041,
+            "locality_id":1343552691,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1343552691,
+    "wof:lastmodified":1537592319,
+    "wof:name":"Xiaojiafang",
+    "wof:parent_id":890516651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.25707,
+    27.12605,
+    117.25707,
+    27.12605
+],
+  "geometry": {"coordinates":[117.25707,27.12605],"type":"Point"}
+}

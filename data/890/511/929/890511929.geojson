@@ -1,0 +1,71 @@
+{
+  "id": 890511929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.25028,39.46778,117.25028,39.46778",
+    "geom:latitude":39.46778,
+    "geom:longitude":117.25028,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":1246,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Ssu-kao-chuang"
+    ],
+    "qs:name":"Sigaozhuang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669817,
+        102191569,
+        85632695,
+        136253041,
+        890513813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1794274,
+        "gp:id":2159570,
+        "qs:id":277536
+    },
+    "wof:country":"CN",
+    "wof:created":1469055752,
+    "wof:geomhash":"344b2374003e6987656312bfdf473af1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513813,
+            "empire_id":136253041,
+            "locality_id":890511929,
+            "region_id":85669817
+        }
+    ],
+    "wof:id":890511929,
+    "wof:lastmodified":1505343885,
+    "wof:name":"Sigaozhuang",
+    "wof:parent_id":890513813,
+    "wof:placetype":"locality",
+    "wof:population":1246,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.25028,
+    39.46778,
+    117.25028,
+    39.46778
+],
+  "geometry": {"coordinates":[117.25028,39.46778],"type":"Point"}
+}

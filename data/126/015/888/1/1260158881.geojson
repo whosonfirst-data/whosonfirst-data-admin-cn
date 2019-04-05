@@ -1,0 +1,78 @@
+{
+  "id": 1260158881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.62389,26.79805,113.62389,26.79805",
+    "geom:latitude":26.79805,
+    "geom:longitude":113.62389,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Shiliang",
+    "gn:country_code":"CN",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8202072,
+    "gn:latitude":26.79805,
+    "gn:longitude":113.62389,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Shiliang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shichong"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u826f"
+    ],
+    "name:zho_x_variant":[
+        "\u77f3\u51b2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890514759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8202072
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d18a0c13a60a990ce84991da1bc6710c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514759,
+            "empire_id":136253041,
+            "locality_id":1260158881,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1260158881,
+    "wof:lastmodified":1537602704,
+    "wof:name":"Shiliang",
+    "wof:parent_id":890514759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.62389,
+    26.79805,
+    113.62389,
+    26.79805
+],
+  "geometry": {"coordinates":[113.62389,26.79805],"type":"Point"}
+}

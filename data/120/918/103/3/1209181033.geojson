@@ -1,0 +1,64 @@
+{
+  "id": 1209181033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.68677,35.02488,109.68677,35.02488",
+    "geom:latitude":35.02488,
+    "geom:longitude":109.68677,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Shanxicun",
+    "gn:country_code":"CN",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11213518,
+    "gn:latitude":35.02488,
+    "gn:longitude":109.68677,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Shanxicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5c71\u897f\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11213518
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4baa9bbb62260afc165ddcf215a6effe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209181033
+        }
+    ],
+    "wof:id":1209181033,
+    "wof:lastmodified":1537615924,
+    "wof:name":"Shanxicun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.68677,
+    35.02488,
+    109.68677,
+    35.02488
+],
+  "geometry": {"coordinates":[109.68677,35.02488],"type":"Point"}
+}

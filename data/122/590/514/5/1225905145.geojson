@@ -1,0 +1,76 @@
+{
+  "id": 1225905145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.26045,26.55384,103.26045,26.55384",
+    "geom:latitude":26.55384,
+    "geom:longitude":103.26045,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Shanzidi",
+    "gn:country_code":"CN",
+    "gn:dem":2201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":9076875,
+    "gn:latitude":26.55384,
+    "gn:longitude":103.26045,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Shanzidi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6247\u5b50\u5730",
+        "Wuxing",
+        "Wuxing Xiang",
+        "\u4e94\u661f",
+        "\u4e94\u661f\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        890515167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9076875
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6deca5fd482f77ee03f3195a6fa1e67d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515167,
+            "empire_id":136253041,
+            "locality_id":1225905145,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1225905145,
+    "wof:lastmodified":1537605042,
+    "wof:name":"Shanzidi",
+    "wof:parent_id":890515167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.26045,
+    26.55384,
+    103.26045,
+    26.55384
+],
+  "geometry": {"coordinates":[103.26045000000001,26.55384],"type":"Point"}
+}

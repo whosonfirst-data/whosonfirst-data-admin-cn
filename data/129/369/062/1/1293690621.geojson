@@ -1,0 +1,76 @@
+{
+  "id": 1293690621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.53536,29.75886,118.53536,29.75886",
+    "geom:latitude":29.75886,
+    "geom:longitude":118.53536,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Huangbei",
+    "gn:country_code":"CN",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1553319,
+    "gn:latitude":29.75886,
+    "gn:longitude":118.53536,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Huangbei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shih-li-huang-pei",
+        "Huangbei"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ec4\u5907"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        1108732553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1553319
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"69a89eff14962b380b5270841dc1fb36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732553,
+            "empire_id":136253041,
+            "locality_id":1293690621,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1293690621,
+    "wof:lastmodified":1537591771,
+    "wof:name":"Huangbei",
+    "wof:parent_id":1108732553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.53536,
+    29.75886,
+    118.53536,
+    29.75886
+],
+  "geometry": {"coordinates":[118.53536,29.75886],"type":"Point"}
+}

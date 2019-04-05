@@ -1,0 +1,76 @@
+{
+  "id": 1293612905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.81674,32.17352,118.81674,32.17352",
+    "geom:latitude":32.17352,
+    "geom:longitude":118.81674,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Baguazhou",
+    "gn:country_code":"CN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1548977,
+    "gn:latitude":32.17352,
+    "gn:longitude":118.81674,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Baguazhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u516b\u5366\u6d32",
+        "Baguazhou Jiedao"
+    ],
+    "name:zho_x_preferred":[
+        "\u516b\u5366\u6d32\u8857\u9053"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1548977
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e4264fadf363b0d96def2b8c735cc5e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516425,
+            "empire_id":136253041,
+            "locality_id":1293612905,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1293612905,
+    "wof:lastmodified":1537591687,
+    "wof:name":"Baguazhou",
+    "wof:parent_id":890516425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.81674,
+    32.17352,
+    118.81674,
+    32.17352
+],
+  "geometry": {"coordinates":[118.81674,32.17352],"type":"Point"}
+}

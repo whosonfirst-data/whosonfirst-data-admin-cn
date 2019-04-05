@@ -1,0 +1,76 @@
+{
+  "id": 1360168987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.52443,32.78232,113.52443,32.78232",
+    "geom:latitude":32.78232,
+    "geom:longitude":113.52443,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Xiaoyangzhuang",
+    "gn:country_code":"CN",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1813973,
+    "gn:latitude":32.78232,
+    "gn:longitude":113.52443,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Xiaoyangzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daluzhuang",
+        "Xiaoyangzhuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u6768\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669801,
+        102191569,
+        85632695,
+        136253041,
+        890514843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1813973
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b8ebcdf6f7cd5d0a81754cfaecbe67e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514843,
+            "empire_id":136253041,
+            "locality_id":1360168987,
+            "region_id":85669801
+        }
+    ],
+    "wof:id":1360168987,
+    "wof:lastmodified":1537593854,
+    "wof:name":"Xiaoyangzhuang",
+    "wof:parent_id":890514843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.52443,
+    32.78232,
+    113.52443,
+    32.78232
+],
+  "geometry": {"coordinates":[113.52443,32.78232],"type":"Point"}
+}

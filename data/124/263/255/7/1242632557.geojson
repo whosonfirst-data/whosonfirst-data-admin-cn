@@ -1,0 +1,77 @@
+{
+  "id": 1242632557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.93333,36.65,117.93333,36.65",
+    "geom:latitude":36.65,
+    "geom:longitude":117.93333,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Zichuan",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1783747,
+    "gn:latitude":36.65,
+    "gn:longitude":117.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zichuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tzu-ch\u2019uan-hsien",
+        "Tzu-ch\u2019eng",
+        "Tzu-ch\u2019uan",
+        "Tzechwan",
+        "Zichuan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669813,
+        102191569,
+        85632695,
+        136253041,
+        890515095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1783747
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e14f6d2a0a687c6670eaa1677588d3aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515095,
+            "empire_id":136253041,
+            "locality_id":1242632557,
+            "region_id":85669813
+        }
+    ],
+    "wof:id":1242632557,
+    "wof:lastmodified":1537591877,
+    "wof:name":"Zichuan",
+    "wof:parent_id":890515095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.93333,
+    36.65,
+    117.93333,
+    36.65
+],
+  "geometry": {"coordinates":[117.93333,36.65],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1276196547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.407,32.107,92.407,32.107",
+    "geom:latitude":32.107,
+    "geom:longitude":92.407,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gyigam",
+    "gn:country_code":"CN",
+    "gn:dem":4692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8026418,
+    "gn:latitude":32.107,
+    "gn:longitude":92.407,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gyigam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Gyigam"
+    ],
+    "name:zho_x_preferred":[
+        "Jigang"
+    ],
+    "name:zho_x_variant":[
+        "\u5409\u5c97",
+        "Sangyang",
+        "\u6851\u592e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026418
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6211e75073b71c66f8a72b7927324186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1276196547,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1276196547,
+    "wof:lastmodified":1537602169,
+    "wof:name":"Gyigam",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.407,
+    32.107,
+    92.407,
+    32.107
+],
+  "geometry": {"coordinates":[92.407,32.107],"type":"Point"}
+}

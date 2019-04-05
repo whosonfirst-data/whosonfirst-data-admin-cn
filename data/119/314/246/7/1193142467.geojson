@@ -1,0 +1,78 @@
+{
+  "id": 1193142467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.15987,31.82102,120.15987,31.82102",
+    "geom:latitude":31.82102,
+    "geom:longitude":120.15987,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Jiaoxi",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1806005,
+    "gn:latitude":31.82102,
+    "gn:longitude":120.15987,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Jiaoxi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiao-ch\u2019i",
+        "Chiao-hsi",
+        "Chiao-ch\u2019i-chen",
+        "Jiaoxi"
+    ],
+    "name:zho_x_preferred":[
+        "\u7126\u6eaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890514735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1806005
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"41a160b42ee3be75dce6e4ae9b89be4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514735,
+            "empire_id":136253041,
+            "locality_id":1193142467,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1193142467,
+    "wof:lastmodified":1537593352,
+    "wof:name":"Jiaoxi",
+    "wof:parent_id":890514735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.15987,
+    31.82102,
+    120.15987,
+    31.82102
+],
+  "geometry": {"coordinates":[120.15987,31.82102],"type":"Point"}
+}

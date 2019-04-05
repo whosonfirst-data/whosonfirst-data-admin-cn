@@ -1,0 +1,78 @@
+{
+  "id": 1326984149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.64234,30.25681,105.64234,30.25681",
+    "geom:latitude":30.25681,
+    "geom:longitude":105.64234,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Huayan",
+    "gn:country_code":"CN",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8418016,
+    "gn:latitude":30.25681,
+    "gn:longitude":105.64234,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Huayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huayan Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u82b1\u5ca9"
+    ],
+    "name:zho_x_variant":[
+        "\u82b1\u5ca9\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669725,
+        102191569,
+        85632695,
+        136253041,
+        890513063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8418016
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c3f5eaa1b00ee49f0fd49ed073aa2d5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513063,
+            "empire_id":136253041,
+            "locality_id":1326984149,
+            "region_id":85669725
+        }
+    ],
+    "wof:id":1326984149,
+    "wof:lastmodified":1537603594,
+    "wof:name":"Huayan",
+    "wof:parent_id":890513063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.64234,
+    30.25681,
+    105.64234,
+    30.25681
+],
+  "geometry": {"coordinates":[105.64234,30.25681],"type":"Point"}
+}

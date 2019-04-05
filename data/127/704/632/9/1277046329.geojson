@@ -1,0 +1,80 @@
+{
+  "id": 1277046329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.303,29.203,88.303,29.203",
+    "geom:latitude":29.203,
+    "geom:longitude":88.303,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Qoiding",
+    "gn:country_code":"CN",
+    "gn:dem":3959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8049343,
+    "gn:latitude":29.203,
+    "gn:longitude":88.303,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Qoiding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Qoiding"
+    ],
+    "name:zho_x_preferred":[
+        "Quding"
+    ],
+    "name:zho_x_variant":[
+        "\u66f2\u5b9a",
+        "Jiamu",
+        "\u52a0\u6728"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8049343
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e96bec3e3d2314986248eb83d9ee0aea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1277046329,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1277046329,
+    "wof:lastmodified":1537602440,
+    "wof:name":"Qoiding",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.303,
+    29.20300000000001,
+    88.303,
+    29.20300000000001
+],
+  "geometry": {"coordinates":[88.303,29.20300000000001],"type":"Point"}
+}

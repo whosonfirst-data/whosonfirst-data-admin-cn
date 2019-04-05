@@ -1,0 +1,78 @@
+{
+  "id": 1360255841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.601,31.601,96.601,31.601",
+    "geom:latitude":31.601,
+    "geom:longitude":96.601,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Damru",
+    "gn:country_code":"CN",
+    "gn:dem":4818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7929902,
+    "gn:latitude":31.601,
+    "gn:longitude":96.601,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Damru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Damru"
+    ],
+    "name:zho_x_preferred":[
+        "Dangmuru"
+    ],
+    "name:zho_x_variant":[
+        "\u5f53\u6728\u5982"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7929902
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2eb25fb7106cc7a913f227f0d92473a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1360255841,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1360255841,
+    "wof:lastmodified":1537602067,
+    "wof:name":"Damru",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.601,
+    31.601,
+    96.601,
+    31.601
+],
+  "geometry": {"coordinates":[96.601,31.601],"type":"Point"}
+}

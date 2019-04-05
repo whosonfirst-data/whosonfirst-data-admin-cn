@@ -1,0 +1,64 @@
+{
+  "id": 1209520607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.48556,31.49058,119.48556,31.49058",
+    "geom:latitude":31.49058,
+    "geom:longitude":119.48556,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Xinfeng",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8383392,
+    "gn:latitude":31.49058,
+    "gn:longitude":119.48556,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Xinfeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u65b0\u4e30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8383392
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"16eae5d3918574be16211bf0043c1284",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209520607
+        }
+    ],
+    "wof:id":1209520607,
+    "wof:lastmodified":1537603175,
+    "wof:name":"Xinfeng",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.48556,
+    31.49058,
+    119.48556,
+    31.49058
+],
+  "geometry": {"coordinates":[119.48556000000001,31.49058],"type":"Point"}
+}

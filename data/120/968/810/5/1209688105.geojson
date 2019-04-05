@@ -1,0 +1,64 @@
+{
+  "id": 1209688105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.511,24.884,107.511,24.884",
+    "geom:latitude":24.884,
+    "geom:longitude":107.511,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gejieling",
+    "gn:country_code":"CN",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9910702,
+    "gn:latitude":24.884,
+    "gn:longitude":107.511,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Gejieling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6208\u754c\u5cad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9910702
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ad8cd9a0c32f0c60b7ea85b6f99c68a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209688105
+        }
+    ],
+    "wof:id":1209688105,
+    "wof:lastmodified":1537607091,
+    "wof:name":"Gejieling",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.511,
+    24.884,
+    107.511,
+    24.884
+],
+  "geometry": {"coordinates":[107.511,24.884],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293241377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.33316,32.27146,100.33316,32.27146",
+    "geom:latitude":32.27146,
+    "geom:longitude":100.33316,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Seke",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":3884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1796493,
+    "gn:latitude":32.27146,
+    "gn:longitude":100.33316,
+    "gn:modification_date":"2007-07-09",
+    "gn:name":"Seke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Se-ta",
+        "S\u00earkog"
+    ],
+    "name:zho_x_preferred":[
+        "\u8272\u67ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890514703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1796493
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"84778e83f5ec1f1affd3b7d977de8b7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514703,
+            "empire_id":136253041,
+            "locality_id":1293241377,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1293241377,
+    "wof:lastmodified":1537592738,
+    "wof:name":"Seke",
+    "wof:parent_id":890514703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.33316,
+    32.27146,
+    100.33316,
+    32.27146
+],
+  "geometry": {"coordinates":[100.33316000000001,32.27146],"type":"Point"}
+}

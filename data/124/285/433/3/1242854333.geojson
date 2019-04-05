@@ -1,0 +1,78 @@
+{
+  "id": 1242854333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.45583,31.97389,112.45583,31.97389",
+    "geom:latitude":31.97389,
+    "geom:longitude":112.45583,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Huanglong",
+    "gn:country_code":"CN",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1807364,
+    "gn:latitude":31.97389,
+    "gn:longitude":112.45583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Huanglong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huang-lung",
+        "Huanglongdang",
+        "Huang-lung-tang",
+        "Huanglong",
+        "\u9ec4\u9f99",
+        "Huanglong Zhen",
+        "\u9ec4\u9f99\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1807364
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ab47d22fdf70036191fc66f5e92c270e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732497,
+            "empire_id":136253041,
+            "locality_id":1242854333,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1242854333,
+    "wof:lastmodified":1537593433,
+    "wof:name":"Huanglong",
+    "wof:parent_id":1108732497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.45583,
+    31.97389,
+    112.45583,
+    31.97389
+],
+  "geometry": {"coordinates":[112.45583000000001,31.97389],"type":"Point"}
+}

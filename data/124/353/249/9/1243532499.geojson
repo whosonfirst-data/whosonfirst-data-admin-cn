@@ -1,0 +1,76 @@
+{
+  "id": 1243532499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.48944,25.40583,111.48944,25.40583",
+    "geom:latitude":25.40583,
+    "geom:longitude":111.48944,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Xinchexiang",
+    "gn:country_code":"CN",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1930357,
+    "gn:latitude":25.40583,
+    "gn:longitude":111.48944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Xinchexiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xinchexu",
+        "Xinchexiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u8f66\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890515001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1930357
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5f65f17b9ed67d939c0fd107e1935c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515001,
+            "empire_id":136253041,
+            "locality_id":1243532499,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1243532499,
+    "wof:lastmodified":1537595014,
+    "wof:name":"Xinchexiang",
+    "wof:parent_id":890515001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.48944,
+    25.40583,
+    111.48944,
+    25.40583
+],
+  "geometry": {"coordinates":[111.48944,25.40583],"type":"Point"}
+}

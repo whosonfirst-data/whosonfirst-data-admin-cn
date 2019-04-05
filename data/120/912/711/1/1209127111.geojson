@@ -1,0 +1,64 @@
+{
+  "id": 1209127111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.00814,26.10297,119.00814,26.10297",
+    "geom:latitude":26.10297,
+    "geom:longitude":119.00814,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Litou",
+    "gn:country_code":"CN",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8575540,
+    "gn:latitude":26.10297,
+    "gn:longitude":119.00814,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Litou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u91cc\u5934"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8575540
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"254d3ee7ecca5054c4fe8edef779524f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209127111
+        }
+    ],
+    "wof:id":1209127111,
+    "wof:lastmodified":1537604715,
+    "wof:name":"Litou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.00814,
+    26.10297000000001,
+    119.00814,
+    26.10297000000001
+],
+  "geometry": {"coordinates":[119.00814,26.10297000000001],"type":"Point"}
+}

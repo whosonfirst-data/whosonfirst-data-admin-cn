@@ -1,0 +1,64 @@
+{
+  "id": 1209681253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.04485,40.15895,123.04485,40.15895",
+    "geom:latitude":40.15895,
+    "geom:longitude":123.04485,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Longtan",
+    "gn:country_code":"CN",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8356816,
+    "gn:latitude":40.15895,
+    "gn:longitude":123.04485,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Longtan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9f99\u6f6d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8356816
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4ef98f27ea100ccc914bd3f8ae0e01f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209681253
+        }
+    ],
+    "wof:id":1209681253,
+    "wof:lastmodified":1537602946,
+    "wof:name":"Longtan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.04485,
+    40.15895,
+    123.04485,
+    40.15895
+],
+  "geometry": {"coordinates":[123.04485,40.15895],"type":"Point"}
+}

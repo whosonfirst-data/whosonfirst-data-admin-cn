@@ -1,0 +1,76 @@
+{
+  "id": 1226002001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.93333,36.23333,116.93333,36.23333",
+    "geom:latitude":36.23333,
+    "geom:longitude":116.93333,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Daolang",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1813772,
+    "gn:latitude":36.23333,
+    "gn:longitude":116.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Daolang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tao-lang",
+        "Tao-lang-chuang",
+        "Tao-lung-chuang",
+        "Daolang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669813,
+        102191569,
+        85632695,
+        136253041,
+        890515833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1813772
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"09d427202ee428e23e86f63e43bc1e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515833,
+            "empire_id":136253041,
+            "locality_id":1226002001,
+            "region_id":85669813
+        }
+    ],
+    "wof:id":1226002001,
+    "wof:lastmodified":1537593844,
+    "wof:name":"Daolang",
+    "wof:parent_id":890515833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.93333,
+    36.23333,
+    116.93333,
+    36.23333
+],
+  "geometry": {"coordinates":[116.93333,36.23333],"type":"Point"}
+}

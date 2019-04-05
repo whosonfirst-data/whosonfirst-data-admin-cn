@@ -1,0 +1,84 @@
+{
+  "id": 1225934495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.45,50.25,126.45,50.25",
+    "geom:latitude":50.25,
+    "geom:longitude":126.45,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Wudaogou",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2034129,
+    "gn:latitude":50.25,
+    "gn:longitude":126.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wudaogou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wudaogou"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0434\u0430\u043e\u0433\u043e\u0443"
+    ],
+    "name:rus_x_variant":[
+        "\u041b\u044e\u0434\u0430\u043e\u0433\u043e\u0443",
+        "\u0421\u044b\u0434\u0430\u043e\u0433\u043e\u0443"
+    ],
+    "name:und_x_variant":[
+        "Wu-tao-kou",
+        "Wudaogou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        1108732555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2034129
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6442085df83739d29226ae1c4cd57162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732555,
+            "empire_id":136253041,
+            "locality_id":1225934495,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1225934495,
+    "wof:lastmodified":1537595628,
+    "wof:name":"Wudaogou",
+    "wof:parent_id":1108732555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.45,
+    50.25,
+    126.45,
+    50.25
+],
+  "geometry": {"coordinates":[126.45,50.25],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360241553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.93861,34.43111,108.93861,34.43111",
+    "geom:latitude":34.43111,
+    "geom:longitude":108.93861,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Tongrenzhuang",
+    "gn:country_code":"CN",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2001112,
+    "gn:latitude":34.43111,
+    "gn:longitude":108.93861,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tongrenzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u540c\u4ec1\u5e84"
+    ],
+    "name:zho_x_preferred":[
+        "\u540c\u4ec1\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2001112
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"45c8dac1c874e60dfdb315e70d2c57c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515689,
+            "empire_id":136253041,
+            "locality_id":1360241553,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1360241553,
+    "wof:lastmodified":1537595479,
+    "wof:name":"Tongrenzhuang",
+    "wof:parent_id":890515689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.93861,
+    34.43111,
+    108.93861,
+    34.43111
+],
+  "geometry": {"coordinates":[108.93861,34.43111],"type":"Point"}
+}

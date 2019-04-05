@@ -1,0 +1,76 @@
+{
+  "id": 1243500733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.50541,25.22425,114.50541,25.22425",
+    "geom:latitude":25.22425,
+    "geom:longitude":114.50541,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Huangkeng",
+    "gn:country_code":"CN",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1807402,
+    "gn:latitude":25.22425,
+    "gn:longitude":114.50541,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Huangkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huangkeng Zhen",
+        "\u9ec4\u5751\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ec4\u5751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890516559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1807402
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8b10e44c1b367c7fdb2ae5d660b0c47e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516559,
+            "empire_id":136253041,
+            "locality_id":1243500733,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1243500733,
+    "wof:lastmodified":1537593436,
+    "wof:name":"Huangkeng",
+    "wof:parent_id":890516559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.50541,
+    25.22425,
+    114.50541,
+    25.22425
+],
+  "geometry": {"coordinates":[114.50541,25.22425],"type":"Point"}
+}

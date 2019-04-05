@@ -1,0 +1,64 @@
+{
+  "id": 1209203437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.85753,38.30433,113.85753,38.30433",
+    "geom:latitude":38.30433,
+    "geom:longitude":113.85753,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Heishankou",
+    "gn:country_code":"CN",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11071076,
+    "gn:latitude":38.30433,
+    "gn:longitude":113.85753,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Heishankou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9ed1\u5c71\u53e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11071076
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fc74c92f26fdad4d0243f38277691404",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209203437
+        }
+    ],
+    "wof:id":1209203437,
+    "wof:lastmodified":1537615201,
+    "wof:name":"Heishankou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.85753,
+    38.30433,
+    113.85753,
+    38.30433
+],
+  "geometry": {"coordinates":[113.85753,38.30433],"type":"Point"}
+}

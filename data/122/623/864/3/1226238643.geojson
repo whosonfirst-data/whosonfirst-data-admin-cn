@@ -1,0 +1,82 @@
+{
+  "id": 1226238643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.03706,45.94715,128.03706,45.94715",
+    "geom:latitude":45.94715,
+    "geom:longitude":128.03706,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mulan",
+    "gn:country_code":"CN",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2035705,
+    "gn:latitude":45.94715,
+    "gn:longitude":128.03706,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Mulan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wu-chan",
+        "Mu-lan-hsien",
+        "Mu-lan-chen",
+        "Mulan",
+        "Mulan Xian"
+    ],
+    "name:zho_x_preferred":[
+        "\u6728\u5170"
+    ],
+    "name:zho_x_variant":[
+        "\u6728\u5170\u53bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890516235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2035705
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"de0de4308f171b0d1979b07012673962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516235,
+            "empire_id":136253041,
+            "locality_id":1226238643,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1226238643,
+    "wof:lastmodified":1537595731,
+    "wof:name":"Mulan",
+    "wof:parent_id":890516235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.03706,
+    45.94715,
+    128.03706,
+    45.94715
+],
+  "geometry": {"coordinates":[128.03706,45.94715],"type":"Point"}
+}

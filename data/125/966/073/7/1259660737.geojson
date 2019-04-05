@@ -1,0 +1,77 @@
+{
+  "id": 1259660737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.51245,30.76614,112.51245,30.76614",
+    "geom:latitude":30.76614,
+    "geom:longitude":112.51245,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gaoyang",
+    "gn:country_code":"CN",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":7661853,
+    "gn:latitude":30.76614,
+    "gn:longitude":112.51245,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gaoyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaoyang Zhen",
+        "Gaoyang",
+        "\u9ad8\u9633"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ad8\u9633\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        890514731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7661853
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5997a88bfce5b368cef87feb857e7a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514731,
+            "empire_id":136253041,
+            "locality_id":1259660737,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1259660737,
+    "wof:lastmodified":1537600834,
+    "wof:name":"Gaoyang",
+    "wof:parent_id":890514731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.51245,
+    30.76614,
+    112.51245,
+    30.76614
+],
+  "geometry": {"coordinates":[112.51245,30.76614],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209493095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.42558,25.40487,112.42558,25.40487",
+    "geom:latitude":25.40487,
+    "geom:longitude":112.42558,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tianjia",
+    "gn:country_code":"CN",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9801118,
+    "gn:latitude":25.40487,
+    "gn:longitude":112.42558,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Tianjia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7530\u5bb6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9801118
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"353078a130c8112654810f9342391fb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209493095
+        }
+    ],
+    "wof:id":1209493095,
+    "wof:lastmodified":1537606368,
+    "wof:name":"Tianjia",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.42558,
+    25.40487000000001,
+    112.42558,
+    25.40487000000001
+],
+  "geometry": {"coordinates":[112.42558,25.40487000000001],"type":"Point"}
+}

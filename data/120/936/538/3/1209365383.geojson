@@ -1,0 +1,64 @@
+{
+  "id": 1209365383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.39,25.0805,102.39,25.0805",
+    "geom:latitude":25.0805,
+    "geom:longitude":102.39,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Fanggu",
+    "gn:country_code":"CN",
+    "gn:dem":1885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10149634,
+    "gn:latitude":25.0805,
+    "gn:longitude":102.39,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Fanggu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u653e\u59d1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10149634
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a5081dcf03d74d36d89ea0376442cd29",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209365383
+        }
+    ],
+    "wof:id":1209365383,
+    "wof:lastmodified":1537610426,
+    "wof:name":"Fanggu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.39,
+    25.0805,
+    102.39,
+    25.0805
+],
+  "geometry": {"coordinates":[102.39,25.0805],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209270289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.01938,35.86796,113.01938,35.86796",
+    "geom:latitude":35.86796,
+    "geom:longitude":113.01938,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Nanhe",
+    "gn:country_code":"CN",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11464543,
+    "gn:latitude":35.86796,
+    "gn:longitude":113.01938,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Nanhe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5357\u6cb3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11464543
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fe4c7ce86117afc49027af1342c71bac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209270289
+        }
+    ],
+    "wof:id":1209270289,
+    "wof:lastmodified":1537616790,
+    "wof:name":"Nanhe",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.01938,
+    35.86796,
+    113.01938,
+    35.86796
+],
+  "geometry": {"coordinates":[113.01938,35.86796],"type":"Point"}
+}

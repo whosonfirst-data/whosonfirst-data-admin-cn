@@ -1,0 +1,76 @@
+{
+  "id": 1344243629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.28984,30.90874,112.28984,30.90874",
+    "geom:latitude":30.90874,
+    "geom:longitude":112.28984,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Macheng",
+    "gn:country_code":"CN",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1801579,
+    "gn:latitude":30.90874,
+    "gn:longitude":112.28984,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Macheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Machengpu",
+        "Macheng",
+        "\u9ebb\u57ce",
+        "Macheng Zhen",
+        "\u9ebb\u57ce\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        890514731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1801579
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"67adea3e03c6565462f5a517501b770a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514731,
+            "empire_id":136253041,
+            "locality_id":1344243629,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1344243629,
+    "wof:lastmodified":1537593059,
+    "wof:name":"Macheng",
+    "wof:parent_id":890514731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.28983999999998,
+    30.90874,
+    112.28983999999998,
+    30.90874
+],
+  "geometry": {"coordinates":[112.28983999999998,30.90874],"type":"Point"}
+}

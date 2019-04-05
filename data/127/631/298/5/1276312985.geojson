@@ -1,0 +1,78 @@
+{
+  "id": 1276312985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.36785,32.90051,110.36785,32.90051",
+    "geom:latitude":32.90051,
+    "geom:longitude":110.36785,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Guanyin",
+    "gn:country_code":"CN",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1809711,
+    "gn:latitude":32.90051,
+    "gn:longitude":110.36785,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Guanyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guanyin Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u89c2\u97f3"
+    ],
+    "name:zho_x_variant":[
+        "\u89c2\u97f3\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        890515173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1809711
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0bd71a0fd927c68d95035cd195e47215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515173,
+            "empire_id":136253041,
+            "locality_id":1276312985,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1276312985,
+    "wof:lastmodified":1537593586,
+    "wof:name":"Guanyin",
+    "wof:parent_id":890515173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.36785,
+    32.90051,
+    110.36785,
+    32.90051
+],
+  "geometry": {"coordinates":[110.36785,32.90051],"type":"Point"}
+}

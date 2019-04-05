@@ -1,0 +1,64 @@
+{
+  "id": 1209081571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.003,27.6063,108.003,27.6063",
+    "geom:latitude":27.6063,
+    "geom:longitude":108.003,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Shaba",
+    "gn:country_code":"CN",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10032114,
+    "gn:latitude":27.6063,
+    "gn:longitude":108.003,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Shaba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6c99\u575d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10032114
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d853d1f1676e135e0a70a90e1b3a5d33",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209081571
+        }
+    ],
+    "wof:id":1209081571,
+    "wof:lastmodified":1537609446,
+    "wof:name":"Shaba",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.003,
+    27.6063,
+    108.003,
+    27.6063
+],
+  "geometry": {"coordinates":[108.003,27.6063],"type":"Point"}
+}

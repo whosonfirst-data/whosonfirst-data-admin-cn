@@ -1,0 +1,64 @@
+{
+  "id": 1209356203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.955,30.0791,101.955,30.0791",
+    "geom:latitude":30.0791,
+    "geom:longitude":101.955,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Toudaoqiao",
+    "gn:country_code":"CN",
+    "gn:dem":2573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10200090,
+    "gn:latitude":30.0791,
+    "gn:longitude":101.955,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Toudaoqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5934\u9053\u6865"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10200090
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"af081d03ef23233fd0073728582c1f4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209356203
+        }
+    ],
+    "wof:id":1209356203,
+    "wof:lastmodified":1537611284,
+    "wof:name":"Toudaoqiao",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.955,
+    30.0791,
+    101.955,
+    30.0791
+],
+  "geometry": {"coordinates":[101.955,30.0791],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 102550533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.699722222,27.4413888889,109.699722222,27.4413888889",
+    "geom:latitude":27.441389,
+    "geom:longitude":109.699722,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0632\u064a\u062c\u0627\u0646\u063a"
+    ],
+    "name:eus_x_preferred":[
+        "Zhijiang aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0698\u06cc\u200c\u062c\u06cc\u0627\u0646\u06af"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Zhijiang"
+    ],
+    "name:swe_x_preferred":[
+        "Zhijiang Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0436\u0438\u200c\u04b7\u0438\u043e\u043d\u0433"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Chi Giang"
+    ],
+    "name:zho_x_preferred":[
+        "\u6000\u5316\u82b7\u6c5f\u673a\u573a"
+    ],
+    "oa:elevation_ft":"882",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":306,
+    "woe:hierarchy":{
+        "country_id":23424781,
+        "county_id":26198211,
+        "localadmin_id":12686247,
+        "planet_id":1,
+        "state_id":12578001
+    },
+    "wof:belongsto":[
+        85632695,
+        85669781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512298,
+        "iata:code":"HJJ",
+        "icao:code":"ZGCJ",
+        "oa:id":"300890",
+        "wd:id":"Q3280881"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a1a9b50cf29701895261d79b7c70bd75",
+    "wof:hierarchy":[
+        {
+            "campus_id":102550533,
+            "country_id":85632695,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":102550533,
+    "wof:lastmodified":1543792155,
+    "wof:name":"Zhijiang Airport",
+    "wof:parent_id":85669781,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    109.69972222222,
+    27.441388888889,
+    109.69972222222,
+    27.441388888889
+],
+  "geometry": {"coordinates":[109.69972222222,27.441388888889],"type":"Point"}
+}

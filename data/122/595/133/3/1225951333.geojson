@@ -1,0 +1,77 @@
+{
+  "id": 1225951333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.67941,28.33319,117.67941,28.33319",
+    "geom:latitude":28.33319,
+    "geom:longitude":117.67941,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Xintan",
+    "gn:country_code":"CN",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":7064803,
+    "gn:latitude":28.33319,
+    "gn:longitude":117.67941,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Xintan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xintan Xiang",
+        "\u65b0\u6ee9\u4e61",
+        "Xintan"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u6ee9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669823,
+        102191569,
+        85632695,
+        136253041,
+        890515869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7064803
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"60e256df743572e21cb63f75d13afbf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515869,
+            "empire_id":136253041,
+            "locality_id":1225951333,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":1225951333,
+    "wof:lastmodified":1537597700,
+    "wof:name":"Xintan",
+    "wof:parent_id":890515869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.67941,
+    28.33319,
+    117.67941,
+    28.33319
+],
+  "geometry": {"coordinates":[117.67941,28.33319],"type":"Point"}
+}

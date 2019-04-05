@@ -1,0 +1,80 @@
+{
+  "id": 1259353725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.101,28.401,92.101,28.401",
+    "geom:latitude":28.401,
+    "geom:longitude":92.101,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dosum",
+    "gn:country_code":"CN",
+    "gn:dem":4531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":7930051,
+    "gn:latitude":28.401,
+    "gn:longitude":92.101,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dosum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Dosum"
+    ],
+    "name:zho_x_preferred":[
+        "Duosong"
+    ],
+    "name:zho_x_variant":[
+        "\u591a\u677e",
+        "Shaqiong",
+        "\u6c99\u7a77"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108794057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930051
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ff6c5818b9a102fcd73d2df807697936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794057,
+            "empire_id":136253041,
+            "locality_id":1259353725,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1259353725,
+    "wof:lastmodified":1537602071,
+    "wof:name":"Dosum",
+    "wof:parent_id":1108794057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.101,
+    28.401,
+    92.101,
+    28.401
+],
+  "geometry": {"coordinates":[92.101,28.401],"type":"Point"}
+}

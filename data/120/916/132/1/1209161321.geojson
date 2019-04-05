@@ -1,0 +1,64 @@
+{
+  "id": 1209161321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.698,26.0361,101.698,26.0361",
+    "geom:latitude":26.0361,
+    "geom:longitude":101.698,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Dianzi",
+    "gn:country_code":"CN",
+    "gn:dem":1506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10151869,
+    "gn:latitude":26.0361,
+    "gn:longitude":101.698,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Dianzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5e97\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10151869
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d1868e856b20132d8eecdabeca729358",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209161321
+        }
+    ],
+    "wof:id":1209161321,
+    "wof:lastmodified":1537610505,
+    "wof:name":"Dianzi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.698,
+    26.0361,
+    101.698,
+    26.0361
+],
+  "geometry": {"coordinates":[101.69799999999999,26.0361],"type":"Point"}
+}

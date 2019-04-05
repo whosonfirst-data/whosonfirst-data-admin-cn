@@ -1,0 +1,93 @@
+{
+  "id": 102550915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.908333333,42.235,118.908333333,42.235",
+    "geom:latitude":42.235,
+    "geom:longitude":118.908333,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u062a\u0634\u064a\u0641\u0646\u063a \u064a\u0648\u0644\u0648\u0646\u063a"
+    ],
+    "name:eus_x_preferred":[
+        "Chifeng aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0686\u0627\u06cc\u0641\u0646\u06af \u0627\u06cc\u0648\u0644\u0648\u0646\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Chifeng Yulong"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Chifeng"
+    ],
+    "name:swe_x_preferred":[
+        "Chifeng Yulong Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0447\u043e\u0438\u0444\u043d\u0433 \u043e\u044e\u043b\u0443\u043d\u0433"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Ng\u1ecdc Long X\u00edch Phong"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d64\u5cf0\u7389\u9f99\u673a\u573a"
+    ],
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":66,
+    "woe:hierarchy":{
+        "country_id":23424781,
+        "county_id":26198068,
+        "localadmin_id":12686820,
+        "planet_id":1,
+        "state_id":12578009
+    },
+    "wof:belongsto":[
+        85632695,
+        85669847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512015,
+        "iata:code":"CIF",
+        "icao:code":"ZBCF",
+        "oa:id":"30829",
+        "wd:id":"Q1708732"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"67891c005254ed07ca97b2b7848f56a2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102550915,
+            "country_id":85632695,
+            "region_id":85669847
+        }
+    ],
+    "wof:id":102550915,
+    "wof:lastmodified":1543792155,
+    "wof:name":"Chifeng Southwest Airport",
+    "wof:parent_id":85669847,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    118.90833333333,
+    42.235,
+    118.90833333333,
+    42.235
+],
+  "geometry": {"coordinates":[118.90833333333001,42.235],"type":"Point"}
+}

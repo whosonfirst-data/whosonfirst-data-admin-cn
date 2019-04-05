@@ -1,0 +1,75 @@
+{
+  "id": 1309765369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.78142,27.90884,104.78142,27.90884",
+    "geom:latitude":27.90884,
+    "geom:longitude":104.78142,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Nanchang",
+    "gn:country_code":"CN",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6913229,
+    "gn:latitude":27.90884,
+    "gn:longitude":104.78142,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Nanchang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u043d\u044c\u0447\u0430\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u5382"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890516537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6913229
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"049beb8df6b2ea19e0adba75cce38838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516537,
+            "empire_id":136253041,
+            "locality_id":1309765369,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1309765369,
+    "wof:lastmodified":1537596711,
+    "wof:name":"Nanchang",
+    "wof:parent_id":890516537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.78142,
+    27.90884,
+    104.78142,
+    27.90884
+],
+  "geometry": {"coordinates":[104.78142,27.90884],"type":"Point"}
+}

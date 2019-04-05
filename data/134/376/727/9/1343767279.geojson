@@ -1,0 +1,69 @@
+{
+  "id": 1343767279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.43889,32.10361,119.43889,32.10361",
+    "geom:latitude":32.10361,
+    "geom:longitude":119.43889,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Shangxilu",
+    "gn:country_code":"CN",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1909046,
+    "gn:latitude":32.10361,
+    "gn:longitude":119.43889,
+    "gn:modification_date":"2000-10-10",
+    "gn:name":"Shangxilu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        1108732521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1909046
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1553ed5918cdf8699d64d6dc2af9d2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732521,
+            "empire_id":136253041,
+            "locality_id":1343767279,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1343767279,
+    "wof:lastmodified":1536801109,
+    "wof:name":"Shangxilu",
+    "wof:parent_id":1108732521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.43889,
+    32.10361,
+    119.43889,
+    32.10361
+],
+  "geometry": {"coordinates":[119.43889,32.10361],"type":"Point"}
+}

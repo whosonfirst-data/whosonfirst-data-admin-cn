@@ -1,0 +1,64 @@
+{
+  "id": 1209119415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.02388,30.51126,116.02388,30.51126",
+    "geom:latitude":30.51126,
+    "geom:longitude":116.02388,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nanchongcun",
+    "gn:country_code":"CN",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10649314,
+    "gn:latitude":30.51126,
+    "gn:longitude":116.02388,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Nanchongcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5357\u51b2\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10649314
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"644bd772bfaad542d3f1916c3837fee4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209119415
+        }
+    ],
+    "wof:id":1209119415,
+    "wof:lastmodified":1537614020,
+    "wof:name":"Nanchongcun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.02388,
+    30.51126,
+    116.02388,
+    30.51126
+],
+  "geometry": {"coordinates":[116.02388000000001,30.51126],"type":"Point"}
+}

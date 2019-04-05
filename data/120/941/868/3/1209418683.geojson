@@ -1,0 +1,64 @@
+{
+  "id": 1209418683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.44894,31.04094,118.44894,31.04094",
+    "geom:latitude":31.04094,
+    "geom:longitude":118.44894,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Beidou",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7067302,
+    "gn:latitude":31.04094,
+    "gn:longitude":118.44894,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Beidou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5317\u6597"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7067302
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f531579a8491567019d7bc4809586c9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209418683
+        }
+    ],
+    "wof:id":1209418683,
+    "wof:lastmodified":1537597761,
+    "wof:name":"Beidou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.44894,
+    31.04094000000001,
+    118.44894,
+    31.04094000000001
+],
+  "geometry": {"coordinates":[118.44893999999999,31.04094000000001],"type":"Point"}
+}

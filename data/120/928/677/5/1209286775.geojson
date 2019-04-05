@@ -1,0 +1,64 @@
+{
+  "id": 1209286775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.805,24.092,109.805,24.092",
+    "geom:latitude":24.092,
+    "geom:longitude":109.805,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Xialing",
+    "gn:country_code":"CN",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9933009,
+    "gn:latitude":24.092,
+    "gn:longitude":109.805,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Xialing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e0b\u4ee4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9933009
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e68fdaf5b5d8806e14559f46771c2dca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209286775
+        }
+    ],
+    "wof:id":1209286775,
+    "wof:lastmodified":1537607739,
+    "wof:name":"Xialing",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.805,
+    24.092,
+    109.805,
+    24.092
+],
+  "geometry": {"coordinates":[109.80500000000001,24.092],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209690607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.285,39.9675,123.285,39.9675",
+    "geom:latitude":39.9675,
+    "geom:longitude":123.285,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Linchangcun",
+    "gn:country_code":"CN",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11479829,
+    "gn:latitude":39.9675,
+    "gn:longitude":123.285,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Linchangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6797\u573a\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11479829
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"54c91765c7a3c36b91194ca39dd501ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209690607
+        }
+    ],
+    "wof:id":1209690607,
+    "wof:lastmodified":1537616876,
+    "wof:name":"Linchangcun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.285,
+    39.9675,
+    123.285,
+    39.9675
+],
+  "geometry": {"coordinates":[123.285,39.9675],"type":"Point"}
+}

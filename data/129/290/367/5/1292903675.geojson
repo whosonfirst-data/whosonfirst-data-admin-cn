@@ -1,0 +1,79 @@
+{
+  "id": 1292903675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.33588,31.6059,119.33588,31.6059",
+    "geom:latitude":31.6059,
+    "geom:longitude":119.33588,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ludacun",
+    "gn:country_code":"CN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1548286,
+    "gn:latitude":31.6059,
+    "gn:longitude":119.33588,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Ludacun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luda",
+        "Ludacun"
+    ],
+    "name:zho_x_preferred":[
+        "\u9646\u7b2a"
+    ],
+    "name:zho_x_variant":[
+        "\u9646\u7b2a\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890514735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1548286
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"27714b96642b1248a1f36ad238d9a1df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514735,
+            "empire_id":136253041,
+            "locality_id":1292903675,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1292903675,
+    "wof:lastmodified":1537591657,
+    "wof:name":"Ludacun",
+    "wof:parent_id":890514735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.33588,
+    31.6059,
+    119.33588,
+    31.6059
+],
+  "geometry": {"coordinates":[119.33588,31.6059],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209269747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.325,35.3524,119.325,35.3524",
+    "geom:latitude":35.3524,
+    "geom:longitude":119.325,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Baiyuncun",
+    "gn:country_code":"CN",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9503621,
+    "gn:latitude":35.3524,
+    "gn:longitude":119.325,
+    "gn:modification_date":"2014-09-07",
+    "gn:name":"Baiyuncun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u767d\u4e91\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9503621
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d1de6cb78cd74dd035a021a3275e36a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209269747
+        }
+    ],
+    "wof:id":1209269747,
+    "wof:lastmodified":1537605854,
+    "wof:name":"Baiyuncun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.325,
+    35.3524,
+    119.325,
+    35.3524
+],
+  "geometry": {"coordinates":[119.325,35.3524],"type":"Point"}
+}

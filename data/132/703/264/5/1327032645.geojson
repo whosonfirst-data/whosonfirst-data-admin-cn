@@ -1,0 +1,77 @@
+{
+  "id": 1327032645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.39773,28.76122,121.39773,28.76122",
+    "geom:latitude":28.76122,
+    "geom:longitude":121.39773,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Chenzhaicun",
+    "gn:country_code":"CN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1897154,
+    "gn:latitude":28.76122,
+    "gn:longitude":121.39773,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Chenzhaicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9648\u5b85",
+        "Chenzhai",
+        "Chenzhaicun"
+    ],
+    "name:zho_x_preferred":[
+        "\u9648\u5b85\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890515633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1897154
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"eb2b7de152ab13259d529350a80b5537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515633,
+            "empire_id":136253041,
+            "locality_id":1327032645,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1327032645,
+    "wof:lastmodified":1537594373,
+    "wof:name":"Chenzhaicun",
+    "wof:parent_id":890515633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.39773,
+    28.76122,
+    121.39773,
+    28.76122
+],
+  "geometry": {"coordinates":[121.39773,28.76122],"type":"Point"}
+}

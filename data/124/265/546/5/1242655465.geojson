@@ -1,0 +1,69 @@
+{
+  "id": 1242655465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.05833,28.26611,110.05833,28.26611",
+    "geom:latitude":28.26611,
+    "geom:longitude":110.05833,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Wuxi",
+    "gn:country_code":"CN",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1928619,
+    "gn:latitude":28.26611,
+    "gn:longitude":110.05833,
+    "gn:modification_date":"2002-03-06",
+    "gn:name":"Wuxi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        1108794059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1928619
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"72a572cfdca390d0549e864686460b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794059,
+            "empire_id":136253041,
+            "locality_id":1242655465,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1242655465,
+    "wof:lastmodified":1536951878,
+    "wof:name":"Wuxi",
+    "wof:parent_id":1108794059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.05833,
+    28.26611,
+    110.05833,
+    28.26611
+],
+  "geometry": {"coordinates":[110.05833,28.26611],"type":"Point"}
+}

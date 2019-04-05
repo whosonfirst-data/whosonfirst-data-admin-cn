@@ -1,0 +1,78 @@
+{
+  "id": 1243237335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.5,31.6,98.5,31.6",
+    "geom:latitude":31.6,
+    "geom:longitude":98.5,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sibkugnang",
+    "gn:country_code":"CN",
+    "gn:dem":3783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8056125,
+    "gn:latitude":31.6,
+    "gn:longitude":98.5,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Sibkugnang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Sibkugnang"
+    ],
+    "name:zho_x_preferred":[
+        "Sikunang"
+    ],
+    "name:zho_x_variant":[
+        "\u53f8\u5e93\u56ca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8056125
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"33e8a11d477c6c948cb70e0be8f1985b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1243237335,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1243237335,
+    "wof:lastmodified":1537602484,
+    "wof:name":"Sibkugnang",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.5,
+    31.6,
+    98.5,
+    31.6
+],
+  "geometry": {"coordinates":[98.5,31.6],"type":"Point"}
+}

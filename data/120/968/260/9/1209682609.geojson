@@ -1,0 +1,64 @@
+{
+  "id": 1209682609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.24673,34.34436,110.24673,34.34436",
+    "geom:latitude":34.34436,
+    "geom:longitude":110.24673,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Laoling",
+    "gn:country_code":"CN",
+    "gn:dem":1422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11316062,
+    "gn:latitude":34.34436,
+    "gn:longitude":110.24673,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Laoling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8001\u5cad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11316062
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2ef4dc281ccd6e019e72ad6856be801a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209682609
+        }
+    ],
+    "wof:id":1209682609,
+    "wof:lastmodified":1537616043,
+    "wof:name":"Laoling",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.24673,
+    34.34435999999999,
+    110.24673,
+    34.34435999999999
+],
+  "geometry": {"coordinates":[110.24673,34.34435999999999],"type":"Point"}
+}

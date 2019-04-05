@@ -1,0 +1,76 @@
+{
+  "id": 1293745985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.17999,40.86196,123.17999,40.86196",
+    "geom:latitude":40.86196,
+    "geom:longitude":123.17999,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Yangjia Buzi",
+    "gn:country_code":"CN",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8534203,
+    "gn:latitude":40.86196,
+    "gn:longitude":123.17999,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Yangjia Buzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yangjiabaozi",
+        "Yangjia Buzi"
+    ],
+    "name:zho_x_preferred":[
+        "\u6768\u5bb6\u5821\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8534203
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"71c616ebc184daf0763a5321b2e4cca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514643,
+            "empire_id":136253041,
+            "locality_id":1293745985,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1293745985,
+    "wof:lastmodified":1537604340,
+    "wof:name":"Yangjia Buzi",
+    "wof:parent_id":890514643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.17999,
+    40.86196,
+    123.17999,
+    40.86196
+],
+  "geometry": {"coordinates":[123.17999,40.86196],"type":"Point"}
+}

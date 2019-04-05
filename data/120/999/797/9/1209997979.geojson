@@ -1,0 +1,82 @@
+{
+  "id": 1209997979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.25802,24.83441,111.25802,24.83441",
+    "geom:latitude":24.83441,
+    "geom:longitude":111.25802,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Fuyang",
+    "gn:country_code":"CN",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1810848,
+    "gn:latitude":24.83441,
+    "gn:longitude":111.25802,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fuyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fuchuan",
+        "Fuchwan",
+        "Fu-yang-chen",
+        "Fuchwan-hsien",
+        "Fuyang"
+    ],
+    "name:zho_x_preferred":[
+        "Chiu-fu-ch\u2019uan"
+    ],
+    "name:zho_x_variant":[
+        "Fu-ch\u2019uan-hsien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669717,
+        102191569,
+        85632695,
+        136253041,
+        890515189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1810848
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"341a705e7bc3ff0faed5de0601a70429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515189,
+            "empire_id":136253041,
+            "locality_id":1209997979,
+            "region_id":85669717
+        }
+    ],
+    "wof:id":1209997979,
+    "wof:lastmodified":1537593666,
+    "wof:name":"Fuyang",
+    "wof:parent_id":890515189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.25802,
+    24.83441,
+    111.25802,
+    24.83441
+],
+  "geometry": {"coordinates":[111.25802,24.83441],"type":"Point"}
+}

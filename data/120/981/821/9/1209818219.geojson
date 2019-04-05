@@ -1,0 +1,74 @@
+{
+  "id": 1209818219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.92695,30.24094,119.92695,30.24094",
+    "geom:latitude":30.24094,
+    "geom:longitude":119.92695,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zhongtai",
+    "gn:country_code":"CN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":7679669,
+    "gn:latitude":30.24094,
+    "gn:longitude":119.92695,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhongtai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e2d\u6cf0",
+        "Zhongtai Xiang",
+        "\u4e2d\u6cf0\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7679669
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f8c621517da207491e10dea7c6dc5f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516555,
+            "empire_id":136253041,
+            "locality_id":1209818219,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1209818219,
+    "wof:lastmodified":1537600921,
+    "wof:name":"Zhongtai",
+    "wof:parent_id":890516555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.92695,
+    30.24094,
+    119.92695,
+    30.24094
+],
+  "geometry": {"coordinates":[119.92695000000001,30.24094],"type":"Point"}
+}

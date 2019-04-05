@@ -1,0 +1,81 @@
+{
+  "id": 1242946569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.79767,33.56357,78.79767,33.56357",
+    "geom:latitude":33.56357,
+    "geom:longitude":78.79767,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mendong",
+    "gn:country_code":"CN",
+    "gn:dem":4346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10276607,
+    "gn:latitude":33.56357,
+    "gn:longitude":78.79767,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Mendong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u95e8\u51ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695697,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10276607
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c02a2495b214018dc85fbcab06573f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":1242946569,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":1242946569,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":1242946569,
+    "wof:lastmodified":1537611977,
+    "wof:name":"Mendong",
+    "wof:parent_id":1108695697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.79767,
+    33.56357,
+    78.79767,
+    33.56357
+],
+  "geometry": {"coordinates":[78.79767,33.56357],"type":"Point"}
+}

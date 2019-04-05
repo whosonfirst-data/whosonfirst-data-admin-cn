@@ -1,0 +1,76 @@
+{
+  "id": 1242771269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.47582,27.29994,119.47582,27.29994",
+    "geom:latitude":27.29994,
+    "geom:longitude":119.47582,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Jianglu",
+    "gn:country_code":"CN",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1984540,
+    "gn:latitude":27.29994,
+    "gn:longitude":119.47582,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Jianglu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5c06\u7984",
+        "Jianglu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5956\u7984"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1984540
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f9683a511a682ff44be36151d539b912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516577,
+            "empire_id":136253041,
+            "locality_id":1242771269,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1242771269,
+    "wof:lastmodified":1537595234,
+    "wof:name":"Jianglu",
+    "wof:parent_id":890516577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.47582,
+    27.29994000000001,
+    119.47582,
+    27.29994000000001
+],
+  "geometry": {"coordinates":[119.47582,27.29994000000001],"type":"Point"}
+}

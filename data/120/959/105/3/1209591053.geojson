@@ -1,0 +1,64 @@
+{
+  "id": 1209591053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.251,26.769,106.251,26.769",
+    "geom:latitude":26.769,
+    "geom:longitude":106.251,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Yantou Shangcun",
+    "gn:country_code":"CN",
+    "gn:dem":1333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10024481,
+    "gn:latitude":26.769,
+    "gn:longitude":106.251,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Yantou Shangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5ca9\u5934\u4e0a\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10024481
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"39d1d5a7414b4b31db7cbd35dee84e08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209591053
+        }
+    ],
+    "wof:id":1209591053,
+    "wof:lastmodified":1537609224,
+    "wof:name":"Yantou Shangcun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.251,
+    26.769,
+    106.251,
+    26.769
+],
+  "geometry": {"coordinates":[106.251,26.769],"type":"Point"}
+}

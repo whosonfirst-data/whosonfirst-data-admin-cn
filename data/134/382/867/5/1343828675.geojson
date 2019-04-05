@@ -1,0 +1,78 @@
+{
+  "id": 1343828675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.9,30.0,90.9,30.0",
+    "geom:latitude":30.0,
+    "geom:longitude":90.9,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mongdoi",
+    "gn:country_code":"CN",
+    "gn:dem":4947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8045746,
+    "gn:latitude":30.0,
+    "gn:longitude":90.9,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mongdoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Mongdoi"
+    ],
+    "name:zho_x_preferred":[
+        "Mendui"
+    ],
+    "name:zho_x_variant":[
+        "\u95e8\u5806"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8045746
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"930e27a5c1622f872f43cb68137f3f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515877,
+            "empire_id":136253041,
+            "locality_id":1343828675,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1343828675,
+    "wof:lastmodified":1537602393,
+    "wof:name":"Mongdoi",
+    "wof:parent_id":890515877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.9,
+    30.0,
+    90.9,
+    30.0
+],
+  "geometry": {"coordinates":[90.90000000000001,30.0],"type":"Point"}
+}

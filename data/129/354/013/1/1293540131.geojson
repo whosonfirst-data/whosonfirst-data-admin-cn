@@ -1,0 +1,79 @@
+{
+  "id": 1293540131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.66298,25.0273,103.66298,25.0273",
+    "geom:latitude":25.0273,
+    "geom:longitude":103.66298,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Zhongshu",
+    "gn:country_code":"CN",
+    "gn:dem":1838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1784309,
+    "gn:latitude":25.0273,
+    "gn:longitude":103.66298,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhongshu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lu-liang-hsien",
+        "Huancheng",
+        "Luliang",
+        "Zhongshu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u67a2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        890515167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1784309,
+        "wk:page":"Luliang_County"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"17f81557304c89c3b5f2a2bc32be7d37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515167,
+            "empire_id":136253041,
+            "locality_id":1293540131,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1293540131,
+    "wof:lastmodified":1537591917,
+    "wof:name":"Zhongshu",
+    "wof:parent_id":890515167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.66298,
+    25.0273,
+    103.66298,
+    25.0273
+],
+  "geometry": {"coordinates":[103.66298,25.0273],"type":"Point"}
+}

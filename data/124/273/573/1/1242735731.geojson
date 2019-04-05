@@ -1,0 +1,78 @@
+{
+  "id": 1242735731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.37879,40.28579,113.37879,40.28579",
+    "geom:latitude":40.28579,
+    "geom:longitude":113.37879,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Zhenchuan",
+    "gn:country_code":"CN",
+    "gn:dem":1196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2033139,
+    "gn:latitude":40.28579,
+    "gn:longitude":113.37879,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Zhenchuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chen-ch\u2019uan-p\u2019u",
+        "Chen-ch\u2019uan-pao",
+        "Zhenchuanbu",
+        "Zhenchuan"
+    ],
+    "name:zho_x_preferred":[
+        "\u9547\u5ddd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        890516415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2033139
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"200fa5ba020f0ae3616b6e88d8488af1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516415,
+            "empire_id":136253041,
+            "locality_id":1242735731,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1242735731,
+    "wof:lastmodified":1537595569,
+    "wof:name":"Zhenchuan",
+    "wof:parent_id":890516415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.37879,
+    40.28579000000001,
+    113.37879,
+    40.28579000000001
+],
+  "geometry": {"coordinates":[113.37879,40.28579000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1260088663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.66553,30.04269,120.66553,30.04269",
+    "geom:latitude":30.04269,
+    "geom:longitude":120.66553,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Xishucun",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1881896,
+    "gn:latitude":30.04269,
+    "gn:longitude":120.66553,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Xishucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsi-k\u2019uei",
+        "Xishu",
+        "\u897f\u5885",
+        "Xishucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u5885\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890513785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1881896
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"71c3a54d716c56268b7dc257b1533bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513785,
+            "empire_id":136253041,
+            "locality_id":1260088663,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1260088663,
+    "wof:lastmodified":1537594153,
+    "wof:name":"Xishucun",
+    "wof:parent_id":890513785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.66553,
+    30.04269,
+    120.66553,
+    30.04269
+],
+  "geometry": {"coordinates":[120.66553,30.04269],"type":"Point"}
+}

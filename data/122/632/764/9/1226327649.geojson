@@ -1,0 +1,75 @@
+{
+  "id": 1226327649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.26111,44.02444,131.26111,44.02444",
+    "geom:latitude":44.02444,
+    "geom:longitude":131.26111,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sanchakou",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2035183,
+    "gn:latitude":44.02444,
+    "gn:longitude":131.26111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sanchakou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tung-ning-hsien",
+        "Tung-ning",
+        "Sanchakou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688023,
+        102191581,
+        85632685,
+        874393555,
+        1108735637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2035183
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5db920b09ed374f4f092766c6a3cbfe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108735637,
+            "empire_id":874393555,
+            "locality_id":1226327649,
+            "region_id":85688023
+        }
+    ],
+    "wof:id":1226327649,
+    "wof:lastmodified":1537595698,
+    "wof:name":"Sanchakou",
+    "wof:parent_id":1108735637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.26111,
+    44.02444000000001,
+    131.26111,
+    44.02444000000001
+],
+  "geometry": {"coordinates":[131.26111,44.02444000000001],"type":"Point"}
+}

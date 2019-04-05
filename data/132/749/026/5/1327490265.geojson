@@ -1,0 +1,77 @@
+{
+  "id": 1327490265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.12111,34.43639,108.12111,34.43639",
+    "geom:latitude":34.43639,
+    "geom:longitude":108.12111,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Zhoucheng",
+    "gn:country_code":"CN",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1784182,
+    "gn:latitude":34.43639,
+    "gn:longitude":108.12111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhoucheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chou-ch\u2019eng",
+        "Chou-ch\u2019eng-fu",
+        "Zhoucheng"
+    ],
+    "name:zho_x_preferred":[
+        "\u5468\u57ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1784182
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d1ced68bd9c9acbeee261bf2a7beabd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515689,
+            "empire_id":136253041,
+            "locality_id":1327490265,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1327490265,
+    "wof:lastmodified":1537591908,
+    "wof:name":"Zhoucheng",
+    "wof:parent_id":890515689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.12111000000002,
+    34.43639,
+    108.12111000000002,
+    34.43639
+],
+  "geometry": {"coordinates":[108.12111000000002,34.43639],"type":"Point"}
+}

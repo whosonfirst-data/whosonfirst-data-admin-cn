@@ -1,0 +1,78 @@
+{
+  "id": 1243313333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.50951,23.72988,112.50951,23.72988",
+    "geom:latitude":23.72988,
+    "geom:longitude":112.50951,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Luogang",
+    "gn:country_code":"CN",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1801943,
+    "gn:latitude":23.72988,
+    "gn:longitude":112.50951,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Luogang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lo-kang",
+        "Luogang",
+        "Luogang Zhen",
+        "\u87ba\u5c97\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u87ba\u5c97"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890514727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1801943
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5359d2a5315b36815ca329b38646dced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514727,
+            "empire_id":136253041,
+            "locality_id":1243313333,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1243313333,
+    "wof:lastmodified":1537593085,
+    "wof:name":"Luogang",
+    "wof:parent_id":890514727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.50951,
+    23.72988,
+    112.50951,
+    23.72988
+],
+  "geometry": {"coordinates":[112.50951000000001,23.72988],"type":"Point"}
+}

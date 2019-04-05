@@ -1,0 +1,64 @@
+{
+  "id": 1209512571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.90154,35.93767,100.90154,35.93767",
+    "geom:latitude":35.93767,
+    "geom:longitude":100.90154,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dacang",
+    "gn:country_code":"CN",
+    "gn:dem":2665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7384194,
+    "gn:latitude":35.93767,
+    "gn:longitude":100.90154,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dacang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u8fbe\u85cf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7384194
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"dd4bf43709c2dbaab60e523a76e4b6e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209512571
+        }
+    ],
+    "wof:id":1209512571,
+    "wof:lastmodified":1537598389,
+    "wof:name":"Dacang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.90154,
+    35.93767000000001,
+    100.90154,
+    35.93767000000001
+],
+  "geometry": {"coordinates":[100.90154,35.93767000000001],"type":"Point"}
+}

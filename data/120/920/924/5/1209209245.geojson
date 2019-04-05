@@ -1,0 +1,64 @@
+{
+  "id": 1209209245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.46078,35.12453,112.46078,35.12453",
+    "geom:latitude":35.12453,
+    "geom:longitude":112.46078,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qinghua",
+    "gn:country_code":"CN",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10362674,
+    "gn:latitude":35.12453,
+    "gn:longitude":112.46078,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Qinghua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5e86\u534e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10362674
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"31cfbd11d129c32c41137a8154989e39",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209209245
+        }
+    ],
+    "wof:id":1209209245,
+    "wof:lastmodified":1537612618,
+    "wof:name":"Qinghua",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.46078,
+    35.12453,
+    112.46078,
+    35.12453
+],
+  "geometry": {"coordinates":[112.46078,35.12453],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1225811305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.26396,28.70394,108.26396,28.70394",
+    "geom:latitude":28.70394,
+    "geom:longitude":108.26396,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Huangtu",
+    "gn:country_code":"CN",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1807187,
+    "gn:latitude":28.70394,
+    "gn:longitude":108.26396,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Huangtu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huangtu Xiang",
+        "Huangtupo"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ec4\u571f"
+    ],
+    "name:zho_x_variant":[
+        "\u9ec4\u571f\u4e61",
+        "\u9ec4\u571f\u5761"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669721,
+        102191569,
+        85632695,
+        136253041,
+        1108732513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1807187
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3de9859828f1ae7c07d0cf06f4b89559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732513,
+            "empire_id":136253041,
+            "locality_id":1225811305,
+            "region_id":85669721
+        }
+    ],
+    "wof:id":1225811305,
+    "wof:lastmodified":1537593424,
+    "wof:name":"Huangtu",
+    "wof:parent_id":1108732513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.26396,
+    28.70394000000001,
+    108.26396,
+    28.70394000000001
+],
+  "geometry": {"coordinates":[108.26396,28.70394000000001],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209208315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.83735,25.75718,118.83735,25.75718",
+    "geom:latitude":25.75718,
+    "geom:longitude":118.83735,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shoushan",
+    "gn:country_code":"CN",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8574897,
+    "gn:latitude":25.75718,
+    "gn:longitude":118.83735,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Shoushan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5bff\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8574897
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"dee4ed3ca18f0f2a2c1e824528c3785d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209208315
+        }
+    ],
+    "wof:id":1209208315,
+    "wof:lastmodified":1537604694,
+    "wof:name":"Shoushan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.83735,
+    25.75718,
+    118.83735,
+    25.75718
+],
+  "geometry": {"coordinates":[118.83735,25.75718],"type":"Point"}
+}

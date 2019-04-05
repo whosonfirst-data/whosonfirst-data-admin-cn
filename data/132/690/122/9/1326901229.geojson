@@ -1,0 +1,78 @@
+{
+  "id": 1326901229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.2,31.8,91.2,31.8",
+    "geom:latitude":31.8,
+    "geom:longitude":91.2,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gyaxig",
+    "gn:country_code":"CN",
+    "gn:dem":4551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8026618,
+    "gn:latitude":31.8,
+    "gn:longitude":91.2,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gyaxig",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Gyaxig"
+    ],
+    "name:zho_x_preferred":[
+        "Jiaxi"
+    ],
+    "name:zho_x_variant":[
+        "\u7532\u897f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026618
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6ad7886d6d1be3c5dac6bf5cbf119919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1326901229,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1326901229,
+    "wof:lastmodified":1537602182,
+    "wof:name":"Gyaxig",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.2,
+    31.8,
+    91.2,
+    31.8
+],
+  "geometry": {"coordinates":[91.2,31.8],"type":"Point"}
+}

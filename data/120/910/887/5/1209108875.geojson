@@ -1,0 +1,64 @@
+{
+  "id": 1209108875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.89345,29.41616,120.89345,29.41616",
+    "geom:latitude":29.41616,
+    "geom:longitude":120.89345,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Taiyan",
+    "gn:country_code":"CN",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7072423,
+    "gn:latitude":29.41616,
+    "gn:longitude":120.89345,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taiyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6cf0\u5ca9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7072423
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"001ad7c82d1e868cf1ee08c211ac45fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209108875
+        }
+    ],
+    "wof:id":1209108875,
+    "wof:lastmodified":1537597859,
+    "wof:name":"Taiyan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.89345,
+    29.41616,
+    120.89345,
+    29.41616
+],
+  "geometry": {"coordinates":[120.89345,29.41616],"type":"Point"}
+}

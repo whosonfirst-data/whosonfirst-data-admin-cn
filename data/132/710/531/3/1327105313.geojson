@@ -1,0 +1,78 @@
+{
+  "id": 1327105313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.5,31.4,94.5,31.4",
+    "geom:latitude":31.4,
+    "geom:longitude":94.5,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Namba",
+    "gn:country_code":"CN",
+    "gn:dem":4811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8046483,
+    "gn:latitude":31.4,
+    "gn:longitude":94.5,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Namba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Namba"
+    ],
+    "name:zho_x_preferred":[
+        "Nanmuba"
+    ],
+    "name:zho_x_variant":[
+        "\u6960\u6728\u5df4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8046483
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fdfbb6ab5a6479b8a5cf7d4742239eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1327105313,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1327105313,
+    "wof:lastmodified":1537602410,
+    "wof:name":"Namba",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.5,
+    31.4,
+    94.5,
+    31.4
+],
+  "geometry": {"coordinates":[94.5,31.4],"type":"Point"}
+}

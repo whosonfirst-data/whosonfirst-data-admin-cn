@@ -1,0 +1,64 @@
+{
+  "id": 1209327983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.2967,31.6903,118.2967,31.6903",
+    "geom:latitude":31.6903,
+    "geom:longitude":118.2967,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Fuxing",
+    "gn:country_code":"CN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7067552,
+    "gn:latitude":31.6903,
+    "gn:longitude":118.2967,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Fuxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u590d\u5174"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7067552
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e6126867bc6ffda90476d5707a056dd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209327983
+        }
+    ],
+    "wof:id":1209327983,
+    "wof:lastmodified":1537597775,
+    "wof:name":"Fuxing",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.2967,
+    31.6903,
+    118.2967,
+    31.6903
+],
+  "geometry": {"coordinates":[118.2967,31.6903],"type":"Point"}
+}

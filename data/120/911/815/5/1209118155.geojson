@@ -1,0 +1,64 @@
+{
+  "id": 1209118155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.15622,28.85019,119.15622,28.85019",
+    "geom:latitude":28.85019,
+    "geom:longitude":119.15622,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shishuan",
+    "gn:country_code":"CN",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11147171,
+    "gn:latitude":28.85019,
+    "gn:longitude":119.15622,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Shishuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u77f3\u95e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11147171
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0588580c2455189c352fe1696ffe62f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209118155
+        }
+    ],
+    "wof:id":1209118155,
+    "wof:lastmodified":1537615587,
+    "wof:name":"Shishuan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.15622,
+    28.85019,
+    119.15622,
+    28.85019
+],
+  "geometry": {"coordinates":[119.15622,28.85019],"type":"Point"}
+}

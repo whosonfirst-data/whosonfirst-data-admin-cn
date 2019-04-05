@@ -1,0 +1,64 @@
+{
+  "id": 1209685899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.926,35.504,103.926,35.504",
+    "geom:latitude":35.504,
+    "geom:longitude":103.926,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Goujiawan",
+    "gn:country_code":"CN",
+    "gn:dem":2236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10755001,
+    "gn:latitude":35.504,
+    "gn:longitude":103.926,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Goujiawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u82df\u5bb6\u6e7e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10755001
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"584d27d2557b474a13b2d6ced25915cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209685899
+        }
+    ],
+    "wof:id":1209685899,
+    "wof:lastmodified":1537614383,
+    "wof:name":"Goujiawan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.926,
+    35.504,
+    103.926,
+    35.504
+],
+  "geometry": {"coordinates":[103.926,35.504],"type":"Point"}
+}

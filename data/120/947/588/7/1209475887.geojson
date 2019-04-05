@@ -1,0 +1,64 @@
+{
+  "id": 1209475887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8,23.6079,103.8,23.6079",
+    "geom:latitude":23.6079,
+    "geom:longitude":103.8,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kaxi",
+    "gn:country_code":"CN",
+    "gn:dem":1612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10038123,
+    "gn:latitude":23.6079,
+    "gn:longitude":103.8,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Kaxi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5361\u897f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10038123
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"399a1c2ea2479bea81167b5b68993c8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209475887
+        }
+    ],
+    "wof:id":1209475887,
+    "wof:lastmodified":1537609624,
+    "wof:name":"Kaxi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8,
+    23.6079,
+    103.8,
+    23.6079
+],
+  "geometry": {"coordinates":[103.8,23.6079],"type":"Point"}
+}

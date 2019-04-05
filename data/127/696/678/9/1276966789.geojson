@@ -1,0 +1,82 @@
+{
+  "id": 1276966789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.20586,28.38017,111.20586,28.38017",
+    "geom:latitude":28.38017,
+    "geom:longitude":111.20586,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Dongping",
+    "gn:country_code":"CN",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1812332,
+    "gn:latitude":28.38017,
+    "gn:longitude":111.20586,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Dongping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An-hua-hsien",
+        "Anhua",
+        "Dongping",
+        "Anhua Xian"
+    ],
+    "name:zho_x_preferred":[
+        "Tung-p\u2019ing"
+    ],
+    "name:zho_x_variant":[
+        "Tung-p\u2019ing-chen",
+        "\u5b89\u5316\u53bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890516477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1812332
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4d42c0110476c2e0c997ea599353d7e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516477,
+            "empire_id":136253041,
+            "locality_id":1276966789,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1276966789,
+    "wof:lastmodified":1537593757,
+    "wof:name":"Dongping",
+    "wof:parent_id":890516477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.20586000000002,
+    28.38017,
+    111.20586000000002,
+    28.38017
+],
+  "geometry": {"coordinates":[111.20586000000002,28.38017],"type":"Point"}
+}

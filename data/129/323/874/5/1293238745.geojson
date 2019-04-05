@@ -1,0 +1,75 @@
+{
+  "id": 1293238745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.58524,23.53791,111.58524,23.53791",
+    "geom:latitude":23.53791,
+    "geom:longitude":111.58524,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Sanya",
+    "gn:country_code":"CN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6928991,
+    "gn:latitude":23.53791,
+    "gn:longitude":111.58524,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sanya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u044c\u044f"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u9e26"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890514727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6928991
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0049003efeed456a6c4517d96169df9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514727,
+            "empire_id":136253041,
+            "locality_id":1293238745,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1293238745,
+    "wof:lastmodified":1537596851,
+    "wof:name":"Sanya",
+    "wof:parent_id":890514727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.58523999999998,
+    23.53791,
+    111.58523999999998,
+    23.53791
+],
+  "geometry": {"coordinates":[111.58523999999998,23.53791],"type":"Point"}
+}

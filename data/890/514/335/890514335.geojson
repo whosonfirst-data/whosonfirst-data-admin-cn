@@ -1,0 +1,78 @@
+{
+  "id": 890514335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.15558,31.0986,119.15558,31.0986",
+    "geom:latitude":31.0986,
+    "geom:longitude":119.15558,
+    "gn:country":"CN",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Lang-ch\u2019i Hsien"
+    ],
+    "name:zho_x_preferred":[
+        "\u90ce\u6eaa\u53bf"
+    ],
+    "name:zho_x_variant":[
+        "\u90ce\u6eaa"
+    ],
+    "qs:name":"Langxi Xian",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890515063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1804495,
+        "qs:id":1031574,
+        "wd:id":"Q1198015",
+        "wk:page":"Langxi County"
+    },
+    "wof:country":"CN",
+    "wof:created":1469055856,
+    "wof:geomhash":"3d01030c39ae6bdaaae5d291346c698c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515063,
+            "empire_id":136253041,
+            "localadmin_id":890514335,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":890514335,
+    "wof:lastmodified":1527793059,
+    "wof:name":"Langxi Xian",
+    "wof:parent_id":890515063,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.15558,
+    31.0986,
+    119.15558,
+    31.0986
+],
+  "geometry": {"coordinates":[119.15558,31.0986],"type":"Point"}
+}

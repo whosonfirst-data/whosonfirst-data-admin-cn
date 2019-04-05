@@ -1,0 +1,76 @@
+{
+  "id": 1327184387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.36611,24.54722,115.36611,24.54722",
+    "geom:latitude":24.54722,
+    "geom:longitude":115.36611,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Zhengkeng",
+    "gn:country_code":"CN",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7771222,
+    "gn:latitude":24.54722,
+    "gn:longitude":115.36611,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Zhengkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Shangzhengkeng"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0a\u90d1\u5751",
+        "\u90d1\u5751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890514179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7771222
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"18d89eb0a352ca61145825d4a325c197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514179,
+            "empire_id":136253041,
+            "locality_id":1327184387,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1327184387,
+    "wof:lastmodified":1537601553,
+    "wof:name":"Zhengkeng",
+    "wof:parent_id":890514179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.36611,
+    24.54722000000001,
+    115.36611,
+    24.54722000000001
+],
+  "geometry": {"coordinates":[115.36611000000001,24.54722000000001],"type":"Point"}
+}

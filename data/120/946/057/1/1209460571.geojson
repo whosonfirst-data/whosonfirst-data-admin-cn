@@ -1,0 +1,64 @@
+{
+  "id": 1209460571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.961,31.839,107.961,31.839",
+    "geom:latitude":31.839,
+    "geom:longitude":107.961,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Sunjiazhai",
+    "gn:country_code":"CN",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10154247,
+    "gn:latitude":31.839,
+    "gn:longitude":107.961,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Sunjiazhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5b59\u5bb6\u5be8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10154247
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f6602271ce2e8546d32a1e06a51a0cbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209460571
+        }
+    ],
+    "wof:id":1209460571,
+    "wof:lastmodified":1537610540,
+    "wof:name":"Sunjiazhai",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.961,
+    31.839,
+    107.961,
+    31.839
+],
+  "geometry": {"coordinates":[107.961,31.839],"type":"Point"}
+}

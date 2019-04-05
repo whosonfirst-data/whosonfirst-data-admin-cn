@@ -1,0 +1,64 @@
+{
+  "id": 1209160015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.11,31.6658,102.11,31.6658",
+    "geom:latitude":31.6658,
+    "geom:longitude":102.11,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ermao",
+    "gn:country_code":"CN",
+    "gn:dem":3351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10202524,
+    "gn:latitude":31.6658,
+    "gn:longitude":102.11,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Ermao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e8c\u6bdb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10202524
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"09478a2d58d54f663e9efe3128f0f7e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209160015
+        }
+    ],
+    "wof:id":1209160015,
+    "wof:lastmodified":1537611314,
+    "wof:name":"Ermao",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.11,
+    31.6658,
+    102.11,
+    31.6658
+],
+  "geometry": {"coordinates":[102.11,31.6658],"type":"Point"}
+}

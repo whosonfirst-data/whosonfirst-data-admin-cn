@@ -1,0 +1,78 @@
+{
+  "id": 1226112967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.66787,29.15618,91.66787,29.15618",
+    "geom:latitude":29.15618,
+    "geom:longitude":91.66787,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Doiba",
+    "gn:country_code":"CN",
+    "gn:dem":3742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8537586,
+    "gn:latitude":29.15618,
+    "gn:longitude":91.66787,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Doiba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Doiba"
+    ],
+    "name:und_x_variant":[
+        "Duiba"
+    ],
+    "name:zho_x_preferred":[
+        "\u5806\u5df4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108794057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537586
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"477dfe22be7d25569c4bf6f0a6c9f326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794057,
+            "empire_id":136253041,
+            "locality_id":1226112967,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226112967,
+    "wof:lastmodified":1537604357,
+    "wof:name":"Doiba",
+    "wof:parent_id":1108794057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.66787,
+    29.15618,
+    91.66787,
+    29.15618
+],
+  "geometry": {"coordinates":[91.66786999999999,29.15618],"type":"Point"}
+}

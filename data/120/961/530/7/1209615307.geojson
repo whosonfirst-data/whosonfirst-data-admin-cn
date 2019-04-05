@@ -1,0 +1,64 @@
+{
+  "id": 1209615307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.777,33.512,118.777,33.512",
+    "geom:latitude":33.512,
+    "geom:longitude":118.777,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Yuanzhuang",
+    "gn:country_code":"CN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11093630,
+    "gn:latitude":33.512,
+    "gn:longitude":118.777,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Yuanzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8881\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11093630
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9ca62806b39ece8174a10b2a7f380717",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209615307
+        }
+    ],
+    "wof:id":1209615307,
+    "wof:lastmodified":1537615360,
+    "wof:name":"Yuanzhuang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.777,
+    33.512,
+    118.777,
+    33.512
+],
+  "geometry": {"coordinates":[118.777,33.512],"type":"Point"}
+}

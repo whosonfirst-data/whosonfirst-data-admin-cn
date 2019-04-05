@@ -1,0 +1,78 @@
+{
+  "id": 1209949167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.84726,32.96981,119.84726,32.96981",
+    "geom:latitude":32.96981,
+    "geom:longitude":119.84726,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Doujiacun",
+    "gn:country_code":"CN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8262055,
+    "gn:latitude":32.96981,
+    "gn:longitude":119.84726,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Doujiacun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doubo"
+    ],
+    "name:zho_x_preferred":[
+        "\u7aa6\u5bb6\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u7aa6\u6cca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8262055
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"68a1b8f43cac9db447963c25ef08bf49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516237,
+            "empire_id":136253041,
+            "locality_id":1209949167,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1209949167,
+    "wof:lastmodified":1537602799,
+    "wof:name":"Doujiacun",
+    "wof:parent_id":890516237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.84726,
+    32.96981,
+    119.84726,
+    32.96981
+],
+  "geometry": {"coordinates":[119.84726000000001,32.96981],"type":"Point"}
+}

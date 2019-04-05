@@ -1,0 +1,65 @@
+{
+  "id": 1209024925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.16573,33.23112,112.16573,33.23112",
+    "geom:latitude":33.23112,
+    "geom:longitude":112.16573,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Nianping",
+    "gn:country_code":"CN",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7051676,
+    "gn:latitude":33.23112,
+    "gn:longitude":112.16573,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Nianping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u78be\u576a",
+        "Nianping"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7051676
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b7fb78aa32729ace728c41a744523302",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209024925
+        }
+    ],
+    "wof:id":1209024925,
+    "wof:lastmodified":1537597594,
+    "wof:name":"Nianping",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.16573,
+    33.23112,
+    112.16573,
+    33.23112
+],
+  "geometry": {"coordinates":[112.16573,33.23112],"type":"Point"}
+}

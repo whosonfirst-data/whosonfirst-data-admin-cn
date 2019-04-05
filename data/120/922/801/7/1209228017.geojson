@@ -1,0 +1,64 @@
+{
+  "id": 1209228017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.58069,30.97247,118.58069,30.97247",
+    "geom:latitude":30.97247,
+    "geom:longitude":118.58069,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Xiaobeicun",
+    "gn:country_code":"CN",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11489395,
+    "gn:latitude":30.97247,
+    "gn:longitude":118.58069,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Xiaobeicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8096\u5317\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11489395
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7e5a81b9899e42dc1798f5ea7f1b688e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209228017
+        }
+    ],
+    "wof:id":1209228017,
+    "wof:lastmodified":1537617003,
+    "wof:name":"Xiaobeicun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.58069,
+    30.97247,
+    118.58069,
+    30.97247
+],
+  "geometry": {"coordinates":[118.58069,30.97247],"type":"Point"}
+}

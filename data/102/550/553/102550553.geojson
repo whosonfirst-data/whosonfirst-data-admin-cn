@@ -1,0 +1,91 @@
+{
+  "id": 102550553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.3069444444,29.3516666667,89.3069444444,29.3516666667",
+    "geom:latitude":29.351667,
+    "geom:longitude":89.306944,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0634\u064a\u063a\u0627\u062a\u0633\u064a \u0628\u064a\u0633"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Xigaz\u00ea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u06cc\u06af\u0627\u062a\u0633\u0647 \u067e\u06cc\u0633"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u041c\u0438\u0440\u0430 \u0428\u0438\u0433\u0430\u0434\u0437\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Shigatse"
+    ],
+    "name:swe_x_preferred":[
+        "Shigatse Peace Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0448\u0438\u0433\u043e\u0442\u0441\u04b3 \u043f\u0438\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u65e5\u5580\u5247\u548c\u5e73\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"3782",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":192,
+    "woe:hierarchy":{
+        "country_id":23424781,
+        "county_id":26198320,
+        "localadmin_id":12686487,
+        "planet_id":1,
+        "state_id":12578004
+    },
+    "wof:belongsto":[
+        85632695,
+        85669747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512247,
+        "iata:code":"RKZ",
+        "icao:code":"ZURK",
+        "oa:id":"44122",
+        "wd:id":"Q1083293"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d5aa66381754789c3f5bac09fba60772",
+    "wof:hierarchy":[
+        {
+            "campus_id":102550553,
+            "country_id":85632695,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":102550553,
+    "wof:lastmodified":1543792155,
+    "wof:name":"Xigaze East Airport",
+    "wof:parent_id":85669747,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    89.306944444444,
+    29.351666666667,
+    89.306944444444,
+    29.351666666667
+],
+  "geometry": {"coordinates":[89.306944444444,29.351666666667],"type":"Point"}
+}

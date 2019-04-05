@@ -1,0 +1,64 @@
+{
+  "id": 1209589757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.85212,49.73582,124.85212,49.73582",
+    "geom:latitude":49.73582,
+    "geom:longitude":124.85212,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Chaoyang",
+    "gn:country_code":"CN",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8444671,
+    "gn:latitude":49.73582,
+    "gn:longitude":124.85212,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Chaoyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u671d\u9633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8444671
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9d83f2297845baa11a3a1a177b80ec6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209589757
+        }
+    ],
+    "wof:id":1209589757,
+    "wof:lastmodified":1537603739,
+    "wof:name":"Chaoyang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.85212,
+    49.73582,
+    124.85212,
+    49.73582
+],
+  "geometry": {"coordinates":[124.85212,49.73582],"type":"Point"}
+}

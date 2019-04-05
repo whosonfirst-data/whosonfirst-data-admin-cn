@@ -1,0 +1,77 @@
+{
+  "id": 1226145797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.99182,30.15395,120.99182,30.15395",
+    "geom:latitude":30.15395,
+    "geom:longitude":120.99182,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Linshan",
+    "gn:country_code":"CN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1803356,
+    "gn:latitude":30.15395,
+    "gn:longitude":120.99182,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Linshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lin-shan-wei-ch\u2019eng",
+        "Lin-shan-wei",
+        "Linshan",
+        "\u4e34\u5c71",
+        "Linshan Zhen",
+        "\u4e34\u5c71\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1803356
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b59cf80a70fc4e3762895e09bdc73536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516553,
+            "empire_id":136253041,
+            "locality_id":1226145797,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1226145797,
+    "wof:lastmodified":1537593185,
+    "wof:name":"Linshan",
+    "wof:parent_id":890516553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.99182,
+    30.15395,
+    120.99182,
+    30.15395
+],
+  "geometry": {"coordinates":[120.99182,30.15395],"type":"Point"}
+}

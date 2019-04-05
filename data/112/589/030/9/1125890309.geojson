@@ -1,0 +1,85 @@
+{
+  "id": 1125890309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.83576,32.92958,119.83576,32.92958",
+    "geom:latitude":32.92958,
+    "geom:longitude":119.83576,
+    "gn:gn_country":"CN",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"CN",
+    "lbl:latitude":32.92958,
+    "lbl:longitude":119.83576,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Xinghua Shi"
+    ],
+    "name:zho_x_preferred":[
+        "\u90b5\u9633"
+    ],
+    "name:zho_x_variant":[
+        "\u5174\u5316\u5e02"
+    ],
+    "qs_pg:aaroncc":"CN",
+    "qs_pg:gn_country":"CN",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":8262129,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Shaoyang",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":381599,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8262129,
+        "qs_pg:id":381599
+    },
+    "wof:country":"CN",
+    "wof:created":1497295284,
+    "wof:geomhash":"e971cbc80c6a4436a4ef1b62f2140693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516237,
+            "empire_id":136253041,
+            "locality_id":1125890309,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1125890309,
+    "wof:lastmodified":1509398758,
+    "wof:name":"Shaoyang",
+    "wof:parent_id":890516237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.83576,
+    32.92958,
+    119.83576,
+    32.92958
+],
+  "geometry": {"coordinates":[119.83575999999999,32.92958],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209680461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.10286,48.22847,123.10286,48.22847",
+    "geom:latitude":48.22847,
+    "geom:longitude":123.10286,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Xiaobeixing",
+    "gn:country_code":"CN",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439638,
+    "gn:latitude":48.22847,
+    "gn:longitude":123.10286,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Xiaobeixing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5c0f\u5317\u5174"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439638
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6cae3b527514cf24dbc4348e0347c92c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209680461
+        }
+    ],
+    "wof:id":1209680461,
+    "wof:lastmodified":1537603712,
+    "wof:name":"Xiaobeixing",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.10286,
+    48.22847,
+    123.10286,
+    48.22847
+],
+  "geometry": {"coordinates":[123.10286000000001,48.22847],"type":"Point"}
+}

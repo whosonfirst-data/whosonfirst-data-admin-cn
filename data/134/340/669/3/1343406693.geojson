@@ -1,0 +1,78 @@
+{
+  "id": 1343406693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.22092,31.90059,102.22092,31.90059",
+    "geom:latitude":31.90059,
+    "geom:longitude":102.22092,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Barkam",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":2621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1816868,
+    "gn:latitude":31.90059,
+    "gn:longitude":102.22092,
+    "gn:modification_date":"2006-10-20",
+    "gn:name":"Barkam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maerkang"
+    ],
+    "name:und_x_variant":[
+        "Ma-erh-k'ang",
+        "Ssu-t'u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        1108794065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1816868,
+        "wk:page":"Barkam"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b9663bb3d9c39e3f97acbc7ece22ba27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794065,
+            "empire_id":136253041,
+            "locality_id":1343406693,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1343406693,
+    "wof:lastmodified":1537594033,
+    "wof:name":"Barkam",
+    "wof:parent_id":1108794065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.22092,
+    31.90059,
+    102.22092,
+    31.90059
+],
+  "geometry": {"coordinates":[102.22092000000001,31.90059],"type":"Point"}
+}

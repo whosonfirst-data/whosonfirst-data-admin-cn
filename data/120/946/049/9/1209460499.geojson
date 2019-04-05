@@ -1,0 +1,64 @@
+{
+  "id": 1209460499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.479,32.7921,105.479,32.7921",
+    "geom:latitude":32.7921,
+    "geom:longitude":105.479,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Majiaping",
+    "gn:country_code":"CN",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10149443,
+    "gn:latitude":32.7921,
+    "gn:longitude":105.479,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Majiaping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9ebb\u5bb6\u576a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10149443
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"33d2c99e48b1c164ce8dbdf5eaf24786",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209460499
+        }
+    ],
+    "wof:id":1209460499,
+    "wof:lastmodified":1537610420,
+    "wof:name":"Majiaping",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.479,
+    32.7921,
+    105.479,
+    32.7921
+],
+  "geometry": {"coordinates":[105.479,32.7921],"type":"Point"}
+}

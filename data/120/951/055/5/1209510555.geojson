@@ -1,0 +1,64 @@
+{
+  "id": 1209510555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.32761,32.17802,115.32761,32.17802",
+    "geom:latitude":32.17802,
+    "geom:longitude":115.32761,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Quanji",
+    "gn:country_code":"CN",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10422101,
+    "gn:latitude":32.17802,
+    "gn:longitude":115.32761,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Quanji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5168\u96c6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10422101
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8e1b9bb7e1e23f9a9ea7f898550e3523",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209510555
+        }
+    ],
+    "wof:id":1209510555,
+    "wof:lastmodified":1537613407,
+    "wof:name":"Quanji",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.32761,
+    32.17802,
+    115.32761,
+    32.17802
+],
+  "geometry": {"coordinates":[115.32761000000001,32.17802],"type":"Point"}
+}

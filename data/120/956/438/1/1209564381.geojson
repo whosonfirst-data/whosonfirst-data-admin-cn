@@ -1,0 +1,64 @@
+{
+  "id": 1209564381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.11883,28.42647,103.11883,28.42647",
+    "geom:latitude":28.42647,
+    "geom:longitude":103.11883,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Longmen",
+    "gn:country_code":"CN",
+    "gn:dem":1974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6963557,
+    "gn:latitude":28.42647,
+    "gn:longitude":103.11883,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Longmen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9f99\u95e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6963557
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4ba0901bd42ac156b6679a920f1fd521",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209564381
+        }
+    ],
+    "wof:id":1209564381,
+    "wof:lastmodified":1537597015,
+    "wof:name":"Longmen",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.11883,
+    28.42647,
+    103.11883,
+    28.42647
+],
+  "geometry": {"coordinates":[103.11883,28.42647],"type":"Point"}
+}

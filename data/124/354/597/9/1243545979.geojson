@@ -1,0 +1,77 @@
+{
+  "id": 1243545979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.78939,26.25099,117.78939,26.25099",
+    "geom:latitude":26.25099,
+    "geom:longitude":117.78939,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Daluo",
+    "gn:country_code":"CN",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1813981,
+    "gn:latitude":26.25099,
+    "gn:longitude":117.78939,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Daluo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5927\u6d1b",
+        "Daluo Zhen",
+        "\u5927\u6d1b\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u6d1b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1813981
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f35bc1620c4b7b113e05abcfed789d54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516573,
+            "empire_id":136253041,
+            "locality_id":1243545979,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1243545979,
+    "wof:lastmodified":1537593854,
+    "wof:name":"Daluo",
+    "wof:parent_id":890516573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.78939,
+    26.25099,
+    117.78939,
+    26.25099
+],
+  "geometry": {"coordinates":[117.78939,26.25099],"type":"Point"}
+}

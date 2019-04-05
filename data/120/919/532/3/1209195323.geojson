@@ -1,0 +1,66 @@
+{
+  "id": 1209195323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.19333,27.84222,110.19333,27.84222",
+    "geom:latitude":27.84222,
+    "geom:longitude":110.19333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Siqian",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1928973,
+    "gn:latitude":27.84222,
+    "gn:longitude":110.19333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Siqian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siqianpu",
+        "Siqian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1928973
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4fff30db519a263808c825c3b631567b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209195323
+        }
+    ],
+    "wof:id":1209195323,
+    "wof:lastmodified":1537594996,
+    "wof:name":"Siqian",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.19333,
+    27.84222,
+    110.19333,
+    27.84222
+],
+  "geometry": {"coordinates":[110.19333,27.84222],"type":"Point"}
+}

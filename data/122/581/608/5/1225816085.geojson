@@ -1,0 +1,78 @@
+{
+  "id": 1225816085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.0,32.4,80.0,32.4",
+    "geom:latitude":32.4,
+    "geom:longitude":80.0,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jangdong",
+    "gn:country_code":"CN",
+    "gn:dem":4370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8026650,
+    "gn:latitude":32.4,
+    "gn:longitude":80.0,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Jangdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Jangdong"
+    ],
+    "name:zho_x_preferred":[
+        "Jiangdong"
+    ],
+    "name:zho_x_variant":[
+        "\u6c5f\u680b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026650
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"76f85691a23818851f7f92436567910f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732537,
+            "empire_id":136253041,
+            "locality_id":1225816085,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1225816085,
+    "wof:lastmodified":1537602184,
+    "wof:name":"Jangdong",
+    "wof:parent_id":1108732537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.0,
+    32.4,
+    80.0,
+    32.4
+],
+  "geometry": {"coordinates":[80.0,32.4],"type":"Point"}
+}

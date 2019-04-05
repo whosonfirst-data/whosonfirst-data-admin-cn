@@ -1,0 +1,78 @@
+{
+  "id": 1260164145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.101,30.501,98.101,30.501",
+    "geom:latitude":30.501,
+    "geom:longitude":98.101,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ramjor",
+    "gn:country_code":"CN",
+    "gn:dem":3919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8049475,
+    "gn:latitude":30.501,
+    "gn:longitude":98.101,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ramjor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Ramjor"
+    ],
+    "name:zho_x_preferred":[
+        "Ranzu"
+    ],
+    "name:zho_x_variant":[
+        "\u7136\u8db3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8049475
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1975ac97fa267edd6e7a1511744afb3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1260164145,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1260164145,
+    "wof:lastmodified":1537602449,
+    "wof:name":"Ramjor",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.101,
+    30.501,
+    98.101,
+    30.501
+],
+  "geometry": {"coordinates":[98.101,30.501],"type":"Point"}
+}

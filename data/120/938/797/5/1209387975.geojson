@@ -1,0 +1,64 @@
+{
+  "id": 1209387975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.57032,35.39545,105.57032,35.39545",
+    "geom:latitude":35.39545,
+    "geom:longitude":105.57032,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mazui",
+    "gn:country_code":"CN",
+    "gn:dem":1863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7349026,
+    "gn:latitude":35.39545,
+    "gn:longitude":105.57032,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mazui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9a6c\u5634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7349026
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3eab4c761dbf78eb4bbf5e6c3db4e1a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209387975
+        }
+    ],
+    "wof:id":1209387975,
+    "wof:lastmodified":1537598233,
+    "wof:name":"Mazui",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.57032,
+    35.39545,
+    105.57032,
+    35.39545
+],
+  "geometry": {"coordinates":[105.57032,35.39545],"type":"Point"}
+}

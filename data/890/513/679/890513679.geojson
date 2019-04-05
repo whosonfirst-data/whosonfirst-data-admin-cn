@@ -1,0 +1,68 @@
+{
+  "id": 890513679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.20861,39.99417,117.20861,39.99417",
+    "geom:latitude":39.99417,
+    "geom:longitude":117.20861,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":1510,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Baijian",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669817,
+        102191569,
+        85632695,
+        136253041,
+        890513813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1817648,
+        "gp:id":2169259,
+        "qs:id":564163
+    },
+    "wof:country":"CN",
+    "wof:created":1469055831,
+    "wof:geomhash":"37572f1e25474ada4db8517d03d87e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513813,
+            "empire_id":136253041,
+            "locality_id":890513679,
+            "region_id":85669817
+        }
+    ],
+    "wof:id":890513679,
+    "wof:lastmodified":1505343893,
+    "wof:name":"Baijian",
+    "wof:parent_id":890513813,
+    "wof:placetype":"locality",
+    "wof:population":1510,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.20861,
+    39.99417,
+    117.20861,
+    39.99417
+],
+  "geometry": {"coordinates":[117.20860999999999,39.99417],"type":"Point"}
+}

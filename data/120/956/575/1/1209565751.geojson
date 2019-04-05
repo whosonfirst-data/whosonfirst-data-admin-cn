@@ -1,0 +1,64 @@
+{
+  "id": 1209565751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.873,25.6952,100.873,25.6952",
+    "geom:latitude":25.6952,
+    "geom:longitude":100.873,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Liziqing",
+    "gn:country_code":"CN",
+    "gn:dem":2336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10150934,
+    "gn:latitude":25.6952,
+    "gn:longitude":100.873,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Liziqing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u674e\u5b50\u7b90"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10150934
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"cb8c28f13be9fa57f074f8e37937f13a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209565751
+        }
+    ],
+    "wof:id":1209565751,
+    "wof:lastmodified":1537610471,
+    "wof:name":"Liziqing",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.873,
+    25.6952,
+    100.873,
+    25.6952
+],
+  "geometry": {"coordinates":[100.873,25.6952],"type":"Point"}
+}

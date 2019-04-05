@@ -1,0 +1,76 @@
+{
+  "id": 1360141505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.36863,33.17752,108.36863,33.17752",
+    "geom:latitude":33.17752,
+    "geom:longitude":108.36863,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Sanguanmiao",
+    "gn:country_code":"CN",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1796863,
+    "gn:latitude":33.17752,
+    "gn:longitude":108.36863,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Sanguanmiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San-kuan-miao",
+        "Sanguanmiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u5b98\u5e99"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1796863
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"00b8a050249fd709805803e77c2e4007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515101,
+            "empire_id":136253041,
+            "locality_id":1360141505,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1360141505,
+    "wof:lastmodified":1537592764,
+    "wof:name":"Sanguanmiao",
+    "wof:parent_id":890515101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.36863,
+    33.17752,
+    108.36863,
+    33.17752
+],
+  "geometry": {"coordinates":[108.36863,33.17752],"type":"Point"}
+}

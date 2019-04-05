@@ -1,0 +1,75 @@
+{
+  "id": 1310505371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.31409,33.0849,115.31409,33.0849",
+    "geom:latitude":33.0849,
+    "geom:longitude":115.31409,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gaoxiangcun",
+    "gn:country_code":"CN",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10357855,
+    "gn:latitude":33.0849,
+    "gn:longitude":115.31409,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Gaoxiangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9ad8\u6a61\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u9ad8\u9879\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890516677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10357855
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"497c4609bc8b8205953bc8861c1ec619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516677,
+            "empire_id":136253041,
+            "locality_id":1310505371,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1310505371,
+    "wof:lastmodified":1537612452,
+    "wof:name":"Gaoxiangcun",
+    "wof:parent_id":890516677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.31409,
+    33.0849,
+    115.31409,
+    33.0849
+],
+  "geometry": {"coordinates":[115.31408999999999,33.0849],"type":"Point"}
+}

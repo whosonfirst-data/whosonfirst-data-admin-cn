@@ -1,0 +1,64 @@
+{
+  "id": 1209397403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.21342,34.1211,103.21342,34.1211",
+    "geom:latitude":34.1211,
+    "geom:longitude":103.21342,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zhanka",
+    "gn:country_code":"CN",
+    "gn:dem":2860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7343003,
+    "gn:latitude":34.1211,
+    "gn:longitude":103.21342,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhanka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5360\u5361"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7343003
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ba97e043e162b72bee9bf825dd465c3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209397403
+        }
+    ],
+    "wof:id":1209397403,
+    "wof:lastmodified":1537598142,
+    "wof:name":"Zhanka",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.21342,
+    34.1211,
+    103.21342,
+    34.1211
+],
+  "geometry": {"coordinates":[103.21342,34.1211],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209685151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.372,23.6234,108.372,23.6234",
+    "geom:latitude":23.6234,
+    "geom:longitude":108.372,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Shangba",
+    "gn:country_code":"CN",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9929301,
+    "gn:latitude":23.6234,
+    "gn:longitude":108.372,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Shangba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e0a\u575d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9929301
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"16ba2f316ad1b2675e7fb05a14a33ec5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209685151
+        }
+    ],
+    "wof:id":1209685151,
+    "wof:lastmodified":1537607618,
+    "wof:name":"Shangba",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.372,
+    23.6234,
+    108.372,
+    23.6234
+],
+  "geometry": {"coordinates":[108.372,23.6234],"type":"Point"}
+}

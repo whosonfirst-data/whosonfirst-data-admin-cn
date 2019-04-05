@@ -1,0 +1,85 @@
+{
+  "id": 890516999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.32528,27.04694,118.32528,27.04694",
+    "geom:latitude":27.04694,
+    "geom:longitude":118.32528,
+    "gn:country":"CN",
+    "gn:fcode":"PPLA3",
+    "gn:pop":59187,
+    "gp:adm0":23424781,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Kienning"
+    ],
+    "name:zho_x_preferred":[
+        "Jian\u2019ou"
+    ],
+    "name:zho_x_variant":[
+        "\u5efa\u74ef",
+        "\u5efa\u74ef\u5e02",
+        "\u829d\u57ce"
+    ],
+    "qs:name":"\u5efa\u74ef\u5e02",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u798f\u5efa\u7701",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1806167,
+        "gp:id":12685734,
+        "qs:id":258831
+    },
+    "wof:country":"CN",
+    "wof:created":1469055990,
+    "wof:geomhash":"4906604c5c891018e20a3c82884e06e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516651,
+            "empire_id":136253041,
+            "localadmin_id":890516999,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":890516999,
+    "wof:lastmodified":1505343904,
+    "wof:name":"\u5efa\u74ef\u5e02",
+    "wof:parent_id":890516651,
+    "wof:placetype":"localadmin",
+    "wof:population":59187,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.32528,
+    27.04694,
+    118.32528,
+    27.04694
+],
+  "geometry": {"coordinates":[118.32528000000001,27.04694],"type":"Point"}
+}

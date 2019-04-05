@@ -1,0 +1,79 @@
+{
+  "id": 890517235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.42832,32.0126,106.42832,32.0126",
+    "geom:latitude":32.0126,
+    "geom:longitude":106.42832,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":1000,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043c\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Shih-ma-ch\u2019ang"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u9a6c"
+    ],
+    "qs:name":"Shima",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":251,
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890512741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1795163,
+        "gp:id":2158099,
+        "qs:id":560652,
+        "wk:page":"Shima"
+    },
+    "wof:country":"CN",
+    "wof:created":1469055999,
+    "wof:geomhash":"9bce94df367ecb90feddc1f74ca1626a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512741,
+            "empire_id":136253041,
+            "locality_id":890517235,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":890517235,
+    "wof:lastmodified":1527749994,
+    "wof:name":"Shima",
+    "wof:parent_id":890512741,
+    "wof:placetype":"locality",
+    "wof:population":1000,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.42832,
+    32.0126,
+    106.42832,
+    32.0126
+],
+  "geometry": {"coordinates":[106.42832,32.0126],"type":"Point"}
+}

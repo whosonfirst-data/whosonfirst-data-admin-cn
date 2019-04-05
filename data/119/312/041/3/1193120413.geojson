@@ -1,0 +1,78 @@
+{
+  "id": 1193120413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.1,30.6,90.1,30.6",
+    "geom:latitude":30.6,
+    "geom:longitude":90.1,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kaimar",
+    "gn:country_code":"CN",
+    "gn:dem":4864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8042379,
+    "gn:latitude":30.6,
+    "gn:longitude":90.1,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kaimar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Kaimar"
+    ],
+    "name:zho_x_preferred":[
+        "Kema"
+    ],
+    "name:zho_x_variant":[
+        "\u514b\u739b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8042379
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7276de83042d3abc9c5643464905cebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1193120413,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1193120413,
+    "wof:lastmodified":1537602355,
+    "wof:name":"Kaimar",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.1,
+    30.6,
+    90.1,
+    30.6
+],
+  "geometry": {"coordinates":[90.09999999999999,30.6],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1243556119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.472,28.71287,117.472,28.71287",
+    "geom:latitude":28.71287,
+    "geom:longitude":117.472,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Wancun",
+    "gn:country_code":"CN",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1792184,
+    "gn:latitude":28.71287,
+    "gn:longitude":117.472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wancun Xiang",
+        "\u4e07\u6751\u4e61",
+        "Wancun"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e07\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669823,
+        102191569,
+        85632695,
+        136253041,
+        890515869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1792184
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"09c8772314878f0d7972a2f36819130b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515869,
+            "empire_id":136253041,
+            "locality_id":1243556119,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":1243556119,
+    "wof:lastmodified":1537592449,
+    "wof:name":"Wancun",
+    "wof:parent_id":890515869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.472,
+    28.71287,
+    117.472,
+    28.71287
+],
+  "geometry": {"coordinates":[117.47199999999999,28.71287],"type":"Point"}
+}

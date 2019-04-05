@@ -1,0 +1,76 @@
+{
+  "id": 1276942777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.41417,42.50111,123.41417,42.50111",
+    "geom:latitude":42.50111,
+    "geom:longitude":123.41417,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Faku",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2037433,
+    "gn:latitude":42.50111,
+    "gn:longitude":123.41417,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Faku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fa-k\u2019u-hsien",
+        "Fak\u2019umen",
+        "Fa-k\u2019u-chen",
+        "Faku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2037433
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3399436c27eca37fa29ea8fdee22fafe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732451,
+            "empire_id":136253041,
+            "locality_id":1276942777,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1276942777,
+    "wof:lastmodified":1537595827,
+    "wof:name":"Faku",
+    "wof:parent_id":1108732451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.41417,
+    42.50111,
+    123.41417,
+    42.50111
+],
+  "geometry": {"coordinates":[123.41417,42.50111],"type":"Point"}
+}

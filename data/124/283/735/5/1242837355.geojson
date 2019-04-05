@@ -1,0 +1,69 @@
+{
+  "id": 1242837355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.30583,28.32333,107.30583,28.32333",
+    "geom:latitude":28.32333,
+    "geom:longitude":107.30583,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Anjia",
+    "gn:country_code":"CN",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1550595,
+    "gn:latitude":28.32333,
+    "gn:longitude":107.30583,
+    "gn:modification_date":"1999-01-28",
+    "gn:name":"Anjia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669721,
+        102191569,
+        85632695,
+        136253041,
+        890516473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1550595
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6337444c1d3edc587114566674c641fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516473,
+            "empire_id":136253041,
+            "locality_id":1242837355,
+            "region_id":85669721
+        }
+    ],
+    "wof:id":1242837355,
+    "wof:lastmodified":1536689747,
+    "wof:name":"Anjia",
+    "wof:parent_id":890516473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.30583,
+    28.32333,
+    107.30583,
+    28.32333
+],
+  "geometry": {"coordinates":[107.30583,28.32333],"type":"Point"}
+}

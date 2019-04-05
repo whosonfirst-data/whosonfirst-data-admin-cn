@@ -1,0 +1,76 @@
+{
+  "id": 1259860325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.51667,27.91667,112.51667,27.91667",
+    "geom:latitude":27.91667,
+    "geom:longitude":112.51667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Shaoshan",
+    "gn:country_code":"CN",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1795860,
+    "gn:latitude":27.91667,
+    "gn:longitude":112.51667,
+    "gn:modification_date":"2016-01-04",
+    "gn:name":"Shaoshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u97f6\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "\u97f6\u5c71\u5e02"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        1108732467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1795860,
+        "wk:page":"Shaoshan"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8ef447da95db94e367a19b278667d051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732467,
+            "empire_id":136253041,
+            "locality_id":1259860325,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1259860325,
+    "wof:lastmodified":1537592697,
+    "wof:name":"Shaoshan",
+    "wof:parent_id":1108732467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.51667,
+    27.91667,
+    112.51667,
+    27.91667
+],
+  "geometry": {"coordinates":[112.51667,27.91667],"type":"Point"}
+}

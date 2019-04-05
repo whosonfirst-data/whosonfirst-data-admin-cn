@@ -1,0 +1,75 @@
+{
+  "id": 1310440831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.51172,19.79903,109.51172,19.79903",
+    "geom:latitude":19.79903,
+    "geom:longitude":109.51172,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Sucun Nongchang",
+    "gn:country_code":"CN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":7639932,
+    "gn:latitude":19.79903,
+    "gn:longitude":109.51172,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sucun Nongchang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sucun",
+        "Sucun Nongchang",
+        "\u82cf\u6751\u519c\u573a"
+    ],
+    "name:zho_x_preferred":[
+        "\u82cf\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632695,
+        85669759,
+        1108732359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7639932
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"dc6c330f3716d1e14b840554e6e57c93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732359,
+            "locality_id":1310440831,
+            "region_id":85669759
+        }
+    ],
+    "wof:id":1310440831,
+    "wof:lastmodified":1537600424,
+    "wof:name":"Sucun Nongchang",
+    "wof:parent_id":1108732359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.51172,
+    19.79903,
+    109.51172,
+    19.79903
+],
+  "geometry": {"coordinates":[109.51172,19.79903],"type":"Point"}
+}

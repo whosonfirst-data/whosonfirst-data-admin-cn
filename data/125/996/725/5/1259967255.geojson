@@ -1,0 +1,75 @@
+{
+  "id": 1259967255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.565,28.96555,111.565,28.96555",
+    "geom:latitude":28.96555,
+    "geom:longitude":111.565,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zhongluo Jiagang",
+    "gn:country_code":"CN",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8134630,
+    "gn:latitude":28.96555,
+    "gn:longitude":111.565,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zhongluo Jiagang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Zhongluo Jiagang"
+    ],
+    "name:zho_x_variant":[
+        "\u4e2d\u7f57\u5bb6\u5c97"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890515867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8134630
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"001a2c866cc22b8dac5a0f0c5082ca99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515867,
+            "empire_id":136253041,
+            "locality_id":1259967255,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1259967255,
+    "wof:lastmodified":1537602594,
+    "wof:name":"Zhongluo Jiagang",
+    "wof:parent_id":890515867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.565,
+    28.96555,
+    111.565,
+    28.96555
+],
+  "geometry": {"coordinates":[111.565,28.96555],"type":"Point"}
+}

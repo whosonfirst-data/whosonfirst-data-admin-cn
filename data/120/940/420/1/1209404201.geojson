@@ -1,0 +1,64 @@
+{
+  "id": 1209404201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.74531,35.06171,112.74531,35.06171",
+    "geom:latitude":35.06171,
+    "geom:longitude":112.74531,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Shicun",
+    "gn:country_code":"CN",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10362525,
+    "gn:latitude":35.06171,
+    "gn:longitude":112.74531,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Shicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u53f2\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10362525
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"346160ecc52c087639e50f2d8019738a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209404201
+        }
+    ],
+    "wof:id":1209404201,
+    "wof:lastmodified":1537612612,
+    "wof:name":"Shicun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.74531,
+    35.06171,
+    112.74531,
+    35.06171
+],
+  "geometry": {"coordinates":[112.74531,35.06171],"type":"Point"}
+}

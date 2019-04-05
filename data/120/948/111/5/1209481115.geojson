@@ -1,0 +1,64 @@
+{
+  "id": 1209481115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.347,26.706,104.347,26.706",
+    "geom:latitude":26.706,
+    "geom:longitude":104.347,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Laoyuanzi",
+    "gn:country_code":"CN",
+    "gn:dem":1661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10019095,
+    "gn:latitude":26.706,
+    "gn:longitude":104.347,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Laoyuanzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8001\u9662\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10019095
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8b068a77caebe093412ba7c1dc84138e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209481115
+        }
+    ],
+    "wof:id":1209481115,
+    "wof:lastmodified":1537609051,
+    "wof:name":"Laoyuanzi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.347,
+    26.706,
+    104.347,
+    26.706
+],
+  "geometry": {"coordinates":[104.34699999999999,26.706],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1209873999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.7839,36.0151,111.7839,36.0151",
+    "geom:latitude":36.0151,
+    "geom:longitude":111.7839,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Xizuo",
+    "gn:country_code":"CN",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1788087,
+    "gn:latitude":36.0151,
+    "gn:longitude":111.7839,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Xizuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsi-tso-ts\u2019un",
+        "Hsi-tso",
+        "Xizuo"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u4f50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        1108732337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1788087
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9d7a1a3235feee5d6434cee6a512ddcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732337,
+            "empire_id":136253041,
+            "locality_id":1209873999,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1209873999,
+    "wof:lastmodified":1537592168,
+    "wof:name":"Xizuo",
+    "wof:parent_id":1108732337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.7839,
+    36.0151,
+    111.7839,
+    36.0151
+],
+  "geometry": {"coordinates":[111.7839,36.0151],"type":"Point"}
+}

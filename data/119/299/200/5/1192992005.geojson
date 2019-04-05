@@ -1,0 +1,84 @@
+{
+  "id": 1192992005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.404,27.804,87.404,27.804",
+    "geom:latitude":27.804,
+    "geom:longitude":87.404,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zagar",
+    "gn:country_code":"CN",
+    "gn:dem":3226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8078931,
+    "gn:latitude":27.804,
+    "gn:longitude":87.404,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Zagar"
+    ],
+    "name:zho_x_preferred":[
+        "Zangga"
+    ],
+    "name:zho_x_variant":[
+        "\u85cf\u560e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8078931
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0767e90e3ffd3a557f8791e51b66cd0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1192992005,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1192992005,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1192992005,
+    "wof:lastmodified":1537602575,
+    "wof:name":"Zagar",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.404,
+    27.804,
+    87.404,
+    27.804
+],
+  "geometry": {"coordinates":[87.404,27.804],"type":"Point"}
+}

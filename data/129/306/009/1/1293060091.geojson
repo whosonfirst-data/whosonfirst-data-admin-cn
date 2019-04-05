@@ -1,0 +1,88 @@
+{
+  "id": 1293060091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.639,36.5641,105.639,36.5641",
+    "geom:latitude":36.5641,
+    "geom:longitude":105.639,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Sanhe",
+    "gn:country_code":"CN",
+    "gn:dem":1853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1809008,
+    "gn:latitude":36.5641,
+    "gn:longitude":105.639,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Sanhe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khaychen",
+        "Hai-y\u00fcan-hsien",
+        "Khayyuan\u2019",
+        "Haiyuan",
+        "Haicheng",
+        "Sanhe",
+        "Haiyuan Xian",
+        "Haicheng Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u6cb3"
+    ],
+    "name:zho_x_variant":[
+        "\u6d77\u539f\u53bf",
+        "\u6d77\u57ce\u9547",
+        "\u6d77\u57ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669763,
+        102191569,
+        85632695,
+        136253041,
+        890512733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1809008,
+        "wk:page":"Haicheng%2C_Ningxia"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"afa4ff43b8b080dd9ec2771678fbd68e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512733,
+            "empire_id":136253041,
+            "locality_id":1293060091,
+            "region_id":85669763
+        }
+    ],
+    "wof:id":1293060091,
+    "wof:lastmodified":1537593541,
+    "wof:name":"Sanhe",
+    "wof:parent_id":890512733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.639,
+    36.5641,
+    105.639,
+    36.5641
+],
+  "geometry": {"coordinates":[105.639,36.5641],"type":"Point"}
+}

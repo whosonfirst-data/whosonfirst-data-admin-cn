@@ -1,0 +1,76 @@
+{
+  "id": 1226593113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.59286,29.08405,105.59286,29.08405",
+    "geom:latitude":29.08405,
+    "geom:longitude":105.59286,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Dabaoshan",
+    "gn:country_code":"CN",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1904201,
+    "gn:latitude":29.08405,
+    "gn:longitude":105.59286,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dabaoshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baoshan",
+        "Dabaoshan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u5b9d\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890514155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1904201
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"334d0b5362d9f0285d9dcade10d694eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514155,
+            "empire_id":136253041,
+            "locality_id":1226593113,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1226593113,
+    "wof:lastmodified":1537594502,
+    "wof:name":"Dabaoshan",
+    "wof:parent_id":890514155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.59286000000002,
+    29.08405,
+    105.59286000000002,
+    29.08405
+],
+  "geometry": {"coordinates":[105.59286000000002,29.08405],"type":"Point"}
+}

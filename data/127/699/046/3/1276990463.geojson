@@ -1,0 +1,91 @@
+{
+  "id": 1276990463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.33564,31.27284,118.33564,31.27284",
+    "geom:latitude":31.27284,
+    "geom:longitude":118.33564,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lugang",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1802127,
+    "gn:latitude":31.27284,
+    "gn:longitude":118.33564,
+    "gn:modification_date":"2016-04-08",
+    "gn:name":"Lugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_historical":[
+        "Lu Kiang"
+    ],
+    "name:eng_x_preferred":[
+        "Lu Kiang"
+    ],
+    "name:und_x_variant":[
+        "Wu-hu-hsien",
+        "Lu-chiang",
+        "Wu-hu",
+        "Lu-kang-chen",
+        "Lu-kang",
+        "Lugang",
+        "Lugang Zhen",
+        "Wu Chi Yang"
+    ],
+    "name:zho_x_preferred":[
+        "\u9c81\u6e2f"
+    ],
+    "name:zho_x_variant":[
+        "\u9c81\u6e2f\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890513093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1802127
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4543bad801cc5157d29c0063f9abbcd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513093,
+            "empire_id":136253041,
+            "locality_id":1276990463,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1276990463,
+    "wof:lastmodified":1537593099,
+    "wof:name":"Lugang",
+    "wof:parent_id":890513093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.33563999999998,
+    31.27284,
+    118.33563999999998,
+    31.27284
+],
+  "geometry": {"coordinates":[118.33563999999998,31.27284],"type":"Point"}
+}

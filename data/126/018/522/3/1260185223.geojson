@@ -1,0 +1,77 @@
+{
+  "id": 1260185223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.93364,30.06028,118.93364,30.06028",
+    "geom:latitude":30.06028,
+    "geom:longitude":118.93364,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Shunxi",
+    "gn:country_code":"CN",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1794336,
+    "gn:latitude":30.06028,
+    "gn:longitude":118.93364,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shunxi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shenchi",
+        "Cheng-ch\u2019i",
+        "Shun-ch\u2019i",
+        "Ch\u2019un-ch\u2019i",
+        "Shunxi",
+        "\u987a\u6eaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1794336
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7aa741ee2083c226a466a96f82cd912a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516555,
+            "empire_id":136253041,
+            "locality_id":1260185223,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1260185223,
+    "wof:lastmodified":1537592592,
+    "wof:name":"Shunxi",
+    "wof:parent_id":890516555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.93364,
+    30.06028,
+    118.93364,
+    30.06028
+],
+  "geometry": {"coordinates":[118.93364,30.06028],"type":"Point"}
+}

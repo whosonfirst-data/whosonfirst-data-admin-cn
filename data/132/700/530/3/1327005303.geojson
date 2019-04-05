@@ -1,0 +1,80 @@
+{
+  "id": 1327005303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.7,25.3,105.7,25.3",
+    "geom:latitude":25.3,
+    "geom:longitude":105.7,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Mingu",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1800496,
+    "gn:latitude":25.3,
+    "gn:longitude":105.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mingu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chengfeng",
+        "Zhenfeng",
+        "Chen-feng-pu-i-tsu-miao-tsu-tzu-chih-hsien",
+        "Chengfengchow",
+        "Chengfeng-hsien",
+        "Chen-feng",
+        "Chen-feng-hsien",
+        "Mingu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669721,
+        102191569,
+        85632695,
+        136253041,
+        1108732559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1800496
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"74cdfb81e63dcc96718c3fa9957c83a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732559,
+            "empire_id":136253041,
+            "locality_id":1327005303,
+            "region_id":85669721
+        }
+    ],
+    "wof:id":1327005303,
+    "wof:lastmodified":1537592990,
+    "wof:name":"Mingu",
+    "wof:parent_id":1108732559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.7,
+    25.3,
+    105.7,
+    25.3
+],
+  "geometry": {"coordinates":[105.7,25.3],"type":"Point"}
+}

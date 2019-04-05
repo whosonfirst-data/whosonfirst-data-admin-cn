@@ -1,0 +1,76 @@
+{
+  "id": 1344233887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.05573,30.60881,111.05573,30.60881",
+    "geom:latitude":30.60881,
+    "geom:longitude":111.05573,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Gaojiayan",
+    "gn:country_code":"CN",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1810513,
+    "gn:latitude":30.60881,
+    "gn:longitude":111.05573,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gaojiayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kao-chia-yen",
+        "Gaojiayan",
+        "\u9ad8\u5bb6\u5830",
+        "Gaojiayan Zhen",
+        "\u9ad8\u5bb6\u5830\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        890513331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1810513
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1fb5d6ede39a1dad0e4d11e7294c6ee5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513331,
+            "empire_id":136253041,
+            "locality_id":1344233887,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1344233887,
+    "wof:lastmodified":1537593641,
+    "wof:name":"Gaojiayan",
+    "wof:parent_id":890513331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.05573,
+    30.60881,
+    111.05573,
+    30.60881
+],
+  "geometry": {"coordinates":[111.05573,30.60881],"type":"Point"}
+}

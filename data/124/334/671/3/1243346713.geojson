@@ -1,0 +1,78 @@
+{
+  "id": 1243346713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.905,29.605,90.905,29.605",
+    "geom:latitude":29.605,
+    "geom:longitude":90.905,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Naiqung",
+    "gn:country_code":"CN",
+    "gn:dem":5069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8537988,
+    "gn:latitude":29.605,
+    "gn:longitude":90.905,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Naiqung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Naiqung"
+    ],
+    "name:und_x_variant":[
+        "Naiqiong"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e43\u743c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537988
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"af1c18407a531ada9e0e8ef88d7c7bb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515877,
+            "empire_id":136253041,
+            "locality_id":1243346713,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1243346713,
+    "wof:lastmodified":1537604365,
+    "wof:name":"Naiqung",
+    "wof:parent_id":890515877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.905,
+    29.605,
+    90.905,
+    29.605
+],
+  "geometry": {"coordinates":[90.905,29.605],"type":"Point"}
+}

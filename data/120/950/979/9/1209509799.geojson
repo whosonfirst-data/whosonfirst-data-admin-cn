@@ -1,0 +1,64 @@
+{
+  "id": 1209509799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.65312,38.75078,114.65312,38.75078",
+    "geom:latitude":38.75078,
+    "geom:longitude":114.65312,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Huiling",
+    "gn:country_code":"CN",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8562207,
+    "gn:latitude":38.75078,
+    "gn:longitude":114.65312,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Huiling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u8f89\u5cad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8562207
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1f9bc01885678f3dac97c76a71ec6291",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209509799
+        }
+    ],
+    "wof:id":1209509799,
+    "wof:lastmodified":1537604574,
+    "wof:name":"Huiling",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.65312,
+    38.75078,
+    114.65312,
+    38.75078
+],
+  "geometry": {"coordinates":[114.65312,38.75078],"type":"Point"}
+}

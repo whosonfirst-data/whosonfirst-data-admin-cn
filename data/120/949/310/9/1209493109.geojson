@@ -1,0 +1,64 @@
+{
+  "id": 1209493109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.25875,25.87384,113.25875,25.87384",
+    "geom:latitude":25.87384,
+    "geom:longitude":113.25875,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yangjia",
+    "gn:country_code":"CN",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9800054,
+    "gn:latitude":25.87384,
+    "gn:longitude":113.25875,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Yangjia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6768\u5bb6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9800054
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"cd4ec349c1dede93b7fbc35bd801c8d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209493109
+        }
+    ],
+    "wof:id":1209493109,
+    "wof:lastmodified":1537606318,
+    "wof:name":"Yangjia",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.25875,
+    25.87384,
+    113.25875,
+    25.87384
+],
+  "geometry": {"coordinates":[113.25875000000001,25.87384],"type":"Point"}
+}

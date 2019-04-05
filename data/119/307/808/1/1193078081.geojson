@@ -1,0 +1,75 @@
+{
+  "id": 1193078081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.59203,32.02369,108.59203,32.02369",
+    "geom:latitude":32.02369,
+    "geom:longitude":108.59203,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Zhong'an",
+    "gn:country_code":"CN",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8397595,
+    "gn:latitude":32.02369,
+    "gn:longitude":108.59203,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Zhong\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhong\u2019an"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u5b89"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669725,
+        102191569,
+        85632695,
+        136253041,
+        890513063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8397595
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b0505e5c25a8f2a494023e7d28c69e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513063,
+            "empire_id":136253041,
+            "locality_id":1193078081,
+            "region_id":85669725
+        }
+    ],
+    "wof:id":1193078081,
+    "wof:lastmodified":1537603234,
+    "wof:name":"Zhong'an",
+    "wof:parent_id":890513063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.59203,
+    32.02369,
+    108.59203,
+    32.02369
+],
+  "geometry": {"coordinates":[108.59202999999999,32.02369],"type":"Point"}
+}

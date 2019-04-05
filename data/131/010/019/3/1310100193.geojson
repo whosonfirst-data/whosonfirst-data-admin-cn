@@ -1,0 +1,78 @@
+{
+  "id": 1310100193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.8005,45.87679,128.8005,45.87679",
+    "geom:latitude":45.87679,
+    "geom:longitude":128.8005,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Songnan",
+    "gn:country_code":"CN",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8524088,
+    "gn:latitude":45.87679,
+    "gn:longitude":128.8005,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Songnan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Songnan Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u677e\u5357"
+    ],
+    "name:zho_x_variant":[
+        "\u677e\u5357\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890516235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8524088
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"274aa3004798f8262502e50f8569400b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516235,
+            "empire_id":136253041,
+            "locality_id":1310100193,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1310100193,
+    "wof:lastmodified":1537604272,
+    "wof:name":"Songnan",
+    "wof:parent_id":890516235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.8005,
+    45.87679,
+    128.8005,
+    45.87679
+],
+  "geometry": {"coordinates":[128.8005,45.87679],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209279783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.505,40.9161,125.505,40.9161",
+    "geom:latitude":40.9161,
+    "geom:longitude":125.505,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Sidaogou",
+    "gn:country_code":"CN",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11505613,
+    "gn:latitude":40.9161,
+    "gn:longitude":125.505,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sidaogou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u56db\u9053\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11505613
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2c19dae6b65a825398e558f57e21b474",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209279783
+        }
+    ],
+    "wof:id":1209279783,
+    "wof:lastmodified":1537617082,
+    "wof:name":"Sidaogou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.505,
+    40.9161,
+    125.505,
+    40.9161
+],
+  "geometry": {"coordinates":[125.505,40.9161],"type":"Point"}
+}

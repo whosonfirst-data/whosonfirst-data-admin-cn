@@ -1,0 +1,75 @@
+{
+  "id": 1243154581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.48209,33.94452,104.48209,33.94452",
+    "geom:latitude":33.94452,
+    "geom:longitude":104.48209,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zhoujiayu",
+    "gn:country_code":"CN",
+    "gn:dem":1983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7348166,
+    "gn:latitude":33.94452,
+    "gn:longitude":104.48209,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhoujiayu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5468\u5bb6\u5cea"
+    ],
+    "name:zho_x_preferred":[
+        "\u5468\u5bb6\u5cea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669711,
+        102191569,
+        85632695,
+        136253041,
+        890516335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7348166
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"789cccb56e48748d87d80b74bc7df3c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516335,
+            "empire_id":136253041,
+            "locality_id":1243154581,
+            "region_id":85669711
+        }
+    ],
+    "wof:id":1243154581,
+    "wof:lastmodified":1537598202,
+    "wof:name":"Zhoujiayu",
+    "wof:parent_id":890516335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.48209,
+    33.94452,
+    104.48209,
+    33.94452
+],
+  "geometry": {"coordinates":[104.48209,33.94452],"type":"Point"}
+}

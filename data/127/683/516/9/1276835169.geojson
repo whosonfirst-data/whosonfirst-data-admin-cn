@@ -1,0 +1,76 @@
+{
+  "id": 1276835169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.61184,40.79241,125.61184,40.79241",
+    "geom:latitude":40.79241,
+    "geom:longitude":125.61184,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Lujiangcun",
+    "gn:country_code":"CN",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2035922,
+    "gn:latitude":40.79241,
+    "gn:longitude":125.61184,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"L\u00fcjiangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00fcjiang",
+        "L\u00fcjiangcun"
+    ],
+    "name:zho_x_preferred":[
+        "\u7eff\u6c5f\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2035922
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fc60bcf85cd12e72aab978659ef77b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514725,
+            "empire_id":136253041,
+            "locality_id":1276835169,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1276835169,
+    "wof:lastmodified":1537595744,
+    "wof:name":"Lujiangcun",
+    "wof:parent_id":890514725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.61184,
+    40.79241,
+    125.61184,
+    40.79241
+],
+  "geometry": {"coordinates":[125.61184,40.79241],"type":"Point"}
+}

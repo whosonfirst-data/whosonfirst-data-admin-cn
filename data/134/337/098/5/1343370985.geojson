@@ -1,0 +1,77 @@
+{
+  "id": 1343370985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.99363,30.77019,120.99363,30.77019",
+    "geom:latitude":30.77019,
+    "geom:longitude":120.99363,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zhongdai",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1784431,
+    "gn:latitude":30.77019,
+    "gn:longitude":120.99363,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhongdai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chung-tai-chen",
+        "Chung-tai",
+        "Zhongdai",
+        "\u949f\u57ed",
+        "Zhongdaizhen",
+        "\u949f\u57ed\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890514635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1784431
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"82431af7ef38e52d0edf6b16d5bc6bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514635,
+            "empire_id":136253041,
+            "locality_id":1343370985,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1343370985,
+    "wof:lastmodified":1537591925,
+    "wof:name":"Zhongdai",
+    "wof:parent_id":890514635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.99363,
+    30.77019,
+    120.99363,
+    30.77019
+],
+  "geometry": {"coordinates":[120.99363,30.77019],"type":"Point"}
+}

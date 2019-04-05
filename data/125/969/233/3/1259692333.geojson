@@ -1,0 +1,78 @@
+{
+  "id": 1259692333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.11591,30.71753,121.11591,30.71753",
+    "geom:latitude":30.71753,
+    "geom:longitude":121.11591,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zhouxucun",
+    "gn:country_code":"CN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1881393,
+    "gn:latitude":30.71753,
+    "gn:longitude":121.11591,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Zhouxucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gongjian",
+        "Chou-chia-y\u00fc-chen",
+        "Zhoujiawei",
+        "Zhouxucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5468\u5729\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890514635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1881393
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"58fc6238de0f126ac10b427e2a8860db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514635,
+            "empire_id":136253041,
+            "locality_id":1259692333,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1259692333,
+    "wof:lastmodified":1537594135,
+    "wof:name":"Zhouxucun",
+    "wof:parent_id":890514635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.11591,
+    30.71753,
+    121.11591,
+    30.71753
+],
+  "geometry": {"coordinates":[121.11591,30.71753],"type":"Point"}
+}

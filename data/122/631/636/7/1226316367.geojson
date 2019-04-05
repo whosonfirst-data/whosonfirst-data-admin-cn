@@ -1,0 +1,80 @@
+{
+  "id": 1226316367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.508,32.008,93.508,32.008",
+    "geom:latitude":32.008,
+    "geom:longitude":93.508,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zasib",
+    "gn:country_code":"CN",
+    "gn:dem":4365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8067018,
+    "gn:latitude":32.008,
+    "gn:longitude":93.508,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zasib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Zasib"
+    ],
+    "name:zho_x_preferred":[
+        "Zhasai"
+    ],
+    "name:zho_x_variant":[
+        "\u624e\u8d5b",
+        "Pengdatang",
+        "\u5f6d\u8fbe\u5858"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8067018
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e29b7750ad08c6ae6edd0e4335885784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1226316367,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226316367,
+    "wof:lastmodified":1537602529,
+    "wof:name":"Zasib",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.508,
+    32.008,
+    93.508,
+    32.008
+],
+  "geometry": {"coordinates":[93.508,32.008],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1260288241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.5397,30.94648,118.5397,30.94648",
+    "geom:latitude":30.94648,
+    "geom:longitude":118.5397,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Laowucun",
+    "gn:country_code":"CN",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7638358,
+    "gn:latitude":30.94648,
+    "gn:longitude":118.5397,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"Laowucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laowu",
+        "Laowucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u8001\u5c4b"
+    ],
+    "name:zho_x_variant":[
+        "\u8001\u5c4b\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890515063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7638358
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fc00d8ac381dcb40cff12467f39019c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515063,
+            "empire_id":136253041,
+            "locality_id":1260288241,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1260288241,
+    "wof:lastmodified":1537600404,
+    "wof:name":"Laowucun",
+    "wof:parent_id":890515063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.5397,
+    30.94648,
+    118.5397,
+    30.94648
+],
+  "geometry": {"coordinates":[118.5397,30.94648],"type":"Point"}
+}

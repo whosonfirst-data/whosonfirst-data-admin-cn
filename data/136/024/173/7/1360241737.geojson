@@ -1,0 +1,76 @@
+{
+  "id": 1360241737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.24222,37.34333,110.24222,37.34333",
+    "geom:latitude":37.34333,
+    "geom:longitude":110.24222,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Haojiayan",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1808826,
+    "gn:latitude":37.34333,
+    "gn:longitude":110.24222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Haojiayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chu-chia-hsien",
+        "Ho-chia-yen",
+        "Hao-chia-yen",
+        "Haojiayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1808826
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"697dac7ef878090b3133e18e16677f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515097,
+            "empire_id":136253041,
+            "locality_id":1360241737,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1360241737,
+    "wof:lastmodified":1537593530,
+    "wof:name":"Haojiayan",
+    "wof:parent_id":890515097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.24222,
+    37.34333,
+    110.24222,
+    37.34333
+],
+  "geometry": {"coordinates":[110.24222,37.34333],"type":"Point"}
+}

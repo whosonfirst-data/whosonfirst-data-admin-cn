@@ -1,0 +1,64 @@
+{
+  "id": 1209168245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.32603,31.35844,109.32603,31.35844",
+    "geom:latitude":31.35844,
+    "geom:longitude":109.32603,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Qishu",
+    "gn:country_code":"CN",
+    "gn:dem":1221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8398072,
+    "gn:latitude":31.35844,
+    "gn:longitude":109.32603,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Qishu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6f06\u6811"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8398072
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7a1cb2cebe694495218163f8ae1ab5ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209168245
+        }
+    ],
+    "wof:id":1209168245,
+    "wof:lastmodified":1537603252,
+    "wof:name":"Qishu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.32603,
+    31.35844,
+    109.32603,
+    31.35844
+],
+  "geometry": {"coordinates":[109.32603,31.35844],"type":"Point"}
+}

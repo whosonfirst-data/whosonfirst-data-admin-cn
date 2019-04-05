@@ -1,0 +1,77 @@
+{
+  "id": 1243067919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.88849,32.0307,120.88849,32.0307",
+    "geom:latitude":32.0307,
+    "geom:longitude":120.88849,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhongxincun",
+    "gn:country_code":"CN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7331244,
+    "gn:latitude":32.0307,
+    "gn:longitude":120.88849,
+    "gn:modification_date":"2017-08-03",
+    "gn:name":"Zhongxincun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e2d\u5fc3\u6751",
+        "Zhongxin",
+        "\u4e2d\u5fc3"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u5fc3\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7331244
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9775aa5592904c1bb31cf6b0dfe0aad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515155,
+            "empire_id":136253041,
+            "locality_id":1243067919,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1243067919,
+    "wof:lastmodified":1537598048,
+    "wof:name":"Zhongxincun",
+    "wof:parent_id":890515155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.88849,
+    32.0307,
+    120.88849,
+    32.0307
+],
+  "geometry": {"coordinates":[120.88849,32.0307],"type":"Point"}
+}

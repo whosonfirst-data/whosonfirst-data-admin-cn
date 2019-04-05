@@ -1,0 +1,78 @@
+{
+  "id": 1225840543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.88296,33.93748,112.88296,33.93748",
+    "geom:latitude":33.93748,
+    "geom:longitude":112.88296,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Daying",
+    "gn:country_code":"CN",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1813189,
+    "gn:latitude":33.93748,
+    "gn:longitude":112.88296,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Daying",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-ying",
+        "\u5927\u8425",
+        "Daying",
+        "Daying Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u8425\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669801,
+        102191569,
+        85632695,
+        136253041,
+        890512655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1813189
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"06023cf7e7c514ca488e7492949e05bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512655,
+            "empire_id":136253041,
+            "locality_id":1225840543,
+            "region_id":85669801
+        }
+    ],
+    "wof:id":1225840543,
+    "wof:lastmodified":1537593810,
+    "wof:name":"Daying",
+    "wof:parent_id":890512655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.88296,
+    33.93748,
+    112.88296,
+    33.93748
+],
+  "geometry": {"coordinates":[112.88296,33.93748],"type":"Point"}
+}

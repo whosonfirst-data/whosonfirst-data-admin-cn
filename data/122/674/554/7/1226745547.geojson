@@ -1,0 +1,77 @@
+{
+  "id": 1226745547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.86084,43.47406,129.86084,43.47406",
+    "geom:latitude":43.47406,
+    "geom:longitude":129.86084,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Jiguan",
+    "gn:country_code":"CN",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2036508,
+    "gn:latitude":43.47406,
+    "gn:longitude":129.86084,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jiguan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chi-kuan-lei-tzu",
+        "Chi-kuan",
+        "Jiguan",
+        "\u9e21\u51a0",
+        "Jiguan Xiang",
+        "\u9e21\u51a0\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669843,
+        102191569,
+        85632695,
+        136253041,
+        1108732421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2036508
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"11273f99c95327d27d08af4dd7007313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732421,
+            "empire_id":136253041,
+            "locality_id":1226745547,
+            "region_id":85669843
+        }
+    ],
+    "wof:id":1226745547,
+    "wof:lastmodified":1537595777,
+    "wof:name":"Jiguan",
+    "wof:parent_id":1108732421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.86084,
+    43.47406,
+    129.86084,
+    43.47406
+],
+  "geometry": {"coordinates":[129.86084,43.47406],"type":"Point"}
+}

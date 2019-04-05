@@ -1,0 +1,64 @@
+{
+  "id": 1209275125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.47,23.0785,101.47,23.0785",
+    "geom:latitude":23.0785,
+    "geom:longitude":101.47,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Shangbi Liucun",
+    "gn:country_code":"CN",
+    "gn:dem":1245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9920938,
+    "gn:latitude":23.0785,
+    "gn:longitude":101.47,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Shangbi Liucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e0a\u6bd4\u516d\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9920938
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0fffc0055055948d9935b6df30fe592e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209275125
+        }
+    ],
+    "wof:id":1209275125,
+    "wof:lastmodified":1537607386,
+    "wof:name":"Shangbi Liucun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.47,
+    23.0785,
+    101.47,
+    23.0785
+],
+  "geometry": {"coordinates":[101.47,23.0785],"type":"Point"}
+}

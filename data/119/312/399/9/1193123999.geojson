@@ -1,0 +1,76 @@
+{
+  "id": 1193123999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.20368,31.80012,114.20368,31.80012",
+    "geom:latitude":31.80012,
+    "geom:longitude":114.20368,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Sanlicheng",
+    "gn:country_code":"CN",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1796700,
+    "gn:latitude":31.80012,
+    "gn:longitude":114.20368,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Sanlicheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanlicheng Zhen",
+        "\u4e09\u91cc\u57ce\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u91cc\u57ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1796700
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4af02a915546e78f4cb3ecdc98680bef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732407,
+            "empire_id":136253041,
+            "locality_id":1193123999,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1193123999,
+    "wof:lastmodified":1537592751,
+    "wof:name":"Sanlicheng",
+    "wof:parent_id":1108732407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.20368,
+    31.80012,
+    114.20368,
+    31.80012
+],
+  "geometry": {"coordinates":[114.20368000000001,31.80012],"type":"Point"}
+}

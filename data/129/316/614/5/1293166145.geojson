@@ -1,0 +1,75 @@
+{
+  "id": 1293166145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.13625,42.44963,123.13625,42.44963",
+    "geom:latitude":42.44963,
+    "geom:longitude":123.13625,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Zhuanshanzi",
+    "gn:country_code":"CN",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7400950,
+    "gn:latitude":42.44963,
+    "gn:longitude":123.13625,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhuanshanzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u8f6c\u5c71\u5b50"
+    ],
+    "name:zho_x_preferred":[
+        "\u8f6c\u5c71\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7400950
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"aebafc0b266906fa327a7df82cc193aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732451,
+            "empire_id":136253041,
+            "locality_id":1293166145,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1293166145,
+    "wof:lastmodified":1537598706,
+    "wof:name":"Zhuanshanzi",
+    "wof:parent_id":1108732451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.13625,
+    42.44963,
+    123.13625,
+    42.44963
+],
+  "geometry": {"coordinates":[123.13625,42.44963],"type":"Point"}
+}

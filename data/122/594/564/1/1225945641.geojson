@@ -1,0 +1,76 @@
+{
+  "id": 1225945641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.23636,28.92611,115.23636,28.92611",
+    "geom:latitude":28.92611,
+    "geom:longitude":115.23636,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Gaohu",
+    "gn:country_code":"CN",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1810543,
+    "gn:latitude":28.92611,
+    "gn:longitude":115.23636,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gaohu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kao-hu",
+        "Gaohu",
+        "\u9ad8\u6e56",
+        "Gaohu Zhen",
+        "\u9ad8\u6e56\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669823,
+        102191569,
+        85632695,
+        136253041,
+        890514553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1810543
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ec9920a27d4875fe4bad8ba82cb137b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514553,
+            "empire_id":136253041,
+            "locality_id":1225945641,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":1225945641,
+    "wof:lastmodified":1537593644,
+    "wof:name":"Gaohu",
+    "wof:parent_id":890514553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.23636,
+    28.92611,
+    115.23636,
+    28.92611
+],
+  "geometry": {"coordinates":[115.23636,28.92611],"type":"Point"}
+}

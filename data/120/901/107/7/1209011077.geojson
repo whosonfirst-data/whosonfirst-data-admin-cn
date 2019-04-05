@@ -1,0 +1,64 @@
+{
+  "id": 1209011077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.90975,26.91898,115.90975,26.91898",
+    "geom:latitude":26.91898,
+    "geom:longitude":115.90975,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hankoucun",
+    "gn:country_code":"CN",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7466181,
+    "gn:latitude":26.91898,
+    "gn:longitude":115.90975,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Hankoucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6c49\u53e3\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7466181
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b5fd00d84a51cb4cc36e0ac8b0aaa30c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209011077
+        }
+    ],
+    "wof:id":1209011077,
+    "wof:lastmodified":1537599263,
+    "wof:name":"Hankoucun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.90975,
+    26.91898,
+    115.90975,
+    26.91898
+],
+  "geometry": {"coordinates":[115.90975,26.91898],"type":"Point"}
+}

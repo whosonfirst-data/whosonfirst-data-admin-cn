@@ -1,0 +1,80 @@
+{
+  "id": 1209922751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.83661,28.74565,120.83661,28.74565",
+    "geom:latitude":28.74565,
+    "geom:longitude":120.83661,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Guanwucun",
+    "gn:country_code":"CN",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1883386,
+    "gn:latitude":28.74565,
+    "gn:longitude":120.83661,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Guanwucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kua-wu",
+        "Guanwu",
+        "Guanwucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b98\u5c4b"
+    ],
+    "name:zho_x_variant":[
+        "\u5b98\u5c4b\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890515633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1883386
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3d3771bafcce5572bb7aa948956291d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515633,
+            "empire_id":136253041,
+            "locality_id":1209922751,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1209922751,
+    "wof:lastmodified":1537594194,
+    "wof:name":"Guanwucun",
+    "wof:parent_id":890515633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.83661,
+    28.74565,
+    120.83661,
+    28.74565
+],
+  "geometry": {"coordinates":[120.83660999999999,28.74565],"type":"Point"}
+}

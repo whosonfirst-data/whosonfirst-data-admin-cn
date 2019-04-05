@@ -1,0 +1,64 @@
+{
+  "id": 1209294399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.4418,30.83241,112.4418,30.83241",
+    "geom:latitude":30.83241,
+    "geom:longitude":112.4418,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Guanping",
+    "gn:country_code":"CN",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7660477,
+    "gn:latitude":30.83241,
+    "gn:longitude":112.4418,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Guanping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5b98\u576a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7660477
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"da5a2c4979e0edac96f8f7869746141f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209294399
+        }
+    ],
+    "wof:id":1209294399,
+    "wof:lastmodified":1537600780,
+    "wof:name":"Guanping",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.4418,
+    30.83241,
+    112.4418,
+    30.83241
+],
+  "geometry": {"coordinates":[112.4418,30.83241],"type":"Point"}
+}

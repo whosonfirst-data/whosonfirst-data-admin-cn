@@ -1,0 +1,75 @@
+{
+  "id": 1310161485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.95778,40.13444,113.95778,40.13444",
+    "geom:latitude":40.13444,
+    "geom:longitude":113.95778,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Gucheng",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2037171,
+    "gn:latitude":40.13444,
+    "gn:longitude":113.95778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gucheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ku-ch\u2019eng",
+        "Ku-ch\u2019eng-ts\u2019un",
+        "Gucheng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        890516415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2037171
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8ce7c5cc721d40e8fa35f9784ee44fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516415,
+            "empire_id":136253041,
+            "locality_id":1310161485,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1310161485,
+    "wof:lastmodified":1537595813,
+    "wof:name":"Gucheng",
+    "wof:parent_id":890516415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.95778,
+    40.13444000000001,
+    113.95778,
+    40.13444000000001
+],
+  "geometry": {"coordinates":[113.95778,40.13444000000001],"type":"Point"}
+}

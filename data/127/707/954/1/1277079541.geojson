@@ -1,0 +1,77 @@
+{
+  "id": 1277079541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.48889,34.26929,117.48889,34.26929",
+    "geom:latitude":34.26929,
+    "geom:longitude":117.48889,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Huangjicun",
+    "gn:country_code":"CN",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1807453,
+    "gn:latitude":34.26929,
+    "gn:longitude":117.48889,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Huangjicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huang-chi",
+        "Huangji",
+        "Huangjicun"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ec4\u96c6\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1807453
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"dfd4ee1dbae7363359bb18b836543a8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516333,
+            "empire_id":136253041,
+            "locality_id":1277079541,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1277079541,
+    "wof:lastmodified":1537593439,
+    "wof:name":"Huangjicun",
+    "wof:parent_id":890516333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.48888999999998,
+    34.26929000000001,
+    117.48888999999998,
+    34.26929000000001
+],
+  "geometry": {"coordinates":[117.48888999999998,34.26929000000001],"type":"Point"}
+}

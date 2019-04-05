@@ -1,0 +1,76 @@
+{
+  "id": 1293175509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.264,42.6564,123.264,42.6564",
+    "geom:latitude":42.6564,
+    "geom:longitude":123.264,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kongjia Wobu",
+    "gn:country_code":"CN",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7012434,
+    "gn:latitude":42.6564,
+    "gn:longitude":123.264,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Kongjia Wobu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kongjiawobao",
+        "Kongjia Wobu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b54\u5bb6\u7a9d\u5821"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7012434
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"97ca1ff63466cf37478d56389a4531a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732451,
+            "empire_id":136253041,
+            "locality_id":1293175509,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1293175509,
+    "wof:lastmodified":1537597422,
+    "wof:name":"Kongjia Wobu",
+    "wof:parent_id":1108732451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.264,
+    42.6564,
+    123.264,
+    42.6564
+],
+  "geometry": {"coordinates":[123.264,42.6564],"type":"Point"}
+}

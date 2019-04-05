@@ -1,0 +1,78 @@
+{
+  "id": 1243213761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.16439,20.31261,110.16439,20.31261",
+    "geom:latitude":20.31261,
+    "geom:longitude":110.16439,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Nanshan",
+    "gn:country_code":"CN",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8333973,
+    "gn:latitude":20.31261,
+    "gn:longitude":110.16439,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Nanshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nanshan Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "\u5357\u5c71\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890514753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8333973
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bd504e1c995000e01bfaf6762964f4d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514753,
+            "empire_id":136253041,
+            "locality_id":1243213761,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1243213761,
+    "wof:lastmodified":1537602938,
+    "wof:name":"Nanshan",
+    "wof:parent_id":890514753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.16439,
+    20.31261,
+    110.16439,
+    20.31261
+],
+  "geometry": {"coordinates":[110.16439,20.31261],"type":"Point"}
+}

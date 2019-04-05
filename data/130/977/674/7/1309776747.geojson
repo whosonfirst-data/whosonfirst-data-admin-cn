@@ -1,0 +1,78 @@
+{
+  "id": 1309776747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.001,31.601,97.001,31.601",
+    "geom:latitude":31.601,
+    "geom:longitude":97.001,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dongdatang",
+    "gn:country_code":"CN",
+    "gn:dem":4200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7927671,
+    "gn:latitude":31.601,
+    "gn:longitude":97.001,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dongdatang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Dongdatang"
+    ],
+    "name:zho_x_preferred":[
+        "Dongtatang"
+    ],
+    "name:zho_x_variant":[
+        "\u51ac\u5854\u5858"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7927671
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8aade3c98b3359545a61a05783a77532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1309776747,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1309776747,
+    "wof:lastmodified":1537602024,
+    "wof:name":"Dongdatang",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.001,
+    31.601,
+    97.001,
+    31.601
+],
+  "geometry": {"coordinates":[97.001,31.601],"type":"Point"}
+}

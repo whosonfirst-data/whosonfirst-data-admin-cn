@@ -1,0 +1,81 @@
+{
+  "id": 1226410327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.12674,39.01732,111.12674,39.01732",
+    "geom:latitude":39.01732,
+    "geom:longitude":111.12674,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Dongguan",
+    "gn:country_code":"CN",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1812537,
+    "gn:latitude":39.01732,
+    "gn:longitude":111.12674,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dongguan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baode",
+        "Pao-teh",
+        "Pao-te",
+        "Paotehchow",
+        "Pao-te-hsien",
+        "Dongguan",
+        "Baode Xian",
+        "Dongguan Zhen",
+        "\u4fdd\u5fb7\u53bf",
+        "\u4e1c\u5173\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        890513031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1812537
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0ebf2949f4baadd7f0cfff8982617a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513031,
+            "empire_id":136253041,
+            "locality_id":1226410327,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1226410327,
+    "wof:lastmodified":1537593770,
+    "wof:name":"Dongguan",
+    "wof:parent_id":890513031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.12673999999998,
+    39.01732,
+    111.12673999999998,
+    39.01732
+],
+  "geometry": {"coordinates":[111.12673999999998,39.01732],"type":"Point"}
+}

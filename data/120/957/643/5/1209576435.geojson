@@ -1,0 +1,64 @@
+{
+  "id": 1209576435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.307,24.1677,103.307,24.1677",
+    "geom:latitude":24.1677,
+    "geom:longitude":103.307,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Zhaobei",
+    "gn:country_code":"CN",
+    "gn:dem":1501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6824844,
+    "gn:latitude":24.1677,
+    "gn:longitude":103.307,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Zhaobei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u62db\u5317"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6824844
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"069710af57c8785005d0ae94cd001e35",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209576435
+        }
+    ],
+    "wof:id":1209576435,
+    "wof:lastmodified":1537596278,
+    "wof:name":"Zhaobei",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.307,
+    24.1677,
+    103.307,
+    24.1677
+],
+  "geometry": {"coordinates":[103.307,24.1677],"type":"Point"}
+}

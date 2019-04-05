@@ -1,0 +1,75 @@
+{
+  "id": 1242581297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.85809,31.25531,117.85809,31.25531",
+    "geom:latitude":31.25531,
+    "geom:longitude":117.85809,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Luxiangcun",
+    "gn:country_code":"CN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11489660,
+    "gn:latitude":31.25531,
+    "gn:longitude":117.85809,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"L\u00fcxiangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00fcxiangcun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5415\u5df7\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890513093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11489660
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2c9d9b98e6fdb41306c1193321d9c09e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513093,
+            "empire_id":136253041,
+            "locality_id":1242581297,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1242581297,
+    "wof:lastmodified":1537617012,
+    "wof:name":"Luxiangcun",
+    "wof:parent_id":890513093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.85809,
+    31.25531,
+    117.85809,
+    31.25531
+],
+  "geometry": {"coordinates":[117.85809,31.25531],"type":"Point"}
+}

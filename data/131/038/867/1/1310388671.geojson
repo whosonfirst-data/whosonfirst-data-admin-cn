@@ -1,0 +1,87 @@
+{
+  "id": 1310388671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.902,28.302,96.902,28.302",
+    "geom:latitude":28.302,
+    "geom:longitude":96.902,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Samai",
+    "gn:country_code":"CN",
+    "gn:dem":3526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8056074,
+    "gn:latitude":28.302,
+    "gn:longitude":96.902,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Samai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Samai"
+    ],
+    "name:zho_x_preferred":[
+        "Shama"
+    ],
+    "name:zho_x_variant":[
+        "\u6c99\u9a6c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672259,
+        85632701,
+        102191569,
+        85632469,
+        1108695977,
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8056074
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b428f8aff7bb5a5999b49033f9a41281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695977,
+            "disputed_id":85632701,
+            "locality_id":1310388671,
+            "region_id":85672259
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108695977,
+            "disputed_id":85632701,
+            "locality_id":1310388671,
+            "region_id":85672259
+        }
+    ],
+    "wof:id":1310388671,
+    "wof:lastmodified":1537602480,
+    "wof:name":"Samai",
+    "wof:parent_id":1108695977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.902,
+    28.302,
+    96.902,
+    28.302
+],
+  "geometry": {"coordinates":[96.902,28.302],"type":"Point"}
+}

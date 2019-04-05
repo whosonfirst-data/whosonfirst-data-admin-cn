@@ -1,0 +1,64 @@
+{
+  "id": 1209574891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.289,31.7518,105.289,31.7518",
+    "geom:latitude":31.7518,
+    "geom:longitude":105.289,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Jianli",
+    "gn:country_code":"CN",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10162586,
+    "gn:latitude":31.7518,
+    "gn:longitude":105.289,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Jianli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5efa\u7acb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10162586
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f5b7cebc1262233f6b62750c619c963f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209574891
+        }
+    ],
+    "wof:id":1209574891,
+    "wof:lastmodified":1537610843,
+    "wof:name":"Jianli",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.289,
+    31.7518,
+    105.289,
+    31.7518
+],
+  "geometry": {"coordinates":[105.289,31.7518],"type":"Point"}
+}

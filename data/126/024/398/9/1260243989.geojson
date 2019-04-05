@@ -1,0 +1,75 @@
+{
+  "id": 1260243989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.79658,42.31852,123.79658,42.31852",
+    "geom:latitude":42.31852,
+    "geom:longitude":123.79658,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Beihejiaxin",
+    "gn:country_code":"CN",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7399386,
+    "gn:latitude":42.31852,
+    "gn:longitude":123.79658,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Beihejiaxin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5317\u6cb3\u5939\u5fc3"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u6cb3\u5939\u5fc3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7399386
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c3bc19052756d6912ccc59e26525858a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514741,
+            "empire_id":136253041,
+            "locality_id":1260243989,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1260243989,
+    "wof:lastmodified":1537598617,
+    "wof:name":"Beihejiaxin",
+    "wof:parent_id":890514741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.79658,
+    42.31852,
+    123.79658,
+    42.31852
+],
+  "geometry": {"coordinates":[123.79658000000001,42.31852],"type":"Point"}
+}

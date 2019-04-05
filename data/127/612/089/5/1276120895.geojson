@@ -1,0 +1,78 @@
+{
+  "id": 1276120895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.88722,30.06917,121.88722,30.06917",
+    "geom:latitude":30.06917,
+    "geom:longitude":121.88722,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Xihou",
+    "gn:country_code":"CN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1895693,
+    "gn:latitude":30.06917,
+    "gn:longitude":121.88722,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Xihou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsiao-hsi-hou",
+        "Xiaoxihou",
+        "\u5c0f\u897f\u5820",
+        "Xihou"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u5820"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890513083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1895693
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"60e512467ca0407b3f9c2128c185310d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513083,
+            "empire_id":136253041,
+            "locality_id":1276120895,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1276120895,
+    "wof:lastmodified":1537594351,
+    "wof:name":"Xihou",
+    "wof:parent_id":890513083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.88722,
+    30.06917,
+    121.88722,
+    30.06917
+],
+  "geometry": {"coordinates":[121.88722,30.06917],"type":"Point"}
+}

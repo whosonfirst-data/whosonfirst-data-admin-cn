@@ -1,0 +1,75 @@
+{
+  "id": 1209295929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.03639,25.94459,111.03639,25.94459",
+    "geom:latitude":25.94459,
+    "geom:longitude":111.03639,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Quanzhou",
+    "gn:country_code":"CN",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1797352,
+    "gn:latitude":25.94459,
+    "gn:longitude":111.03639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Quanzhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chuanchow",
+        "Quanzhou"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019\u00fcan"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019\u00fcan-chou",
+        "Ch\u2019\u00fcan-hsien-ch\u2019eng",
+        "Ch\u2019\u00fcan-chou-chen",
+        "Ch\u2019\u00fcan-hsien",
+        "\u5168\u5dde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1797352
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"da60fb7e6378024562a55ceec17401cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209295929
+        }
+    ],
+    "wof:id":1209295929,
+    "wof:lastmodified":1537592801,
+    "wof:name":"Quanzhou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.03639,
+    25.94459,
+    111.03639,
+    25.94459
+],
+  "geometry": {"coordinates":[111.03639,25.94459],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1209899467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.004,29.204,91.004,29.204",
+    "geom:latitude":29.204,
+    "geom:longitude":91.004,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gyixong",
+    "gn:country_code":"CN",
+    "gn:dem":4619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8026464,
+    "gn:latitude":29.204,
+    "gn:longitude":91.004,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gyixong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Gyixong"
+    ],
+    "name:zho_x_preferred":[
+        "Jixiong"
+    ],
+    "name:zho_x_variant":[
+        "\u5409\u96c4",
+        "Remai",
+        "\u70ed\u9ea6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108794057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026464
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7bd922d8071485e0e9f8ada39de47052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794057,
+            "empire_id":136253041,
+            "locality_id":1209899467,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1209899467,
+    "wof:lastmodified":1537602171,
+    "wof:name":"Gyixong",
+    "wof:parent_id":1108794057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.004,
+    29.204,
+    91.004,
+    29.204
+],
+  "geometry": {"coordinates":[91.004,29.204],"type":"Point"}
+}

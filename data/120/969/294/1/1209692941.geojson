@@ -1,0 +1,64 @@
+{
+  "id": 1209692941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.16003,31.45349,113.16003,31.45349",
+    "geom:latitude":31.45349,
+    "geom:longitude":113.16003,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zhangdian",
+    "gn:country_code":"CN",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7653290,
+    "gn:latitude":31.45349,
+    "gn:longitude":113.16003,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhangdian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5f20\u5e97"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7653290
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e01c7727078b3a0992aff0fef5600538",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209692941
+        }
+    ],
+    "wof:id":1209692941,
+    "wof:lastmodified":1537600632,
+    "wof:name":"Zhangdian",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.16003,
+    31.45349,
+    113.16003,
+    31.45349
+],
+  "geometry": {"coordinates":[113.16003000000001,31.45349],"type":"Point"}
+}

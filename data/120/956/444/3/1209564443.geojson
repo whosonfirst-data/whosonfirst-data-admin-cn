@@ -1,0 +1,64 @@
+{
+  "id": 1209564443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.577,27.8149,105.577,27.8149",
+    "geom:latitude":27.8149,
+    "geom:longitude":105.577,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Qibu",
+    "gn:country_code":"CN",
+    "gn:dem":1293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10184215,
+    "gn:latitude":27.8149,
+    "gn:longitude":105.577,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Qibu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u65d7\u5821"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10184215
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e651c7495717d86945114f219cc3bc43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209564443
+        }
+    ],
+    "wof:id":1209564443,
+    "wof:lastmodified":1537610946,
+    "wof:name":"Qibu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.577,
+    27.8149,
+    105.577,
+    27.8149
+],
+  "geometry": {"coordinates":[105.577,27.8149],"type":"Point"}
+}

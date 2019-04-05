@@ -1,0 +1,64 @@
+{
+  "id": 1209008135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.32041,31.76527,118.32041,31.76527",
+    "geom:latitude":31.76527,
+    "geom:longitude":118.32041,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Qianba",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8375246,
+    "gn:latitude":31.76527,
+    "gn:longitude":118.32041,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Qianba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5343\u575d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8375246
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"54b06b75430aec0e154285d945ab2551",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209008135
+        }
+    ],
+    "wof:id":1209008135,
+    "wof:lastmodified":1537603136,
+    "wof:name":"Qianba",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.32041,
+    31.76527,
+    118.32041,
+    31.76527
+],
+  "geometry": {"coordinates":[118.32041,31.76527],"type":"Point"}
+}

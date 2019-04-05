@@ -1,0 +1,88 @@
+{
+  "id": 890516189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.25167,33.76806,120.25167,33.76806",
+    "geom:latitude":33.76806,
+    "geom:longitude":120.25167,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":89107,
+    "gp:adm0":23424781,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u0434\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Sheyang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5408\u5fb7"
+    ],
+    "name:zho_x_variant":[
+        "\u5c04\u9633"
+    ],
+    "qs:name":"Hede",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u6c5f\u82cf\u7701",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1808744,
+        "gp:id":2137114,
+        "qs:id":1299028,
+        "wk:page":"Hede"
+    },
+    "wof:country":"CN",
+    "wof:created":1469055947,
+    "wof:geomhash":"747fc87a7af6641b9d57e6f85ec3a3b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515153,
+            "empire_id":136253041,
+            "locality_id":890516189,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":890516189,
+    "wof:lastmodified":1527765651,
+    "wof:name":"Hede",
+    "wof:parent_id":890515153,
+    "wof:placetype":"locality",
+    "wof:population":89107,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.25167,
+    33.76806,
+    120.25167,
+    33.76806
+],
+  "geometry": {"coordinates":[120.25167,33.76806],"type":"Point"}
+}

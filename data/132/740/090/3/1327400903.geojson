@@ -1,0 +1,76 @@
+{
+  "id": 1327400903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.58333,37.56667,109.58333,37.56667",
+    "geom:latitude":37.56667,
+    "geom:longitude":109.58333,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Qilingou",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1797993,
+    "gn:latitude":37.56667,
+    "gn:longitude":109.58333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Qilingou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019i-lin",
+        "Ch\u2019i-lin-chen",
+        "Ch\u2019i-lin-kou",
+        "Qilingou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1797993
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"513322e429915c226460e79dfcbfaf4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515097,
+            "empire_id":136253041,
+            "locality_id":1327400903,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1327400903,
+    "wof:lastmodified":1537592842,
+    "wof:name":"Qilingou",
+    "wof:parent_id":890515097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.58333,
+    37.56667,
+    109.58333,
+    37.56667
+],
+  "geometry": {"coordinates":[109.58333,37.56667],"type":"Point"}
+}

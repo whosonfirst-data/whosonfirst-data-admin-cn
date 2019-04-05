@@ -1,0 +1,76 @@
+{
+  "id": 1192990747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.95,21.63333,108.95,21.63333",
+    "geom:latitude":21.63333,
+    "geom:longitude":108.95,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Xichang",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1789649,
+    "gn:latitude":21.63333,
+    "gn:longitude":108.95,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Xichang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsi-ch\u2019ang-hs\u00fc",
+        "Saichong",
+        "Hsi-ch\u2019ang",
+        "Xichang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669717,
+        102191569,
+        85632695,
+        136253041,
+        890516487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1789649
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a11d6619f7bb3cc03ff36cb82a15d01f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516487,
+            "empire_id":136253041,
+            "locality_id":1192990747,
+            "region_id":85669717
+        }
+    ],
+    "wof:id":1192990747,
+    "wof:lastmodified":1537592286,
+    "wof:name":"Xichang",
+    "wof:parent_id":890516487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.95,
+    21.63333,
+    108.95,
+    21.63333
+],
+  "geometry": {"coordinates":[108.95,21.63333],"type":"Point"}
+}

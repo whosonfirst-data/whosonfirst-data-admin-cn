@@ -1,0 +1,64 @@
+{
+  "id": 1209470663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.96311,35.87814,110.96311,35.87814",
+    "geom:latitude":35.87814,
+    "geom:longitude":110.96311,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Jianban",
+    "gn:country_code":"CN",
+    "gn:dem":1471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11451441,
+    "gn:latitude":35.87814,
+    "gn:longitude":110.96311,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Jianban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u95f4\u677f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11451441
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5f56bafa1c0c4615d00a9474a4b90ace",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209470663
+        }
+    ],
+    "wof:id":1209470663,
+    "wof:lastmodified":1537616616,
+    "wof:name":"Jianban",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.96311,
+    35.87814,
+    110.96311,
+    35.87814
+],
+  "geometry": {"coordinates":[110.96311,35.87814],"type":"Point"}
+}

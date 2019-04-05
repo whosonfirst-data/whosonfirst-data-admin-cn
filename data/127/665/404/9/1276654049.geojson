@@ -1,0 +1,82 @@
+{
+  "id": 1276654049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.61141,34.73564,101.61141,34.73564",
+    "geom:latitude":34.73564,
+    "geom:longitude":101.61141,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Youganning",
+    "gn:country_code":"CN",
+    "gn:dem":3527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":8452888,
+    "gn:latitude":34.73564,
+    "gn:longitude":101.61141,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Youganning",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Youganning Zhen",
+        "Henan Menggu Zu",
+        "Henan Menggu Zu Zizhi Xian"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f18\u5e72\u5b81"
+    ],
+    "name:zho_x_variant":[
+        "\u4f18\u5e72\u5b81\u9547",
+        "\u6cb3\u5357\u8499\u53e4\u65cf",
+        "\u6cb3\u5357\u8499\u53e4\u65cf\u81ea\u6cbb\u53bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669715,
+        102191569,
+        85632695,
+        136253041,
+        1108732551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8452888
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c1a1a00291ff87200ad0e912555544ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732551,
+            "empire_id":136253041,
+            "locality_id":1276654049,
+            "region_id":85669715
+        }
+    ],
+    "wof:id":1276654049,
+    "wof:lastmodified":1537603780,
+    "wof:name":"Youganning",
+    "wof:parent_id":1108732551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.61141,
+    34.73564,
+    101.61141,
+    34.73564
+],
+  "geometry": {"coordinates":[101.61141000000001,34.73564],"type":"Point"}
+}

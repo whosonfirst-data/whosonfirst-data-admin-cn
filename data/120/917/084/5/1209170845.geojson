@@ -1,0 +1,64 @@
+{
+  "id": 1209170845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.14176,34.27441,110.14176,34.27441",
+    "geom:latitude":34.27441,
+    "geom:longitude":110.14176,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Dianmen",
+    "gn:country_code":"CN",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11316098,
+    "gn:latitude":34.27441,
+    "gn:longitude":110.14176,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Dianmen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5e97\u95e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11316098
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5c79fb8a9be023bd6227e6f1bab94d92",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209170845
+        }
+    ],
+    "wof:id":1209170845,
+    "wof:lastmodified":1537616044,
+    "wof:name":"Dianmen",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.14176,
+    34.27441,
+    110.14176,
+    34.27441
+],
+  "geometry": {"coordinates":[110.14176,34.27441],"type":"Point"}
+}

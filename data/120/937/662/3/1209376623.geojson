@@ -1,0 +1,64 @@
+{
+  "id": 1209376623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.65971,48.1779,123.65971,48.1779",
+    "geom:latitude":48.1779,
+    "geom:longitude":123.65971,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Xiaoyehu",
+    "gn:country_code":"CN",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439295,
+    "gn:latitude":48.1779,
+    "gn:longitude":123.65971,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Xiaoyehu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5c0f\u91ce\u6237"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439295
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"061d420dca6c5a0ff51706c2eff26673",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209376623
+        }
+    ],
+    "wof:id":1209376623,
+    "wof:lastmodified":1537603701,
+    "wof:name":"Xiaoyehu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.65971,
+    48.1779,
+    123.65971,
+    48.1779
+],
+  "geometry": {"coordinates":[123.65971,48.1779],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1260363259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.4,31.5,92.4,31.5",
+    "geom:latitude":31.5,
+    "geom:longitude":92.4,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dagmo",
+    "gn:country_code":"CN",
+    "gn:dem":4804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":7929901,
+    "gn:latitude":31.5,
+    "gn:longitude":92.4,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dagmo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Dagmo"
+    ],
+    "name:zho_x_preferred":[
+        "Dangmao"
+    ],
+    "name:zho_x_variant":[
+        "\u5f53\u6bdb",
+        "Kuorekaizhang",
+        "\u62ec\u70ed\u5f00\u7ae0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7929901
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ac68491015bc23631e5aba116641727f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1260363259,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1260363259,
+    "wof:lastmodified":1537602066,
+    "wof:name":"Dagmo",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.4,
+    31.5,
+    92.4,
+    31.5
+],
+  "geometry": {"coordinates":[92.40000000000001,31.5],"type":"Point"}
+}

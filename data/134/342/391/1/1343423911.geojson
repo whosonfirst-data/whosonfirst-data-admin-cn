@@ -1,0 +1,76 @@
+{
+  "id": 1343423911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.67417,27.07889,105.67417,27.07889",
+    "geom:latitude":27.07889,
+    "geom:longitude":105.67417,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Yangchang",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":1492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1787671,
+    "gn:latitude":27.07889,
+    "gn:longitude":105.67417,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yangchang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yangchang Zhen",
+        "Yang-ch\u2019ang-pa",
+        "Yangchangba",
+        "Yangchang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669721,
+        102191569,
+        85632695,
+        136253041,
+        1108732447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1787671
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b76a3782307cd2b8e4bf2a77ae33e064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732447,
+            "empire_id":136253041,
+            "locality_id":1343423911,
+            "region_id":85669721
+        }
+    ],
+    "wof:id":1343423911,
+    "wof:lastmodified":1537592140,
+    "wof:name":"Yangchang",
+    "wof:parent_id":1108732447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.67417,
+    27.07889,
+    105.67417,
+    27.07889
+],
+  "geometry": {"coordinates":[105.67417,27.07889],"type":"Point"}
+}

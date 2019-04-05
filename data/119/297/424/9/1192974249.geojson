@@ -1,0 +1,76 @@
+{
+  "id": 1192974249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.53267,39.24215,112.53267,39.24215",
+    "geom:latitude":39.24215,
+    "geom:longitude":112.53267,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Jiazhuang",
+    "gn:country_code":"CN",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1805937,
+    "gn:latitude":39.24215,
+    "gn:longitude":112.53267,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jiazhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chia-chuang",
+        "Jiazhuang",
+        "\u8d3e\u5e84",
+        "Jiazhuang Xiang",
+        "\u8d3e\u5e84\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        890513491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1805937
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1070c2c787457ab2f8f5b2c361de16ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513491,
+            "empire_id":136253041,
+            "locality_id":1192974249,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1192974249,
+    "wof:lastmodified":1537593348,
+    "wof:name":"Jiazhuang",
+    "wof:parent_id":890513491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.53267,
+    39.24215,
+    112.53267,
+    39.24215
+],
+  "geometry": {"coordinates":[112.53267,39.24215],"type":"Point"}
+}

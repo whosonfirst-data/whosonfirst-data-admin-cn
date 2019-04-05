@@ -1,0 +1,75 @@
+{
+  "id": 1293563715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.42516,40.3895,123.42516,40.3895",
+    "geom:latitude":40.3895,
+    "geom:longitude":123.42516,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Caozigou",
+    "gn:country_code":"CN",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7404413,
+    "gn:latitude":40.3895,
+    "gn:longitude":123.42516,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Caozigou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u66f9\u5b50\u6c9f"
+    ],
+    "name:zho_x_preferred":[
+        "\u66f9\u5b50\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7404413
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"780032e8d276e379f7f05275fdf4bccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514231,
+            "empire_id":136253041,
+            "locality_id":1293563715,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1293563715,
+    "wof:lastmodified":1537598916,
+    "wof:name":"Caozigou",
+    "wof:parent_id":890514231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.42516,
+    40.3895,
+    123.42516,
+    40.3895
+],
+  "geometry": {"coordinates":[123.42516000000001,40.3895],"type":"Point"}
+}

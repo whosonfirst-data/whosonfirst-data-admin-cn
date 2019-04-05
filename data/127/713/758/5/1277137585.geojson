@@ -1,0 +1,79 @@
+{
+  "id": 1277137585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.27627,24.81934,98.27627,24.81934",
+    "geom:latitude":24.81934,
+    "geom:longitude":98.27627,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Zhedao",
+    "gn:country_code":"CN",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1279472,
+    "gn:latitude":24.81934,
+    "gn:longitude":98.27627,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhedao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Che-tao-chen",
+        "Liang-ho",
+        "Che-tao",
+        "Lianghe",
+        "Zhedao"
+    ],
+    "name:zho_x_preferred":[
+        "\u906e\u5c9b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        1108732423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1279472
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"46b8a049b529d2f98a3433b294fcf464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732423,
+            "empire_id":136253041,
+            "locality_id":1277137585,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1277137585,
+    "wof:lastmodified":1537591372,
+    "wof:name":"Zhedao",
+    "wof:parent_id":1108732423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.27627,
+    24.81934,
+    98.27627,
+    24.81934
+],
+  "geometry": {"coordinates":[98.27627,24.81934],"type":"Point"}
+}

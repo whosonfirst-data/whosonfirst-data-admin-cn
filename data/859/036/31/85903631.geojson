@@ -1,0 +1,107 @@
+{
+  "id": 85903631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000158,
+    "geom:area_square_m":1500275.753558,
+    "geom:bbox":"116.298522949,39.9939556853,116.313073093,40.0097352946",
+    "geom:latitude":40.001943,
+    "geom:longitude":116.306018,
+    "gn:id":"",
+    "iso:country":"CN",
+    "lbl:latitude":40.001692,
+    "lbl:longitude":116.305587,
+    "mps:latitude":40.001515,
+    "mps:longitude":116.307335,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Zhongguancon"
+    ],
+    "name:unk_x_variant":[
+        "Zhongguancon"
+    ],
+    "qs:gn_adm0_cc":"CN",
+    "qs:gn_id":0,
+    "qs:gn_local":1816670,
+    "qs:local_max":27927,
+    "qs:local_sum":297141,
+    "qs:localhoods":105,
+    "qs:name":"Zhongguancon",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u5317\u4eac\u76f4\u8f96\u5e02",
+    "qs:name_adm2":"\u5317\u4eac",
+    "qs:name_lau":"\u6d77\u6dc0\u533a",
+    "qs:name_local":"\u5317\u4eac",
+    "qs:photo_max":119,
+    "qs:photo_sum":598,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":24,
+    "qs:woe_adm0":23424781,
+    "qs:woe_adm1":12578011,
+    "qs:woe_adm2":12686916,
+    "qs:woe_lau":56042451,
+    "qs:woe_local":2151330,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632695,
+        102027745,
+        136253041,
+        1108732371,
+        85669727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2151421,
+        "qs:id":1129846,
+        "qs_pg:id":1129846
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"484baa47a85c9d83991b356191ff4f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732371,
+            "empire_id":136253041,
+            "locality_id":102027745,
+            "neighbourhood_id":85903631,
+            "region_id":85669727
+        }
+    ],
+    "wof:id":85903631,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527268880,
+    "wof:name":"Zhongguancon",
+    "wof:parent_id":102027745,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.298522949,
+    39.993955685347,
+    116.31307309254,
+    40.009735294588
+],
+  "geometry": {"coordinates":[[[116.306762695,40.008683427136],[116.306762695,40.006579661869],[116.312255859,40.0065796678],[116.31225585884,40.00552771865],[116.31225585672,40.002371926038],[116.312255859,40.000267964513],[116.312255859,39.998163936488],[116.31307307365,39.997097159099],[116.31280817562001,39.9960598355],[116.31307309253999,39.99502240596],[116.31225586014,39.993955687041],[116.309509277,39.993955685347],[116.306762695,39.993955687819],[116.306762695,39.99605984225],[116.304016113,39.996059845529],[116.304016113,39.998163935586],[116.30126952948,39.998163935321],[116.30045233471,39.999230673692],[116.30071719782001,40.000267956425],[116.30045235359,40.001305133303],[116.298522949,40.002144702461],[116.298522949,40.0023719359],[116.298522949,40.004475827347],[116.298522949,40.006579660868],[116.298522949,40.007972229834],[116.298522949,40.0086834366],[116.29989624,40.0086834366],[116.29989624,40.009735294588],[116.301269531,40.009735293771],[116.30154571621,40.009735292575],[116.30181426686001,40.008683430651],[116.304016113,40.008683427947],[116.306762695,40.008683427136]]],"type":"Polygon"}
+}

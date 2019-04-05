@@ -1,0 +1,64 @@
+{
+  "id": 1209672745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.887,35.9282,117.887,35.9282",
+    "geom:latitude":35.9282,
+    "geom:longitude":117.887,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Miaoxi",
+    "gn:country_code":"CN",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9121030,
+    "gn:latitude":35.9282,
+    "gn:longitude":117.887,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Miaoxi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u82d7\u897f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9121030
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"182de17b974f34a40ec0450c6f50a4d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209672745
+        }
+    ],
+    "wof:id":1209672745,
+    "wof:lastmodified":1537605360,
+    "wof:name":"Miaoxi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.887,
+    35.9282,
+    117.887,
+    35.9282
+],
+  "geometry": {"coordinates":[117.887,35.9282],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1344102191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.089,27.785,103.089,27.785",
+    "geom:latitude":27.785,
+    "geom:longitude":103.089,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Zhongzi",
+    "gn:country_code":"CN",
+    "gn:dem":2505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10219002,
+    "gn:latitude":27.785,
+    "gn:longitude":103.089,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Zhongzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4ef2\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        1108794061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10219002
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ff654cb5cf2b04fe05408be4dcec4599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794061,
+            "empire_id":136253041,
+            "locality_id":1344102191,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1344102191,
+    "wof:lastmodified":1537611611,
+    "wof:name":"Zhongzi",
+    "wof:parent_id":1108794061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.089,
+    27.785,
+    103.089,
+    27.785
+],
+  "geometry": {"coordinates":[103.089,27.785],"type":"Point"}
+}

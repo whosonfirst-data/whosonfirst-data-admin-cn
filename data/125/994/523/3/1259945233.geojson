@@ -1,0 +1,75 @@
+{
+  "id": 1259945233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.19522,40.79983,123.19522,40.79983",
+    "geom:latitude":40.79983,
+    "geom:longitude":123.19522,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Daogouzi",
+    "gn:country_code":"CN",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7404774,
+    "gn:latitude":40.79983,
+    "gn:longitude":123.19522,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Daogouzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9053\u6c9f\u5b50"
+    ],
+    "name:zho_x_preferred":[
+        "\u9053\u6c9f\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7404774
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bbc28ef44bc99b8e41f952b7390aaf64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514643,
+            "empire_id":136253041,
+            "locality_id":1259945233,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1259945233,
+    "wof:lastmodified":1537598943,
+    "wof:name":"Daogouzi",
+    "wof:parent_id":890514643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.19522,
+    40.79983,
+    123.19522,
+    40.79983
+],
+  "geometry": {"coordinates":[123.19522000000001,40.79983],"type":"Point"}
+}

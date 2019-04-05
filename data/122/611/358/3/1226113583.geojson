@@ -1,0 +1,80 @@
+{
+  "id": 1226113583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.75,37.4,75.75,37.4",
+    "geom:latitude":37.4,
+    "geom:longitude":75.75,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Maryang",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":4826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1280599,
+    "gn:latitude":37.4,
+    "gn:longitude":75.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maryang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uig_x_preferred":[
+        "\u0645\u0627\u0631\u064a\u0627\u06ad"
+    ],
+    "name:uig_x_variant":[
+        "\u041c\u0430\u0440\u044f\u04a3"
+    ],
+    "name:und_x_variant":[
+        "Mai-erh-yang",
+        "Maryang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669753,
+        102191569,
+        85632695,
+        136253041,
+        1108732391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1280599
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"32659302ca99126b22f5512a836cd3e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732391,
+            "empire_id":136253041,
+            "locality_id":1226113583,
+            "region_id":85669753
+        }
+    ],
+    "wof:id":1226113583,
+    "wof:lastmodified":1537591466,
+    "wof:name":"Maryang",
+    "wof:parent_id":1108732391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.75,
+    37.4,
+    75.75,
+    37.4
+],
+  "geometry": {"coordinates":[75.75,37.4],"type":"Point"}
+}

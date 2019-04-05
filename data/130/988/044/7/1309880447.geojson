@@ -1,0 +1,75 @@
+{
+  "id": 1309880447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.66441,40.5488,120.66441,40.5488",
+    "geom:latitude":40.5488,
+    "geom:longitude":120.66441,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Zhongxingtun",
+    "gn:country_code":"CN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7401345,
+    "gn:latitude":40.5488,
+    "gn:longitude":120.66441,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhongxingtun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e2d\u5174\u5c6f"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u5174\u5c6f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7401345
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"546b345bdb7257d54b5b5ebbb6b6a8eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514399,
+            "empire_id":136253041,
+            "locality_id":1309880447,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1309880447,
+    "wof:lastmodified":1537598728,
+    "wof:name":"Zhongxingtun",
+    "wof:parent_id":890514399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.66441,
+    40.5488,
+    120.66441,
+    40.5488
+],
+  "geometry": {"coordinates":[120.66441,40.5488],"type":"Point"}
+}

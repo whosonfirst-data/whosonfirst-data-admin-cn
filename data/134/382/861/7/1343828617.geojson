@@ -1,0 +1,80 @@
+{
+  "id": 1343828617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.403,28.903,91.403,28.903",
+    "geom:latitude":28.903,
+    "geom:longitude":91.403,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tari",
+    "gn:country_code":"CN",
+    "gn:dem":4969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8078130,
+    "gn:latitude":28.903,
+    "gn:longitude":91.403,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Tari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Tari"
+    ],
+    "name:zho_x_preferred":[
+        "Teri"
+    ],
+    "name:zho_x_variant":[
+        "\u7279\u65e5",
+        "Quxia",
+        "\u66f2\u4e0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108794057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8078130
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"355594bcb799cfc6f78a319d9a3170d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794057,
+            "empire_id":136253041,
+            "locality_id":1343828617,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1343828617,
+    "wof:lastmodified":1537602545,
+    "wof:name":"Tari",
+    "wof:parent_id":1108794057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.403,
+    28.903,
+    91.403,
+    28.903
+],
+  "geometry": {"coordinates":[91.40300000000001,28.903],"type":"Point"}
+}

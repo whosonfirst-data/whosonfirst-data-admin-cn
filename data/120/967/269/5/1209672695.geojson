@@ -1,0 +1,64 @@
+{
+  "id": 1209672695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.441,37.3893,117.441,37.3893",
+    "geom:latitude":37.3893,
+    "geom:longitude":117.441,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Yancao",
+    "gn:country_code":"CN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9125006,
+    "gn:latitude":37.3893,
+    "gn:longitude":117.441,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Yancao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u960e\u66f9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9125006
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"46c58f550db5addd6bd3df948ebd5321",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209672695
+        }
+    ],
+    "wof:id":1209672695,
+    "wof:lastmodified":1537605485,
+    "wof:name":"Yancao",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.441,
+    37.3893,
+    117.441,
+    37.3893
+],
+  "geometry": {"coordinates":[117.441,37.3893],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209075199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.595,36.1969,105.595,36.1969",
+    "geom:latitude":36.1969,
+    "geom:longitude":105.595,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kenaowan",
+    "gn:country_code":"CN",
+    "gn:dem":2323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10203759,
+    "gn:latitude":36.1969,
+    "gn:longitude":105.595,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Kenaowan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u82db\u8111\u6e7e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10203759
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bc80f8d53f90e4f76c84b6bc85eebb9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209075199
+        }
+    ],
+    "wof:id":1209075199,
+    "wof:lastmodified":1537611350,
+    "wof:name":"Kenaowan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.595,
+    36.1969,
+    105.595,
+    36.1969
+],
+  "geometry": {"coordinates":[105.595,36.1969],"type":"Point"}
+}

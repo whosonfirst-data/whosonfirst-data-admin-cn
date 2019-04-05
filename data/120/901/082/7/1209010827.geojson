@@ -1,0 +1,64 @@
+{
+  "id": 1209010827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.645,25.5246,114.645,25.5246",
+    "geom:latitude":25.5246,
+    "geom:longitude":114.645,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Yanwu",
+    "gn:country_code":"CN",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9615326,
+    "gn:latitude":25.5246,
+    "gn:longitude":114.645,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Yanwu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e25\u5c4b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9615326
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"21b933b09f95ebad0fdad6ec39118ba4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209010827
+        }
+    ],
+    "wof:id":1209010827,
+    "wof:lastmodified":1537605985,
+    "wof:name":"Yanwu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.645,
+    25.5246,
+    114.645,
+    25.5246
+],
+  "geometry": {"coordinates":[114.645,25.5246],"type":"Point"}
+}

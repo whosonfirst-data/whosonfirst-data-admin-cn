@@ -1,0 +1,77 @@
+{
+  "id": 1243179247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.15,28.58002,116.15,28.58002",
+    "geom:latitude":28.58002,
+    "geom:longitude":116.15,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Youlan",
+    "gn:country_code":"CN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1786169,
+    "gn:latitude":28.58002,
+    "gn:longitude":116.15,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Youlan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yu-lan",
+        "Yu-lan-shih",
+        "Youlan",
+        "\u5e7d\u5170",
+        "Youlan Zhen",
+        "\u5e7d\u5170\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669823,
+        102191569,
+        85632695,
+        136253041,
+        890516469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1786169
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"34c94f694b6836127d64c98037c43826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516469,
+            "empire_id":136253041,
+            "locality_id":1243179247,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":1243179247,
+    "wof:lastmodified":1537592041,
+    "wof:name":"Youlan",
+    "wof:parent_id":890516469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.15,
+    28.58002,
+    116.15,
+    28.58002
+],
+  "geometry": {"coordinates":[116.15000000000001,28.58002],"type":"Point"}
+}

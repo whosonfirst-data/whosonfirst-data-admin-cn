@@ -1,0 +1,75 @@
+{
+  "id": 1310675559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.22058,40.91742,123.22058,40.91742",
+    "geom:latitude":40.91742,
+    "geom:longitude":123.22058,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Zhongbagu",
+    "gn:country_code":"CN",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7404785,
+    "gn:latitude":40.91742,
+    "gn:longitude":123.22058,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhongbagu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e2d\u516b\u80a1"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u516b\u80a1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7404785
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f219a23ffb9f656845dca8a9bf0ea8a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514643,
+            "empire_id":136253041,
+            "locality_id":1310675559,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1310675559,
+    "wof:lastmodified":1537598944,
+    "wof:name":"Zhongbagu",
+    "wof:parent_id":890514643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.22058,
+    40.91742,
+    123.22058,
+    40.91742
+],
+  "geometry": {"coordinates":[123.22058,40.91742],"type":"Point"}
+}

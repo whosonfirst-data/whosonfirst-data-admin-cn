@@ -1,0 +1,78 @@
+{
+  "id": 1326901273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.305,32.305,93.305,32.305",
+    "geom:latitude":32.305,
+    "geom:longitude":93.305,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sogxung",
+    "gn:country_code":"CN",
+    "gn:dem":4871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8056216,
+    "gn:latitude":32.305,
+    "gn:longitude":93.305,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Sogxung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Sogxung"
+    ],
+    "name:zho_x_preferred":[
+        "Suoyong"
+    ],
+    "name:zho_x_variant":[
+        "\u7d22\u6d8c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8056216
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"56b5f3d41e5beb03ff49f82da8847f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1326901273,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1326901273,
+    "wof:lastmodified":1537602489,
+    "wof:name":"Sogxung",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.305,
+    32.305,
+    93.305,
+    32.305
+],
+  "geometry": {"coordinates":[93.30500000000001,32.305],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1243422223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.90478,35.39491,112.90478,35.39491",
+    "geom:latitude":35.39491,
+    "geom:longitude":112.90478,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Hexi",
+    "gn:country_code":"CN",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1808236,
+    "gn:latitude":35.39491,
+    "gn:longitude":112.90478,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Hexi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ho-hsi",
+        "Ho-hsi-ts\u2019un",
+        "Hexi"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cb3\u897f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        890514749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1808236
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ca672b5d451ef56270dbfb503c1732d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514749,
+            "empire_id":136253041,
+            "locality_id":1243422223,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1243422223,
+    "wof:lastmodified":1537593489,
+    "wof:name":"Hexi",
+    "wof:parent_id":890514749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.90478,
+    35.39491,
+    112.90478,
+    35.39491
+],
+  "geometry": {"coordinates":[112.90478,35.39491],"type":"Point"}
+}

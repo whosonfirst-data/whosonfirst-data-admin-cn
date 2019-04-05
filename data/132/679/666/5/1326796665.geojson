@@ -1,0 +1,77 @@
+{
+  "id": 1326796665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.41528,27.05111,108.41528,27.05111",
+    "geom:latitude":27.05111,
+    "geom:longitude":108.41528,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Wuyang",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1790888,
+    "gn:latitude":27.05111,
+    "gn:longitude":108.41528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wuyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhenyuan",
+        "Wuyang Zhen",
+        "Chen-y\u00fcan",
+        "Chen-y\u00fcan-hsien",
+        "Wuyang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        1108794067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1790888
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1fab29f7a02d0b2db29de8716c3de8d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794067,
+            "empire_id":136253041,
+            "locality_id":1326796665,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1326796665,
+    "wof:lastmodified":1537592368,
+    "wof:name":"Wuyang",
+    "wof:parent_id":1108794067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.41528,
+    27.05111,
+    108.41528,
+    27.05111
+],
+  "geometry": {"coordinates":[108.41528,27.05111],"type":"Point"}
+}

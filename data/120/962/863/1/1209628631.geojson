@@ -1,0 +1,64 @@
+{
+  "id": 1209628631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.22888,32.85791,118.22888,32.85791",
+    "geom:latitude":32.85791,
+    "geom:longitude":118.22888,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jiutangcun",
+    "gn:country_code":"CN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11481541,
+    "gn:latitude":32.85791,
+    "gn:longitude":118.22888,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Jiutangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e5d\u5858\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11481541
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c103edd04005516076d5a0fb0f511b2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209628631
+        }
+    ],
+    "wof:id":1209628631,
+    "wof:lastmodified":1537616939,
+    "wof:name":"Jiutangcun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.22888,
+    32.85791,
+    118.22888,
+    32.85791
+],
+  "geometry": {"coordinates":[118.22888,32.85791],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209387209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.352,23.1049,110.352,23.1049",
+    "geom:latitude":23.1049,
+    "geom:longitude":110.352,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Baitu",
+    "gn:country_code":"CN",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9894755,
+    "gn:latitude":23.1049,
+    "gn:longitude":110.352,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Baitu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u767d\u571f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9894755
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3aa71de3faf8c04b1cd0f0bb01d3933a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209387209
+        }
+    ],
+    "wof:id":1209387209,
+    "wof:lastmodified":1537606601,
+    "wof:name":"Baitu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.352,
+    23.1049,
+    110.352,
+    23.1049
+],
+  "geometry": {"coordinates":[110.352,23.1049],"type":"Point"}
+}

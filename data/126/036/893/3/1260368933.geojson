@@ -1,0 +1,77 @@
+{
+  "id": 1260368933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.93139,38.33676,113.93139,38.33676",
+    "geom:latitude":38.33676,
+    "geom:longitude":113.93139,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Xibaipo",
+    "gn:country_code":"CN",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1789673,
+    "gn:latitude":38.33676,
+    "gn:longitude":113.93139,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Xibaipo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsi-pai-p\u2019o",
+        "Xibaipo"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u67cf\u5761"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669797,
+        102191569,
+        85632695,
+        136253041,
+        890515171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1789673,
+        "wk:page":"Xibaipo"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3e498da9c36584b5bc3c6723913ad383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515171,
+            "empire_id":136253041,
+            "locality_id":1260368933,
+            "region_id":85669797
+        }
+    ],
+    "wof:id":1260368933,
+    "wof:lastmodified":1537592287,
+    "wof:name":"Xibaipo",
+    "wof:parent_id":890515171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.93139,
+    38.33676,
+    113.93139,
+    38.33676
+],
+  "geometry": {"coordinates":[113.93138999999999,38.33676],"type":"Point"}
+}

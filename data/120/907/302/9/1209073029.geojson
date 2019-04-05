@@ -1,0 +1,64 @@
+{
+  "id": 1209073029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.57531,37.28434,107.57531,37.28434",
+    "geom:latitude":37.28434,
+    "geom:longitude":107.57531,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Haoshan",
+    "gn:country_code":"CN",
+    "gn:dem":1797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11123283,
+    "gn:latitude":37.28434,
+    "gn:longitude":107.57531,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Haoshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u90dd\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11123283
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"04d37516486e96509d61e39f7c204182",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209073029
+        }
+    ],
+    "wof:id":1209073029,
+    "wof:lastmodified":1537615527,
+    "wof:name":"Haoshan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.57531000000002,
+    37.28434,
+    107.57531000000002,
+    37.28434
+],
+  "geometry": {"coordinates":[107.57531000000002,37.28434],"type":"Point"}
+}

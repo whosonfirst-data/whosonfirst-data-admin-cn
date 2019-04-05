@@ -1,0 +1,64 @@
+{
+  "id": 1209095717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.92348,33.85191,110.92348,33.85191",
+    "geom:latitude":33.85191,
+    "geom:longitude":110.92348,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dangdi",
+    "gn:country_code":"CN",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10404573,
+    "gn:latitude":33.85191,
+    "gn:longitude":110.92348,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Dangdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5f53\u5730"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10404573
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c45ee7d83b40968969925f119e387f5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209095717
+        }
+    ],
+    "wof:id":1209095717,
+    "wof:lastmodified":1537612993,
+    "wof:name":"Dangdi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.92348,
+    33.85191,
+    110.92348,
+    33.85191
+],
+  "geometry": {"coordinates":[110.92348,33.85191],"type":"Point"}
+}

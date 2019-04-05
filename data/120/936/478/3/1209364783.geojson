@@ -1,0 +1,64 @@
+{
+  "id": 1209364783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.70338,23.43112,112.70338,23.43112",
+    "geom:latitude":23.43112,
+    "geom:longitude":112.70338,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Putian",
+    "gn:country_code":"CN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6970561,
+    "gn:latitude":23.43112,
+    "gn:longitude":112.70338,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Putian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u57d4\u7530"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6970561
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"20c9ac6241254e13cc100e9f5599c521",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209364783
+        }
+    ],
+    "wof:id":1209364783,
+    "wof:lastmodified":1537597058,
+    "wof:name":"Putian",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.70338,
+    23.43112,
+    112.70338,
+    23.43112
+],
+  "geometry": {"coordinates":[112.70338,23.43112],"type":"Point"}
+}

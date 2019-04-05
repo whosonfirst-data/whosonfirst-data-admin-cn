@@ -1,0 +1,80 @@
+{
+  "id": 1310079811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.96667,44.5,119.96667,44.5",
+    "geom:latitude":44.5,
+    "geom:longitude":119.96667,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Han Sum",
+    "gn:country_code":"CN",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2037024,
+    "gn:latitude":44.5,
+    "gn:longitude":119.96667,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Han Sum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haan S\u00fcme",
+        "H\u0101ns\u016bmu",
+        "Ha-miao",
+        "Han-miao",
+        "Khan-sume",
+        "Han Sum"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f55\u5e99"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669847,
+        102191569,
+        85632695,
+        136253041,
+        890514597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2037024
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e068ec4467773eebca8a3a3fd3655dbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514597,
+            "empire_id":136253041,
+            "locality_id":1310079811,
+            "region_id":85669847
+        }
+    ],
+    "wof:id":1310079811,
+    "wof:lastmodified":1537595805,
+    "wof:name":"Han Sum",
+    "wof:parent_id":890514597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.96667,
+    44.5,
+    119.96667,
+    44.5
+],
+  "geometry": {"coordinates":[119.96666999999999,44.5],"type":"Point"}
+}

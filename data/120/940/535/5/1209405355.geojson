@@ -1,0 +1,64 @@
+{
+  "id": 1209405355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"132.2533,46.09529,132.2533,46.09529",
+    "geom:latitude":46.09529,
+    "geom:longitude":132.2533,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Guanghuicun",
+    "gn:country_code":"CN",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11570984,
+    "gn:latitude":46.09529,
+    "gn:longitude":132.2533,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Guanghuicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5149\u8f89\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11570984
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1e56ef177be96de3c775663cea8b6d47",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209405355
+        }
+    ],
+    "wof:id":1209405355,
+    "wof:lastmodified":1537617800,
+    "wof:name":"Guanghuicun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    132.2533,
+    46.09529000000001,
+    132.2533,
+    46.09529000000001
+],
+  "geometry": {"coordinates":[132.2533,46.09529000000001],"type":"Point"}
+}

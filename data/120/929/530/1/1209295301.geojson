@@ -1,0 +1,64 @@
+{
+  "id": 1209295301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.52264,28.72588,111.52264,28.72588",
+    "geom:latitude":28.72588,
+    "geom:longitude":111.52264,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Shuangyantang",
+    "gn:country_code":"CN",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10411300,
+    "gn:latitude":28.72588,
+    "gn:longitude":111.52264,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Shuangyantang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u53cc\u5830\u5858"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10411300
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3fc6eadc23f4d1ae4cbc735e8cdcbf54",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209295301
+        }
+    ],
+    "wof:id":1209295301,
+    "wof:lastmodified":1537613138,
+    "wof:name":"Shuangyantang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.52264,
+    28.72588,
+    111.52264,
+    28.72588
+],
+  "geometry": {"coordinates":[111.52264,28.72588],"type":"Point"}
+}

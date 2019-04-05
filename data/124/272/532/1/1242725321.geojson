@@ -1,0 +1,69 @@
+{
+  "id": 1242725321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.77306,39.02111,116.77306,39.02111",
+    "geom:latitude":39.02111,
+    "geom:longitude":116.77306,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Taitou",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1793540,
+    "gn:latitude":39.02111,
+    "gn:longitude":116.77306,
+    "gn:modification_date":"2001-08-02",
+    "gn:name":"Taitou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669817,
+        102191569,
+        85632695,
+        136253041,
+        890513813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1793540
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4386c27346302697e6b61b2f9034a513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513813,
+            "empire_id":136253041,
+            "locality_id":1242725321,
+            "region_id":85669817
+        }
+    ],
+    "wof:id":1242725321,
+    "wof:lastmodified":1536849965,
+    "wof:name":"Taitou",
+    "wof:parent_id":890513813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.77306000000002,
+    39.02111,
+    116.77306000000002,
+    39.02111
+],
+  "geometry": {"coordinates":[116.77306000000002,39.02111],"type":"Point"}
+}

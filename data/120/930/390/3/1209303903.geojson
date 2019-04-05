@@ -1,0 +1,64 @@
+{
+  "id": 1209303903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.64069,32.74527,111.64069,32.74527",
+    "geom:latitude":32.74527,
+    "geom:longitude":111.64069,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Liulou",
+    "gn:country_code":"CN",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10403182,
+    "gn:latitude":32.74527,
+    "gn:longitude":111.64069,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Liulou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5218\u697c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10403182
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1a123b01cae52fd914ee7bbf051a3c28",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209303903
+        }
+    ],
+    "wof:id":1209303903,
+    "wof:lastmodified":1537612943,
+    "wof:name":"Liulou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.64069,
+    32.74527,
+    111.64069,
+    32.74527
+],
+  "geometry": {"coordinates":[111.64069000000001,32.74527],"type":"Point"}
+}

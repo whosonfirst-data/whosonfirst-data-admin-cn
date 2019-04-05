@@ -1,0 +1,64 @@
+{
+  "id": 1209076157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.078,34.665,105.078,34.665",
+    "geom:latitude":34.665,
+    "geom:longitude":105.078,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Hutoushan",
+    "gn:country_code":"CN",
+    "gn:dem":1931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10428978,
+    "gn:latitude":34.665,
+    "gn:longitude":105.078,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Hutoushan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u864e\u5934\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10428978
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d14166255b04fd03a058c9d0a1195c5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209076157
+        }
+    ],
+    "wof:id":1209076157,
+    "wof:lastmodified":1537613561,
+    "wof:name":"Hutoushan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.078,
+    34.665,
+    105.078,
+    34.665
+],
+  "geometry": {"coordinates":[105.078,34.665],"type":"Point"}
+}

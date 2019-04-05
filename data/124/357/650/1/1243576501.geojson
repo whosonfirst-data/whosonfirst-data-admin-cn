@@ -1,0 +1,75 @@
+{
+  "id": 1243576501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.81705,43.84418,124.81705,43.84418",
+    "geom:latitude":43.84418,
+    "geom:longitude":124.81705,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ping'anlingcun",
+    "gn:country_code":"CN",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10914625,
+    "gn:latitude":43.84418,
+    "gn:longitude":124.81705,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Ping\u2019anlingcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ping\u2019anlingcun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e73\u5b89\u5cad\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669843,
+        102191569,
+        85632695,
+        136253041,
+        890514217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10914625
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"33c697c62fc57077705a980aff3f0a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514217,
+            "empire_id":136253041,
+            "locality_id":1243576501,
+            "region_id":85669843
+        }
+    ],
+    "wof:id":1243576501,
+    "wof:lastmodified":1537614830,
+    "wof:name":"Ping'anlingcun",
+    "wof:parent_id":890514217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.81705,
+    43.84418,
+    124.81705,
+    43.84418
+],
+  "geometry": {"coordinates":[124.81704999999999,43.84418],"type":"Point"}
+}

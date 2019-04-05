@@ -1,0 +1,77 @@
+{
+  "id": 1310289229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.85046,33.61849,113.85046,33.61849",
+    "geom:latitude":33.61849,
+    "geom:longitude":113.85046,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Xindian",
+    "gn:country_code":"CN",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1813303,
+    "gn:latitude":33.61849,
+    "gn:longitude":113.85046,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Xindian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-hsin-tien",
+        "Daxindian",
+        "Xindian",
+        "\u65b0\u5e97",
+        "Xindian Zhen",
+        "\u65b0\u5e97\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669801,
+        102191569,
+        85632695,
+        136253041,
+        890516247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1813303
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"df9eaf9e24ac7556997581c736c16e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516247,
+            "empire_id":136253041,
+            "locality_id":1310289229,
+            "region_id":85669801
+        }
+    ],
+    "wof:id":1310289229,
+    "wof:lastmodified":1537593817,
+    "wof:name":"Xindian",
+    "wof:parent_id":890516247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.85046,
+    33.61849,
+    113.85046,
+    33.61849
+],
+  "geometry": {"coordinates":[113.85046,33.61849],"type":"Point"}
+}

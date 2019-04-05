@@ -1,0 +1,64 @@
+{
+  "id": 1209275177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.238,25.1351,102.238,25.1351",
+    "geom:latitude":25.1351,
+    "geom:longitude":102.238,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Tianjingshan",
+    "gn:country_code":"CN",
+    "gn:dem":2238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10149710,
+    "gn:latitude":25.1351,
+    "gn:longitude":102.238,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Tianjingshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5929\u4e95\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10149710
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6d2fec9b15d512f05e82221980ade450",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209275177
+        }
+    ],
+    "wof:id":1209275177,
+    "wof:lastmodified":1537610428,
+    "wof:name":"Tianjingshan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.238,
+    25.1351,
+    102.238,
+    25.1351
+],
+  "geometry": {"coordinates":[102.238,25.1351],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1225839745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.15801,38.33461,114.15801,38.33461",
+    "geom:latitude":38.33461,
+    "geom:longitude":114.15801,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Lianghe",
+    "gn:country_code":"CN",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1804054,
+    "gn:latitude":38.33461,
+    "gn:longitude":114.15801,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Lianghe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liang-ho",
+        "Lianghe",
+        "\u4e24\u6cb3",
+        "Lianghe Xiang",
+        "\u4e24\u6cb3\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669797,
+        102191569,
+        85632695,
+        136253041,
+        890515171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1804054
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bb1b86b3f43f8213bb936b1cad57d84d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515171,
+            "empire_id":136253041,
+            "locality_id":1225839745,
+            "region_id":85669797
+        }
+    ],
+    "wof:id":1225839745,
+    "wof:lastmodified":1537593228,
+    "wof:name":"Lianghe",
+    "wof:parent_id":890515171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.15801,
+    38.33461,
+    114.15801,
+    38.33461
+],
+  "geometry": {"coordinates":[114.15801,38.33461],"type":"Point"}
+}

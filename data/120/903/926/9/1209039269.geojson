@@ -1,0 +1,64 @@
+{
+  "id": 1209039269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.53,32.5443,119.53,32.5443",
+    "geom:latitude":32.5443,
+    "geom:longitude":119.53,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Daguanzhuang",
+    "gn:country_code":"CN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11098558,
+    "gn:latitude":32.5443,
+    "gn:longitude":119.53,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Daguanzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u5b98\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11098558
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9a399b4714dc6b46343cc344621c02fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209039269
+        }
+    ],
+    "wof:id":1209039269,
+    "wof:lastmodified":1537615410,
+    "wof:name":"Daguanzhuang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.53,
+    32.5443,
+    119.53,
+    32.5443
+],
+  "geometry": {"coordinates":[119.53,32.5443],"type":"Point"}
+}

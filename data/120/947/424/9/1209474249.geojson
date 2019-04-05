@@ -1,0 +1,64 @@
+{
+  "id": 1209474249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.825,31.1803,104.825,31.1803",
+    "geom:latitude":31.1803,
+    "geom:longitude":104.825,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Wangzhu",
+    "gn:country_code":"CN",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10163171,
+    "gn:latitude":31.1803,
+    "gn:longitude":104.825,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Wangzhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u671b\u67f1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10163171
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b8f22c623796e0bf0b46392c1520fa6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209474249
+        }
+    ],
+    "wof:id":1209474249,
+    "wof:lastmodified":1537610863,
+    "wof:name":"Wangzhu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.825,
+    31.1803,
+    104.825,
+    31.1803
+],
+  "geometry": {"coordinates":[104.825,31.1803],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1193245833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.27371,37.13586,117.27371,37.13586",
+    "geom:latitude":37.13586,
+    "geom:longitude":117.27371,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Wendiancun",
+    "gn:country_code":"CN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11402150,
+    "gn:latitude":37.13586,
+    "gn:longitude":117.27371,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Wendiancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wendian"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e29\u5e97\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u6e29\u5e97"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669813,
+        102191569,
+        85632695,
+        136253041,
+        890516325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11402150
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"439908600e23f2134b8205aa6daf5205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516325,
+            "empire_id":136253041,
+            "locality_id":1193245833,
+            "region_id":85669813
+        }
+    ],
+    "wof:id":1193245833,
+    "wof:lastmodified":1537616339,
+    "wof:name":"Wendiancun",
+    "wof:parent_id":890516325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.27371,
+    37.13586,
+    117.27371,
+    37.13586
+],
+  "geometry": {"coordinates":[117.27370999999999,37.13586],"type":"Point"}
+}

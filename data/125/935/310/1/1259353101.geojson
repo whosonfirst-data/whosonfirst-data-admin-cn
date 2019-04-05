@@ -1,0 +1,75 @@
+{
+  "id": 1259353101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.97832,33.16493,104.97832,33.16493",
+    "geom:latitude":33.16493,
+    "geom:longitude":104.97832,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zhangjiana",
+    "gn:country_code":"CN",
+    "gn:dem":1625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7347630,
+    "gn:latitude":33.16493,
+    "gn:longitude":104.97832,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhangjiana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5f20\u5bb6\u7eb3"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f20\u5bb6\u7eb3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669711,
+        102191569,
+        85632695,
+        136253041,
+        890516335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7347630
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bd8e488fb3f0ec00e9e5e5bdc4dfc134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516335,
+            "empire_id":136253041,
+            "locality_id":1259353101,
+            "region_id":85669711
+        }
+    ],
+    "wof:id":1259353101,
+    "wof:lastmodified":1537598171,
+    "wof:name":"Zhangjiana",
+    "wof:parent_id":890516335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.97832,
+    33.16493,
+    104.97832,
+    33.16493
+],
+  "geometry": {"coordinates":[104.97832,33.16493],"type":"Point"}
+}

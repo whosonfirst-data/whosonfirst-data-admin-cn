@@ -1,0 +1,64 @@
+{
+  "id": 1209565799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.9167,25.0787,99.9167,25.0787",
+    "geom:latitude":25.0787,
+    "geom:longitude":99.9167,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Wayao",
+    "gn:country_code":"CN",
+    "gn:dem":1854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9940468,
+    "gn:latitude":25.0787,
+    "gn:longitude":99.9167,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Wayao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u74e6\u7a91"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9940468
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3c2a1a8e339a59f2ef25808faff6d614",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209565799
+        }
+    ],
+    "wof:id":1209565799,
+    "wof:lastmodified":1537607998,
+    "wof:name":"Wayao",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.9167,
+    25.0787,
+    99.9167,
+    25.0787
+],
+  "geometry": {"coordinates":[99.91670000000001,25.0787],"type":"Point"}
+}

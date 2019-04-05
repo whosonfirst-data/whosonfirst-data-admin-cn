@@ -1,0 +1,64 @@
+{
+  "id": 1209592661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.64989,31.99514,111.64989,31.99514",
+    "geom:latitude":31.99514,
+    "geom:longitude":111.64989,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Pingdingshan",
+    "gn:country_code":"CN",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8511208,
+    "gn:latitude":31.99514,
+    "gn:longitude":111.64989,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Pingdingshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u576a\u9876\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8511208
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"18ebab76d6c3ed00f4b24bddcf7731de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209592661
+        }
+    ],
+    "wof:id":1209592661,
+    "wof:lastmodified":1537604005,
+    "wof:name":"Pingdingshan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.64988999999998,
+    31.99514000000001,
+    111.64988999999998,
+    31.99514000000001
+],
+  "geometry": {"coordinates":[111.64988999999998,31.99514000000001],"type":"Point"}
+}

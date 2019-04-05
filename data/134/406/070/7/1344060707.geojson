@@ -1,0 +1,75 @@
+{
+  "id": 1344060707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.03333,32.90833,115.03333,32.90833",
+    "geom:latitude":32.90833,
+    "geom:longitude":115.03333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shangzhuangcun",
+    "gn:country_code":"CN",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1557559,
+    "gn:latitude":32.90833,
+    "gn:longitude":115.03333,
+    "gn:modification_date":"2015-07-02",
+    "gn:name":"Shangzhuangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shangzhuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c1a\u5e84\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669801,
+        102191569,
+        85632695,
+        136253041,
+        890514843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1557559
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f3e7a823a857f5c36797adfc2ef09102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514843,
+            "empire_id":136253041,
+            "locality_id":1344060707,
+            "region_id":85669801
+        }
+    ],
+    "wof:id":1344060707,
+    "wof:lastmodified":1537591840,
+    "wof:name":"Shangzhuangcun",
+    "wof:parent_id":890514843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.03333,
+    32.90833,
+    115.03333,
+    32.90833
+],
+  "geometry": {"coordinates":[115.03333000000001,32.90833],"type":"Point"}
+}

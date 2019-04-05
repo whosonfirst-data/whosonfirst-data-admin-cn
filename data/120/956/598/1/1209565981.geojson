@@ -1,0 +1,64 @@
+{
+  "id": 1209565981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.0167,23.7502,99.0167,23.7502",
+    "geom:latitude":23.7502,
+    "geom:longitude":99.0167,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Shidong",
+    "gn:country_code":"CN",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9937805,
+    "gn:latitude":23.7502,
+    "gn:longitude":99.0167,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Shidong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u77f3\u6d1e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9937805
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"af9bef89b6cdfa2c896bcadb9901494e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209565981
+        }
+    ],
+    "wof:id":1209565981,
+    "wof:lastmodified":1537607907,
+    "wof:name":"Shidong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.0167,
+    23.7502,
+    99.0167,
+    23.7502
+],
+  "geometry": {"coordinates":[99.0167,23.7502],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209106349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.379,33.1519,120.379,33.1519",
+    "geom:latitude":33.1519,
+    "geom:longitude":120.379,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhutuan",
+    "gn:country_code":"CN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11120104,
+    "gn:latitude":33.1519,
+    "gn:longitude":120.379,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Zhutuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7af9\u56e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11120104
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0487d254756468a6e17c40bbdc98881f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209106349
+        }
+    ],
+    "wof:id":1209106349,
+    "wof:lastmodified":1537615498,
+    "wof:name":"Zhutuan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.379,
+    33.1519,
+    120.379,
+    33.1519
+],
+  "geometry": {"coordinates":[120.379,33.1519],"type":"Point"}
+}

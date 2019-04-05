@@ -1,0 +1,64 @@
+{
+  "id": 1209066305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.84392,23.86277,116.84392,23.86277",
+    "geom:latitude":23.86277,
+    "geom:longitude":116.84392,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Kengnei",
+    "gn:country_code":"CN",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1998240,
+    "gn:latitude":23.86277,
+    "gn:longitude":116.84392,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Kengnei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5751\u5185"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1998240
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"10ca797ab96fa391d31894cafbe4d714",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209066305
+        }
+    ],
+    "wof:id":1209066305,
+    "wof:lastmodified":1537595405,
+    "wof:name":"Kengnei",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.84392,
+    23.86277,
+    116.84392,
+    23.86277
+],
+  "geometry": {"coordinates":[116.84392,23.86277],"type":"Point"}
+}

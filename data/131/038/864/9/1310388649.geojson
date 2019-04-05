@@ -1,0 +1,78 @@
+{
+  "id": 1310388649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.1,29.2,88.1,29.2",
+    "geom:latitude":29.2,
+    "geom:longitude":88.1,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ngomozong",
+    "gn:country_code":"CN",
+    "gn:dem":4608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7930089,
+    "gn:latitude":29.2,
+    "gn:longitude":88.1,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ngomozong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Ngomozong"
+    ],
+    "name:zho_x_preferred":[
+        "Emozhong"
+    ],
+    "name:zho_x_variant":[
+        "\u4fc4\u6a21\u949f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930089
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9c967b7fa6eb70fb4b9c945ad254c0f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1310388649,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1310388649,
+    "wof:lastmodified":1537602074,
+    "wof:name":"Ngomozong",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.1,
+    29.2,
+    88.1,
+    29.2
+],
+  "geometry": {"coordinates":[88.09999999999999,29.2],"type":"Point"}
+}

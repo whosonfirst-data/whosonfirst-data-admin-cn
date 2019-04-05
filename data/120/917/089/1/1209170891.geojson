@@ -1,0 +1,64 @@
+{
+  "id": 1209170891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.48499,35.45981,109.48499,35.45981",
+    "geom:latitude":35.45981,
+    "geom:longitude":109.48499,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Yaokecun",
+    "gn:country_code":"CN",
+    "gn:dem":912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11213357,
+    "gn:latitude":35.45981,
+    "gn:longitude":109.48499,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Yaokecun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5c27\u79d1\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11213357
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"21e025293527c601dc07c1ee3ef4efee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209170891
+        }
+    ],
+    "wof:id":1209170891,
+    "wof:lastmodified":1537615918,
+    "wof:name":"Yaokecun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.48499,
+    35.45981,
+    109.48499,
+    35.45981
+],
+  "geometry": {"coordinates":[109.48499,35.45981],"type":"Point"}
+}

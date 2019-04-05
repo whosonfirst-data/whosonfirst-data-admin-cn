@@ -1,0 +1,78 @@
+{
+  "id": 1226545023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.09755,32.98275,119.09755,32.98275",
+    "geom:latitude":32.98275,
+    "geom:longitude":119.09755,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Jingou",
+    "gn:country_code":"CN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1805603,
+    "gn:latitude":32.98275,
+    "gn:longitude":119.09755,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Jingou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chin-kou",
+        "Jingouzhen",
+        "Chin-kou-ch\u2019iao",
+        "Jingou"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        1108732465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1805603
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8af331315752d47655cc6701a84edb62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732465,
+            "empire_id":136253041,
+            "locality_id":1226545023,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1226545023,
+    "wof:lastmodified":1537593325,
+    "wof:name":"Jingou",
+    "wof:parent_id":1108732465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.09755,
+    32.98275,
+    119.09755,
+    32.98275
+],
+  "geometry": {"coordinates":[119.09755,32.98275],"type":"Point"}
+}

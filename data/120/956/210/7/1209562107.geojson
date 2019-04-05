@@ -1,0 +1,64 @@
+{
+  "id": 1209562107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.648,25.944,101.648,25.944",
+    "geom:latitude":25.944,
+    "geom:longitude":101.648,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Lubao Zhongcun",
+    "gn:country_code":"CN",
+    "gn:dem":1445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10152410,
+    "gn:latitude":25.944,
+    "gn:longitude":101.648,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Lubao Zhongcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8def\u4fdd\u4e2d\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10152410
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"067f1a450a6295c3cb78040f5aa36318",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209562107
+        }
+    ],
+    "wof:id":1209562107,
+    "wof:lastmodified":1537610525,
+    "wof:name":"Lubao Zhongcun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.648,
+    25.94400000000001,
+    101.648,
+    25.94400000000001
+],
+  "geometry": {"coordinates":[101.648,25.94400000000001],"type":"Point"}
+}

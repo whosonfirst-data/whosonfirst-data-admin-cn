@@ -1,0 +1,64 @@
+{
+  "id": 1209486149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.339,30.0486,90.339,30.0486",
+    "geom:latitude":30.0486,
+    "geom:longitude":90.339,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zaniguo",
+    "gn:country_code":"CN",
+    "gn:dem":4645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10274063,
+    "gn:latitude":30.0486,
+    "gn:longitude":90.339,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Zaniguo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6742\u5c3c\u679c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10274063
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"60ae99c8820ae8db35120cb0c33ea529",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209486149
+        }
+    ],
+    "wof:id":1209486149,
+    "wof:lastmodified":1537611967,
+    "wof:name":"Zaniguo",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.339,
+    30.0486,
+    90.339,
+    30.0486
+],
+  "geometry": {"coordinates":[90.339,30.0486],"type":"Point"}
+}

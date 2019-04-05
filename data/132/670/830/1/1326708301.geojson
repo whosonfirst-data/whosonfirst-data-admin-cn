@@ -1,0 +1,76 @@
+{
+  "id": 1326708301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.76877,29.74993,111.76877,29.74993",
+    "geom:latitude":29.74993,
+    "geom:longitude":111.76877,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Cennan",
+    "gn:country_code":"CN",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1928086,
+    "gn:latitude":29.74993,
+    "gn:longitude":111.76877,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cennan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6d94\u5357",
+        "Cengjiahe",
+        "Cennan Xiang",
+        "\u66fe\u5bb6\u6cb3",
+        "\u6d94\u5357\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890515867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1928086
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5e84c6831b215d37cd4e95cc61093b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515867,
+            "empire_id":136253041,
+            "locality_id":1326708301,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1326708301,
+    "wof:lastmodified":1537594975,
+    "wof:name":"Cennan",
+    "wof:parent_id":890515867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.76877,
+    29.74993,
+    111.76877,
+    29.74993
+],
+  "geometry": {"coordinates":[111.76877,29.74993],"type":"Point"}
+}

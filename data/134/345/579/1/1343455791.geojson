@@ -1,0 +1,69 @@
+{
+  "id": 1343455791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.4,33.05,99.4,33.05",
+    "geom:latitude":33.05,
+    "geom:longitude":99.4,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nyilag",
+    "gn:country_code":"CN",
+    "gn:dem":4510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1280396,
+    "gn:latitude":33.05,
+    "gn:longitude":99.4,
+    "gn:modification_date":"1994-02-05",
+    "gn:name":"Nyilag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669715,
+        102191569,
+        85632695,
+        136253041,
+        1108732441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1280396
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"299de3e9bf6a431206975c7c0abafd35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732441,
+            "empire_id":136253041,
+            "locality_id":1343455791,
+            "region_id":85669715
+        }
+    ],
+    "wof:id":1343455791,
+    "wof:lastmodified":1536752932,
+    "wof:name":"Nyilag",
+    "wof:parent_id":1108732441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.4,
+    33.05,
+    99.4,
+    33.05
+],
+  "geometry": {"coordinates":[99.40000000000001,33.05],"type":"Point"}
+}

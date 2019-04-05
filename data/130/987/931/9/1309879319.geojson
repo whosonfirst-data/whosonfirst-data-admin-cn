@@ -1,0 +1,78 @@
+{
+  "id": 1309879319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.201,28.801,98.201,28.801",
+    "geom:latitude":28.801,
+    "geom:longitude":98.201,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Pugbo",
+    "gn:country_code":"CN",
+    "gn:dem":2481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7894364,
+    "gn:latitude":28.801,
+    "gn:longitude":98.201,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Pugbo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Pugbo"
+    ],
+    "name:zho_x_preferred":[
+        "Bubo"
+    ],
+    "name:zho_x_variant":[
+        "\u5e03\u6ce2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7894364
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a5818d5ced3b62c2b0dcfbb11d04f4cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515951,
+            "empire_id":136253041,
+            "locality_id":1309879319,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1309879319,
+    "wof:lastmodified":1537601851,
+    "wof:name":"Pugbo",
+    "wof:parent_id":890515951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.201,
+    28.801,
+    98.201,
+    28.801
+],
+  "geometry": {"coordinates":[98.20099999999999,28.801],"type":"Point"}
+}

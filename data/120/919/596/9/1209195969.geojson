@@ -1,0 +1,64 @@
+{
+  "id": 1209195969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.482,23.5791,110.482,23.5791",
+    "geom:latitude":23.5791,
+    "geom:longitude":110.482,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Shajiang",
+    "gn:country_code":"CN",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9919151,
+    "gn:latitude":23.5791,
+    "gn:longitude":110.482,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Shajiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6c99\u6c5f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9919151
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"eaa0d422bb9f246431c90e214ea2ab98",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209195969
+        }
+    ],
+    "wof:id":1209195969,
+    "wof:lastmodified":1537607333,
+    "wof:name":"Shajiang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.482,
+    23.5791,
+    110.482,
+    23.5791
+],
+  "geometry": {"coordinates":[110.482,23.5791],"type":"Point"}
+}

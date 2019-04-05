@@ -1,0 +1,78 @@
+{
+  "id": 1225795033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.27068,23.53791,116.27068,23.53791",
+    "geom:latitude":23.53791,
+    "geom:longitude":116.27068,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Lantoucun",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10864486,
+    "gn:latitude":23.53791,
+    "gn:longitude":116.27068,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Lantoucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lantou"
+    ],
+    "name:zho_x_preferred":[
+        "\u7bee\u5934\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u5170\u5934"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        1108732429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10864486
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e1aef145ed0ee8ad6a26f9706c1ddfc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732429,
+            "empire_id":136253041,
+            "locality_id":1225795033,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1225795033,
+    "wof:lastmodified":1537614549,
+    "wof:name":"Lantoucun",
+    "wof:parent_id":1108732429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.27068,
+    23.53791,
+    116.27068,
+    23.53791
+],
+  "geometry": {"coordinates":[116.27068,23.53791],"type":"Point"}
+}

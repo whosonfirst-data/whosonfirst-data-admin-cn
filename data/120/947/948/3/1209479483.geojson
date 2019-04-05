@@ -1,0 +1,64 @@
+{
+  "id": 1209479483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.787,36.8888,105.787,36.8888",
+    "geom:latitude":36.8888,
+    "geom:longitude":105.787,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Huanggu",
+    "gn:country_code":"CN",
+    "gn:dem":1531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10204471,
+    "gn:latitude":36.8888,
+    "gn:longitude":105.787,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Huanggu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9ec4\u8c37"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10204471
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"758111b93e4d605104b7f6c266219920",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209479483
+        }
+    ],
+    "wof:id":1209479483,
+    "wof:lastmodified":1537611374,
+    "wof:name":"Huanggu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.787,
+    36.8888,
+    105.787,
+    36.8888
+],
+  "geometry": {"coordinates":[105.78700000000001,36.8888],"type":"Point"}
+}

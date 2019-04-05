@@ -1,0 +1,64 @@
+{
+  "id": 1209283775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.647,22.3235,109.647,22.3235",
+    "geom:latitude":22.3235,
+    "geom:longitude":109.647,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bandong",
+    "gn:country_code":"CN",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9899334,
+    "gn:latitude":22.3235,
+    "gn:longitude":109.647,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Bandong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6e74\u578c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9899334
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8adfaa61b666d242d351655e37800689",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209283775
+        }
+    ],
+    "wof:id":1209283775,
+    "wof:lastmodified":1537606758,
+    "wof:name":"Bandong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.647,
+    22.3235,
+    109.647,
+    22.3235
+],
+  "geometry": {"coordinates":[109.64700000000001,22.3235],"type":"Point"}
+}

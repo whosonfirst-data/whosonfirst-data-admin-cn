@@ -1,0 +1,64 @@
+{
+  "id": 1209615393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.0741,33.93768,119.0741,33.93768",
+    "geom:latitude":33.93768,
+    "geom:longitude":119.0741,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Maduo",
+    "gn:country_code":"CN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1548038,
+    "gn:latitude":33.93768,
+    "gn:longitude":119.0741,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Maduo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9ebb\u579b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1548038
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"52341f28c23e27bc2e89b659e0d58666",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209615393
+        }
+    ],
+    "wof:id":1209615393,
+    "wof:lastmodified":1537591652,
+    "wof:name":"Maduo",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.0741,
+    33.93768,
+    119.0741,
+    33.93768
+],
+  "geometry": {"coordinates":[119.0741,33.93768],"type":"Point"}
+}

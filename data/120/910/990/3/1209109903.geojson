@@ -1,0 +1,64 @@
+{
+  "id": 1209109903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.62191,32.77213,115.62191,32.77213",
+    "geom:latitude":32.77213,
+    "geom:longitude":115.62191,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pushancun",
+    "gn:country_code":"CN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10416225,
+    "gn:latitude":32.77213,
+    "gn:longitude":115.62191,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Pushancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u666e\u5584\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10416225
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c2198b402195a54b888d43feb2cf478a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209109903
+        }
+    ],
+    "wof:id":1209109903,
+    "wof:lastmodified":1537613291,
+    "wof:name":"Pushancun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.62191,
+    32.77213,
+    115.62191,
+    32.77213
+],
+  "geometry": {"coordinates":[115.62191,32.77213],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1260273675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.85529,47.86951,124.85529,47.86951",
+    "geom:latitude":47.86951,
+    "geom:longitude":124.85529,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Fuhai",
+    "gn:country_code":"CN",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2037382,
+    "gn:latitude":47.86951,
+    "gn:longitude":124.85529,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Fuhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fuhai Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bcc\u6d77"
+    ],
+    "name:zho_x_variant":[
+        "\u5bcc\u6d77\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890516483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2037382
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b29bfb7eb90e959578b1b9140a5688c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516483,
+            "empire_id":136253041,
+            "locality_id":1260273675,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1260273675,
+    "wof:lastmodified":1537595824,
+    "wof:name":"Fuhai",
+    "wof:parent_id":890516483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.85529,
+    47.86951,
+    124.85529,
+    47.86951
+],
+  "geometry": {"coordinates":[124.85529,47.86951],"type":"Point"}
+}

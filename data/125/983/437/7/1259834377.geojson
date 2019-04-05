@@ -1,0 +1,77 @@
+{
+  "id": 1259834377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.82549,34.31573,107.82549,34.31573",
+    "geom:latitude":34.31573,
+    "geom:longitude":107.82549,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Wujing",
+    "gn:country_code":"CN",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1791162,
+    "gn:latitude":34.31573,
+    "gn:longitude":107.82549,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wujing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wu-ching-chen",
+        "Wu-ching",
+        "Wujing",
+        "\u5348\u4e95",
+        "Wujing Zhen",
+        "\u5348\u4e95\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890516525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1791162
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"831297dada1bafb67bab4d71983753ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516525,
+            "empire_id":136253041,
+            "locality_id":1259834377,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1259834377,
+    "wof:lastmodified":1537592384,
+    "wof:name":"Wujing",
+    "wof:parent_id":890516525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.82549,
+    34.31573,
+    107.82549,
+    34.31573
+],
+  "geometry": {"coordinates":[107.82549,34.31573],"type":"Point"}
+}

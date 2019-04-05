@@ -1,0 +1,76 @@
+{
+  "id": 1360297529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.25171,30.39943,120.25171,30.39943",
+    "geom:latitude":30.39943,
+    "geom:longitude":120.25171,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Xingqiao",
+    "gn:country_code":"CN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":7735165,
+    "gn:latitude":30.39943,
+    "gn:longitude":120.25171,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Xingqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u661f\u6865",
+        "Xingqiao Zhen",
+        "Xingqiao Jiedao",
+        "\u661f\u6865\u9547",
+        "\u661f\u6865\u8857\u9053"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7735165
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1af25416a1040a62991130244716c822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516555,
+            "empire_id":136253041,
+            "locality_id":1360297529,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1360297529,
+    "wof:lastmodified":1537601222,
+    "wof:name":"Xingqiao",
+    "wof:parent_id":890516555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.25171,
+    30.39943,
+    120.25171,
+    30.39943
+],
+  "geometry": {"coordinates":[120.25171,30.39943],"type":"Point"}
+}

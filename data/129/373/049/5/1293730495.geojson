@@ -1,0 +1,76 @@
+{
+  "id": 1293730495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.06936,23.71618,112.06936,23.71618",
+    "geom:latitude":23.71618,
+    "geom:longitude":112.06936,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Yonggu",
+    "gn:country_code":"CN",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1786348,
+    "gn:latitude":23.71618,
+    "gn:longitude":112.06936,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Yonggu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yonggu Zhen",
+        "\u6c38\u56fa\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c38\u56fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890514727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1786348
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"95b80cc16de8d811471d3b7d6d8fe53c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514727,
+            "empire_id":136253041,
+            "locality_id":1293730495,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1293730495,
+    "wof:lastmodified":1537592055,
+    "wof:name":"Yonggu",
+    "wof:parent_id":890514727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.06936,
+    23.71618,
+    112.06936,
+    23.71618
+],
+  "geometry": {"coordinates":[112.06936,23.71618],"type":"Point"}
+}

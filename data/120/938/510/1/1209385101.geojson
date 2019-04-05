@@ -1,0 +1,64 @@
+{
+  "id": 1209385101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.015,35.8011,105.015,35.8011",
+    "geom:latitude":35.8011,
+    "geom:longitude":105.015,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Lijiazhuang",
+    "gn:country_code":"CN",
+    "gn:dem":1846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7349607,
+    "gn:latitude":35.8011,
+    "gn:longitude":105.015,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"Lijiazhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u674e\u5bb6\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7349607
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b766994806087be785e48358d183c9bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209385101
+        }
+    ],
+    "wof:id":1209385101,
+    "wof:lastmodified":1537598253,
+    "wof:name":"Lijiazhuang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.015,
+    35.8011,
+    105.015,
+    35.8011
+],
+  "geometry": {"coordinates":[105.015,35.8011],"type":"Point"}
+}

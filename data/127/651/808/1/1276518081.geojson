@@ -1,0 +1,80 @@
+{
+  "id": 1276518081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.502,32.302,93.502,32.302",
+    "geom:latitude":32.302,
+    "geom:longitude":93.502,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kanggor",
+    "gn:country_code":"CN",
+    "gn:dem":4784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8042103,
+    "gn:latitude":32.302,
+    "gn:longitude":93.502,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kanggor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Kanggor"
+    ],
+    "name:zho_x_preferred":[
+        "Kangguo"
+    ],
+    "name:zho_x_variant":[
+        "\u5eb7\u679c",
+        "Cuolongka",
+        "\u9519\u9647\u5361"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8042103
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"af43d2299047f502d170e6d74d3c6c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1276518081,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1276518081,
+    "wof:lastmodified":1537602353,
+    "wof:name":"Kanggor",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.502,
+    32.302,
+    93.502,
+    32.302
+],
+  "geometry": {"coordinates":[93.502,32.302],"type":"Point"}
+}

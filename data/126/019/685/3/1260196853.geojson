@@ -1,0 +1,75 @@
+{
+  "id": 1260196853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.38812,32.55512,117.38812,32.55512",
+    "geom:latitude":32.55512,
+    "geom:longitude":117.38812,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zhuyangcun",
+    "gn:country_code":"CN",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10415113,
+    "gn:latitude":32.55512,
+    "gn:longitude":117.38812,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Zhuyangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u795d\u6768\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u795d\u626c\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890513329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10415113
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7bf99564a2bc863f937c9ade8dfadbb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513329,
+            "empire_id":136253041,
+            "locality_id":1260196853,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1260196853,
+    "wof:lastmodified":1537613251,
+    "wof:name":"Zhuyangcun",
+    "wof:parent_id":890513329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.38812,
+    32.55512,
+    117.38812,
+    32.55512
+],
+  "geometry": {"coordinates":[117.38812,32.55512],"type":"Point"}
+}

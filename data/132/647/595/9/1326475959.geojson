@@ -1,0 +1,76 @@
+{
+  "id": 1326475959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.48876,30.04525,101.48876,30.04525",
+    "geom:latitude":30.04525,
+    "geom:longitude":101.48876,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Xinduqiao",
+    "gn:country_code":"CN",
+    "gn:dem":3469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1789093,
+    "gn:latitude":30.04525,
+    "gn:longitude":101.48876,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Xinduqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-tu-ch\u2019iao",
+        "Xinduqiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u90fd\u6865"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890514703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1789093
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d5998a7bef815162160b848f326b7136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514703,
+            "empire_id":136253041,
+            "locality_id":1326475959,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1326475959,
+    "wof:lastmodified":1537592243,
+    "wof:name":"Xinduqiao",
+    "wof:parent_id":890514703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.48876,
+    30.04525,
+    101.48876,
+    30.04525
+],
+  "geometry": {"coordinates":[101.48876,30.04525],"type":"Point"}
+}

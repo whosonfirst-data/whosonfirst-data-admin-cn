@@ -1,0 +1,75 @@
+{
+  "id": 1326492649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.06485,41.10551,123.06485,41.10551",
+    "geom:latitude":41.10551,
+    "geom:longitude":123.06485,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Wangjiayu",
+    "gn:country_code":"CN",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7398082,
+    "gn:latitude":41.10551,
+    "gn:longitude":123.06485,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Wangjiayu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6c6a\u5bb6\u5cea"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c6a\u5bb6\u5cea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7398082
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"51b65dcdc011ab8faab1c7b6a2a2d7e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514231,
+            "empire_id":136253041,
+            "locality_id":1326492649,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1326492649,
+    "wof:lastmodified":1537598549,
+    "wof:name":"Wangjiayu",
+    "wof:parent_id":890514231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.06485,
+    41.10551,
+    123.06485,
+    41.10551
+],
+  "geometry": {"coordinates":[123.06485000000001,41.10551],"type":"Point"}
+}

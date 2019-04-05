@@ -1,0 +1,64 @@
+{
+  "id": 1209010805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.71144,27.87071,114.71144,27.87071",
+    "geom:latitude":27.87071,
+    "geom:longitude":114.71144,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Anbei",
+    "gn:country_code":"CN",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7658192,
+    "gn:latitude":27.87071,
+    "gn:longitude":114.71144,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Anbei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5eb5\u80cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7658192
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5197f829472848cf53fb1d86bc948a99",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209010805
+        }
+    ],
+    "wof:id":1209010805,
+    "wof:lastmodified":1537600765,
+    "wof:name":"Anbei",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.71144,
+    27.87071,
+    114.71144,
+    27.87071
+],
+  "geometry": {"coordinates":[114.71144,27.87071],"type":"Point"}
+}

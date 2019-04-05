@@ -1,0 +1,77 @@
+{
+  "id": 1226023639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.9,38.46667,116.9,38.46667",
+    "geom:latitude":38.46667,
+    "geom:longitude":116.9,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Xingji",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1789011,
+    "gn:latitude":38.46667,
+    "gn:longitude":116.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Xingji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hingtai",
+        "Hsing-chi",
+        "Sintszichzhen\u2019",
+        "Hsing-chi-chen",
+        "Xingji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669797,
+        102191569,
+        85632695,
+        136253041,
+        890513789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1789011
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"86b7dc69a08ddb19a73b6555c9f936b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513789,
+            "empire_id":136253041,
+            "locality_id":1226023639,
+            "region_id":85669797
+        }
+    ],
+    "wof:id":1226023639,
+    "wof:lastmodified":1537592236,
+    "wof:name":"Xingji",
+    "wof:parent_id":890513789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.9,
+    38.46667,
+    116.9,
+    38.46667
+],
+  "geometry": {"coordinates":[116.90000000000001,38.46667],"type":"Point"}
+}

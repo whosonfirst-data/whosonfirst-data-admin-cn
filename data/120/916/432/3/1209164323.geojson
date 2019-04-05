@@ -1,0 +1,64 @@
+{
+  "id": 1209164323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.80883,22.1219,112.80883,22.1219",
+    "geom:latitude":22.1219,
+    "geom:longitude":112.80883,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Zhuhu",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8066098,
+    "gn:latitude":22.1219,
+    "gn:longitude":112.80883,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zhuhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7af9\u6e56"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066098
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7beade1685c4dc32898f9a34bcbf9636",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209164323
+        }
+    ],
+    "wof:id":1209164323,
+    "wof:lastmodified":1537602517,
+    "wof:name":"Zhuhu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.80883,
+    22.1219,
+    112.80883,
+    22.1219
+],
+  "geometry": {"coordinates":[112.80883,22.1219],"type":"Point"}
+}

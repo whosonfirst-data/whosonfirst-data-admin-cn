@@ -1,0 +1,64 @@
+{
+  "id": 1209296881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.825,37.1219,104.825,37.1219",
+    "geom:latitude":37.1219,
+    "geom:longitude":104.825,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Beishan",
+    "gn:country_code":"CN",
+    "gn:dem":1636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10758010,
+    "gn:latitude":37.1219,
+    "gn:longitude":104.825,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Beishan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5317\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10758010
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6c6f1ea65ec53fb76c76ce4eaff9475f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209296881
+        }
+    ],
+    "wof:id":1209296881,
+    "wof:lastmodified":1537614430,
+    "wof:name":"Beishan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.825,
+    37.1219,
+    104.825,
+    37.1219
+],
+  "geometry": {"coordinates":[104.825,37.1219],"type":"Point"}
+}

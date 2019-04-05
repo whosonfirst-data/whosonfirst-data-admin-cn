@@ -1,0 +1,69 @@
+{
+  "id": 1293181869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.20667,25.31944,111.20667,25.31944",
+    "geom:latitude":25.31944,
+    "geom:longitude":111.20667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Banpu",
+    "gn:country_code":"CN",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6412405,
+    "gn:latitude":25.31944,
+    "gn:longitude":111.20667,
+    "gn:modification_date":"2007-03-19",
+    "gn:name":"Banpu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890515001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6412405
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b2b1504f1dc700cfacdf8391e0ac4f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515001,
+            "empire_id":136253041,
+            "locality_id":1293181869,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1293181869,
+    "wof:lastmodified":1536731088,
+    "wof:name":"Banpu",
+    "wof:parent_id":890515001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.20667,
+    25.31944,
+    111.20667,
+    25.31944
+],
+  "geometry": {"coordinates":[111.20667,25.31944],"type":"Point"}
+}

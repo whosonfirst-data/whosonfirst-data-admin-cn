@@ -1,0 +1,64 @@
+{
+  "id": 1209417799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.21661,29.81143,121.21661,29.81143",
+    "geom:latitude":29.81143,
+    "geom:longitude":121.21661,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Xiamen",
+    "gn:country_code":"CN",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11199091,
+    "gn:latitude":29.81143,
+    "gn:longitude":121.21661,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Xiamen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u72ed\u95e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11199091
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1bd4a50fe1342c318f2a7739c7dad0ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209417799
+        }
+    ],
+    "wof:id":1209417799,
+    "wof:lastmodified":1537615867,
+    "wof:name":"Xiamen",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.21661,
+    29.81143,
+    121.21661,
+    29.81143
+],
+  "geometry": {"coordinates":[121.21661,29.81143],"type":"Point"}
+}

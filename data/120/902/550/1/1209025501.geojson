@@ -1,0 +1,64 @@
+{
+  "id": 1209025501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.46916,46.24953,130.46916,46.24953",
+    "geom:latitude":46.24953,
+    "geom:longitude":130.46916,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hongdacun",
+    "gn:country_code":"CN",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11589827,
+    "gn:latitude":46.24953,
+    "gn:longitude":130.46916,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Hongdacun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7ea2\u5927\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11589827
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f104b34a786bc2ff097cada412e47284",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209025501
+        }
+    ],
+    "wof:id":1209025501,
+    "wof:lastmodified":1537618317,
+    "wof:name":"Hongdacun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.46916000000002,
+    46.24953,
+    130.46916000000002,
+    46.24953
+],
+  "geometry": {"coordinates":[130.46916000000002,46.24953],"type":"Point"}
+}

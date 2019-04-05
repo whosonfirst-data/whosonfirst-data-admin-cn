@@ -1,0 +1,74 @@
+{
+  "id": 1243563203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.52665,30.13219,119.52665,30.13219",
+    "geom:latitude":30.13219,
+    "geom:longitude":119.52665,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Houyuanwu",
+    "gn:country_code":"CN",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7679555,
+    "gn:latitude":30.13219,
+    "gn:longitude":119.52665,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Houyuanwu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u540e\u6e90\u575e",
+        "Houyuan",
+        "\u540e\u6e90"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7679555
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6943aa2e60bfbb905d8e5cd0d61f8f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516555,
+            "empire_id":136253041,
+            "locality_id":1243563203,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1243563203,
+    "wof:lastmodified":1537600917,
+    "wof:name":"Houyuanwu",
+    "wof:parent_id":890516555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.52665,
+    30.13219,
+    119.52665,
+    30.13219
+],
+  "geometry": {"coordinates":[119.52665,30.13219],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209400099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.46906,45.87621,124.46906,45.87621",
+    "geom:latitude":45.87621,
+    "geom:longitude":124.46906,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Laha",
+    "gn:country_code":"CN",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11579693,
+    "gn:latitude":45.87621,
+    "gn:longitude":124.46906,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Laha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u62c9\u54c8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11579693
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0be5c8502b784b3140341c4572982d2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209400099
+        }
+    ],
+    "wof:id":1209400099,
+    "wof:lastmodified":1537618014,
+    "wof:name":"Laha",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.46906,
+    45.87621,
+    124.46906,
+    45.87621
+],
+  "geometry": {"coordinates":[124.46906,45.87621],"type":"Point"}
+}

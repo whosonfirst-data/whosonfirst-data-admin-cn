@@ -1,0 +1,64 @@
+{
+  "id": 1209365303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.073,22.7613,102.073,22.7613",
+    "geom:latitude":22.7613,
+    "geom:longitude":102.073,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Sanjia",
+    "gn:country_code":"CN",
+    "gn:dem":1302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9921316,
+    "gn:latitude":22.7613,
+    "gn:longitude":102.073,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Sanjia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e09\u5bb6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9921316
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"74df51be23c8938e8d8c0d5063c73322",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209365303
+        }
+    ],
+    "wof:id":1209365303,
+    "wof:lastmodified":1537607399,
+    "wof:name":"Sanjia",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.073,
+    22.7613,
+    102.073,
+    22.7613
+],
+  "geometry": {"coordinates":[102.07299999999999,22.7613],"type":"Point"}
+}

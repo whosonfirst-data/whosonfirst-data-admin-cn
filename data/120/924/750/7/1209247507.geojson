@@ -1,0 +1,64 @@
+{
+  "id": 1209247507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.72242,32.70836,119.72242,32.70836",
+    "geom:latitude":32.70836,
+    "geom:longitude":119.72242,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Nanping",
+    "gn:country_code":"CN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8226975,
+    "gn:latitude":32.70836,
+    "gn:longitude":119.72242,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Nanping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5357\u5c4f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8226975
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9820bcb71c5de44830f67f19c03bdf22",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209247507
+        }
+    ],
+    "wof:id":1209247507,
+    "wof:lastmodified":1537602763,
+    "wof:name":"Nanping",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.72242,
+    32.70836,
+    119.72242,
+    32.70836
+],
+  "geometry": {"coordinates":[119.72242,32.70836],"type":"Point"}
+}

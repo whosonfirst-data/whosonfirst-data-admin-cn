@@ -1,0 +1,64 @@
+{
+  "id": 1209338203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.69568,32.56049,120.69568,32.56049",
+    "geom:latitude":32.56049,
+    "geom:longitude":120.69568,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Yangzhuang",
+    "gn:country_code":"CN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8540522,
+    "gn:latitude":32.56049,
+    "gn:longitude":120.69568,
+    "gn:modification_date":"2017-08-03",
+    "gn:name":"Yangzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6768\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8540522
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"754ed3dd5c03f4bb5c52e5155bc7a3c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209338203
+        }
+    ],
+    "wof:id":1209338203,
+    "wof:lastmodified":1537604387,
+    "wof:name":"Yangzhuang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.69568,
+    32.56049,
+    120.69568,
+    32.56049
+],
+  "geometry": {"coordinates":[120.69568,32.56049],"type":"Point"}
+}

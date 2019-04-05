@@ -1,0 +1,75 @@
+{
+  "id": 1327299311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.92005,40.72521,124.92005,40.72521",
+    "geom:latitude":40.72521,
+    "geom:longitude":124.92005,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shangchagou",
+    "gn:country_code":"CN",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7402074,
+    "gn:latitude":40.72521,
+    "gn:longitude":124.92005,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shangchagou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e0a\u5c94\u6c9f"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u5c94\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7402074
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f5d41c2a55db9363a6b23f48072dd17f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514725,
+            "empire_id":136253041,
+            "locality_id":1327299311,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1327299311,
+    "wof:lastmodified":1537598770,
+    "wof:name":"Shangchagou",
+    "wof:parent_id":890514725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.92005,
+    40.72521,
+    124.92005,
+    40.72521
+],
+  "geometry": {"coordinates":[124.92005,40.72521],"type":"Point"}
+}

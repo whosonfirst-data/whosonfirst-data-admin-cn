@@ -1,0 +1,75 @@
+{
+  "id": 1259481243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.80861,44.1382,123.80861,44.1382",
+    "geom:latitude":44.1382,
+    "geom:longitude":123.80861,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jing'antun",
+    "gn:country_code":"CN",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10906365,
+    "gn:latitude":44.1382,
+    "gn:longitude":123.80861,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Jing\u2019antun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jing\u2019antun"
+    ],
+    "name:zho_x_preferred":[
+        "\u9756\u5b89\u5c6f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669843,
+        102191569,
+        85632695,
+        136253041,
+        890512763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10906365
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9ac96f65f446bb5186d54415943591f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512763,
+            "empire_id":136253041,
+            "locality_id":1259481243,
+            "region_id":85669843
+        }
+    ],
+    "wof:id":1259481243,
+    "wof:lastmodified":1537614724,
+    "wof:name":"Jing'antun",
+    "wof:parent_id":890512763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.80861000000002,
+    44.1382,
+    123.80861000000002,
+    44.1382
+],
+  "geometry": {"coordinates":[123.80861000000002,44.1382],"type":"Point"}
+}

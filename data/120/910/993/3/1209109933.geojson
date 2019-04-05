@@ -1,0 +1,64 @@
+{
+  "id": 1209109933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.81258,31.3834,116.81258,31.3834",
+    "geom:latitude":31.3834,
+    "geom:longitude":116.81258,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yunwucun",
+    "gn:country_code":"CN",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10635355,
+    "gn:latitude":31.3834,
+    "gn:longitude":116.81258,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Yunwucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e91\u96fe\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10635355
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1344008c6a7484be4d8f9a3b8b54f3aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209109933
+        }
+    ],
+    "wof:id":1209109933,
+    "wof:lastmodified":1537613834,
+    "wof:name":"Yunwucun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.81258,
+    31.3834,
+    116.81258,
+    31.3834
+],
+  "geometry": {"coordinates":[116.81258,31.3834],"type":"Point"}
+}

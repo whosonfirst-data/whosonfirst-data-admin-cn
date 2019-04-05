@@ -1,0 +1,78 @@
+{
+  "id": 890512651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.51083,40.54139,110.51083,40.54139",
+    "geom:latitude":40.54139,
+    "geom:longitude":110.51083,
+    "gn:country":"CN",
+    "gn:fcode":"PPLA3",
+    "gn:pop":64704,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8428\u62c9\u9f50\u9547"
+    ],
+    "name:eng_x_preferred":[
+        "Salaqi"
+    ],
+    "name:unk_x_variant":[
+        "Tumd Youqi"
+    ],
+    "qs:name":"Salaqi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669847,
+        102191569,
+        85632695,
+        136253041,
+        890512867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2035196,
+        "gp:id":2149298,
+        "qs:id":1033572,
+        "wd:id":"Q14203457"
+    },
+    "wof:country":"CN",
+    "wof:created":1469055779,
+    "wof:geomhash":"7c951c14c26ac3a50267a9bef6c83372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512867,
+            "empire_id":136253041,
+            "locality_id":890512651,
+            "region_id":85669847
+        }
+    ],
+    "wof:id":890512651,
+    "wof:lastmodified":1513940335,
+    "wof:name":"Salaqi",
+    "wof:parent_id":890512867,
+    "wof:placetype":"locality",
+    "wof:population":64704,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.51083,
+    40.54139,
+    110.51083,
+    40.54139
+],
+  "geometry": {"coordinates":[110.51083,40.54139],"type":"Point"}
+}

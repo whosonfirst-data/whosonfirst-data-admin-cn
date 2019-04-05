@@ -1,0 +1,79 @@
+{
+  "id": 1226416195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.3245,31.9863,82.3245,31.9863",
+    "geom:latitude":31.9863,
+    "geom:longitude":82.3245,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Daben",
+    "gn:country_code":"CN",
+    "gn:dem":4726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8993553,
+    "gn:latitude":31.9863,
+    "gn:longitude":82.3245,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Daben",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dabencun",
+        "Daben"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fbe\u672c\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u8fbe\u672c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8993553
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d83f40bba4757ddcf5ab3ab9109535e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732537,
+            "empire_id":136253041,
+            "locality_id":1226416195,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226416195,
+    "wof:lastmodified":1537604986,
+    "wof:name":"Daben",
+    "wof:parent_id":1108732537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.3245,
+    31.9863,
+    82.3245,
+    31.9863
+],
+  "geometry": {"coordinates":[82.3245,31.9863],"type":"Point"}
+}

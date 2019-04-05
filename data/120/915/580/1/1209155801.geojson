@@ -1,0 +1,64 @@
+{
+  "id": 1209155801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.01137,30.47452,108.01137,30.47452",
+    "geom:latitude":30.47452,
+    "geom:longitude":108.01137,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Guangxing",
+    "gn:country_code":"CN",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8405288,
+    "gn:latitude":30.47452,
+    "gn:longitude":108.01137,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Guangxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5e7f\u5174"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8405288
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d362157b6c83a6ca6d9619f475ab64d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209155801
+        }
+    ],
+    "wof:id":1209155801,
+    "wof:lastmodified":1537603400,
+    "wof:name":"Guangxing",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.01137,
+    30.47452,
+    108.01137,
+    30.47452
+],
+  "geometry": {"coordinates":[108.01137,30.47452],"type":"Point"}
+}

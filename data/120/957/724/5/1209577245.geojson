@@ -1,0 +1,64 @@
+{
+  "id": 1209577245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.16707,48.3709,119.16707,48.3709",
+    "geom:latitude":48.3709,
+    "geom:longitude":119.16707,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Huisumu",
+    "gn:country_code":"CN",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8443821,
+    "gn:latitude":48.3709,
+    "gn:longitude":119.16707,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Huisumu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8f89\u82cf\u6728"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8443821
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1f704ac9dd599164a490426dec745b80",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209577245
+        }
+    ],
+    "wof:id":1209577245,
+    "wof:lastmodified":1537603730,
+    "wof:name":"Huisumu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.16707,
+    48.3709,
+    119.16707,
+    48.3709
+],
+  "geometry": {"coordinates":[119.16707,48.3709],"type":"Point"}
+}

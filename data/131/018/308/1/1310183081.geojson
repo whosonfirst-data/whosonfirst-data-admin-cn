@@ -1,0 +1,75 @@
+{
+  "id": 1310183081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.09986,29.97602,111.09986,29.97602",
+    "geom:latitude":29.97602,
+    "geom:longitude":111.09986,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zhuanshanpeng",
+    "gn:country_code":"CN",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016935,
+    "gn:latitude":29.97602,
+    "gn:longitude":111.09986,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhuanshanpeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Zhuanshanpeng"
+    ],
+    "name:zho_x_variant":[
+        "\u4e13\u5c71\u68da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890515867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016935
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8b31a171fd44071128cdda8c1facbd43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515867,
+            "empire_id":136253041,
+            "locality_id":1310183081,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1310183081,
+    "wof:lastmodified":1537602153,
+    "wof:name":"Zhuanshanpeng",
+    "wof:parent_id":890515867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.09986,
+    29.97602,
+    111.09986,
+    29.97602
+],
+  "geometry": {"coordinates":[111.09986000000001,29.97602],"type":"Point"}
+}

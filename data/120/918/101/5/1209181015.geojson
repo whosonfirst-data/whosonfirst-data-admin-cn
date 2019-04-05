@@ -1,0 +1,64 @@
+{
+  "id": 1209181015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.45965,34.53832,109.45965,34.53832",
+    "geom:latitude":34.53832,
+    "geom:longitude":109.45965,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Zhaocun",
+    "gn:country_code":"CN",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2001882,
+    "gn:latitude":34.53832,
+    "gn:longitude":109.45965,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Zhaocun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8d75\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2001882
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"db7dd932b497c422dfe2390a7dbd37bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209181015
+        }
+    ],
+    "wof:id":1209181015,
+    "wof:lastmodified":1537595500,
+    "wof:name":"Zhaocun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.45965,
+    34.53832,
+    109.45965,
+    34.53832
+],
+  "geometry": {"coordinates":[109.45965,34.53832],"type":"Point"}
+}

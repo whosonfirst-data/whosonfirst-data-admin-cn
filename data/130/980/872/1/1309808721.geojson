@@ -1,0 +1,75 @@
+{
+  "id": 1309808721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.05624,31.97318,120.05624,31.97318",
+    "geom:latitude":31.97318,
+    "geom:longitude":120.05624,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Xinqixu",
+    "gn:country_code":"CN",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":7332299,
+    "gn:latitude":31.97318,
+    "gn:longitude":120.05624,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Xinqixu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u65b0\u4e03\u5729"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u4e03\u5729"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7332299
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f46af34636d2320ed36b57b15f38e447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516237,
+            "empire_id":136253041,
+            "locality_id":1309808721,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1309808721,
+    "wof:lastmodified":1537598086,
+    "wof:name":"Xinqixu",
+    "wof:parent_id":890516237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.05624,
+    31.97318,
+    120.05624,
+    31.97318
+],
+  "geometry": {"coordinates":[120.05624,31.97318],"type":"Point"}
+}

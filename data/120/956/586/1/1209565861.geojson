@@ -1,0 +1,64 @@
+{
+  "id": 1209565861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.189,27.9109,105.189,27.9109",
+    "geom:latitude":27.9109,
+    "geom:longitude":105.189,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Shigenao",
+    "gn:country_code":"CN",
+    "gn:dem":1416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10145362,
+    "gn:latitude":27.9109,
+    "gn:longitude":105.189,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Shigenao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u77f3\u572a\u57b4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10145362
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"49fcc80d43855fc341df0d25da728423",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209565861
+        }
+    ],
+    "wof:id":1209565861,
+    "wof:lastmodified":1537610344,
+    "wof:name":"Shigenao",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.189,
+    27.9109,
+    105.189,
+    27.9109
+],
+  "geometry": {"coordinates":[105.18899999999999,27.9109],"type":"Point"}
+}

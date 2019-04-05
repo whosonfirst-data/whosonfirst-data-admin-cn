@@ -1,0 +1,75 @@
+{
+  "id": 1327313125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.6,43.73333,90.6,43.73333",
+    "geom:latitude":43.73333,
+    "geom:longitude":90.6,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sangequanzi",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":1531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1529235,
+    "gn:latitude":43.73333,
+    "gn:longitude":90.6,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sangequanzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San-ko-ch\u2019\u00fcan",
+        "San-ko-ch\u2019\u00fcan-tzu",
+        "Sangequanzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669753,
+        102191569,
+        85632695,
+        136253041,
+        890515175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1529235
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"28746f4997653fbdda87be17527022b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515175,
+            "empire_id":136253041,
+            "locality_id":1327313125,
+            "region_id":85669753
+        }
+    ],
+    "wof:id":1327313125,
+    "wof:lastmodified":1537591575,
+    "wof:name":"Sangequanzi",
+    "wof:parent_id":890515175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.6,
+    43.73333,
+    90.6,
+    43.73333
+],
+  "geometry": {"coordinates":[90.59999999999999,43.73333],"type":"Point"}
+}

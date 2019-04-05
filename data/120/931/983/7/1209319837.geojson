@@ -1,0 +1,64 @@
+{
+  "id": 1209319837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.40818,32.79991,120.40818,32.79991",
+    "geom:latitude":32.79991,
+    "geom:longitude":120.40818,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhonglian",
+    "gn:country_code":"CN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8360887,
+    "gn:latitude":32.79991,
+    "gn:longitude":120.40818,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Zhonglian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e2d\u8054"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8360887
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3a8f3d4eb03ce9500ac3965a7b0a9a64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209319837
+        }
+    ],
+    "wof:id":1209319837,
+    "wof:lastmodified":1537603004,
+    "wof:name":"Zhonglian",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.40818,
+    32.79991,
+    120.40818,
+    32.79991
+],
+  "geometry": {"coordinates":[120.40818,32.79991],"type":"Point"}
+}

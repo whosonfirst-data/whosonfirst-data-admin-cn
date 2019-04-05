@@ -1,0 +1,78 @@
+{
+  "id": 1259432815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.56738,22.67307,115.56738,22.67307",
+    "geom:latitude":22.67307,
+    "geom:longitude":115.56738,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Zhelang",
+    "gn:country_code":"CN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1784760,
+    "gn:latitude":22.67307,
+    "gn:longitude":115.56738,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zhelang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chelang",
+        "Zhelang Jiedao",
+        "Zhelang",
+        "\u906e\u6d6a\u8857\u9053"
+    ],
+    "name:zho_x_preferred":[
+        "\u906e\u6d6a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890515843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1784760
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fab581d3469475e82e15b2599f9861ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515843,
+            "empire_id":136253041,
+            "locality_id":1259432815,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1259432815,
+    "wof:lastmodified":1537591947,
+    "wof:name":"Zhelang",
+    "wof:parent_id":890515843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.56738,
+    22.67307000000001,
+    115.56738,
+    22.67307000000001
+],
+  "geometry": {"coordinates":[115.56738,22.67307000000001],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209080953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.127,40.704,124.127,40.704",
+    "geom:latitude":40.704,
+    "geom:longitude":124.127,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shangenzi",
+    "gn:country_code":"CN",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11505937,
+    "gn:latitude":40.704,
+    "gn:longitude":124.127,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Shangenzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5c71\u6839\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11505937
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"34345118e293d565a4e0c7ecadd5713e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209080953
+        }
+    ],
+    "wof:id":1209080953,
+    "wof:lastmodified":1537617094,
+    "wof:name":"Shangenzi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.127,
+    40.704,
+    124.127,
+    40.704
+],
+  "geometry": {"coordinates":[124.127,40.704],"type":"Point"}
+}

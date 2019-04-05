@@ -1,0 +1,76 @@
+{
+  "id": 1343348911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.01296,29.43055,110.01296,29.43055",
+    "geom:latitude":29.43055,
+    "geom:longitude":110.01296,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Xiadongjie",
+    "gn:country_code":"CN",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7060985,
+    "gn:latitude":29.43055,
+    "gn:longitude":110.01296,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Xiadongjie",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xiadongxie",
+        "Xiadongjie"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u6d1e\u8857"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890513321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7060985
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"299b6c356bef41f09b42a32a655e109f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513321,
+            "empire_id":136253041,
+            "locality_id":1343348911,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1343348911,
+    "wof:lastmodified":1537597652,
+    "wof:name":"Xiadongjie",
+    "wof:parent_id":890513321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.01296,
+    29.43055,
+    110.01296,
+    29.43055
+],
+  "geometry": {"coordinates":[110.01296000000001,29.43055],"type":"Point"}
+}

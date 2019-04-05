@@ -1,0 +1,76 @@
+{
+  "id": 1226809141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.02988,22.75442,115.02988,22.75442",
+    "geom:latitude":22.75442,
+    "geom:longitude":115.02988,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Aozaigou",
+    "gn:country_code":"CN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1916197,
+    "gn:latitude":22.75442,
+    "gn:longitude":115.02988,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Aozaigou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wozigou",
+        "Aozaigou"
+    ],
+    "name:zho_x_preferred":[
+        "\u6fb3\u4ed4\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890515843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1916197
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"353b8ebaaef803911e63669197f5aa12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515843,
+            "empire_id":136253041,
+            "locality_id":1226809141,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1226809141,
+    "wof:lastmodified":1537594717,
+    "wof:name":"Aozaigou",
+    "wof:parent_id":890515843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.02988,
+    22.75442,
+    115.02988,
+    22.75442
+],
+  "geometry": {"coordinates":[115.02988000000001,22.75442],"type":"Point"}
+}

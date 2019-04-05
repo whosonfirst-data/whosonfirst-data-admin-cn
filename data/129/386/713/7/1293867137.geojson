@@ -1,0 +1,78 @@
+{
+  "id": 1293867137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.9,29.1,93.9,29.1",
+    "geom:latitude":29.1,
+    "geom:longitude":93.9,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chongsar",
+    "gn:country_code":"CN",
+    "gn:dem":4386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8067141,
+    "gn:latitude":29.1,
+    "gn:longitude":93.9,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Chongsar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Chongsar"
+    ],
+    "name:zho_x_preferred":[
+        "Zhongsa"
+    ],
+    "name:zho_x_variant":[
+        "\u4ef2\u8428"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8067141
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"acb26bf04dc3fc18b58e377bff72f1e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515951,
+            "empire_id":136253041,
+            "locality_id":1293867137,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1293867137,
+    "wof:lastmodified":1537602538,
+    "wof:name":"Chongsar",
+    "wof:parent_id":890515951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.9,
+    29.1,
+    93.9,
+    29.1
+],
+  "geometry": {"coordinates":[93.90000000000001,29.1],"type":"Point"}
+}

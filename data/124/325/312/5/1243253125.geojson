@@ -1,0 +1,69 @@
+{
+  "id": 1243253125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.07083,33.21,112.07083,33.21",
+    "geom:latitude":33.21,
+    "geom:longitude":112.07083,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Dingjiahe",
+    "gn:country_code":"CN",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1908880,
+    "gn:latitude":33.21,
+    "gn:longitude":112.07083,
+    "gn:modification_date":"2000-09-27",
+    "gn:name":"Dingjiahe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669801,
+        102191569,
+        85632695,
+        136253041,
+        890516339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1908880
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ed6171c0dd5f22a2993c93b768b44121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516339,
+            "empire_id":136253041,
+            "locality_id":1243253125,
+            "region_id":85669801
+        }
+    ],
+    "wof:id":1243253125,
+    "wof:lastmodified":1537081064,
+    "wof:name":"Dingjiahe",
+    "wof:parent_id":890516339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.07083,
+    33.21,
+    112.07083,
+    33.21
+],
+  "geometry": {"coordinates":[112.07083,33.21],"type":"Point"}
+}

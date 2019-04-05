@@ -1,0 +1,64 @@
+{
+  "id": 1209396585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.663,23.0151,108.663,23.0151",
+    "geom:latitude":23.0151,
+    "geom:longitude":108.663,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Jiuzhai",
+    "gn:country_code":"CN",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9895364,
+    "gn:latitude":23.0151,
+    "gn:longitude":108.663,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Jiuzhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u65e7\u5be8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9895364
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"50e6fba05bd7373913845235df6e6fee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209396585
+        }
+    ],
+    "wof:id":1209396585,
+    "wof:lastmodified":1537606623,
+    "wof:name":"Jiuzhai",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.663,
+    23.0151,
+    108.663,
+    23.0151
+],
+  "geometry": {"coordinates":[108.663,23.0151],"type":"Point"}
+}

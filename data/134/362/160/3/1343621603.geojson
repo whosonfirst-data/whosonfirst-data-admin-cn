@@ -1,0 +1,80 @@
+{
+  "id": 1343621603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.52111,22.24333,113.52111,22.24333",
+    "geom:latitude":22.24333,
+    "geom:longitude":113.52111,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Qianshan",
+    "gn:country_code":"CN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1798257,
+    "gn:latitude":22.24333,
+    "gn:longitude":113.52111,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Qianshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsinshan",
+        "Ch\u2019ien-shan",
+        "Ch\u2019ien-shan-chai",
+        "Qianshan",
+        "Qianshan Jiedao",
+        "\u524d\u5c71\u8857\u9053"
+    ],
+    "name:zho_x_preferred":[
+        "\u524d\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890516343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1798257
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a50ad8c478ab1023963b8a2a772ada74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516343,
+            "empire_id":136253041,
+            "locality_id":1343621603,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1343621603,
+    "wof:lastmodified":1537592863,
+    "wof:name":"Qianshan",
+    "wof:parent_id":890516343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.52111,
+    22.24333,
+    113.52111,
+    22.24333
+],
+  "geometry": {"coordinates":[113.52110999999999,22.24333],"type":"Point"}
+}

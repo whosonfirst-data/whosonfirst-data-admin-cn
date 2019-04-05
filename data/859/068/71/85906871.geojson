@@ -1,0 +1,107 @@
+{
+  "id": 85906871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:area_square_m":793624.631654,
+    "geom:bbox":"116.35345459,39.9265884158,116.368005311,39.9360794334",
+    "geom:latitude":39.930669,
+    "geom:longitude":116.359374,
+    "gn:id":"",
+    "iso:country":"CN",
+    "lbl:latitude":39.930606,
+    "lbl:longitude":116.360155,
+    "mps:latitude":39.93095,
+    "mps:longitude":116.358785,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Fusuijing"
+    ],
+    "name:unk_x_variant":[
+        "Fusuijing"
+    ],
+    "qs:gn_adm0_cc":"CN",
+    "qs:gn_id":0,
+    "qs:gn_local":1816670,
+    "qs:local_max":27927,
+    "qs:local_sum":297141,
+    "qs:localhoods":105,
+    "qs:name":"Fusuijing",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u5317\u4eac\u76f4\u8f96\u5e02",
+    "qs:name_adm2":"\u5317\u4eac",
+    "qs:name_lau":"\u4e1c\u57ce\u533a",
+    "qs:name_local":"\u5317\u4eac",
+    "qs:photo_max":43,
+    "qs:photo_sum":162,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424781,
+    "qs:woe_adm1":12578011,
+    "qs:woe_adm2":12686916,
+    "qs:woe_lau":56043478,
+    "qs:woe_local":2151330,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632695,
+        102027745,
+        136253041,
+        1108732371,
+        85669727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724371,
+        "qs:id":1087552,
+        "qs_pg:id":1087552
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5ab4561095687b3ed6495d64269747f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732371,
+            "empire_id":136253041,
+            "locality_id":102027745,
+            "neighbourhood_id":85906871,
+            "region_id":85669727
+        }
+    ],
+    "wof:id":85906871,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269265,
+    "wof:name":"Fusuijing",
+    "wof:parent_id":102027745,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.35345459,
+    39.926588415769,
+    116.36800531082,
+    39.93607943339
+],
+  "geometry": {"coordinates":[[[116.36087658085,39.93607943339],[116.36169433276,39.935012951204],[116.361694336,39.932906916829],[116.364440918,39.93290691355],[116.364440918,39.930800814619],[116.3671875,39.930800812688],[116.36800531082,39.929734308436],[116.36773955165999,39.928694637525],[116.3671875,39.928694640058],[116.364440918,39.928694645074],[116.361694336,39.928694642101],[116.36169433384001,39.926588415769],[116.356201172,39.9265884219],[116.35345459,39.9265884219],[116.35345459,39.927299393307],[116.35345459,39.928694645613],[116.35345459,39.9308008208],[116.35345459,39.931028827596],[116.35538337958,39.931867276724],[116.35564910377001,39.9329069068],[116.35538339846001,39.933946431021],[116.35620117342999,39.9350129539],[116.35701892714999,39.93607943339],[116.358947754,39.935240916448],[116.36087658085,39.93607943339]]],"type":"Polygon"}
+}

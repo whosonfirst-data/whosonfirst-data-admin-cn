@@ -1,0 +1,78 @@
+{
+  "id": 1259753881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.0045,29.43576,91.0045,29.43576",
+    "geom:latitude":29.43576,
+    "geom:longitude":91.0045,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Radoi",
+    "gn:country_code":"CN",
+    "gn:dem":3840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8538104,
+    "gn:latitude":29.43576,
+    "gn:longitude":91.0045,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Radoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Radoi"
+    ],
+    "name:und_x_variant":[
+        "Redui"
+    ],
+    "name:zho_x_preferred":[
+        "\u70ed\u5806"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538104
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7d6a91f84c3d99a32824bc30cdecb214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515877,
+            "empire_id":136253041,
+            "locality_id":1259753881,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1259753881,
+    "wof:lastmodified":1537604367,
+    "wof:name":"Radoi",
+    "wof:parent_id":890515877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.0045,
+    29.43576,
+    91.0045,
+    29.43576
+],
+  "geometry": {"coordinates":[91.00449999999999,29.43576],"type":"Point"}
+}

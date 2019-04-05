@@ -1,0 +1,64 @@
+{
+  "id": 1209260203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.996,30.1291,100.996,30.1291",
+    "geom:latitude":30.1291,
+    "geom:longitude":100.996,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Langde",
+    "gn:country_code":"CN",
+    "gn:dem":2711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10208610,
+    "gn:latitude":30.1291,
+    "gn:longitude":100.996,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Langde",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6717\u5fb7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10208610
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d952c09f9e8997e9adf5494c44bedcf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209260203
+        }
+    ],
+    "wof:id":1209260203,
+    "wof:lastmodified":1537611426,
+    "wof:name":"Langde",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.996,
+    30.1291,
+    100.996,
+    30.1291
+],
+  "geometry": {"coordinates":[100.996,30.1291],"type":"Point"}
+}

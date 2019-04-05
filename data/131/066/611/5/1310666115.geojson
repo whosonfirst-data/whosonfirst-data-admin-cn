@@ -1,0 +1,75 @@
+{
+  "id": 1310666115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.47342,42.02865,123.47342,42.02865",
+    "geom:latitude":42.02865,
+    "geom:longitude":123.47342,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Daoshuzi",
+    "gn:country_code":"CN",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7398129,
+    "gn:latitude":42.02865,
+    "gn:longitude":123.47342,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Daoshuzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9053\u6811\u5b50"
+    ],
+    "name:zho_x_preferred":[
+        "\u9053\u6811\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7398129
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0fa8b97cf40f8b4057c7a5f85d3f1564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732451,
+            "empire_id":136253041,
+            "locality_id":1310666115,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1310666115,
+    "wof:lastmodified":1537598552,
+    "wof:name":"Daoshuzi",
+    "wof:parent_id":1108732451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.47342,
+    42.02865,
+    123.47342,
+    42.02865
+],
+  "geometry": {"coordinates":[123.47342,42.02865],"type":"Point"}
+}

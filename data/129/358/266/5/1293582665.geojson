@@ -1,0 +1,77 @@
+{
+  "id": 1293582665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.775,39.42806,115.775,39.42806",
+    "geom:latitude":39.42806,
+    "geom:longitude":115.775,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sunjiazhuang",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1793793,
+    "gn:latitude":39.42806,
+    "gn:longitude":115.775,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sunjiazhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sun-chuang",
+        "Sun-chia-chuang",
+        "Sunjiazhuang Xiang",
+        "Sunzhuang",
+        "Sunjiazhuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669797,
+        102191569,
+        85632695,
+        136253041,
+        890513095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1793793
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6afd02bd64fc3974bf7a6dafae2bca6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513095,
+            "empire_id":136253041,
+            "locality_id":1293582665,
+            "region_id":85669797
+        }
+    ],
+    "wof:id":1293582665,
+    "wof:lastmodified":1537592552,
+    "wof:name":"Sunjiazhuang",
+    "wof:parent_id":890513095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.775,
+    39.42806,
+    115.775,
+    39.42806
+],
+  "geometry": {"coordinates":[115.77500000000001,39.42806],"type":"Point"}
+}

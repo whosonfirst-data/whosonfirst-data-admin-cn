@@ -1,0 +1,77 @@
+{
+  "id": 1309863095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.38861,36.57083,119.38861,36.57083",
+    "geom:latitude":36.57083,
+    "geom:longitude":119.38861,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Zuoshan",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1783598,
+    "gn:latitude":36.57083,
+    "gn:longitude":119.38861,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zuoshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tso-shan",
+        "Chai-shan",
+        "Tso-shan-chuang",
+        "Tse-shan",
+        "Zuoshan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669813,
+        102191569,
+        85632695,
+        136253041,
+        890514755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1783598
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a5013b47d6675b5c30aca7bf767b491f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514755,
+            "empire_id":136253041,
+            "locality_id":1309863095,
+            "region_id":85669813
+        }
+    ],
+    "wof:id":1309863095,
+    "wof:lastmodified":1537591866,
+    "wof:name":"Zuoshan",
+    "wof:parent_id":890514755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.38861,
+    36.57083,
+    119.38861,
+    36.57083
+],
+  "geometry": {"coordinates":[119.38861,36.57083],"type":"Point"}
+}

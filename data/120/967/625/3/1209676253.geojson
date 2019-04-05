@@ -1,0 +1,64 @@
+{
+  "id": 1209676253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.377,25.7403,101.377,25.7403",
+    "geom:latitude":25.7403,
+    "geom:longitude":101.377,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Suhaichong",
+    "gn:country_code":"CN",
+    "gn:dem":1902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10151063,
+    "gn:latitude":25.7403,
+    "gn:longitude":101.377,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Suhaichong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u82cf\u6d77\u51b2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10151063
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"253e10ddf462d9277334156d1dc9510f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209676253
+        }
+    ],
+    "wof:id":1209676253,
+    "wof:lastmodified":1537610476,
+    "wof:name":"Suhaichong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.377,
+    25.7403,
+    101.377,
+    25.7403
+],
+  "geometry": {"coordinates":[101.377,25.7403],"type":"Point"}
+}

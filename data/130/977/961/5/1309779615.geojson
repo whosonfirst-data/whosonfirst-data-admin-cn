@@ -1,0 +1,78 @@
+{
+  "id": 1309779615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.1,28.8,89.1,28.8",
+    "geom:latitude":28.8,
+    "geom:longitude":89.1,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bajin",
+    "gn:country_code":"CN",
+    "gn:dem":5022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":7897932,
+    "gn:latitude":28.8,
+    "gn:longitude":89.1,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bajin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Baiq\u00ean"
+    ],
+    "name:zho_x_preferred":[
+        "Bajin"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u91d1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7897932
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d121711683dab6f7c1bf0e72d5399267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1309779615,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1309779615,
+    "wof:lastmodified":1537601865,
+    "wof:name":"Bajin",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.1,
+    28.8,
+    89.1,
+    28.8
+],
+  "geometry": {"coordinates":[89.09999999999999,28.8],"type":"Point"}
+}

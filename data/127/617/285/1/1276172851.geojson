@@ -1,0 +1,78 @@
+{
+  "id": 1276172851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.50484,31.30497,104.50484,31.30497",
+    "geom:latitude":31.30497,
+    "geom:longitude":104.50484,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Luojiang",
+    "gn:country_code":"CN",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1801909,
+    "gn:latitude":31.30497,
+    "gn:longitude":104.50484,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Luojiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lokiang-hsien",
+        "Lokiang",
+        "Lo-chiang",
+        "Lo-chiang-hsien",
+        "Lotszyan",
+        "Lo-chiang-chen",
+        "Luojiang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890515169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1801909
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bdabf8d3ba78bb2f7ba17c3b7bd465df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515169,
+            "empire_id":136253041,
+            "locality_id":1276172851,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1276172851,
+    "wof:lastmodified":1537593083,
+    "wof:name":"Luojiang",
+    "wof:parent_id":890515169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.50484,
+    31.30497,
+    104.50484,
+    31.30497
+],
+  "geometry": {"coordinates":[104.50484,31.30497],"type":"Point"}
+}

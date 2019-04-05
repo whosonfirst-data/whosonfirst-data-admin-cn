@@ -1,0 +1,77 @@
+{
+  "id": 1343239055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.42306,29.82833,110.42306,29.82833",
+    "geom:latitude":29.82833,
+    "geom:longitude":110.42306,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zouma",
+    "gn:country_code":"CN",
+    "gn:dem":969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1783643,
+    "gn:latitude":29.82833,
+    "gn:longitude":110.42306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zouma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsou-ma-p\u2019ing",
+        "Zoumaping",
+        "Zouma",
+        "\u8d70\u9a6c",
+        "Zuoma Zhen",
+        "\u8d70\u9a6c\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1783643
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3f50e241ceb2dcaf90408ad14cec0cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732427,
+            "empire_id":136253041,
+            "locality_id":1343239055,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1343239055,
+    "wof:lastmodified":1537591869,
+    "wof:name":"Zouma",
+    "wof:parent_id":1108732427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.42306,
+    29.82833,
+    110.42306,
+    29.82833
+],
+  "geometry": {"coordinates":[110.42306000000001,29.82833],"type":"Point"}
+}

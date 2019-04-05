@@ -1,0 +1,64 @@
+{
+  "id": 1209327995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.25417,30.2,118.25417,30.2",
+    "geom:latitude":30.2,
+    "geom:longitude":118.25417,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Xintian",
+    "gn:country_code":"CN",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1553612,
+    "gn:latitude":30.2,
+    "gn:longitude":118.25417,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Xintian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u65b0\u7530"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1553612
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e0a0428edeab911451ea276e16648d5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209327995
+        }
+    ],
+    "wof:id":1209327995,
+    "wof:lastmodified":1537591781,
+    "wof:name":"Xintian",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.25417,
+    30.2,
+    118.25417,
+    30.2
+],
+  "geometry": {"coordinates":[118.25417,30.2],"type":"Point"}
+}

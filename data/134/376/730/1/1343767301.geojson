@@ -1,0 +1,78 @@
+{
+  "id": 1343767301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.86817,31.77082,118.86817,31.77082",
+    "geom:latitude":31.77082,
+    "geom:longitude":118.86817,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lukou",
+    "gn:country_code":"CN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1802036,
+    "gn:latitude":31.77082,
+    "gn:longitude":118.86817,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lukou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lu-k\u2019ou-chen",
+        "Lukou Zhen",
+        "\u7984\u53e3\u9547",
+        "Lukou"
+    ],
+    "name:zho_x_preferred":[
+        "\u7984\u53e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1802036
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ab5f4b6184ac7f33a98f3cbc46f3885c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516425,
+            "empire_id":136253041,
+            "locality_id":1343767301,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1343767301,
+    "wof:lastmodified":1537593091,
+    "wof:name":"Lukou",
+    "wof:parent_id":890516425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.86817,
+    31.77082,
+    118.86817,
+    31.77082
+],
+  "geometry": {"coordinates":[118.86817000000001,31.77082],"type":"Point"}
+}

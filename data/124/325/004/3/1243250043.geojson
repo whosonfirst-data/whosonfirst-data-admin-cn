@@ -1,0 +1,78 @@
+{
+  "id": 1243250043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.60213,30.67217,113.60213,30.67217",
+    "geom:latitude":30.67217,
+    "geom:longitude":113.60213,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Hanji",
+    "gn:country_code":"CN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8514956,
+    "gn:latitude":30.67217,
+    "gn:longitude":113.60213,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Hanji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hanji Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u97e9\u96c6"
+    ],
+    "name:zho_x_variant":[
+        "\u97e9\u96c6\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8514956
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1d0498e59a477bbc680097135a883a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732407,
+            "empire_id":136253041,
+            "locality_id":1243250043,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1243250043,
+    "wof:lastmodified":1537604111,
+    "wof:name":"Hanji",
+    "wof:parent_id":1108732407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.60213,
+    30.67217,
+    113.60213,
+    30.67217
+],
+  "geometry": {"coordinates":[113.60213,30.67217],"type":"Point"}
+}

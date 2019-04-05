@@ -1,0 +1,78 @@
+{
+  "id": 1259853195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.501,28.001,91.501,28.001",
+    "geom:latitude":28.001,
+    "geom:longitude":91.501,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Xongda",
+    "gn:country_code":"CN",
+    "gn:dem":5000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8059205,
+    "gn:latitude":28.001,
+    "gn:longitude":91.501,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Xongda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Xongda"
+    ],
+    "name:zho_x_preferred":[
+        "Xiongda"
+    ],
+    "name:zho_x_variant":[
+        "\u96c4\u8fbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108794057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8059205
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"307e3d651d5ac3d87d5f1dd12a17cbb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794057,
+            "empire_id":136253041,
+            "locality_id":1259853195,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1259853195,
+    "wof:lastmodified":1537602503,
+    "wof:name":"Xongda",
+    "wof:parent_id":1108794057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.501,
+    28.001,
+    91.501,
+    28.001
+],
+  "geometry": {"coordinates":[91.501,28.001],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209498361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.53295,30.09165,93.53295,30.09165",
+    "geom:latitude":30.09165,
+    "geom:longitude":93.53295,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zhimasi",
+    "gn:country_code":"CN",
+    "gn:dem":4356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10268349,
+    "gn:latitude":30.09165,
+    "gn:longitude":93.53295,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Zhimasi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u53ea\u9a6c\u5bfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10268349
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ad1db17243f2f758ee2fc30fef161210",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209498361
+        }
+    ],
+    "wof:id":1209498361,
+    "wof:lastmodified":1537611853,
+    "wof:name":"Zhimasi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.53295,
+    30.09165,
+    93.53295,
+    30.09165
+],
+  "geometry": {"coordinates":[93.53295,30.09165],"type":"Point"}
+}

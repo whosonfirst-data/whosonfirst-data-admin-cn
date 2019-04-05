@@ -1,0 +1,78 @@
+{
+  "id": 1293260983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.1853,39.79423,116.1853,39.79423",
+    "geom:latitude":39.79423,
+    "geom:longitude":116.1853,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Beigangwa",
+    "gn:country_code":"CN",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1810720,
+    "gn:latitude":39.79423,
+    "gn:longitude":116.1853,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Beigangwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pei-kang-wa",
+        "Gangwa",
+        "Kang-wa",
+        "Beigangwa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u5c97\u6d3c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669727,
+        102191569,
+        85632695,
+        136253041,
+        1108732371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1810720
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fd9da3ef89584ffcec77972aba1764de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732371,
+            "empire_id":136253041,
+            "locality_id":1293260983,
+            "region_id":85669727
+        }
+    ],
+    "wof:id":1293260983,
+    "wof:lastmodified":1537593657,
+    "wof:name":"Beigangwa",
+    "wof:parent_id":1108732371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.1853,
+    39.79423,
+    116.1853,
+    39.79423
+],
+  "geometry": {"coordinates":[116.1853,39.79423],"type":"Point"}
+}

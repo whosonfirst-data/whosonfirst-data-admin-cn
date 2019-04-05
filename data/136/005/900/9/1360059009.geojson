@@ -1,0 +1,78 @@
+{
+  "id": 1360059009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.602,31.402,96.602,31.402",
+    "geom:latitude":31.402,
+    "geom:longitude":96.602,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yaimai",
+    "gn:country_code":"CN",
+    "gn:dem":4604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8078793,
+    "gn:latitude":31.402,
+    "gn:longitude":96.602,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Yaimai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Yaimai"
+    ],
+    "name:zho_x_preferred":[
+        "Yimai"
+    ],
+    "name:zho_x_variant":[
+        "\u4f0a\u9ea6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8078793
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5c5d7b89a7f8d91759f8eebf2c2cf175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1360059009,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1360059009,
+    "wof:lastmodified":1537602567,
+    "wof:name":"Yaimai",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.602,
+    31.402,
+    96.602,
+    31.402
+],
+  "geometry": {"coordinates":[96.602,31.402],"type":"Point"}
+}

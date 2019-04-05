@@ -1,0 +1,78 @@
+{
+  "id": 890513621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.00639,19.72917,110.00639,19.72917",
+    "geom:latitude":19.72917,
+    "geom:longitude":110.00639,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":68720,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Ching-mae"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u6c5f"
+    ],
+    "name:zho_x_variant":[
+        "\u6f84\u8fc8\u53bf"
+    ],
+    "qs:name":"Jinjiang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:geom":"quattroshapes",
+    "src:population":"geonames",
+    "wd:wordcount":128,
+    "wof:belongsto":[
+        102191569,
+        85632695,
+        85669759,
+        1108732475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1805505,
+        "gp:id":2162575,
+        "qs:id":562377,
+        "wk:page":"Jinjiang"
+    },
+    "wof:country":"CN",
+    "wof:created":1469055829,
+    "wof:geomhash":"0fad58b099a4e85f3a8043c79628564c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732475,
+            "locality_id":890513621,
+            "region_id":85669759
+        }
+    ],
+    "wof:id":890513621,
+    "wof:lastmodified":1527793065,
+    "wof:name":"Jinjiang",
+    "wof:parent_id":1108732475,
+    "wof:placetype":"locality",
+    "wof:population":68720,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.00639,
+    19.72917,
+    110.00639,
+    19.72917
+],
+  "geometry": {"coordinates":[110.00639,19.72917],"type":"Point"}
+}

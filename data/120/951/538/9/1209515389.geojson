@@ -1,0 +1,64 @@
+{
+  "id": 1209515389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.74988,32.9093,119.74988,32.9093",
+    "geom:latitude":32.9093,
+    "geom:longitude":119.74988,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Anzhoucun",
+    "gn:country_code":"CN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11541635,
+    "gn:latitude":32.9093,
+    "gn:longitude":119.74988,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Anzhoucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5b89\u6d32\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11541635
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"86689dbfc5eb9df1095350070066c4c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209515389
+        }
+    ],
+    "wof:id":1209515389,
+    "wof:lastmodified":1537617557,
+    "wof:name":"Anzhoucun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.74988,
+    32.9093,
+    119.74988,
+    32.9093
+],
+  "geometry": {"coordinates":[119.74988,32.9093],"type":"Point"}
+}

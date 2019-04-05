@@ -1,0 +1,78 @@
+{
+  "id": 1310486997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.23173,47.70107,123.23173,47.70107",
+    "geom:latitude":47.70107,
+    "geom:longitude":123.23173,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Zhongxing",
+    "gn:country_code":"CN",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8475612,
+    "gn:latitude":47.70107,
+    "gn:longitude":123.23173,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Zhongxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhongxing Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u5174"
+    ],
+    "name:zho_x_variant":[
+        "\u4e2d\u5174\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890516483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8475612
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b83450f88da123c5c6d748526e0fb43d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516483,
+            "empire_id":136253041,
+            "locality_id":1310486997,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1310486997,
+    "wof:lastmodified":1537603891,
+    "wof:name":"Zhongxing",
+    "wof:parent_id":890516483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.23173,
+    47.70107,
+    123.23173,
+    47.70107
+],
+  "geometry": {"coordinates":[123.23173,47.70107],"type":"Point"}
+}

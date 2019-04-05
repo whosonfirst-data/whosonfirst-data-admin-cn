@@ -1,0 +1,64 @@
+{
+  "id": 1209182495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.10209,31.20828,121.10209,31.20828",
+    "geom:latitude":31.20828,
+    "geom:longitude":121.10209,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Xiangyang",
+    "gn:country_code":"CN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7844605,
+    "gn:latitude":31.20828,
+    "gn:longitude":121.10209,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Xiangyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5411\u9633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7844605
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0d7e4c54afbf72688b03dd877efebdc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209182495
+        }
+    ],
+    "wof:id":1209182495,
+    "wof:lastmodified":1537601672,
+    "wof:name":"Xiangyang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.10209,
+    31.20828,
+    121.10209,
+    31.20828
+],
+  "geometry": {"coordinates":[121.10209,31.20828],"type":"Point"}
+}

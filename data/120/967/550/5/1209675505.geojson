@@ -1,0 +1,64 @@
+{
+  "id": 1209675505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.22789,22.32711,113.22789,22.32711",
+    "geom:latitude":22.32711,
+    "geom:longitude":113.22789,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Fenzhou",
+    "gn:country_code":"CN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6895451,
+    "gn:latitude":22.32711,
+    "gn:longitude":113.22789,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Fenzhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7c89\u6d32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6895451
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b30a8bb76fdbfbaef715304787332911",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209675505
+        }
+    ],
+    "wof:id":1209675505,
+    "wof:lastmodified":1537596609,
+    "wof:name":"Fenzhou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.22789,
+    22.32711,
+    113.22789,
+    22.32711
+],
+  "geometry": {"coordinates":[113.22789,22.32711],"type":"Point"}
+}

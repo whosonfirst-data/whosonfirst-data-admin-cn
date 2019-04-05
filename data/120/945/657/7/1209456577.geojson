@@ -1,0 +1,64 @@
+{
+  "id": 1209456577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.58181,31.04946,107.58181,31.04946",
+    "geom:latitude":31.04946,
+    "geom:longitude":107.58181,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Fushan",
+    "gn:country_code":"CN",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6962569,
+    "gn:latitude":31.04946,
+    "gn:longitude":107.58181,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Fushan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u798f\u5584"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6962569
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"abed78d1b424102b0dc8621e6328f482",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209456577
+        }
+    ],
+    "wof:id":1209456577,
+    "wof:lastmodified":1537596985,
+    "wof:name":"Fushan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.58181,
+    31.04946,
+    107.58181,
+    31.04946
+],
+  "geometry": {"coordinates":[107.58181,31.04946],"type":"Point"}
+}

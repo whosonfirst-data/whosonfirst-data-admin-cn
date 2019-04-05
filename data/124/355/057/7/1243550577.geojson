@@ -1,0 +1,77 @@
+{
+  "id": 1243550577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.31507,26.11417,119.31507,26.11417",
+    "geom:latitude":26.11417,
+    "geom:longitude":119.31507,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chayuan",
+    "gn:country_code":"CN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8143714,
+    "gn:latitude":26.11417,
+    "gn:longitude":119.31507,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Chayuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u8336\u56ed",
+        "Chayuan Jiedao",
+        "\u8336\u56ed\u8857\u9053"
+    ],
+    "name:zho_x_preferred":[
+        "Chayuan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8143714
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"245cf5a033bd7250a0facaa8980a6ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516575,
+            "empire_id":136253041,
+            "locality_id":1243550577,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1243550577,
+    "wof:lastmodified":1537602675,
+    "wof:name":"Chayuan",
+    "wof:parent_id":890516575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.31507,
+    26.11417,
+    119.31507,
+    26.11417
+],
+  "geometry": {"coordinates":[119.31507000000001,26.11417],"type":"Point"}
+}

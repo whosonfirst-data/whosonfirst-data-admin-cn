@@ -1,0 +1,80 @@
+{
+  "id": 1259692295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.41608,28.8891,121.41608,28.8891",
+    "geom:latitude":28.8891,
+    "geom:longitude":121.41608,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Wuyancun",
+    "gn:country_code":"CN",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1897235,
+    "gn:latitude":28.8891,
+    "gn:longitude":121.41608,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Wuyancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wu-yen",
+        "Wuyan",
+        "Wuyancun"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e4c\u5ca9"
+    ],
+    "name:zho_x_variant":[
+        "\u4e4c\u5ca9\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890515633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1897235
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"db5da855a14556389554606ef251abb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515633,
+            "empire_id":136253041,
+            "locality_id":1259692295,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1259692295,
+    "wof:lastmodified":1537594376,
+    "wof:name":"Wuyancun",
+    "wof:parent_id":890515633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.41608,
+    28.8891,
+    121.41608,
+    28.8891
+],
+  "geometry": {"coordinates":[121.41607999999999,28.8891],"type":"Point"}
+}

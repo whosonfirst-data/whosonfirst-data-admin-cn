@@ -1,0 +1,64 @@
+{
+  "id": 1209365411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.355,21.7377,100.355,21.7377",
+    "geom:latitude":21.7377,
+    "geom:longitude":100.355,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Bangzhaga",
+    "gn:country_code":"CN",
+    "gn:dem":1576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9915630,
+    "gn:latitude":21.7377,
+    "gn:longitude":100.355,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Bangzhaga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u90a6\u624e\u560e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9915630
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9709e5d7db5241ef54fb25697bd37e6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209365411
+        }
+    ],
+    "wof:id":1209365411,
+    "wof:lastmodified":1537607226,
+    "wof:name":"Bangzhaga",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.355,
+    21.7377,
+    100.355,
+    21.7377
+],
+  "geometry": {"coordinates":[100.355,21.7377],"type":"Point"}
+}

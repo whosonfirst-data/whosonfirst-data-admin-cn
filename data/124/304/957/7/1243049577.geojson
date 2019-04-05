@@ -1,0 +1,72 @@
+{
+  "id": 1243049577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.006,23.984,109.006,23.984",
+    "geom:latitude":23.984,
+    "geom:longitude":109.006,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Taoyuan",
+    "gn:country_code":"CN",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9933527,
+    "gn:latitude":23.984,
+    "gn:longitude":109.006,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Taoyuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6843\u6e90"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669717,
+        102191569,
+        85632695,
+        136253041,
+        1108732439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9933527
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"13bc0059d7cd6953d9ed87b606577e25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732439,
+            "empire_id":136253041,
+            "locality_id":1243049577,
+            "region_id":85669717
+        }
+    ],
+    "wof:id":1243049577,
+    "wof:lastmodified":1537607757,
+    "wof:name":"Taoyuan",
+    "wof:parent_id":1108732439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.006,
+    23.984,
+    109.006,
+    23.984
+],
+  "geometry": {"coordinates":[109.006,23.984],"type":"Point"}
+}

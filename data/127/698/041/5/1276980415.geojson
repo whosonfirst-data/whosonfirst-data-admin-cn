@@ -1,0 +1,77 @@
+{
+  "id": 1276980415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.1593,33.91449,119.1593,33.91449",
+    "geom:latitude":33.91449,
+    "geom:longitude":119.1593,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chenxicun",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1548024,
+    "gn:latitude":33.91449,
+    "gn:longitude":119.1593,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Chenxicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chenxi",
+        "\u9648\u6eaa",
+        "Chenxicun"
+    ],
+    "name:zho_x_preferred":[
+        "\u9648\u6eaa\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        1108732465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1548024
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"81f31f0baa7fa172d16dbc9c6f3451bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732465,
+            "empire_id":136253041,
+            "locality_id":1276980415,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1276980415,
+    "wof:lastmodified":1537591652,
+    "wof:name":"Chenxicun",
+    "wof:parent_id":1108732465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.1593,
+    33.91449,
+    119.1593,
+    33.91449
+],
+  "geometry": {"coordinates":[119.1593,33.91449],"type":"Point"}
+}

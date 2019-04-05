@@ -1,0 +1,86 @@
+{
+  "id": 1309980309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.74472,40.665,108.74472,40.665",
+    "geom:latitude":40.665,
+    "geom:longitude":108.74472,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Ulashan",
+    "gn:country_code":"CN",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2050968,
+    "gn:latitude":40.665,
+    "gn:longitude":108.74472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ulashan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "Ulashan"
+    ],
+    "name:und_x_variant":[
+        "Erh-ta-lai-tien",
+        "T\u2019ieh-tzu-tien",
+        "Ul Shan",
+        "\u4e4c\u62c9\u5c71",
+        "Urad Qianqi",
+        "Wulateqian Qi",
+        "Wulashan Zhen",
+        "\u4e4c\u62c9\u5c71\u9547",
+        "\u4e4c\u62c9\u7279\u524d\u65d7"
+    ],
+    "name:zho_x_preferred":[
+        "Wulashan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669847,
+        102191569,
+        85632695,
+        136253041,
+        1108732415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2050968
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"07b7aeda20cbd0e1a25bd71574d42ec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732415,
+            "empire_id":136253041,
+            "locality_id":1309980309,
+            "region_id":85669847
+        }
+    ],
+    "wof:id":1309980309,
+    "wof:lastmodified":1537595931,
+    "wof:name":"Ulashan",
+    "wof:parent_id":1108732415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.74472,
+    40.665,
+    108.74472,
+    40.665
+],
+  "geometry": {"coordinates":[108.74472,40.665],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209565887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.007,27.6889,100.007,27.6889",
+    "geom:latitude":27.6889,
+    "geom:longitude":100.007,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Haishuang",
+    "gn:country_code":"CN",
+    "gn:dem":3253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10139791,
+    "gn:latitude":27.6889,
+    "gn:longitude":100.007,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Haishuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6d77\u53cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10139791
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6833fcac2761df7a0c188d2982554fe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209565887
+        }
+    ],
+    "wof:id":1209565887,
+    "wof:lastmodified":1537610153,
+    "wof:name":"Haishuang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.007,
+    27.6889,
+    100.007,
+    27.6889
+],
+  "geometry": {"coordinates":[100.00700000000001,27.6889],"type":"Point"}
+}

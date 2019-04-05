@@ -1,0 +1,78 @@
+{
+  "id": 1327316959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.706,29.106,91.706,29.106",
+    "geom:latitude":29.106,
+    "geom:longitude":91.706,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kesong",
+    "gn:country_code":"CN",
+    "gn:dem":3667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8042390,
+    "gn:latitude":29.106,
+    "gn:longitude":91.706,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kesong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "K\u00easum"
+    ],
+    "name:zho_x_preferred":[
+        "Kesong"
+    ],
+    "name:zho_x_variant":[
+        "\u514b\u677e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108794057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8042390
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1dde0f072909e396a3f356d000f3d427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794057,
+            "empire_id":136253041,
+            "locality_id":1327316959,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1327316959,
+    "wof:lastmodified":1537602356,
+    "wof:name":"Kesong",
+    "wof:parent_id":1108794057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.706,
+    29.106,
+    91.706,
+    29.106
+],
+  "geometry": {"coordinates":[91.706,29.106],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 890511713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.94194,22.1975,109.94194,22.1975",
+    "geom:latitude":22.1975,
+    "geom:longitude":109.94194,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":56629,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Yashan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669717,
+        102191569,
+        85632695,
+        136253041,
+        890514591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1786867,
+        "gp:id":2166486,
+        "qs:id":136287
+    },
+    "wof:country":"CN",
+    "wof:created":1469055742,
+    "wof:geomhash":"f033103ff378504c2366364a31dc793a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514591,
+            "empire_id":136253041,
+            "locality_id":890511713,
+            "region_id":85669717
+        }
+    ],
+    "wof:id":890511713,
+    "wof:lastmodified":1505343884,
+    "wof:name":"Yashan",
+    "wof:parent_id":890514591,
+    "wof:placetype":"locality",
+    "wof:population":56629,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.94194,
+    22.1975,
+    109.94194,
+    22.1975
+],
+  "geometry": {"coordinates":[109.94194,22.1975],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1343632213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.601,30.301,85.601,30.301",
+    "geom:latitude":30.301,
+    "geom:longitude":85.601,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Xamco",
+    "gn:country_code":"CN",
+    "gn:dem":5043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8059080,
+    "gn:latitude":30.301,
+    "gn:longitude":85.601,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Xamco",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Xamco"
+    ],
+    "name:zho_x_preferred":[
+        "Xiacuo"
+    ],
+    "name:zho_x_variant":[
+        "\u590f\u9519",
+        "Chima Gongshe",
+        "\u8d64\u9a6c\u516c\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8059080
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"09401edfdd254a5e7e4c286a06673e44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732537,
+            "empire_id":136253041,
+            "locality_id":1343632213,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1343632213,
+    "wof:lastmodified":1537602496,
+    "wof:name":"Xamco",
+    "wof:parent_id":1108732537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.601,
+    30.301,
+    85.601,
+    30.301
+],
+  "geometry": {"coordinates":[85.601,30.301],"type":"Point"}
+}

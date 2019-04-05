@@ -1,0 +1,75 @@
+{
+  "id": 1226814605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.50528,39.99965,122.50528,39.99965",
+    "geom:latitude":39.99965,
+    "geom:longitude":122.50528,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Sunjiagou",
+    "gn:country_code":"CN",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7404947,
+    "gn:latitude":39.99965,
+    "gn:longitude":122.50528,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sunjiagou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5b59\u5bb6\u6c9f"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b59\u5bb6\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7404947
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a9a338fcc006b75fc388e9816eb444c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732495,
+            "empire_id":136253041,
+            "locality_id":1226814605,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1226814605,
+    "wof:lastmodified":1537598956,
+    "wof:name":"Sunjiagou",
+    "wof:parent_id":1108732495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.50528,
+    39.99965,
+    122.50528,
+    39.99965
+],
+  "geometry": {"coordinates":[122.50528,39.99965],"type":"Point"}
+}

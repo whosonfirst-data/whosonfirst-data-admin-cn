@@ -1,0 +1,76 @@
+{
+  "id": 1226199063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.52419,34.46881,107.52419,34.46881",
+    "geom:latitude":34.46881,
+    "geom:longitude":107.52419,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Hengshui",
+    "gn:country_code":"CN",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1808398,
+    "gn:latitude":34.46881,
+    "gn:longitude":107.52419,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hengshui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heng-shui-chen",
+        "Hengshui",
+        "\u6a2a\u6c34",
+        "Hengshui Zhen",
+        "\u6a2a\u6c34\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890516525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1808398
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8575411b60db08c300a91da9b59259cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516525,
+            "empire_id":136253041,
+            "locality_id":1226199063,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1226199063,
+    "wof:lastmodified":1537593502,
+    "wof:name":"Hengshui",
+    "wof:parent_id":890516525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.52419,
+    34.46881,
+    107.52419,
+    34.46881
+],
+  "geometry": {"coordinates":[107.52419,34.46881],"type":"Point"}
+}

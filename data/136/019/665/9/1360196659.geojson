@@ -1,0 +1,80 @@
+{
+  "id": 1360196659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.56064,27.93835,120.56064,27.93835",
+    "geom:latitude":27.93835,
+    "geom:longitude":120.56064,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pingshancun",
+    "gn:country_code":"CN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1893048,
+    "gn:latitude":27.93835,
+    "gn:longitude":120.56064,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Pingshancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pingshan",
+        "Pingshancun"
+    ],
+    "name:zho_x_preferred":[
+        "P\u2019ing-shan-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u5c4f\u5c71",
+        "\u5c4f\u5c71\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890514289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1893048
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"35a2e724a4b4c263b4eb90bf10252de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514289,
+            "empire_id":136253041,
+            "locality_id":1360196659,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1360196659,
+    "wof:lastmodified":1537594289,
+    "wof:name":"Pingshancun",
+    "wof:parent_id":890514289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.56064,
+    27.93835,
+    120.56064,
+    27.93835
+],
+  "geometry": {"coordinates":[120.56064000000001,27.93835],"type":"Point"}
+}

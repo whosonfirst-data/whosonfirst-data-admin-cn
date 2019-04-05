@@ -1,0 +1,64 @@
+{
+  "id": 1209614005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.64263,42.80264,129.64263,42.80264",
+    "geom:latitude":42.80264,
+    "geom:longitude":129.64263,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zhongcheng",
+    "gn:country_code":"CN",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7544716,
+    "gn:latitude":42.80264,
+    "gn:longitude":129.64263,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhongcheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4ef2\u6210"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7544716
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d3025cd4eefe19af7a5361f8baf33c79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209614005
+        }
+    ],
+    "wof:id":1209614005,
+    "wof:lastmodified":1537600036,
+    "wof:name":"Zhongcheng",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.64263,
+    42.80264,
+    129.64263,
+    42.80264
+],
+  "geometry": {"coordinates":[129.64263,42.80264],"type":"Point"}
+}

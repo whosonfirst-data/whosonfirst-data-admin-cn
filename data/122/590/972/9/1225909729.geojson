@@ -1,0 +1,79 @@
+{
+  "id": 1225909729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.364,41.6182,123.364,41.6182",
+    "geom:latitude":41.6182,
+    "geom:longitude":123.364,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Hanchengcun",
+    "gn:country_code":"CN",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11527203,
+    "gn:latitude":41.6182,
+    "gn:longitude":123.364,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Hanchengcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hanchengbao",
+        "Hanchengbu"
+    ],
+    "name:zho_x_preferred":[
+        "\u97e9\u57ce\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u97e9\u6210\u5821"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11527203
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"670a289fedc9340ab585cd6fbba138ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732451,
+            "empire_id":136253041,
+            "locality_id":1225909729,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1225909729,
+    "wof:lastmodified":1537617381,
+    "wof:name":"Hanchengcun",
+    "wof:parent_id":1108732451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.364,
+    41.6182,
+    123.364,
+    41.6182
+],
+  "geometry": {"coordinates":[123.364,41.6182],"type":"Point"}
+}

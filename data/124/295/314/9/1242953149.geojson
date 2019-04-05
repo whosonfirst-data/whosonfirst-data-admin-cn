@@ -1,0 +1,80 @@
+{
+  "id": 1242953149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.88448,30.80347,109.88448,30.80347",
+    "geom:latitude":30.80347,
+    "geom:longitude":109.88448,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Maotian",
+    "gn:country_code":"CN",
+    "gn:dem":1251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1801137,
+    "gn:latitude":30.80347,
+    "gn:longitude":109.88448,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Maotian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mao-t\u2019ien",
+        "Maotian",
+        "Maotian Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u8305\u7530"
+    ],
+    "name:zho_x_variant":[
+        "\u8305\u7530\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1801137
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"da2988e71ae02c99bbb98c7c4e925348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732427,
+            "empire_id":136253041,
+            "locality_id":1242953149,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1242953149,
+    "wof:lastmodified":1537593031,
+    "wof:name":"Maotian",
+    "wof:parent_id":1108732427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.88448,
+    30.80347,
+    109.88448,
+    30.80347
+],
+  "geometry": {"coordinates":[109.88448,30.80347],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310098889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.902,37.6495,115.902,37.6495",
+    "geom:latitude":37.6495,
+    "geom:longitude":115.902,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Lishidian",
+    "gn:country_code":"CN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1803254,
+    "gn:latitude":37.6495,
+    "gn:longitude":115.902,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Lishidian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Li-chia-tien",
+        "Li-chia-tien-chen",
+        "Li-chia-tsien",
+        "Lishidian"
+    ],
+    "name:zho_x_preferred":[
+        "\u674e\u77f3\u5e97"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669797,
+        102191569,
+        85632695,
+        136253041,
+        890516595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1803254
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"29fa7c6ed3aff48dc8541d38b4c237b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516595,
+            "empire_id":136253041,
+            "locality_id":1310098889,
+            "region_id":85669797
+        }
+    ],
+    "wof:id":1310098889,
+    "wof:lastmodified":1537593178,
+    "wof:name":"Lishidian",
+    "wof:parent_id":890516595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.902,
+    37.6495,
+    115.902,
+    37.6495
+],
+  "geometry": {"coordinates":[115.902,37.6495],"type":"Point"}
+}

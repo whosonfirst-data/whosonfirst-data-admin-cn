@@ -1,0 +1,64 @@
+{
+  "id": 1209087877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.433,23.062,107.433,23.062",
+    "geom:latitude":23.062,
+    "geom:longitude":107.433,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ouya",
+    "gn:country_code":"CN",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9906806,
+    "gn:latitude":23.062,
+    "gn:longitude":107.433,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Ouya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6b27\u4e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9906806
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"757a848fb1dc88e05c61f9f11d383ebd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209087877
+        }
+    ],
+    "wof:id":1209087877,
+    "wof:lastmodified":1537606981,
+    "wof:name":"Ouya",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.433,
+    23.062,
+    107.433,
+    23.062
+],
+  "geometry": {"coordinates":[107.43300000000001,23.062],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209009403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.78211,32.88312,120.78211,32.88312",
+    "geom:latitude":32.88312,
+    "geom:longitude":120.78211,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Yancun",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8360546,
+    "gn:latitude":32.88312,
+    "gn:longitude":120.78211,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Yancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u76d0\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8360546
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d767386b70b9b4e10c14887ca3a24a8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209009403
+        }
+    ],
+    "wof:id":1209009403,
+    "wof:lastmodified":1537602994,
+    "wof:name":"Yancun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.78211,
+    32.88312,
+    120.78211,
+    32.88312
+],
+  "geometry": {"coordinates":[120.78211,32.88312],"type":"Point"}
+}

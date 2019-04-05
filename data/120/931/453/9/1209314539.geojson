@@ -1,0 +1,64 @@
+{
+  "id": 1209314539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.38,32.1268,121.38,32.1268",
+    "geom:latitude":32.1268,
+    "geom:longitude":121.38,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhanancun",
+    "gn:country_code":"CN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11080747,
+    "gn:latitude":32.1268,
+    "gn:longitude":121.38,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Zhanancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u95f8\u5357\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11080747
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e89dca368d1d80e70cfdfb4a55b283eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209314539
+        }
+    ],
+    "wof:id":1209314539,
+    "wof:lastmodified":1537615216,
+    "wof:name":"Zhanancun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.38,
+    32.1268,
+    121.38,
+    32.1268
+],
+  "geometry": {"coordinates":[121.38,32.1268],"type":"Point"}
+}

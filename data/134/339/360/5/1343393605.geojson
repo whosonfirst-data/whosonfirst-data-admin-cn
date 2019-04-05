@@ -1,0 +1,78 @@
+{
+  "id": 1343393605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.23627,32.10441,120.23627,32.10441",
+    "geom:latitude":32.10441,
+    "geom:longitude":120.23627,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Guangling",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1809911,
+    "gn:latitude":32.10441,
+    "gn:longitude":120.23627,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guangling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuang-ling",
+        "Guanglingzhen",
+        "Kuang-ling-chen",
+        "Guangling",
+        "\u5e7f\u9675",
+        "Guangling Zhen",
+        "\u5e7f\u9675\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1809911
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"dba671411cf26c38d1dd9c4ddd48d690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516237,
+            "empire_id":136253041,
+            "locality_id":1343393605,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1343393605,
+    "wof:lastmodified":1537593600,
+    "wof:name":"Guangling",
+    "wof:parent_id":890516237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.23627,
+    32.10440999999999,
+    120.23627,
+    32.10440999999999
+],
+  "geometry": {"coordinates":[120.23627,32.10440999999999],"type":"Point"}
+}

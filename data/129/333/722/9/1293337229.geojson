@@ -1,0 +1,79 @@
+{
+  "id": 1293337229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.091,24.5601,103.091,24.5601",
+    "geom:latitude":24.5601,
+    "geom:longitude":103.091,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Lufeng",
+    "gn:country_code":"CN",
+    "gn:dem":1382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1901872,
+    "gn:latitude":24.5601,
+    "gn:longitude":103.091,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Lufeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhushan",
+        "Lufeng"
+    ],
+    "name:zho_x_preferred":[
+        "Lu-feng-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u7984\u4e30"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        890512033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1901872
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"20e38a51a2a154b712b7a40b0fbea4b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512033,
+            "empire_id":136253041,
+            "locality_id":1293337229,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1293337229,
+    "wof:lastmodified":1537594480,
+    "wof:name":"Lufeng",
+    "wof:parent_id":890512033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.091,
+    24.5601,
+    103.091,
+    24.5601
+],
+  "geometry": {"coordinates":[103.09099999999999,24.5601],"type":"Point"}
+}

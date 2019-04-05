@@ -1,0 +1,75 @@
+{
+  "id": 1309702811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.13732,45.15182,131.13732,45.15182",
+    "geom:latitude":45.15182,
+    "geom:longitude":131.13732,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"De'ancun",
+    "gn:country_code":"CN",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11570450,
+    "gn:latitude":45.15182,
+    "gn:longitude":131.13732,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"De\u2019ancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "De\u2019ancun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u5b89\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        1108732547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11570450
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"43a8bdfa35c832c5cd03d32f244d4e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732547,
+            "empire_id":136253041,
+            "locality_id":1309702811,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1309702811,
+    "wof:lastmodified":1537617780,
+    "wof:name":"De'ancun",
+    "wof:parent_id":1108732547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.13732,
+    45.15182,
+    131.13732,
+    45.15182
+],
+  "geometry": {"coordinates":[131.13731999999999,45.15182],"type":"Point"}
+}

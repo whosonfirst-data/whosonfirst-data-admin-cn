@@ -1,0 +1,64 @@
+{
+  "id": 1209485381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.379,36.5315,103.379,36.5315",
+    "geom:latitude":36.5315,
+    "geom:longitude":103.379,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Qingsi",
+    "gn:country_code":"CN",
+    "gn:dem":1876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10680322,
+    "gn:latitude":36.5315,
+    "gn:longitude":103.379,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Qingsi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9752\u5bfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10680322
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1edd78be63314ed8b178e7c131d916b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209485381
+        }
+    ],
+    "wof:id":1209485381,
+    "wof:lastmodified":1537614128,
+    "wof:name":"Qingsi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.379,
+    36.5315,
+    103.379,
+    36.5315
+],
+  "geometry": {"coordinates":[103.379,36.5315],"type":"Point"}
+}

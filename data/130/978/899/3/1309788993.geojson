@@ -1,0 +1,80 @@
+{
+  "id": 1309788993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.9,31.2,85.9,31.2",
+    "geom:latitude":31.2,
+    "geom:longitude":85.9,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gyarab",
+    "gn:country_code":"CN",
+    "gn:dem":4708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8026548,
+    "gn:latitude":31.2,
+    "gn:longitude":85.9,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gyarab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Gyarab"
+    ],
+    "name:zho_x_preferred":[
+        "Jiarao"
+    ],
+    "name:zho_x_variant":[
+        "\u52a0\u9976",
+        "Jiantang",
+        "\u575a\u5858"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026548
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"562cb18931b1aa40a510bf3d09f3138a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732537,
+            "empire_id":136253041,
+            "locality_id":1309788993,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1309788993,
+    "wof:lastmodified":1537602177,
+    "wof:name":"Gyarab",
+    "wof:parent_id":1108732537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.9,
+    31.2,
+    85.9,
+    31.2
+],
+  "geometry": {"coordinates":[85.90000000000001,31.2],"type":"Point"}
+}

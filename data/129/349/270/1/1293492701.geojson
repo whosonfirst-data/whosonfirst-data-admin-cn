@@ -1,0 +1,77 @@
+{
+  "id": 1293492701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.43245,31.9357,121.43245,31.9357",
+    "geom:latitude":31.9357,
+    "geom:longitude":121.43245,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Yuelai",
+    "gn:country_code":"CN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1785922,
+    "gn:latitude":31.9357,
+    "gn:longitude":121.43245,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Yuelai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00fceh-lai",
+        "Y\u00fceh-lai-chen",
+        "Yuelai",
+        "\u60a6\u6765",
+        "Yuelai Zhen",
+        "\u60a6\u6765\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1785922
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0e7fefc10b4110a90116108a5037165a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515155,
+            "empire_id":136253041,
+            "locality_id":1293492701,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1293492701,
+    "wof:lastmodified":1537592025,
+    "wof:name":"Yuelai",
+    "wof:parent_id":890515155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.43245,
+    31.9357,
+    121.43245,
+    31.9357
+],
+  "geometry": {"coordinates":[121.43245,31.9357],"type":"Point"}
+}

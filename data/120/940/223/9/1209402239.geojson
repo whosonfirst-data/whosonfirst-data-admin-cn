@@ -1,0 +1,64 @@
+{
+  "id": 1209402239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.69109,28.86158,109.69109,28.86158",
+    "geom:latitude":28.86158,
+    "geom:longitude":109.69109,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Jibao",
+    "gn:country_code":"CN",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10373179,
+    "gn:latitude":28.86158,
+    "gn:longitude":109.69109,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Jibao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u79ef\u5b9d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10373179
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9c1a67039210c5a741ae689638d9b32a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209402239
+        }
+    ],
+    "wof:id":1209402239,
+    "wof:lastmodified":1537612883,
+    "wof:name":"Jibao",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.69109,
+    28.86158,
+    109.69109,
+    28.86158
+],
+  "geometry": {"coordinates":[109.69109,28.86158],"type":"Point"}
+}

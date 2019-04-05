@@ -1,0 +1,77 @@
+{
+  "id": 1344113655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.40455,35.86793,109.40455,35.86793",
+    "geom:latitude":35.86793,
+    "geom:longitude":109.40455,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Jiezihecun",
+    "gn:country_code":"CN",
+    "gn:dem":1018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1805825,
+    "gn:latitude":35.86793,
+    "gn:longitude":109.40455,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Jiezihecun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chieh-tzu-ho",
+        "Jiezihe",
+        "Jiezihecun"
+    ],
+    "name:zho_x_preferred":[
+        "\u754c\u5b50\u6cb3\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890516587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1805825
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0873e02730400d4728d5421f2744a06d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516587,
+            "empire_id":136253041,
+            "locality_id":1344113655,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1344113655,
+    "wof:lastmodified":1537593340,
+    "wof:name":"Jiezihecun",
+    "wof:parent_id":890516587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.40455,
+    35.86793,
+    109.40455,
+    35.86793
+],
+  "geometry": {"coordinates":[109.40455,35.86793],"type":"Point"}
+}

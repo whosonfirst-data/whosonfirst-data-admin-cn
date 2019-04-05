@@ -1,0 +1,64 @@
+{
+  "id": 1209579901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.267,35.8514,106.267,35.8514",
+    "geom:latitude":35.8514,
+    "geom:longitude":106.267,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Haigou",
+    "gn:country_code":"CN",
+    "gn:dem":1921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10203690,
+    "gn:latitude":35.8514,
+    "gn:longitude":106.267,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Haigou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6d77\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10203690
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b70656f1b74b5650a5031e943ec57034",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209579901
+        }
+    ],
+    "wof:id":1209579901,
+    "wof:lastmodified":1537611347,
+    "wof:name":"Haigou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.267,
+    35.8514,
+    106.267,
+    35.8514
+],
+  "geometry": {"coordinates":[106.267,35.8514],"type":"Point"}
+}

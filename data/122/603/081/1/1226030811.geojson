@@ -1,0 +1,85 @@
+{
+  "id": 1226030811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.85,35.35,78.85,35.35",
+    "geom:latitude":35.35,
+    "geom:longitude":78.85,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kizilyeza",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":5155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1280827,
+    "gn:latitude":35.35,
+    "gn:longitude":78.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kizilyeza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qizil Jilga",
+        "K\u2019o-shih-erh-ts\u2019un",
+        "Kizil Jilga",
+        "Kizilyeza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695697,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1280827
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ea726701c0f7d0ab06633a5b99a18c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":1226030811,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":1226030811,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":1226030811,
+    "wof:lastmodified":1537591482,
+    "wof:name":"Kizilyeza",
+    "wof:parent_id":1108695697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.85,
+    35.35,
+    78.85,
+    35.35
+],
+  "geometry": {"coordinates":[78.84999999999999,35.35],"type":"Point"}
+}

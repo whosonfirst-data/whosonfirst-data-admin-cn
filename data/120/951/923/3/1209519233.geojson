@@ -1,0 +1,64 @@
+{
+  "id": 1209519233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.88928,34.33673,116.88928,34.33673",
+    "geom:latitude":34.33673,
+    "geom:longitude":116.88928,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zhangkoucun",
+    "gn:country_code":"CN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11415003,
+    "gn:latitude":34.33673,
+    "gn:longitude":116.88928,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Zhangkoucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5f20\u53e3\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11415003
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"aa9be7f394715fe34e0a7d4325bfe8d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209519233
+        }
+    ],
+    "wof:id":1209519233,
+    "wof:lastmodified":1537616360,
+    "wof:name":"Zhangkoucun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.88928,
+    34.33673,
+    116.88928,
+    34.33673
+],
+  "geometry": {"coordinates":[116.88928,34.33673],"type":"Point"}
+}

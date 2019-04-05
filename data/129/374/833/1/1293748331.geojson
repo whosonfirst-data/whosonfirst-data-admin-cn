@@ -1,0 +1,75 @@
+{
+  "id": 1293748331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.72202,48.79628,123.72202,48.79628",
+    "geom:latitude":48.79628,
+    "geom:longitude":123.72202,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bula'e",
+    "gn:country_code":"CN",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8444955,
+    "gn:latitude":48.79628,
+    "gn:longitude":123.72202,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Bula\u2019e",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bula\u2019e"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u62c9\u9102"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669847,
+        102191569,
+        85632695,
+        136253041,
+        1108732385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8444955
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ad9eba21907a3b2b3c5f92904b67414e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732385,
+            "empire_id":136253041,
+            "locality_id":1293748331,
+            "region_id":85669847
+        }
+    ],
+    "wof:id":1293748331,
+    "wof:lastmodified":1537603749,
+    "wof:name":"Bula'e",
+    "wof:parent_id":1108732385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.72202,
+    48.79628,
+    123.72202,
+    48.79628
+],
+  "geometry": {"coordinates":[123.72202,48.79628],"type":"Point"}
+}

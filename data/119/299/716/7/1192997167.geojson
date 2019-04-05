@@ -1,0 +1,82 @@
+{
+  "id": 1192997167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.25663,36.9761,115.25663,36.9761",
+    "geom:latitude":36.9761,
+    "geom:longitude":115.25663,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mingzhou",
+    "gn:country_code":"CN",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1791587,
+    "gn:latitude":36.9761,
+    "gn:longitude":115.25663,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Mingzhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wei-hsien",
+        "Veysyan",
+        "Weixian",
+        "Wai",
+        "Wei-chen",
+        "Wei",
+        "Wei-hsien-ch\u2019eng-kuan",
+        "Mingzhou"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d3a\u5dde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669797,
+        102191569,
+        85632695,
+        136253041,
+        890513015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1791587
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9491e89e563842e87c2c54e2b7cdd1a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513015,
+            "empire_id":136253041,
+            "locality_id":1192997167,
+            "region_id":85669797
+        }
+    ],
+    "wof:id":1192997167,
+    "wof:lastmodified":1537592412,
+    "wof:name":"Mingzhou",
+    "wof:parent_id":890513015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.25663,
+    36.9761,
+    115.25663,
+    36.9761
+],
+  "geometry": {"coordinates":[115.25663,36.9761],"type":"Point"}
+}

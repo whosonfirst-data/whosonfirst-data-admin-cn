@@ -1,0 +1,80 @@
+{
+  "id": 1243223715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.83029,24.46899,113.83029,24.46899",
+    "geom:latitude":24.46899,
+    "geom:longitude":113.83029,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Xinjiang",
+    "gn:country_code":"CN",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1788802,
+    "gn:latitude":24.46899,
+    "gn:longitude":113.83029,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Xinjiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043d\u044c\u0434\u0437\u044f\u043d"
+    ],
+    "name:und_x_variant":[
+        "Hsin-chiang-hs\u00fc",
+        "Hsin-chiang",
+        "Xinjiang",
+        "\u65b0\u6c5f",
+        "Xinjiang Zhen",
+        "\u65b0\u6c5f\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890516559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1788802
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ad0c62e386d1046c853b691e495eaccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516559,
+            "empire_id":136253041,
+            "locality_id":1243223715,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1243223715,
+    "wof:lastmodified":1537592219,
+    "wof:name":"Xinjiang",
+    "wof:parent_id":890516559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.83029,
+    24.46899,
+    113.83029,
+    24.46899
+],
+  "geometry": {"coordinates":[113.83029000000001,24.46899],"type":"Point"}
+}

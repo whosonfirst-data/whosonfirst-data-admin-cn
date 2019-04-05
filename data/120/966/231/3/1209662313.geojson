@@ -1,0 +1,64 @@
+{
+  "id": 1209662313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.03388,27.84156,105.03388,27.84156",
+    "geom:latitude":27.84156,
+    "geom:longitude":105.03388,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Guanyin",
+    "gn:country_code":"CN",
+    "gn:dem":1319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9006822,
+    "gn:latitude":27.84156,
+    "gn:longitude":105.03388,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Guanyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u89c2\u97f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9006822
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"10e056f2d9b2a2d91b049f9d4f738796",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209662313
+        }
+    ],
+    "wof:id":1209662313,
+    "wof:lastmodified":1537605005,
+    "wof:name":"Guanyin",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.03388,
+    27.84156,
+    105.03388,
+    27.84156
+],
+  "geometry": {"coordinates":[105.03388,27.84156],"type":"Point"}
+}

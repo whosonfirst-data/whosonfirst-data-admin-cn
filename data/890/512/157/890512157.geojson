@@ -1,0 +1,71 @@
+{
+  "id": 890512157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.13625,39.20409,117.13625,39.20409",
+    "geom:latitude":39.20409,
+    "geom:longitude":117.13625,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":3507,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5357\u4ed3"
+    ],
+    "qs:name":"Nancang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669817,
+        102191569,
+        85632695,
+        136253041,
+        890513813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1800168,
+        "gp:id":20267080,
+        "qs:id":89066
+    },
+    "wof:country":"CN",
+    "wof:created":1469055760,
+    "wof:geomhash":"7c419b89e6449bc90791fccfd9d7214d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513813,
+            "empire_id":136253041,
+            "locality_id":890512157,
+            "region_id":85669817
+        }
+    ],
+    "wof:id":890512157,
+    "wof:lastmodified":1505343886,
+    "wof:name":"Nancang",
+    "wof:parent_id":890513813,
+    "wof:placetype":"locality",
+    "wof:population":3507,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.13625,
+    39.20409,
+    117.13625,
+    39.20409
+],
+  "geometry": {"coordinates":[117.13625,39.20409],"type":"Point"}
+}

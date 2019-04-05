@@ -1,0 +1,78 @@
+{
+  "id": 1226578721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.4387,19.47852,110.4387,19.47852",
+    "geom:latitude":19.47852,
+    "geom:longitude":110.4387,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Huangzhu",
+    "gn:country_code":"CN",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1807111,
+    "gn:latitude":19.47852,
+    "gn:longitude":110.4387,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Huangzhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wongchuk",
+        "Wangchiu",
+        "Huang-chu",
+        "Vongchuk",
+        "Huang-chu-shih",
+        "Huangzhu",
+        "\u9ec4\u7af9",
+        "Huangzhu Zhen",
+        "\u9ec4\u7af9\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632695,
+        85669759,
+        1108732409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1807111
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4d9229df86736cb302618f060a59f8cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732409,
+            "locality_id":1226578721,
+            "region_id":85669759
+        }
+    ],
+    "wof:id":1226578721,
+    "wof:lastmodified":1537593419,
+    "wof:name":"Huangzhu",
+    "wof:parent_id":1108732409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.4387,
+    19.47852,
+    110.4387,
+    19.47852
+],
+  "geometry": {"coordinates":[110.4387,19.47852],"type":"Point"}
+}

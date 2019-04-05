@@ -1,0 +1,75 @@
+{
+  "id": 1326943731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.98333,30.1,116.98333,30.1",
+    "geom:latitude":30.1,
+    "geom:longitude":116.98333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Meicheng",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1800883,
+    "gn:latitude":30.1,
+    "gn:longitude":116.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Meicheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dongfanghong",
+        "Tung-fang-hung",
+        "Meicheng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890513323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1800883
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9366a5286f8c5ffc0eba8362b40122cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513323,
+            "empire_id":136253041,
+            "locality_id":1326943731,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1326943731,
+    "wof:lastmodified":1537593015,
+    "wof:name":"Meicheng",
+    "wof:parent_id":890513323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.98333,
+    30.1,
+    116.98333,
+    30.1
+],
+  "geometry": {"coordinates":[116.98333,30.1],"type":"Point"}
+}

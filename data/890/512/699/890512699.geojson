@@ -1,0 +1,71 @@
+{
+  "id": 890512699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.1,30.65,113.1,30.65",
+    "geom:latitude":30.65,
+    "geom:longitude":113.1,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":224871,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "T\u2019ien-men"
+    ],
+    "qs:name":"Jingling",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1805618,
+        "gp:id":2163167,
+        "qs:id":1033203
+    },
+    "wof:country":"CN",
+    "wof:created":1469055782,
+    "wof:geomhash":"a48ff78e0c841224e4b7d5e0e4646394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732405,
+            "empire_id":136253041,
+            "locality_id":890512699,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":890512699,
+    "wof:lastmodified":1505343889,
+    "wof:name":"Jingling",
+    "wof:parent_id":1108732405,
+    "wof:placetype":"locality",
+    "wof:population":224871,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.1,
+    30.65,
+    113.1,
+    30.65
+],
+  "geometry": {"coordinates":[113.09999999999999,30.65],"type":"Point"}
+}

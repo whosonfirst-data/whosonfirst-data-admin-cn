@@ -1,0 +1,64 @@
+{
+  "id": 1209620379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.4966,31.40745,119.4966,31.40745",
+    "geom:latitude":31.40745,
+    "geom:longitude":119.4966,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Beigu",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8383261,
+    "gn:latitude":31.40745,
+    "gn:longitude":119.4966,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Beigu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5317\u56fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8383261
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6e24b5d38f69452b335557c36b3dad05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209620379
+        }
+    ],
+    "wof:id":1209620379,
+    "wof:lastmodified":1537603171,
+    "wof:name":"Beigu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.4966,
+    31.40745,
+    119.4966,
+    31.40745
+],
+  "geometry": {"coordinates":[119.4966,31.40745],"type":"Point"}
+}

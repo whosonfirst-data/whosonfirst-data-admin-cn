@@ -1,0 +1,75 @@
+{
+  "id": 1293663377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.96104,50.49799,119.96104,50.49799",
+    "geom:latitude":50.49799,
+    "geom:longitude":119.96104,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ba'er Zhaguantun",
+    "gn:country_code":"CN",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8441401,
+    "gn:latitude":50.49799,
+    "gn:longitude":119.96104,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Ba\u2019er Zhaguantun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba\u2019er Zhaguantun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5c14\u672d\u8d2f\u5c6f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669847,
+        102191569,
+        85632695,
+        136253041,
+        1108732385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8441401
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3d5bec7fe3f7cef0e0dd947d52655088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732385,
+            "empire_id":136253041,
+            "locality_id":1293663377,
+            "region_id":85669847
+        }
+    ],
+    "wof:id":1293663377,
+    "wof:lastmodified":1537603721,
+    "wof:name":"Ba'er Zhaguantun",
+    "wof:parent_id":1108732385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.96104,
+    50.49799,
+    119.96104,
+    50.49799
+],
+  "geometry": {"coordinates":[119.96104,50.49799],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243251025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.13308,28.99082,111.13308,28.99082",
+    "geom:latitude":28.99082,
+    "geom:longitude":111.13308,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Huaxiangping",
+    "gn:country_code":"CN",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016631,
+    "gn:latitude":28.99082,
+    "gn:longitude":111.13308,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Huaxiangping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Huaxiangping"
+    ],
+    "name:zho_x_variant":[
+        "\u82b1\u9999\u576a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890515867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016631
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"85a507d8ec95fe84181f16c1608f442e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515867,
+            "empire_id":136253041,
+            "locality_id":1243251025,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1243251025,
+    "wof:lastmodified":1537602135,
+    "wof:name":"Huaxiangping",
+    "wof:parent_id":890515867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.13308,
+    28.99082000000001,
+    111.13308,
+    28.99082000000001
+],
+  "geometry": {"coordinates":[111.13308000000001,28.99082000000001],"type":"Point"}
+}

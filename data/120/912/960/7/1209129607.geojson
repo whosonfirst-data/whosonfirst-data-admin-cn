@@ -1,0 +1,64 @@
+{
+  "id": 1209129607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.34406,32.34605,119.34406,32.34605",
+    "geom:latitude":32.34605,
+    "geom:longitude":119.34406,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Silian",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8272680,
+    "gn:latitude":32.34605,
+    "gn:longitude":119.34406,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Silian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u56db\u8054"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8272680
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2005ec9f32a58b83630e07af2b58da84",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209129607
+        }
+    ],
+    "wof:id":1209129607,
+    "wof:lastmodified":1537602878,
+    "wof:name":"Silian",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.34406,
+    32.34605,
+    119.34406,
+    32.34605
+],
+  "geometry": {"coordinates":[119.34406,32.34605],"type":"Point"}
+}

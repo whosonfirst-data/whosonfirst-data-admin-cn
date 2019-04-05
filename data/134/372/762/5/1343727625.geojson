@@ -1,0 +1,75 @@
+{
+  "id": 1343727625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.77315,39.95083,123.77315,39.95083",
+    "geom:latitude":39.95083,
+    "geom:longitude":123.77315,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Yilansucun",
+    "gn:country_code":"CN",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11566214,
+    "gn:latitude":39.95083,
+    "gn:longitude":123.77315,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Yilansucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4f9d\u5170\u82cf\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u4f0a\u5170\u82cf\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11566214
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"83eda09aefde90248dfcb7c89538e0f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514725,
+            "empire_id":136253041,
+            "locality_id":1343727625,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1343727625,
+    "wof:lastmodified":1537617698,
+    "wof:name":"Yilansucun",
+    "wof:parent_id":890514725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.77315,
+    39.95083,
+    123.77315,
+    39.95083
+],
+  "geometry": {"coordinates":[123.77315,39.95083],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1344231835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1855,42.76016,123.1855,42.76016",
+    "geom:latitude":42.76016,
+    "geom:longitude":123.1855,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Liujia Wobucun",
+    "gn:country_code":"CN",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11527185,
+    "gn:latitude":42.76016,
+    "gn:longitude":123.1855,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Liujia Wobucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liujiawobucun",
+        "Liujia Wobucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5218\u5bb6\u7a9d\u5821\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11527185
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a20d53b2c0fcf9f073dca29956752e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732451,
+            "empire_id":136253041,
+            "locality_id":1344231835,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1344231835,
+    "wof:lastmodified":1537617379,
+    "wof:name":"Liujia Wobucun",
+    "wof:parent_id":1108732451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1855,
+    42.76016,
+    123.1855,
+    42.76016
+],
+  "geometry": {"coordinates":[123.1855,42.76016],"type":"Point"}
+}

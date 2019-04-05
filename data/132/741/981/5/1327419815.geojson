@@ -1,0 +1,82 @@
+{
+  "id": 1327419815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.77777,35.26713,78.77777,35.26713",
+    "geom:latitude":35.26713,
+    "geom:longitude":78.77777,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Chalukou",
+    "gn:country_code":"CN",
+    "gn:dem":5037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346625,
+    "gn:latitude":35.26713,
+    "gn:longitude":78.77777,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chalukou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5c94\u8def\u53e3",
+        "Chalukou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695697,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346625
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"02e223af64de61afc6aac8df7266b8b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":1327419815,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":1327419815,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":1327419815,
+    "wof:lastmodified":1537591547,
+    "wof:name":"Chalukou",
+    "wof:parent_id":1108695697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.77776999999998,
+    35.26713,
+    78.77776999999998,
+    35.26713
+],
+  "geometry": {"coordinates":[78.77776999999998,35.26713],"type":"Point"}
+}

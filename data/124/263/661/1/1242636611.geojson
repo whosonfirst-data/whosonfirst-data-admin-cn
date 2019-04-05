@@ -1,0 +1,78 @@
+{
+  "id": 1242636611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.56339,28.38812,104.56339,28.38812",
+    "geom:latitude":28.38812,
+    "geom:longitude":104.56339,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Wenjiang",
+    "gn:country_code":"CN",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1791484,
+    "gn:latitude":28.38812,
+    "gn:longitude":104.56339,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wenjiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaoxian",
+        "Kao",
+        "Kao-hsien",
+        "Wenjiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u6587\u6c5f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890516537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1791484
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e0c2b642020dcd51301d693d089cebe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516537,
+            "empire_id":136253041,
+            "locality_id":1242636611,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1242636611,
+    "wof:lastmodified":1537592404,
+    "wof:name":"Wenjiang",
+    "wof:parent_id":890516537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.56339,
+    28.38812,
+    104.56339,
+    28.38812
+],
+  "geometry": {"coordinates":[104.56339,28.38812],"type":"Point"}
+}

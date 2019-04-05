@@ -1,0 +1,64 @@
+{
+  "id": 1209422123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.21607,29.07131,114.21607,29.07131",
+    "geom:latitude":29.07131,
+    "geom:longitude":114.21607,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sanjishui",
+    "gn:country_code":"CN",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7744911,
+    "gn:latitude":29.07131,
+    "gn:longitude":114.21607,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sanjishui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e09\u96c6\u6c34"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7744911
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0b2fc66662c79ca23a801aace020b32b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209422123
+        }
+    ],
+    "wof:id":1209422123,
+    "wof:lastmodified":1537601384,
+    "wof:name":"Sanjishui",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.21607,
+    29.07131,
+    114.21607,
+    29.07131
+],
+  "geometry": {"coordinates":[114.21607,29.07131],"type":"Point"}
+}

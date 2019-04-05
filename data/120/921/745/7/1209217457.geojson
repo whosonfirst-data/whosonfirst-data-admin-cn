@@ -1,0 +1,64 @@
+{
+  "id": 1209217457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.75615,28.78784,120.75615,28.78784",
+    "geom:latitude":28.78784,
+    "geom:longitude":120.75615,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zhoushan",
+    "gn:country_code":"CN",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8400790,
+    "gn:latitude":28.78784,
+    "gn:longitude":120.75615,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Zhoushan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5468\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8400790
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"939e75fc4d07d170f34a1b22ae5c9235",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209217457
+        }
+    ],
+    "wof:id":1209217457,
+    "wof:lastmodified":1537603343,
+    "wof:name":"Zhoushan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.75615,
+    28.78784000000001,
+    120.75615,
+    28.78784000000001
+],
+  "geometry": {"coordinates":[120.75615000000001,28.78784000000001],"type":"Point"}
+}

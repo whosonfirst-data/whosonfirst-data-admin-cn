@@ -1,0 +1,75 @@
+{
+  "id": 1225918833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.65942,41.96027,123.65942,41.96027",
+    "geom:latitude":41.96027,
+    "geom:longitude":123.65942,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Qianfosi",
+    "gn:country_code":"CN",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7398205,
+    "gn:latitude":41.96027,
+    "gn:longitude":123.65942,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qianfosi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5343\u4f5b\u5bfa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5343\u4f5b\u5bfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7398205
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a1f7c7e497171fc77ec19705439e5f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732451,
+            "empire_id":136253041,
+            "locality_id":1225918833,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1225918833,
+    "wof:lastmodified":1537598556,
+    "wof:name":"Qianfosi",
+    "wof:parent_id":1108732451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.65942,
+    41.96027,
+    123.65942,
+    41.96027
+],
+  "geometry": {"coordinates":[123.65942,41.96027],"type":"Point"}
+}

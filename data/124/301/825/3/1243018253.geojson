@@ -1,0 +1,86 @@
+{
+  "id": 1243018253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.68769,22.36136,112.68769,22.36136",
+    "geom:latitude":22.36136,
+    "geom:longitude":112.68769,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Sanbu",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1789211,
+    "gn:latitude":22.36136,
+    "gn:longitude":112.68769,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Sanbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sunchang",
+        "Hsin-ch\u2019ang-fou",
+        "Sunchong",
+        "San-fou-chen",
+        "K\u2019ai-p\u2019ing",
+        "Hsin-chiang",
+        "Hsichang",
+        "Hsin-ch\u2019ang",
+        "Xinchang",
+        "Sanbu",
+        "Sanbu Jiedao",
+        "\u4e09\u57e0\u8857\u9053"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u57e0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890514609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1789211
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9187e8cf76a4c62db1a51fe2f9b2f40d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514609,
+            "empire_id":136253041,
+            "locality_id":1243018253,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1243018253,
+    "wof:lastmodified":1537592254,
+    "wof:name":"Sanbu",
+    "wof:parent_id":890514609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.68769,
+    22.36136,
+    112.68769,
+    22.36136
+],
+  "geometry": {"coordinates":[112.68769,22.36136],"type":"Point"}
+}

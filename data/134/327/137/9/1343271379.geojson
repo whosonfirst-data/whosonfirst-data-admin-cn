@@ -1,0 +1,78 @@
+{
+  "id": 1343271379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.14192,32.70628,119.14192,32.70628",
+    "geom:latitude":32.70628,
+    "geom:longitude":119.14192,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hekou",
+    "gn:country_code":"CN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1790199,
+    "gn:latitude":32.70628,
+    "gn:longitude":119.14192,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Hekou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jiepai",
+        "Hsiao-ho-k\u2019ou",
+        "Chieh-p\u2019ai",
+        "Hekou"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cb3\u53e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890513329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1790199
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"091e31007f0363c6a413689d86c7397c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513329,
+            "empire_id":136253041,
+            "locality_id":1343271379,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1343271379,
+    "wof:lastmodified":1537592321,
+    "wof:name":"Hekou",
+    "wof:parent_id":890513329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.14192,
+    32.70628,
+    119.14192,
+    32.70628
+],
+  "geometry": {"coordinates":[119.14192,32.70628],"type":"Point"}
+}

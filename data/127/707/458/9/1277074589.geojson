@@ -1,0 +1,76 @@
+{
+  "id": 1277074589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.13333,34.68333,119.13333,34.68333",
+    "geom:latitude":34.68333,
+    "geom:longitude":119.13333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dongguan",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1812540,
+    "gn:latitude":34.68333,
+    "gn:longitude":119.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dongguan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xiaodongguan",
+        "Tung-kuan",
+        "Hsiao-tung-kuan",
+        "Dongguan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890514777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1812540
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ac14a0c6172d4dd8d9a9f6b669df632c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514777,
+            "empire_id":136253041,
+            "locality_id":1277074589,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1277074589,
+    "wof:lastmodified":1537593770,
+    "wof:name":"Dongguan",
+    "wof:parent_id":890514777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.13333,
+    34.68333,
+    119.13333,
+    34.68333
+],
+  "geometry": {"coordinates":[119.13333,34.68333],"type":"Point"}
+}

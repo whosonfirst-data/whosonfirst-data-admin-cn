@@ -1,0 +1,77 @@
+{
+  "id": 1226590877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.29389,25.30611,102.29389,25.30611",
+    "geom:latitude":25.30611,
+    "geom:longitude":102.29389,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Bicheng",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":1853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1816397,
+    "gn:latitude":25.30611,
+    "gn:longitude":102.29389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bicheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pi-ch\u2019eng-chen",
+        "Bicheng Zhen",
+        "Lo-tz\u2019u-hsien",
+        "Lo-tz\u2019u",
+        "Bicheng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        1108732445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1816397
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d4a5d608f167ddb3492ea7875259cce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732445,
+            "empire_id":136253041,
+            "locality_id":1226590877,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1226590877,
+    "wof:lastmodified":1537594005,
+    "wof:name":"Bicheng",
+    "wof:parent_id":1108732445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.29389,
+    25.30611,
+    102.29389,
+    25.30611
+],
+  "geometry": {"coordinates":[102.29389,25.30611],"type":"Point"}
+}

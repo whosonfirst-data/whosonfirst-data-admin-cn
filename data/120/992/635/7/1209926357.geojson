@@ -1,0 +1,80 @@
+{
+  "id": 1209926357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.37412,28.9484,120.37412,28.9484",
+    "geom:latitude":28.9484,
+    "geom:longitude":120.37412,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Xinwo",
+    "gn:country_code":"CN",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1788580,
+    "gn:latitude":28.9484,
+    "gn:longitude":120.37412,
+    "gn:modification_date":"2012-10-06",
+    "gn:name":"Xinwo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-wo",
+        "Xinwo",
+        "Xinwo Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u6e25"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u6e25\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890513337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1788580
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fc74e9d96b0ff212c18493d7596b764e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513337,
+            "empire_id":136253041,
+            "locality_id":1209926357,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1209926357,
+    "wof:lastmodified":1537592202,
+    "wof:name":"Xinwo",
+    "wof:parent_id":890513337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.37412,
+    28.9484,
+    120.37412,
+    28.9484
+],
+  "geometry": {"coordinates":[120.37412,28.9484],"type":"Point"}
+}

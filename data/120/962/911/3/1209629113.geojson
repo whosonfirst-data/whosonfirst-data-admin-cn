@@ -1,0 +1,64 @@
+{
+  "id": 1209629113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.89256,32.43773,117.89256,32.43773",
+    "geom:latitude":32.43773,
+    "geom:longitude":117.89256,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Banancun",
+    "gn:country_code":"CN",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10415860,
+    "gn:latitude":32.43773,
+    "gn:longitude":117.89256,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Banancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u575d\u5357\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10415860
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"67d6406825aa22faeff45c34ea2e0812",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209629113
+        }
+    ],
+    "wof:id":1209629113,
+    "wof:lastmodified":1537613278,
+    "wof:name":"Banancun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.89256,
+    32.43773,
+    117.89256,
+    32.43773
+],
+  "geometry": {"coordinates":[117.89256,32.43773],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293895519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.075,30.16778,121.075,30.16778",
+    "geom:latitude":30.16778,
+    "geom:longitude":121.075,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Langxia",
+    "gn:country_code":"CN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1881450,
+    "gn:latitude":30.16778,
+    "gn:longitude":121.075,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Langxia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lang-hsia-chen",
+        "Langxia",
+        "Langxia Jiedao",
+        "\u6717\u971e\u8857\u9053",
+        "Langxia Zhen",
+        "\u6717\u971e\u9547",
+        "\u6717\u971e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1881450
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c25198fa826ed6579ce54e28ad77fce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516553,
+            "empire_id":136253041,
+            "locality_id":1293895519,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1293895519,
+    "wof:lastmodified":1537594138,
+    "wof:name":"Langxia",
+    "wof:parent_id":890516553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.075,
+    30.16778,
+    121.075,
+    30.16778
+],
+  "geometry": {"coordinates":[121.075,30.16778],"type":"Point"}
+}

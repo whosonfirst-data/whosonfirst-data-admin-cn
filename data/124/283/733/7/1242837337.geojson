@@ -1,0 +1,79 @@
+{
+  "id": 1242837337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.11694,28.26861,108.11694,28.26861",
+    "geom:latitude":28.26861,
+    "geom:longitude":108.11694,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Jiangsi",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1806261,
+    "gn:latitude":28.26861,
+    "gn:longitude":108.11694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jiangsi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tehkiang",
+        "Dejiang",
+        "Te-chiang",
+        "Anhwahsien",
+        "Te-chiang-hsien",
+        "An-hua",
+        "Jiangsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669721,
+        102191569,
+        85632695,
+        136253041,
+        1108732513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1806261
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"50e6992aac2a4c2ea268148387f40ecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732513,
+            "empire_id":136253041,
+            "locality_id":1242837337,
+            "region_id":85669721
+        }
+    ],
+    "wof:id":1242837337,
+    "wof:lastmodified":1537593367,
+    "wof:name":"Jiangsi",
+    "wof:parent_id":1108732513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.11694,
+    28.26861,
+    108.11694,
+    28.26861
+],
+  "geometry": {"coordinates":[108.11694,28.26861],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 890513539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.93194,27.41139,109.93194,27.41139",
+    "geom:latitude":27.41139,
+    "geom:longitude":109.93194,
+    "gn:country":"CN",
+    "gn:fcode":"PPLA3",
+    "gn:pop":1360,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Chung-fang"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u65b9"
+    ],
+    "qs:name":"Zhongfang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":102,
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890514349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1784414,
+        "gp:id":2143071,
+        "qs:id":558978,
+        "wd:id":"Q197829",
+        "wk:page":"Zhongfang County"
+    },
+    "wof:country":"CN",
+    "wof:created":1469055820,
+    "wof:geomhash":"109c7d9299322b5a26b86f0409ba3d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514349,
+            "empire_id":136253041,
+            "locality_id":890513539,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":890513539,
+    "wof:lastmodified":1527793069,
+    "wof:name":"Zhongfang",
+    "wof:parent_id":890514349,
+    "wof:placetype":"locality",
+    "wof:population":1360,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.93194,
+    27.41139,
+    109.93194,
+    27.41139
+],
+  "geometry": {"coordinates":[109.93194,27.41139],"type":"Point"}
+}

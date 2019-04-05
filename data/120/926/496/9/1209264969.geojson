@@ -1,0 +1,64 @@
+{
+  "id": 1209264969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.406,26.8192,100.406,26.8192",
+    "geom:latitude":26.8192,
+    "geom:longitude":100.406,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Shiguan",
+    "gn:country_code":"CN",
+    "gn:dem":2526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10138291,
+    "gn:latitude":26.8192,
+    "gn:longitude":100.406,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Shiguan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u77f3\u5173"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10138291
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"77baaf15eb9a0df6e4718c1d7bb57b24",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209264969
+        }
+    ],
+    "wof:id":1209264969,
+    "wof:lastmodified":1537610100,
+    "wof:name":"Shiguan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.406,
+    26.8192,
+    100.406,
+    26.8192
+],
+  "geometry": {"coordinates":[100.40600000000001,26.8192],"type":"Point"}
+}

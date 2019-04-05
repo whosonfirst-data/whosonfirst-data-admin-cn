@@ -1,0 +1,64 @@
+{
+  "id": 1209298739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.70353,34.85206,113.70353,34.85206",
+    "geom:latitude":34.85206,
+    "geom:longitude":113.70353,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hecun",
+    "gn:country_code":"CN",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10408270,
+    "gn:latitude":34.85206,
+    "gn:longitude":113.70353,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Hecun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6cb3\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10408270
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"03d0b1e26ac27945b022ac26f3aec8cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209298739
+        }
+    ],
+    "wof:id":1209298739,
+    "wof:lastmodified":1537613123,
+    "wof:name":"Hecun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.70353,
+    34.85205999999999,
+    113.70353,
+    34.85205999999999
+],
+  "geometry": {"coordinates":[113.70353,34.85205999999999],"type":"Point"}
+}

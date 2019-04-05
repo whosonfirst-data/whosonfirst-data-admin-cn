@@ -1,0 +1,75 @@
+{
+  "id": 1343234987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.74353,33.70148,104.74353,33.70148",
+    "geom:latitude":33.70148,
+    "geom:longitude":104.74353,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Pangjiashan",
+    "gn:country_code":"CN",
+    "gn:dem":2462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7330035,
+    "gn:latitude":33.70148,
+    "gn:longitude":104.74353,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Pangjiashan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5e9e\u5bb6\u5c71"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e9e\u5bb6\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669711,
+        102191569,
+        85632695,
+        136253041,
+        890516335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7330035
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d5c1aa71be1844245672dd5b331ea6e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516335,
+            "empire_id":136253041,
+            "locality_id":1343234987,
+            "region_id":85669711
+        }
+    ],
+    "wof:id":1343234987,
+    "wof:lastmodified":1537598021,
+    "wof:name":"Pangjiashan",
+    "wof:parent_id":890516335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.74353,
+    33.70148,
+    104.74353,
+    33.70148
+],
+  "geometry": {"coordinates":[104.74353000000001,33.70148],"type":"Point"}
+}

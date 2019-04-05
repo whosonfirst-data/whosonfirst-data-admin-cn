@@ -1,0 +1,64 @@
+{
+  "id": 1209338215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.33713,32.73139,120.33713,32.73139",
+    "geom:latitude":32.73139,
+    "geom:longitude":120.33713,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shenni",
+    "gn:country_code":"CN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8360830,
+    "gn:latitude":32.73139,
+    "gn:longitude":120.33713,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Shenni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6c88\u502a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8360830
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6367730d4c031e469c18fc2a358a1823",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209338215
+        }
+    ],
+    "wof:id":1209338215,
+    "wof:lastmodified":1537603002,
+    "wof:name":"Shenni",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.33713,
+    32.73139,
+    120.33713,
+    32.73139
+],
+  "geometry": {"coordinates":[120.33713,32.73139],"type":"Point"}
+}

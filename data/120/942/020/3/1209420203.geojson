@@ -1,0 +1,64 @@
+{
+  "id": 1209420203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.06737,32.48514,120.06737,32.48514",
+    "geom:latitude":32.48514,
+    "geom:longitude":120.06737,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sanshe",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8365341,
+    "gn:latitude":32.48514,
+    "gn:longitude":120.06737,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Sanshe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e09\u820d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8365341
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c914f38f2dee6cb9b9cc566ffc8a58c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209420203
+        }
+    ],
+    "wof:id":1209420203,
+    "wof:lastmodified":1537603028,
+    "wof:name":"Sanshe",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.06737,
+    32.48514,
+    120.06737,
+    32.48514
+],
+  "geometry": {"coordinates":[120.06737,32.48514],"type":"Point"}
+}

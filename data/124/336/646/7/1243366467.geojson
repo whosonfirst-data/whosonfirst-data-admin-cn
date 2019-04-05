@@ -1,0 +1,69 @@
+{
+  "id": 1243366467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.70867,28.01683,120.70867,28.01683",
+    "geom:latitude":28.01683,
+    "geom:longitude":120.70867,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zhongtu",
+    "gn:country_code":"CN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1899106,
+    "gn:latitude":28.01683,
+    "gn:longitude":120.70867,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zhongtu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890514289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1899106
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4497c52152fd9d49dc2be22abea103a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514289,
+            "empire_id":136253041,
+            "locality_id":1243366467,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1243366467,
+    "wof:lastmodified":1536921539,
+    "wof:name":"Zhongtu",
+    "wof:parent_id":890514289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.70867,
+    28.01683,
+    120.70867,
+    28.01683
+],
+  "geometry": {"coordinates":[120.70867,28.01683],"type":"Point"}
+}

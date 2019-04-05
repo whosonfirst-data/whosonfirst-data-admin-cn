@@ -1,0 +1,66 @@
+{
+  "id": 1209472777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.05,37.6,113.05,37.6",
+    "geom:latitude":37.6,
+    "geom:longitude":113.05,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Beizui",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":1257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1816447,
+    "gn:latitude":37.6,
+    "gn:longitude":113.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Beizui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pei-tsui",
+        "Beizui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1816447
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e7869938abee6e5d82ef744f6a59f190",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209472777
+        }
+    ],
+    "wof:id":1209472777,
+    "wof:lastmodified":1537594007,
+    "wof:name":"Beizui",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.05,
+    37.6,
+    113.05,
+    37.6
+],
+  "geometry": {"coordinates":[113.05,37.6],"type":"Point"}
+}

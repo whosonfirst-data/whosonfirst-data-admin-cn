@@ -1,0 +1,64 @@
+{
+  "id": 1209065723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.8652,31.28631,107.8652,31.28631",
+    "geom:latitude":31.28631,
+    "geom:longitude":107.8652,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Bajiao",
+    "gn:country_code":"CN",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6980856,
+    "gn:latitude":31.28631,
+    "gn:longitude":107.8652,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bajiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u82ad\u8549"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6980856
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"06f0cb82c4ca8fb38c57c177841734e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209065723
+        }
+    ],
+    "wof:id":1209065723,
+    "wof:lastmodified":1537597196,
+    "wof:name":"Bajiao",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.8652,
+    31.28631,
+    107.8652,
+    31.28631
+],
+  "geometry": {"coordinates":[107.8652,31.28631],"type":"Point"}
+}

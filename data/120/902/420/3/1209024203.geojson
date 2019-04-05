@@ -1,0 +1,64 @@
+{
+  "id": 1209024203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.729,38.5645,116.729,38.5645",
+    "geom:latitude":38.5645,
+    "geom:longitude":116.729,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jiangzhuang",
+    "gn:country_code":"CN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9630130,
+    "gn:latitude":38.5645,
+    "gn:longitude":116.729,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Jiangzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9171\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9630130
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6972ea8d0b4ea893c56a39cc841c08b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209024203
+        }
+    ],
+    "wof:id":1209024203,
+    "wof:lastmodified":1537606100,
+    "wof:name":"Jiangzhuang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.729,
+    38.5645,
+    116.729,
+    38.5645
+],
+  "geometry": {"coordinates":[116.729,38.5645],"type":"Point"}
+}

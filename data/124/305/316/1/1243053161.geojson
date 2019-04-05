@@ -1,0 +1,78 @@
+{
+  "id": 1243053161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.49179,47.76345,125.49179,47.76345",
+    "geom:latitude":47.76345,
+    "geom:longitude":125.49179,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Yangchun",
+    "gn:country_code":"CN",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8505390,
+    "gn:latitude":47.76345,
+    "gn:longitude":125.49179,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Yangchun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yangchun Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u9633\u6625"
+    ],
+    "name:zho_x_variant":[
+        "\u9633\u6625\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890516483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8505390
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"07f3ac883c511a76d8669afe04401434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516483,
+            "empire_id":136253041,
+            "locality_id":1243053161,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1243053161,
+    "wof:lastmodified":1537603898,
+    "wof:name":"Yangchun",
+    "wof:parent_id":890516483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.49179,
+    47.76345,
+    125.49179,
+    47.76345
+],
+  "geometry": {"coordinates":[125.49178999999999,47.76345],"type":"Point"}
+}

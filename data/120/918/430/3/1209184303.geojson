@@ -1,0 +1,64 @@
+{
+  "id": 1209184303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.831,34.7167,102.831,34.7167",
+    "geom:latitude":34.7167,
+    "geom:longitude":102.831,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Marui",
+    "gn:country_code":"CN",
+    "gn:dem":2976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10712600,
+    "gn:latitude":34.7167,
+    "gn:longitude":102.831,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Marui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9ebb\u9510"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10712600
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9b8d67db25a99dd0baad1bda48c657f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209184303
+        }
+    ],
+    "wof:id":1209184303,
+    "wof:lastmodified":1537614174,
+    "wof:name":"Marui",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.831,
+    34.7167,
+    102.831,
+    34.7167
+],
+  "geometry": {"coordinates":[102.831,34.7167],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1259677225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.557,38.6032,117.557,38.6032",
+    "geom:latitude":38.6032,
+    "geom:longitude":117.557,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Qikou",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1798020,
+    "gn:latitude":38.6032,
+    "gn:longitude":117.557,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Qikou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chi-kau",
+        "Chikow",
+        "Chihshankou",
+        "Ch\u2019i-k\u2019ou",
+        "Qikou"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b67\u53e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669797,
+        102191569,
+        85632695,
+        136253041,
+        890513789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1798020
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0e89940d114c9b0a98ac43ca27560218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513789,
+            "empire_id":136253041,
+            "locality_id":1259677225,
+            "region_id":85669797
+        }
+    ],
+    "wof:id":1259677225,
+    "wof:lastmodified":1537592844,
+    "wof:name":"Qikou",
+    "wof:parent_id":890513789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.557,
+    38.6032,
+    117.557,
+    38.6032
+],
+  "geometry": {"coordinates":[117.557,38.6032],"type":"Point"}
+}

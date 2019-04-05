@@ -1,0 +1,69 @@
+{
+  "id": 1210021481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.4,33.7,119.4,33.7",
+    "geom:latitude":33.7,
+    "geom:longitude":119.4,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Anmatou",
+    "gn:country_code":"CN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1547964,
+    "gn:latitude":33.7,
+    "gn:longitude":119.4,
+    "gn:modification_date":"1999-01-20",
+    "gn:name":"Anmatou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        1108732465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1547964
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e66cc422881e61c2df3a974b2aa82cb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732465,
+            "empire_id":136253041,
+            "locality_id":1210021481,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1210021481,
+    "wof:lastmodified":1536392657,
+    "wof:name":"Anmatou",
+    "wof:parent_id":1108732465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.4,
+    33.7,
+    119.4,
+    33.7
+],
+  "geometry": {"coordinates":[119.40000000000001,33.7],"type":"Point"}
+}

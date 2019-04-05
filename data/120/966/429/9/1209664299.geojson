@@ -1,0 +1,64 @@
+{
+  "id": 1209664299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.4711,29.1852,99.4711,29.1852",
+    "geom:latitude":29.1852,
+    "geom:longitude":99.4711,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Zhilazong",
+    "gn:country_code":"CN",
+    "gn:dem":3643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10211597,
+    "gn:latitude":29.1852,
+    "gn:longitude":99.4711,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Zhilazong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u652f\u62c9\u5b97"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10211597
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"adce2001c0cc154e5e9a2f76f4e8ddaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209664299
+        }
+    ],
+    "wof:id":1209664299,
+    "wof:lastmodified":1537611446,
+    "wof:name":"Zhilazong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.4711,
+    29.1852,
+    99.4711,
+    29.1852
+],
+  "geometry": {"coordinates":[99.47110000000001,29.1852],"type":"Point"}
+}

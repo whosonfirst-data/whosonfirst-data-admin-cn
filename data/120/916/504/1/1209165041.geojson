@@ -1,0 +1,67 @@
+{
+  "id": 1209165041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.55,23.05,99.55,23.05",
+    "geom:latitude":23.05,
+    "geom:longitude":99.55,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Xuelin",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":1748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1279668,
+    "gn:latitude":23.05,
+    "gn:longitude":99.55,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Xuelin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hs\u00fceh-lin",
+        "Salin",
+        "Xuelin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1279668
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1825b6d276eb85eac1daf68093d4bfce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209165041
+        }
+    ],
+    "wof:id":1209165041,
+    "wof:lastmodified":1537591389,
+    "wof:name":"Xuelin",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.55,
+    23.05,
+    99.55,
+    23.05
+],
+  "geometry": {"coordinates":[99.55,23.05],"type":"Point"}
+}

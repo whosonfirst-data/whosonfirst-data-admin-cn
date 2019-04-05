@@ -1,0 +1,85 @@
+{
+  "id": 1125384533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.93826,22.05425,110.93826,22.05425",
+    "geom:latitude":22.05425,
+    "geom:longitude":110.93826,
+    "gn:gn_country":"CN",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"CN",
+    "lbl:latitude":22.05425,
+    "lbl:longitude":110.93826,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Kao-chou Hsien"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ad8\u5dde\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u9ad8\u5dde"
+    ],
+    "qs_pg:aaroncc":"CN",
+    "qs_pg:gn_country":"CN",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1810293,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gaozhou Shi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1027692,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        1108732487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1810293,
+        "qs_pg:id":1027692
+    },
+    "wof:country":"CN",
+    "wof:created":1497048277,
+    "wof:geomhash":"4b63e3d01c8ac7b683e7374056ed447a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732487,
+            "empire_id":136253041,
+            "localadmin_id":1125384533,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1125384533,
+    "wof:lastmodified":1509389676,
+    "wof:name":"Gaozhou Shi",
+    "wof:parent_id":1108732487,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.93826,
+    22.05425,
+    110.93826,
+    22.05425
+],
+  "geometry": {"coordinates":[110.93826,22.05425],"type":"Point"}
+}

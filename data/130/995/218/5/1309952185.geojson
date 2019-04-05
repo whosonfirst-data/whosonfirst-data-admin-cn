@@ -1,0 +1,76 @@
+{
+  "id": 1309952185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.46856,21.83713,110.46856,21.83713",
+    "geom:latitude":21.83713,
+    "geom:longitude":110.46856,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Zhongdong",
+    "gn:country_code":"CN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1784426,
+    "gn:latitude":21.83713,
+    "gn:longitude":110.46856,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zhongdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhongtong Zhen",
+        "\u4e2d\u578c\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u578c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        1108732487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1784426
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b5e3c74cf0c4421ff30e4d7c93a3a7e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732487,
+            "empire_id":136253041,
+            "locality_id":1309952185,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1309952185,
+    "wof:lastmodified":1537591925,
+    "wof:name":"Zhongdong",
+    "wof:parent_id":1108732487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.46856,
+    21.83713,
+    110.46856,
+    21.83713
+],
+  "geometry": {"coordinates":[110.46856,21.83713],"type":"Point"}
+}

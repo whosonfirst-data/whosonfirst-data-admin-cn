@@ -1,0 +1,77 @@
+{
+  "id": 1343622405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.58834,24.9525,102.58834,24.9525",
+    "geom:latitude":24.9525,
+    "geom:longitude":102.58834,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Taiping",
+    "gn:country_code":"CN",
+    "gn:dem":1898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":6824435,
+    "gn:latitude":24.9525,
+    "gn:longitude":102.58834,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Taiping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taiping Zhen",
+        "\u592a\u5e73\u9547",
+        "Taiping"
+    ],
+    "name:zho_x_preferred":[
+        "\u592a\u5e73"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        890513777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6824435
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d67fed710414595e9794ba1655de6374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513777,
+            "empire_id":136253041,
+            "locality_id":1343622405,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1343622405,
+    "wof:lastmodified":1537596264,
+    "wof:name":"Taiping",
+    "wof:parent_id":890513777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.58834,
+    24.9525,
+    102.58834,
+    24.9525
+],
+  "geometry": {"coordinates":[102.58834,24.9525],"type":"Point"}
+}

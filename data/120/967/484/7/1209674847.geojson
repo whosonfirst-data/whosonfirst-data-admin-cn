@@ -1,0 +1,64 @@
+{
+  "id": 1209674847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.395,32.5074,107.395,32.5074",
+    "geom:latitude":32.5074,
+    "geom:longitude":107.395,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Wufu",
+    "gn:country_code":"CN",
+    "gn:dem":1293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10154292,
+    "gn:latitude":32.5074,
+    "gn:longitude":107.395,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Wufu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e94\u798f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10154292
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"31b135e7ed446814ec0ae65cb8908c51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209674847
+        }
+    ],
+    "wof:id":1209674847,
+    "wof:lastmodified":1537610542,
+    "wof:name":"Wufu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.395,
+    32.5074,
+    107.395,
+    32.5074
+],
+  "geometry": {"coordinates":[107.395,32.5074],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209317423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.57056,29.8025,119.57056,29.8025",
+    "geom:latitude":29.8025,
+    "geom:longitude":119.57056,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Shanyinling",
+    "gn:country_code":"CN",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1916590,
+    "gn:latitude":29.8025,
+    "gn:longitude":119.57056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shanyinling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5c71\u9634\u5cad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1916590
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b94f96ef86fd3059849f5d7164965166",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209317423
+        }
+    ],
+    "wof:id":1209317423,
+    "wof:lastmodified":1537594731,
+    "wof:name":"Shanyinling",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.57056,
+    29.8025,
+    119.57056,
+    29.8025
+],
+  "geometry": {"coordinates":[119.57056,29.8025],"type":"Point"}
+}

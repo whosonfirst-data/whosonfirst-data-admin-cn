@@ -1,0 +1,77 @@
+{
+  "id": 1243022901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.45372,32.57256,107.45372,32.57256",
+    "geom:latitude":32.57256,
+    "geom:longitude":107.45372,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Loufangcun",
+    "gn:country_code":"CN",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1802231,
+    "gn:latitude":32.57256,
+    "gn:longitude":107.45372,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Loufangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lou-fang-p\u2019ing",
+        "Loufang",
+        "Loufangcun"
+    ],
+    "name:zho_x_preferred":[
+        "\u697c\u623f\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1802231
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"cba1325563337369039a5aec70bff6bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515099,
+            "empire_id":136253041,
+            "locality_id":1243022901,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1243022901,
+    "wof:lastmodified":1537593107,
+    "wof:name":"Loufangcun",
+    "wof:parent_id":890515099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.45372,
+    32.57256,
+    107.45372,
+    32.57256
+],
+  "geometry": {"coordinates":[107.45372,32.57256],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209173271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.631,32.254,105.631,32.254",
+    "geom:latitude":32.254,
+    "geom:longitude":105.631,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Yangjiapo",
+    "gn:country_code":"CN",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10147775,
+    "gn:latitude":32.254,
+    "gn:longitude":105.631,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Yangjiapo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6768\u5bb6\u5761"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10147775
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fff98ee299ed16141a5deb435490cb89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209173271
+        }
+    ],
+    "wof:id":1209173271,
+    "wof:lastmodified":1537610360,
+    "wof:name":"Yangjiapo",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.631,
+    32.254,
+    105.631,
+    32.254
+],
+  "geometry": {"coordinates":[105.631,32.254],"type":"Point"}
+}

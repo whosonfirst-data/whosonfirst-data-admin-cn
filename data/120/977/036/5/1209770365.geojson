@@ -1,0 +1,75 @@
+{
+  "id": 1209770365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.05,34.25,109.05,34.25",
+    "geom:latitude":34.25,
+    "geom:longitude":109.05,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Banpocun",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1817053,
+    "gn:latitude":34.25,
+    "gn:longitude":109.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Banpocun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pan-p\u2019o-ts\u2019un",
+        "Pan-p\u2019o-chai",
+        "Banpocun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1817053
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"db151d12f6f36b8b158e6d6f817ee165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515687,
+            "empire_id":136253041,
+            "locality_id":1209770365,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1209770365,
+    "wof:lastmodified":1537594047,
+    "wof:name":"Banpocun",
+    "wof:parent_id":890515687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.05,
+    34.25,
+    109.05,
+    34.25
+],
+  "geometry": {"coordinates":[109.05,34.25],"type":"Point"}
+}

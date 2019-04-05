@@ -1,0 +1,64 @@
+{
+  "id": 1209283799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.918,23.1873,108.918,23.1873",
+    "geom:latitude":23.1873,
+    "geom:longitude":108.918,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mazu",
+    "gn:country_code":"CN",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9936398,
+    "gn:latitude":23.1873,
+    "gn:longitude":108.918,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Mazu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9a6c\u8db3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9936398
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7938826e9c9e37682bf5f0ea1a3a142d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209283799
+        }
+    ],
+    "wof:id":1209283799,
+    "wof:lastmodified":1537607861,
+    "wof:name":"Mazu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.918,
+    23.1873,
+    108.918,
+    23.1873
+],
+  "geometry": {"coordinates":[108.91800000000001,23.1873],"type":"Point"}
+}

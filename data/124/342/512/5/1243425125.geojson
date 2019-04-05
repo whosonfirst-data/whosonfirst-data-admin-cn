@@ -1,0 +1,80 @@
+{
+  "id": 1243425125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.101,32.101,93.101,32.101",
+    "geom:latitude":32.101,
+    "geom:longitude":93.101,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Poinnyin",
+    "gn:country_code":"CN",
+    "gn:dem":4859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":7898302,
+    "gn:latitude":32.101,
+    "gn:longitude":93.101,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Poinnyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Poinnyin"
+    ],
+    "name:zho_x_preferred":[
+        "Benni"
+    ],
+    "name:zho_x_variant":[
+        "\u672c\u5c3c",
+        "Quzhong",
+        "\u66f2\u4ef2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7898302
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"aa6bf2f69734c59b55bb478f48a55663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1243425125,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1243425125,
+    "wof:lastmodified":1537601879,
+    "wof:name":"Poinnyin",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.101,
+    32.101,
+    93.101,
+    32.101
+],
+  "geometry": {"coordinates":[93.101,32.101],"type":"Point"}
+}

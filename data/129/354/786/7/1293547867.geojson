@@ -1,0 +1,80 @@
+{
+  "id": 1293547867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.62909,40.32015,116.62909,40.32015",
+    "geom:latitude":40.32015,
+    "geom:longitude":116.62909,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Longshan",
+    "gn:country_code":"CN",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":8388863,
+    "gn:latitude":40.32015,
+    "gn:longitude":116.62909,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Longshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Longshan Jiedao",
+        "Huairou Qu"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f99\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "\u9f99\u5c71\u8857\u9053",
+        "\u6000\u67d4\u533a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669727,
+        102191569,
+        85632695,
+        136253041,
+        1108732371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8388863
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1ad580a262815108068bbb8fd41833f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732371,
+            "empire_id":136253041,
+            "locality_id":1293547867,
+            "region_id":85669727
+        }
+    ],
+    "wof:id":1293547867,
+    "wof:lastmodified":1537603180,
+    "wof:name":"Longshan",
+    "wof:parent_id":1108732371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.62909,
+    40.32015,
+    116.62909,
+    40.32015
+],
+  "geometry": {"coordinates":[116.62909000000001,40.32015],"type":"Point"}
+}

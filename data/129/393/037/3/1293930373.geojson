@@ -1,0 +1,69 @@
+{
+  "id": 1293930373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1,27.05,101.1,27.05",
+    "geom:latitude":27.05,
+    "geom:longitude":101.1,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Dalaba",
+    "gn:country_code":"CN",
+    "gn:dem":3091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1814115,
+    "gn:latitude":27.05,
+    "gn:longitude":101.1,
+    "gn:modification_date":"1994-02-05",
+    "gn:name":"Dalaba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        890514701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1814115
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2fedd826c2f9e4375fa15987dce34b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514701,
+            "empire_id":136253041,
+            "locality_id":1293930373,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1293930373,
+    "wof:lastmodified":1536645265,
+    "wof:name":"Dalaba",
+    "wof:parent_id":890514701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1,
+    27.05,
+    101.1,
+    27.05
+],
+  "geometry": {"coordinates":[101.09999999999999,27.05],"type":"Point"}
+}

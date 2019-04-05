@@ -1,0 +1,64 @@
+{
+  "id": 1209552701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.34779,18.87116,110.34779,18.87116",
+    "geom:latitude":18.87116,
+    "geom:longitude":110.34779,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Lianmin",
+    "gn:country_code":"CN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1917632,
+    "gn:latitude":18.87116,
+    "gn:longitude":110.34779,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lianmin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u8054\u6c11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1917632
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b152fa4cea44c7a15600d59a102c2df7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209552701
+        }
+    ],
+    "wof:id":1209552701,
+    "wof:lastmodified":1537594764,
+    "wof:name":"Lianmin",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.34779,
+    18.87116,
+    110.34779,
+    18.87116
+],
+  "geometry": {"coordinates":[110.34779,18.87116],"type":"Point"}
+}

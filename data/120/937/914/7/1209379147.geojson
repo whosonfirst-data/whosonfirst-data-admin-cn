@@ -1,0 +1,64 @@
+{
+  "id": 1209379147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.747,35.9905,106.747,35.9905",
+    "geom:latitude":35.9905,
+    "geom:longitude":106.747,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Choupan",
+    "gn:country_code":"CN",
+    "gn:dem":1723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10203624,
+    "gn:latitude":35.9905,
+    "gn:longitude":106.747,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Choupan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e11\u7554"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10203624
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5908945c00c5f6321d94c635a66b5e35",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209379147
+        }
+    ],
+    "wof:id":1209379147,
+    "wof:lastmodified":1537611345,
+    "wof:name":"Choupan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.747,
+    35.9905,
+    106.747,
+    35.9905
+],
+  "geometry": {"coordinates":[106.747,35.9905],"type":"Point"}
+}

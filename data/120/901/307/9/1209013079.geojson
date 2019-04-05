@@ -1,0 +1,64 @@
+{
+  "id": 1209013079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.19472,27.52194,119.19472,27.52194",
+    "geom:latitude":27.52194,
+    "geom:longitude":119.19472,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Xiaojitou",
+    "gn:country_code":"CN",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1984902,
+    "gn:latitude":27.52194,
+    "gn:longitude":119.19472,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Xiaojitou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5c0f\u9645\u5934"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1984902
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ed6f057123b8c7015df7fae348fdf705",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209013079
+        }
+    ],
+    "wof:id":1209013079,
+    "wof:lastmodified":1537595246,
+    "wof:name":"Xiaojitou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.19472,
+    27.52194,
+    119.19472,
+    27.52194
+],
+  "geometry": {"coordinates":[119.19472,27.52194],"type":"Point"}
+}

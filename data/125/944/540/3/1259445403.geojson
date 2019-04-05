@@ -1,0 +1,75 @@
+{
+  "id": 1259445403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.08853,41.87106,123.08853,41.87106",
+    "geom:latitude":41.87106,
+    "geom:longitude":123.08853,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Yanhaiyingzi",
+    "gn:country_code":"CN",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7400647,
+    "gn:latitude":41.87106,
+    "gn:longitude":123.08853,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Yanhaiyingzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u664f\u6d77\u8425\u5b50"
+    ],
+    "name:zho_x_preferred":[
+        "\u664f\u6d77\u8425\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7400647
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0e9dd0b5b4746abaac230b3464deb390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732451,
+            "empire_id":136253041,
+            "locality_id":1259445403,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1259445403,
+    "wof:lastmodified":1537598688,
+    "wof:name":"Yanhaiyingzi",
+    "wof:parent_id":1108732451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.08853,
+    41.87106,
+    123.08853,
+    41.87106
+],
+  "geometry": {"coordinates":[123.08853000000001,41.87106],"type":"Point"}
+}

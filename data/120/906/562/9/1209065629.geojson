@@ -1,0 +1,64 @@
+{
+  "id": 1209065629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.174,29.9842,100.174,29.9842",
+    "geom:latitude":29.9842,
+    "geom:longitude":100.174,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Achao",
+    "gn:country_code":"CN",
+    "gn:dem":3935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10208105,
+    "gn:latitude":29.9842,
+    "gn:longitude":100.174,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Achao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u963f\u8d85"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10208105
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a9173b143dac616a3bff01edbd8fd7ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209065629
+        }
+    ],
+    "wof:id":1209065629,
+    "wof:lastmodified":1537611405,
+    "wof:name":"Achao",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.174,
+    29.9842,
+    100.174,
+    29.9842
+],
+  "geometry": {"coordinates":[100.17400000000001,29.9842],"type":"Point"}
+}

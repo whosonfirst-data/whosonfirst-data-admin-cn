@@ -1,0 +1,64 @@
+{
+  "id": 1209067041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.206,27.895,104.206,27.895",
+    "geom:latitude":27.895,
+    "geom:longitude":104.206,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Xuebaishu",
+    "gn:country_code":"CN",
+    "gn:dem":1232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10143828,
+    "gn:latitude":27.895,
+    "gn:longitude":104.206,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Xuebaishu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u96ea\u767d\u6811"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10143828
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6e2e51bb5238efe55e9305c12a7c9d4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209067041
+        }
+    ],
+    "wof:id":1209067041,
+    "wof:lastmodified":1537610290,
+    "wof:name":"Xuebaishu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.206,
+    27.895,
+    104.206,
+    27.895
+],
+  "geometry": {"coordinates":[104.206,27.895],"type":"Point"}
+}

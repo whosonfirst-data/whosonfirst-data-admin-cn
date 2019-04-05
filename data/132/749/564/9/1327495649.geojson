@@ -1,0 +1,75 @@
+{
+  "id": 1327495649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.51617,40.31551,123.51617,40.31551",
+    "geom:latitude":40.31551,
+    "geom:longitude":123.51617,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Qiandabei",
+    "gn:country_code":"CN",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7404463,
+    "gn:latitude":40.31551,
+    "gn:longitude":123.51617,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qiandabei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u524d\u5927\u80cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u524d\u5927\u80cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7404463
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"14d9d15c1db6402727fcdc8f019d5060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514231,
+            "empire_id":136253041,
+            "locality_id":1327495649,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1327495649,
+    "wof:lastmodified":1537598920,
+    "wof:name":"Qiandabei",
+    "wof:parent_id":890514231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.51617,
+    40.31551,
+    123.51617,
+    40.31551
+],
+  "geometry": {"coordinates":[123.51617,40.31551],"type":"Point"}
+}

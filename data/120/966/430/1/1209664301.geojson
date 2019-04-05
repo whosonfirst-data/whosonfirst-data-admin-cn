@@ -1,0 +1,64 @@
+{
+  "id": 1209664301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.52771,30.80953,105.52771,30.80953",
+    "geom:latitude":30.80953,
+    "geom:longitude":105.52771,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Guansheng",
+    "gn:country_code":"CN",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6871221,
+    "gn:latitude":30.80953,
+    "gn:longitude":105.52771,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Guansheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5b98\u5347"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6871221
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b965d1d607d3a2f047a1368490ba0346",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209664301
+        }
+    ],
+    "wof:id":1209664301,
+    "wof:lastmodified":1537596562,
+    "wof:name":"Guansheng",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.52771,
+    30.80953,
+    105.52771,
+    30.80953
+],
+  "geometry": {"coordinates":[105.52771,30.80953],"type":"Point"}
+}

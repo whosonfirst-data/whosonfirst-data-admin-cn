@@ -1,0 +1,64 @@
+{
+  "id": 1209067069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.315,23.2948,100.315,23.2948",
+    "geom:latitude":23.2948,
+    "geom:longitude":100.315,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Dashitou",
+    "gn:country_code":"CN",
+    "gn:dem":1636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9923575,
+    "gn:latitude":23.2948,
+    "gn:longitude":100.315,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Dashitou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u77f3\u5934"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9923575
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6e2aed9dfad7b7e9b467d879db43cbfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209067069
+        }
+    ],
+    "wof:id":1209067069,
+    "wof:lastmodified":1537607428,
+    "wof:name":"Dashitou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.315,
+    23.2948,
+    100.315,
+    23.2948
+],
+  "geometry": {"coordinates":[100.315,23.2948],"type":"Point"}
+}

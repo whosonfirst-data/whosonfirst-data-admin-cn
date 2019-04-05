@@ -1,0 +1,77 @@
+{
+  "id": 1310456771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.61667,33.15,106.61667,33.15",
+    "geom:latitude":33.15,
+    "geom:longitude":106.61667,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Laocheng",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1804415,
+    "gn:latitude":33.15,
+    "gn:longitude":106.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Laocheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wu-hou",
+        "Chiu-mien-hsien",
+        "Wu-hou-chen",
+        "Wu-hou-tz\u2019u",
+        "Laocheng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1804415
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6f1781a7eb58b23669913eaaa39511ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515099,
+            "empire_id":136253041,
+            "locality_id":1310456771,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1310456771,
+    "wof:lastmodified":1537593248,
+    "wof:name":"Laocheng",
+    "wof:parent_id":890515099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.61667,
+    33.15,
+    106.61667,
+    33.15
+],
+  "geometry": {"coordinates":[106.61667,33.15],"type":"Point"}
+}

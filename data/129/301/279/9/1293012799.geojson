@@ -1,0 +1,78 @@
+{
+  "id": 1293012799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.2768,30.83809,120.2768,30.83809",
+    "geom:latitude":30.83809,
+    "geom:longitude":120.2768,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jiuguan",
+    "gn:country_code":"CN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1805199,
+    "gn:latitude":30.83809,
+    "gn:longitude":120.2768,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jiuguan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiu-kuan-shih",
+        "Sheng-she",
+        "Chiu-kuan",
+        "Jiuguan",
+        "\u65e7\u9986",
+        "Jiuguan Zhen",
+        "\u65e7\u9986\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1805199
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"26d22da945d9995368f20ad003f3d31c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516975,
+            "empire_id":136253041,
+            "locality_id":1293012799,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1293012799,
+    "wof:lastmodified":1537593298,
+    "wof:name":"Jiuguan",
+    "wof:parent_id":890516975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.2768,
+    30.83809,
+    120.2768,
+    30.83809
+],
+  "geometry": {"coordinates":[120.27679999999999,30.83809],"type":"Point"}
+}

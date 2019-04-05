@@ -1,0 +1,75 @@
+{
+  "id": 1343623961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.89825,39.87223,123.89825,39.87223",
+    "geom:latitude":39.87223,
+    "geom:longitude":123.89825,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shanxi",
+    "gn:country_code":"CN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7402638,
+    "gn:latitude":39.87223,
+    "gn:longitude":123.89825,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shanxi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5c71\u897f"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c71\u897f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7402638
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0bd3cd14bc38c316b907e28f782d83c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514725,
+            "empire_id":136253041,
+            "locality_id":1343623961,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1343623961,
+    "wof:lastmodified":1537598810,
+    "wof:name":"Shanxi",
+    "wof:parent_id":890514725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.89825,
+    39.87223,
+    123.89825,
+    39.87223
+],
+  "geometry": {"coordinates":[123.89825,39.87223],"type":"Point"}
+}

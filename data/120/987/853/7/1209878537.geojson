@@ -1,0 +1,75 @@
+{
+  "id": 1209878537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.51256,40.41799,123.51256,40.41799",
+    "geom:latitude":40.41799,
+    "geom:longitude":123.51256,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Dahenan",
+    "gn:country_code":"CN",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7404385,
+    "gn:latitude":40.41799,
+    "gn:longitude":123.51256,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dahenan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5927\u6cb3\u5357"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u6cb3\u5357"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7404385
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"518450d4412fa0d17952786965d3fd17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514231,
+            "empire_id":136253041,
+            "locality_id":1209878537,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1209878537,
+    "wof:lastmodified":1537598913,
+    "wof:name":"Dahenan",
+    "wof:parent_id":890514231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.51256,
+    40.41799,
+    123.51256,
+    40.41799
+],
+  "geometry": {"coordinates":[123.51255999999999,40.41799],"type":"Point"}
+}

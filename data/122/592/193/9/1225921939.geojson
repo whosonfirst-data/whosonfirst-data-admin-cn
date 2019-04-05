@@ -1,0 +1,75 @@
+{
+  "id": 1225921939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.23296,30.02254,111.23296,30.02254",
+    "geom:latitude":30.02254,
+    "geom:longitude":111.23296,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Dasushu",
+    "gn:country_code":"CN",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8135682,
+    "gn:latitude":30.02254,
+    "gn:longitude":111.23296,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Dasushu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Dasushu"
+    ],
+    "name:zho_x_variant":[
+        "\u5927\u7c9f\u6811"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890515867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8135682
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c585448c1c2ef984d3d9da78b4e3e563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515867,
+            "empire_id":136253041,
+            "locality_id":1225921939,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1225921939,
+    "wof:lastmodified":1537602657,
+    "wof:name":"Dasushu",
+    "wof:parent_id":890515867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.23296,
+    30.02254000000001,
+    111.23296,
+    30.02254000000001
+],
+  "geometry": {"coordinates":[111.23296000000001,30.02254000000001],"type":"Point"}
+}

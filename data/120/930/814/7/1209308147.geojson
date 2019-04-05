@@ -1,0 +1,64 @@
+{
+  "id": 1209308147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.14166,25.93284,119.14166,25.93284",
+    "geom:latitude":25.93284,
+    "geom:longitude":119.14166,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Yangmen",
+    "gn:country_code":"CN",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1981874,
+    "gn:latitude":25.93284,
+    "gn:longitude":119.14166,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Yangmen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6d0b\u95e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1981874
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"90b49131f927a6851ecb8bb9932c436a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209308147
+        }
+    ],
+    "wof:id":1209308147,
+    "wof:lastmodified":1537595180,
+    "wof:name":"Yangmen",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.14166000000002,
+    25.93284,
+    119.14166000000002,
+    25.93284
+],
+  "geometry": {"coordinates":[119.14166000000002,25.93284],"type":"Point"}
+}

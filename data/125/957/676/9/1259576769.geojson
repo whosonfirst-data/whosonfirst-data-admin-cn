@@ -1,0 +1,78 @@
+{
+  "id": 1259576769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.7625,24.74694,118.7625,24.74694",
+    "geom:latitude":24.74694,
+    "geom:longitude":118.7625,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Dongpu",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1932667,
+    "gn:latitude":24.74694,
+    "gn:longitude":118.7625,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dongpu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tung-pu",
+        "Dongpu",
+        "\u4e1c\u57d4"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u57d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890514127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1932667
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f5df6c4f8ad41f3677bc1b9af481a6ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514127,
+            "empire_id":136253041,
+            "locality_id":1259576769,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1259576769,
+    "wof:lastmodified":1537595020,
+    "wof:name":"Dongpu",
+    "wof:parent_id":890514127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.7625,
+    24.74694,
+    118.7625,
+    24.74694
+],
+  "geometry": {"coordinates":[118.7625,24.74694],"type":"Point"}
+}

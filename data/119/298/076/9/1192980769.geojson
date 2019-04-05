@@ -1,0 +1,75 @@
+{
+  "id": 1192980769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.044,41.01374,123.044,41.01374",
+    "geom:latitude":41.01374,
+    "geom:longitude":123.044,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Xiaduizhuangshi",
+    "gn:country_code":"CN",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7398077,
+    "gn:latitude":41.01374,
+    "gn:longitude":123.044,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Xiaduizhuangshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e0b\u5bf9\u6869\u77f3"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u5bf9\u6869\u77f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7398077
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5ffb7de4eec1ed206edc29c9a33a0cc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514231,
+            "empire_id":136253041,
+            "locality_id":1192980769,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1192980769,
+    "wof:lastmodified":1537598549,
+    "wof:name":"Xiaduizhuangshi",
+    "wof:parent_id":890514231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.044,
+    41.01374000000001,
+    123.044,
+    41.01374000000001
+],
+  "geometry": {"coordinates":[123.044,41.01374000000001],"type":"Point"}
+}

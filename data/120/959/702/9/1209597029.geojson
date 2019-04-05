@@ -1,0 +1,64 @@
+{
+  "id": 1209597029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.205,24.8824,109.205,24.8824",
+    "geom:latitude":24.8824,
+    "geom:longitude":109.205,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Shangxian",
+    "gn:country_code":"CN",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9942789,
+    "gn:latitude":24.8824,
+    "gn:longitude":109.205,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Shangxian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e0a\u8d24"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9942789
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6546327a7ffd6672606d7c3e6ce296fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209597029
+        }
+    ],
+    "wof:id":1209597029,
+    "wof:lastmodified":1537608071,
+    "wof:name":"Shangxian",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.205,
+    24.8824,
+    109.205,
+    24.8824
+],
+  "geometry": {"coordinates":[109.205,24.8824],"type":"Point"}
+}

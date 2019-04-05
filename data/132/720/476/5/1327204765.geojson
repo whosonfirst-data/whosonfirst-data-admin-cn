@@ -1,0 +1,98 @@
+{
+  "id": 1327204765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.702,27.802,91.702,27.802",
+    "geom:latitude":27.802,
+    "geom:longitude":91.702,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Laicun",
+    "gn:country_code":"CN",
+    "gn:dem":3240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8505096,
+    "gn:latitude":27.802,
+    "gn:longitude":91.702,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Laicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Laicun"
+    ],
+    "name:und_x_variant":[
+        "Lecun"
+    ],
+    "name:zho_x_preferred":[
+        "\u52d2\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108794057,
+        85672259,
+        85632701,
+        85632469,
+        890507391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8505096
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ad254cc50bf3d831b8965e8fb9d634d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794057,
+            "empire_id":136253041,
+            "locality_id":1327204765,
+            "region_id":85669747
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890507391,
+            "disputed_id":85632701,
+            "locality_id":1327204765,
+            "region_id":85672259
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890507391,
+            "disputed_id":85632701,
+            "locality_id":1327204765,
+            "region_id":85672259
+        }
+    ],
+    "wof:id":1327204765,
+    "wof:lastmodified":1537603892,
+    "wof:name":"Laicun",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.702,
+    27.802,
+    91.702,
+    27.802
+],
+  "geometry": {"coordinates":[91.702,27.802],"type":"Point"}
+}

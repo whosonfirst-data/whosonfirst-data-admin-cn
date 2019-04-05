@@ -1,0 +1,81 @@
+{
+  "id": 1209990039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.87971,33.97544,78.87971,33.97544",
+    "geom:latitude":33.97544,
+    "geom:longitude":78.87971,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Niyagezu",
+    "gn:country_code":"CN",
+    "gn:dem":4570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10276605,
+    "gn:latitude":33.97544,
+    "gn:longitude":78.87971,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Niyagezu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5c3c\u4e9a\u683c\u7956"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695697,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10276605
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"192248ea46e908fe84bf4a57fb5b2312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":1209990039,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":1209990039,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":1209990039,
+    "wof:lastmodified":1537611977,
+    "wof:name":"Niyagezu",
+    "wof:parent_id":1108695697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.87971,
+    33.97544,
+    78.87971,
+    33.97544
+],
+  "geometry": {"coordinates":[78.87971,33.97544],"type":"Point"}
+}

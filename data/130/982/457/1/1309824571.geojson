@@ -1,0 +1,75 @@
+{
+  "id": 1309824571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.18629,33.83898,113.18629,33.83898",
+    "geom:latitude":33.83898,
+    "geom:longitude":113.18629,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jiazhaicun",
+    "gn:country_code":"CN",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7513782,
+    "gn:latitude":33.83898,
+    "gn:longitude":113.18629,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Jiazhaicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u8d3e\u5be8\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d3e\u5be8\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669801,
+        102191569,
+        85632695,
+        136253041,
+        890512655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7513782
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e7a405d2d2948d0d83eb4616e871a93d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512655,
+            "empire_id":136253041,
+            "locality_id":1309824571,
+            "region_id":85669801
+        }
+    ],
+    "wof:id":1309824571,
+    "wof:lastmodified":1537599554,
+    "wof:name":"Jiazhaicun",
+    "wof:parent_id":890512655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.18629,
+    33.83898,
+    113.18629,
+    33.83898
+],
+  "geometry": {"coordinates":[113.18629,33.83898],"type":"Point"}
+}

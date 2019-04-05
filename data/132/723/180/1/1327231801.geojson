@@ -1,0 +1,75 @@
+{
+  "id": 1327231801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.05318,34.15852,119.05318,34.15852",
+    "geom:latitude":34.15852,
+    "geom:longitude":119.05318,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tanghongzhuang",
+    "gn:country_code":"CN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8038133,
+    "gn:latitude":34.15852,
+    "gn:longitude":119.05318,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tanghongzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Tanghongzhuang"
+    ],
+    "name:zho_x_variant":[
+        "\u6c64\u6d2a\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890512205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8038133
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8014f11abe7189e4a7b03c144a803c6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512205,
+            "empire_id":136253041,
+            "locality_id":1327231801,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1327231801,
+    "wof:lastmodified":1537602300,
+    "wof:name":"Tanghongzhuang",
+    "wof:parent_id":890512205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.05318,
+    34.15852,
+    119.05318,
+    34.15852
+],
+  "geometry": {"coordinates":[119.05318,34.15852],"type":"Point"}
+}

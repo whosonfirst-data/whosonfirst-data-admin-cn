@@ -1,0 +1,75 @@
+{
+  "id": 1276509283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.88882,41.82317,123.88882,41.82317",
+    "geom:latitude":41.82317,
+    "geom:longitude":123.88882,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Liushan",
+    "gn:country_code":"CN",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7398676,
+    "gn:latitude":41.82317,
+    "gn:longitude":123.88882,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Liushan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5218\u5c71"
+    ],
+    "name:zho_x_preferred":[
+        "\u5218\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890513011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7398676
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0481a872a1d11b6211697b2c2f2e8d53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513011,
+            "empire_id":136253041,
+            "locality_id":1276509283,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1276509283,
+    "wof:lastmodified":1537598583,
+    "wof:name":"Liushan",
+    "wof:parent_id":890513011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.88882,
+    41.82317000000001,
+    123.88882,
+    41.82317000000001
+],
+  "geometry": {"coordinates":[123.88882,41.82317000000001],"type":"Point"}
+}

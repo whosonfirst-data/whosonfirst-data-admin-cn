@@ -1,0 +1,64 @@
+{
+  "id": 1209588575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.791,36.657,104.791,36.657",
+    "geom:latitude":36.657,
+    "geom:longitude":104.791,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zhujiashui",
+    "gn:country_code":"CN",
+    "gn:dem":1509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10680171,
+    "gn:latitude":36.657,
+    "gn:longitude":104.791,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Zhujiashui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6731\u5bb6\u6c34"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10680171
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4c0d8b677236d0094624cddce5db6e92",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209588575
+        }
+    ],
+    "wof:id":1209588575,
+    "wof:lastmodified":1537614122,
+    "wof:name":"Zhujiashui",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.791,
+    36.657,
+    104.791,
+    36.657
+],
+  "geometry": {"coordinates":[104.791,36.657],"type":"Point"}
+}

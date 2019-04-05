@@ -1,0 +1,77 @@
+{
+  "id": 1326489729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.26154,28.9241,104.26154,28.9241",
+    "geom:latitude":28.9241,
+    "geom:longitude":104.26154,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Juexi",
+    "gn:country_code":"CN",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1804976,
+    "gn:latitude":28.9241,
+    "gn:longitude":104.26154,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Juexi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u00fceh-hsi-chen",
+        "Juexizhen",
+        "Juexi"
+    ],
+    "name:zho_x_preferred":[
+        "\u8568\u6eaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890516537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1804976
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6556d53e4a74519f6e87e33f5bc39686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516537,
+            "empire_id":136253041,
+            "locality_id":1326489729,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1326489729,
+    "wof:lastmodified":1537593281,
+    "wof:name":"Juexi",
+    "wof:parent_id":890516537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.26154,
+    28.9241,
+    104.26154,
+    28.9241
+],
+  "geometry": {"coordinates":[104.26154,28.9241],"type":"Point"}
+}

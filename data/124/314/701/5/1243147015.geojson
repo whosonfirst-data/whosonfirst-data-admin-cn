@@ -1,0 +1,77 @@
+{
+  "id": 1243147015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.26839,41.31648,124.26839,41.31648",
+    "geom:latitude":41.31648,
+    "geom:longitude":124.26839,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Qianbu",
+    "gn:country_code":"CN",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7398006,
+    "gn:latitude":41.31648,
+    "gn:longitude":124.26839,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Qianbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qianpu",
+        "\u524d\u5821",
+        "Qianbu"
+    ],
+    "name:zho_x_preferred":[
+        "\u524d\u5821"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890513783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7398006
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"580e9f2e0399bef33799c9098e883d1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513783,
+            "empire_id":136253041,
+            "locality_id":1243147015,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1243147015,
+    "wof:lastmodified":1537598546,
+    "wof:name":"Qianbu",
+    "wof:parent_id":890513783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.26839,
+    41.31648,
+    124.26839,
+    41.31648
+],
+  "geometry": {"coordinates":[124.26839,41.31648],"type":"Point"}
+}

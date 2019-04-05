@@ -1,0 +1,76 @@
+{
+  "id": 1360184729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.4125,33.00417,119.4125,33.00417",
+    "geom:latitude":33.00417,
+    "geom:longitude":119.4125,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jieshou",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1547712,
+    "gn:latitude":33.00417,
+    "gn:longitude":119.4125,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Jieshou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kinshow",
+        "Kaishow",
+        "Chien-shou",
+        "Chieh-shou-chen",
+        "Chieh-shou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1547712
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e9169b89a79a0f48aabf33078a5cca14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516397,
+            "empire_id":136253041,
+            "locality_id":1360184729,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1360184729,
+    "wof:lastmodified":1537591647,
+    "wof:name":"Jieshou",
+    "wof:parent_id":890516397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.4125,
+    33.00417,
+    119.4125,
+    33.00417
+],
+  "geometry": {"coordinates":[119.41249999999999,33.00417],"type":"Point"}
+}

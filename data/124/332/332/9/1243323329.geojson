@@ -1,0 +1,78 @@
+{
+  "id": 1243323329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.19261,24.49413,116.19261,24.49413",
+    "geom:latitude":24.49413,
+    "geom:longitude":116.19261,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Baidu",
+    "gn:country_code":"CN",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1817742,
+    "gn:latitude":24.49413,
+    "gn:longitude":116.19261,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Baidu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pai-tu",
+        "Baidu",
+        "Baidu Zhen",
+        "\u767d\u6e21\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u767d\u6e21"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890516561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1817742
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"39953bc60d76eb67dae18a1a0d67d0ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516561,
+            "empire_id":136253041,
+            "locality_id":1243323329,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1243323329,
+    "wof:lastmodified":1537594092,
+    "wof:name":"Baidu",
+    "wof:parent_id":890516561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.19261000000002,
+    24.49413,
+    116.19261000000002,
+    24.49413
+],
+  "geometry": {"coordinates":[116.19261000000002,24.49413],"type":"Point"}
+}

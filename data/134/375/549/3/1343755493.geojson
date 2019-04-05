@@ -1,0 +1,76 @@
+{
+  "id": 1343755493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.86806,24.33222,117.86806,24.33222",
+    "geom:latitude":24.33222,
+    "geom:longitude":117.86806,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Baishui",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1817378,
+    "gn:latitude":24.33222,
+    "gn:longitude":117.86806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Baishui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pai-shui",
+        "Pai-shui-ying",
+        "Baishui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890513339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1817378,
+        "wk:page":"Baishui%2C_Fujian"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"846ff91974454f8df1199caa5138f329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513339,
+            "empire_id":136253041,
+            "locality_id":1343755493,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1343755493,
+    "wof:lastmodified":1537594067,
+    "wof:name":"Baishui",
+    "wof:parent_id":890513339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.86806,
+    24.33222,
+    117.86806,
+    24.33222
+],
+  "geometry": {"coordinates":[117.86806,24.33222],"type":"Point"}
+}

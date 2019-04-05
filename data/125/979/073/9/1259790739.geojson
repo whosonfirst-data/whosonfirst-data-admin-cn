@@ -1,0 +1,76 @@
+{
+  "id": 1259790739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.34757,25.87383,115.34757,25.87383",
+    "geom:latitude":25.87383,
+    "geom:longitude":115.34757,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Xinbei",
+    "gn:country_code":"CN",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1923470,
+    "gn:latitude":25.87383,
+    "gn:longitude":115.34757,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Xinbei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u65b0\u9642",
+        "Xinbeixu",
+        "Xinbei Xiang",
+        "\u65b0\u9642\u5729",
+        "\u65b0\u9642\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669823,
+        102191569,
+        85632695,
+        136253041,
+        890511835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1923470
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e915f30e6cdedfef73af9547068b3d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890511835,
+            "empire_id":136253041,
+            "locality_id":1259790739,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":1259790739,
+    "wof:lastmodified":1537594913,
+    "wof:name":"Xinbei",
+    "wof:parent_id":890511835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.34757,
+    25.87383,
+    115.34757,
+    25.87383
+],
+  "geometry": {"coordinates":[115.34757,25.87383],"type":"Point"}
+}

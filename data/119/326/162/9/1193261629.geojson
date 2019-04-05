@@ -1,0 +1,80 @@
+{
+  "id": 1193261629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.104,28.904,89.104,28.904",
+    "geom:latitude":28.904,
+    "geom:longitude":89.104,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Magpu",
+    "gn:country_code":"CN",
+    "gn:dem":4472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8045599,
+    "gn:latitude":28.904,
+    "gn:longitude":89.104,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Magpu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Magpu"
+    ],
+    "name:zho_x_preferred":[
+        "Mapu"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u666e",
+        "Suokang",
+        "\u6240\u5eb7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8045599
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e456e75a8e6eaec25175cf07f89e2393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1193261629,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1193261629,
+    "wof:lastmodified":1537602384,
+    "wof:name":"Magpu",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.104,
+    28.904,
+    89.104,
+    28.904
+],
+  "geometry": {"coordinates":[89.104,28.904],"type":"Point"}
+}

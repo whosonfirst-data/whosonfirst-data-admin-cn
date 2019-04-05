@@ -1,0 +1,64 @@
+{
+  "id": 1209109973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.32218,30.26722,117.32218,30.26722",
+    "geom:latitude":30.26722,
+    "geom:longitude":117.32218,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Guicun",
+    "gn:country_code":"CN",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10800344,
+    "gn:latitude":30.26722,
+    "gn:longitude":117.32218,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Guicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6842\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10800344
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7b811d1bcf94c1ada70b5040b7c75f30",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209109973
+        }
+    ],
+    "wof:id":1209109973,
+    "wof:lastmodified":1537614460,
+    "wof:name":"Guicun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.32218,
+    30.26722,
+    117.32218,
+    30.26722
+],
+  "geometry": {"coordinates":[117.32218,30.26722],"type":"Point"}
+}

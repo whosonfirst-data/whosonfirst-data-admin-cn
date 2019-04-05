@@ -1,0 +1,75 @@
+{
+  "id": 1226010113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.90397,40.8928,123.90397,40.8928",
+    "geom:latitude":40.8928,
+    "geom:longitude":123.90397,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Chenjiaweizi",
+    "gn:country_code":"CN",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7397950,
+    "gn:latitude":40.8928,
+    "gn:longitude":123.90397,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chenjiaweizi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9648\u5bb6\u9688\u5b50"
+    ],
+    "name:zho_x_preferred":[
+        "\u9648\u5bb6\u9688\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890513783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7397950
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b9b311423a43e5a32f5ebfa36a93f563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513783,
+            "empire_id":136253041,
+            "locality_id":1226010113,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1226010113,
+    "wof:lastmodified":1537598542,
+    "wof:name":"Chenjiaweizi",
+    "wof:parent_id":890513783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.90397,
+    40.8928,
+    123.90397,
+    40.8928
+],
+  "geometry": {"coordinates":[123.90397,40.8928],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1309765425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.18758,32.65329,106.18758,32.65329",
+    "geom:latitude":32.65329,
+    "geom:longitude":106.18758,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Lianghekou",
+    "gn:country_code":"CN",
+    "gn:dem":1340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6912459,
+    "gn:latitude":32.65329,
+    "gn:longitude":106.18758,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Lianghekou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lianghekouxiang",
+        "\u4e24\u6cb3\u53e3\u4e61"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e24\u6cb3\u53e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890512741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6912459
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e66423212f34b751ac3b3d5c4629d336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512741,
+            "empire_id":136253041,
+            "locality_id":1309765425,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1309765425,
+    "wof:lastmodified":1537596688,
+    "wof:name":"Lianghekou",
+    "wof:parent_id":890512741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.18758,
+    32.65329000000001,
+    106.18758,
+    32.65329000000001
+],
+  "geometry": {"coordinates":[106.18758,32.65329000000001],"type":"Point"}
+}

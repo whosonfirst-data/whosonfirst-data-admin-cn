@@ -1,0 +1,75 @@
+{
+  "id": 1225918925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.06536,40.14917,123.06536,40.14917",
+    "geom:latitude":40.14917,
+    "geom:longitude":123.06536,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Longtan Hebei",
+    "gn:country_code":"CN",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7404503,
+    "gn:latitude":40.14917,
+    "gn:longitude":123.06536,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Longtan Hebei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9f99\u6f6d\u6cb3\u5317"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f99\u6f6d\u6cb3\u5317"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7404503
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c72c64302e44606165228137b3541167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514231,
+            "empire_id":136253041,
+            "locality_id":1225918925,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1225918925,
+    "wof:lastmodified":1537598923,
+    "wof:name":"Longtan Hebei",
+    "wof:parent_id":890514231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.06536,
+    40.14917,
+    123.06536,
+    40.14917
+],
+  "geometry": {"coordinates":[123.06536,40.14917],"type":"Point"}
+}

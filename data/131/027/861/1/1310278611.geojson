@@ -1,0 +1,78 @@
+{
+  "id": 1310278611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.301,29.601,91.301,29.601",
+    "geom:latitude":29.601,
+    "geom:longitude":91.301,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Xingcang",
+    "gn:country_code":"CN",
+    "gn:dem":4088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8059188,
+    "gn:latitude":29.601,
+    "gn:longitude":91.301,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Xingcang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Xingcang"
+    ],
+    "name:zho_x_preferred":[
+        "Xincang"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u4ed3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8059188
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0fd17a49639285fa8902f2693894a223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515877,
+            "empire_id":136253041,
+            "locality_id":1310278611,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1310278611,
+    "wof:lastmodified":1537602501,
+    "wof:name":"Xingcang",
+    "wof:parent_id":890515877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.301,
+    29.601,
+    91.301,
+    29.601
+],
+  "geometry": {"coordinates":[91.301,29.601],"type":"Point"}
+}

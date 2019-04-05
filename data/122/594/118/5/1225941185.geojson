@@ -1,0 +1,76 @@
+{
+  "id": 1225941185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.09531,47.37651,124.09531,47.37651",
+    "geom:latitude":47.37651,
+    "geom:longitude":124.09531,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hutuncun",
+    "gn:country_code":"CN",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11595951,
+    "gn:latitude":47.37651,
+    "gn:longitude":124.09531,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Hutuncun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hu-chia-t\u2019un",
+        "Hutuncun"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u5c6f\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890516483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11595951
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e876cc867b177e2838c4085186adc6e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516483,
+            "empire_id":136253041,
+            "locality_id":1225941185,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1225941185,
+    "wof:lastmodified":1537618347,
+    "wof:name":"Hutuncun",
+    "wof:parent_id":890516483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.09531,
+    47.37651,
+    124.09531,
+    47.37651
+],
+  "geometry": {"coordinates":[124.09531,47.37651],"type":"Point"}
+}

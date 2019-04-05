@@ -1,0 +1,64 @@
+{
+  "id": 1209365407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.006,27.9091,105.006,27.9091",
+    "geom:latitude":27.9091,
+    "geom:longitude":105.006,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Bojicun",
+    "gn:country_code":"CN",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10145189,
+    "gn:latitude":27.9091,
+    "gn:longitude":105.006,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Bojicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7c38\u7b95\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10145189
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"03718ddd650d0f023194c3a85470a666",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209365407
+        }
+    ],
+    "wof:id":1209365407,
+    "wof:lastmodified":1537610337,
+    "wof:name":"Bojicun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.006,
+    27.9091,
+    105.006,
+    27.9091
+],
+  "geometry": {"coordinates":[105.006,27.9091],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209615177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.06333,32.45034,120.06333,32.45034",
+    "geom:latitude":32.45034,
+    "geom:longitude":120.06333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sanmeng",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8365345,
+    "gn:latitude":32.45034,
+    "gn:longitude":120.06333,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Sanmeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e09\u76df"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8365345
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f458b9d3a6cbeb80b6d354c7bbeed023",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209615177
+        }
+    ],
+    "wof:id":1209615177,
+    "wof:lastmodified":1537603028,
+    "wof:name":"Sanmeng",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.06333,
+    32.45034,
+    120.06333,
+    32.45034
+],
+  "geometry": {"coordinates":[120.06332999999999,32.45034],"type":"Point"}
+}

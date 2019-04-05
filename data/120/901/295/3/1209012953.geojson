@@ -1,0 +1,65 @@
+{
+  "id": 1209012953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.68917,27.71333,120.68917,27.71333",
+    "geom:latitude":27.71333,
+    "geom:longitude":120.68917,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zhiluo",
+    "gn:country_code":"CN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1893126,
+    "gn:latitude":27.71333,
+    "gn:longitude":120.68917,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Zhiluo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chih-lo-shih",
+        "Zhiluo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1893126
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"06327fe86c2e9eee36f091a5f9051733",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209012953
+        }
+    ],
+    "wof:id":1209012953,
+    "wof:lastmodified":1537594292,
+    "wof:name":"Zhiluo",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.68917,
+    27.71333,
+    120.68917,
+    27.71333
+],
+  "geometry": {"coordinates":[120.68917,27.71333],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209365313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.244,25.5483,101.244,25.5483",
+    "geom:latitude":25.5483,
+    "geom:longitude":101.244,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Zanjiatun",
+    "gn:country_code":"CN",
+    "gn:dem":1872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10150546,
+    "gn:latitude":25.5483,
+    "gn:longitude":101.244,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Zanjiatun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u661d\u5bb6\u5c6f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10150546
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"094f9c659468e26ddd384bdb38feb443",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209365313
+        }
+    ],
+    "wof:id":1209365313,
+    "wof:lastmodified":1537610458,
+    "wof:name":"Zanjiatun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.244,
+    25.5483,
+    101.244,
+    25.5483
+],
+  "geometry": {"coordinates":[101.244,25.5483],"type":"Point"}
+}

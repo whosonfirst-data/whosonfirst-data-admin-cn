@@ -1,0 +1,80 @@
+{
+  "id": 1243180685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.255,29.05194,121.255,29.05194",
+    "geom:latitude":29.05194,
+    "geom:longitude":121.255,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gaojian",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1810524,
+    "gn:latitude":29.05194,
+    "gn:longitude":121.255,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gaojian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiao-shih",
+        "Kao-chien",
+        "Chiao-chien",
+        "Gaojian",
+        "\u9ad8\u67a7"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ad8\u67a7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890515633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1810524
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e58ec91116e56fff527265319ade59c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515633,
+            "empire_id":136253041,
+            "locality_id":1243180685,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1243180685,
+    "wof:lastmodified":1537593642,
+    "wof:name":"Gaojian",
+    "wof:parent_id":890515633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.255,
+    29.05194,
+    121.255,
+    29.05194
+],
+  "geometry": {"coordinates":[121.255,29.05194],"type":"Point"}
+}

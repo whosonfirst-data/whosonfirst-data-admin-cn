@@ -1,0 +1,64 @@
+{
+  "id": 1209504535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.27522,35.00517,112.27522,35.00517",
+    "geom:latitude":35.00517,
+    "geom:longitude":112.27522,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Luling",
+    "gn:country_code":"CN",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10362396,
+    "gn:latitude":35.00517,
+    "gn:longitude":112.27522,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Luling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9e7f\u5cad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10362396
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0bd9703845536faa20ce6cb73c9d42a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209504535
+        }
+    ],
+    "wof:id":1209504535,
+    "wof:lastmodified":1537612607,
+    "wof:name":"Luling",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.27522,
+    35.00517,
+    112.27522,
+    35.00517
+],
+  "geometry": {"coordinates":[112.27522,35.00517],"type":"Point"}
+}

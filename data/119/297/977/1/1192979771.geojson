@@ -1,0 +1,76 @@
+{
+  "id": 1192979771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.89111,39.365,116.89111,39.365",
+    "geom:latitude":39.365,
+    "geom:longitude":116.89111,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Huanghuadian",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1807466,
+    "gn:latitude":39.365,
+    "gn:longitude":116.89111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Huanghuadian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huang-hua-tien",
+        "Huang-hou-tien-chen",
+        "Huang-hou-tien",
+        "Huanghuadian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669817,
+        102191569,
+        85632695,
+        136253041,
+        890513813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1807466
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e6ee474c8b557526e36b3ab011c118dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513813,
+            "empire_id":136253041,
+            "locality_id":1192979771,
+            "region_id":85669817
+        }
+    ],
+    "wof:id":1192979771,
+    "wof:lastmodified":1537593440,
+    "wof:name":"Huanghuadian",
+    "wof:parent_id":890513813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.89111,
+    39.365,
+    116.89111,
+    39.365
+],
+  "geometry": {"coordinates":[116.89111,39.365],"type":"Point"}
+}

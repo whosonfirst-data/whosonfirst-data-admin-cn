@@ -1,0 +1,64 @@
+{
+  "id": 1209286837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.232,25.6067,109.232,25.6067",
+    "geom:latitude":25.6067,
+    "geom:longitude":109.232,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gaowen",
+    "gn:country_code":"CN",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9940911,
+    "gn:latitude":25.6067,
+    "gn:longitude":109.232,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Gaowen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9ad8\u6587"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9940911
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7e9792e7721faeac92f3878819ece22b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209286837
+        }
+    ],
+    "wof:id":1209286837,
+    "wof:lastmodified":1537608005,
+    "wof:name":"Gaowen",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.232,
+    25.6067,
+    109.232,
+    25.6067
+],
+  "geometry": {"coordinates":[109.232,25.6067],"type":"Point"}
+}

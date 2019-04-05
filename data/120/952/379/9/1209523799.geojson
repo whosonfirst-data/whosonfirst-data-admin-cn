@@ -1,0 +1,64 @@
+{
+  "id": 1209523799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.10056,27.88833,119.10056,27.88833",
+    "geom:latitude":27.88833,
+    "geom:longitude":119.10056,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Wushuyang",
+    "gn:country_code":"CN",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1984975,
+    "gn:latitude":27.88833,
+    "gn:longitude":119.10056,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wushuyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u68a7\u6811\u579f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1984975
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9b5fc1fb8de116ef5d1805707289ca1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209523799
+        }
+    ],
+    "wof:id":1209523799,
+    "wof:lastmodified":1537595248,
+    "wof:name":"Wushuyang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.10056000000002,
+    27.88833,
+    119.10056000000002,
+    27.88833
+],
+  "geometry": {"coordinates":[119.10056000000002,27.88833],"type":"Point"}
+}

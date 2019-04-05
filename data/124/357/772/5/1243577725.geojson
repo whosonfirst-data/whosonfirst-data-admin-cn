@@ -1,0 +1,77 @@
+{
+  "id": 1243577725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.71003,32.36357,120.71003,32.36357",
+    "geom:latitude":32.36357,
+    "geom:longitude":120.71003,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dingyan",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1812737,
+    "gn:latitude":32.36357,
+    "gn:longitude":120.71003,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Dingyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ting-yen",
+        "Ting-yen-chen",
+        "Dingyan",
+        "\u4e01\u5830",
+        "Dingyan Zhen",
+        "\u4e01\u5830\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1812737
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5a98716725f835a60904b604b61050b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515155,
+            "empire_id":136253041,
+            "locality_id":1243577725,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1243577725,
+    "wof:lastmodified":1537593782,
+    "wof:name":"Dingyan",
+    "wof:parent_id":890515155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.71003,
+    32.36357,
+    120.71003,
+    32.36357
+],
+  "geometry": {"coordinates":[120.71003,32.36357],"type":"Point"}
+}

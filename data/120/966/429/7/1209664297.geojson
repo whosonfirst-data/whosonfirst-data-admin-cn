@@ -1,0 +1,64 @@
+{
+  "id": 1209664297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.374,30.8227,104.374,30.8227",
+    "geom:latitude":30.8227,
+    "geom:longitude":104.374,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Gaoming",
+    "gn:country_code":"CN",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10197187,
+    "gn:latitude":30.8227,
+    "gn:longitude":104.374,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Gaoming",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9ad8\u660e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10197187
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6b6ed65a76e34c3eeb506829d8debd6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209664297
+        }
+    ],
+    "wof:id":1209664297,
+    "wof:lastmodified":1537611195,
+    "wof:name":"Gaoming",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.374,
+    30.8227,
+    104.374,
+    30.8227
+],
+  "geometry": {"coordinates":[104.374,30.8227],"type":"Point"}
+}

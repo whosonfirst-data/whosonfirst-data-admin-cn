@@ -1,0 +1,76 @@
+{
+  "id": 1344243561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.34735,31.8254,111.34735,31.8254",
+    "geom:latitude":31.8254,
+    "geom:longitude":111.34735,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Huanghua",
+    "gn:country_code":"CN",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1807470,
+    "gn:latitude":31.8254,
+    "gn:longitude":111.34735,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Huanghua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huang-t\u2019u-ling",
+        "Huanghua"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ec4\u5316"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1807470
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"13ab37a430ddd8497679ef9fa4d6efa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732497,
+            "empire_id":136253041,
+            "locality_id":1344243561,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1344243561,
+    "wof:lastmodified":1537593441,
+    "wof:name":"Huanghua",
+    "wof:parent_id":1108732497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.34735,
+    31.8254,
+    111.34735,
+    31.8254
+],
+  "geometry": {"coordinates":[111.34735000000001,31.8254],"type":"Point"}
+}

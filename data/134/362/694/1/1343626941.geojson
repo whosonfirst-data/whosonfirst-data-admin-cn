@@ -1,0 +1,75 @@
+{
+  "id": 1343626941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.55606,41.77182,123.55606,41.77182",
+    "geom:latitude":41.77182,
+    "geom:longitude":123.55606,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Libayan",
+    "gn:country_code":"CN",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7398258,
+    "gn:latitude":41.77182,
+    "gn:longitude":123.55606,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Libayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u674e\u5df4\u5f66"
+    ],
+    "name:zho_x_preferred":[
+        "\u674e\u5df4\u5f66"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7398258
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"41ccf9a18da2ea9a3de5fc9c7b602372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732451,
+            "empire_id":136253041,
+            "locality_id":1343626941,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1343626941,
+    "wof:lastmodified":1537598559,
+    "wof:name":"Libayan",
+    "wof:parent_id":1108732451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.55606,
+    41.77182,
+    123.55606,
+    41.77182
+],
+  "geometry": {"coordinates":[123.55606,41.77182],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226724673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.88726,41.29828,123.88726,41.29828",
+    "geom:latitude":41.29828,
+    "geom:longitude":123.88726,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Gushanzi",
+    "gn:country_code":"CN",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7397865,
+    "gn:latitude":41.29828,
+    "gn:longitude":123.88726,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gushanzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5b64\u5c71\u5b50"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b64\u5c71\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890513783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7397865
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c3b9c55f32ecebbde6bd7d1bb7dcf9ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513783,
+            "empire_id":136253041,
+            "locality_id":1226724673,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1226724673,
+    "wof:lastmodified":1537598537,
+    "wof:name":"Gushanzi",
+    "wof:parent_id":890513783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.88726,
+    41.29828,
+    123.88726,
+    41.29828
+],
+  "geometry": {"coordinates":[123.88726,41.29828],"type":"Point"}
+}

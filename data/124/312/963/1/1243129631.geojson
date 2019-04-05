@@ -1,0 +1,77 @@
+{
+  "id": 1243129631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.86861,35.05694,118.86861,35.05694",
+    "geom:latitude":35.05694,
+    "geom:longitude":118.86861,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Jieshou Yicun",
+    "gn:country_code":"CN",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1796726,
+    "gn:latitude":35.05694,
+    "gn:longitude":118.86861,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Jieshou Yicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San-chieh-shou",
+        "Sanjieshou",
+        "Jieshou Yicun"
+    ],
+    "name:zho_x_preferred":[
+        "\u754c\u9996\u4e00\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669813,
+        102191569,
+        85632695,
+        136253041,
+        1108732339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1796726
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d9fb0614b6339d1a8987eeae0c6672f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732339,
+            "empire_id":136253041,
+            "locality_id":1243129631,
+            "region_id":85669813
+        }
+    ],
+    "wof:id":1243129631,
+    "wof:lastmodified":1537592752,
+    "wof:name":"Jieshou Yicun",
+    "wof:parent_id":1108732339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.86861,
+    35.05694,
+    118.86861,
+    35.05694
+],
+  "geometry": {"coordinates":[118.86861,35.05694],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1344114617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.57622,38.12194,113.57622,38.12194",
+    "geom:latitude":38.12194,
+    "geom:longitude":113.57622,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Donghuili",
+    "gn:country_code":"CN",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1812479,
+    "gn:latitude":38.12194,
+    "gn:longitude":113.57622,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Donghuili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hui-li",
+        "Tung-hui-li",
+        "Donghuili"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u4f1a\u91cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        1108732525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1812479
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"06da4cb3de1c4827f153cf93ac4bd1e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732525,
+            "empire_id":136253041,
+            "locality_id":1344114617,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1344114617,
+    "wof:lastmodified":1537593766,
+    "wof:name":"Donghuili",
+    "wof:parent_id":1108732525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.57622,
+    38.12194,
+    113.57622,
+    38.12194
+],
+  "geometry": {"coordinates":[113.57622000000001,38.12194],"type":"Point"}
+}

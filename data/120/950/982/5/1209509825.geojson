@@ -1,0 +1,64 @@
+{
+  "id": 1209509825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.61203,39.94995,119.61203,39.94995",
+    "geom:latitude":39.94995,
+    "geom:longitude":119.61203,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Yanhaili",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10370875,
+    "gn:latitude":39.94995,
+    "gn:longitude":119.61203,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Yanhaili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u71d5\u6d77\u91cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10370875
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fbc54091542ec356635622beeb0437e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209509825
+        }
+    ],
+    "wof:id":1209509825,
+    "wof:lastmodified":1537612866,
+    "wof:name":"Yanhaili",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.61203,
+    39.94995,
+    119.61203,
+    39.94995
+],
+  "geometry": {"coordinates":[119.61203,39.94995],"type":"Point"}
+}

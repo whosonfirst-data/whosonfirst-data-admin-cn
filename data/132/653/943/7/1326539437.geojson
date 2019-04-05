@@ -1,0 +1,77 @@
+{
+  "id": 1326539437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.56465,31.1463,118.56465,31.1463",
+    "geom:latitude":31.1463,
+    "geom:longitude":118.56465,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Wuhu",
+    "gn:country_code":"CN",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":7069199,
+    "gn:latitude":31.1463,
+    "gn:longitude":118.56465,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Wuhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wuhu Xian",
+        "\u829c\u6e56\u53bf",
+        "Wuhu"
+    ],
+    "name:zho_x_preferred":[
+        "\u829c\u6e56"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890513093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7069199
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"be3ad69913d7ce66bc006c88ec0b0edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513093,
+            "empire_id":136253041,
+            "locality_id":1326539437,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1326539437,
+    "wof:lastmodified":1537597782,
+    "wof:name":"Wuhu",
+    "wof:parent_id":890513093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.56465,
+    31.1463,
+    118.56465,
+    31.1463
+],
+  "geometry": {"coordinates":[118.56465,31.1463],"type":"Point"}
+}

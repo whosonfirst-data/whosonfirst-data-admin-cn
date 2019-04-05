@@ -1,0 +1,64 @@
+{
+  "id": 1209385779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.47013,30.78587,95.47013,30.78587",
+    "geom:latitude":30.78587,
+    "geom:longitude":95.47013,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dazhang",
+    "gn:country_code":"CN",
+    "gn:dem":3969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10263509,
+    "gn:latitude":30.78587,
+    "gn:longitude":95.47013,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Dazhang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u638c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10263509
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"399ad76084fb881702d48cbbee12d7de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209385779
+        }
+    ],
+    "wof:id":1209385779,
+    "wof:lastmodified":1537611771,
+    "wof:name":"Dazhang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.47013,
+    30.78587000000001,
+    95.47013,
+    30.78587000000001
+],
+  "geometry": {"coordinates":[95.47013,30.78587000000001],"type":"Point"}
+}

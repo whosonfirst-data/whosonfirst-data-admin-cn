@@ -1,0 +1,64 @@
+{
+  "id": 1209623731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.65792,29.64327,121.65792,29.64327",
+    "geom:latitude":29.64327,
+    "geom:longitude":121.65792,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shangzhou",
+    "gn:country_code":"CN",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7070651,
+    "gn:latitude":29.64327,
+    "gn:longitude":121.65792,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Shangzhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e0a\u5468"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7070651
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f30c76153fad8f4a88228e153db763f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209623731
+        }
+    ],
+    "wof:id":1209623731,
+    "wof:lastmodified":1537597810,
+    "wof:name":"Shangzhou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.65792,
+    29.64327,
+    121.65792,
+    29.64327
+],
+  "geometry": {"coordinates":[121.65792,29.64327],"type":"Point"}
+}

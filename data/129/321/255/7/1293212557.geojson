@@ -1,0 +1,76 @@
+{
+  "id": 1293212557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.26643,30.49807,120.26643,30.49807",
+    "geom:latitude":30.49807,
+    "geom:longitude":120.26643,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Wuhang",
+    "gn:country_code":"CN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1791244,
+    "gn:latitude":30.49807,
+    "gn:longitude":120.26643,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wuhang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wu-hang-ts\u2019un",
+        "Wuhang",
+        "\u4e94\u676d",
+        "Wuhangzhen",
+        "\u4e94\u676d\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1791244
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"01be93ebf7c91477bf4a81d301de52d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516555,
+            "empire_id":136253041,
+            "locality_id":1293212557,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1293212557,
+    "wof:lastmodified":1537592389,
+    "wof:name":"Wuhang",
+    "wof:parent_id":890516555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.26643,
+    30.49807,
+    120.26643,
+    30.49807
+],
+  "geometry": {"coordinates":[120.26643,30.49807],"type":"Point"}
+}

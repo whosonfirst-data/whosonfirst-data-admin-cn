@@ -1,0 +1,64 @@
+{
+  "id": 1209475759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.314,23.446,101.314,23.446",
+    "geom:latitude":23.446,
+    "geom:longitude":101.314,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Longdong",
+    "gn:country_code":"CN",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9921161,
+    "gn:latitude":23.446,
+    "gn:longitude":101.314,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Longdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9f99\u6d1e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9921161
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bc8b79b1376602ea21364c747e3f89e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209475759
+        }
+    ],
+    "wof:id":1209475759,
+    "wof:lastmodified":1537607394,
+    "wof:name":"Longdong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.314,
+    23.446,
+    101.314,
+    23.446
+],
+  "geometry": {"coordinates":[101.31399999999999,23.446],"type":"Point"}
+}

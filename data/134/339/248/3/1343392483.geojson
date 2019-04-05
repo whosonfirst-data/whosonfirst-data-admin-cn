@@ -1,0 +1,69 @@
+{
+  "id": 1343392483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.98333,45.05,122.98333,45.05",
+    "geom:latitude":45.05,
+    "geom:longitude":122.98333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Erlongshan",
+    "gn:country_code":"CN",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2037465,
+    "gn:latitude":45.05,
+    "gn:longitude":122.98333,
+    "gn:modification_date":"1994-02-05",
+    "gn:name":"Erlongshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669843,
+        102191569,
+        85632695,
+        136253041,
+        890512869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2037465
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bf2aa8235229c35d781dc3292e432c67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512869,
+            "empire_id":136253041,
+            "locality_id":1343392483,
+            "region_id":85669843
+        }
+    ],
+    "wof:id":1343392483,
+    "wof:lastmodified":1536843337,
+    "wof:name":"Erlongshan",
+    "wof:parent_id":890512869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.98333,
+    45.05,
+    122.98333,
+    45.05
+],
+  "geometry": {"coordinates":[122.98333,45.05],"type":"Point"}
+}

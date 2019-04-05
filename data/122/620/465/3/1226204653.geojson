@@ -1,0 +1,75 @@
+{
+  "id": 1226204653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6314,41.74773,123.6314,41.74773",
+    "geom:latitude":41.74773,
+    "geom:longitude":123.6314,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Guogongzhai",
+    "gn:country_code":"CN",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7398264,
+    "gn:latitude":41.74773,
+    "gn:longitude":123.6314,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Guogongzhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u56fd\u516c\u5be8"
+    ],
+    "name:zho_x_preferred":[
+        "\u56fd\u516c\u5be8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7398264
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3c0d304c0ab48a94852b4eed05a5b85f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732451,
+            "empire_id":136253041,
+            "locality_id":1226204653,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1226204653,
+    "wof:lastmodified":1537598559,
+    "wof:name":"Guogongzhai",
+    "wof:parent_id":1108732451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6314,
+    41.74773,
+    123.6314,
+    41.74773
+],
+  "geometry": {"coordinates":[123.6314,41.74773],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209095125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.39655,39.04293,116.39655,39.04293",
+    "geom:latitude":39.04293,
+    "geom:longitude":116.39655,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Taibaozhuang",
+    "gn:country_code":"CN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9641083,
+    "gn:latitude":39.04293,
+    "gn:longitude":116.39655,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Taibaozhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u592a\u4fdd\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9641083
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5a03fd74747d64bea0c4663ce79339b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209095125
+        }
+    ],
+    "wof:id":1209095125,
+    "wof:lastmodified":1537606161,
+    "wof:name":"Taibaozhuang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.39655,
+    39.04293,
+    116.39655,
+    39.04293
+],
+  "geometry": {"coordinates":[116.39655,39.04293],"type":"Point"}
+}

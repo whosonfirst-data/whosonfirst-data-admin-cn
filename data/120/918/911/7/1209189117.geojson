@@ -1,0 +1,64 @@
+{
+  "id": 1209189117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.33859,40.9893,119.33859,40.9893",
+    "geom:latitude":40.9893,
+    "geom:longitude":119.33859,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Pinghezi",
+    "gn:country_code":"CN",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11106719,
+    "gn:latitude":40.9893,
+    "gn:longitude":119.33859,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Pinghezi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5e73\u5408\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11106719
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"85946748bb6da73335613cf1cdcc862f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209189117
+        }
+    ],
+    "wof:id":1209189117,
+    "wof:lastmodified":1537615417,
+    "wof:name":"Pinghezi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.33859,
+    40.9893,
+    119.33859,
+    40.9893
+],
+  "geometry": {"coordinates":[119.33859,40.9893],"type":"Point"}
+}

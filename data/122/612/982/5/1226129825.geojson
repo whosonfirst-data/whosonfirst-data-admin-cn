@@ -1,0 +1,83 @@
+{
+  "id": 1226129825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.437,29.4595,109.437,29.4595",
+    "geom:latitude":29.4595,
+    "geom:longitude":109.437,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Min'an",
+    "gn:country_code":"CN",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1800526,
+    "gn:latitude":29.4595,
+    "gn:longitude":109.437,
+    "gn:modification_date":"2014-02-08",
+    "gn:name":"Min\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Longshan Xian",
+        "Lung-shan",
+        "Lung-shan-hsien",
+        "Min\u2019an Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c11\u5b89"
+    ],
+    "name:zho_x_variant":[
+        "\u9f99\u5c71\u53bf",
+        "Min\u2019an",
+        "\u6c11\u5b89\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        1108794059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1800526
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e575479c783909795d7a956c862aee49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794059,
+            "empire_id":136253041,
+            "locality_id":1226129825,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1226129825,
+    "wof:lastmodified":1537592992,
+    "wof:name":"Min'an",
+    "wof:parent_id":1108794059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.437,
+    29.4595,
+    109.437,
+    29.4595
+],
+  "geometry": {"coordinates":[109.437,29.4595],"type":"Point"}
+}

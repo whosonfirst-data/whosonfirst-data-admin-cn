@@ -1,0 +1,71 @@
+{
+  "id": 890516121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.96486,24.97441,118.96486,24.97441",
+    "geom:latitude":24.97441,
+    "geom:longitude":118.96486,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":2500,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u51c0\u5cf0"
+    ],
+    "qs:name":"Jingfeng",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890514127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1921290,
+        "gp:id":20251434,
+        "qs:id":137275
+    },
+    "wof:country":"CN",
+    "wof:created":1469055944,
+    "wof:geomhash":"63cf00bc0c749bd40a2b921e655a6556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514127,
+            "empire_id":136253041,
+            "locality_id":890516121,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":890516121,
+    "wof:lastmodified":1505343901,
+    "wof:name":"Jingfeng",
+    "wof:parent_id":890514127,
+    "wof:placetype":"locality",
+    "wof:population":2500,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.96486,
+    24.97441,
+    118.96486,
+    24.97441
+],
+  "geometry": {"coordinates":[118.96486,24.97441],"type":"Point"}
+}

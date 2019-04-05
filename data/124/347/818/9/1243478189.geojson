@@ -1,0 +1,78 @@
+{
+  "id": 1243478189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.96072,32.68239,119.96072,32.68239",
+    "geom:latitude":32.68239,
+    "geom:longitude":119.96072,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Huangdong",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8262082,
+    "gn:latitude":32.68239,
+    "gn:longitude":119.96072,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Huangdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huangjie"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ec4\u4e1c"
+    ],
+    "name:zho_x_variant":[
+        "\u9ec4\u754c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8262082
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9cefa3acbea7f97f8c221034f4548cd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516237,
+            "empire_id":136253041,
+            "locality_id":1243478189,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1243478189,
+    "wof:lastmodified":1537602800,
+    "wof:name":"Huangdong",
+    "wof:parent_id":890516237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.96072,
+    32.68239000000001,
+    119.96072,
+    32.68239000000001
+],
+  "geometry": {"coordinates":[119.96071999999999,32.68239000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1309999641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.41543,25.667,116.41543,25.667",
+    "geom:latitude":25.667,
+    "geom:longitude":116.41543,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Hetian",
+    "gn:country_code":"CN",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1808258,
+    "gn:latitude":25.667,
+    "gn:longitude":116.41543,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hetian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ho-t\u2019ien-hs\u00fcn",
+        "Hotein",
+        "Ho-t\u2019ien",
+        "Hetian",
+        "\u6cb3\u7530",
+        "Hetian Zhen",
+        "\u6cb3\u7530\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1808258
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"74b655daf267aa4d22298a15e2e9686d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516203,
+            "empire_id":136253041,
+            "locality_id":1309999641,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1309999641,
+    "wof:lastmodified":1537593491,
+    "wof:name":"Hetian",
+    "wof:parent_id":890516203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.41543,
+    25.667,
+    116.41543,
+    25.667
+],
+  "geometry": {"coordinates":[116.41543,25.667],"type":"Point"}
+}

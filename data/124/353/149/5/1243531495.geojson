@@ -1,0 +1,75 @@
+{
+  "id": 1243531495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.69652,31.20239,110.69652,31.20239",
+    "geom:latitude":31.20239,
+    "geom:longitude":110.69652,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Pu'ansi",
+    "gn:country_code":"CN",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8518779,
+    "gn:latitude":31.20239,
+    "gn:longitude":110.69652,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Pu\u2019ansi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pu\u2019ansi"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u5b89\u5bfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        890513331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8518779
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3d6fce2e494088d67d2d6c172288a113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513331,
+            "empire_id":136253041,
+            "locality_id":1243531495,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1243531495,
+    "wof:lastmodified":1537604211,
+    "wof:name":"Pu'ansi",
+    "wof:parent_id":890513331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.69652,
+    31.20239,
+    110.69652,
+    31.20239
+],
+  "geometry": {"coordinates":[110.69652000000001,31.20239],"type":"Point"}
+}

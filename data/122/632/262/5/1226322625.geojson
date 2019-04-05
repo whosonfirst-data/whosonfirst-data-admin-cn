@@ -1,0 +1,78 @@
+{
+  "id": 1226322625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.15347,30.10082,113.15347,30.10082",
+    "geom:latitude":30.10082,
+    "geom:longitude":113.15347,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Fuchang",
+    "gn:country_code":"CN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1811078,
+    "gn:latitude":30.10082,
+    "gn:longitude":113.15347,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Fuchang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fuchang Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e9c\u573a"
+    ],
+    "name:zho_x_variant":[
+        "\u5e9c\u573a\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1811078
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8671117c9a13542b88415db461758c2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732489,
+            "empire_id":136253041,
+            "locality_id":1226322625,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1226322625,
+    "wof:lastmodified":1537593679,
+    "wof:name":"Fuchang",
+    "wof:parent_id":1108732489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.15347,
+    30.10082,
+    113.15347,
+    30.10082
+],
+  "geometry": {"coordinates":[113.15347,30.10082],"type":"Point"}
+}

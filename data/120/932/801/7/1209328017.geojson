@@ -1,0 +1,64 @@
+{
+  "id": 1209328017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.57554,33.66803,117.57554,33.66803",
+    "geom:latitude":33.66803,
+    "geom:longitude":117.57554,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hebeicun",
+    "gn:country_code":"CN",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10360070,
+    "gn:latitude":33.66803,
+    "gn:longitude":117.57554,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Hebeicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6cb3\u5317\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10360070
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d63165259500a503feedb12f0c0acf74",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209328017
+        }
+    ],
+    "wof:id":1209328017,
+    "wof:lastmodified":1537612531,
+    "wof:name":"Hebeicun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.57554,
+    33.66803,
+    117.57554,
+    33.66803
+],
+  "geometry": {"coordinates":[117.57554,33.66803],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1260164239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.801,29.001,90.801,29.001",
+    "geom:latitude":29.001,
+    "geom:longitude":90.801,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dongra",
+    "gn:country_code":"CN",
+    "gn:dem":4882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8537583,
+    "gn:latitude":29.001,
+    "gn:longitude":90.801,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Dongra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Dongra"
+    ],
+    "name:bod_x_variant":[
+        "Dongra Xiang"
+    ],
+    "name:und_x_variant":[
+        "Dongla",
+        "Dongla Xiang",
+        "Guka"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u62c9"
+    ],
+    "name:zho_x_variant":[
+        "\u4e1c\u62c9\u4e61",
+        "\u8c37\u5361"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108794057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537583
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0961cabdb1c6c87ec62a047bd033e6c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794057,
+            "empire_id":136253041,
+            "locality_id":1260164239,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1260164239,
+    "wof:lastmodified":1537604357,
+    "wof:name":"Dongra",
+    "wof:parent_id":1108794057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.801,
+    29.001,
+    90.801,
+    29.001
+],
+  "geometry": {"coordinates":[90.801,29.001],"type":"Point"}
+}

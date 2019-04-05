@@ -1,0 +1,80 @@
+{
+  "id": 1243246739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.201,31.301,91.201,31.301",
+    "geom:latitude":31.301,
+    "geom:longitude":91.201,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Namarqung",
+    "gn:country_code":"CN",
+    "gn:dem":4854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8046346,
+    "gn:latitude":31.301,
+    "gn:longitude":91.201,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Namarqung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Namarqung"
+    ],
+    "name:zho_x_preferred":[
+        "Namaqiong"
+    ],
+    "name:zho_x_variant":[
+        "\u90a3\u739b\u743c",
+        "Niqiong",
+        "\u5c3c\u743c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8046346
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"09965fefdbb82df72cd1b8c0a502bf52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1243246739,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1243246739,
+    "wof:lastmodified":1537602402,
+    "wof:name":"Namarqung",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.201,
+    31.301,
+    91.201,
+    31.301
+],
+  "geometry": {"coordinates":[91.20099999999999,31.301],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242849057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.18264,40.20323,123.18264,40.20323",
+    "geom:latitude":40.20323,
+    "geom:longitude":123.18264,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Qianyingzi",
+    "gn:country_code":"CN",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8537366,
+    "gn:latitude":40.20323,
+    "gn:longitude":123.18264,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Qianyingzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u524d\u8425\u5b50",
+        "Qianyingzi Zhen",
+        "\u524d\u8425\u5b50\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537366
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9c69d1376ad290e94c2b580d2834f70f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514231,
+            "empire_id":136253041,
+            "locality_id":1242849057,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1242849057,
+    "wof:lastmodified":1537604356,
+    "wof:name":"Qianyingzi",
+    "wof:parent_id":890514231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.18264,
+    40.20323,
+    123.18264,
+    40.20323
+],
+  "geometry": {"coordinates":[123.18264000000001,40.20323],"type":"Point"}
+}

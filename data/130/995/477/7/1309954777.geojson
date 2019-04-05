@@ -1,0 +1,72 @@
+{
+  "id": 1309954777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.673,32.175,101.673,32.175",
+    "geom:latitude":32.175,
+    "geom:longitude":101.673,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Mandu",
+    "gn:country_code":"CN",
+    "gn:dem":3055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10202605,
+    "gn:latitude":32.175,
+    "gn:longitude":101.673,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Mandu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6ee1\u90fd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        1108794065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10202605
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"dd6f355d043bd29bf9bd8d1dbde6d9c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794065,
+            "empire_id":136253041,
+            "locality_id":1309954777,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1309954777,
+    "wof:lastmodified":1537611317,
+    "wof:name":"Mandu",
+    "wof:parent_id":1108794065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.673,
+    32.175,
+    101.673,
+    32.175
+],
+  "geometry": {"coordinates":[101.673,32.175],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1210007107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.49323,50.2477,127.49323,50.2477",
+    "geom:latitude":50.2477,
+    "geom:longitude":127.49323,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Xing'an",
+    "gn:country_code":"CN",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":8559010,
+    "gn:latitude":50.2477,
+    "gn:longitude":127.49323,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Xing\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xing\u2019an",
+        "\u5174\u5b89",
+        "Aihui Qu"
+    ],
+    "name:zho_x_preferred":[
+        "\u7231\u8f89\u533a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        1108732555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559010
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9082482c78447bb377e7f78ee010c992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732555,
+            "empire_id":136253041,
+            "locality_id":1210007107,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1210007107,
+    "wof:lastmodified":1537604549,
+    "wof:name":"Xing'an",
+    "wof:parent_id":1108732555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.49323,
+    50.2477,
+    127.49323,
+    50.2477
+],
+  "geometry": {"coordinates":[127.49323,50.2477],"type":"Point"}
+}

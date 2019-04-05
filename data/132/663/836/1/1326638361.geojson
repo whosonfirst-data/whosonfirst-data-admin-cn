@@ -1,0 +1,79 @@
+{
+  "id": 1326638361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.29816,28.73448,121.29816,28.73448",
+    "geom:latitude":28.73448,
+    "geom:longitude":121.29816,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Xicencun",
+    "gn:country_code":"CN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1897709,
+    "gn:latitude":28.73448,
+    "gn:longitude":121.29816,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Xicencun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xicen",
+        "Xicencun"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u5c91"
+    ],
+    "name:zho_x_variant":[
+        "\u897f\u5c91\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890515633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1897709
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"dce62e1a900839e55c3bab5552bd60cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515633,
+            "empire_id":136253041,
+            "locality_id":1326638361,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1326638361,
+    "wof:lastmodified":1537594398,
+    "wof:name":"Xicencun",
+    "wof:parent_id":890515633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.29816,
+    28.73448,
+    121.29816,
+    28.73448
+],
+  "geometry": {"coordinates":[121.29816,28.73448],"type":"Point"}
+}

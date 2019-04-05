@@ -1,0 +1,69 @@
+{
+  "id": 1310080411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.49444,41.64778,123.49444,41.64778",
+    "geom:latitude":41.64778,
+    "geom:longitude":123.49444,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Taoxian",
+    "gn:country_code":"CN",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2054243,
+    "gn:latitude":41.64778,
+    "gn:longitude":123.49444,
+    "gn:modification_date":"2001-07-09",
+    "gn:name":"Taoxian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2054243
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ffb5699964dea40231f9646c1d3e0b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732451,
+            "empire_id":136253041,
+            "locality_id":1310080411,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1310080411,
+    "wof:lastmodified":1537031413,
+    "wof:name":"Taoxian",
+    "wof:parent_id":1108732451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.49444,
+    41.64778,
+    123.49444,
+    41.64778
+],
+  "geometry": {"coordinates":[123.49444,41.64778],"type":"Point"}
+}

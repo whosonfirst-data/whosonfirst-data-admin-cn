@@ -1,0 +1,75 @@
+{
+  "id": 1226610679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.41487,39.80133,123.41487,39.80133",
+    "geom:latitude":39.80133,
+    "geom:longitude":123.41487,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Chaogouya",
+    "gn:country_code":"CN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7397262,
+    "gn:latitude":39.80133,
+    "gn:longitude":123.41487,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chaogouya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6f6e\u6c9f\u5d16"
+    ],
+    "name:zho_x_preferred":[
+        "\u6f6e\u6c9f\u5d16"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890515891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7397262
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c8b7570d3ee5a433520b98d8ad495bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515891,
+            "empire_id":136253041,
+            "locality_id":1226610679,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1226610679,
+    "wof:lastmodified":1537598503,
+    "wof:name":"Chaogouya",
+    "wof:parent_id":890515891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.41487,
+    39.80133,
+    123.41487,
+    39.80133
+],
+  "geometry": {"coordinates":[123.41486999999999,39.80133],"type":"Point"}
+}

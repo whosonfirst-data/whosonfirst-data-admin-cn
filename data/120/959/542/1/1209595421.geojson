@@ -1,0 +1,64 @@
+{
+  "id": 1209595421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.41005,31.13151,112.41005,31.13151",
+    "geom:latitude":31.13151,
+    "geom:longitude":112.41005,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zhoujiawo",
+    "gn:country_code":"CN",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7654891,
+    "gn:latitude":31.13151,
+    "gn:longitude":112.41005,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhoujiawo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5468\u5bb6\u7a9d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7654891
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d5a3fc2481b6c96ad05defdf01af7562",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209595421
+        }
+    ],
+    "wof:id":1209595421,
+    "wof:lastmodified":1537600668,
+    "wof:name":"Zhoujiawo",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.41005,
+    31.13151,
+    112.41005,
+    31.13151
+],
+  "geometry": {"coordinates":[112.41005,31.13151],"type":"Point"}
+}

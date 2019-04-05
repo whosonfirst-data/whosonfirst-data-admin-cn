@@ -1,0 +1,75 @@
+{
+  "id": 1226251195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.36972,30.0225,121.36972,30.0225",
+    "geom:latitude":30.0225,
+    "geom:longitude":121.36972,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Guanqiao",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1899029,
+    "gn:latitude":30.0225,
+    "gn:longitude":121.36972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Guanqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuan-ch\u2019iao",
+        "Guanqiao",
+        "\u5b98\u6865"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1899029
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b1bbe3b4f93a014a2b7dc1b0adc8a8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516553,
+            "empire_id":136253041,
+            "locality_id":1226251195,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1226251195,
+    "wof:lastmodified":1537594453,
+    "wof:name":"Guanqiao",
+    "wof:parent_id":890516553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.36972,
+    30.0225,
+    121.36972,
+    30.0225
+],
+  "geometry": {"coordinates":[121.36972,30.0225],"type":"Point"}
+}

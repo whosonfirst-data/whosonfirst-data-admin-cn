@@ -1,0 +1,75 @@
+{
+  "id": 1243030523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.40726,40.73937,120.40726,40.73937",
+    "geom:latitude":40.73937,
+    "geom:longitude":120.40726,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Majigou",
+    "gn:country_code":"CN",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7401124,
+    "gn:latitude":40.73937,
+    "gn:longitude":120.40726,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Majigou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9ebb\u5b63\u6c9f"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ebb\u5b63\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7401124
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c7c71bae2dcf0d403fe30c489ca67d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514399,
+            "empire_id":136253041,
+            "locality_id":1243030523,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1243030523,
+    "wof:lastmodified":1537598715,
+    "wof:name":"Majigou",
+    "wof:parent_id":890514399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.40726,
+    40.73937,
+    120.40726,
+    40.73937
+],
+  "geometry": {"coordinates":[120.40725999999999,40.73937],"type":"Point"}
+}

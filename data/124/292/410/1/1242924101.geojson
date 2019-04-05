@@ -1,0 +1,72 @@
+{
+  "id": 1242924101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.755,25.396,101.755,25.396",
+    "geom:latitude":25.396,
+    "geom:longitude":101.755,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Fujing",
+    "gn:country_code":"CN",
+    "gn:dem":1612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10150141,
+    "gn:latitude":25.396,
+    "gn:longitude":101.755,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Fujing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u590d\u4e95"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        1108732445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10150141
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"71bf05c7d25f3bcb81c5c09804073165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732445,
+            "empire_id":136253041,
+            "locality_id":1242924101,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1242924101,
+    "wof:lastmodified":1537610444,
+    "wof:name":"Fujing",
+    "wof:parent_id":1108732445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.755,
+    25.396,
+    101.755,
+    25.396
+],
+  "geometry": {"coordinates":[101.755,25.396],"type":"Point"}
+}

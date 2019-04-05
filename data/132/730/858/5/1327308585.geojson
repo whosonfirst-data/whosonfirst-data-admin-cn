@@ -1,0 +1,76 @@
+{
+  "id": 1327308585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.40855,40.40058,123.40855,40.40058",
+    "geom:latitude":40.40058,
+    "geom:longitude":123.40855,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Suzigou",
+    "gn:country_code":"CN",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2034623,
+    "gn:latitude":40.40058,
+    "gn:longitude":123.40855,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Suzigou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Su-tzu-kou",
+        "Suzigou",
+        "\u82cf\u5b50\u6c9f",
+        "Suzigou Zhen",
+        "\u82cf\u5b50\u6c9f\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2034623
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d1733168ded21b5a1d9db3707bc82c4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514231,
+            "empire_id":136253041,
+            "locality_id":1327308585,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1327308585,
+    "wof:lastmodified":1537595659,
+    "wof:name":"Suzigou",
+    "wof:parent_id":890514231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.40855,
+    40.40058,
+    123.40855,
+    40.40058
+],
+  "geometry": {"coordinates":[123.40855000000001,40.40058],"type":"Point"}
+}

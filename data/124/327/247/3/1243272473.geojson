@@ -1,0 +1,76 @@
+{
+  "id": 1243272473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.17051,30.12735,120.17051,30.12735",
+    "geom:latitude":30.12735,
+    "geom:longitude":120.17051,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Wenyan",
+    "gn:country_code":"CN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1791398,
+    "gn:latitude":30.12735,
+    "gn:longitude":120.17051,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wenyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wen-chia-yen",
+        "Wenyan",
+        "\u95fb\u5830",
+        "Wenyan Zhen",
+        "\u95fb\u5830\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1791398
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bf0f49ec1695305d921c10e3e5febc68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516555,
+            "empire_id":136253041,
+            "locality_id":1243272473,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1243272473,
+    "wof:lastmodified":1537592398,
+    "wof:name":"Wenyan",
+    "wof:parent_id":890516555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.17051,
+    30.12735,
+    120.17051,
+    30.12735
+],
+  "geometry": {"coordinates":[120.17050999999999,30.12735],"type":"Point"}
+}

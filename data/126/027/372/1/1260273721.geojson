@@ -1,0 +1,75 @@
+{
+  "id": 1260273721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.14886,46.55203,123.14886,46.55203",
+    "geom:latitude":46.55203,
+    "geom:longitude":123.14886,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Zhangguo'en",
+    "gn:country_code":"CN",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11582813,
+    "gn:latitude":46.55203,
+    "gn:longitude":123.14886,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Zhangguo\u2019en",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhangguo\u2019en"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f20\u56fd\u6069"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890516483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11582813
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3232251d9dd89d3cb066c0a49125abea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516483,
+            "empire_id":136253041,
+            "locality_id":1260273721,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1260273721,
+    "wof:lastmodified":1537618129,
+    "wof:name":"Zhangguo'en",
+    "wof:parent_id":890516483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.14886,
+    46.55203,
+    123.14886,
+    46.55203
+],
+  "geometry": {"coordinates":[123.14886,46.55203],"type":"Point"}
+}

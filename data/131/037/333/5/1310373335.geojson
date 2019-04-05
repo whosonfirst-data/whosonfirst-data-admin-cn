@@ -1,0 +1,77 @@
+{
+  "id": 1310373335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.87554,35.65477,110.87554,35.65477",
+    "geom:latitude":35.65477,
+    "geom:longitude":110.87554,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Lucuncun",
+    "gn:country_code":"CN",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1802155,
+    "gn:latitude":35.65477,
+    "gn:longitude":110.87554,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Lucuncun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lu-ts\u2019un",
+        "Lucun",
+        "Lucuncun"
+    ],
+    "name:zho_x_preferred":[
+        "\u8def\u6751\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        890514745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1802155
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f4aee4a7a850db63ef2e7381be0a833f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514745,
+            "empire_id":136253041,
+            "locality_id":1310373335,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1310373335,
+    "wof:lastmodified":1537593101,
+    "wof:name":"Lucuncun",
+    "wof:parent_id":890514745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.87554,
+    35.65477,
+    110.87554,
+    35.65477
+],
+  "geometry": {"coordinates":[110.87554,35.65477],"type":"Point"}
+}

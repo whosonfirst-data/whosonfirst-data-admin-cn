@@ -1,0 +1,75 @@
+{
+  "id": 1243137593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.04144,41.59439,123.04144,41.59439",
+    "geom:latitude":41.59439,
+    "geom:longitude":123.04144,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Dawula",
+    "gn:country_code":"CN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7399545,
+    "gn:latitude":41.59439,
+    "gn:longitude":123.04144,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dawula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5927\u5140\u62c9"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u5140\u62c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7399545
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5ee379bdb85ca974193e3d5b0a266c78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732451,
+            "empire_id":136253041,
+            "locality_id":1243137593,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1243137593,
+    "wof:lastmodified":1537598626,
+    "wof:name":"Dawula",
+    "wof:parent_id":1108732451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.04144,
+    41.59439,
+    123.04144,
+    41.59439
+],
+  "geometry": {"coordinates":[123.04143999999999,41.59439],"type":"Point"}
+}

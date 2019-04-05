@@ -1,0 +1,64 @@
+{
+  "id": 1209595331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.61882,32.30583,113.61882,32.30583",
+    "geom:latitude":32.30583,
+    "geom:longitude":113.61882,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zhangjiawan",
+    "gn:country_code":"CN",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8525648,
+    "gn:latitude":32.30583,
+    "gn:longitude":113.61882,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Zhangjiawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5f20\u5bb6\u5846"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8525648
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"dcab539b48848f7efb259490a080a9bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209595331
+        }
+    ],
+    "wof:id":1209595331,
+    "wof:lastmodified":1537604318,
+    "wof:name":"Zhangjiawan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.61882,
+    32.30583,
+    113.61882,
+    32.30583
+],
+  "geometry": {"coordinates":[113.61882,32.30583],"type":"Point"}
+}

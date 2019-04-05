@@ -1,0 +1,64 @@
+{
+  "id": 1209204029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.935,34.8295,114.935,34.8295",
+    "geom:latitude":34.8295,
+    "geom:longitude":114.935,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Erlizhai",
+    "gn:country_code":"CN",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9131896,
+    "gn:latitude":34.8295,
+    "gn:longitude":114.935,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Erlizhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e8c\u91cc\u5be8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9131896
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5fa4295a19a5a06391227526e92bf07f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209204029
+        }
+    ],
+    "wof:id":1209204029,
+    "wof:lastmodified":1537605698,
+    "wof:name":"Erlizhai",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.935,
+    34.8295,
+    114.935,
+    34.8295
+],
+  "geometry": {"coordinates":[114.935,34.8295],"type":"Point"}
+}

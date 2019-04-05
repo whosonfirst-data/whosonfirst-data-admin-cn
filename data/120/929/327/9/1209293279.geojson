@@ -1,0 +1,66 @@
+{
+  "id": 1209293279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.8,42.31667,117.8,42.31667",
+    "geom:latitude":42.31667,
+    "geom:longitude":117.8,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Xinbo",
+    "gn:country_code":"CN",
+    "gn:dem":1165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2033793,
+    "gn:latitude":42.31667,
+    "gn:longitude":117.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Xinbo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-po-ts\u2019un",
+        "Hisin-po",
+        "Xinbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2033793
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"71255a21f0364fc8b4fe8ec9dbe91419",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209293279
+        }
+    ],
+    "wof:id":1209293279,
+    "wof:lastmodified":1537595607,
+    "wof:name":"Xinbo",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.8,
+    42.31667,
+    117.8,
+    42.31667
+],
+  "geometry": {"coordinates":[117.8,42.31667],"type":"Point"}
+}

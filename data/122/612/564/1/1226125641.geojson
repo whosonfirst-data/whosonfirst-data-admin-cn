@@ -1,0 +1,78 @@
+{
+  "id": 1226125641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.3,28.6,89.3,28.6",
+    "geom:latitude":28.6,
+    "geom:longitude":89.3,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Qinzhog",
+    "gn:country_code":"CN",
+    "gn:dem":4876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8048414,
+    "gn:latitude":28.6,
+    "gn:longitude":89.3,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qinzhog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Qinzhog"
+    ],
+    "name:zho_x_preferred":[
+        "Qingzhuo"
+    ],
+    "name:zho_x_variant":[
+        "\u9752\u5353"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8048414
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a773cdd8c24307f8bb6c6354062c3f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1226125641,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226125641,
+    "wof:lastmodified":1537602435,
+    "wof:name":"Qinzhog",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.3,
+    28.6,
+    89.3,
+    28.6
+],
+  "geometry": {"coordinates":[89.3,28.6],"type":"Point"}
+}

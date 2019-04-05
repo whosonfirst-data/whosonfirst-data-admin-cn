@@ -1,0 +1,77 @@
+{
+  "id": 1259449879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.86932,32.42797,108.86932,32.42797",
+    "geom:latitude":32.42797,
+    "geom:longitude":108.86932,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Huabacun",
+    "gn:country_code":"CN",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1807748,
+    "gn:latitude":32.42797,
+    "gn:longitude":108.86932,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Huabacun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hua-pa",
+        "Huaba",
+        "Huabacun"
+    ],
+    "name:zho_x_preferred":[
+        "\u82b1\u575d\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1807748
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ee88d55cc9ae68282f554382cf1a7836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515101,
+            "empire_id":136253041,
+            "locality_id":1259449879,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1259449879,
+    "wof:lastmodified":1537593458,
+    "wof:name":"Huabacun",
+    "wof:parent_id":890515101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.86932,
+    32.42797,
+    108.86932,
+    32.42797
+],
+  "geometry": {"coordinates":[108.86932,32.42797],"type":"Point"}
+}

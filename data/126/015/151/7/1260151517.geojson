@@ -1,0 +1,79 @@
+{
+  "id": 1260151517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.101,30.501,96.101,30.501",
+    "geom:latitude":30.501,
+    "geom:longitude":96.101,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Cawa",
+    "gn:country_code":"CN",
+    "gn:dem":5199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7928342,
+    "gn:latitude":30.501,
+    "gn:longitude":96.101,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Cawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Cawa"
+    ],
+    "name:zho_x_preferred":[
+        "\u64e6\u74e6"
+    ],
+    "name:zho_x_variant":[
+        "Lajiu Qu",
+        "\u814a\u4e45\u533a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7928342
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b4f5ae7b9d6a47880369aab5cd2780ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1260151517,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1260151517,
+    "wof:lastmodified":1537602034,
+    "wof:name":"Cawa",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.101,
+    30.501,
+    96.101,
+    30.501
+],
+  "geometry": {"coordinates":[96.101,30.501],"type":"Point"}
+}

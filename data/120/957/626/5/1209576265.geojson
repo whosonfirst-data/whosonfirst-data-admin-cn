@@ -1,0 +1,64 @@
+{
+  "id": 1209576265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.989,22.9206,101.989,22.9206",
+    "geom:latitude":22.9206,
+    "geom:longitude":101.989,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Dongsa",
+    "gn:country_code":"CN",
+    "gn:dem":1330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9931037,
+    "gn:latitude":22.9206,
+    "gn:longitude":101.989,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Dongsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e1c\u8428"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9931037
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d5c9c9dabc0c8386f26a388ff0927b7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209576265
+        }
+    ],
+    "wof:id":1209576265,
+    "wof:lastmodified":1537607674,
+    "wof:name":"Dongsa",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.989,
+    22.9206,
+    101.989,
+    22.9206
+],
+  "geometry": {"coordinates":[101.989,22.9206],"type":"Point"}
+}

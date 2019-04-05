@@ -1,0 +1,77 @@
+{
+  "id": 1193248679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.945,34.9927,104.945,34.9927",
+    "geom:latitude":34.9927,
+    "geom:longitude":104.945,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Maluwan",
+    "gn:country_code":"CN",
+    "gn:dem":1993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1801326,
+    "gn:latitude":34.9927,
+    "gn:longitude":104.945,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Maluwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma-lu-chen",
+        "Malu",
+        "Maluwan"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u8def\u6e7e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669711,
+        102191569,
+        85632695,
+        136253041,
+        890516337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1801326
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"85ca5bc818c64f40fc51d83540658df0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516337,
+            "empire_id":136253041,
+            "locality_id":1193248679,
+            "region_id":85669711
+        }
+    ],
+    "wof:id":1193248679,
+    "wof:lastmodified":1537593041,
+    "wof:name":"Maluwan",
+    "wof:parent_id":890516337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.945,
+    34.9927,
+    104.945,
+    34.9927
+],
+  "geometry": {"coordinates":[104.94499999999999,34.9927],"type":"Point"}
+}

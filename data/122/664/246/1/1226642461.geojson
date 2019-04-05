@@ -1,0 +1,78 @@
+{
+  "id": 1226642461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.01282,47.73453,125.01282,47.73453",
+    "geom:latitude":47.73453,
+    "geom:longitude":125.01282,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Xinxing",
+    "gn:country_code":"CN",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8505393,
+    "gn:latitude":47.73453,
+    "gn:longitude":125.01282,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Xinxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xinxing Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5174"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u5174\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890516483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8505393
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9c92d35ce75fab60c559312bedcf4f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516483,
+            "empire_id":136253041,
+            "locality_id":1226642461,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1226642461,
+    "wof:lastmodified":1537603898,
+    "wof:name":"Xinxing",
+    "wof:parent_id":890516483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.01282,
+    47.73453,
+    125.01282,
+    47.73453
+],
+  "geometry": {"coordinates":[125.01282,47.73453],"type":"Point"}
+}

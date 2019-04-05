@@ -1,0 +1,80 @@
+{
+  "id": 1310108573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.36029,29.71912,121.36029,29.71912",
+    "geom:latitude":29.71912,
+    "geom:longitude":121.36029,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Houzhucun",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1897450,
+    "gn:latitude":29.71912,
+    "gn:longitude":121.36029,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Houzhucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Houzhu",
+        "\u540e\u7afa",
+        "Houzhucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u540e\u7afa"
+    ],
+    "name:zho_x_variant":[
+        "\u540e\u7afa\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1897450
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"617fd7e8c23dbb51ae98c8d8f1479d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516553,
+            "empire_id":136253041,
+            "locality_id":1310108573,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1310108573,
+    "wof:lastmodified":1537594383,
+    "wof:name":"Houzhucun",
+    "wof:parent_id":890516553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.36029,
+    29.71912,
+    121.36029,
+    29.71912
+],
+  "geometry": {"coordinates":[121.36029000000001,29.71912],"type":"Point"}
+}

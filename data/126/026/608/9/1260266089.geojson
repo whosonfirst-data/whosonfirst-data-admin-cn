@@ -1,0 +1,78 @@
+{
+  "id": 1260266089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.6496,30.7029,86.6496,30.7029",
+    "geom:latitude":30.7029,
+    "geom:longitude":86.6496,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dargo",
+    "gn:country_code":"CN",
+    "gn:dem":4599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7929790,
+    "gn:latitude":30.7029,
+    "gn:longitude":86.6496,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Dargo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Dargo"
+    ],
+    "name:zho_x_preferred":[
+        "Daguo"
+    ],
+    "name:zho_x_variant":[
+        "\u8fbe\u679c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7929790
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"080272f9b94d77cc6697700ea112e70f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1260266089,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1260266089,
+    "wof:lastmodified":1537602060,
+    "wof:name":"Dargo",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.6496,
+    30.7029,
+    86.6496,
+    30.7029
+],
+  "geometry": {"coordinates":[86.64960000000001,30.7029],"type":"Point"}
+}

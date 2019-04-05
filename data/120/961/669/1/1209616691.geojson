@@ -1,0 +1,64 @@
+{
+  "id": 1209616691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.90438,25.32098,114.90438,25.32098",
+    "geom:latitude":25.32098,
+    "geom:longitude":114.90438,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Zhenjiang",
+    "gn:country_code":"CN",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9616795,
+    "gn:latitude":25.32098,
+    "gn:longitude":114.90438,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Zhenjiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9547\u6c5f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9616795
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b2368bc6e81de6c60a9b7124525a8cd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209616691
+        }
+    ],
+    "wof:id":1209616691,
+    "wof:lastmodified":1537606026,
+    "wof:name":"Zhenjiang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.90438,
+    25.32098,
+    114.90438,
+    25.32098
+],
+  "geometry": {"coordinates":[114.90438,25.32098],"type":"Point"}
+}

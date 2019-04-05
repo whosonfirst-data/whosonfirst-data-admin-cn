@@ -1,0 +1,78 @@
+{
+  "id": 1225814325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.72,35.96778,105.72,35.96778",
+    "geom:latitude":35.96778,
+    "geom:longitude":105.72,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Xiji",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":1930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1789412,
+    "gn:latitude":35.96778,
+    "gn:longitude":105.72,
+    "gn:modification_date":"1996-10-31",
+    "gn:name":"Xiji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsi-chi-hsien",
+        "Mou-chia-ying",
+        "Hsi-chi",
+        "Mu-chia-ying",
+        "Mu-kia-p'u",
+        "Mutszyapu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669763,
+        102191569,
+        85632695,
+        136253041,
+        890515165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1789412
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bb7c792307a61430db158679a62a8823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515165,
+            "empire_id":136253041,
+            "locality_id":1225814325,
+            "region_id":85669763
+        }
+    ],
+    "wof:id":1225814325,
+    "wof:lastmodified":1537592270,
+    "wof:name":"Xiji",
+    "wof:parent_id":890515165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.72,
+    35.96778,
+    105.72,
+    35.96778
+],
+  "geometry": {"coordinates":[105.72,35.96778],"type":"Point"}
+}

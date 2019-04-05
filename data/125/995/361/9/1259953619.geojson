@@ -1,0 +1,84 @@
+{
+  "id": 1259953619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.905,27.905,85.905,27.905",
+    "geom:latitude":27.905,
+    "geom:longitude":85.905,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Xoibogang",
+    "gn:country_code":"CN",
+    "gn:dem":2025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8059259,
+    "gn:latitude":27.905,
+    "gn:longitude":85.905,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Xoibogang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Xoibogang"
+    ],
+    "name:zho_x_preferred":[
+        "Xuebugang"
+    ],
+    "name:zho_x_variant":[
+        "\u96ea\u5e03\u5c97"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8059259
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6d3e6ff4e063ec7f5268498eb158b3dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1259953619,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1259953619,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1259953619,
+    "wof:lastmodified":1537602507,
+    "wof:name":"Xoibogang",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.905,
+    27.905,
+    85.905,
+    27.905
+],
+  "geometry": {"coordinates":[85.905,27.905],"type":"Point"}
+}

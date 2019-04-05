@@ -1,0 +1,78 @@
+{
+  "id": 1276706951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.49511,21.86269,112.49511,21.86269",
+    "geom:latitude":21.86269,
+    "geom:longitude":112.49511,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Wencun",
+    "gn:country_code":"CN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1791527,
+    "gn:latitude":21.86269,
+    "gn:longitude":112.49511,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Wencun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wen-ts\u2019un",
+        "Wencun",
+        "Wencun Zhen",
+        "\u6c76\u6751\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c76\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890514609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1791527
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7d0cd05738fd74af21a45fe8c4b61c28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514609,
+            "empire_id":136253041,
+            "locality_id":1276706951,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1276706951,
+    "wof:lastmodified":1537592407,
+    "wof:name":"Wencun",
+    "wof:parent_id":890514609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.49511,
+    21.86269,
+    112.49511,
+    21.86269
+],
+  "geometry": {"coordinates":[112.49511,21.86269],"type":"Point"}
+}

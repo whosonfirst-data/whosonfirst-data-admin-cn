@@ -1,0 +1,79 @@
+{
+  "id": 1209881531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.943,41.03497,120.943,41.03497",
+    "geom:latitude":41.03497,
+    "geom:longitude":120.943,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Wanghu",
+    "gn:country_code":"CN",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2053656,
+    "gn:latitude":41.03497,
+    "gn:longitude":120.943,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wanghu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jinxing Zhen",
+        "Wanghu"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f51\u6237"
+    ],
+    "name:zho_x_variant":[
+        "\u91d1\u661f\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2053656
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8c8cedd9d01a42452972a49ce24670fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514399,
+            "empire_id":136253041,
+            "locality_id":1209881531,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1209881531,
+    "wof:lastmodified":1537595971,
+    "wof:name":"Wanghu",
+    "wof:parent_id":890514399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.943,
+    41.03497,
+    120.943,
+    41.03497
+],
+  "geometry": {"coordinates":[120.943,41.03497],"type":"Point"}
+}

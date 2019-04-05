@@ -1,0 +1,75 @@
+{
+  "id": 1259415649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.04889,31.87909,121.04889,31.87909",
+    "geom:latitude":31.87909,
+    "geom:longitude":121.04889,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nanxingcun",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1799659,
+    "gn:latitude":31.87909,
+    "gn:longitude":121.04889,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Nanxingcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nanxing",
+        "\u5357\u5174",
+        "Nanxingcun",
+        "\u5357\u5174\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1799659
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6197d9bd55c69ef9c29a7ab593d0a39f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515155,
+            "empire_id":136253041,
+            "locality_id":1259415649,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1259415649,
+    "wof:lastmodified":1537592944,
+    "wof:name":"Nanxingcun",
+    "wof:parent_id":890515155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.04889,
+    31.87909,
+    121.04889,
+    31.87909
+],
+  "geometry": {"coordinates":[121.04889,31.87909],"type":"Point"}
+}

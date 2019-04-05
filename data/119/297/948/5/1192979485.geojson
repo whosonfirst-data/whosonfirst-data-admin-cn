@@ -1,0 +1,77 @@
+{
+  "id": 1192979485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.09833,25.11508,102.09833,25.11508",
+    "geom:latitude":25.11508,
+    "geom:longitude":102.09833,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Jinshan",
+    "gn:country_code":"CN",
+    "gn:dem":1649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1805399,
+    "gn:latitude":25.11508,
+    "gn:longitude":102.09833,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jinshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lufeng",
+        "Lu-feng-hsien",
+        "Jinshan"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        1108732445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1805399
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9a6bd8f3d5eeab9f046f03ec976def77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732445,
+            "empire_id":136253041,
+            "locality_id":1192979485,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1192979485,
+    "wof:lastmodified":1537593311,
+    "wof:name":"Jinshan",
+    "wof:parent_id":1108732445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.09833,
+    25.11508,
+    102.09833,
+    25.11508
+],
+  "geometry": {"coordinates":[102.09833,25.11508],"type":"Point"}
+}

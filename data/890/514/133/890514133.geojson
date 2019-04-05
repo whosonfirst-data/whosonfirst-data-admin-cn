@@ -1,0 +1,81 @@
+{
+  "id": 890514133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.63817,39.36549,117.63817,39.36549",
+    "geom:latitude":39.36549,
+    "geom:longitude":117.63817,
+    "gn:country":"CN",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ninghe"
+    ],
+    "name:eng_x_variant":[
+        "Ninghe xian"
+    ],
+    "name:unk_x_variant":[
+        "Ning-ho Hsien"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b81\u6cb3\u53bf"
+    ],
+    "name:zho_x_variant":[
+        "\u5b81\u6cb3"
+    ],
+    "qs:name":"Ninghe Xian",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669817,
+        102191569,
+        85632695,
+        136253041,
+        890513813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1799380,
+        "qs:id":1027585
+    },
+    "wof:country":"CN",
+    "wof:created":1469055849,
+    "wof:geomhash":"274899f28d3c1e539e8b88b6088a82a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513813,
+            "empire_id":136253041,
+            "localadmin_id":890514133,
+            "region_id":85669817
+        }
+    ],
+    "wof:id":890514133,
+    "wof:lastmodified":1505343895,
+    "wof:name":"Ninghe Xian",
+    "wof:parent_id":890513813,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.63817,
+    39.36549,
+    117.63817,
+    39.36549
+],
+  "geometry": {"coordinates":[117.63817,39.36549],"type":"Point"}
+}

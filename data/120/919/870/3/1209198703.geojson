@@ -1,0 +1,64 @@
+{
+  "id": 1209198703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.77468,34.10555,112.77468,34.10555",
+    "geom:latitude":34.10555,
+    "geom:longitude":112.77468,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Huzhuang",
+    "gn:country_code":"CN",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1910372,
+    "gn:latitude":34.10555,
+    "gn:longitude":112.77468,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Huzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u80e1\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1910372
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"cb269dbe554d874daace341c8e61891f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209198703
+        }
+    ],
+    "wof:id":1209198703,
+    "wof:lastmodified":1537594580,
+    "wof:name":"Huzhuang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.77468,
+    34.10555,
+    112.77468,
+    34.10555
+],
+  "geometry": {"coordinates":[112.77468,34.10555],"type":"Point"}
+}

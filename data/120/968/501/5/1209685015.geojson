@@ -1,0 +1,64 @@
+{
+  "id": 1209685015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.424,23.2724,106.424,23.2724",
+    "geom:latitude":23.2724,
+    "geom:longitude":106.424,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dading",
+    "gn:country_code":"CN",
+    "gn:dem":785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9907666,
+    "gn:latitude":23.2724,
+    "gn:longitude":106.424,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Dading",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u5b9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9907666
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"492b32c97b0d18005d8c165e8cd4e339",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209685015
+        }
+    ],
+    "wof:id":1209685015,
+    "wof:lastmodified":1537607011,
+    "wof:name":"Dading",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.424,
+    23.2724,
+    106.424,
+    23.2724
+],
+  "geometry": {"coordinates":[106.42400000000001,23.2724],"type":"Point"}
+}

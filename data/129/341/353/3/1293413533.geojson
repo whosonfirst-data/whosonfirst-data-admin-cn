@@ -1,0 +1,80 @@
+{
+  "id": 1293413533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.02991,34.04572,119.02991,34.04572",
+    "geom:latitude":34.04572,
+    "geom:longitude":119.02991,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jinduncun",
+    "gn:country_code":"CN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1549883,
+    "gn:latitude":34.04572,
+    "gn:longitude":119.02991,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Jinduncun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jindun",
+        "Hedun",
+        "Jinduncun"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u58a9"
+    ],
+    "name:zho_x_variant":[
+        "\u91d1\u58a9\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890512205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1549883
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6c2b56a35bd2c455b3be30864dbb1945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512205,
+            "empire_id":136253041,
+            "locality_id":1293413533,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1293413533,
+    "wof:lastmodified":1537591709,
+    "wof:name":"Jinduncun",
+    "wof:parent_id":890512205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.02991000000002,
+    34.04572,
+    119.02991000000002,
+    34.04572
+],
+  "geometry": {"coordinates":[119.02991000000002,34.04572],"type":"Point"}
+}

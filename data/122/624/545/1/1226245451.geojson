@@ -1,0 +1,76 @@
+{
+  "id": 1226245451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.42239,28.77597,121.42239,28.77597",
+    "geom:latitude":28.77597,
+    "geom:longitude":121.42239,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ma'aocun",
+    "gn:country_code":"CN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1897148,
+    "gn:latitude":28.77597,
+    "gn:longitude":121.42239,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Ma\u2019aocun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u2019aocun",
+        "Ma\u2019ao"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u5c99\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890515633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1897148
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b64e53460f6bb1ea3a9d7b0fa5699f03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515633,
+            "empire_id":136253041,
+            "locality_id":1226245451,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1226245451,
+    "wof:lastmodified":1537594373,
+    "wof:name":"Ma'aocun",
+    "wof:parent_id":890515633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.42239,
+    28.77597,
+    121.42239,
+    28.77597
+],
+  "geometry": {"coordinates":[121.42238999999999,28.77597],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243345821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.95161,33.87378,103.95161,33.87378",
+    "geom:latitude":33.87378,
+    "geom:longitude":103.95161,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Xizang",
+    "gn:country_code":"CN",
+    "gn:dem":2182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7330595,
+    "gn:latitude":33.87378,
+    "gn:longitude":103.95161,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Xizang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6eaa\u85cf"
+    ],
+    "name:zho_x_preferred":[
+        "\u6eaa\u85cf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669711,
+        102191569,
+        85632695,
+        136253041,
+        1108794071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7330595
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"921ac10540b31036908a64fea3b513f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794071,
+            "empire_id":136253041,
+            "locality_id":1243345821,
+            "region_id":85669711
+        }
+    ],
+    "wof:id":1243345821,
+    "wof:lastmodified":1537598027,
+    "wof:name":"Xizang",
+    "wof:parent_id":1108794071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.95161,
+    33.87378,
+    103.95161,
+    33.87378
+],
+  "geometry": {"coordinates":[103.95161,33.87378],"type":"Point"}
+}

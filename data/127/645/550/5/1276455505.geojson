@@ -1,0 +1,76 @@
+{
+  "id": 1276455505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.77493,27.99969,120.77493,27.99969",
+    "geom:latitude":27.99969,
+    "geom:longitude":120.77493,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yinzhoucun",
+    "gn:country_code":"CN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1786484,
+    "gn:latitude":27.99969,
+    "gn:longitude":120.77493,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Yinzhoucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yinzhou",
+        "Yinzhoucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u541f\u5dde\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890514289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1786484
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1d301200338f6bd93f2f65209aa4daa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514289,
+            "empire_id":136253041,
+            "locality_id":1276455505,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1276455505,
+    "wof:lastmodified":1537592065,
+    "wof:name":"Yinzhoucun",
+    "wof:parent_id":890514289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.77493,
+    27.99969,
+    120.77493,
+    27.99969
+],
+  "geometry": {"coordinates":[120.77493,27.99969],"type":"Point"}
+}

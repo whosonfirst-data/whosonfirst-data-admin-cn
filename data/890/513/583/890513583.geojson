@@ -1,0 +1,86 @@
+{
+  "id": 890513583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.40243,29.35955,112.40243,29.35955",
+    "geom:latitude":29.35955,
+    "geom:longitude":112.40243,
+    "gn:country":"CN",
+    "gn:fcode":"PPLA3",
+    "gn:pop":54449,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5357\u6d32\u9547"
+    ],
+    "name:eng_x_preferred":[
+        "Nanzhou"
+    ],
+    "name:unk_x_variant":[
+        "Nan-hsien"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u6d32"
+    ],
+    "name:zho_x_variant":[
+        "\u5357\u53bf"
+    ],
+    "qs:name":"Nanzhou",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":52,
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890516477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1799552,
+        "gp:id":12686204,
+        "qs:id":561399,
+        "wd:id":"Q10908422",
+        "wk:page":"Nanzhou"
+    },
+    "wof:country":"CN",
+    "wof:created":1469055828,
+    "wof:geomhash":"7d059063789a112519cbe5726f07e3f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516477,
+            "empire_id":136253041,
+            "locality_id":890513583,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":890513583,
+    "wof:lastmodified":1527793073,
+    "wof:name":"Nanzhou",
+    "wof:parent_id":890516477,
+    "wof:placetype":"locality",
+    "wof:population":54449,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.40243,
+    29.35955,
+    112.40243,
+    29.35955
+],
+  "geometry": {"coordinates":[112.40243,29.35955],"type":"Point"}
+}

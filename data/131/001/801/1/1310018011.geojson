@@ -1,0 +1,77 @@
+{
+  "id": 1310018011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.89587,28.52117,120.89587,28.52117",
+    "geom:latitude":28.52117,
+    "geom:longitude":120.89587,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tian'aocun",
+    "gn:country_code":"CN",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1883274,
+    "gn:latitude":28.52117,
+    "gn:longitude":120.89587,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Tian\u2019aocun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u2019ien-ao",
+        "Tian\u2019ao",
+        "Tian\u2019aocun"
+    ],
+    "name:zho_x_preferred":[
+        "\u7530\u5c99\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890515633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1883274
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f28d28b02dfd8f5c3b1eaea9cd8ee091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515633,
+            "empire_id":136253041,
+            "locality_id":1310018011,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1310018011,
+    "wof:lastmodified":1537594188,
+    "wof:name":"Tian'aocun",
+    "wof:parent_id":890515633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.89587,
+    28.52117,
+    120.89587,
+    28.52117
+],
+  "geometry": {"coordinates":[120.89587,28.52117],"type":"Point"}
+}

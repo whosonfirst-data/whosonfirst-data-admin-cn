@@ -1,0 +1,78 @@
+{
+  "id": 1259448961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.11448,28.72219,108.11448,28.72219",
+    "geom:latitude":28.72219,
+    "geom:longitude":108.11448,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Hongsi",
+    "gn:country_code":"CN",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1550525,
+    "gn:latitude":28.72219,
+    "gn:longitude":108.11448,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Hongsi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hongsi Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ea2\u4e1d"
+    ],
+    "name:zho_x_variant":[
+        "\u7ea2\u4e1d\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669721,
+        102191569,
+        85632695,
+        136253041,
+        890516473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1550525
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4f281db649c29264fd8617055ff3748f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516473,
+            "empire_id":136253041,
+            "locality_id":1259448961,
+            "region_id":85669721
+        }
+    ],
+    "wof:id":1259448961,
+    "wof:lastmodified":1537591722,
+    "wof:name":"Hongsi",
+    "wof:parent_id":890516473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.11448,
+    28.72219,
+    108.11448,
+    28.72219
+],
+  "geometry": {"coordinates":[108.11448,28.72219],"type":"Point"}
+}

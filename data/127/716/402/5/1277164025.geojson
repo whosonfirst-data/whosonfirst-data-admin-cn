@@ -1,0 +1,78 @@
+{
+  "id": 1277164025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.30108,30.37747,113.30108,30.37747",
+    "geom:latitude":30.37747,
+    "geom:longitude":113.30108,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Huchang",
+    "gn:country_code":"CN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1806942,
+    "gn:latitude":30.37747,
+    "gn:longitude":113.30108,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Huchang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huchang Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u573a"
+    ],
+    "name:zho_x_variant":[
+        "\u80e1\u573a\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1806942
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b02f119cd953cd2ab7a18fcaefd203d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732353,
+            "empire_id":136253041,
+            "locality_id":1277164025,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1277164025,
+    "wof:lastmodified":1537593409,
+    "wof:name":"Huchang",
+    "wof:parent_id":1108732353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.30108,
+    30.37747,
+    113.30108,
+    30.37747
+],
+  "geometry": {"coordinates":[113.30108,30.37747],"type":"Point"}
+}

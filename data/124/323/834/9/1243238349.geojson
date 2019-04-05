@@ -1,0 +1,75 @@
+{
+  "id": 1243238349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.30907,42.4356,123.30907,42.4356",
+    "geom:latitude":42.4356,
+    "geom:longitude":123.30907,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Gujingzi",
+    "gn:country_code":"CN",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7401095,
+    "gn:latitude":42.4356,
+    "gn:longitude":123.30907,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gujingzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u53e4\u4e95\u5b50"
+    ],
+    "name:zho_x_preferred":[
+        "\u53e4\u4e95\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7401095
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"349e9c5d2071b9e407ffac5c2a386409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732451,
+            "empire_id":136253041,
+            "locality_id":1243238349,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1243238349,
+    "wof:lastmodified":1537598714,
+    "wof:name":"Gujingzi",
+    "wof:parent_id":1108732451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.30907,
+    42.4356,
+    123.30907,
+    42.4356
+],
+  "geometry": {"coordinates":[123.30907000000001,42.4356],"type":"Point"}
+}

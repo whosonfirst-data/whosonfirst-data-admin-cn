@@ -1,0 +1,77 @@
+{
+  "id": 1343870309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.2837,27.78138,119.2837,27.78138",
+    "geom:latitude":27.78138,
+    "geom:longitude":119.2837,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Hehu",
+    "gn:country_code":"CN",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1918620,
+    "gn:latitude":27.78138,
+    "gn:longitude":119.2837,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Hehu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5408\u6e56",
+        "Hehu",
+        "Hehu Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5408\u6e56\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1918620
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"114bd697a78d7c524c031454cdfd5837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516399,
+            "empire_id":136253041,
+            "locality_id":1343870309,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1343870309,
+    "wof:lastmodified":1537594790,
+    "wof:name":"Hehu",
+    "wof:parent_id":890516399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.2837,
+    27.78138,
+    119.2837,
+    27.78138
+],
+  "geometry": {"coordinates":[119.2837,27.78138],"type":"Point"}
+}

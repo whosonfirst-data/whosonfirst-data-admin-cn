@@ -1,0 +1,78 @@
+{
+  "id": 1226723645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.1,30.2,93.1,30.2",
+    "geom:latitude":30.2,
+    "geom:longitude":93.1,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bumqung",
+    "gn:country_code":"CN",
+    "gn:dem":4820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":7894385,
+    "gn:latitude":30.2,
+    "gn:longitude":93.1,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bumqung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Bumqung"
+    ],
+    "name:zho_x_preferred":[
+        "Bujiu"
+    ],
+    "name:zho_x_variant":[
+        "\u5e03\u4e45"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7894385
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ac060248d5f405bf24f695bb9aeb58d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515951,
+            "empire_id":136253041,
+            "locality_id":1226723645,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226723645,
+    "wof:lastmodified":1537601852,
+    "wof:name":"Bumqung",
+    "wof:parent_id":890515951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.1,
+    30.2,
+    93.1,
+    30.2
+],
+  "geometry": {"coordinates":[93.09999999999999,30.2],"type":"Point"}
+}

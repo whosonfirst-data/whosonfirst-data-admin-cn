@@ -1,0 +1,75 @@
+{
+  "id": 1293355745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.70145,40.8538,123.70145,40.8538",
+    "geom:latitude":40.8538,
+    "geom:longitude":123.70145,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Lujuanzi",
+    "gn:country_code":"CN",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7397983,
+    "gn:latitude":40.8538,
+    "gn:longitude":123.70145,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Lujuanzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9e7f\u5708\u5b50"
+    ],
+    "name:zho_x_preferred":[
+        "\u9e7f\u5708\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890513783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7397983
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"44794de6044eff0a2422b5b30cf94163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513783,
+            "empire_id":136253041,
+            "locality_id":1293355745,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1293355745,
+    "wof:lastmodified":1537598545,
+    "wof:name":"Lujuanzi",
+    "wof:parent_id":890513783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.70145,
+    40.8538,
+    123.70145,
+    40.8538
+],
+  "geometry": {"coordinates":[123.70144999999999,40.8538],"type":"Point"}
+}

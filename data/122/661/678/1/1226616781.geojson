@@ -1,0 +1,78 @@
+{
+  "id": 1226616781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.504,29.104,88.504,29.104",
+    "geom:latitude":29.104,
+    "geom:longitude":88.504,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Saigoi",
+    "gn:country_code":"CN",
+    "gn:dem":4125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8049826,
+    "gn:latitude":29.104,
+    "gn:longitude":88.504,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Saigoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Saigoi"
+    ],
+    "name:zho_x_preferred":[
+        "Sagui"
+    ],
+    "name:zho_x_variant":[
+        "\u8428\u5f52"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8049826
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d23cfe73699f9ae1f47a780ebd7e313f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1226616781,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226616781,
+    "wof:lastmodified":1537602464,
+    "wof:name":"Saigoi",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.50399999999998,
+    29.104,
+    88.50399999999998,
+    29.104
+],
+  "geometry": {"coordinates":[88.50399999999998,29.104],"type":"Point"}
+}

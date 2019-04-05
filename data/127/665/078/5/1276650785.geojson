@@ -1,0 +1,78 @@
+{
+  "id": 1276650785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.00399,36.03146,115.00399,36.03146",
+    "geom:latitude":36.03146,
+    "geom:longitude":115.00399,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Huoding",
+    "gn:country_code":"CN",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9120408,
+    "gn:latitude":36.03146,
+    "gn:longitude":115.00399,
+    "gn:modification_date":"2014-07-10",
+    "gn:name":"Huoding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huotuan"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u753a"
+    ],
+    "name:zho_x_variant":[
+        "\u970d\u7583"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669801,
+        102191569,
+        85632695,
+        136253041,
+        890514079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9120408
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0b356d55d5bb8d9990d4dc460cd34f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514079,
+            "empire_id":136253041,
+            "locality_id":1276650785,
+            "region_id":85669801
+        }
+    ],
+    "wof:id":1276650785,
+    "wof:lastmodified":1537605341,
+    "wof:name":"Huoding",
+    "wof:parent_id":890514079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.00399,
+    36.03146,
+    115.00399,
+    36.03146
+],
+  "geometry": {"coordinates":[115.00399,36.03146],"type":"Point"}
+}

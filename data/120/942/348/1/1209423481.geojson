@@ -1,0 +1,65 @@
+{
+  "id": 1209423481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.23185,27.92513,119.23185,27.92513",
+    "geom:latitude":27.92513,
+    "geom:longitude":119.23185,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Huangcun",
+    "gn:country_code":"CN",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1918599,
+    "gn:latitude":27.92513,
+    "gn:longitude":119.23185,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Huangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u8352\u6751",
+        "Huangcun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1918599
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"eea9316a2482cd72bf04c9c86e73c90b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209423481
+        }
+    ],
+    "wof:id":1209423481,
+    "wof:lastmodified":1537594789,
+    "wof:name":"Huangcun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.23185,
+    27.92513,
+    119.23185,
+    27.92513
+],
+  "geometry": {"coordinates":[119.23184999999999,27.92513],"type":"Point"}
+}

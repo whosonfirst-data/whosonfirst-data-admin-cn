@@ -1,0 +1,64 @@
+{
+  "id": 1209365221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.1588,28.6059,99.1588,28.6059",
+    "geom:latitude":28.6059,
+    "geom:longitude":99.1588,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Qulong",
+    "gn:country_code":"CN",
+    "gn:dem":2261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10140391,
+    "gn:latitude":28.6059,
+    "gn:longitude":99.1588,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Qulong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u66f2\u9f99"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10140391
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7c2328605c70687e4c846543c1608666",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209365221
+        }
+    ],
+    "wof:id":1209365221,
+    "wof:lastmodified":1537610174,
+    "wof:name":"Qulong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.1588,
+    28.6059,
+    99.1588,
+    28.6059
+],
+  "geometry": {"coordinates":[99.1588,28.6059],"type":"Point"}
+}

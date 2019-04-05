@@ -1,0 +1,78 @@
+{
+  "id": 1226120453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.50234,26.74306,113.50234,26.74306",
+    "geom:latitude":26.74306,
+    "geom:longitude":113.50234,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zhubei",
+    "gn:country_code":"CN",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8201932,
+    "gn:latitude":26.74306,
+    "gn:longitude":113.50234,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Zhubei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shangwanli"
+    ],
+    "name:zho_x_preferred":[
+        "\u7af9\u80cc"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0a\u6e7e\u91cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890514759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8201932
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f4605246e9b084371c40e0f8922a2324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514759,
+            "empire_id":136253041,
+            "locality_id":1226120453,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1226120453,
+    "wof:lastmodified":1537602701,
+    "wof:name":"Zhubei",
+    "wof:parent_id":890514759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.50234,
+    26.74306,
+    113.50234,
+    26.74306
+],
+  "geometry": {"coordinates":[113.50234,26.74306],"type":"Point"}
+}

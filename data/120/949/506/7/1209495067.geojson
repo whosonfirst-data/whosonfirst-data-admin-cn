@@ -1,0 +1,64 @@
+{
+  "id": 1209495067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.51809,32.47902,111.51809,32.47902",
+    "geom:latitude":32.47902,
+    "geom:longitude":111.51809,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Weijiadagou",
+    "gn:country_code":"CN",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8511014,
+    "gn:latitude":32.47902,
+    "gn:longitude":111.51809,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Weijiadagou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9b4f\u5bb6\u5927\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8511014
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"165983acad5bdffac3169aa774f76da2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209495067
+        }
+    ],
+    "wof:id":1209495067,
+    "wof:lastmodified":1537603999,
+    "wof:name":"Weijiadagou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.51809,
+    32.47902,
+    111.51809,
+    32.47902
+],
+  "geometry": {"coordinates":[111.51809,32.47902],"type":"Point"}
+}

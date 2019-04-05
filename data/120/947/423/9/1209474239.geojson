@@ -1,0 +1,64 @@
+{
+  "id": 1209474239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.678,32.3762,105.678,32.3762",
+    "geom:latitude":32.3762,
+    "geom:longitude":105.678,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Pingwu",
+    "gn:country_code":"CN",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10149320,
+    "gn:latitude":32.3762,
+    "gn:longitude":105.678,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Pingwu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5e73\u96fe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10149320
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"eabf9e62085c61be56e43a873b3a39f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209474239
+        }
+    ],
+    "wof:id":1209474239,
+    "wof:lastmodified":1537610416,
+    "wof:name":"Pingwu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.678,
+    32.3762,
+    105.678,
+    32.3762
+],
+  "geometry": {"coordinates":[105.678,32.3762],"type":"Point"}
+}

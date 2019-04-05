@@ -1,0 +1,64 @@
+{
+  "id": 1209009275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.8009,33.89911,117.8009,33.89911",
+    "geom:latitude":33.89911,
+    "geom:longitude":117.8009,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Yuanloucun",
+    "gn:country_code":"CN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11529909,
+    "gn:latitude":33.89911,
+    "gn:longitude":117.8009,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Yuanloucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8881\u697c\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11529909
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f32e605e3fc4566d353b28524c9838ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209009275
+        }
+    ],
+    "wof:id":1209009275,
+    "wof:lastmodified":1537617409,
+    "wof:name":"Yuanloucun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.8009,
+    33.89911,
+    117.8009,
+    33.89911
+],
+  "geometry": {"coordinates":[117.8009,33.89911],"type":"Point"}
+}

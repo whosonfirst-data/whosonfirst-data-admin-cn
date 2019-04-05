@@ -1,0 +1,78 @@
+{
+  "id": 1226823901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.37393,41.55271,119.37393,41.55271",
+    "geom:latitude":41.55271,
+    "geom:longitude":119.37393,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Duzhencun",
+    "gn:country_code":"CN",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11503493,
+    "gn:latitude":41.55271,
+    "gn:longitude":119.37393,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Duzhencun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duzhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u9547\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u675c\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890515907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11503493
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f170bdf3fc987eafd7c5f05a871704b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515907,
+            "empire_id":136253041,
+            "locality_id":1226823901,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1226823901,
+    "wof:lastmodified":1537617054,
+    "wof:name":"Duzhencun",
+    "wof:parent_id":890515907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.37393,
+    41.55271,
+    119.37393,
+    41.55271
+],
+  "geometry": {"coordinates":[119.37393,41.55271],"type":"Point"}
+}

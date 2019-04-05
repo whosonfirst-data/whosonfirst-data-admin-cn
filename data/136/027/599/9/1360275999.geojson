@@ -1,0 +1,78 @@
+{
+  "id": 1360275999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.46409,45.55415,127.46409,45.55415",
+    "geom:latitude":45.55415,
+    "geom:longitude":127.46409,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Pingfang",
+    "gn:country_code":"CN",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":7630133,
+    "gn:latitude":45.55415,
+    "gn:longitude":127.46409,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Pingfang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pingfang Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e73\u574a"
+    ],
+    "name:zho_x_variant":[
+        "\u5e73\u574a\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890516235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7630133
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c4dd5963ad5e1006659088a80fb8d6b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516235,
+            "empire_id":136253041,
+            "locality_id":1360275999,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1360275999,
+    "wof:lastmodified":1537600248,
+    "wof:name":"Pingfang",
+    "wof:parent_id":890516235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.46408999999998,
+    45.55415,
+    127.46408999999998,
+    45.55415
+],
+  "geometry": {"coordinates":[127.46408999999998,45.55415],"type":"Point"}
+}

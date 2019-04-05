@@ -1,0 +1,64 @@
+{
+  "id": 1209075589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.135,25.7851,110.135,25.7851",
+    "geom:latitude":25.7851,
+    "geom:longitude":110.135,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Zhonglu",
+    "gn:country_code":"CN",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1993682,
+    "gn:latitude":25.7851,
+    "gn:longitude":110.135,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Zhonglu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e2d\u7984"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1993682
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"714fc3f7b90fa9d40cbf54b420c4f1f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209075589
+        }
+    ],
+    "wof:id":1209075589,
+    "wof:lastmodified":1537595329,
+    "wof:name":"Zhonglu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.135,
+    25.7851,
+    110.135,
+    25.7851
+],
+  "geometry": {"coordinates":[110.13500000000001,25.7851],"type":"Point"}
+}

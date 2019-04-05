@@ -1,0 +1,79 @@
+{
+  "id": 1277126961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.40058,25.50147,102.40058,25.50147",
+    "geom:latitude":25.50147,
+    "geom:longitude":102.40058,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Jincheng",
+    "gn:country_code":"CN",
+    "gn:dem":1759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1805745,
+    "gn:latitude":25.50147,
+    "gn:longitude":102.40058,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jincheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wutingchow",
+        "Wu-ting-hsien",
+        "Wu-ting",
+        "Wuding",
+        "Jincheng"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fd1\u57ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        1108732445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1805745
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5c8f2d02319ee3e6bd626a6bf604127b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732445,
+            "empire_id":136253041,
+            "locality_id":1277126961,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1277126961,
+    "wof:lastmodified":1537593336,
+    "wof:name":"Jincheng",
+    "wof:parent_id":1108732445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.40058,
+    25.50147,
+    102.40058,
+    25.50147
+],
+  "geometry": {"coordinates":[102.40058000000001,25.50147],"type":"Point"}
+}

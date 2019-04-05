@@ -1,0 +1,64 @@
+{
+  "id": 1209600493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.10281,44.45157,129.10281,44.45157",
+    "geom:latitude":44.45157,
+    "geom:longitude":129.10281,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Guangming",
+    "gn:country_code":"CN",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8527234,
+    "gn:latitude":44.45157,
+    "gn:longitude":129.10281,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Guangming",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5149\u660e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8527234
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"74c187493af9e2d2b1e089f27561b937",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209600493
+        }
+    ],
+    "wof:id":1209600493,
+    "wof:lastmodified":1537604335,
+    "wof:name":"Guangming",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.10281,
+    44.45157,
+    129.10281,
+    44.45157
+],
+  "geometry": {"coordinates":[129.10281000000001,44.45157],"type":"Point"}
+}

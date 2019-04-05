@@ -1,0 +1,72 @@
+{
+  "id": 1226722379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.063,25.525,110.063,25.525",
+    "geom:latitude":25.525,
+    "geom:longitude":110.063,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Wengzhou",
+    "gn:country_code":"CN",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1992203,
+    "gn:latitude":25.525,
+    "gn:longitude":110.063,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Wengzhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u74ee\u6d32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669717,
+        102191569,
+        85632695,
+        136253041,
+        1108732443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1992203
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3d451b79ad34abbb9a0c07f66a4db018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732443,
+            "empire_id":136253041,
+            "locality_id":1226722379,
+            "region_id":85669717
+        }
+    ],
+    "wof:id":1226722379,
+    "wof:lastmodified":1537595315,
+    "wof:name":"Wengzhou",
+    "wof:parent_id":1108732443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.063,
+    25.525,
+    110.063,
+    25.525
+],
+  "geometry": {"coordinates":[110.063,25.525],"type":"Point"}
+}

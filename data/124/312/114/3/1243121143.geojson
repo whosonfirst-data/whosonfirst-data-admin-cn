@@ -1,0 +1,77 @@
+{
+  "id": 1243121143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.53868,28.11465,101.53868,28.11465",
+    "geom:latitude":28.11465,
+    "geom:longitude":101.53868,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Wali",
+    "gn:country_code":"CN",
+    "gn:dem":2746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1791725,
+    "gn:latitude":28.11465,
+    "gn:longitude":101.53868,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wa-li",
+        "Warli",
+        "Wali"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d3c\u91cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        1108794061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1791725
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e1633632ef396d8d0a835fa0bd313e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794061,
+            "empire_id":136253041,
+            "locality_id":1243121143,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1243121143,
+    "wof:lastmodified":1537592419,
+    "wof:name":"Wali",
+    "wof:parent_id":1108794061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.53868,
+    28.11465,
+    101.53868,
+    28.11465
+],
+  "geometry": {"coordinates":[101.53868,28.11465],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259704821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.08132,25.19341,119.08132,25.19341",
+    "geom:latitude":25.19341,
+    "geom:longitude":119.08132,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zhongmen",
+    "gn:country_code":"CN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1784353,
+    "gn:latitude":25.19341,
+    "gn:longitude":119.08132,
+    "gn:modification_date":"2013-07-05",
+    "gn:name":"Zhongmen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhongmen Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fe0\u95e8"
+    ],
+    "name:zho_x_variant":[
+        "\u5fe0\u95e8\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1784353
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"838f60b0a440691b9382141a26c667e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516865,
+            "empire_id":136253041,
+            "locality_id":1259704821,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1259704821,
+    "wof:lastmodified":1537591920,
+    "wof:name":"Zhongmen",
+    "wof:parent_id":890516865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.08132,
+    25.19341,
+    119.08132,
+    25.19341
+],
+  "geometry": {"coordinates":[119.08132000000001,25.19341],"type":"Point"}
+}

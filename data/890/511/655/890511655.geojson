@@ -1,0 +1,68 @@
+{
+  "id": 890511655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.96806,26.46722,111.96806,26.46722",
+    "geom:latitude":26.46722,
+    "geom:longitude":111.96806,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":25000,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Bojia",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890515001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1929434,
+        "gp:id":20272072,
+        "qs:id":569213
+    },
+    "wof:country":"CN",
+    "wof:created":1469055739,
+    "wof:geomhash":"04a6effac378c37651ac8487027a071c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515001,
+            "empire_id":136253041,
+            "locality_id":890511655,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":890511655,
+    "wof:lastmodified":1505343883,
+    "wof:name":"Bojia",
+    "wof:parent_id":890515001,
+    "wof:placetype":"locality",
+    "wof:population":25000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.96806,
+    26.46722,
+    111.96806,
+    26.46722
+],
+  "geometry": {"coordinates":[111.96805999999999,26.46722],"type":"Point"}
+}

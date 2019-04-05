@@ -1,0 +1,64 @@
+{
+  "id": 1209084189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.40411,27.43429,109.40411,27.43429",
+    "geom:latitude":27.43429,
+    "geom:longitude":109.40411,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bianshui",
+    "gn:country_code":"CN",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10368677,
+    "gn:latitude":27.43429,
+    "gn:longitude":109.40411,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Bianshui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4fbf\u6c34"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10368677
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"508837edf3d2493c72ca4d8d37d6ae77",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209084189
+        }
+    ],
+    "wof:id":1209084189,
+    "wof:lastmodified":1537612806,
+    "wof:name":"Bianshui",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.40411,
+    27.43429,
+    109.40411,
+    27.43429
+],
+  "geometry": {"coordinates":[109.40411,27.43429],"type":"Point"}
+}

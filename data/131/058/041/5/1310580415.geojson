@@ -1,0 +1,86 @@
+{
+  "id": 1310580415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.0,37.25,85.0,37.25",
+    "geom:latitude":37.25,
+    "geom:longitude":85.0,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Korgan",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":2642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1280816,
+    "gn:latitude":37.25,
+    "gn:longitude":85.0,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Korgan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uig_x_preferred":[
+        "K\u0329or\u01a3an"
+    ],
+    "name:uig_x_variant":[
+        "Qorghan",
+        "\u0642\u0648\u0631\u063a\u0627\u0646",
+        "\u049a\u043e\u0440\u0493\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "K\u2019u-kan",
+        "Korgan",
+        "Ku\u2019ergan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e93\u5c14\u5e72"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669753,
+        102191569,
+        85632695,
+        136253041,
+        1108732417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1280816
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"88c04762829fa6cc2e02fbf6068da6d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732417,
+            "empire_id":136253041,
+            "locality_id":1310580415,
+            "region_id":85669753
+        }
+    ],
+    "wof:id":1310580415,
+    "wof:lastmodified":1537591481,
+    "wof:name":"Korgan",
+    "wof:parent_id":1108732417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.0,
+    37.25,
+    85.0,
+    37.25
+],
+  "geometry": {"coordinates":[85.0,37.25],"type":"Point"}
+}

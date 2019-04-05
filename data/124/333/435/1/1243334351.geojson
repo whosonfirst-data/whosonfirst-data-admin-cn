@@ -1,0 +1,78 @@
+{
+  "id": 1243334351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.201,29.901,93.201,29.901",
+    "geom:latitude":29.901,
+    "geom:longitude":93.201,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nyagai",
+    "gn:country_code":"CN",
+    "gn:dem":3574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8046543,
+    "gn:latitude":29.901,
+    "gn:longitude":93.201,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Nyagai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Nyagai"
+    ],
+    "name:zho_x_preferred":[
+        "Nianggai"
+    ],
+    "name:zho_x_variant":[
+        "\u5a18\u76d6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8046543
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bead88c85cbb43beebc7fd10063e7926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515951,
+            "empire_id":136253041,
+            "locality_id":1243334351,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1243334351,
+    "wof:lastmodified":1537602414,
+    "wof:name":"Nyagai",
+    "wof:parent_id":890515951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.201,
+    29.901,
+    93.201,
+    29.901
+],
+  "geometry": {"coordinates":[93.20099999999999,29.901],"type":"Point"}
+}

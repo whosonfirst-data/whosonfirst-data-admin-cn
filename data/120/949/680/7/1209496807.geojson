@@ -1,0 +1,64 @@
+{
+  "id": 1209496807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.149,25.0279,109.149,25.0279",
+    "geom:latitude":25.0279,
+    "geom:longitude":109.149,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dazuo",
+    "gn:country_code":"CN",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9942251,
+    "gn:latitude":25.0279,
+    "gn:longitude":109.149,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Dazuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u5750"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9942251
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"82bb0445ef9bf340964efa417e7dd6b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209496807
+        }
+    ],
+    "wof:id":1209496807,
+    "wof:lastmodified":1537608052,
+    "wof:name":"Dazuo",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.149,
+    25.0279,
+    109.149,
+    25.0279
+],
+  "geometry": {"coordinates":[109.149,25.0279],"type":"Point"}
+}

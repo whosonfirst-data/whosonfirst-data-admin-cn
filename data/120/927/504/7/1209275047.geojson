@@ -1,0 +1,64 @@
+{
+  "id": 1209275047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.1317,28.50733,104.1317,28.50733",
+    "geom:latitude":28.50733,
+    "geom:longitude":104.1317,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Yanjing",
+    "gn:country_code":"CN",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8751622,
+    "gn:latitude":28.50733,
+    "gn:longitude":104.1317,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Yanjing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u76d0\u4e95"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8751622
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"aea819d009092243fe3280a0378f0fe7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209275047
+        }
+    ],
+    "wof:id":1209275047,
+    "wof:lastmodified":1537604957,
+    "wof:name":"Yanjing",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.1317,
+    28.50733,
+    104.1317,
+    28.50733
+],
+  "geometry": {"coordinates":[104.1317,28.50733],"type":"Point"}
+}

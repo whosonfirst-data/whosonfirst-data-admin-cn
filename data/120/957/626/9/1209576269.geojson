@@ -1,0 +1,64 @@
+{
+  "id": 1209576269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.00839,27.93483,105.00839,27.93483",
+    "geom:latitude":27.93483,
+    "geom:longitude":105.00839,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Heilong",
+    "gn:country_code":"CN",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8999951,
+    "gn:latitude":27.93483,
+    "gn:longitude":105.00839,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Heilong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9ed1\u9f99"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8999951
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ed8ea244fde2f94ec76b72d11d5e65f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209576269
+        }
+    ],
+    "wof:id":1209576269,
+    "wof:lastmodified":1537605003,
+    "wof:name":"Heilong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.00839,
+    27.93483,
+    105.00839,
+    27.93483
+],
+  "geometry": {"coordinates":[105.00839000000001,27.93483],"type":"Point"}
+}

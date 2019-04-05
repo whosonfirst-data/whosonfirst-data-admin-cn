@@ -1,0 +1,122 @@
+{
+  "id": 102027147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000316,
+    "geom:area_square_m":3121271.771459,
+    "geom:bbox":"118.701550297,36.8837906949,118.723986723,36.9018118034",
+    "geom:latitude":36.892801,
+    "geom:longitude":118.712769,
+    "gn:population":79212,
+    "iso:country":"CN",
+    "lbl:latitude":36.892801,
+    "lbl:longitude":118.712769,
+    "mps:latitude":36.892801,
+    "mps:longitude":118.712769,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Shouguang"
+    ],
+    "name:fra_x_preferred":[
+        "Shouguang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5bff\u5149\u5e02"
+    ],
+    "name:kik_x_preferred":[
+        "Shouguang"
+    ],
+    "name:kor_x_preferred":[
+        "\uc11c\uc6b0\uad11 \uc2dc"
+    ],
+    "name:nld_x_preferred":[
+        "Shouguang"
+    ],
+    "name:nor_x_preferred":[
+        "Shouguang"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u0443\u0433\u0443\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Shouguang"
+    ],
+    "name:unk_x_variant":[
+        "Chiu-shou-kuang"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u1ecd Quang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bff\u5149\u5e02"
+    ],
+    "qs:a0":"\u4e2d\u570b",
+    "qs:a1":"*\u5c71\u4e1c\u7701",
+    "qs:a1r":"*",
+    "qs:a2":"\u6f4d\u574a\u5e02",
+    "qs:adm0":"China",
+    "qs:id":0,
+    "qs:la":"\u5bff\u5149\u5e02",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Shouguang",
+    "qs:loc_alt":"\u5bff\u5149",
+    "qs:loc_lc":"1794794",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "qs:type":"Town",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":402,
+    "wof:belongsto":[
+        85669813,
+        102191569,
+        85632695,
+        136253041,
+        890514755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1794794,
+        "gp:id":2168391,
+        "qs:id":1235890,
+        "wd:id":"Q1357984",
+        "wk:page":"Shouguang"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a1fdb24babbc5b99e9da5ee242afce9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514755,
+            "empire_id":136253041,
+            "locality_id":102027147,
+            "region_id":85669813
+        }
+    ],
+    "wof:id":102027147,
+    "wof:lastmodified":1527637573,
+    "wof:name":"Shouguang",
+    "wof:parent_id":890514755,
+    "wof:placetype":"locality",
+    "wof:population":79212,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.70155029706994,
+    36.88379069492595,
+    118.72398672340445,
+    36.90181180343052
+],
+  "geometry": {"coordinates":[[[118.71475940022488,36.88393226481979],[118.71256722138482,36.88379069492595],[118.71038277458989,36.88399535586233],[118.70828997862013,36.88453838602867],[118.70636923524386,36.88539892448462],[118.7046943429542,36.88654391149755],[118.70332966315659,36.88792935744637],[118.70232764737115,36.88950203155508],[118.70172682038982,36.8912015058268],[118.70155029706994,36.89296247588982],[118.70180489017689,36.89471726977344],[118.70248084414747,36.89639844833238],[118.70355220568065,36.89794139741146],[118.70497781756829,36.89928681205808],[118.70670289811666,36.90038297714389],[118.70866114579819,36.90118775651469],[118.71077728834588,36.90167021395713],[118.71296997815098,36.90181180343052],[118.7151549222806,36.90160708261493],[118.71724812624008,36.90106392222653],[118.71916912614849,36.90020320303097],[118.72084408445777,36.89905801227665],[118.72220862971189,36.89767237060263],[118.72321033087347,36.89609953858228],[118.72381071104944,36.89439996825291],[118.72398672340445,36.89263897861036],[118.72373163296278,36.89088424460604],[118.72305527100239,36.88920319626907],[118.72198365293725,36.88766042792949],[118.72055797502979,36.88631521702425],[118.71883302902502,36.88521924766364],[118.7168750959673,36.88441462620459],[118.71475940022488,36.88393226481979]]],"type":"Polygon"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1260053701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.04851,31.08779,85.04851,31.08779",
+    "geom:latitude":31.08779,
+    "geom:longitude":85.04851,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Maindong",
+    "gn:country_code":"CN",
+    "gn:dem":4834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8045745,
+    "gn:latitude":31.08779,
+    "gn:longitude":85.04851,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Maindong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Maindong"
+    ],
+    "name:zho_x_preferred":[
+        "Mendong"
+    ],
+    "name:zho_x_variant":[
+        "\u95e8\u8463",
+        "Tiwu",
+        "\u66ff\u543e",
+        "\u63d0\u65e0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8045745
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"891a199b8b466542b0e14b95988cfb6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732537,
+            "empire_id":136253041,
+            "locality_id":1260053701,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1260053701,
+    "wof:lastmodified":1537602393,
+    "wof:name":"Maindong",
+    "wof:parent_id":1108732537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.04851,
+    31.08779,
+    85.04851,
+    31.08779
+],
+  "geometry": {"coordinates":[85.04850999999999,31.08779],"type":"Point"}
+}

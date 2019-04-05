@@ -1,0 +1,75 @@
+{
+  "id": 1259844889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.9439,39.99679,123.9439,39.99679",
+    "geom:latitude":39.99679,
+    "geom:longitude":123.9439,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Hejiagang",
+    "gn:country_code":"CN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7402651,
+    "gn:latitude":39.99679,
+    "gn:longitude":123.9439,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Hejiagang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4f55\u5bb6\u5c97"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f55\u5bb6\u5c97"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7402651
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"153b09d3559ff0653760cc0388c141d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514725,
+            "empire_id":136253041,
+            "locality_id":1259844889,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1259844889,
+    "wof:lastmodified":1537598811,
+    "wof:name":"Hejiagang",
+    "wof:parent_id":890514725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.9439,
+    39.99679,
+    123.9439,
+    39.99679
+],
+  "geometry": {"coordinates":[123.9439,39.99679],"type":"Point"}
+}

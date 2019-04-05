@@ -1,0 +1,64 @@
+{
+  "id": 1209476683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.94795,48.67745,123.94795,48.67745",
+    "geom:latitude":48.67745,
+    "geom:longitude":123.94795,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Yumin",
+    "gn:country_code":"CN",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8444539,
+    "gn:latitude":48.67745,
+    "gn:longitude":123.94795,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Yumin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u88d5\u6c11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8444539
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ee75a6784d6102b42b6b0fab78e33ded",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209476683
+        }
+    ],
+    "wof:id":1209476683,
+    "wof:lastmodified":1537603735,
+    "wof:name":"Yumin",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.94795,
+    48.67745,
+    123.94795,
+    48.67745
+],
+  "geometry": {"coordinates":[123.94795000000001,48.67745],"type":"Point"}
+}

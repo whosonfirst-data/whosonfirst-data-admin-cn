@@ -1,0 +1,64 @@
+{
+  "id": 1209565983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.155,24.2871,101.155,24.2871",
+    "geom:latitude":24.2871,
+    "geom:longitude":101.155,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Yakou",
+    "gn:country_code":"CN",
+    "gn:dem":1870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9989728,
+    "gn:latitude":24.2871,
+    "gn:longitude":101.155,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Yakou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e2b\u53e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9989728
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b1196ffeeee51bb3f4fa0cadd03f1b82",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209565983
+        }
+    ],
+    "wof:id":1209565983,
+    "wof:lastmodified":1537608291,
+    "wof:name":"Yakou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.155,
+    24.2871,
+    101.155,
+    24.2871
+],
+  "geometry": {"coordinates":[101.155,24.2871],"type":"Point"}
+}

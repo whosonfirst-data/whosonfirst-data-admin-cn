@@ -1,0 +1,64 @@
+{
+  "id": 1209038083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7087,44.9176,123.7087,44.9176",
+    "geom:latitude":44.9176,
+    "geom:longitude":123.7087,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zhizicun",
+    "gn:country_code":"CN",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10890582,
+    "gn:latitude":44.9176,
+    "gn:longitude":123.7087,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Zhizicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u77e5\u5b57\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10890582
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"60eb2521ff2ff3330591fb223e7e085a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209038083
+        }
+    ],
+    "wof:id":1209038083,
+    "wof:lastmodified":1537614677,
+    "wof:name":"Zhizicun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7087,
+    44.9176,
+    123.7087,
+    44.9176
+],
+  "geometry": {"coordinates":[123.70869999999999,44.9176],"type":"Point"}
+}

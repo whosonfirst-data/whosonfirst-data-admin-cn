@@ -1,0 +1,64 @@
+{
+  "id": 1209304079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.63833,33.52056,111.63833,33.52056",
+    "geom:latitude":33.52056,
+    "geom:longitude":111.63833,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Zhongping",
+    "gn:country_code":"CN",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1908760,
+    "gn:latitude":33.52056,
+    "gn:longitude":111.63833,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Zhongping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e2d\u576a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1908760
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"41a6c8c595b719d84bfabc3c4c1085f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209304079
+        }
+    ],
+    "wof:id":1209304079,
+    "wof:lastmodified":1537594543,
+    "wof:name":"Zhongping",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.63833,
+    33.52056,
+    111.63833,
+    33.52056
+],
+  "geometry": {"coordinates":[111.63833,33.52056],"type":"Point"}
+}

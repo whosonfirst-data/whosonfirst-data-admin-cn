@@ -1,0 +1,78 @@
+{
+  "id": 1259466313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.905,27.705,88.905,27.705",
+    "geom:latitude":27.705,
+    "geom:longitude":88.905,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Segang",
+    "gn:country_code":"CN",
+    "gn:dem":4418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8056014,
+    "gn:latitude":27.705,
+    "gn:longitude":88.905,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Segang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "S\u00earkang"
+    ],
+    "name:zho_x_preferred":[
+        "Segang"
+    ],
+    "name:zho_x_variant":[
+        "\u8272\u5c97"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8056014
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5252bb8d80773bfdb2e2f2f626e68622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1259466313,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1259466313,
+    "wof:lastmodified":1537602477,
+    "wof:name":"Segang",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.905,
+    27.705,
+    88.905,
+    27.705
+],
+  "geometry": {"coordinates":[88.905,27.705],"type":"Point"}
+}

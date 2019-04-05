@@ -1,0 +1,76 @@
+{
+  "id": 1243548635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.05306,34.79361,113.05306,34.79361",
+    "geom:latitude":34.79361,
+    "geom:longitude":113.05306,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Jiugongxian",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1805201,
+    "gn:latitude":34.79361,
+    "gn:longitude":113.05306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jiugongxian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kung",
+        "Kung-hsien",
+        "Chiu-kung-hsien",
+        "Jiugongxian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669801,
+        102191569,
+        85632695,
+        136253041,
+        890515627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1805201
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ebb0c7846889f3fd702c3d0ab593db62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515627,
+            "empire_id":136253041,
+            "locality_id":1243548635,
+            "region_id":85669801
+        }
+    ],
+    "wof:id":1243548635,
+    "wof:lastmodified":1537593298,
+    "wof:name":"Jiugongxian",
+    "wof:parent_id":890515627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.05306000000002,
+    34.79361,
+    113.05306000000002,
+    34.79361
+],
+  "geometry": {"coordinates":[113.05306000000002,34.79361],"type":"Point"}
+}

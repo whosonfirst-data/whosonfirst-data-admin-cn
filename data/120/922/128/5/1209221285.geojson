@@ -1,0 +1,64 @@
+{
+  "id": 1209221285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.486,25.9561,114.486,25.9561",
+    "geom:latitude":25.9561,
+    "geom:longitude":114.486,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Lianhe",
+    "gn:country_code":"CN",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9614906,
+    "gn:latitude":25.9561,
+    "gn:longitude":114.486,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Lianhe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8054\u5408"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9614906
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8f36fbbf548bd5220a04fdc7b76e996e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209221285
+        }
+    ],
+    "wof:id":1209221285,
+    "wof:lastmodified":1537605972,
+    "wof:name":"Lianhe",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.486,
+    25.9561,
+    114.486,
+    25.9561
+],
+  "geometry": {"coordinates":[114.486,25.9561],"type":"Point"}
+}

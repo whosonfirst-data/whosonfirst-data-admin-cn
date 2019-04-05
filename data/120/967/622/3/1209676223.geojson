@@ -1,0 +1,64 @@
+{
+  "id": 1209676223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.033,25.0394,102.033,25.0394",
+    "geom:latitude":25.0394,
+    "geom:longitude":102.033,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Heilongtan",
+    "gn:country_code":"CN",
+    "gn:dem":1710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10149588,
+    "gn:latitude":25.0394,
+    "gn:longitude":102.033,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Heilongtan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9ed1\u9f99\u6f6d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10149588
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"283a642ff14ffacf4f1f3d3232df4818",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209676223
+        }
+    ],
+    "wof:id":1209676223,
+    "wof:lastmodified":1537610424,
+    "wof:name":"Heilongtan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.033,
+    25.0394,
+    102.033,
+    25.0394
+],
+  "geometry": {"coordinates":[102.033,25.0394],"type":"Point"}
+}

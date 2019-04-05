@@ -1,0 +1,78 @@
+{
+  "id": 1243323453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.65444,23.29243,116.65444,23.29243",
+    "geom:latitude":23.29243,
+    "geom:longitude":116.65444,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Hepu",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8334026,
+    "gn:latitude":23.29243,
+    "gn:longitude":116.65444,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Hepu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hepu Jiedao"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cb3\u6d66"
+    ],
+    "name:zho_x_variant":[
+        "\u6cb3\u6d66\u8857\u9053"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        1108732449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8334026
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1d3f026236231b762b7d31513dadab44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732449,
+            "empire_id":136253041,
+            "locality_id":1243323453,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1243323453,
+    "wof:lastmodified":1537602943,
+    "wof:name":"Hepu",
+    "wof:parent_id":1108732449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.65444,
+    23.29243,
+    116.65444,
+    23.29243
+],
+  "geometry": {"coordinates":[116.65443999999999,23.29243],"type":"Point"}
+}

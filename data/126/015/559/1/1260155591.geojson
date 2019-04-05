@@ -1,0 +1,75 @@
+{
+  "id": 1260155591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.42622,42.10634,123.42622,42.10634",
+    "geom:latitude":42.10634,
+    "geom:longitude":123.42622,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Huanggangzi",
+    "gn:country_code":"CN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7398124,
+    "gn:latitude":42.10634,
+    "gn:longitude":123.42622,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Huanggangzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9ec4\u5c97\u5b50"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ec4\u5c97\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7398124
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2c4c18eb2319425dc58b706730896733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732451,
+            "empire_id":136253041,
+            "locality_id":1260155591,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1260155591,
+    "wof:lastmodified":1537598552,
+    "wof:name":"Huanggangzi",
+    "wof:parent_id":1108732451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.42622,
+    42.10634,
+    123.42622,
+    42.10634
+],
+  "geometry": {"coordinates":[123.42622,42.10634],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226316985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.30394,50.03949,124.30394,50.03949",
+    "geom:latitude":50.03949,
+    "geom:longitude":124.30394,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Chaoyang",
+    "gn:country_code":"CN",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2038105,
+    "gn:latitude":50.03949,
+    "gn:longitude":124.30394,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Chaoyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019ao-yang-ts\u2019un",
+        "Ch\u2019ao-yang-tien",
+        "Chaoyang"
+    ],
+    "name:zho_x_preferred":[
+        "\u671d\u9633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669847,
+        102191569,
+        85632695,
+        136253041,
+        1108732385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2038105
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a91047a408bda7312f48bee56c153916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732385,
+            "empire_id":136253041,
+            "locality_id":1226316985,
+            "region_id":85669847
+        }
+    ],
+    "wof:id":1226316985,
+    "wof:lastmodified":1537595864,
+    "wof:name":"Chaoyang",
+    "wof:parent_id":1108732385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.30394,
+    50.03949,
+    124.30394,
+    50.03949
+],
+  "geometry": {"coordinates":[124.30394,50.03949],"type":"Point"}
+}

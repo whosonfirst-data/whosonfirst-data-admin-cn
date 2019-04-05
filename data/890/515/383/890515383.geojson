@@ -1,0 +1,81 @@
+{
+  "id": 890515383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-10",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.70479,25.43204,101.70479,25.43204",
+    "geom:latitude":25.43204,
+    "geom:longitude":101.70479,
+    "gn:country":"CN",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424781,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "Ch\u2019u-hsiung I Autonomous Chou"
+    ],
+    "name:zho_x_preferred":[
+        "\u695a\u96c4\u5f5d\u65cf\u81ea\u6cbb\u5dde"
+    ],
+    "name:zho_x_variant":[
+        "\u695a\u96c4"
+    ],
+    "qs:name":"\u695a\u96c4\u5f5d\u65cf\u81ea\u6cbb\u5dde",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u4e91\u5357\u7701",
+    "qs:photos":643,
+    "qs:photos_1k":130,
+    "qs:photos_9k":4,
+    "qs:photos_9r":7,
+    "qs:photos_all":1010,
+    "qs:photos_sr":8,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632695,
+        85669791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1814758,
+        "gp:id":26198188,
+        "qs:id":1115381
+    },
+    "wof:country":"CN",
+    "wof:created":1469055905,
+    "wof:geomhash":"ae551eb5ce6d69978bf4f5297596189f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515383,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":890515383,
+    "wof:lastmodified":1505343899,
+    "wof:name":"\u695a\u96c4\u5f5d\u65cf\u81ea\u6cbb\u5dde",
+    "wof:parent_id":85669791,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.70479,
+    25.43204,
+    101.70479,
+    25.43204
+],
+  "geometry": {"coordinates":[101.70479,25.43204],"type":"Point"}
+}

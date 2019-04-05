@@ -1,0 +1,76 @@
+{
+  "id": 1225993553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.95163,31.84856,101.95163,31.84856",
+    "geom:latitude":31.84856,
+    "geom:longitude":101.95163,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Baiwan",
+    "gn:country_code":"CN",
+    "gn:dem":2391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1799131,
+    "gn:latitude":31.84856,
+    "gn:longitude":101.95163,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Baiwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pagbar",
+        "Baiwan"
+    ],
+    "name:zho_x_preferred":[
+        "\u767d\u6e7e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        1108794065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1799131
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4b88276355ff2924bbc71b287eb76b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794065,
+            "empire_id":136253041,
+            "locality_id":1225993553,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1225993553,
+    "wof:lastmodified":1537592914,
+    "wof:name":"Baiwan",
+    "wof:parent_id":1108794065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.95163,
+    31.84856,
+    101.95163,
+    31.84856
+],
+  "geometry": {"coordinates":[101.95162999999999,31.84856],"type":"Point"}
+}

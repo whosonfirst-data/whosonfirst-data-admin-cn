@@ -1,0 +1,64 @@
+{
+  "id": 1209263651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.524,28.691,101.524,28.691",
+    "geom:latitude":28.691,
+    "geom:longitude":101.524,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Shashuping",
+    "gn:country_code":"CN",
+    "gn:dem":3145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10212451,
+    "gn:latitude":28.691,
+    "gn:longitude":101.524,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Shashuping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6749\u6811\u576a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10212451
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b92167fff261b36f46bbad02bf9ebae7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209263651
+        }
+    ],
+    "wof:id":1209263651,
+    "wof:lastmodified":1537611476,
+    "wof:name":"Shashuping",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.524,
+    28.691,
+    101.524,
+    28.691
+],
+  "geometry": {"coordinates":[101.524,28.691],"type":"Point"}
+}

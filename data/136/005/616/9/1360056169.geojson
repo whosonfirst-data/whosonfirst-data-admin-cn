@@ -1,0 +1,79 @@
+{
+  "id": 1360056169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.1594,30.1522,81.1594,30.1522",
+    "geom:latitude":30.1522,
+    "geom:longitude":81.1594,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Lubu",
+    "gn:country_code":"CN",
+    "gn:dem":4316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8756117,
+    "gn:latitude":30.1522,
+    "gn:longitude":81.1594,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Lubu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luobu",
+        "Lubu"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u5e03"
+    ],
+    "name:zho_x_variant":[
+        "\u9c81\u5e03"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8756117
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"37f2a5f03028fb493ad6287e59d64da9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732537,
+            "empire_id":136253041,
+            "locality_id":1360056169,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1360056169,
+    "wof:lastmodified":1537604960,
+    "wof:name":"Lubu",
+    "wof:parent_id":1108732537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.1594,
+    30.1522,
+    81.1594,
+    30.1522
+],
+  "geometry": {"coordinates":[81.15940000000001,30.1522],"type":"Point"}
+}

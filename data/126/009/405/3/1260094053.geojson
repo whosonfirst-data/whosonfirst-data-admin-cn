@@ -1,0 +1,80 @@
+{
+  "id": 1260094053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.5425,30.29194,118.5425,30.29194",
+    "geom:latitude":30.29194,
+    "geom:longitude":118.5425,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jingyang",
+    "gn:country_code":"CN",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1805558,
+    "gn:latitude":30.29194,
+    "gn:longitude":118.5425,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jingyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ching-te",
+        "Jingde",
+        "Ching-te-hsien",
+        "Tsingtehhsien",
+        "Tsingteh",
+        "Jingyang"
+    ],
+    "name:zho_x_preferred":[
+        "\u65cc\u9633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890515063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1805558
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3196b440ebe9875f99de7aedb4051873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515063,
+            "empire_id":136253041,
+            "locality_id":1260094053,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1260094053,
+    "wof:lastmodified":1537593322,
+    "wof:name":"Jingyang",
+    "wof:parent_id":890515063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.5425,
+    30.29194,
+    118.5425,
+    30.29194
+],
+  "geometry": {"coordinates":[118.5425,30.29194],"type":"Point"}
+}

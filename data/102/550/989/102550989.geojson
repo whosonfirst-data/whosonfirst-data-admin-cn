@@ -1,0 +1,65 @@
+{
+  "id": 102550989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.126,36.2475,113.126,36.2475",
+    "geom:latitude":36.2475,
+    "geom:longitude":113.126,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424781,
+        "county_id":26198309,
+        "localadmin_id":12686943,
+        "planet_id":1,
+        "state_id":12578013
+    },
+    "wof:belongsto":[
+        85632695,
+        85669773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512000,
+        "iata:code":"CIH",
+        "icao:code":"ZBCZ",
+        "oa:id":"30830",
+        "wd:id":"Q3756164"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"cc8f42cefffee4f40b62bd01296b0ec4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102550989,
+            "country_id":85632695,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":102550989,
+    "wof:lastmodified":1543856641,
+    "wof:name":"Changzhi Wangzun Airport",
+    "wof:parent_id":85669773,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    113.126,
+    36.2475,
+    113.126,
+    36.2475
+],
+  "geometry": {"coordinates":[113.126,36.2475],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310457319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.68,35.2924,116.68,35.2924",
+    "geom:latitude":35.2924,
+    "geom:longitude":116.68,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Li'erzhuang",
+    "gn:country_code":"CN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9118630,
+    "gn:latitude":35.2924,
+    "gn:longitude":116.68,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Li\u2019erzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Li\u2019erzhuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u674e\u4e8c\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669813,
+        102191569,
+        85632695,
+        136253041,
+        890515875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9118630
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"30fc73dba6e2c3e0c5aaa9ec995c65ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515875,
+            "empire_id":136253041,
+            "locality_id":1310457319,
+            "region_id":85669813
+        }
+    ],
+    "wof:id":1310457319,
+    "wof:lastmodified":1537605283,
+    "wof:name":"Li'erzhuang",
+    "wof:parent_id":890515875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.68,
+    35.2924,
+    116.68,
+    35.2924
+],
+  "geometry": {"coordinates":[116.68000000000001,35.2924],"type":"Point"}
+}

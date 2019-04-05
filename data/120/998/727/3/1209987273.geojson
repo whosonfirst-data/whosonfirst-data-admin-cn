@@ -1,0 +1,78 @@
+{
+  "id": 1209987273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.005,29.905,91.005,29.905",
+    "geom:latitude":29.905,
+    "geom:longitude":91.005,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Taingar",
+    "gn:country_code":"CN",
+    "gn:dem":4471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8078141,
+    "gn:latitude":29.905,
+    "gn:longitude":91.005,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Taingar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Taingar"
+    ],
+    "name:zho_x_preferred":[
+        "Tianga"
+    ],
+    "name:zho_x_variant":[
+        "\u7530\u560e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8078141
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c31aee1771cd6408f8d7d8bfc859c0ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515877,
+            "empire_id":136253041,
+            "locality_id":1209987273,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1209987273,
+    "wof:lastmodified":1537602545,
+    "wof:name":"Taingar",
+    "wof:parent_id":890515877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.005,
+    29.905,
+    91.005,
+    29.905
+],
+  "geometry": {"coordinates":[91.005,29.905],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293548795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.66108,29.53065,104.66108,29.53065",
+    "geom:latitude":29.53065,
+    "geom:longitude":104.66108,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Yanling",
+    "gn:country_code":"CN",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1787143,
+    "gn:latitude":29.53065,
+    "gn:longitude":104.66108,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yanling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wei-y\u00fcan-hsien",
+        "Weiyuan",
+        "Yanling"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e25\u9675"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        1108732369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1787143
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a49af2da2fdca4b15a6e17a1dff179d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732369,
+            "empire_id":136253041,
+            "locality_id":1293548795,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1293548795,
+    "wof:lastmodified":1537592107,
+    "wof:name":"Yanling",
+    "wof:parent_id":1108732369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.66108,
+    29.53065,
+    104.66108,
+    29.53065
+],
+  "geometry": {"coordinates":[104.66108,29.53065],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209377381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.39741,42.82839,123.39741,42.82839",
+    "geom:latitude":42.82839,
+    "geom:longitude":123.39741,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Sanmen Dujia",
+    "gn:country_code":"CN",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7012403,
+    "gn:latitude":42.82839,
+    "gn:longitude":123.39741,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Sanmen Dujia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e09\u95e8\u90fd\u5bb6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7012403
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"55254b5ba41bd586228b28c3844053c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209377381
+        }
+    ],
+    "wof:id":1209377381,
+    "wof:lastmodified":1537597421,
+    "wof:name":"Sanmen Dujia",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.39741,
+    42.82839,
+    123.39741,
+    42.82839
+],
+  "geometry": {"coordinates":[123.39740999999999,42.82839],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 890517085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.48778,36.145,120.48778,36.145",
+    "geom:latitude":36.145,
+    "geom:longitude":120.48778,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":2770,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u67af\u6843"
+    ],
+    "qs:name":"Kutao",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669813,
+        102191569,
+        85632695,
+        136253041,
+        890514775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941535,
+        "gp:id":2167885,
+        "qs:id":137278
+    },
+    "wof:country":"CN",
+    "wof:created":1469055994,
+    "wof:geomhash":"bba728eba609f0e884e321ab3a5e8de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514775,
+            "empire_id":136253041,
+            "locality_id":890517085,
+            "region_id":85669813
+        }
+    ],
+    "wof:id":890517085,
+    "wof:lastmodified":1505343904,
+    "wof:name":"Kutao",
+    "wof:parent_id":890514775,
+    "wof:placetype":"locality",
+    "wof:population":2770,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.48778,
+    36.145,
+    120.48778,
+    36.145
+],
+  "geometry": {"coordinates":[120.48778,36.145],"type":"Point"}
+}

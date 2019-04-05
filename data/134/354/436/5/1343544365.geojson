@@ -1,0 +1,79 @@
+{
+  "id": 1343544365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.903,29.703,89.903,29.703",
+    "geom:latitude":29.703,
+    "geom:longitude":89.903,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sanxiang",
+    "gn:country_code":"CN",
+    "gn:dem":5023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8049899,
+    "gn:latitude":29.703,
+    "gn:longitude":89.903,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Sanxiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Sanxiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u4e61"
+    ],
+    "name:zho_x_variant":[
+        "Qiangnie",
+        "\u5f3a\u6d85"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8049899
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e109a110a6d2bdbde1a7857f283c5415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515877,
+            "empire_id":136253041,
+            "locality_id":1343544365,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1343544365,
+    "wof:lastmodified":1537602467,
+    "wof:name":"Sanxiang",
+    "wof:parent_id":890515877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.90299999999998,
+    29.70300000000001,
+    89.90299999999998,
+    29.70300000000001
+],
+  "geometry": {"coordinates":[89.90299999999998,29.70300000000001],"type":"Point"}
+}

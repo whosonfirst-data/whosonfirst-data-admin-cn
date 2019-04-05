@@ -1,0 +1,64 @@
+{
+  "id": 1209214985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.09596,32.11503,120.09596,32.11503",
+    "geom:latitude":32.11503,
+    "geom:longitude":120.09596,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tongjiang",
+    "gn:country_code":"CN",
+    "gn:dem":-5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8361117,
+    "gn:latitude":32.11503,
+    "gn:longitude":120.09596,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Tongjiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u901a\u6c5f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8361117
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"db2a7337dd6bd4bf0bbf242c675c5a69",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209214985
+        }
+    ],
+    "wof:id":1209214985,
+    "wof:lastmodified":1537603009,
+    "wof:name":"Tongjiang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.09596,
+    32.11503,
+    120.09596,
+    32.11503
+],
+  "geometry": {"coordinates":[120.09596000000001,32.11503],"type":"Point"}
+}

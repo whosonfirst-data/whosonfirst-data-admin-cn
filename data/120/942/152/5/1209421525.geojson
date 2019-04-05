@@ -1,0 +1,64 @@
+{
+  "id": 1209421525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.491,26.0743,115.491,26.0743",
+    "geom:latitude":26.0743,
+    "geom:longitude":115.491,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shangying",
+    "gn:country_code":"CN",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11048084,
+    "gn:latitude":26.0743,
+    "gn:longitude":115.491,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Shangying",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e0a\u8425"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11048084
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"821cb03a547f4411c040bd4a9485c29c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209421525
+        }
+    ],
+    "wof:id":1209421525,
+    "wof:lastmodified":1537615177,
+    "wof:name":"Shangying",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.491,
+    26.0743,
+    115.491,
+    26.0743
+],
+  "geometry": {"coordinates":[115.491,26.0743],"type":"Point"}
+}

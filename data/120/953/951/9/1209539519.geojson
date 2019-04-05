@@ -1,0 +1,64 @@
+{
+  "id": 1209539519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.86991,32.00564,119.86991,32.00564",
+    "geom:latitude":32.00564,
+    "geom:longitude":119.86991,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tanjia",
+    "gn:country_code":"CN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8265003,
+    "gn:latitude":32.00564,
+    "gn:longitude":119.86991,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Tanjia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8c2d\u5bb6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8265003
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"65dc925009b58b64ffec8f6da2b3c505",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209539519
+        }
+    ],
+    "wof:id":1209539519,
+    "wof:lastmodified":1537602837,
+    "wof:name":"Tanjia",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.86991,
+    32.00564,
+    119.86991,
+    32.00564
+],
+  "geometry": {"coordinates":[119.86991,32.00564],"type":"Point"}
+}

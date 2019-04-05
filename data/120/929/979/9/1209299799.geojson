@@ -1,0 +1,64 @@
+{
+  "id": 1209299799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.39267,46.44288,123.39267,46.44288",
+    "geom:latitude":46.44288,
+    "geom:longitude":123.39267,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Fuxingcun",
+    "gn:country_code":"CN",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11581706,
+    "gn:latitude":46.44288,
+    "gn:longitude":123.39267,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Fuxingcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u590d\u5174\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11581706
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"75a323e128d97de2d492fa79866991e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209299799
+        }
+    ],
+    "wof:id":1209299799,
+    "wof:lastmodified":1537618089,
+    "wof:name":"Fuxingcun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.39267,
+    46.44288,
+    123.39267,
+    46.44288
+],
+  "geometry": {"coordinates":[123.39267,46.44288],"type":"Point"}
+}

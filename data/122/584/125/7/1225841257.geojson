@@ -1,0 +1,78 @@
+{
+  "id": 1225841257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.4153,46.33182,125.4153,46.33182",
+    "geom:latitude":46.33182,
+    "geom:longitude":125.4153,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Yangcao",
+    "gn:country_code":"CN",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2033521,
+    "gn:latitude":46.33182,
+    "gn:longitude":125.4153,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Yangcao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yangcao Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f8a\u8349"
+    ],
+    "name:zho_x_variant":[
+        "\u7f8a\u8349\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890514509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2033521
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"303e32da2b010b44fc26232b2003e270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514509,
+            "empire_id":136253041,
+            "locality_id":1225841257,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1225841257,
+    "wof:lastmodified":1537595588,
+    "wof:name":"Yangcao",
+    "wof:parent_id":890514509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.4153,
+    46.33182,
+    125.4153,
+    46.33182
+],
+  "geometry": {"coordinates":[125.4153,46.33182],"type":"Point"}
+}

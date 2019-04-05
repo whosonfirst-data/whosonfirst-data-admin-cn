@@ -1,0 +1,80 @@
+{
+  "id": 1260360251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.304,29.204,91.304,29.204",
+    "geom:latitude":29.204,
+    "geom:longitude":91.304,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zhemu",
+    "gn:country_code":"CN",
+    "gn:dem":3798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8067083,
+    "gn:latitude":29.204,
+    "gn:longitude":91.304,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zhemu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Ch\u00eama"
+    ],
+    "name:zho_x_preferred":[
+        "Zhemu"
+    ],
+    "name:zho_x_variant":[
+        "\u6298\u6728",
+        "Zhatang Qu",
+        "\u624e\u5858\u533a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108794057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8067083
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6cafd51721f055b889da26fa63e63095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794057,
+            "empire_id":136253041,
+            "locality_id":1260360251,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1260360251,
+    "wof:lastmodified":1537602534,
+    "wof:name":"Zhemu",
+    "wof:parent_id":1108794057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.304,
+    29.204,
+    91.304,
+    29.204
+],
+  "geometry": {"coordinates":[91.304,29.204],"type":"Point"}
+}

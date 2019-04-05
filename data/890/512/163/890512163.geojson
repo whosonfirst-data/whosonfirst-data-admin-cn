@@ -1,0 +1,68 @@
+{
+  "id": 890512163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.91861,27.88694,109.91861,27.88694",
+    "geom:latitude":27.88694,
+    "geom:longitude":109.91861,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":1660,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Lanli",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890514349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1804472,
+        "gp:id":2142090,
+        "qs:id":89173
+    },
+    "wof:country":"CN",
+    "wof:created":1469055760,
+    "wof:geomhash":"076ac80cedb14a9c469aa5b51e91ac1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514349,
+            "empire_id":136253041,
+            "locality_id":890512163,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":890512163,
+    "wof:lastmodified":1505343886,
+    "wof:name":"Lanli",
+    "wof:parent_id":890514349,
+    "wof:placetype":"locality",
+    "wof:population":1660,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.91861,
+    27.88694,
+    109.91861,
+    27.88694
+],
+  "geometry": {"coordinates":[109.91861,27.88694],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209397251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.724,35.331,106.724,35.331",
+    "geom:latitude":35.331,
+    "geom:longitude":106.724,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Jianzigou",
+    "gn:country_code":"CN",
+    "gn:dem":1828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10740143,
+    "gn:latitude":35.331,
+    "gn:longitude":106.724,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Jianzigou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u526a\u5b50\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10740143
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ed19cb83d1f0a401eda913463144b1f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209397251
+        }
+    ],
+    "wof:id":1209397251,
+    "wof:lastmodified":1537614283,
+    "wof:name":"Jianzigou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.724,
+    35.331,
+    106.724,
+    35.331
+],
+  "geometry": {"coordinates":[106.724,35.331],"type":"Point"}
+}

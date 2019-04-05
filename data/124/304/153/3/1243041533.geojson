@@ -1,0 +1,80 @@
+{
+  "id": 1243041533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.5,32.9,92.5,32.9",
+    "geom:latitude":32.9,
+    "geom:longitude":92.5,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Marrong",
+    "gn:country_code":"CN",
+    "gn:dem":5029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8045604,
+    "gn:latitude":32.9,
+    "gn:longitude":92.5,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Marrong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Marrong"
+    ],
+    "name:zho_x_preferred":[
+        "Marong"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u7ed2",
+        "Tingsubu",
+        "\u4ead\u82cf\u5e03"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669715,
+        102191569,
+        85632695,
+        136253041,
+        1108732461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8045604
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"293287d55e368e39fe2edc9248652dc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732461,
+            "empire_id":136253041,
+            "locality_id":1243041533,
+            "region_id":85669715
+        }
+    ],
+    "wof:id":1243041533,
+    "wof:lastmodified":1537602385,
+    "wof:name":"Marrong",
+    "wof:parent_id":1108732461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.5,
+    32.9,
+    92.5,
+    32.9
+],
+  "geometry": {"coordinates":[92.5,32.9],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209520759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.24737,32.14908,120.24737,32.14908",
+    "geom:latitude":32.14908,
+    "geom:longitude":120.24737,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Beixiao",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8361023,
+    "gn:latitude":32.14908,
+    "gn:longitude":120.24737,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Beixiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5317\u8096"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8361023
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6a5d0f84b79367cdfcc16d98a2933fb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209520759
+        }
+    ],
+    "wof:id":1209520759,
+    "wof:lastmodified":1537603007,
+    "wof:name":"Beixiao",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.24737,
+    32.14908,
+    120.24737,
+    32.14908
+],
+  "geometry": {"coordinates":[120.24737,32.14908],"type":"Point"}
+}

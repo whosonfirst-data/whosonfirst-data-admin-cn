@@ -1,0 +1,64 @@
+{
+  "id": 1209284549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.13,34.1556,105.13,34.1556",
+    "geom:latitude":34.1556,
+    "geom:longitude":105.13,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Hanyang",
+    "gn:country_code":"CN",
+    "gn:dem":1401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10429953,
+    "gn:latitude":34.1556,
+    "gn:longitude":105.13,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Hanyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6c49\u9633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10429953
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6afecdf8bacd1ccd081090c77d2c5913",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209284549
+        }
+    ],
+    "wof:id":1209284549,
+    "wof:lastmodified":1537613597,
+    "wof:name":"Hanyang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.13,
+    34.1556,
+    105.13,
+    34.1556
+],
+  "geometry": {"coordinates":[105.13,34.1556],"type":"Point"}
+}

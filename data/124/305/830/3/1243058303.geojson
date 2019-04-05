@@ -1,0 +1,78 @@
+{
+  "id": 1243058303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.12519,46.06541,129.12519,46.06541",
+    "geom:latitude":46.06541,
+    "geom:longitude":129.12519,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Xiangshun",
+    "gn:country_code":"CN",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8523439,
+    "gn:latitude":46.06541,
+    "gn:longitude":129.12519,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Xiangshun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xiangshun Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u7965\u987a"
+    ],
+    "name:zho_x_variant":[
+        "\u7965\u987a\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890516235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8523439
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b9173f276037ef34ac7033c6fbf2e1b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516235,
+            "empire_id":136253041,
+            "locality_id":1243058303,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1243058303,
+    "wof:lastmodified":1537604258,
+    "wof:name":"Xiangshun",
+    "wof:parent_id":890516235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.12519,
+    46.06541,
+    129.12519,
+    46.06541
+],
+  "geometry": {"coordinates":[129.12519,46.06541],"type":"Point"}
+}

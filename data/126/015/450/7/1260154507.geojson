@@ -1,0 +1,80 @@
+{
+  "id": 1260154507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.201,34.101,92.201,34.101",
+    "geom:latitude":34.101,
+    "geom:longitude":92.201,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Garqu",
+    "gn:country_code":"CN",
+    "gn:dem":5100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":7930211,
+    "gn:latitude":34.101,
+    "gn:longitude":92.201,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Garqu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Garqu"
+    ],
+    "name:zho_x_preferred":[
+        "Gaqu"
+    ],
+    "name:zho_x_variant":[
+        "\u560e\u66f2",
+        "Chasugana",
+        "\u5bdf\u82cf\u5676\u90a3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669715,
+        102191569,
+        85632695,
+        136253041,
+        1108732461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7930211
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"53b8c70101f29633cd94f927032424f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732461,
+            "empire_id":136253041,
+            "locality_id":1260154507,
+            "region_id":85669715
+        }
+    ],
+    "wof:id":1260154507,
+    "wof:lastmodified":1537602080,
+    "wof:name":"Garqu",
+    "wof:parent_id":1108732461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.201,
+    34.101,
+    92.201,
+    34.101
+],
+  "geometry": {"coordinates":[92.20099999999999,34.101],"type":"Point"}
+}

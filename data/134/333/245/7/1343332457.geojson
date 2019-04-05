@@ -1,0 +1,78 @@
+{
+  "id": 1343332457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.64287,28.96624,96.64287,28.96624",
+    "geom:latitude":28.96624,
+    "geom:longitude":96.64287,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bangdoi",
+    "gn:country_code":"CN",
+    "gn:dem":2370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7898299,
+    "gn:latitude":28.96624,
+    "gn:longitude":96.64287,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Bangdoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Bangdoi"
+    ],
+    "name:zho_x_preferred":[
+        "Bendui"
+    ],
+    "name:zho_x_variant":[
+        "\u672c\u5806"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7898299
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"33a3c29995d5cdefe6374c5cc1c6f1ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515951,
+            "empire_id":136253041,
+            "locality_id":1343332457,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1343332457,
+    "wof:lastmodified":1537601879,
+    "wof:name":"Bangdoi",
+    "wof:parent_id":890515951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.64287,
+    28.96624000000001,
+    96.64287,
+    28.96624000000001
+],
+  "geometry": {"coordinates":[96.64287,28.96624000000001],"type":"Point"}
+}

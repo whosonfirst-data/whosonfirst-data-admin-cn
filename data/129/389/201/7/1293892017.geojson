@@ -1,0 +1,77 @@
+{
+  "id": 1293892017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.91083,27.77472,118.91083,27.77472",
+    "geom:latitude":27.77472,
+    "geom:longitude":118.91083,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Baiduyan",
+    "gn:country_code":"CN",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1817741,
+    "gn:latitude":27.77472,
+    "gn:longitude":118.91083,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Baiduyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baidukou",
+        "Baiduyuan",
+        "Baiduyan"
+    ],
+    "name:zho_x_preferred":[
+        "\u67cf\u6e21\u6cbf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1817741
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"558cd2846696aebe9f97c9cae33180aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516399,
+            "empire_id":136253041,
+            "locality_id":1293892017,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1293892017,
+    "wof:lastmodified":1537594092,
+    "wof:name":"Baiduyan",
+    "wof:parent_id":890516399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.91083,
+    27.77472,
+    118.91083,
+    27.77472
+],
+  "geometry": {"coordinates":[118.91083,27.77472],"type":"Point"}
+}

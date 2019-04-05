@@ -1,0 +1,78 @@
+{
+  "id": 1343544447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.7,30.3,97.7,30.3",
+    "geom:latitude":30.3,
+    "geom:longitude":97.7,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Lajia",
+    "gn:country_code":"CN",
+    "gn:dem":5071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8042487,
+    "gn:latitude":30.3,
+    "gn:longitude":97.7,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Lajia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "La\u2019gyab"
+    ],
+    "name:zho_x_preferred":[
+        "Lajia"
+    ],
+    "name:zho_x_variant":[
+        "\u62c9\u52a0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8042487
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8ad809635cf9e2835f3800e32ceca05b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1343544447,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1343544447,
+    "wof:lastmodified":1537602362,
+    "wof:name":"Lajia",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.7,
+    30.3,
+    97.7,
+    30.3
+],
+  "geometry": {"coordinates":[97.7,30.3],"type":"Point"}
+}

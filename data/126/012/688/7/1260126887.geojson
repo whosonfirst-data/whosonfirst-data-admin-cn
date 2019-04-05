@@ -1,0 +1,77 @@
+{
+  "id": 1260126887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.09076,27.88013,99.09076,27.88013",
+    "geom:latitude":27.88013,
+    "geom:longitude":99.09076,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Badi",
+    "gn:country_code":"CN",
+    "gn:dem":3930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":6643968,
+    "gn:latitude":27.88013,
+    "gn:longitude":99.09076,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Badi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badi Xiang",
+        "\u5df4\u8fea\u4e61",
+        "Badi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u8fea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        1108732505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6643968
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"10be5336cb70a7520a0f4740a78f8dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732505,
+            "empire_id":136253041,
+            "locality_id":1260126887,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1260126887,
+    "wof:lastmodified":1537596078,
+    "wof:name":"Badi",
+    "wof:parent_id":1108732505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.09076,
+    27.88013,
+    99.09076,
+    27.88013
+],
+  "geometry": {"coordinates":[99.09076,27.88013],"type":"Point"}
+}

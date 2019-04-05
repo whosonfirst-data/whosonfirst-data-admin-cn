@@ -1,0 +1,64 @@
+{
+  "id": 1209300483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.07779,39.25358,76.07779,39.25358",
+    "geom:latitude":39.25358,
+    "geom:longitude":76.07779,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Qilian",
+    "gn:country_code":"CN",
+    "gn:dem":1277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":9628858,
+    "gn:latitude":39.25358,
+    "gn:longitude":76.07779,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Qilian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e03\u8fde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9628858
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7f09030a1bdd579d76d39bfcf8532722",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209300483
+        }
+    ],
+    "wof:id":1209300483,
+    "wof:lastmodified":1537606069,
+    "wof:name":"Qilian",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.07779000000002,
+    39.25358,
+    76.07779000000002,
+    39.25358
+],
+  "geometry": {"coordinates":[76.07779000000002,39.25358],"type":"Point"}
+}

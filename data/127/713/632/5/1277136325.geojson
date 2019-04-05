@@ -1,0 +1,75 @@
+{
+  "id": 1277136325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.29494,30.94404,102.29494,30.94404",
+    "geom:latitude":30.94404,
+    "geom:longitude":102.29494,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"An'anqiao",
+    "gn:country_code":"CN",
+    "gn:dem":3299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6999108,
+    "gn:latitude":30.94404,
+    "gn:longitude":102.29494,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"An\u2019anqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5b89\u5b89\u6865"
+    ],
+    "name:zho_x_variant":[
+        "An\u2019anqiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        1108794065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6999108
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f3cd5f21d43d19d6f1132b7902f4690b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794065,
+            "empire_id":136253041,
+            "locality_id":1277136325,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1277136325,
+    "wof:lastmodified":1537597292,
+    "wof:name":"An'anqiao",
+    "wof:parent_id":1108794065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.29494,
+    30.94404,
+    102.29494,
+    30.94404
+],
+  "geometry": {"coordinates":[102.29494,30.94404],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209575037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.314,30.5505,103.314,30.5505",
+    "geom:latitude":30.5505,
+    "geom:longitude":103.314,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Yanghepian",
+    "gn:country_code":"CN",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10195693,
+    "gn:latitude":30.5505,
+    "gn:longitude":103.314,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Yanghepian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6768\u6cb3\u7247"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10195693
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"26792454536101c127241e88a80102a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209575037
+        }
+    ],
+    "wof:id":1209575037,
+    "wof:lastmodified":1537611143,
+    "wof:name":"Yanghepian",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.314,
+    30.5505,
+    103.314,
+    30.5505
+],
+  "geometry": {"coordinates":[103.31399999999999,30.5505],"type":"Point"}
+}

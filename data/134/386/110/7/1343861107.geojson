@@ -1,0 +1,78 @@
+{
+  "id": 1343861107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.19891,30.26367,121.19891,30.26367",
+    "geom:latitude":30.26367,
+    "geom:longitude":121.19891,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cangtiancun",
+    "gn:country_code":"CN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1881424,
+    "gn:latitude":30.26367,
+    "gn:longitude":121.19891,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Cangtiancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-chieh",
+        "Cangtian",
+        "\u6ca7\u7530",
+        "Cangtiancun"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ca7\u7530\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1881424
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c244c300b1e9bf3d6602ce3f1e2eb5c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516553,
+            "empire_id":136253041,
+            "locality_id":1343861107,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1343861107,
+    "wof:lastmodified":1537594136,
+    "wof:name":"Cangtiancun",
+    "wof:parent_id":890516553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.19891,
+    30.26367,
+    121.19891,
+    30.26367
+],
+  "geometry": {"coordinates":[121.19891,30.26367],"type":"Point"}
+}

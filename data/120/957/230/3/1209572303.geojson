@@ -1,0 +1,64 @@
+{
+  "id": 1209572303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.13435,34.13499,109.13435,34.13499",
+    "geom:latitude":34.13499,
+    "geom:longitude":109.13435,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Zhangjiapocun",
+    "gn:country_code":"CN",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11403397,
+    "gn:latitude":34.13499,
+    "gn:longitude":109.13435,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Zhangjiapocun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5f20\u5bb6\u5761\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11403397
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1e0a99b159d2953f9af6c8e8523410ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209572303
+        }
+    ],
+    "wof:id":1209572303,
+    "wof:lastmodified":1537616346,
+    "wof:name":"Zhangjiapocun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.13435,
+    34.13499,
+    109.13435,
+    34.13499
+],
+  "geometry": {"coordinates":[109.13435,34.13499],"type":"Point"}
+}

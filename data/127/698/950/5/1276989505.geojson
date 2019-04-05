@@ -1,0 +1,78 @@
+{
+  "id": 1276989505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.95649,30.89811,120.95649,30.89811",
+    "geom:latitude":30.89811,
+    "geom:longitude":120.95649,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Lizecun",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1904480,
+    "gn:latitude":30.89811,
+    "gn:longitude":120.95649,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Lizecun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Li-tse",
+        "Lize",
+        "\u91cc\u6cfd",
+        "Lizecun"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u6cfd\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890514635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1904480
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"cecff5654cbcad896bc8dccb4cbf31bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514635,
+            "empire_id":136253041,
+            "locality_id":1276989505,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1276989505,
+    "wof:lastmodified":1537594503,
+    "wof:name":"Lizecun",
+    "wof:parent_id":890514635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.95649,
+    30.89811,
+    120.95649,
+    30.89811
+],
+  "geometry": {"coordinates":[120.95649,30.89811],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276343851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.45735,27.40537,120.45735,27.40537",
+    "geom:latitude":27.40537,
+    "geom:longitude":120.45735,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Daxinping",
+    "gn:country_code":"CN",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1893904,
+    "gn:latitude":27.40537,
+    "gn:longitude":120.45735,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Daxinping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daxinyang",
+        "Daxinping"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u5fc3\u576a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890514289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1893904
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f74604155da0456160fbeb7a4dc5cfc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514289,
+            "empire_id":136253041,
+            "locality_id":1276343851,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1276343851,
+    "wof:lastmodified":1537594325,
+    "wof:name":"Daxinping",
+    "wof:parent_id":890514289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.45735,
+    27.40537,
+    120.45735,
+    27.40537
+],
+  "geometry": {"coordinates":[120.45735000000001,27.40537],"type":"Point"}
+}

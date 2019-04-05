@@ -1,0 +1,83 @@
+{
+  "id": 1310377551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.09765,23.93796,108.09765,23.93796",
+    "geom:latitude":23.93796,
+    "geom:longitude":108.09765,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Anyang",
+    "gn:country_code":"CN",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1817946,
+    "gn:latitude":23.93796,
+    "gn:longitude":108.09765,
+    "gn:modification_date":"2013-10-05",
+    "gn:name":"Anyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tu-an-hsien",
+        "Tu-an",
+        "Tu-an-yao-tsu-tzu-chih-hsien",
+        "Anyang",
+        "Anyang Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "Du\u2019an"
+    ],
+    "name:zho_x_variant":[
+        "\u5b89\u9633",
+        "\u5b89\u9633\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669717,
+        102191569,
+        85632695,
+        136253041,
+        1108732453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1817946
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"17b3a2c07a88d4200f6dcd61856d34ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732453,
+            "empire_id":136253041,
+            "locality_id":1310377551,
+            "region_id":85669717
+        }
+    ],
+    "wof:id":1310377551,
+    "wof:lastmodified":1537594106,
+    "wof:name":"Anyang",
+    "wof:parent_id":1108732453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.09765,
+    23.93796,
+    108.09765,
+    23.93796
+],
+  "geometry": {"coordinates":[108.09765,23.93796],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 890514833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.81979,43.50075,124.81979,43.50075",
+    "geom:latitude":43.50075,
+    "geom:longitude":124.81979,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":140909,
+    "gp:adm0":23424781,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u043d\u0447\u0436\u0443\u043b\u0438\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Huai-to-hsien"
+    ],
+    "qs:name":"\u516c\u4e3b\u5cad",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u5409\u6797\u7701",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669843,
+        102191569,
+        85632695,
+        136253041,
+        890514217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2037222,
+        "gp:id":2138126,
+        "qs:id":970534
+    },
+    "wof:country":"CN",
+    "wof:created":1469055879,
+    "wof:geomhash":"361709ea3fda388bb9067adb2dc52e8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514217,
+            "empire_id":136253041,
+            "locality_id":890514833,
+            "region_id":85669843
+        }
+    ],
+    "wof:id":890514833,
+    "wof:lastmodified":1505343898,
+    "wof:name":"\u516c\u4e3b\u5cad",
+    "wof:parent_id":890514217,
+    "wof:placetype":"locality",
+    "wof:population":140909,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.81979,
+    43.50075,
+    124.81979,
+    43.50075
+],
+  "geometry": {"coordinates":[124.81979,43.50075],"type":"Point"}
+}

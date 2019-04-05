@@ -1,0 +1,77 @@
+{
+  "id": 1360233973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.19588,31.34355,104.19588,31.34355",
+    "geom:latitude":31.34355,
+    "geom:longitude":104.19588,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Jiannan",
+    "gn:country_code":"CN",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1800624,
+    "gn:latitude":31.34355,
+    "gn:longitude":104.19588,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jiannan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mien-chu",
+        "Myan\u2019chzhu",
+        "Mien-chu-hsien",
+        "Mianzhu",
+        "Jiannan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890515169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1800624,
+        "wk:page":"Mianzhu"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bda244385290ad004da919ac2af2d4f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515169,
+            "empire_id":136253041,
+            "locality_id":1360233973,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1360233973,
+    "wof:lastmodified":1537592998,
+    "wof:name":"Jiannan",
+    "wof:parent_id":890515169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.19588,
+    31.34355,
+    104.19588,
+    31.34355
+],
+  "geometry": {"coordinates":[104.19588,31.34355],"type":"Point"}
+}

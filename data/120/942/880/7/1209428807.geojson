@@ -1,0 +1,64 @@
+{
+  "id": 1209428807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.82605,31.23737,116.82605,31.23737",
+    "geom:latitude":31.23737,
+    "geom:longitude":116.82605,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yangshancun",
+    "gn:country_code":"CN",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10635366,
+    "gn:latitude":31.23737,
+    "gn:longitude":116.82605,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Yangshancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9633\u5c71\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10635366
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"679f25f24d540eaf95db462df3bba97d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209428807
+        }
+    ],
+    "wof:id":1209428807,
+    "wof:lastmodified":1537613835,
+    "wof:name":"Yangshancun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.82605,
+    31.23737,
+    116.82605,
+    31.23737
+],
+  "geometry": {"coordinates":[116.82605,31.23737],"type":"Point"}
+}

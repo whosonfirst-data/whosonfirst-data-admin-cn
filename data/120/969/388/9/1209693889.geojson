@@ -1,0 +1,64 @@
+{
+  "id": 1209693889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.90507,28.40778,110.90507,28.40778",
+    "geom:latitude":28.40778,
+    "geom:longitude":110.90507,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nanxi",
+    "gn:country_code":"CN",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10411936,
+    "gn:latitude":28.40778,
+    "gn:longitude":110.90507,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Nanxi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5357\u6eaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10411936
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b40883a09bed6d45d7a2e47d99e0d0ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209693889
+        }
+    ],
+    "wof:id":1209693889,
+    "wof:lastmodified":1537613160,
+    "wof:name":"Nanxi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.90507,
+    28.40778,
+    110.90507,
+    28.40778
+],
+  "geometry": {"coordinates":[110.90506999999999,28.40778],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209539389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.852,34.4052,116.852,34.4052",
+    "geom:latitude":34.4052,
+    "geom:longitude":116.852,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhangji",
+    "gn:country_code":"CN",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11089467,
+    "gn:latitude":34.4052,
+    "gn:longitude":116.852,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Zhangji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5f20\u96c6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11089467
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"14e3775a009fabe9db1569a1579540ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209539389
+        }
+    ],
+    "wof:id":1209539389,
+    "wof:lastmodified":1537615331,
+    "wof:name":"Zhangji",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.852,
+    34.4052,
+    116.852,
+    34.4052
+],
+  "geometry": {"coordinates":[116.852,34.4052],"type":"Point"}
+}

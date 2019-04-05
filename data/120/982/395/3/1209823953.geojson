@@ -1,0 +1,77 @@
+{
+  "id": 1209823953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.02987,28.46868,121.02987,28.46868",
+    "geom:latitude":28.46868,
+    "geom:longitude":121.02987,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gaoyucun",
+    "gn:country_code":"CN",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892917,
+    "gn:latitude":28.46868,
+    "gn:longitude":121.02987,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Gaoyucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kao-yu-tsun",
+        "Gaoyu",
+        "Gaoyucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ad8\u4f59\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890514289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892917
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d5fc4e7ad915c99712aa854e10d95ff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514289,
+            "empire_id":136253041,
+            "locality_id":1209823953,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1209823953,
+    "wof:lastmodified":1537594285,
+    "wof:name":"Gaoyucun",
+    "wof:parent_id":890514289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.02987,
+    28.46868,
+    121.02987,
+    28.46868
+],
+  "geometry": {"coordinates":[121.02987,28.46868],"type":"Point"}
+}

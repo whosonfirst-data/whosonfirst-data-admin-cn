@@ -1,0 +1,79 @@
+{
+  "id": 1293487583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.79852,33.86609,118.79852,33.86609",
+    "geom:latitude":33.86609,
+    "geom:longitude":118.79852,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Weixucun",
+    "gn:country_code":"CN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1549248,
+    "gn:latitude":33.86609,
+    "gn:longitude":118.79852,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Weixucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Weixu",
+        "Weixucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u9b4f\u5729"
+    ],
+    "name:zho_x_variant":[
+        "\u9b4f\u5729\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890512205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1549248
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"41d3e27fee1661cd0c1c55ed1a88b92a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512205,
+            "empire_id":136253041,
+            "locality_id":1293487583,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1293487583,
+    "wof:lastmodified":1537591693,
+    "wof:name":"Weixucun",
+    "wof:parent_id":890512205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.79852,
+    33.86609,
+    118.79852,
+    33.86609
+],
+  "geometry": {"coordinates":[118.79852,33.86609],"type":"Point"}
+}

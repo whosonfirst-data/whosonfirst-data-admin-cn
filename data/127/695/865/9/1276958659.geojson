@@ -1,0 +1,79 @@
+{
+  "id": 1276958659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.54008,30.67971,114.54008,30.67971",
+    "geom:latitude":30.67971,
+    "geom:longitude":114.54008,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Daganggou",
+    "gn:country_code":"CN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7875209,
+    "gn:latitude":30.67971,
+    "gn:longitude":114.54008,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Daganggou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_historical":[
+        "Shako Village"
+    ],
+    "name:eng_x_preferred":[
+        "Shako Village"
+    ],
+    "name:und_x_variant":[
+        "\u5927\u6e2f\u6c9f",
+        "Shakau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        890516557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7875209
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2c7cf98373472b17d3b05cde3bec40df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516557,
+            "empire_id":136253041,
+            "locality_id":1276958659,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1276958659,
+    "wof:lastmodified":1537601735,
+    "wof:name":"Daganggou",
+    "wof:parent_id":890516557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.54008,
+    30.67971,
+    114.54008,
+    30.67971
+],
+  "geometry": {"coordinates":[114.54008,30.67971],"type":"Point"}
+}

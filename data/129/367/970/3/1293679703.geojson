@@ -1,0 +1,80 @@
+{
+  "id": 1293679703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.51228,45.99923,130.51228,45.99923",
+    "geom:latitude":45.99923,
+    "geom:longitude":130.51228,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Woken",
+    "gn:country_code":"CN",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2034155,
+    "gn:latitude":45.99923,
+    "gn:longitude":130.51228,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Woken",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Woken Zhen",
+        "Qijia"
+    ],
+    "name:zho_x_preferred":[
+        "\u502d\u80af"
+    ],
+    "name:zho_x_variant":[
+        "\u502d\u80af\u9547",
+        "\u7941\u5bb6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890515829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2034155
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4204ebb7143e412b1eee931104df68c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515829,
+            "empire_id":136253041,
+            "locality_id":1293679703,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1293679703,
+    "wof:lastmodified":1537595630,
+    "wof:name":"Woken",
+    "wof:parent_id":890515829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.51228,
+    45.99923,
+    130.51228,
+    45.99923
+],
+  "geometry": {"coordinates":[130.51228,45.99923],"type":"Point"}
+}

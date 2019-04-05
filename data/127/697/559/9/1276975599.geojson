@@ -1,0 +1,77 @@
+{
+  "id": 1276975599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.00028,33.35028,113.00028,33.35028",
+    "geom:latitude":33.35028,
+    "geom:longitude":113.00028,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Yangjicun",
+    "gn:country_code":"CN",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1787570,
+    "gn:latitude":33.35028,
+    "gn:longitude":113.00028,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Yangjicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yang-chi",
+        "Yangji",
+        "Yangjicun"
+    ],
+    "name:zho_x_preferred":[
+        "\u6768\u96c6\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669801,
+        102191569,
+        85632695,
+        136253041,
+        890516339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1787570
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"13f63177c39b65a474830ad688508776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516339,
+            "empire_id":136253041,
+            "locality_id":1276975599,
+            "region_id":85669801
+        }
+    ],
+    "wof:id":1276975599,
+    "wof:lastmodified":1537592134,
+    "wof:name":"Yangjicun",
+    "wof:parent_id":890516339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.00028,
+    33.35028,
+    113.00028,
+    33.35028
+],
+  "geometry": {"coordinates":[113.00028,33.35028],"type":"Point"}
+}

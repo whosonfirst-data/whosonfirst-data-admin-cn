@@ -1,0 +1,79 @@
+{
+  "id": 1276851835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.35028,28.5825,112.35028,28.5825",
+    "geom:latitude":28.5825,
+    "geom:longitude":112.35028,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Heshan",
+    "gn:country_code":"CN",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1927489,
+    "gn:latitude":28.5825,
+    "gn:longitude":112.35028,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Heshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heshan Qu",
+        "Heshan"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "\u8d6b\u5c71\u533a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890516477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1927489
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"63ad5322d22be2228270d4329bec8c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516477,
+            "empire_id":136253041,
+            "locality_id":1276851835,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1276851835,
+    "wof:lastmodified":1537594962,
+    "wof:name":"Heshan",
+    "wof:parent_id":890516477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.35028,
+    28.5825,
+    112.35028,
+    28.5825
+],
+  "geometry": {"coordinates":[112.35028,28.5825],"type":"Point"}
+}

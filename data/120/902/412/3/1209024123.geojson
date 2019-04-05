@@ -1,0 +1,64 @@
+{
+  "id": 1209024123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.528,38.2585,116.528,38.2585",
+    "geom:latitude":38.2585,
+    "geom:longitude":116.528,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Beicun",
+    "gn:country_code":"CN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9630891,
+    "gn:latitude":38.2585,
+    "gn:longitude":116.528,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Beicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5317\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9630891
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6e50d24e72fddaa38d1c8117f94b4ed9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209024123
+        }
+    ],
+    "wof:id":1209024123,
+    "wof:lastmodified":1537606125,
+    "wof:name":"Beicun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.528,
+    38.2585,
+    116.528,
+    38.2585
+],
+  "geometry": {"coordinates":[116.52800000000001,38.2585],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1327105289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.68333,30.56667,96.68333,30.56667",
+    "geom:latitude":30.56667,
+    "geom:longitude":96.68333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tanggar",
+    "gn:country_code":"CN",
+    "gn:dem":4643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":1279930,
+    "gn:latitude":30.56667,
+    "gn:longitude":96.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tanggar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Tanggar"
+    ],
+    "name:zho_x_preferred":[
+        "Tongka"
+    ],
+    "name:zho_x_variant":[
+        "\u540c\u5361"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1279930
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9ddc96d85c3ec3af5cda006d88ff3f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1327105289,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1327105289,
+    "wof:lastmodified":1537591409,
+    "wof:name":"Tanggar",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.68333,
+    30.56667,
+    96.68333,
+    30.56667
+],
+  "geometry": {"coordinates":[96.68333,30.56667],"type":"Point"}
+}

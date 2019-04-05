@@ -1,0 +1,76 @@
+{
+  "id": 1327120933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.3494,30.71394,114.3494,30.71394",
+    "geom:latitude":30.71394,
+    "geom:longitude":114.3494,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Shekou",
+    "gn:country_code":"CN",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1795706,
+    "gn:latitude":30.71394,
+    "gn:longitude":114.3494,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Shekou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shekow",
+        "Shekou",
+        "\u6ee0\u53e3",
+        "Shekou Jiedao",
+        "\u6ee0\u53e3\u8857\u9053"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        890516557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1795706
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1ac146c97322c8721dd82e85ed05a840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516557,
+            "empire_id":136253041,
+            "locality_id":1327120933,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1327120933,
+    "wof:lastmodified":1537592687,
+    "wof:name":"Shekou",
+    "wof:parent_id":890516557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.3494,
+    30.71394,
+    114.3494,
+    30.71394
+],
+  "geometry": {"coordinates":[114.3494,30.71394],"type":"Point"}
+}

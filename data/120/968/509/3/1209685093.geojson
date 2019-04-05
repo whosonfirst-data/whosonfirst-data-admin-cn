@@ -1,0 +1,64 @@
+{
+  "id": 1209685093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.95,23.0476,110.95,23.0476",
+    "geom:latitude":23.0476,
+    "geom:longitude":110.95,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mengchong",
+    "gn:country_code":"CN",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9920004,
+    "gn:latitude":23.0476,
+    "gn:longitude":110.95,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Mengchong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8499\u51b2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9920004
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fbeb5fdfaad95ab621cf059216dff2d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209685093
+        }
+    ],
+    "wof:id":1209685093,
+    "wof:lastmodified":1537607362,
+    "wof:name":"Mengchong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.95,
+    23.0476,
+    110.95,
+    23.0476
+],
+  "geometry": {"coordinates":[110.95,23.0476],"type":"Point"}
+}

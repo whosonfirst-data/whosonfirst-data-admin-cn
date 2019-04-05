@@ -1,0 +1,75 @@
+{
+  "id": 1326754029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.50024,33.01729,119.50024,33.01729",
+    "geom:latitude":33.01729,
+    "geom:longitude":119.50024,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Xiaoshenzhuang",
+    "gn:country_code":"CN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8034314,
+    "gn:latitude":33.01729,
+    "gn:longitude":119.50024,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Xiaoshenzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Xiaoshenzhuang"
+    ],
+    "name:zho_x_variant":[
+        "\u5c0f\u6c88\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8034314
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ead359dfe41a96fd5f7f5f8c86f2a3ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516397,
+            "empire_id":136253041,
+            "locality_id":1326754029,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1326754029,
+    "wof:lastmodified":1537602186,
+    "wof:name":"Xiaoshenzhuang",
+    "wof:parent_id":890516397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.50024,
+    33.01729,
+    119.50024,
+    33.01729
+],
+  "geometry": {"coordinates":[119.50024000000001,33.01729],"type":"Point"}
+}

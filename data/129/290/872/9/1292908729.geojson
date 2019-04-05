@@ -1,0 +1,77 @@
+{
+  "id": 1292908729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.94849,33.95209,119.94849,33.95209",
+    "geom:latitude":33.95209,
+    "geom:longitude":119.94849,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dawacun",
+    "gn:country_code":"CN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1548039,
+    "gn:latitude":33.95209,
+    "gn:longitude":119.94849,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Dawacun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dawa",
+        "\u5927\u6d3c",
+        "Dawacun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u6d3c\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1548039
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"094c515d18dc025350f70672db0d8ae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515153,
+            "empire_id":136253041,
+            "locality_id":1292908729,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1292908729,
+    "wof:lastmodified":1537591652,
+    "wof:name":"Dawacun",
+    "wof:parent_id":890515153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.94849,
+    33.95209000000001,
+    119.94849,
+    33.95209000000001
+],
+  "geometry": {"coordinates":[119.94849000000001,33.95209000000001],"type":"Point"}
+}

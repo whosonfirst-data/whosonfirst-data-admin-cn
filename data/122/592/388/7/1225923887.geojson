@@ -1,0 +1,75 @@
+{
+  "id": 1225923887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.42435,29.71556,110.42435,29.71556",
+    "geom:latitude":29.71556,
+    "geom:longitude":110.42435,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Heiwanli",
+    "gn:country_code":"CN",
+    "gn:dem":1457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8015856,
+    "gn:latitude":29.71556,
+    "gn:longitude":110.42435,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Heiwanli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Heiwanli"
+    ],
+    "name:zho_x_variant":[
+        "\u9ed1\u6e7e\u91cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8015856
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7d1fc8e4d4a9eb51f148a75ce3fc5e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732427,
+            "empire_id":136253041,
+            "locality_id":1225923887,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1225923887,
+    "wof:lastmodified":1537602119,
+    "wof:name":"Heiwanli",
+    "wof:parent_id":1108732427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.42435,
+    29.71556,
+    110.42435,
+    29.71556
+],
+  "geometry": {"coordinates":[110.42435,29.71556],"type":"Point"}
+}

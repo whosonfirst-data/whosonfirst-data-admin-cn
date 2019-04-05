@@ -1,0 +1,75 @@
+{
+  "id": 1310170723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.27455,40.27742,122.27455,40.27742",
+    "geom:latitude":40.27742,
+    "geom:longitude":122.27455,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Liwugou",
+    "gn:country_code":"CN",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7397631,
+    "gn:latitude":40.27742,
+    "gn:longitude":122.27455,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Liwugou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u674e\u4e94\u6c9f"
+    ],
+    "name:zho_x_preferred":[
+        "\u674e\u4e94\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7397631
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0b03dd3c1528ab2d471846b24ebfdd1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732495,
+            "empire_id":136253041,
+            "locality_id":1310170723,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1310170723,
+    "wof:lastmodified":1537598524,
+    "wof:name":"Liwugou",
+    "wof:parent_id":1108732495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.27455,
+    40.27742,
+    122.27455,
+    40.27742
+],
+  "geometry": {"coordinates":[122.27455,40.27742],"type":"Point"}
+}

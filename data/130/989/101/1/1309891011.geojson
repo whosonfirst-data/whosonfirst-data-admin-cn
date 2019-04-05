@@ -1,0 +1,78 @@
+{
+  "id": 1309891011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.86,47.28667,131.86,47.28667",
+    "geom:latitude":47.28667,
+    "geom:longitude":131.86,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Suibin",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2034661,
+    "gn:latitude":47.28667,
+    "gn:longitude":131.86,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Suibin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "O-lai-mi",
+        "Suybin\u2019",
+        "Ao-lai-mi",
+        "Sui-pin",
+        "Sui-pin-chen",
+        "Suibin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890514875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2034661
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4264d2bbeedde460545140edb5ed8b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514875,
+            "empire_id":136253041,
+            "locality_id":1309891011,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1309891011,
+    "wof:lastmodified":1537595662,
+    "wof:name":"Suibin",
+    "wof:parent_id":890514875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.86,
+    47.28667,
+    131.86,
+    47.28667
+],
+  "geometry": {"coordinates":[131.86000000000001,47.28667],"type":"Point"}
+}

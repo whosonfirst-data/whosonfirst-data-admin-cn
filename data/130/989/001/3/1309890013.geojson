@@ -1,0 +1,69 @@
+{
+  "id": 1309890013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.42417,32.95528,111.42417,32.95528",
+    "geom:latitude":32.95528,
+    "geom:longitude":111.42417,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Shengwan",
+    "gn:country_code":"CN",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1795650,
+    "gn:latitude":32.95528,
+    "gn:longitude":111.42417,
+    "gn:modification_date":"2000-12-07",
+    "gn:name":"Shengwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669801,
+        102191569,
+        85632695,
+        136253041,
+        890516339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1795650
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b0cee137d0256351aec2c92cefdbb22f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516339,
+            "empire_id":136253041,
+            "locality_id":1309890013,
+            "region_id":85669801
+        }
+    ],
+    "wof:id":1309890013,
+    "wof:lastmodified":1536809349,
+    "wof:name":"Shengwan",
+    "wof:parent_id":890516339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.42417,
+    32.95528,
+    111.42417,
+    32.95528
+],
+  "geometry": {"coordinates":[111.42417,32.95528],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1209990143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.7019,29.452,87.7019,29.452",
+    "geom:latitude":29.452,
+    "geom:longitude":87.7019,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kyiso",
+    "gn:country_code":"CN",
+    "gn:dem":4058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8048311,
+    "gn:latitude":29.452,
+    "gn:longitude":87.7019,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Kyiso",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Kyiso"
+    ],
+    "name:zho_x_preferred":[
+        "Qisuo"
+    ],
+    "name:zho_x_variant":[
+        "\u5176\u7d22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8048311
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"aca96b8a64d769194c4bac1a3c33cc62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1209990143,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1209990143,
+    "wof:lastmodified":1537602429,
+    "wof:name":"Kyiso",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.7019,
+    29.452,
+    87.7019,
+    29.452
+],
+  "geometry": {"coordinates":[87.70189999999999,29.452],"type":"Point"}
+}

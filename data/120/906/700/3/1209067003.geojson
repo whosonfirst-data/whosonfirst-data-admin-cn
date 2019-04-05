@@ -1,0 +1,64 @@
+{
+  "id": 1209067003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.128,24.8741,100.128,24.8741",
+    "geom:latitude":24.8741,
+    "geom:longitude":100.128,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Yangquanshan",
+    "gn:country_code":"CN",
+    "gn:dem":1814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9940103,
+    "gn:latitude":24.8741,
+    "gn:longitude":100.128,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Yangquanshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7f8a\u5708\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9940103
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"37ad329d22808b2222310219e674c29a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209067003
+        }
+    ],
+    "wof:id":1209067003,
+    "wof:lastmodified":1537607986,
+    "wof:name":"Yangquanshan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.128,
+    24.8741,
+    100.128,
+    24.8741
+],
+  "geometry": {"coordinates":[100.128,24.8741],"type":"Point"}
+}

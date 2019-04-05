@@ -1,0 +1,78 @@
+{
+  "id": 1343339383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.64106,26.92375,113.64106,26.92375",
+    "geom:latitude":26.92375,
+    "geom:longitude":113.64106,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Fuchong",
+    "gn:country_code":"CN",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8201560,
+    "gn:latitude":26.92375,
+    "gn:longitude":113.64106,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Fuchong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wanli"
+    ],
+    "name:zho_x_preferred":[
+        "\u8299\u51b2"
+    ],
+    "name:zho_x_variant":[
+        "\u6e7e\u91cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890514759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8201560
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f2708a8438ec1cd36225f36483688ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514759,
+            "empire_id":136253041,
+            "locality_id":1343339383,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1343339383,
+    "wof:lastmodified":1537602692,
+    "wof:name":"Fuchong",
+    "wof:parent_id":890514759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.64106,
+    26.92375,
+    113.64106,
+    26.92375
+],
+  "geometry": {"coordinates":[113.64106,26.92375],"type":"Point"}
+}

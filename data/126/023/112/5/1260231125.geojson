@@ -1,0 +1,75 @@
+{
+  "id": 1260231125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.23722,24.48833,115.23722,24.48833",
+    "geom:latitude":24.48833,
+    "geom:longitude":115.23722,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Zhongxintang",
+    "gn:country_code":"CN",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7771020,
+    "gn:latitude":24.48833,
+    "gn:longitude":115.23722,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhongxintang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Zhongxintang"
+    ],
+    "name:zho_x_variant":[
+        "\u5fe0\u5fc3\u5858"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890514179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7771020
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9af87db965fe99bd2279e90eb7c309c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514179,
+            "empire_id":136253041,
+            "locality_id":1260231125,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1260231125,
+    "wof:lastmodified":1537601541,
+    "wof:name":"Zhongxintang",
+    "wof:parent_id":890514179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.23722,
+    24.48833,
+    115.23722,
+    24.48833
+],
+  "geometry": {"coordinates":[115.23721999999999,24.48833],"type":"Point"}
+}

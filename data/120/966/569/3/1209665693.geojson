@@ -1,0 +1,64 @@
+{
+  "id": 1209665693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.43344,25.8165,102.43344,25.8165",
+    "geom:latitude":25.8165,
+    "geom:longitude":102.43344,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Xinshan",
+    "gn:country_code":"CN",
+    "gn:dem":2180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9078801,
+    "gn:latitude":25.8165,
+    "gn:longitude":102.43344,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Xinshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u65b0\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9078801
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"df66988ed087e1f0df1cda3601a3306f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209665693
+        }
+    ],
+    "wof:id":1209665693,
+    "wof:lastmodified":1537605056,
+    "wof:name":"Xinshan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.43344,
+    25.8165,
+    102.43344,
+    25.8165
+],
+  "geometry": {"coordinates":[102.43344,25.8165],"type":"Point"}
+}

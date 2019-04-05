@@ -1,0 +1,77 @@
+{
+  "id": 1310450627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.30222,31.04978,104.30222,31.04978",
+    "geom:latitude":31.04978,
+    "geom:longitude":104.30222,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Xinhua",
+    "gn:country_code":"CN",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1788558,
+    "gn:latitude":31.04978,
+    "gn:longitude":104.30222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Xinhua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-hsing-ch\u2019ang",
+        "Xinxingchang",
+        "Xinhua"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u534e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890515169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1788558
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a568740492a9bfff44a2c825a1fa20e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515169,
+            "empire_id":136253041,
+            "locality_id":1310450627,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1310450627,
+    "wof:lastmodified":1537592201,
+    "wof:name":"Xinhua",
+    "wof:parent_id":890515169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.30222,
+    31.04978,
+    104.30222,
+    31.04978
+],
+  "geometry": {"coordinates":[104.30222000000001,31.04978],"type":"Point"}
+}

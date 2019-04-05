@@ -1,0 +1,75 @@
+{
+  "id": 1360240145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.05397,37.21348,122.05397,37.21348",
+    "geom:latitude":37.21348,
+    "geom:longitude":122.05397,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Lujiazhuang",
+    "gn:country_code":"CN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8651676,
+    "gn:latitude":37.21348,
+    "gn:longitude":122.05397,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"L\u00fcjiazhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00fcjiazhuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5415\u5bb6\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669813,
+        102191569,
+        85632695,
+        136253041,
+        890514771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8651676
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9fe8760e9e5d0b04504f06f8103d342b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514771,
+            "empire_id":136253041,
+            "locality_id":1360240145,
+            "region_id":85669813
+        }
+    ],
+    "wof:id":1360240145,
+    "wof:lastmodified":1537604870,
+    "wof:name":"Lujiazhuang",
+    "wof:parent_id":890514771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.05397,
+    37.21348,
+    122.05397,
+    37.21348
+],
+  "geometry": {"coordinates":[122.05397000000001,37.21348],"type":"Point"}
+}

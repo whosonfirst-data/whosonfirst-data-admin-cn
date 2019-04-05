@@ -1,0 +1,76 @@
+{
+  "id": 1242565035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.23153,26.47098,110.23153,26.47098",
+    "geom:latitude":26.47098,
+    "geom:longitude":110.23153,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yangshi",
+    "gn:country_code":"CN",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1787328,
+    "gn:latitude":26.47098,
+    "gn:longitude":110.23153,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Yangshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yanshityan\u2019",
+        "Yangshi"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f8a\u77f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890514309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1787328
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"52cb6d12f81c7039cb0928f7a82e7e0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514309,
+            "empire_id":136253041,
+            "locality_id":1242565035,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1242565035,
+    "wof:lastmodified":1537592120,
+    "wof:name":"Yangshi",
+    "wof:parent_id":890514309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.23153,
+    26.47098,
+    110.23153,
+    26.47098
+],
+  "geometry": {"coordinates":[110.23153000000001,26.47098],"type":"Point"}
+}

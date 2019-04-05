@@ -1,0 +1,75 @@
+{
+  "id": 1344131573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.7161,42.70378,124.7161,42.70378",
+    "geom:latitude":42.70378,
+    "geom:longitude":124.7161,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Wutangcun",
+    "gn:country_code":"CN",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11486535,
+    "gn:latitude":42.70378,
+    "gn:longitude":124.7161,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Wutangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e94\u5858\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u4e94\u5510\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11486535
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f3dcdaf4d7bebf4c526472661a91bb40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514741,
+            "empire_id":136253041,
+            "locality_id":1344131573,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1344131573,
+    "wof:lastmodified":1537616991,
+    "wof:name":"Wutangcun",
+    "wof:parent_id":890514741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.7161,
+    42.70378,
+    124.7161,
+    42.70378
+],
+  "geometry": {"coordinates":[124.7161,42.70378],"type":"Point"}
+}

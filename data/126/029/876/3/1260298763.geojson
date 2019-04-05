@@ -1,0 +1,77 @@
+{
+  "id": 1260298763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.1325,33.61389,117.1325,33.61389",
+    "geom:latitude":33.61389,
+    "geom:longitude":117.1325,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zhuxianzhuang",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1796654,
+    "gn:latitude":33.61389,
+    "gn:longitude":117.1325,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhuxianzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dongsanpu",
+        "Tung-san-p\u2019u",
+        "Sanpu",
+        "San-p\u2019u-chi",
+        "Zhuxianzhuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890514507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1796654
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8b0bb6f401da68cde3e0f8b2068dc1c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514507,
+            "empire_id":136253041,
+            "locality_id":1260298763,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1260298763,
+    "wof:lastmodified":1537592748,
+    "wof:name":"Zhuxianzhuang",
+    "wof:parent_id":890514507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.1325,
+    33.61389,
+    117.1325,
+    33.61389
+],
+  "geometry": {"coordinates":[117.13249999999999,33.61389],"type":"Point"}
+}

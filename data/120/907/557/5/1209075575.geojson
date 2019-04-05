@@ -1,0 +1,64 @@
+{
+  "id": 1209075575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.828,23.8004,107.828,23.8004",
+    "geom:latitude":23.8004,
+    "geom:longitude":107.828,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Diaoban",
+    "gn:country_code":"CN",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9928531,
+    "gn:latitude":23.8004,
+    "gn:longitude":107.828,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Diaoban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5201\u534a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9928531
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1231144e2d288d81da26ad82b0643b27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209075575
+        }
+    ],
+    "wof:id":1209075575,
+    "wof:lastmodified":1537607592,
+    "wof:name":"Diaoban",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.828,
+    23.8004,
+    107.828,
+    23.8004
+],
+  "geometry": {"coordinates":[107.828,23.8004],"type":"Point"}
+}

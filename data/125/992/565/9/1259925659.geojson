@@ -1,0 +1,78 @@
+{
+  "id": 1259925659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.132,28.3271,103.132,28.3271",
+    "geom:latitude":28.3271,
+    "geom:longitude":103.132,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Bapu",
+    "gn:country_code":"CN",
+    "gn:dem":2046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1816878,
+    "gn:latitude":28.3271,
+    "gn:longitude":103.132,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Bapu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mei-ku",
+        "Pa-p\u2019u",
+        "Meigu",
+        "Bapu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u666e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        1108794061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1816878
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fdfce1e51952a632e87e7edc19dfaf4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794061,
+            "empire_id":136253041,
+            "locality_id":1259925659,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1259925659,
+    "wof:lastmodified":1537594034,
+    "wof:name":"Bapu",
+    "wof:parent_id":1108794061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.132,
+    28.3271,
+    103.132,
+    28.3271
+],
+  "geometry": {"coordinates":[103.13200000000001,28.3271],"type":"Point"}
+}

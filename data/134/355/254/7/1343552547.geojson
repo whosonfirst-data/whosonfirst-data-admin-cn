@@ -1,0 +1,75 @@
+{
+  "id": 1343552547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.43917,25.01869,116.43917,25.01869",
+    "geom:latitude":25.01869,
+    "geom:longitude":116.43917,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Zhuqitou",
+    "gn:country_code":"CN",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6671898,
+    "gn:latitude":25.01869,
+    "gn:longitude":116.43917,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Zhuqitou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7af9\u6b67\u5934"
+    ],
+    "name:zho_x_variant":[
+        "\u7af9\u5c90\u5934"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6671898
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"732a6913843a4c10bb903b2d0a47f6d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516203,
+            "empire_id":136253041,
+            "locality_id":1343552547,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1343552547,
+    "wof:lastmodified":1537596104,
+    "wof:name":"Zhuqitou",
+    "wof:parent_id":890516203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.43917,
+    25.01869,
+    116.43917,
+    25.01869
+],
+  "geometry": {"coordinates":[116.43917,25.01869],"type":"Point"}
+}

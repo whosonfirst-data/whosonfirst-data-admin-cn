@@ -1,0 +1,77 @@
+{
+  "id": 1293223135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.59083,41.94756,127.59083,41.94756",
+    "geom:latitude":41.94756,
+    "geom:longitude":127.59083,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Manjiang",
+    "gn:country_code":"CN",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2035840,
+    "gn:latitude":41.94756,
+    "gn:longitude":127.59083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Manjiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Man-chiang",
+        "Man-chiang-ts\u2019un",
+        "Manjiang",
+        "\u6f2b\u6c5f",
+        "Manjiang Zhen",
+        "\u6f2b\u6c5f\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669843,
+        102191569,
+        85632695,
+        136253041,
+        890516621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2035840
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"210239e5148b6984fdd2ed6142bfd053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516621,
+            "empire_id":136253041,
+            "locality_id":1293223135,
+            "region_id":85669843
+        }
+    ],
+    "wof:id":1293223135,
+    "wof:lastmodified":1537595738,
+    "wof:name":"Manjiang",
+    "wof:parent_id":890516621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.59083,
+    41.94756,
+    127.59083,
+    41.94756
+],
+  "geometry": {"coordinates":[127.59083,41.94756],"type":"Point"}
+}

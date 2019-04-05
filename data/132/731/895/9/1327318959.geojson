@@ -1,0 +1,78 @@
+{
+  "id": 1327318959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.209,49.09955,125.209,49.09955",
+    "geom:latitude":49.09955,
+    "geom:longitude":125.209,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Qianjin",
+    "gn:country_code":"CN",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8546112,
+    "gn:latitude":49.09955,
+    "gn:longitude":125.209,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Qianjin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qianjin Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u524d\u8fdb"
+    ],
+    "name:zho_x_variant":[
+        "\u524d\u8fdb\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        1108732555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8546112
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c4ee570d5ec78aaa5f9c270cc529633f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732555,
+            "empire_id":136253041,
+            "locality_id":1327318959,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1327318959,
+    "wof:lastmodified":1537604437,
+    "wof:name":"Qianjin",
+    "wof:parent_id":1108732555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.209,
+    49.09955,
+    125.209,
+    49.09955
+],
+  "geometry": {"coordinates":[125.209,49.09955],"type":"Point"}
+}

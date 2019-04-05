@@ -1,0 +1,76 @@
+{
+  "id": 1260187753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.02087,31.88831,121.02087,31.88831",
+    "geom:latitude":31.88831,
+    "geom:longitude":121.02087,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Da'ancun",
+    "gn:country_code":"CN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1814643,
+    "gn:latitude":31.88831,
+    "gn:longitude":121.02087,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Da\u2019ancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-an-chen",
+        "Da\u2019an",
+        "\u5927\u5b89",
+        "Da\u2019ancun",
+        "\u5927\u5b89\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1814643
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"529d1f06aa8e49d7ed812232de3b2d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515155,
+            "empire_id":136253041,
+            "locality_id":1260187753,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1260187753,
+    "wof:lastmodified":1537593891,
+    "wof:name":"Da'ancun",
+    "wof:parent_id":890515155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.02087,
+    31.88831,
+    121.02087,
+    31.88831
+],
+  "geometry": {"coordinates":[121.02087,31.88831],"type":"Point"}
+}

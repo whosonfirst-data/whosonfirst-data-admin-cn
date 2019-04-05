@@ -1,0 +1,64 @@
+{
+  "id": 1209422147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.605,25.7157,114.605,25.7157",
+    "geom:latitude":25.7157,
+    "geom:longitude":114.605,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Zhangfang",
+    "gn:country_code":"CN",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9615210,
+    "gn:latitude":25.7157,
+    "gn:longitude":114.605,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Zhangfang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6a1f\u574a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9615210
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ce20916496378960c54a65eb436b21f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209422147
+        }
+    ],
+    "wof:id":1209422147,
+    "wof:lastmodified":1537605982,
+    "wof:name":"Zhangfang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.605,
+    25.7157,
+    114.605,
+    25.7157
+],
+  "geometry": {"coordinates":[114.605,25.7157],"type":"Point"}
+}

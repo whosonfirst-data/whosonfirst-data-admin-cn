@@ -1,0 +1,77 @@
+{
+  "id": 1343936527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.02472,37.06278,115.02472,37.06278",
+    "geom:latitude":37.06278,
+    "geom:longitude":115.02472,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Fengzhou",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1798087,
+    "gn:latitude":37.06278,
+    "gn:longitude":115.02472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fengzhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pingxiang",
+        "Qicun",
+        "P\u2019ing-hsiang",
+        "Ch\u2019i-tsun",
+        "Fengzhou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669797,
+        102191569,
+        85632695,
+        136253041,
+        890513015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1798087
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"66165929faf5f65348e32dc31e028899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513015,
+            "empire_id":136253041,
+            "locality_id":1343936527,
+            "region_id":85669797
+        }
+    ],
+    "wof:id":1343936527,
+    "wof:lastmodified":1537592848,
+    "wof:name":"Fengzhou",
+    "wof:parent_id":890513015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.02472,
+    37.06278,
+    115.02472,
+    37.06278
+],
+  "geometry": {"coordinates":[115.02472,37.06278],"type":"Point"}
+}

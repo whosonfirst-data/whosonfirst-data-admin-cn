@@ -1,0 +1,72 @@
+{
+  "id": 1243131647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.056,29.8493,105.056,29.8493",
+    "geom:latitude":29.8493,
+    "geom:longitude":105.056,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Guanglin",
+    "gn:country_code":"CN",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10183420,
+    "gn:latitude":29.8493,
+    "gn:longitude":105.056,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Guanglin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5149\u4e34"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        1108732369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10183420
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"525cdcc622f9a2d4aac593006212c0d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732369,
+            "empire_id":136253041,
+            "locality_id":1243131647,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1243131647,
+    "wof:lastmodified":1537610919,
+    "wof:name":"Guanglin",
+    "wof:parent_id":1108732369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.056,
+    29.8493,
+    105.056,
+    29.8493
+],
+  "geometry": {"coordinates":[105.056,29.8493],"type":"Point"}
+}

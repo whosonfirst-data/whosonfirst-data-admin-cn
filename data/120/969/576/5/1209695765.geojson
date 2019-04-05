@@ -1,0 +1,64 @@
+{
+  "id": 1209695765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.46164,32.53008,110.46164,32.53008",
+    "geom:latitude":32.53008,
+    "geom:longitude":110.46164,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Nanpo",
+    "gn:country_code":"CN",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1909290,
+    "gn:latitude":32.53008,
+    "gn:longitude":110.46164,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Nanpo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5357\u5761"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1909290
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fbfd3394b602251313b4331e21f7ac1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209695765
+        }
+    ],
+    "wof:id":1209695765,
+    "wof:lastmodified":1537594554,
+    "wof:name":"Nanpo",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.46164,
+    32.53008,
+    110.46164,
+    32.53008
+],
+  "geometry": {"coordinates":[110.46164,32.53008],"type":"Point"}
+}

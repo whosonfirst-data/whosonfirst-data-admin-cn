@@ -1,0 +1,80 @@
+{
+  "id": 1276662657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.61511,31.62347,119.61511,31.62347",
+    "geom:latitude":31.62347,
+    "geom:longitude":119.61511,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Hutoucun",
+    "gn:country_code":"CN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1806580,
+    "gn:latitude":31.62347,
+    "gn:longitude":119.61511,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Hutoucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hu-t\u2019ou-chen",
+        "Hutou",
+        "Hutoucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e56\u5934"
+    ],
+    "name:zho_x_variant":[
+        "\u6e56\u5934\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890514735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1806580
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c3f039a7eb4ca8c49432cd57c4dd0b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514735,
+            "empire_id":136253041,
+            "locality_id":1276662657,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1276662657,
+    "wof:lastmodified":1537593387,
+    "wof:name":"Hutoucun",
+    "wof:parent_id":890514735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.61511000000002,
+    31.62347,
+    119.61511000000002,
+    31.62347
+],
+  "geometry": {"coordinates":[119.61511000000002,31.62347],"type":"Point"}
+}

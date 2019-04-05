@@ -1,0 +1,64 @@
+{
+  "id": 1209163627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.328,31.2752,105.328,31.2752",
+    "geom:latitude":31.2752,
+    "geom:longitude":105.328,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Yonghe",
+    "gn:country_code":"CN",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10162298,
+    "gn:latitude":31.2752,
+    "gn:longitude":105.328,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Yonghe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6c38\u548c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10162298
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"24c603e68a575215cce08f58865a9f79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209163627
+        }
+    ],
+    "wof:id":1209163627,
+    "wof:lastmodified":1537610833,
+    "wof:name":"Yonghe",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.328,
+    31.2752,
+    105.328,
+    31.2752
+],
+  "geometry": {"coordinates":[105.328,31.2752],"type":"Point"}
+}

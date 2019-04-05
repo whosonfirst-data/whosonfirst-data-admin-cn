@@ -1,0 +1,64 @@
+{
+  "id": 1209065695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.549,28.5091,102.549,28.5091",
+    "geom:latitude":28.5091,
+    "geom:longitude":102.549,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Gumo",
+    "gn:country_code":"CN",
+    "gn:dem":2168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10217637,
+    "gn:latitude":28.5091,
+    "gn:longitude":102.549,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Gumo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u53e4\u83ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10217637
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5d2a5a750fa3ceab1d8b5b28f77c23ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209065695
+        }
+    ],
+    "wof:id":1209065695,
+    "wof:lastmodified":1537611561,
+    "wof:name":"Gumo",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.549,
+    28.5091,
+    102.549,
+    28.5091
+],
+  "geometry": {"coordinates":[102.54900000000001,28.5091],"type":"Point"}
+}

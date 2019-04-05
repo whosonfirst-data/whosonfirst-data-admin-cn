@@ -1,0 +1,75 @@
+{
+  "id": 1343735105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.05965,33.09332,105.05965,33.09332",
+    "geom:latitude":33.09332,
+    "geom:longitude":105.05965,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Beizhushan",
+    "gn:country_code":"CN",
+    "gn:dem":1800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7347577,
+    "gn:latitude":33.09332,
+    "gn:longitude":105.05965,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Beizhushan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u80cc\u7af9\u5c71"
+    ],
+    "name:zho_x_preferred":[
+        "\u80cc\u7af9\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669711,
+        102191569,
+        85632695,
+        136253041,
+        890516335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7347577
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5b2655558ae85d8bdecfbf2afa39c41e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516335,
+            "empire_id":136253041,
+            "locality_id":1343735105,
+            "region_id":85669711
+        }
+    ],
+    "wof:id":1343735105,
+    "wof:lastmodified":1537598168,
+    "wof:name":"Beizhushan",
+    "wof:parent_id":890516335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.05965,
+    33.09332,
+    105.05965,
+    33.09332
+],
+  "geometry": {"coordinates":[105.05965,33.09332],"type":"Point"}
+}

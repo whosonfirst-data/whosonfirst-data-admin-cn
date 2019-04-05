@@ -1,0 +1,79 @@
+{
+  "id": 1310209997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.42295,32.14239,120.42295,32.14239",
+    "geom:latitude":32.14239,
+    "geom:longitude":120.42295,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Geshicun",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1548414,
+    "gn:latitude":32.14239,
+    "gn:longitude":120.42295,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Geshicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Geshi",
+        "Geshicun"
+    ],
+    "name:zho_x_preferred":[
+        "\u845b\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u845b\u5e02\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1548414
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"44c7da0aec719797a7f65b785f85c385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515155,
+            "empire_id":136253041,
+            "locality_id":1310209997,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1310209997,
+    "wof:lastmodified":1537591662,
+    "wof:name":"Geshicun",
+    "wof:parent_id":890515155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.42295,
+    32.14239,
+    120.42295,
+    32.14239
+],
+  "geometry": {"coordinates":[120.42295,32.14239],"type":"Point"}
+}

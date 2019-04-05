@@ -1,0 +1,75 @@
+{
+  "id": 1243242263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.41909,39.83142,119.41909,39.83142",
+    "geom:latitude":39.83142,
+    "geom:longitude":119.41909,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ma'anhill",
+    "gn:country_code":"CN",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10371072,
+    "gn:latitude":39.83142,
+    "gn:longitude":119.41909,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Ma\u2019anhill",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u2019anhill"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u978d\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669797,
+        102191569,
+        85632695,
+        136253041,
+        890513075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10371072
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2ccd925f1f920be006fe0fca8c65e093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513075,
+            "empire_id":136253041,
+            "locality_id":1243242263,
+            "region_id":85669797
+        }
+    ],
+    "wof:id":1243242263,
+    "wof:lastmodified":1537612873,
+    "wof:name":"Ma'anhill",
+    "wof:parent_id":890513075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.41909,
+    39.83142,
+    119.41909,
+    39.83142
+],
+  "geometry": {"coordinates":[119.41909,39.83142],"type":"Point"}
+}

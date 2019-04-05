@@ -1,0 +1,97 @@
+{
+  "id": 102551053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.73444444,32.88194444,115.73444444,32.88194444",
+    "geom:latitude":32.881944,
+    "geom:longitude":115.734444,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0641\u0648\u064a\u0627\u0646\u063a \u0634\u064a\u063a\u0648\u0627\u0646"
+    ],
+    "name:eus_x_preferred":[
+        "Fuyang aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u0648\u06cc\u0627\u0646\u06af \u0698\u06cc\u06af\u0627\u0646"
+    ],
+    "name:jpn_x_preferred":[
+        "\u961c\u967d\u897f\u95a2\u7a7a\u6e2f"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Fuyang Xiguan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0443\u044f\u043d \u0421\u0438\u0433\u0443\u0430\u043d\u044c"
+    ],
+    "name:swe_x_preferred":[
+        "Fuyang Xiguan Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0444\u0443\u0438\u043e\u043d\u0433 \u0436\u0438\u0433\u043e\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay T\u00e2y Quan Ph\u1ee5 D\u01b0\u01a1ng"
+    ],
+    "name:zho_x_preferred":[
+        "\u961c\u9633\u897f\u5173\u673a\u573a"
+    ],
+    "oa:elevation_ft":"104",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":48,
+    "woe:hierarchy":{
+        "country_id":23424781,
+        "county_id":26198237,
+        "localadmin_id":12685323,
+        "planet_id":1,
+        "state_id":12578022
+    },
+    "wof:belongsto":[
+        85632695,
+        85669739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512051,
+        "iata:code":"FUG",
+        "icao:code":"ZSFY",
+        "oa:id":"308240",
+        "wd:id":"Q3267356"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5a88266ee9cde68f7422d48d71745f9c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551053,
+            "country_id":85632695,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":102551053,
+    "wof:lastmodified":1543792155,
+    "wof:name":"Fuyang Airport",
+    "wof:parent_id":85669739,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    115.73444444,
+    32.88194444,
+    115.73444444,
+    32.88194444
+],
+  "geometry": {"coordinates":[115.73444444,32.88194444],"type":"Point"}
+}

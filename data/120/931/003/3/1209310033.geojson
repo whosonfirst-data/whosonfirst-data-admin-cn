@@ -1,0 +1,65 @@
+{
+  "id": 1209310033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.66712,33.50271,112.66712,33.50271",
+    "geom:latitude":33.50271,
+    "geom:longitude":112.66712,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kongshan",
+    "gn:country_code":"CN",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7045644,
+    "gn:latitude":33.50271,
+    "gn:longitude":112.66712,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kongshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u7a7a\u5c71",
+        "Kongshan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7045644
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b594b049824f7c1c82b4ce4a4318b117",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209310033
+        }
+    ],
+    "wof:id":1209310033,
+    "wof:lastmodified":1537597502,
+    "wof:name":"Kongshan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.66712,
+    33.50271,
+    112.66712,
+    33.50271
+],
+  "geometry": {"coordinates":[112.66712,33.50271],"type":"Point"}
+}

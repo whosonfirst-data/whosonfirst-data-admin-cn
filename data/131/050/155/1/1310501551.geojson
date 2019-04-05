@@ -1,0 +1,76 @@
+{
+  "id": 1310501551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.03899,34.70871,119.03899,34.70871",
+    "geom:latitude":34.70871,
+    "geom:longitude":119.03899,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dunshang",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1811838,
+    "gn:latitude":34.70871,
+    "gn:longitude":119.03899,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dunshang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tun-shang",
+        "Dunshang",
+        "\u58a9\u5c1a",
+        "Dunshang Zhen",
+        "\u58a9\u5c1a\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890514777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1811838
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9a562035c313d935a20eac2e42291b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514777,
+            "empire_id":136253041,
+            "locality_id":1310501551,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1310501551,
+    "wof:lastmodified":1537593727,
+    "wof:name":"Dunshang",
+    "wof:parent_id":890514777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.03898999999998,
+    34.70871,
+    119.03898999999998,
+    34.70871
+],
+  "geometry": {"coordinates":[119.03898999999998,34.70871],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226013837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.38887,36.36675,106.38887,36.36675",
+    "geom:latitude":36.36675,
+    "geom:longitude":106.38887,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Heishanzi",
+    "gn:country_code":"CN",
+    "gn:dem":1872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7515897,
+    "gn:latitude":36.36675,
+    "gn:longitude":106.38887,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Heishanzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9ed1\u5c71\u5b50"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed1\u5c71\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669763,
+        102191569,
+        85632695,
+        136253041,
+        890515165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7515897
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"73ecc99ff11be41e810d7231da46a77b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515165,
+            "empire_id":136253041,
+            "locality_id":1226013837,
+            "region_id":85669763
+        }
+    ],
+    "wof:id":1226013837,
+    "wof:lastmodified":1537599654,
+    "wof:name":"Heishanzi",
+    "wof:parent_id":890515165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.38887,
+    36.36675,
+    106.38887,
+    36.36675
+],
+  "geometry": {"coordinates":[106.38887,36.36675],"type":"Point"}
+}

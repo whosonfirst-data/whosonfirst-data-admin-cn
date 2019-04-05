@@ -1,0 +1,64 @@
+{
+  "id": 1209095015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.175,38.1405,117.175,38.1405",
+    "geom:latitude":38.1405,
+    "geom:longitude":117.175,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Donghe",
+    "gn:country_code":"CN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9631218,
+    "gn:latitude":38.1405,
+    "gn:longitude":117.175,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Donghe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e1c\u6cb3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9631218
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a31ccb9dde8919e9ece941b1d578973d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209095015
+        }
+    ],
+    "wof:id":1209095015,
+    "wof:lastmodified":1537606136,
+    "wof:name":"Donghe",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.175,
+    38.1405,
+    117.175,
+    38.1405
+],
+  "geometry": {"coordinates":[117.175,38.1405],"type":"Point"}
+}

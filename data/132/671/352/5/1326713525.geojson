@@ -1,0 +1,80 @@
+{
+  "id": 1326713525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.109,32.009,92.109,32.009",
+    "geom:latitude":32.009,
+    "geom:longitude":92.109,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zalho",
+    "gn:country_code":"CN",
+    "gn:dem":4908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8066995,
+    "gn:latitude":32.009,
+    "gn:longitude":92.109,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zalho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Zalho"
+    ],
+    "name:zho_x_preferred":[
+        "Zhaluo"
+    ],
+    "name:zho_x_variant":[
+        "\u624e\u6d1b",
+        "Nari",
+        "\u7eb3\u65e5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066995
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"cb770d6f154bee3ec7571725e70f57ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1326713525,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1326713525,
+    "wof:lastmodified":1537602527,
+    "wof:name":"Zalho",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.109,
+    32.009,
+    92.109,
+    32.009
+],
+  "geometry": {"coordinates":[92.10899999999999,32.009],"type":"Point"}
+}

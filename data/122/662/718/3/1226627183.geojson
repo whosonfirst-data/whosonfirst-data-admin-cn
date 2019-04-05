@@ -1,0 +1,75 @@
+{
+  "id": 1226627183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.0917,28.36404,113.0917,28.36404",
+    "geom:latitude":28.36404,
+    "geom:longitude":113.0917,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ma'anpu",
+    "gn:country_code":"CN",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10325686,
+    "gn:latitude":28.36404,
+    "gn:longitude":113.0917,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Ma\u2019anpu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u2019anpu"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u978d\u94fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890513085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10325686
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"77ebdbdd5d2f0d7aba755b66f3df542d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513085,
+            "empire_id":136253041,
+            "locality_id":1226627183,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1226627183,
+    "wof:lastmodified":1537612216,
+    "wof:name":"Ma'anpu",
+    "wof:parent_id":890513085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.0917,
+    28.36404000000001,
+    113.0917,
+    28.36404000000001
+],
+  "geometry": {"coordinates":[113.0917,28.36404000000001],"type":"Point"}
+}

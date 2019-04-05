@@ -1,0 +1,64 @@
+{
+  "id": 1209380145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.75451,40.83963,122.75451,40.83963",
+    "geom:latitude":40.83963,
+    "geom:longitude":122.75451,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Yixin",
+    "gn:country_code":"CN",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7885450,
+    "gn:latitude":40.83963,
+    "gn:longitude":122.75451,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Yixin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u827a\u65b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7885450
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"eb5f5aadecb6a4baa027f853ecd96d40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209380145
+        }
+    ],
+    "wof:id":1209380145,
+    "wof:lastmodified":1537601770,
+    "wof:name":"Yixin",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.75451,
+    40.83963,
+    122.75451,
+    40.83963
+],
+  "geometry": {"coordinates":[122.75451,40.83963],"type":"Point"}
+}

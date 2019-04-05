@@ -1,0 +1,80 @@
+{
+  "id": 1309896303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.15628,45.7487,127.15628,45.7487",
+    "geom:latitude":45.7487,
+    "geom:longitude":127.15628,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Binxi",
+    "gn:country_code":"CN",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2038285,
+    "gn:latitude":45.7487,
+    "gn:longitude":127.15628,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Binxi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pin-hsi",
+        "Binxi",
+        "Binxi Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bbe\u897f"
+    ],
+    "name:zho_x_variant":[
+        "\u5bbe\u897f\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890516235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2038285
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4c6f539a41232e314c90ecafd3490966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516235,
+            "empire_id":136253041,
+            "locality_id":1309896303,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1309896303,
+    "wof:lastmodified":1537595873,
+    "wof:name":"Binxi",
+    "wof:parent_id":890516235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.15628,
+    45.7487,
+    127.15628,
+    45.7487
+],
+  "geometry": {"coordinates":[127.15628,45.7487],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343509899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.34504,30.96384,109.34504,30.96384",
+    "geom:latitude":30.96384,
+    "geom:longitude":109.34504,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Anping",
+    "gn:country_code":"CN",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1818002,
+    "gn:latitude":30.96384,
+    "gn:longitude":109.34504,
+    "gn:modification_date":"2012-10-06",
+    "gn:name":"Anping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anping Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u576a"
+    ],
+    "name:zho_x_variant":[
+        "\u5b89\u576a\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669725,
+        102191569,
+        85632695,
+        136253041,
+        890513063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818002
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"12357fa512f944cf0c36873635729620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513063,
+            "empire_id":136253041,
+            "locality_id":1343509899,
+            "region_id":85669725
+        }
+    ],
+    "wof:id":1343509899,
+    "wof:lastmodified":1537594109,
+    "wof:name":"Anping",
+    "wof:parent_id":890513063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.34504,
+    30.96384,
+    109.34504,
+    30.96384
+],
+  "geometry": {"coordinates":[109.34504,30.96384],"type":"Point"}
+}

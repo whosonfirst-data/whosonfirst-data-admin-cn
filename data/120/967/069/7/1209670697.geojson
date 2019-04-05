@@ -1,0 +1,64 @@
+{
+  "id": 1209670697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.17099,35.47393,119.17099,35.47393",
+    "geom:latitude":35.47393,
+    "geom:longitude":119.17099,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Xiaozhuang",
+    "gn:country_code":"CN",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9116530,
+    "gn:latitude":35.47393,
+    "gn:longitude":119.17099,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Xiaozhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5c0f\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9116530
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0c8b9367c2f59ddfffe4d36888139e05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209670697
+        }
+    ],
+    "wof:id":1209670697,
+    "wof:lastmodified":1537605206,
+    "wof:name":"Xiaozhuang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.17099,
+    35.47393,
+    119.17099,
+    35.47393
+],
+  "geometry": {"coordinates":[119.17099,35.47393],"type":"Point"}
+}

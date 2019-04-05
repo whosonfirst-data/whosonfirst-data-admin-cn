@@ -1,0 +1,64 @@
+{
+  "id": 1209271323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.80141,32.55581,108.80141,32.55581",
+    "geom:latitude":32.55581,
+    "geom:longitude":108.80141,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Wugenshu",
+    "gn:country_code":"CN",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11332296,
+    "gn:latitude":32.55581,
+    "gn:longitude":108.80141,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Wugenshu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e94\u6839\u6811"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11332296
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4220813485c5a9a3eb01cc563404e2cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209271323
+        }
+    ],
+    "wof:id":1209271323,
+    "wof:lastmodified":1537616147,
+    "wof:name":"Wugenshu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.80141,
+    32.55581,
+    108.80141,
+    32.55581
+],
+  "geometry": {"coordinates":[108.80141,32.55581],"type":"Point"}
+}

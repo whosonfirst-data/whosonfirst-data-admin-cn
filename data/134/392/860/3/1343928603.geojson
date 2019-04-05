@@ -1,0 +1,78 @@
+{
+  "id": 1343928603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.5,28.4,87.5,28.4",
+    "geom:latitude":28.4,
+    "geom:longitude":87.5,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Xia Cogo",
+    "gn:country_code":"CN",
+    "gn:dem":4774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8059046,
+    "gn:latitude":28.4,
+    "gn:longitude":87.5,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Xia Cogo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Xia Cogo"
+    ],
+    "name:zho_x_preferred":[
+        "Xia Cuoguo"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0b\u63aa\u679c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8059046
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"75cd9d494cfb6c099b4b09034c4282b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1343928603,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1343928603,
+    "wof:lastmodified":1537602493,
+    "wof:name":"Xia Cogo",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.5,
+    28.4,
+    87.5,
+    28.4
+],
+  "geometry": {"coordinates":[87.5,28.4],"type":"Point"}
+}

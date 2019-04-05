@@ -1,0 +1,77 @@
+{
+  "id": 1226191353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.30694,29.93389,104.30694,29.93389",
+    "geom:latitude":29.93389,
+    "geom:longitude":104.30694,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Fujia",
+    "gn:country_code":"CN",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1811026,
+    "gn:latitude":29.93389,
+    "gn:longitude":104.30694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fujia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fu-chia-chen",
+        "Fujiachang",
+        "Fujia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bcc\u52a0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890515003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1811026
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d49247afa744a92e5fa52228b36440ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515003,
+            "empire_id":136253041,
+            "locality_id":1226191353,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1226191353,
+    "wof:lastmodified":1537593676,
+    "wof:name":"Fujia",
+    "wof:parent_id":890515003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.30694,
+    29.93389,
+    104.30694,
+    29.93389
+],
+  "geometry": {"coordinates":[104.30694,29.93389],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209024109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.21731,39.76391,118.21731,39.76391",
+    "geom:latitude":39.76391,
+    "geom:longitude":118.21731,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zhaizi",
+    "gn:country_code":"CN",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9936746,
+    "gn:latitude":39.76391,
+    "gn:longitude":118.21731,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Zhaizi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5be8\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9936746
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c699edfae92ad8d3b2c943a0281469ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209024109
+        }
+    ],
+    "wof:id":1209024109,
+    "wof:lastmodified":1537607870,
+    "wof:name":"Zhaizi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.21731,
+    39.76391,
+    118.21731,
+    39.76391
+],
+  "geometry": {"coordinates":[118.21731,39.76391],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1260160819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.20425,30.71187,111.20425,30.71187",
+    "geom:latitude":30.71187,
+    "geom:longitude":111.20425,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Jianjiazui",
+    "gn:country_code":"CN",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7695911,
+    "gn:latitude":30.71187,
+    "gn:longitude":111.20425,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Jianjiazui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Jianjiazui"
+    ],
+    "name:zho_x_variant":[
+        "\u7b80\u5bb6\u5480"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        890513331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7695911
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8373f4d4cd8b0f6598c243dabf48b125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513331,
+            "empire_id":136253041,
+            "locality_id":1260160819,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1260160819,
+    "wof:lastmodified":1537601141,
+    "wof:name":"Jianjiazui",
+    "wof:parent_id":890513331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.20425,
+    30.71187,
+    111.20425,
+    30.71187
+],
+  "geometry": {"coordinates":[111.20425,30.71187],"type":"Point"}
+}

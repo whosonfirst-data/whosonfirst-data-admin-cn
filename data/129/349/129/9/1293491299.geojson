@@ -1,0 +1,75 @@
+{
+  "id": 1293491299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.39651,30.78174,119.39651,30.78174",
+    "geom:latitude":30.78174,
+    "geom:longitude":119.39651,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Matianli",
+    "gn:country_code":"CN",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7675109,
+    "gn:latitude":30.78174,
+    "gn:longitude":119.39651,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Matianli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Matianli"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u7530\u91cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890515063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7675109
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"54e7c3cec9fc4591d6f0ef95667105f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515063,
+            "empire_id":136253041,
+            "locality_id":1293491299,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1293491299,
+    "wof:lastmodified":1537600849,
+    "wof:name":"Matianli",
+    "wof:parent_id":890515063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.39651,
+    30.78174000000001,
+    119.39651,
+    30.78174000000001
+],
+  "geometry": {"coordinates":[119.39651000000001,30.78174000000001],"type":"Point"}
+}

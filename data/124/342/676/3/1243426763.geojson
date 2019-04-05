@@ -1,0 +1,69 @@
+{
+  "id": 1243426763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.56667,24.23333,105.56667,24.23333",
+    "geom:latitude":24.23333,
+    "geom:longitude":105.56667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zhemu",
+    "gn:country_code":"CN",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1784747,
+    "gn:latitude":24.23333,
+    "gn:longitude":105.56667,
+    "gn:modification_date":"1994-02-05",
+    "gn:name":"Zhemu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669717,
+        102191569,
+        85632695,
+        136253041,
+        890516485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1784747
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ac0cac56331661aa908edffe9d8cb435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516485,
+            "empire_id":136253041,
+            "locality_id":1243426763,
+            "region_id":85669717
+        }
+    ],
+    "wof:id":1243426763,
+    "wof:lastmodified":1536832912,
+    "wof:name":"Zhemu",
+    "wof:parent_id":890516485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.56667,
+    24.23333,
+    105.56667,
+    24.23333
+],
+  "geometry": {"coordinates":[105.56667,24.23333],"type":"Point"}
+}

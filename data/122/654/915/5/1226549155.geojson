@@ -1,0 +1,75 @@
+{
+  "id": 1226549155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.57629,31.24011,116.57629,31.24011",
+    "geom:latitude":31.24011,
+    "geom:longitude":116.57629,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zhenrencun",
+    "gn:country_code":"CN",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10635182,
+    "gn:latitude":31.24011,
+    "gn:longitude":116.57629,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Zhenrencun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u771f\u4eba\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u771f\u4ec1\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890513745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10635182
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b3e8e5096f562947a60200662e2cfcfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513745,
+            "empire_id":136253041,
+            "locality_id":1226549155,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1226549155,
+    "wof:lastmodified":1537613828,
+    "wof:name":"Zhenrencun",
+    "wof:parent_id":890513745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.57629,
+    31.24011,
+    116.57629,
+    31.24011
+],
+  "geometry": {"coordinates":[116.57629,31.24011],"type":"Point"}
+}

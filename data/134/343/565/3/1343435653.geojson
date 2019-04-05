@@ -1,0 +1,76 @@
+{
+  "id": 1343435653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.97506,40.71527,124.97506,40.71527",
+    "geom:latitude":40.71527,
+    "geom:longitude":124.97506,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shanghao Zigoucun",
+    "gn:country_code":"CN",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11505108,
+    "gn:latitude":40.71527,
+    "gn:longitude":124.97506,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Shanghao Zigoucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shanghaozigoucun",
+        "Shanghao Zigoucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u84bf\u5b50\u6c9f\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11505108
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9619e86dc27fb99995ef54a987b1aa21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514725,
+            "empire_id":136253041,
+            "locality_id":1343435653,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1343435653,
+    "wof:lastmodified":1537617064,
+    "wof:name":"Shanghao Zigoucun",
+    "wof:parent_id":890514725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.97506,
+    40.71527,
+    124.97506,
+    40.71527
+],
+  "geometry": {"coordinates":[124.97506,40.71527],"type":"Point"}
+}

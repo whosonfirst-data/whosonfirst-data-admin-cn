@@ -1,0 +1,76 @@
+{
+  "id": 1226233855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.78819,25.73596,116.78819,25.73596",
+    "geom:latitude":25.73596,
+    "geom:longitude":116.78819,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Luwu",
+    "gn:country_code":"CN",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7526174,
+    "gn:latitude":25.73596,
+    "gn:longitude":116.78819,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"L\u00fcwu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00fcwu",
+        "\u5415\u5c4b"
+    ],
+    "name:zho_x_preferred":[
+        "\u5415\u5c4b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7526174
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"efa2cb97c8c18f07eff55f3d18daa36a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516203,
+            "empire_id":136253041,
+            "locality_id":1226233855,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1226233855,
+    "wof:lastmodified":1537599877,
+    "wof:name":"Luwu",
+    "wof:parent_id":890516203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.78819,
+    25.73596,
+    116.78819,
+    25.73596
+],
+  "geometry": {"coordinates":[116.78819,25.73596],"type":"Point"}
+}

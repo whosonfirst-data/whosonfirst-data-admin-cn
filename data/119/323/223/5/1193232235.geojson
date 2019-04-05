@@ -1,0 +1,82 @@
+{
+  "id": 1193232235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.46742,29.35937,105.46742,29.35937",
+    "geom:latitude":29.35937,
+    "geom:longitude":105.46742,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Anfu",
+    "gn:country_code":"CN",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1818082,
+    "gn:latitude":29.35937,
+    "gn:longitude":105.46742,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Anfu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An-fu-chen",
+        "Anfu Zhen",
+        "Anfu",
+        "Anbei"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5bcc"
+    ],
+    "name:zho_x_variant":[
+        "\u5b89\u5317",
+        "\u5b89\u5bcc\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669725,
+        102191569,
+        85632695,
+        136253041,
+        890513063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818082
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6d3a61127d828533a3909c315675cd74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513063,
+            "empire_id":136253041,
+            "locality_id":1193232235,
+            "region_id":85669725
+        }
+    ],
+    "wof:id":1193232235,
+    "wof:lastmodified":1537594113,
+    "wof:name":"Anfu",
+    "wof:parent_id":890513063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.46742,
+    29.35937,
+    105.46742,
+    29.35937
+],
+  "geometry": {"coordinates":[105.46742,29.35937],"type":"Point"}
+}

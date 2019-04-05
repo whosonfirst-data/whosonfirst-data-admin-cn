@@ -1,0 +1,78 @@
+{
+  "id": 1243334253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.004,31.104,97.004,31.104",
+    "geom:latitude":31.104,
+    "geom:longitude":97.004,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jondag",
+    "gn:country_code":"CN",
+    "gn:dem":4033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8041759,
+    "gn:latitude":31.104,
+    "gn:longitude":97.004,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Jondag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Jondag"
+    ],
+    "name:zho_x_preferred":[
+        "Jiaoda"
+    ],
+    "name:zho_x_variant":[
+        "\u4ea4\u8fbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8041759
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"428e3fe2c0f6c6f003c8ebacaae63e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1243334253,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1243334253,
+    "wof:lastmodified":1537602339,
+    "wof:name":"Jondag",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.004,
+    31.104,
+    97.004,
+    31.104
+],
+  "geometry": {"coordinates":[97.004,31.104],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 890515961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.32861,40.02611,124.32861,40.02611",
+    "geom:latitude":40.02611,
+    "geom:longitude":124.32861,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":59046,
+    "gp:adm0":23424781,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Lang-t\u2019ou-chen"
+    ],
+    "qs:name":"\u6d6a\u5934\u9547",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u8fbd\u5b81\u7701",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2036241,
+        "gp:id":2148008,
+        "qs:id":1033579
+    },
+    "wof:country":"CN",
+    "wof:created":1469055937,
+    "wof:geomhash":"099d784dbcb7dea88c312fc4759d0ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514725,
+            "empire_id":136253041,
+            "locality_id":890515961,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":890515961,
+    "wof:lastmodified":1505343900,
+    "wof:name":"\u6d6a\u5934\u9547",
+    "wof:parent_id":890514725,
+    "wof:placetype":"locality",
+    "wof:population":59046,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.32861,
+    40.02611,
+    124.32861,
+    40.02611
+],
+  "geometry": {"coordinates":[124.32861,40.02611],"type":"Point"}
+}

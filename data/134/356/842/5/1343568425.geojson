@@ -1,0 +1,77 @@
+{
+  "id": 1343568425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.97348,28.5018,117.97348,28.5018",
+    "geom:latitude":28.5018,
+    "geom:longitude":117.97348,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shishi",
+    "gn:country_code":"CN",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":7064965,
+    "gn:latitude":28.5018,
+    "gn:longitude":117.97348,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Shishi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shishi Xiang",
+        "\u77f3\u72ee\u4e61",
+        "Shishi"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u72ee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669823,
+        102191569,
+        85632695,
+        136253041,
+        890515869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7064965
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d9d3a49f532870071e8416511a3b1731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515869,
+            "empire_id":136253041,
+            "locality_id":1343568425,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":1343568425,
+    "wof:lastmodified":1537597706,
+    "wof:name":"Shishi",
+    "wof:parent_id":890515869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.97348,
+    28.5018,
+    117.97348,
+    28.5018
+],
+  "geometry": {"coordinates":[117.97348,28.5018],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1209798653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.101,29.101,97.101,29.101",
+    "geom:latitude":29.101,
+    "geom:longitude":97.101,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Colung",
+    "gn:country_code":"CN",
+    "gn:dem":5271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":7928929,
+    "gn:latitude":29.101,
+    "gn:longitude":97.101,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Colung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Colung"
+    ],
+    "name:zho_x_preferred":[
+        "Cilong"
+    ],
+    "name:zho_x_variant":[
+        "\u6b21\u9f99",
+        "Weiqu",
+        "\u5a01\u66f2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7928929
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ba399545975e107dbbef6002be55727d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515951,
+            "empire_id":136253041,
+            "locality_id":1209798653,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1209798653,
+    "wof:lastmodified":1537602050,
+    "wof:name":"Colung",
+    "wof:parent_id":890515951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.101,
+    29.101,
+    97.101,
+    29.101
+],
+  "geometry": {"coordinates":[97.101,29.101],"type":"Point"}
+}

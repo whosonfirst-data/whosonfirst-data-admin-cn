@@ -1,0 +1,64 @@
+{
+  "id": 1209065881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.805,32.8577,101.805,32.8577",
+    "geom:latitude":32.8577,
+    "geom:longitude":101.805,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Xucang",
+    "gn:country_code":"CN",
+    "gn:dem":3281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10203076,
+    "gn:latitude":32.8577,
+    "gn:longitude":101.805,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Xucang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5f90\u85cf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10203076
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9a5eb38656925210484cb67fa4f47c12",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209065881
+        }
+    ],
+    "wof:id":1209065881,
+    "wof:lastmodified":1537611334,
+    "wof:name":"Xucang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.805,
+    32.8577,
+    101.805,
+    32.8577
+],
+  "geometry": {"coordinates":[101.80500000000001,32.8577],"type":"Point"}
+}

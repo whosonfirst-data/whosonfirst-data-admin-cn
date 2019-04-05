@@ -1,0 +1,64 @@
+{
+  "id": 1209562223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.619,23.7563,100.619,23.7563",
+    "geom:latitude":23.7563,
+    "geom:longitude":100.619,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Yingpan",
+    "gn:country_code":"CN",
+    "gn:dem":1333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9923949,
+    "gn:latitude":23.7563,
+    "gn:longitude":100.619,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Yingpan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8425\u76d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9923949
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"db41d632a0e29ff84dec6e7a4a8f753a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209562223
+        }
+    ],
+    "wof:id":1209562223,
+    "wof:lastmodified":1537607440,
+    "wof:name":"Yingpan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.619,
+    23.7563,
+    100.619,
+    23.7563
+],
+  "geometry": {"coordinates":[100.619,23.7563],"type":"Point"}
+}

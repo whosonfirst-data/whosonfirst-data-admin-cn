@@ -1,0 +1,75 @@
+{
+  "id": 1226056199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.08662,31.08159,119.08662,31.08159",
+    "geom:latitude":31.08159,
+    "geom:longitude":119.08662,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lao'anchong",
+    "gn:country_code":"CN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7675438,
+    "gn:latitude":31.08159,
+    "gn:longitude":119.08662,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Lao\u2019anchong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u8001\u5b89\u51b2"
+    ],
+    "name:zho_x_preferred":[
+        "Lao\u2019anchong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890515063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7675438
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"dc5e66958dcb451b6ba453c257b1bd4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515063,
+            "empire_id":136253041,
+            "locality_id":1226056199,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1226056199,
+    "wof:lastmodified":1537600867,
+    "wof:name":"Lao'anchong",
+    "wof:parent_id":890515063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.08662,
+    31.08159,
+    119.08662,
+    31.08159
+],
+  "geometry": {"coordinates":[119.08662,31.08159],"type":"Point"}
+}

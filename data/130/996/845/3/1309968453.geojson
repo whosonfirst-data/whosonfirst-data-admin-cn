@@ -1,0 +1,77 @@
+{
+  "id": 1309968453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.63653,40.85806,123.63653,40.85806",
+    "geom:latitude":40.85806,
+    "geom:longitude":123.63653,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Xibu",
+    "gn:country_code":"CN",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7397981,
+    "gn:latitude":40.85806,
+    "gn:longitude":123.63653,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Xibu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xibao",
+        "\u897f\u5821",
+        "Xibu"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u5821"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890513783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7397981
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"389e30949e4103b3ad031c4386f19fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513783,
+            "empire_id":136253041,
+            "locality_id":1309968453,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1309968453,
+    "wof:lastmodified":1537598545,
+    "wof:name":"Xibu",
+    "wof:parent_id":890513783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.63653,
+    40.85806,
+    123.63653,
+    40.85806
+],
+  "geometry": {"coordinates":[123.63652999999999,40.85806],"type":"Point"}
+}

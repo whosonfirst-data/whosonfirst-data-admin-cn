@@ -1,0 +1,78 @@
+{
+  "id": 1226342213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.20469,32.32332,120.20469,32.32332",
+    "geom:latitude":32.32332,
+    "geom:longitude":120.20469,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Panjiazhuang",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8540000,
+    "gn:latitude":32.32332,
+    "gn:longitude":120.20469,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Panjiazhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panyuan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6f58\u5bb6\u5e84"
+    ],
+    "name:zho_x_variant":[
+        "\u6f58\u5143"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8540000
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"62a890ecfb2936241c7b5b6fa3eef994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516237,
+            "empire_id":136253041,
+            "locality_id":1226342213,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1226342213,
+    "wof:lastmodified":1537604381,
+    "wof:name":"Panjiazhuang",
+    "wof:parent_id":890516237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.20469,
+    32.32332,
+    120.20469,
+    32.32332
+],
+  "geometry": {"coordinates":[120.20469,32.32332],"type":"Point"}
+}

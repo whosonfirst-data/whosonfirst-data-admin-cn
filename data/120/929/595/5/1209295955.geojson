@@ -1,0 +1,64 @@
+{
+  "id": 1209295955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.547,24.2828,108.547,24.2828",
+    "geom:latitude":24.2828,
+    "geom:longitude":108.547,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ganwen",
+    "gn:country_code":"CN",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9945732,
+    "gn:latitude":24.2828,
+    "gn:longitude":108.547,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Ganwen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7518\u6587"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9945732
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"935f9465d178b10bac3c73dcd92d5c08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209295955
+        }
+    ],
+    "wof:id":1209295955,
+    "wof:lastmodified":1537608174,
+    "wof:name":"Ganwen",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.547,
+    24.2828,
+    108.547,
+    24.2828
+],
+  "geometry": {"coordinates":[108.547,24.2828],"type":"Point"}
+}

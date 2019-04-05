@@ -1,0 +1,75 @@
+{
+  "id": 1326734137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.08148,30.38373,116.08148,30.38373",
+    "geom:latitude":30.38373,
+    "geom:longitude":116.08148,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jiujinggoucun",
+    "gn:country_code":"CN",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1555531,
+    "gn:latitude":30.38373,
+    "gn:longitude":116.08148,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Jiujinggoucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jiujinggou"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e5d\u4e95\u6c9f\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890516201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1555531
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"741229a7e5e877911b8e941a9afdb2ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516201,
+            "empire_id":136253041,
+            "locality_id":1326734137,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1326734137,
+    "wof:lastmodified":1537591808,
+    "wof:name":"Jiujinggoucun",
+    "wof:parent_id":890516201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.08148,
+    30.38373,
+    116.08148,
+    30.38373
+],
+  "geometry": {"coordinates":[116.08148,30.38373],"type":"Point"}
+}

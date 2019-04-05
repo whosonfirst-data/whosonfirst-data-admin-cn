@@ -1,0 +1,64 @@
+{
+  "id": 1209402281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.15429,26.46545,113.15429,26.46545",
+    "geom:latitude":26.46545,
+    "geom:longitude":113.15429,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Zhoujiaping",
+    "gn:country_code":"CN",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1930509,
+    "gn:latitude":26.46545,
+    "gn:longitude":113.15429,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Zhoujiaping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5468\u5bb6\u576a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1930509
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"540ad8f720aa4056209eb16f42d9a024",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209402281
+        }
+    ],
+    "wof:id":1209402281,
+    "wof:lastmodified":1537595016,
+    "wof:name":"Zhoujiaping",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.15429,
+    26.46545,
+    113.15429,
+    26.46545
+],
+  "geometry": {"coordinates":[113.15429,26.46545],"type":"Point"}
+}

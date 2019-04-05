@@ -1,0 +1,69 @@
+{
+  "id": 1225905103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.96667,25.08333,99.96667,25.08333",
+    "geom:latitude":25.08333,
+    "geom:longitude":99.96667,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Zhujie",
+    "gn:country_code":"CN",
+    "gn:dem":1458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1279446,
+    "gn:latitude":25.08333,
+    "gn:longitude":99.96667,
+    "gn:modification_date":"2001-08-01",
+    "gn:name":"Zhujie",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        890514251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1279446
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0069a79b5b1bd5baeff41a0378e5ec23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514251,
+            "empire_id":136253041,
+            "locality_id":1225905103,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1225905103,
+    "wof:lastmodified":1536929029,
+    "wof:name":"Zhujie",
+    "wof:parent_id":890514251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.96667,
+    25.08333,
+    99.96667,
+    25.08333
+],
+  "geometry": {"coordinates":[99.96666999999999,25.08333],"type":"Point"}
+}

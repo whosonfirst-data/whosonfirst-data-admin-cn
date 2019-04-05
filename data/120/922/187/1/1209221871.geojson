@@ -1,0 +1,64 @@
+{
+  "id": 1209221871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.65409,29.317,117.65409,29.317",
+    "geom:latitude":29.317,
+    "geom:longitude":117.65409,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hemu",
+    "gn:country_code":"CN",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7652045,
+    "gn:latitude":29.317,
+    "gn:longitude":117.65409,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Hemu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u548c\u7766"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7652045
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a79854eca79ac8f9d0f64caf0f79e95d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209221871
+        }
+    ],
+    "wof:id":1209221871,
+    "wof:lastmodified":1537600601,
+    "wof:name":"Hemu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.65409,
+    29.317,
+    117.65409,
+    29.317
+],
+  "geometry": {"coordinates":[117.65409,29.317],"type":"Point"}
+}

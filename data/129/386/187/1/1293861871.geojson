@@ -1,0 +1,78 @@
+{
+  "id": 1293861871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.42036,28.29289,109.42036,28.29289",
+    "geom:latitude":28.29289,
+    "geom:longitude":109.42036,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Buchou",
+    "gn:country_code":"CN",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8529535,
+    "gn:latitude":28.29289,
+    "gn:longitude":109.42036,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Buchou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buchou Xiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u8865\u62bd"
+    ],
+    "name:zho_x_variant":[
+        "\u8865\u62bd\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        1108794059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8529535
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b22acd336e82d195b9cc46a542d64ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794059,
+            "empire_id":136253041,
+            "locality_id":1293861871,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1293861871,
+    "wof:lastmodified":1537604339,
+    "wof:name":"Buchou",
+    "wof:parent_id":1108794059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.42036,
+    28.29289,
+    109.42036,
+    28.29289
+],
+  "geometry": {"coordinates":[109.42036,28.29289],"type":"Point"}
+}

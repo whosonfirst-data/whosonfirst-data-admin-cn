@@ -1,0 +1,64 @@
+{
+  "id": 1209208485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.96535,41.37135,115.96535,41.37135",
+    "geom:latitude":41.37135,
+    "geom:longitude":115.96535,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Laozhanggou",
+    "gn:country_code":"CN",
+    "gn:dem":1575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10000149,
+    "gn:latitude":41.37135,
+    "gn:longitude":115.96535,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Laozhanggou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8001\u638c\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10000149
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c04dc336f98973fb62fe70278a2c802c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209208485
+        }
+    ],
+    "wof:id":1209208485,
+    "wof:lastmodified":1537608609,
+    "wof:name":"Laozhanggou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.96535,
+    41.37135,
+    115.96535,
+    41.37135
+],
+  "geometry": {"coordinates":[115.96535,41.37135],"type":"Point"}
+}

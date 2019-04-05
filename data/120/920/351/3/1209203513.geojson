@@ -1,0 +1,64 @@
+{
+  "id": 1209203513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.65078,39.50104,114.65078,39.50104",
+    "geom:latitude":39.50104,
+    "geom:longitude":114.65078,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Shaoche",
+    "gn:country_code":"CN",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9642129,
+    "gn:latitude":39.50104,
+    "gn:longitude":114.65078,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Shaoche",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u70e7\u8f66"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9642129
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d0852d705fe5d1ea879fa138d067d8f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209203513
+        }
+    ],
+    "wof:id":1209203513,
+    "wof:lastmodified":1537606204,
+    "wof:name":"Shaoche",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.65078,
+    39.50104,
+    114.65078,
+    39.50104
+],
+  "geometry": {"coordinates":[114.65078,39.50104],"type":"Point"}
+}

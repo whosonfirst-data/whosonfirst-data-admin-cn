@@ -1,0 +1,64 @@
+{
+  "id": 1209184221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.99607,34.67659,103.99607,34.67659",
+    "geom:latitude":34.67659,
+    "geom:longitude":103.99607,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Yinuna",
+    "gn:country_code":"CN",
+    "gn:dem":2785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7343250,
+    "gn:latitude":34.67659,
+    "gn:longitude":103.99607,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Yinuna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5b9c\u52aa\u7eb3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7343250
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b2e9aaa81cb3a9505d086dcad6705bb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209184221
+        }
+    ],
+    "wof:id":1209184221,
+    "wof:lastmodified":1537598152,
+    "wof:name":"Yinuna",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.99607,
+    34.67659,
+    103.99607,
+    34.67659
+],
+  "geometry": {"coordinates":[103.99607,34.67659],"type":"Point"}
+}

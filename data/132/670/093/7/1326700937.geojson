@@ -1,0 +1,78 @@
+{
+  "id": 1326700937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.6,30.0,95.6,30.0",
+    "geom:latitude":30.0,
+    "geom:longitude":95.6,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dinagka",
+    "gn:country_code":"CN",
+    "gn:dem":2895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7927575,
+    "gn:latitude":30.0,
+    "gn:longitude":95.6,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dinagka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Dinagka"
+    ],
+    "name:zho_x_preferred":[
+        "Dinaka"
+    ],
+    "name:zho_x_variant":[
+        "\u5730\u90a3\u5361"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7927575
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"877466d8f64e13c9638ea1709c887b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515951,
+            "empire_id":136253041,
+            "locality_id":1326700937,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1326700937,
+    "wof:lastmodified":1537602018,
+    "wof:name":"Dinagka",
+    "wof:parent_id":890515951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.6,
+    30.0,
+    95.6,
+    30.0
+],
+  "geometry": {"coordinates":[95.59999999999999,30.0],"type":"Point"}
+}

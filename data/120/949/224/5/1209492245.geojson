@@ -1,0 +1,64 @@
+{
+  "id": 1209492245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.84169,30.71565,109.84169,30.71565",
+    "geom:latitude":30.71565,
+    "geom:longitude":109.84169,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Heicao",
+    "gn:country_code":"CN",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8517559,
+    "gn:latitude":30.71565,
+    "gn:longitude":109.84169,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Heicao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9ed1\u69fd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8517559
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"752af84a1e44c433c1d24a778965ffdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209492245
+        }
+    ],
+    "wof:id":1209492245,
+    "wof:lastmodified":1537604171,
+    "wof:name":"Heicao",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.84169,
+    30.71565,
+    109.84169,
+    30.71565
+],
+  "geometry": {"coordinates":[109.84169,30.71565],"type":"Point"}
+}

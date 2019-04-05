@@ -1,0 +1,78 @@
+{
+  "id": 1293662825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.502,32.202,92.502,32.202",
+    "geom:latitude":32.202,
+    "geom:longitude":92.502,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Marzagkongma",
+    "gn:country_code":"CN",
+    "gn:dem":4876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8045665,
+    "gn:latitude":32.202,
+    "gn:longitude":92.502,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Marzagkongma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Marzagkongma"
+    ],
+    "name:zho_x_preferred":[
+        "Mazhagongma"
+    ],
+    "name:zho_x_variant":[
+        "\u739b\u624e\u8d21\u739b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8045665
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d4a672f9b6a660ce20a29f2b664fdf31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1293662825,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1293662825,
+    "wof:lastmodified":1537602388,
+    "wof:name":"Marzagkongma",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.502,
+    32.202,
+    92.502,
+    32.202
+],
+  "geometry": {"coordinates":[92.502,32.202],"type":"Point"}
+}

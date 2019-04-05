@@ -1,0 +1,64 @@
+{
+  "id": 1209460489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.971,30.4338,103.971,30.4338",
+    "geom:latitude":30.4338,
+    "geom:longitude":103.971,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Xinjian",
+    "gn:country_code":"CN",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10196611,
+    "gn:latitude":30.4338,
+    "gn:longitude":103.971,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Xinjian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u65b0\u5efa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10196611
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ed603ad890f4807805adb2ee8c22a762",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209460489
+        }
+    ],
+    "wof:id":1209460489,
+    "wof:lastmodified":1537611175,
+    "wof:name":"Xinjian",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.971,
+    30.4338,
+    103.971,
+    30.4338
+],
+  "geometry": {"coordinates":[103.971,30.4338],"type":"Point"}
+}

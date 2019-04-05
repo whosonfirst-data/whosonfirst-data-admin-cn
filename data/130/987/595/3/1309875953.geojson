@@ -1,0 +1,75 @@
+{
+  "id": 1309875953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.03009,33.34604,105.03009,33.34604",
+    "geom:latitude":33.34604,
+    "geom:longitude":105.03009,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Luojiazhai",
+    "gn:country_code":"CN",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7340456,
+    "gn:latitude":33.34604,
+    "gn:longitude":105.03009,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Luojiazhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u7f57\u5bb6\u5be8"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u5bb6\u5be8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669711,
+        102191569,
+        85632695,
+        136253041,
+        890516335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7340456
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e435138f4913baccdc3c371b63963ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516335,
+            "empire_id":136253041,
+            "locality_id":1309875953,
+            "region_id":85669711
+        }
+    ],
+    "wof:id":1309875953,
+    "wof:lastmodified":1537598139,
+    "wof:name":"Luojiazhai",
+    "wof:parent_id":890516335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.03009,
+    33.34604,
+    105.03009,
+    33.34604
+],
+  "geometry": {"coordinates":[105.03009,33.34604],"type":"Point"}
+}

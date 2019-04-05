@@ -1,0 +1,75 @@
+{
+  "id": 1293839575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.51111,35.75855,111.51111,35.75855",
+    "geom:latitude":35.75855,
+    "geom:longitude":111.51111,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Shanxia",
+    "gn:country_code":"CN",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7581503,
+    "gn:latitude":35.75855,
+    "gn:longitude":111.51111,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shanxia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5c71\u4e0b"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c71\u4e0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        1108732337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7581503
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f821c282b7516f5f985b445f6d77c0f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732337,
+            "empire_id":136253041,
+            "locality_id":1293839575,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1293839575,
+    "wof:lastmodified":1537600108,
+    "wof:name":"Shanxia",
+    "wof:parent_id":1108732337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.51111000000002,
+    35.75855,
+    111.51111000000002,
+    35.75855
+],
+  "geometry": {"coordinates":[111.51111000000002,35.75855],"type":"Point"}
+}

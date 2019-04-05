@@ -1,0 +1,78 @@
+{
+  "id": 1209798665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.706,32.006,93.706,32.006",
+    "geom:latitude":32.006,
+    "geom:longitude":93.706,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nabzha",
+    "gn:country_code":"CN",
+    "gn:dem":4091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8046436,
+    "gn:latitude":32.006,
+    "gn:longitude":93.706,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Nabzha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Nabzha"
+    ],
+    "name:zho_x_preferred":[
+        "Nazha"
+    ],
+    "name:zho_x_variant":[
+        "\u7eb3\u624e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8046436
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c2e4c6a8eb1ba1afde096cee5e52f9c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1209798665,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1209798665,
+    "wof:lastmodified":1537602407,
+    "wof:name":"Nabzha",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.706,
+    32.006,
+    93.706,
+    32.006
+],
+  "geometry": {"coordinates":[93.706,32.006],"type":"Point"}
+}

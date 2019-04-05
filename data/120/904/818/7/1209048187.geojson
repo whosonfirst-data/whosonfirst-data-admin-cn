@@ -1,0 +1,64 @@
+{
+  "id": 1209048187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.745,27.0505,101.745,27.0505",
+    "geom:latitude":27.0505,
+    "geom:longitude":101.745,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Yunnanping",
+    "gn:country_code":"CN",
+    "gn:dem":2108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10219160,
+    "gn:latitude":27.0505,
+    "gn:longitude":101.745,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Yunnanping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e91\u5357\u576a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10219160
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5b797a25443de48338c4a8f31ab4ede9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209048187
+        }
+    ],
+    "wof:id":1209048187,
+    "wof:lastmodified":1537611617,
+    "wof:name":"Yunnanping",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.745,
+    27.0505,
+    101.745,
+    27.0505
+],
+  "geometry": {"coordinates":[101.745,27.0505],"type":"Point"}
+}

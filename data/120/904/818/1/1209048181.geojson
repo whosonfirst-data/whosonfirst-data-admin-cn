@@ -1,0 +1,64 @@
+{
+  "id": 1209048181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.744,32.6162,101.744,32.6162",
+    "geom:latitude":32.6162,
+    "geom:longitude":101.744,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Alayang",
+    "gn:country_code":"CN",
+    "gn:dem":3218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10202985,
+    "gn:latitude":32.6162,
+    "gn:longitude":101.744,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Alayang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u963f\u62c9\u592e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10202985
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a276b5cb57fb0ba5a04a2e6fea830d8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209048181
+        }
+    ],
+    "wof:id":1209048181,
+    "wof:lastmodified":1537611331,
+    "wof:name":"Alayang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.744,
+    32.6162,
+    101.744,
+    32.6162
+],
+  "geometry": {"coordinates":[101.744,32.6162],"type":"Point"}
+}

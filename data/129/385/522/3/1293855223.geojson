@@ -1,0 +1,84 @@
+{
+  "id": 1293855223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.52446,35.34912,79.52446,35.34912",
+    "geom:latitude":35.34912,
+    "geom:longitude":79.52446,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tianshuihai",
+    "gn:country_code":"CN",
+    "gn:dem":4842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1254553,
+    "gn:latitude":35.34912,
+    "gn:longitude":79.52446,
+    "gn:modification_date":"2014-04-30",
+    "gn:name":"Tianshuihai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u2019ien-shui-hai"
+    ],
+    "name:zho_x_preferred":[
+        "\u751c\u6c34\u6d77"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695697,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1254553
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"245f478b124ca1114cfcad9ef05cf3c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":1293855223,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":1293855223,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":1293855223,
+    "wof:lastmodified":1537591368,
+    "wof:name":"Tianshuihai",
+    "wof:parent_id":1108695697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.52445999999998,
+    35.34912,
+    79.52445999999998,
+    35.34912
+],
+  "geometry": {"coordinates":[79.52445999999998,35.34912],"type":"Point"}
+}

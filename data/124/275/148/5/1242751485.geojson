@@ -1,0 +1,80 @@
+{
+  "id": 1242751485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.2,29.3,89.2,29.3",
+    "geom:latitude":29.3,
+    "geom:longitude":89.2,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Numri",
+    "gn:country_code":"CN",
+    "gn:dem":4324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8046595,
+    "gn:latitude":29.3,
+    "gn:longitude":89.2,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Numri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Numri"
+    ],
+    "name:zho_x_preferred":[
+        "Nongri"
+    ],
+    "name:zho_x_variant":[
+        "\u5f04\u65e5",
+        "Jiangdang Qu",
+        "\u6c5f\u5f53\u533a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8046595
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b9e64887a802ecd1bc85b21fdaad6ed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1242751485,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1242751485,
+    "wof:lastmodified":1537602418,
+    "wof:name":"Numri",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.2,
+    29.3,
+    89.2,
+    29.3
+],
+  "geometry": {"coordinates":[89.2,29.3],"type":"Point"}
+}

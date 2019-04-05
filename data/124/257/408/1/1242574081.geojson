@@ -1,0 +1,78 @@
+{
+  "id": 1242574081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.86536,46.60099,129.86536,46.60099",
+    "geom:latitude":46.60099,
+    "geom:longitude":129.86536,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Zhulian",
+    "gn:country_code":"CN",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8522889,
+    "gn:latitude":46.60099,
+    "gn:longitude":129.86536,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Zhulian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhulian Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u7af9\u5e18"
+    ],
+    "name:zho_x_variant":[
+        "\u7af9\u5e18\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890514505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8522889
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5bd7552f5e434c0df9429ace6401309e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514505,
+            "empire_id":136253041,
+            "locality_id":1242574081,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1242574081,
+    "wof:lastmodified":1537604246,
+    "wof:name":"Zhulian",
+    "wof:parent_id":890514505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.86536,
+    46.60099,
+    129.86536,
+    46.60099
+],
+  "geometry": {"coordinates":[129.86536000000001,46.60099],"type":"Point"}
+}

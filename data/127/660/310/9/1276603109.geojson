@@ -1,0 +1,78 @@
+{
+  "id": 1276603109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.30496,23.79268,112.30496,23.79268",
+    "geom:latitude":23.79268,
+    "geom:longitude":112.30496,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Aozai",
+    "gn:country_code":"CN",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1817879,
+    "gn:latitude":23.79268,
+    "gn:longitude":112.30496,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Aozai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ao-tsai",
+        "Aozai",
+        "Aozai Zhen",
+        "\u5773\u4ed4\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u5773\u4ed4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890514727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1817879
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a48da51c931f0da0e49e48df0d19cdd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514727,
+            "empire_id":136253041,
+            "locality_id":1276603109,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1276603109,
+    "wof:lastmodified":1537594100,
+    "wof:name":"Aozai",
+    "wof:parent_id":890514727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.30496,
+    23.79268,
+    112.30496,
+    23.79268
+],
+  "geometry": {"coordinates":[112.30495999999999,23.79268],"type":"Point"}
+}

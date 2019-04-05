@@ -1,0 +1,69 @@
+{
+  "id": 1276744007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.95,26.05,111.95,26.05",
+    "geom:latitude":26.05,
+    "geom:longitude":111.95,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Huangbodong",
+    "gn:country_code":"CN",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1807573,
+    "gn:latitude":26.05,
+    "gn:longitude":111.95,
+    "gn:modification_date":"1994-02-05",
+    "gn:name":"Huangbodong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890515001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1807573
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"231a2ef38f99eb6ca121e7d3bead2ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515001,
+            "empire_id":136253041,
+            "locality_id":1276744007,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1276744007,
+    "wof:lastmodified":1536726029,
+    "wof:name":"Huangbodong",
+    "wof:parent_id":890515001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.95,
+    26.05,
+    111.95,
+    26.05
+],
+  "geometry": {"coordinates":[111.95,26.05],"type":"Point"}
+}

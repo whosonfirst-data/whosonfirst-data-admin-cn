@@ -1,0 +1,84 @@
+{
+  "id": 890512465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.05516,39.34284,117.05516,39.34284",
+    "geom:latitude":39.34284,
+    "geom:longitude":117.05516,
+    "gn:country":"CN",
+    "gn:fcode":"PPLA4",
+    "gn:pop":2908,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Huang-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ec4\u5e84"
+    ],
+    "name:zho_x_variant":[
+        "\u9ec4\u5e84\u8857\u9053"
+    ],
+    "qs:name":"Huangzhuang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85669817,
+        102191569,
+        85632695,
+        136253041,
+        890513813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1807103,
+        "gp:id":2159919,
+        "qs:id":136668
+    },
+    "wof:concordances_alt":{
+        "gn:id":1807104,
+        "gp:id":2159674,
+        "qs:id":136671
+    },
+    "wof:country":"CN",
+    "wof:created":1469055772,
+    "wof:geomhash":"ae4dc04e65a2a4a0d3ef7639698d328a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513813,
+            "empire_id":136253041,
+            "locality_id":890512465,
+            "region_id":85669817
+        }
+    ],
+    "wof:id":890512465,
+    "wof:lastmodified":1534379257,
+    "wof:name":"Huangzhuang",
+    "wof:parent_id":890513813,
+    "wof:placetype":"locality",
+    "wof:population":2908,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890512467
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.05516,
+    39.34284,
+    117.05516,
+    39.34284
+],
+  "geometry": {"coordinates":[117.05516,39.34284],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 890514165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.02718,31.5939,119.02718,31.5939",
+    "geom:latitude":31.5939,
+    "geom:longitude":119.02718,
+    "gn:country":"CN",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Li-shui Hsien"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ea7\u6c34\u53bf"
+    ],
+    "name:zho_x_variant":[
+        "\u6ea7\u6c34"
+    ],
+    "qs:name":"Lishui Xian",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":115,
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1803242,
+        "qs:id":1027645,
+        "wd:id":"Q1197700",
+        "wk:page":"Lishui District"
+    },
+    "wof:country":"CN",
+    "wof:created":1469055850,
+    "wof:geomhash":"cd0051e28b4fdf7de7c3c54fb57f7aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516425,
+            "empire_id":136253041,
+            "localadmin_id":890514165,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":890514165,
+    "wof:lastmodified":1527793059,
+    "wof:name":"Lishui Xian",
+    "wof:parent_id":890516425,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.02718,
+    31.5939,
+    119.02718,
+    31.5939
+],
+  "geometry": {"coordinates":[119.02718,31.5939],"type":"Point"}
+}

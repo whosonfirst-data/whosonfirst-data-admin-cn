@@ -1,0 +1,64 @@
+{
+  "id": 1209580923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.931,40.205,119.931,40.205",
+    "geom:latitude":40.205,
+    "geom:longitude":119.931,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Gezidong",
+    "gn:country_code":"CN",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7003299,
+    "gn:latitude":40.205,
+    "gn:longitude":119.931,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Gezidong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9e3d\u5b50\u6d1e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7003299
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"dc1092b4c24dce0f554ce39d9e35434e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209580923
+        }
+    ],
+    "wof:id":1209580923,
+    "wof:lastmodified":1537597306,
+    "wof:name":"Gezidong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.931,
+    40.205,
+    119.931,
+    40.205
+],
+  "geometry": {"coordinates":[119.931,40.205],"type":"Point"}
+}

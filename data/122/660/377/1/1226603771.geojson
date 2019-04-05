@@ -1,0 +1,75 @@
+{
+  "id": 1226603771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.01371,36.41166,106.01371,36.41166",
+    "geom:latitude":36.41166,
+    "geom:longitude":106.01371,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Heibugou",
+    "gn:country_code":"CN",
+    "gn:dem":1604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7515759,
+    "gn:latitude":36.41166,
+    "gn:longitude":106.01371,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Heibugou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9ed1\u5821\u6c9f"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed1\u5821\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669763,
+        102191569,
+        85632695,
+        136253041,
+        890512733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7515759
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9643b1f38d1f0f4c8ffd9245871a636e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512733,
+            "empire_id":136253041,
+            "locality_id":1226603771,
+            "region_id":85669763
+        }
+    ],
+    "wof:id":1226603771,
+    "wof:lastmodified":1537599645,
+    "wof:name":"Heibugou",
+    "wof:parent_id":890512733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.01371,
+    36.41166,
+    106.01371,
+    36.41166
+],
+  "geometry": {"coordinates":[106.01371,36.41166],"type":"Point"}
+}

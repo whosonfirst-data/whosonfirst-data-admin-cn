@@ -1,0 +1,80 @@
+{
+  "id": 1209990153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.201,30.401,98.201,30.401",
+    "geom:latitude":30.401,
+    "geom:longitude":98.201,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zangsar",
+    "gn:country_code":"CN",
+    "gn:dem":4554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8079350,
+    "gn:latitude":30.401,
+    "gn:longitude":98.201,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zangsar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Zangsar"
+    ],
+    "name:zho_x_preferred":[
+        "Zongsha"
+    ],
+    "name:zho_x_variant":[
+        "\u5b97\u6c99",
+        "Duozi",
+        "\u591a\u5b5c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8079350
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"816d67ded95439315bdfffe55f2e5707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1209990153,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1209990153,
+    "wof:lastmodified":1537602580,
+    "wof:name":"Zangsar",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.201,
+    30.401,
+    98.201,
+    30.401
+],
+  "geometry": {"coordinates":[98.20099999999999,30.401],"type":"Point"}
+}

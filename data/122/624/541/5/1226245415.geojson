@@ -1,0 +1,75 @@
+{
+  "id": 1226245415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.80048,29.88629,119.80048,29.88629",
+    "geom:latitude":29.88629,
+    "geom:longitude":119.80048,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yujiacun",
+    "gn:country_code":"CN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6973450,
+    "gn:latitude":29.88629,
+    "gn:longitude":119.80048,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Yujiacun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4fde\u5bb6\u6751",
+        "Yujia",
+        "\u4fde\u5bb6",
+        "Yujiacun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6973450
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f24cfa25e8e3b00c9b14646e38729510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516555,
+            "empire_id":136253041,
+            "locality_id":1226245415,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1226245415,
+    "wof:lastmodified":1537597134,
+    "wof:name":"Yujiacun",
+    "wof:parent_id":890516555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.80048,
+    29.88629,
+    119.80048,
+    29.88629
+],
+  "geometry": {"coordinates":[119.80047999999999,29.88629],"type":"Point"}
+}

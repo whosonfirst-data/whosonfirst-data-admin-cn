@@ -1,0 +1,75 @@
+{
+  "id": 1360250377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.11152,39.94561,123.11152,39.94561",
+    "geom:latitude":39.94561,
+    "geom:longitude":123.11152,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Koubangou",
+    "gn:country_code":"CN",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7403039,
+    "gn:latitude":39.94561,
+    "gn:longitude":123.11152,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Koubangou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5bc7\u534a\u6c9f"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bc7\u534a\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890515891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7403039
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5b23c0c14a48c73330e28d3209c79606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515891,
+            "empire_id":136253041,
+            "locality_id":1360250377,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1360250377,
+    "wof:lastmodified":1537598832,
+    "wof:name":"Koubangou",
+    "wof:parent_id":890515891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.11152,
+    39.94561,
+    123.11152,
+    39.94561
+],
+  "geometry": {"coordinates":[123.11152,39.94561],"type":"Point"}
+}

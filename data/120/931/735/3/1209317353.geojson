@@ -1,0 +1,64 @@
+{
+  "id": 1209317353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.01638,27.83351,120.01638,27.83351",
+    "geom:latitude":27.83351,
+    "geom:longitude":120.01638,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Jinbeidou",
+    "gn:country_code":"CN",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11182412,
+    "gn:latitude":27.83351,
+    "gn:longitude":120.01638,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Jinbeidou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u91d1\u5317\u6597"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11182412
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8d9c5461324355e65a58a76dcd8b0272",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209317353
+        }
+    ],
+    "wof:id":1209317353,
+    "wof:lastmodified":1537615710,
+    "wof:name":"Jinbeidou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.01638,
+    27.83351,
+    120.01638,
+    27.83351
+],
+  "geometry": {"coordinates":[120.01638,27.83351],"type":"Point"}
+}

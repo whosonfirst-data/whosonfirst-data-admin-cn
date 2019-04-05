@@ -1,0 +1,80 @@
+{
+  "id": 1343610305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.79636,29.05551,108.79636,29.05551",
+    "geom:latitude":29.05551,
+    "geom:longitude":108.79636,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Heishui",
+    "gn:country_code":"CN",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1808652,
+    "gn:latitude":29.05551,
+    "gn:longitude":108.79636,
+    "gn:modification_date":"2012-10-06",
+    "gn:name":"Heishui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heshuiba",
+        "Heishui",
+        "Heishui Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed1\u6c34"
+    ],
+    "name:zho_x_variant":[
+        "\u9ed1\u6c34\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669725,
+        102191569,
+        85632695,
+        136253041,
+        890513063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1808652
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a561c2f87d5c3a94cfa879bda8c38afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513063,
+            "empire_id":136253041,
+            "locality_id":1343610305,
+            "region_id":85669725
+        }
+    ],
+    "wof:id":1343610305,
+    "wof:lastmodified":1537593520,
+    "wof:name":"Heishui",
+    "wof:parent_id":890513063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.79636,
+    29.05551,
+    108.79636,
+    29.05551
+],
+  "geometry": {"coordinates":[108.79636000000001,29.05551],"type":"Point"}
+}

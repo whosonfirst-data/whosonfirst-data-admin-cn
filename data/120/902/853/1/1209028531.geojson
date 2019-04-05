@@ -1,0 +1,64 @@
+{
+  "id": 1209028531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.70885,35.60114,102.70885,35.60114",
+    "geom:latitude":35.60114,
+    "geom:longitude":102.70885,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zhangsha",
+    "gn:country_code":"CN",
+    "gn:dem":3079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7413485,
+    "gn:latitude":35.60114,
+    "gn:longitude":102.70885,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zhangsha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5f20\u6c99"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7413485
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"550c8b20e0ee911402f710c18bd22fd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209028531
+        }
+    ],
+    "wof:id":1209028531,
+    "wof:lastmodified":1537599055,
+    "wof:name":"Zhangsha",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.70885,
+    35.60114,
+    102.70885,
+    35.60114
+],
+  "geometry": {"coordinates":[102.70885,35.60114],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1309929653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.39778,33.67714,119.39778,33.67714",
+    "geom:latitude":33.67714,
+    "geom:longitude":119.39778,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Gongyingcun",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1810070,
+    "gn:latitude":33.67714,
+    "gn:longitude":119.39778,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Gongyingcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kung-ying-tzu",
+        "Gongyingzi",
+        "Gongyingcun"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f9a\u8425\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        1108732465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1810070
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"83b0bb0c124db5f3add8b9166fd84a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732465,
+            "empire_id":136253041,
+            "locality_id":1309929653,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1309929653,
+    "wof:lastmodified":1537593611,
+    "wof:name":"Gongyingcun",
+    "wof:parent_id":1108732465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.39778,
+    33.67714,
+    119.39778,
+    33.67714
+],
+  "geometry": {"coordinates":[119.39778,33.67714],"type":"Point"}
+}

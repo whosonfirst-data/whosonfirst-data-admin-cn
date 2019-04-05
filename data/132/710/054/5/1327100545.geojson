@@ -1,0 +1,72 @@
+{
+  "id": 1327100545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.004,25.7379,105.004,25.7379",
+    "geom:latitude":25.7379,
+    "geom:longitude":105.004,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Gangpo",
+    "gn:country_code":"CN",
+    "gn:dem":1508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1550992,
+    "gn:latitude":25.7379,
+    "gn:longitude":105.004,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Gangpo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5c97\u5761"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669721,
+        102191569,
+        85632695,
+        136253041,
+        1108732559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1550992
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f64a26d8a36587a615ffc98b29a4e57e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732559,
+            "empire_id":136253041,
+            "locality_id":1327100545,
+            "region_id":85669721
+        }
+    ],
+    "wof:id":1327100545,
+    "wof:lastmodified":1537591731,
+    "wof:name":"Gangpo",
+    "wof:parent_id":1108732559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.004,
+    25.7379,
+    105.004,
+    25.7379
+],
+  "geometry": {"coordinates":[105.004,25.7379],"type":"Point"}
+}

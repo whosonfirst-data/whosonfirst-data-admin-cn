@@ -1,0 +1,80 @@
+{
+  "id": 1260373721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.4,30.5,96.4,30.5",
+    "geom:latitude":30.5,
+    "geom:longitude":96.4,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Changde",
+    "gn:country_code":"CN",
+    "gn:dem":4091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":7928839,
+    "gn:latitude":30.5,
+    "gn:longitude":96.4,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Changde",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Chagd\u00eam"
+    ],
+    "name:zho_x_preferred":[
+        "Changde"
+    ],
+    "name:zho_x_variant":[
+        "\u660c\u5fb7",
+        "Ranna",
+        "\u7136\u7eb3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7928839
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"313418edd0c486c40f10ff1df5055dc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1260373721,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1260373721,
+    "wof:lastmodified":1537602044,
+    "wof:name":"Changde",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.4,
+    30.5,
+    96.4,
+    30.5
+],
+  "geometry": {"coordinates":[96.40000000000001,30.5],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226507933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3425,41.23222,123.3425,41.23222",
+    "geom:latitude":41.23222,
+    "geom:longitude":123.3425,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Xiaotun",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2033925,
+    "gn:latitude":41.23222,
+    "gn:longitude":123.3425,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Xiaotun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsiao-t\u2019un-tzu",
+        "Hsiao-t\u2019un-tzu-ts\u2019un",
+        "Hsiao-t\u2019un",
+        "Xiaotun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2033925
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3304961e2fcd97569da91d781712bce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514643,
+            "empire_id":136253041,
+            "locality_id":1226507933,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1226507933,
+    "wof:lastmodified":1537595616,
+    "wof:name":"Xiaotun",
+    "wof:parent_id":890514643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3425,
+    41.23222,
+    123.3425,
+    41.23222
+],
+  "geometry": {"coordinates":[123.3425,41.23222],"type":"Point"}
+}

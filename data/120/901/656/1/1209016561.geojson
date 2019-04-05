@@ -1,0 +1,64 @@
+{
+  "id": 1209016561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.22981,30.42167,120.22981,30.42167",
+    "geom:latitude":30.42167,
+    "geom:longitude":120.22981,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tunli",
+    "gn:country_code":"CN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7734601,
+    "gn:latitude":30.42167,
+    "gn:longitude":120.22981,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Tunli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5c6f\u91cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7734601
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a266f0fe8e64f66df388cbbd2f1a4873",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209016561
+        }
+    ],
+    "wof:id":1209016561,
+    "wof:lastmodified":1537601202,
+    "wof:name":"Tunli",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.22981,
+    30.42167,
+    120.22981,
+    30.42167
+],
+  "geometry": {"coordinates":[120.22981,30.42167],"type":"Point"}
+}

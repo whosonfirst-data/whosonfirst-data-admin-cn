@@ -1,0 +1,73 @@
+{
+  "id": 1243337731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.98353,50.42149,123.98353,50.42149",
+    "geom:latitude":50.42149,
+    "geom:longitude":123.98353,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"8740492",
+    "gn:asciiname":"Laodaokou",
+    "gn:country_code":"CN",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8442259,
+    "gn:latitude":50.42149,
+    "gn:longitude":123.98353,
+    "gn:modification_date":"2017-08-25",
+    "gn:name":"Laodaokou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8001\u9053\u53e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669847,
+        102191569,
+        85632695,
+        136253041,
+        1108732385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8442259
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1b54a1527abbbc8dbae9f15821da31f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732385,
+            "empire_id":136253041,
+            "locality_id":1243337731,
+            "region_id":85669847
+        }
+    ],
+    "wof:id":1243337731,
+    "wof:lastmodified":1537603724,
+    "wof:name":"Laodaokou",
+    "wof:parent_id":1108732385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.98353,
+    50.42149000000001,
+    123.98353,
+    50.42149000000001
+],
+  "geometry": {"coordinates":[123.98353,50.42149000000001],"type":"Point"}
+}

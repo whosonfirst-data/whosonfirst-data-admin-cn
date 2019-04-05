@@ -1,0 +1,99 @@
+{
+  "id": 1125372583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.12013,29.42444,111.12013,29.42444",
+    "geom:latitude":29.42444,
+    "geom:longitude":111.12013,
+    "gn:gn_country":"CN",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"CN",
+    "lbl:latitude":29.42444,
+    "lbl:longitude":111.12013,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Tzeli"
+    ],
+    "name:zho_x_preferred":[
+        "Tz\u2019u-li"
+    ],
+    "name:zho_x_variant":[
+        "Tz\u2019u-li-hsien"
+    ],
+    "qs_pg:aaroncc":"CN",
+    "qs_pg:gn_country":"CN",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":1814735,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"\u6148\u5229\u53bf",
+    "qs_pg:name_adm0":"\u4e2d\u570b",
+    "qs_pg:name_adm1":"\u6e56\u5357\u7701",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":985017,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424781,
+    "qs_pg:woe_id":12686160,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424781,
+    "woe:name_adm0":"\u4e2d\u570b",
+    "woe:name_adm1":"\u6e56\u5357\u7701",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890513321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1814735,
+        "gp:id":12686160,
+        "qs_pg:id":985017
+    },
+    "wof:country":"CN",
+    "wof:created":1497047509,
+    "wof:geomhash":"fcac7c5a013866a5e77c850a6dbe7c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513321,
+            "empire_id":136253041,
+            "localadmin_id":1125372583,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1125372583,
+    "wof:lastmodified":1509389360,
+    "wof:name":"\u6148\u5229\u53bf",
+    "wof:parent_id":890513321,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.12013,
+    29.42444,
+    111.12013,
+    29.42444
+],
+  "geometry": {"coordinates":[111.12013,29.42444],"type":"Point"}
+}

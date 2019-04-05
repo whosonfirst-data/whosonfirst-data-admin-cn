@@ -1,0 +1,64 @@
+{
+  "id": 1209288101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.46098,30.44109,96.46098,30.44109",
+    "geom:latitude":30.44109,
+    "geom:longitude":96.46098,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Angmu",
+    "gn:country_code":"CN",
+    "gn:dem":3224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10258380,
+    "gn:latitude":30.44109,
+    "gn:longitude":96.46098,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Angmu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6602\u59c6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10258380
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"dc82e1f4f30f96d1288bd9bdc23324f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209288101
+        }
+    ],
+    "wof:id":1209288101,
+    "wof:lastmodified":1537611739,
+    "wof:name":"Angmu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.46098,
+    30.44109000000001,
+    96.46098,
+    30.44109000000001
+],
+  "geometry": {"coordinates":[96.46098000000001,30.44109000000001],"type":"Point"}
+}

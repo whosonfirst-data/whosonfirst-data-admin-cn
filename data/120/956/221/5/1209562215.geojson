@@ -1,0 +1,64 @@
+{
+  "id": 1209562215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.86794,25.37667,103.86794,25.37667",
+    "geom:latitude":25.37667,
+    "geom:longitude":103.86794,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Zhangjiaying",
+    "gn:country_code":"CN",
+    "gn:dem":1868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9097601,
+    "gn:latitude":25.37667,
+    "gn:longitude":103.86794,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Zhangjiaying",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5f20\u5bb6\u8425"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9097601
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"73a1843bf74bc08f00610e331cd56696",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209562215
+        }
+    ],
+    "wof:id":1209562215,
+    "wof:lastmodified":1537605117,
+    "wof:name":"Zhangjiaying",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.86794,
+    25.37667,
+    103.86794,
+    25.37667
+],
+  "geometry": {"coordinates":[103.86794,25.37667],"type":"Point"}
+}

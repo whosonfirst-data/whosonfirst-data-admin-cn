@@ -1,0 +1,64 @@
+{
+  "id": 1209564429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.18705,28.09577,105.18705,28.09577",
+    "geom:latitude":28.09577,
+    "geom:longitude":105.18705,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Heilinba",
+    "gn:country_code":"CN",
+    "gn:dem":905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6913383,
+    "gn:latitude":28.09577,
+    "gn:longitude":105.18705,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Heilinba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9ed1\u6797\u575d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6913383
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7d2bf55ed90be4805140aa2697fd6fd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209564429
+        }
+    ],
+    "wof:id":1209564429,
+    "wof:lastmodified":1537596716,
+    "wof:name":"Heilinba",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.18705,
+    28.09577,
+    105.18705,
+    28.09577
+],
+  "geometry": {"coordinates":[105.18705,28.09577],"type":"Point"}
+}

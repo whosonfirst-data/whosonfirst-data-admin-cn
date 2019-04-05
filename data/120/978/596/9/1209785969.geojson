@@ -1,0 +1,75 @@
+{
+  "id": 1209785969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.45389,33.15136,104.45389,33.15136",
+    "geom:latitude":33.15136,
+    "geom:longitude":104.45389,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Wushenggou",
+    "gn:country_code":"CN",
+    "gn:dem":1673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7330822,
+    "gn:latitude":33.15136,
+    "gn:longitude":104.45389,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Wushenggou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6b66\u80dc\u6c9f"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b66\u80dc\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669711,
+        102191569,
+        85632695,
+        136253041,
+        890516335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7330822
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"515580c757852954802a2cc04246ec4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516335,
+            "empire_id":136253041,
+            "locality_id":1209785969,
+            "region_id":85669711
+        }
+    ],
+    "wof:id":1209785969,
+    "wof:lastmodified":1537598033,
+    "wof:name":"Wushenggou",
+    "wof:parent_id":890516335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.45389,
+    33.15136,
+    104.45389,
+    33.15136
+],
+  "geometry": {"coordinates":[104.45389,33.15136],"type":"Point"}
+}

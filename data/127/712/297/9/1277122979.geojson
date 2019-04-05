@@ -1,0 +1,75 @@
+{
+  "id": 1277122979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.07715,22.52316,111.07715,22.52316",
+    "geom:latitude":22.52316,
+    "geom:longitude":111.07715,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Hebei",
+    "gn:country_code":"CN",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6851750,
+    "gn:latitude":22.52316,
+    "gn:longitude":111.07715,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hebei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u044d\u0431\u044d\u0439"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cb3\u80cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        1108732487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6851750
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f663418e2e51bbc2a2a3e83072e9f230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732487,
+            "empire_id":136253041,
+            "locality_id":1277122979,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1277122979,
+    "wof:lastmodified":1537596416,
+    "wof:name":"Hebei",
+    "wof:parent_id":1108732487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.07715,
+    22.52316,
+    111.07715,
+    22.52316
+],
+  "geometry": {"coordinates":[111.07715,22.52316],"type":"Point"}
+}

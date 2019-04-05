@@ -1,0 +1,64 @@
+{
+  "id": 1209321779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.44138,28.726,116.44138,28.726",
+    "geom:latitude":28.726,
+    "geom:longitude":116.44138,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Liangshancun",
+    "gn:country_code":"CN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7326969,
+    "gn:latitude":28.726,
+    "gn:longitude":116.44138,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Liangshancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6881\u5c71\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7326969
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4de1a6f04505a708231fd21b94987a91",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209321779
+        }
+    ],
+    "wof:id":1209321779,
+    "wof:lastmodified":1537597953,
+    "wof:name":"Liangshancun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.44138,
+    28.726,
+    116.44138,
+    28.726
+],
+  "geometry": {"coordinates":[116.44138,28.726],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1293275465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.0,28.8,93.0,28.8",
+    "geom:latitude":28.8,
+    "geom:longitude":93.0,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gyaicun",
+    "gn:country_code":"CN",
+    "gn:dem":4368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8041778,
+    "gn:latitude":28.8,
+    "gn:longitude":93.0,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Gyaicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Gyaicun"
+    ],
+    "name:und_x_variant":[
+        "Jiecun"
+    ],
+    "name:zho_x_preferred":[
+        "\u6770\u6751"
+    ],
+    "name:zho_x_variant":[
+        "Kanji",
+        "\u574e\u5409"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890515951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8041778
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"813b0875b091807ea0bba4bb9e49c681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515951,
+            "empire_id":136253041,
+            "locality_id":1293275465,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1293275465,
+    "wof:lastmodified":1537602340,
+    "wof:name":"Gyaicun",
+    "wof:parent_id":890515951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.0,
+    28.8,
+    93.0,
+    28.8
+],
+  "geometry": {"coordinates":[93.0,28.8],"type":"Point"}
+}

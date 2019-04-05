@@ -1,0 +1,67 @@
+{
+  "id": 1293821101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.21083,19.05639,110.21083,19.05639",
+    "geom:latitude":19.05639,
+    "geom:longitude":110.21083,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Goulian",
+    "gn:country_code":"CN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1914632,
+    "gn:latitude":19.05639,
+    "gn:longitude":110.21083,
+    "gn:modification_date":"2001-03-09",
+    "gn:name":"Goulian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632695,
+        85669759,
+        1108732479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1914632
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9e08f9b7fb168ee5332a1392f049a683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732479,
+            "locality_id":1293821101,
+            "region_id":85669759
+        }
+    ],
+    "wof:id":1293821101,
+    "wof:lastmodified":1536803069,
+    "wof:name":"Goulian",
+    "wof:parent_id":1108732479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.21083,
+    19.05639,
+    110.21083,
+    19.05639
+],
+  "geometry": {"coordinates":[110.21083,19.05639],"type":"Point"}
+}

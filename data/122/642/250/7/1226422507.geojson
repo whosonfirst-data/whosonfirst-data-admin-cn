@@ -1,0 +1,76 @@
+{
+  "id": 1226422507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.80076,31.03956,113.80076,31.03956",
+    "geom:latitude":31.03956,
+    "geom:longitude":113.80076,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Wupu",
+    "gn:country_code":"CN",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":7653973,
+    "gn:latitude":31.03956,
+    "gn:longitude":113.80076,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Wupu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5434\u94fa",
+        "Wupu Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5434\u94fa\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669777,
+        102191569,
+        85632695,
+        136253041,
+        1108732407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7653973
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8a8902ac0a2b1f4a309d72854ce11e35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732407,
+            "empire_id":136253041,
+            "locality_id":1226422507,
+            "region_id":85669777
+        }
+    ],
+    "wof:id":1226422507,
+    "wof:lastmodified":1537600657,
+    "wof:name":"Wupu",
+    "wof:parent_id":1108732407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.80076,
+    31.03956,
+    113.80076,
+    31.03956
+],
+  "geometry": {"coordinates":[113.80076,31.03956],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259893735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.05972,33.89667,117.05972,33.89667",
+    "geom:latitude":33.89667,
+    "geom:longitude":117.05972,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jiagou",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1806500,
+    "gn:latitude":33.89667,
+    "gn:longitude":117.05972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jiagou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiakowtsi",
+        "Chia-kou",
+        "Kiakow",
+        "Chiakouchi",
+        "Chia-kou-chen",
+        "Jiagou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890514507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1806500
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"973f3d19943f82f8aaa70adfd614150d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514507,
+            "empire_id":136253041,
+            "locality_id":1259893735,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1259893735,
+    "wof:lastmodified":1537593383,
+    "wof:name":"Jiagou",
+    "wof:parent_id":890514507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.05972,
+    33.89667,
+    117.05972,
+    33.89667
+],
+  "geometry": {"coordinates":[117.05972,33.89667],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209589735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.29254,41.27775,111.29254,41.27775",
+    "geom:latitude":41.27775,
+    "geom:longitude":111.29254,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Donghoutan",
+    "gn:country_code":"CN",
+    "gn:dem":1600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8469731,
+    "gn:latitude":41.27775,
+    "gn:longitude":111.29254,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Donghoutan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e1c\u540e\u6ee9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8469731
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4cdc5b5f687f27e8bc45dd85f2536768",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209589735
+        }
+    ],
+    "wof:id":1209589735,
+    "wof:lastmodified":1537603860,
+    "wof:name":"Donghoutan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.29254,
+    41.27775,
+    111.29254,
+    41.27775
+],
+  "geometry": {"coordinates":[111.29254,41.27775],"type":"Point"}
+}

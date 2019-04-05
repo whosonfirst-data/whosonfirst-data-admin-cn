@@ -1,0 +1,64 @@
+{
+  "id": 1209585093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.486,24.3473,111.486,24.3473",
+    "geom:latitude":24.3473,
+    "geom:longitude":111.486,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mashantang",
+    "gn:country_code":"CN",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9917344,
+    "gn:latitude":24.3473,
+    "gn:longitude":111.486,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Mashantang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9a6c\u5c71\u5858"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9917344
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c321888f1504fdfdb6694f3cf8a81785",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209585093
+        }
+    ],
+    "wof:id":1209585093,
+    "wof:lastmodified":1537607270,
+    "wof:name":"Mashantang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.486,
+    24.3473,
+    111.486,
+    24.3473
+],
+  "geometry": {"coordinates":[111.486,24.3473],"type":"Point"}
+}

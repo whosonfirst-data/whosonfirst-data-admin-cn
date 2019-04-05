@@ -1,0 +1,64 @@
+{
+  "id": 1209665915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.016,22.7179,104.016,22.7179",
+    "geom:latitude":22.7179,
+    "geom:longitude":104.016,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Xinzhai",
+    "gn:country_code":"CN",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10036003,
+    "gn:latitude":22.7179,
+    "gn:longitude":104.016,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Xinzhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u65b0\u5be8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10036003
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2e758eb84ba460afa7477264afd4de45",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209665915
+        }
+    ],
+    "wof:id":1209665915,
+    "wof:lastmodified":1537609549,
+    "wof:name":"Xinzhai",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.016,
+    22.7179,
+    104.016,
+    22.7179
+],
+  "geometry": {"coordinates":[104.01600000000001,22.7179],"type":"Point"}
+}

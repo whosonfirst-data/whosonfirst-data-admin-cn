@@ -1,0 +1,66 @@
+{
+  "id": 1209226757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.2,29.78333,120.2,29.78333",
+    "geom:latitude":29.78333,
+    "geom:longitude":120.2,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hongmen",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1808071,
+    "gn:latitude":29.78333,
+    "gn:longitude":120.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hongmen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hung-men",
+        "Hongmen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1808071
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a3172a59e8471cf3a971b1bcdacd26dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209226757
+        }
+    ],
+    "wof:id":1209226757,
+    "wof:lastmodified":1537593477,
+    "wof:name":"Hongmen",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.2,
+    29.78333,
+    120.2,
+    29.78333
+],
+  "geometry": {"coordinates":[120.2,29.78333],"type":"Point"}
+}

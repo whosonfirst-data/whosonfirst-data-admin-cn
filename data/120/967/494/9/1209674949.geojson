@@ -1,0 +1,64 @@
+{
+  "id": 1209674949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.883,27.9042,102.883,27.9042",
+    "geom:latitude":27.9042,
+    "geom:longitude":102.883,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Hulu",
+    "gn:country_code":"CN",
+    "gn:dem":2244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10215859,
+    "gn:latitude":27.9042,
+    "gn:longitude":102.883,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Hulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u846b\u82a6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10215859
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"74e0a348cc07c03fc71e7e0390fda56c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209674949
+        }
+    ],
+    "wof:id":1209674949,
+    "wof:lastmodified":1537611498,
+    "wof:name":"Hulu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.883,
+    27.9042,
+    102.883,
+    27.9042
+],
+  "geometry": {"coordinates":[102.883,27.9042],"type":"Point"}
+}

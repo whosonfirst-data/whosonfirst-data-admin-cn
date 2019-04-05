@@ -1,0 +1,78 @@
+{
+  "id": 1360108391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.40691,32.30932,120.40691,32.30932",
+    "geom:latitude":32.30932,
+    "geom:longitude":120.40691,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Banjing",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1817075,
+    "gn:latitude":32.30932,
+    "gn:longitude":120.40691,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Banjing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pan-ching-chen",
+        "Pan-ching",
+        "Pan-chin",
+        "Banjing",
+        "\u642c\u7ecf",
+        "Banjing Zhen",
+        "\u642c\u7ecf\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1817075
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d45faa31ce2534537e09a2857e8913a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515155,
+            "empire_id":136253041,
+            "locality_id":1360108391,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1360108391,
+    "wof:lastmodified":1537594048,
+    "wof:name":"Banjing",
+    "wof:parent_id":890515155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.40691,
+    32.30932,
+    120.40691,
+    32.30932
+],
+  "geometry": {"coordinates":[120.40691,32.30932],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209199773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.29922,48.91341,125.29922,48.91341",
+    "geom:latitude":48.91341,
+    "geom:longitude":125.29922,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Qingshancun",
+    "gn:country_code":"CN",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11573413,
+    "gn:latitude":48.91341,
+    "gn:longitude":125.29922,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Qingshancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9752\u5c71\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11573413
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"cb5a8aac22c00f6fd2d38ab4cb0eb17d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209199773
+        }
+    ],
+    "wof:id":1209199773,
+    "wof:lastmodified":1537617842,
+    "wof:name":"Qingshancun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.29922,
+    48.91341,
+    125.29922,
+    48.91341
+],
+  "geometry": {"coordinates":[125.29922000000001,48.91341],"type":"Point"}
+}

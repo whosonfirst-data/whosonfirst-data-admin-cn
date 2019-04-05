@@ -1,0 +1,76 @@
+{
+  "id": 1344022301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.85965,35.55976,105.85965,35.55976",
+    "geom:latitude":35.55976,
+    "geom:longitude":105.85965,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Liancai",
+    "gn:country_code":"CN",
+    "gn:dem":1763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1804121,
+    "gn:latitude":35.55976,
+    "gn:longitude":105.85965,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Liancai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lien-ts\u2019ai-p\u2019u",
+        "Liancaipu",
+        "Liancai",
+        "\u8054\u8d22",
+        "Liancaizhen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669763,
+        102191569,
+        85632695,
+        136253041,
+        890515165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1804121
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e2d862926d54dd827e8ec607423b79ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515165,
+            "empire_id":136253041,
+            "locality_id":1344022301,
+            "region_id":85669763
+        }
+    ],
+    "wof:id":1344022301,
+    "wof:lastmodified":1537593233,
+    "wof:name":"Liancai",
+    "wof:parent_id":890515165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.85965,
+    35.55976,
+    105.85965,
+    35.55976
+],
+  "geometry": {"coordinates":[105.85965,35.55976],"type":"Point"}
+}

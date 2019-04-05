@@ -1,0 +1,77 @@
+{
+  "id": 1293807481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.39191,33.33752,119.39191,33.33752",
+    "geom:latitude":33.33752,
+    "geom:longitude":119.39191,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Cuibucun",
+    "gn:country_code":"CN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1547827,
+    "gn:latitude":33.33752,
+    "gn:longitude":119.39191,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Cuibucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cuibu",
+        "\u5d14\u5821",
+        "Cuibucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5d14\u5821\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890516397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1547827
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"374aff907854c41feced35c728a7536a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516397,
+            "empire_id":136253041,
+            "locality_id":1293807481,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1293807481,
+    "wof:lastmodified":1537591649,
+    "wof:name":"Cuibucun",
+    "wof:parent_id":890516397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.39191,
+    33.33752,
+    119.39191,
+    33.33752
+],
+  "geometry": {"coordinates":[119.39191,33.33752],"type":"Point"}
+}

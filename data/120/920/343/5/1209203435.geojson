@@ -1,0 +1,64 @@
+{
+  "id": 1209203435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.57001,38.55944,114.57001,38.55944",
+    "geom:latitude":38.55944,
+    "geom:longitude":114.57001,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Beilonggang",
+    "gn:country_code":"CN",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1920224,
+    "gn:latitude":38.55944,
+    "gn:longitude":114.57001,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Beilonggang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5317\u9f99\u5c97"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1920224
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3dd11d4b98baace027f57707bbb4126f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209203435
+        }
+    ],
+    "wof:id":1209203435,
+    "wof:lastmodified":1537594839,
+    "wof:name":"Beilonggang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.57001,
+    38.55944,
+    114.57001,
+    38.55944
+],
+  "geometry": {"coordinates":[114.57001,38.55944],"type":"Point"}
+}

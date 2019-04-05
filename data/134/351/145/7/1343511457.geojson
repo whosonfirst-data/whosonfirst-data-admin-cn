@@ -1,0 +1,78 @@
+{
+  "id": 1343511457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.46581,23.10253,113.46581,23.10253",
+    "geom:latitude":23.10253,
+    "geom:longitude":113.46581,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Hongshan",
+    "gn:country_code":"CN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8333950,
+    "gn:latitude":23.10253,
+    "gn:longitude":113.46581,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Hongshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hongshan Jiedao"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ea2\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "\u7ea2\u5c71\u8857\u9053"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890513087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8333950
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"cacbe149771aecbb3fcc17749bf036d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513087,
+            "empire_id":136253041,
+            "locality_id":1343511457,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1343511457,
+    "wof:lastmodified":1537602936,
+    "wof:name":"Hongshan",
+    "wof:parent_id":890513087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.46581,
+    23.10253,
+    113.46581,
+    23.10253
+],
+  "geometry": {"coordinates":[113.46581,23.10253],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293149935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.76864,29.63472,103.76864,29.63472",
+    "geom:latitude":29.63472,
+    "geom:longitude":103.76864,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Mouzi",
+    "gn:country_code":"CN",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1800367,
+    "gn:latitude":29.63472,
+    "gn:longitude":103.76864,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mouzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mou-tzu-hsiang",
+        "Mouzixiang",
+        "Mouzi"
+    ],
+    "name:zho_x_preferred":[
+        "\u725f\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890512711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1800367
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4bd7b9b2b983fea4c4597c37570c2dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512711,
+            "empire_id":136253041,
+            "locality_id":1293149935,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1293149935,
+    "wof:lastmodified":1537592982,
+    "wof:name":"Mouzi",
+    "wof:parent_id":890512711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.76864,
+    29.63472,
+    103.76864,
+    29.63472
+],
+  "geometry": {"coordinates":[103.76864,29.63472],"type":"Point"}
+}

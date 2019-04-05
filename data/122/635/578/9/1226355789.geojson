@@ -1,0 +1,75 @@
+{
+  "id": 1226355789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.2465,31.52882,116.2465,31.52882",
+    "geom:latitude":31.52882,
+    "geom:longitude":116.2465,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jiangjiadiancun",
+    "gn:country_code":"CN",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1555856,
+    "gn:latitude":31.52882,
+    "gn:longitude":116.2465,
+    "gn:modification_date":"2015-08-06",
+    "gn:name":"Jiangjiadiancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jiangjiadian"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c5f\u5bb6\u5e97\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890513745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1555856
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ee2063192d35d173bd7b9507b90581cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513745,
+            "empire_id":136253041,
+            "locality_id":1226355789,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1226355789,
+    "wof:lastmodified":1537591811,
+    "wof:name":"Jiangjiadiancun",
+    "wof:parent_id":890513745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.2465,
+    31.52882,
+    116.2465,
+    31.52882
+],
+  "geometry": {"coordinates":[116.2465,31.52882],"type":"Point"}
+}

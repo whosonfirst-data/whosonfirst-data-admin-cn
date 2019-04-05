@@ -1,0 +1,83 @@
+{
+  "id": 1226305317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.48117,43.00954,123.48117,43.00954",
+    "geom:latitude":43.00954,
+    "geom:longitude":123.48117,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Liaoyang Wobucun",
+    "gn:country_code":"CN",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2036111,
+    "gn:latitude":43.00954,
+    "gn:longitude":123.48117,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Liaoyang Wobucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liao-yang-wo",
+        "Liao-yang-wo-p\u2019eng",
+        "Liao-yang-wo-pao",
+        "Liaoyangwopu",
+        "Liaoyangwopeng",
+        "Liaoyang Wobucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fbd\u9633\u7a9d\u68da"
+    ],
+    "name:zho_x_variant":[
+        "\u8fbd\u9633\u7a9d\u5821\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2036111
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ac7c35376651062b88bf5b693252c2da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732451,
+            "empire_id":136253041,
+            "locality_id":1226305317,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1226305317,
+    "wof:lastmodified":1537595754,
+    "wof:name":"Liaoyang Wobucun",
+    "wof:parent_id":1108732451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.48117,
+    43.00954,
+    123.48117,
+    43.00954
+],
+  "geometry": {"coordinates":[123.48117000000001,43.00954],"type":"Point"}
+}

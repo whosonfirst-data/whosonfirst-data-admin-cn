@@ -1,0 +1,77 @@
+{
+  "id": 1327438609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.32692,28.67049,117.32692,28.67049",
+    "geom:latitude":28.67049,
+    "geom:longitude":117.32692,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sanxianling",
+    "gn:country_code":"CN",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":7064796,
+    "gn:latitude":28.67049,
+    "gn:longitude":117.32692,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sanxianling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanxianling Xiang",
+        "\u4e09\u53bf\u5cad\u4e61",
+        "Sanxianling"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u53bf\u5cad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669823,
+        102191569,
+        85632695,
+        136253041,
+        890515869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7064796
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fe6b92c7fc9b8afd791657e694988f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515869,
+            "empire_id":136253041,
+            "locality_id":1327438609,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":1327438609,
+    "wof:lastmodified":1537597699,
+    "wof:name":"Sanxianling",
+    "wof:parent_id":890515869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.32692,
+    28.67049,
+    117.32692,
+    28.67049
+],
+  "geometry": {"coordinates":[117.32692,28.67049],"type":"Point"}
+}

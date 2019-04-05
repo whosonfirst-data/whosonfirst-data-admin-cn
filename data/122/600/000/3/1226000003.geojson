@@ -1,0 +1,78 @@
+{
+  "id": 1226000003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.15439,37.04487,119.15439,37.04487",
+    "geom:latitude":37.04487,
+    "geom:longitude":119.15439,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Yangzi",
+    "gn:country_code":"CN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8572516,
+    "gn:latitude":37.04487,
+    "gn:longitude":119.15439,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Yangzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yangzi Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u592e\u5b50"
+    ],
+    "name:zho_x_variant":[
+        "\u592e\u5b50\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669813,
+        102191569,
+        85632695,
+        136253041,
+        890514755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8572516
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"655d7c16a7447553a7a2d4c8ad21fca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514755,
+            "empire_id":136253041,
+            "locality_id":1226000003,
+            "region_id":85669813
+        }
+    ],
+    "wof:id":1226000003,
+    "wof:lastmodified":1537604656,
+    "wof:name":"Yangzi",
+    "wof:parent_id":890514755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.15439,
+    37.04487,
+    119.15439,
+    37.04487
+],
+  "geometry": {"coordinates":[119.15439000000001,37.04487],"type":"Point"}
+}

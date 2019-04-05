@@ -1,0 +1,75 @@
+{
+  "id": 1209949131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.48156,33.84071,119.48156,33.84071",
+    "geom:latitude":33.84071,
+    "geom:longitude":119.48156,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Wangshe",
+    "gn:country_code":"CN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8035737,
+    "gn:latitude":33.84071,
+    "gn:longitude":119.48156,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Wangshe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Wangshe"
+    ],
+    "name:zho_x_variant":[
+        "\u738b\u820d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        1108732465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8035737
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"70abafe8bef8b56d6d10f353462778d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732465,
+            "empire_id":136253041,
+            "locality_id":1209949131,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1209949131,
+    "wof:lastmodified":1537602270,
+    "wof:name":"Wangshe",
+    "wof:parent_id":1108732465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.48156000000002,
+    33.84070999999999,
+    119.48156000000002,
+    33.84070999999999
+],
+  "geometry": {"coordinates":[119.48156000000002,33.84070999999999],"type":"Point"}
+}

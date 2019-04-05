@@ -1,0 +1,78 @@
+{
+  "id": 1259543409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.7106,23.17592,113.7106,23.17592",
+    "geom:latitude":23.17592,
+    "geom:longitude":113.7106,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Xiancun",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1790621,
+    "gn:latitude":23.17592,
+    "gn:longitude":113.7106,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Xiancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xincun",
+        "Hsien-ts\u2019un-hs\u00fc",
+        "Hsien-ts\u2019un",
+        "Xiancun"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ed9\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890513087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1790621
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6cdb1fbf14cbda79bad58b8584a45546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513087,
+            "empire_id":136253041,
+            "locality_id":1259543409,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1259543409,
+    "wof:lastmodified":1537592350,
+    "wof:name":"Xiancun",
+    "wof:parent_id":890513087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.7106,
+    23.17592,
+    113.7106,
+    23.17592
+],
+  "geometry": {"coordinates":[113.7106,23.17592],"type":"Point"}
+}

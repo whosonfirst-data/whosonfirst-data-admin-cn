@@ -1,0 +1,81 @@
+{
+  "id": 1310376211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.2,33.1,83.2,33.1",
+    "geom:latitude":33.1,
+    "geom:longitude":83.2,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Xianqian",
+    "gn:country_code":"CN",
+    "gn:dem":4597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8538192,
+    "gn:latitude":33.1,
+    "gn:longitude":83.2,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Xianqian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Xianqian"
+    ],
+    "name:und_x_variant":[
+        "Chabu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5148\u9063"
+    ],
+    "name:zho_x_variant":[
+        "\u8336\u5e03"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538192
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"86d2fc58709b86601b30128f19ed4634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732537,
+            "empire_id":136253041,
+            "locality_id":1310376211,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1310376211,
+    "wof:lastmodified":1537604370,
+    "wof:name":"Xianqian",
+    "wof:parent_id":1108732537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.2,
+    33.1,
+    83.2,
+    33.1
+],
+  "geometry": {"coordinates":[83.2,33.1],"type":"Point"}
+}

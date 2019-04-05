@@ -1,0 +1,64 @@
+{
+  "id": 1209628537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.24016,30.21707,116.24016,30.21707",
+    "geom:latitude":30.21707,
+    "geom:longitude":116.24016,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Linfancun",
+    "gn:country_code":"CN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10800335,
+    "gn:latitude":30.21707,
+    "gn:longitude":116.24016,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Linfancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6797\u7548\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10800335
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"60976a610bc41ea726405e15f6257444",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209628537
+        }
+    ],
+    "wof:id":1209628537,
+    "wof:lastmodified":1537614460,
+    "wof:name":"Linfancun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.24016,
+    30.21707,
+    116.24016,
+    30.21707
+],
+  "geometry": {"coordinates":[116.24016,30.21707],"type":"Point"}
+}

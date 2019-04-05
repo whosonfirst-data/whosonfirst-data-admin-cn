@@ -1,0 +1,79 @@
+{
+  "id": 1242740301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.40589,40.67598,122.40589,40.67598",
+    "geom:latitude":40.67598,
+    "geom:longitude":122.40589,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Zhengjiacun",
+    "gn:country_code":"CN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11595974,
+    "gn:latitude":40.67598,
+    "gn:longitude":122.40589,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Zhengjiacun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhengjia Puzi",
+        "Zhengjia Buzi"
+    ],
+    "name:zho_x_preferred":[
+        "\u90d1\u5bb6\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u90d1\u5bb6\u5821\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11595974
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4d2e29934ebb4123006b6bf0b2ff60c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732495,
+            "empire_id":136253041,
+            "locality_id":1242740301,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1242740301,
+    "wof:lastmodified":1537618348,
+    "wof:name":"Zhengjiacun",
+    "wof:parent_id":1108732495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.40589,
+    40.67598,
+    122.40589,
+    40.67598
+],
+  "geometry": {"coordinates":[122.40589,40.67598],"type":"Point"}
+}

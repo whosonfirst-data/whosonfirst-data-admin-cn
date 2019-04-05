@@ -1,0 +1,77 @@
+{
+  "id": 1360144661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.80176,22.33523,112.80176,22.33523",
+    "geom:latitude":22.33523,
+    "geom:longitude":112.80176,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Shuibu",
+    "gn:country_code":"CN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1794518,
+    "gn:latitude":22.33523,
+    "gn:longitude":112.80176,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Shuibu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shuibu Zhen",
+        "\u6c34\u6b65\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c34\u6b65"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890514609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1794518,
+        "wk:page":"Shuibu"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e182130ef7e85ad05cb86b0660c9dc9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514609,
+            "empire_id":136253041,
+            "locality_id":1360144661,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1360144661,
+    "wof:lastmodified":1537592604,
+    "wof:name":"Shuibu",
+    "wof:parent_id":890514609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.80176000000002,
+    22.33523,
+    112.80176000000002,
+    22.33523
+],
+  "geometry": {"coordinates":[112.80176000000002,22.33523],"type":"Point"}
+}

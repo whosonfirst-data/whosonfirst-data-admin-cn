@@ -1,0 +1,78 @@
+{
+  "id": 1276970015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.39466,47.64884,126.39466,47.64884",
+    "geom:latitude":47.64884,
+    "geom:longitude":126.39466,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Guofu",
+    "gn:country_code":"CN",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":8512355,
+    "gn:latitude":47.64884,
+    "gn:longitude":126.39466,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Guofu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guofu Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u56fd\u5bcc"
+    ],
+    "name:zho_x_variant":[
+        "\u56fd\u5bcc\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890516483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8512355
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0249db7acccc00d44be12f2bc64a7954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516483,
+            "empire_id":136253041,
+            "locality_id":1276970015,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1276970015,
+    "wof:lastmodified":1537604026,
+    "wof:name":"Guofu",
+    "wof:parent_id":890516483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.39466000000002,
+    47.64884,
+    126.39466000000002,
+    47.64884
+],
+  "geometry": {"coordinates":[126.39466000000002,47.64884],"type":"Point"}
+}

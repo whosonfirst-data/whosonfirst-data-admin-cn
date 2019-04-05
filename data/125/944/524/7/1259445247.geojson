@@ -1,0 +1,75 @@
+{
+  "id": 1259445247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.76855,40.34249,123.76855,40.34249",
+    "geom:latitude":40.34249,
+    "geom:longitude":123.76855,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Heigougang",
+    "gn:country_code":"CN",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7402360,
+    "gn:latitude":40.34249,
+    "gn:longitude":123.76855,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Heigougang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9ed1\u6c9f\u5c97"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed1\u6c9f\u5c97"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7402360
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f03c17303b584a8894902c8157f1590f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514725,
+            "empire_id":136253041,
+            "locality_id":1259445247,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1259445247,
+    "wof:lastmodified":1537598791,
+    "wof:name":"Heigougang",
+    "wof:parent_id":890514725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.76855,
+    40.34249000000001,
+    123.76855,
+    40.34249000000001
+],
+  "geometry": {"coordinates":[123.76855,40.34249000000001],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209587723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.158,23.9675,108.158,23.9675",
+    "geom:latitude":23.9675,
+    "geom:longitude":108.158,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Waimu",
+    "gn:country_code":"CN",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9927722,
+    "gn:latitude":23.9675,
+    "gn:longitude":108.158,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Waimu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5916\u5e55"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9927722
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"884171f1d4cafa25b0a7c254646e779c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209587723
+        }
+    ],
+    "wof:id":1209587723,
+    "wof:lastmodified":1537607565,
+    "wof:name":"Waimu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.158,
+    23.9675,
+    108.158,
+    23.9675
+],
+  "geometry": {"coordinates":[108.158,23.9675],"type":"Point"}
+}

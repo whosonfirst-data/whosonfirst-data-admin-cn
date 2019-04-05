@@ -1,0 +1,80 @@
+{
+  "id": 890514661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.85556,26.72,119.85556,26.72",
+    "geom:latitude":26.72,
+    "geom:longitude":119.85556,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:pop":3670,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6eaa\u5357\u9547"
+    ],
+    "name:eng_x_preferred":[
+        "Xinan"
+    ],
+    "name:unk_x_variant":[
+        "Nan-an"
+    ],
+    "qs:name":"Xinan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":303,
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1789271,
+        "gp:id":2140263,
+        "qs:id":559809,
+        "wd:id":"Q8044497",
+        "wk:page":"Xinan"
+    },
+    "wof:country":"CN",
+    "wof:created":1469055870,
+    "wof:geomhash":"3de7e298731dc9b5ab5792308f4b15a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516577,
+            "empire_id":136253041,
+            "locality_id":890514661,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":890514661,
+    "wof:lastmodified":1553816433,
+    "wof:name":"Xinan",
+    "wof:parent_id":890516577,
+    "wof:placetype":"locality",
+    "wof:population":3670,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.85556,
+    26.72,
+    119.85556,
+    26.72
+],
+  "geometry": {"coordinates":[119.85556,26.72],"type":"Point"}
+}

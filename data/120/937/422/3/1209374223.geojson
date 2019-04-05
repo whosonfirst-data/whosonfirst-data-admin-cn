@@ -1,0 +1,64 @@
+{
+  "id": 1209374223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.481,30.9352,101.481,30.9352",
+    "geom:latitude":30.9352,
+    "geom:longitude":101.481,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Cemandu",
+    "gn:country_code":"CN",
+    "gn:dem":3995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10199665,
+    "gn:latitude":30.9352,
+    "gn:longitude":101.481,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Cemandu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7b56\u66fc\u90fd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10199665
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e7d56c7447a9c45b39031236c0aa3822",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209374223
+        }
+    ],
+    "wof:id":1209374223,
+    "wof:lastmodified":1537611269,
+    "wof:name":"Cemandu",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.481,
+    30.9352,
+    101.481,
+    30.9352
+],
+  "geometry": {"coordinates":[101.48099999999999,30.9352],"type":"Point"}
+}

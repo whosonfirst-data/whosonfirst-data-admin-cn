@@ -1,0 +1,64 @@
+{
+  "id": 1209183545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.358,22.2276,108.358,22.2276",
+    "geom:latitude":22.2276,
+    "geom:longitude":108.358,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Napi",
+    "gn:country_code":"CN",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9899887,
+    "gn:latitude":22.2276,
+    "gn:longitude":108.358,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Napi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u90a3\u5339"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9899887
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5181578f5413faa79672cc0f60bcf3d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209183545
+        }
+    ],
+    "wof:id":1209183545,
+    "wof:lastmodified":1537606776,
+    "wof:name":"Napi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.358,
+    22.2276,
+    108.358,
+    22.2276
+],
+  "geometry": {"coordinates":[108.358,22.2276],"type":"Point"}
+}

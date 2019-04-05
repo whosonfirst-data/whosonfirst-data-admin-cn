@@ -1,0 +1,75 @@
+{
+  "id": 1360090279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.74042,33.47683,119.74042,33.47683",
+    "geom:latitude":33.47683,
+    "geom:longitude":119.74042,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shuang'anqiao",
+    "gn:country_code":"CN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8035060,
+    "gn:latitude":33.47683,
+    "gn:longitude":119.74042,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shuang\u2019anqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Shuang\u2019anqiao"
+    ],
+    "name:zho_x_variant":[
+        "\u53cc\u5eb5\u6865"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8035060
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"869918c248726b278bf41b28678418e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515153,
+            "empire_id":136253041,
+            "locality_id":1360090279,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1360090279,
+    "wof:lastmodified":1537602230,
+    "wof:name":"Shuang'anqiao",
+    "wof:parent_id":890515153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.74042,
+    33.47683,
+    119.74042,
+    33.47683
+],
+  "geometry": {"coordinates":[119.74042,33.47683],"type":"Point"}
+}

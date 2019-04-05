@@ -1,0 +1,75 @@
+{
+  "id": 1343448317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.29614,28.95314,109.29614,28.95314",
+    "geom:latitude":28.95314,
+    "geom:longitude":109.29614,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ma'anshan",
+    "gn:country_code":"CN",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10373105,
+    "gn:latitude":28.95314,
+    "gn:longitude":109.29614,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Ma\u2019anshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u2019anshan"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u978d\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        1108794059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10373105
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4ef2634001f65a366e0de279227e4185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794059,
+            "empire_id":136253041,
+            "locality_id":1343448317,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1343448317,
+    "wof:lastmodified":1537612880,
+    "wof:name":"Ma'anshan",
+    "wof:parent_id":1108794059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.29614,
+    28.95314,
+    109.29614,
+    28.95314
+],
+  "geometry": {"coordinates":[109.29613999999999,28.95314],"type":"Point"}
+}

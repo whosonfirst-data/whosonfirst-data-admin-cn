@@ -1,0 +1,77 @@
+{
+  "id": 1260367977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.45528,25.10861,111.45528,25.10861",
+    "geom:latitude":25.10861,
+    "geom:longitude":111.45528,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Songbo",
+    "gn:country_code":"CN",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":6423001,
+    "gn:latitude":25.10861,
+    "gn:longitude":111.45528,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Songbo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Songbo Yaozuxiang",
+        "\u677e\u67cf\u7476\u65cf\u4e61",
+        "Songbo"
+    ],
+    "name:zho_x_preferred":[
+        "\u677e\u67cf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890515001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6423001
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bf523782551b36ad0a918243870d5da9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515001,
+            "empire_id":136253041,
+            "locality_id":1260367977,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1260367977,
+    "wof:lastmodified":1537596044,
+    "wof:name":"Songbo",
+    "wof:parent_id":890515001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.45528,
+    25.10861,
+    111.45528,
+    25.10861
+],
+  "geometry": {"coordinates":[111.45528,25.10861],"type":"Point"}
+}

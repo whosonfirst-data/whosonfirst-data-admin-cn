@@ -1,0 +1,64 @@
+{
+  "id": 1209565769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.925,27.459,104.925,27.459",
+    "geom:latitude":27.459,
+    "geom:longitude":104.925,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Langjia Yuanzi",
+    "gn:country_code":"CN",
+    "gn:dem":1759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10145174,
+    "gn:latitude":27.459,
+    "gn:longitude":104.925,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Langjia Yuanzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u90ce\u5bb6\u9662\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10145174
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"952cbc38b8bfa1f7bebd619667a13d52",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209565769
+        }
+    ],
+    "wof:id":1209565769,
+    "wof:lastmodified":1537610337,
+    "wof:name":"Langjia Yuanzi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.925,
+    27.459,
+    104.925,
+    27.459
+],
+  "geometry": {"coordinates":[104.925,27.459],"type":"Point"}
+}

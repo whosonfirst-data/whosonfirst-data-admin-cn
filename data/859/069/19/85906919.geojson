@@ -1,0 +1,107 @@
+{
+  "id": 85906919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000149,
+    "geom:area_square_m":1418200.068055,
+    "geom:bbox":"116.413879395,39.8865576897,116.434196356,39.8992015026",
+    "geom:latitude":39.892305,
+    "geom:longitude":116.424074,
+    "gn:id":"",
+    "iso:country":"CN",
+    "lbl:latitude":39.892149,
+    "lbl:longitude":116.426921,
+    "mps:latitude":39.892703,
+    "mps:longitude":116.424228,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Donghuashi"
+    ],
+    "name:unk_x_variant":[
+        "Donghuashi"
+    ],
+    "qs:gn_adm0_cc":"CN",
+    "qs:gn_id":0,
+    "qs:gn_local":1816670,
+    "qs:local_max":27927,
+    "qs:local_sum":297141,
+    "qs:localhoods":105,
+    "qs:name":"Donghuashi",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u5317\u4eac\u76f4\u8f96\u5e02",
+    "qs:name_adm2":"\u5317\u4eac",
+    "qs:name_lau":"\u671d\u9633\u533a",
+    "qs:name_local":"\u5317\u4eac",
+    "qs:photo_max":115,
+    "qs:photo_sum":332,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424781,
+    "qs:woe_adm1":12578011,
+    "qs:woe_adm2":12686916,
+    "qs:woe_lau":56043480,
+    "qs:woe_local":2151330,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632695,
+        102027745,
+        136253041,
+        1108732371,
+        85669727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724393,
+        "qs:id":1198744,
+        "qs_pg:id":1198744
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ada10717069fa1101d921a734bb1e0ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732371,
+            "empire_id":136253041,
+            "locality_id":102027745,
+            "neighbourhood_id":85906919,
+            "region_id":85669727
+        }
+    ],
+    "wof:id":85906919,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527269289,
+    "wof:name":"Donghuashi",
+    "wof:parent_id":102027745,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.41387939481,
+    39.8865576897,
+    116.43419635574,
+    39.899201502586
+],
+  "geometry": {"coordinates":[[[116.422119141,39.899201502586],[116.422119141,39.8970943726],[116.427612305,39.8970943726],[116.427612305,39.895672548387],[116.427612305,39.894301648431],[116.430358887,39.893108363923],[116.433105469,39.894301648431],[116.43419633089999,39.8928798355],[116.43365737156,39.890772550775],[116.43419633917,39.8886651688],[116.43419635574,39.888665104025],[116.433105469,39.887243389874],[116.430358887,39.888436564309],[116.42843048859,39.887598826466],[116.42816419099,39.8865576897],[116.42486572148,39.886557696633],[116.42352140526999,39.888309664608],[116.42347311671,39.888322251317],[116.42321000290001,39.8886651688],[116.422119141,39.8886651688],[116.422119141,39.8897188355],[116.4201810415,39.8897188355],[116.41937256186,39.888665160672],[116.416625977,39.888665161611],[116.416625977,39.890772557986],[116.41387939481,39.890772560819],[116.41387939716,39.892879890485],[116.41468777765,39.893933502175],[116.416625977,39.893933502175],[116.416625977,39.8970943726],[116.419372559,39.8970943726],[116.419372559,39.899201502226],[116.422119141,39.899201502586]]],"type":"Polygon"}
+}

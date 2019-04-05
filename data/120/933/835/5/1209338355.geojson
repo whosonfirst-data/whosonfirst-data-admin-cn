@@ -1,0 +1,64 @@
+{
+  "id": 1209338355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.80341,32.79924,119.80341,32.79924",
+    "geom:latitude":32.79924,
+    "geom:longitude":119.80341,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tangdong",
+    "gn:country_code":"CN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8226951,
+    "gn:latitude":32.79924,
+    "gn:longitude":119.80341,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Tangdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6c64\u4e1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8226951
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7d00827bc1d290ad690bd73ac598dcb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209338355
+        }
+    ],
+    "wof:id":1209338355,
+    "wof:lastmodified":1537602762,
+    "wof:name":"Tangdong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.80341,
+    32.79924,
+    119.80341,
+    32.79924
+],
+  "geometry": {"coordinates":[119.80341,32.79924],"type":"Point"}
+}

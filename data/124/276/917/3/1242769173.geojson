@@ -1,0 +1,75 @@
+{
+  "id": 1242769173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.94,26.66,118.94,26.66",
+    "geom:latitude":26.66,
+    "geom:longitude":118.94,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kunshan",
+    "gn:country_code":"CN",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7686621,
+    "gn:latitude":26.66,
+    "gn:longitude":118.94,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kunshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Kunshan"
+    ],
+    "name:zho_x_variant":[
+        "\u6606\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7686621
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8f1e9588580724142328e500ad8f3fd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516577,
+            "empire_id":136253041,
+            "locality_id":1242769173,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1242769173,
+    "wof:lastmodified":1537600992,
+    "wof:name":"Kunshan",
+    "wof:parent_id":890516577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.94,
+    26.66,
+    118.94,
+    26.66
+],
+  "geometry": {"coordinates":[118.94,26.66],"type":"Point"}
+}

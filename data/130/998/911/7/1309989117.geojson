@@ -1,0 +1,84 @@
+{
+  "id": 1309989117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.904,27.904,85.904,27.904",
+    "geom:latitude":27.904,
+    "geom:longitude":85.904,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nyimapu",
+    "gn:country_code":"CN",
+    "gn:dem":2067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8046508,
+    "gn:latitude":27.904,
+    "gn:longitude":85.904,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Nyimapu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Nyimapu"
+    ],
+    "name:zho_x_preferred":[
+        "Nimapu"
+    ],
+    "name:zho_x_variant":[
+        "\u5c3c\u739b\u666e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8046508
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"074ae635498a3fcd029af97dfe7cbfca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1309989117,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1309989117,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1309989117,
+    "wof:lastmodified":1537602412,
+    "wof:name":"Nyimapu",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.904,
+    27.904,
+    85.904,
+    27.904
+],
+  "geometry": {"coordinates":[85.904,27.904],"type":"Point"}
+}

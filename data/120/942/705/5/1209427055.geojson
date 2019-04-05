@@ -1,0 +1,74 @@
+{
+  "id": 1209427055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.06112,29.58253,120.06112,29.58253",
+    "geom:latitude":29.58253,
+    "geom:longitude":120.06112,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Gaochengtou",
+    "gn:country_code":"CN",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1918876,
+    "gn:latitude":29.58253,
+    "gn:longitude":120.06112,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gaochengtou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tongshan",
+        "Gaochengtou",
+        "\u9ad8\u57ce\u5934",
+        "Tongshan Zhen",
+        "\u540c\u5c71\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ad8\u57ce\u5934"
+    ],
+    "name:zho_x_variant":[
+        "\u540c\u5c71\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1918876
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"90a742384da4400c62b9c7bb1c07de24",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209427055
+        }
+    ],
+    "wof:id":1209427055,
+    "wof:lastmodified":1537594801,
+    "wof:name":"Gaochengtou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.06112,
+    29.58253,
+    120.06112,
+    29.58253
+],
+  "geometry": {"coordinates":[120.06112,29.58253],"type":"Point"}
+}

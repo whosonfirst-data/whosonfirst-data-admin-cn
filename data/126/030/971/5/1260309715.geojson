@@ -1,0 +1,77 @@
+{
+  "id": 1260309715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.68707,31.66773,120.68707,31.66773",
+    "geom:latitude":31.66773,
+    "geom:longitude":120.68707,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Baoyancun",
+    "gn:country_code":"CN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1898163,
+    "gn:latitude":31.66773,
+    "gn:longitude":120.68707,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Baoyancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pao-nien-ts\u2019un",
+        "Baoyan",
+        "Baoyancun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b9d\u5ca9\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1898163
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"232e199b3730701571d49ae39bcbc7b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515879,
+            "empire_id":136253041,
+            "locality_id":1260309715,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1260309715,
+    "wof:lastmodified":1537594421,
+    "wof:name":"Baoyancun",
+    "wof:parent_id":890515879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.68707,
+    31.66773,
+    120.68707,
+    31.66773
+],
+  "geometry": {"coordinates":[120.68707000000001,31.66773],"type":"Point"}
+}

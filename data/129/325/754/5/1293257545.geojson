@@ -1,0 +1,75 @@
+{
+  "id": 1293257545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.04347,42.18851,123.04347,42.18851",
+    "geom:latitude":42.18851,
+    "geom:longitude":123.04347,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shimiaozi",
+    "gn:country_code":"CN",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7400595,
+    "gn:latitude":42.18851,
+    "gn:longitude":123.04347,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shimiaozi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u77f3\u5e99\u5b50"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u5e99\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        1108732451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7400595
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c9093109aec4ca2ee9f4a1551a65dbf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732451,
+            "empire_id":136253041,
+            "locality_id":1293257545,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1293257545,
+    "wof:lastmodified":1537598685,
+    "wof:name":"Shimiaozi",
+    "wof:parent_id":1108732451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.04347,
+    42.18851,
+    123.04347,
+    42.18851
+],
+  "geometry": {"coordinates":[123.04347,42.18851],"type":"Point"}
+}

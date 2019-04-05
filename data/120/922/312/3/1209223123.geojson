@@ -1,0 +1,64 @@
+{
+  "id": 1209223123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.20278,27.49333,119.20278,27.49333",
+    "geom:latitude":27.49333,
+    "geom:longitude":119.20278,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Congshuai",
+    "gn:country_code":"CN",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1984903,
+    "gn:latitude":27.49333,
+    "gn:longitude":119.20278,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Congshuai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8471\u7529"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1984903
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d09e3687115b9c0fbfe8b531727d7627",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209223123
+        }
+    ],
+    "wof:id":1209223123,
+    "wof:lastmodified":1537595246,
+    "wof:name":"Congshuai",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.20278,
+    27.49333,
+    119.20278,
+    27.49333
+],
+  "geometry": {"coordinates":[119.20278,27.49333],"type":"Point"}
+}

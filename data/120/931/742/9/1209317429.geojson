@@ -1,0 +1,64 @@
+{
+  "id": 1209317429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.64418,28.29788,121.64418,28.29788",
+    "geom:latitude":28.29788,
+    "geom:longitude":121.64418,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nanmian",
+    "gn:country_code":"CN",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11195602,
+    "gn:latitude":28.29788,
+    "gn:longitude":121.64418,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nanmian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5357\u9762"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11195602
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4811fd007fd3dabe693765e19910ca23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209317429
+        }
+    ],
+    "wof:id":1209317429,
+    "wof:lastmodified":1537615788,
+    "wof:name":"Nanmian",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.64418,
+    28.29788,
+    121.64418,
+    28.29788
+],
+  "geometry": {"coordinates":[121.64418000000001,28.29788],"type":"Point"}
+}

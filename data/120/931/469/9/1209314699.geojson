@@ -1,0 +1,64 @@
+{
+  "id": 1209314699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.60278,31.8941,119.60278,31.8941",
+    "geom:latitude":31.8941,
+    "geom:longitude":119.60278,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hedong",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8395075,
+    "gn:latitude":31.8941,
+    "gn:longitude":119.60278,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Hedong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6cb3\u4e1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8395075
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4a9406e5d34f8c71db1d0fe1f4073750",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209314699
+        }
+    ],
+    "wof:id":1209314699,
+    "wof:lastmodified":1537603206,
+    "wof:name":"Hedong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.60278,
+    31.8941,
+    119.60278,
+    31.8941
+],
+  "geometry": {"coordinates":[119.60278,31.8941],"type":"Point"}
+}

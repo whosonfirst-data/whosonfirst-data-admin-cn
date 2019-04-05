@@ -1,0 +1,64 @@
+{
+  "id": 1209100811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.74529,40.06778,114.74529,40.06778",
+    "geom:latitude":40.06778,
+    "geom:longitude":114.74529,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kangzhuang",
+    "gn:country_code":"CN",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10132588,
+    "gn:latitude":40.06778,
+    "gn:longitude":114.74529,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Kangzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5eb7\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10132588
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d04044901cc603d11454ab496b9f59e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209100811
+        }
+    ],
+    "wof:id":1209100811,
+    "wof:lastmodified":1537610028,
+    "wof:name":"Kangzhuang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.74529,
+    40.06778,
+    114.74529,
+    40.06778
+],
+  "geometry": {"coordinates":[114.74529,40.06778],"type":"Point"}
+}

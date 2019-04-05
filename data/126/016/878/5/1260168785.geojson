@@ -1,0 +1,80 @@
+{
+  "id": 1260168785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.05917,28.65861,113.05917,28.65861",
+    "geom:latitude":28.65861,
+    "geom:longitude":113.05917,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Baishui",
+    "gn:country_code":"CN",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1817373,
+    "gn:latitude":28.65861,
+    "gn:longitude":113.05917,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Baishui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pai-shui",
+        "Baishui",
+        "Baishui Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u767d\u6c34"
+    ],
+    "name:zho_x_variant":[
+        "\u767d\u6c34\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669781,
+        102191569,
+        85632695,
+        136253041,
+        890516479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1817373
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"423e7c5b1c45c68e956bc8f72698a4f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516479,
+            "empire_id":136253041,
+            "locality_id":1260168785,
+            "region_id":85669781
+        }
+    ],
+    "wof:id":1260168785,
+    "wof:lastmodified":1537594066,
+    "wof:name":"Baishui",
+    "wof:parent_id":890516479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.05917,
+    28.65861,
+    113.05917,
+    28.65861
+],
+  "geometry": {"coordinates":[113.05916999999999,28.65861],"type":"Point"}
+}

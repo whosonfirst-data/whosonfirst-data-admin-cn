@@ -1,0 +1,64 @@
+{
+  "id": 1209672147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.25132,36.13273,110.25132,36.13273",
+    "geom:latitude":36.13273,
+    "geom:longitude":110.25132,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Zhuojiacun",
+    "gn:country_code":"CN",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11195135,
+    "gn:latitude":36.13273,
+    "gn:longitude":110.25132,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Zhuojiacun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5353\u5bb6\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11195135
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a6bceb846980061c856eddde39165a72",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209672147
+        }
+    ],
+    "wof:id":1209672147,
+    "wof:lastmodified":1537615780,
+    "wof:name":"Zhuojiacun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.25132,
+    36.13273,
+    110.25132,
+    36.13273
+],
+  "geometry": {"coordinates":[110.25132000000001,36.13273],"type":"Point"}
+}

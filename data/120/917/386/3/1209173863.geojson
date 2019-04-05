@@ -1,0 +1,64 @@
+{
+  "id": 1209173863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.73385,22.49104,111.73385,22.49104",
+    "geom:latitude":22.49104,
+    "geom:longitude":111.73385,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Yangda",
+    "gn:country_code":"CN",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6850980,
+    "gn:latitude":22.49104,
+    "gn:longitude":111.73385,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Yangda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7f8a\u7b2a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6850980
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"340c6cea3a9509eb1c520775ad72a808",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209173863
+        }
+    ],
+    "wof:id":1209173863,
+    "wof:lastmodified":1537596397,
+    "wof:name":"Yangda",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.73385,
+    22.49104,
+    111.73385,
+    22.49104
+],
+  "geometry": {"coordinates":[111.73385,22.49104],"type":"Point"}
+}

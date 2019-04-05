@@ -1,0 +1,75 @@
+{
+  "id": 1309880579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7931,39.92095,123.7931,39.92095",
+    "geom:latitude":39.92095,
+    "geom:longitude":123.7931,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Xihuangcheng",
+    "gn:country_code":"CN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7402589,
+    "gn:latitude":39.92095,
+    "gn:longitude":123.7931,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Xihuangcheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u897f\u9ec4\u57ce"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u9ec4\u57ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7402589
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"686a75b01b7cf4849f582f727f0a7fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514725,
+            "empire_id":136253041,
+            "locality_id":1309880579,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1309880579,
+    "wof:lastmodified":1537598808,
+    "wof:name":"Xihuangcheng",
+    "wof:parent_id":890514725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7931,
+    39.92095,
+    123.7931,
+    39.92095
+],
+  "geometry": {"coordinates":[123.7931,39.92095],"type":"Point"}
+}

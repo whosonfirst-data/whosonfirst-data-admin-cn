@@ -1,0 +1,64 @@
+{
+  "id": 1209183505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.372,22.3416,108.372,22.3416",
+    "geom:latitude":22.3416,
+    "geom:longitude":108.372,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Nalian",
+    "gn:country_code":"CN",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9899233,
+    "gn:latitude":22.3416,
+    "gn:longitude":108.372,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Nalian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u90a3\u70bc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9899233
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b184a16251daab5edc45a6db0ef0ca0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209183505
+        }
+    ],
+    "wof:id":1209183505,
+    "wof:lastmodified":1537606754,
+    "wof:name":"Nalian",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.372,
+    22.3416,
+    108.372,
+    22.3416
+],
+  "geometry": {"coordinates":[108.372,22.3416],"type":"Point"}
+}

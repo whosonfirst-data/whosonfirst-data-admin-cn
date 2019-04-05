@@ -1,0 +1,75 @@
+{
+  "id": 1226612401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.08968,34.80313,108.08968,34.80313",
+    "geom:latitude":34.80313,
+    "geom:longitude":108.08968,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Maliantan",
+    "gn:country_code":"CN",
+    "gn:dem":1248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2000605,
+    "gn:latitude":34.80313,
+    "gn:longitude":108.08968,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Maliantan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9a6c\u8fde\u6ee9"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u8fde\u6ee9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2000605
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8032bacd3c2c1a4c87c86b8b2fde2a36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515689,
+            "empire_id":136253041,
+            "locality_id":1226612401,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1226612401,
+    "wof:lastmodified":1537595457,
+    "wof:name":"Maliantan",
+    "wof:parent_id":890515689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.08968,
+    34.80313,
+    108.08968,
+    34.80313
+],
+  "geometry": {"coordinates":[108.08968,34.80313],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209587847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.835,24.5181,110.835,24.5181",
+    "geom:latitude":24.5181,
+    "geom:longitude":110.835,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Poshan",
+    "gn:country_code":"CN",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9916916,
+    "gn:latitude":24.5181,
+    "gn:longitude":110.835,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Poshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5a46\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9916916
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"695a219ca8e749515bace51dd3a35371",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209587847
+        }
+    ],
+    "wof:id":1209587847,
+    "wof:lastmodified":1537607256,
+    "wof:name":"Poshan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.835,
+    24.5181,
+    110.835,
+    24.5181
+],
+  "geometry": {"coordinates":[110.83499999999999,24.5181],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1309751627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.67847,31.39648,100.67847,31.39648",
+    "geom:latitude":31.39648,
+    "geom:longitude":100.67847,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Xindou",
+    "gn:country_code":"CN",
+    "gn:dem":3185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1789098,
+    "gn:latitude":31.39648,
+    "gn:longitude":100.67847,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Xindou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhaggo",
+        "Laojie",
+        "Drango",
+        "Chango",
+        "Lukho",
+        "Chang",
+        "Luhuo",
+        "Chiu-lu-ho",
+        "Lu-ho",
+        "Changku",
+        "Dango Gomba",
+        "Xindou",
+        "Xindou Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u90fd"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u90fd\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        890514703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1789098,
+        "wk:page":"Zhaggo"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"26ea188c6be10d4fa29bf4f6aa6e1c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514703,
+            "empire_id":136253041,
+            "locality_id":1309751627,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1309751627,
+    "wof:lastmodified":1537592243,
+    "wof:name":"Xindou",
+    "wof:parent_id":890514703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.67847,
+    31.39648,
+    100.67847,
+    31.39648
+],
+  "geometry": {"coordinates":[100.67847,31.39648],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1243122827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.40611,22.96916,102.40611,22.96916",
+    "geom:latitude":22.96916,
+    "geom:longitude":102.40611,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Daxing",
+    "gn:country_code":"CN",
+    "gn:dem":1800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1802162,
+    "gn:latitude":22.96916,
+    "gn:longitude":102.40611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Daxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00fcchun",
+        "Daxing Zhen",
+        "Ta-hsing-chieh",
+        "Ta-hsing-chai",
+        "Ta-hsing-chen",
+        "Daxing"
+    ],
+    "name:zho_x_preferred":[
+        "L\u00fcchun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        1108794063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1802162
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0df31c1bcb0d8f4b6584627b289cb724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794063,
+            "empire_id":136253041,
+            "locality_id":1243122827,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1243122827,
+    "wof:lastmodified":1537593101,
+    "wof:name":"Daxing",
+    "wof:parent_id":1108794063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.40611,
+    22.96916,
+    102.40611,
+    22.96916
+],
+  "geometry": {"coordinates":[102.40611,22.96916],"type":"Point"}
+}

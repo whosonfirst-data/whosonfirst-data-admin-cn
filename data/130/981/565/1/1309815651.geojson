@@ -1,0 +1,79 @@
+{
+  "id": 1309815651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.18985,27.50502,120.18985,27.50502",
+    "geom:latitude":27.50502,
+    "geom:longitude":120.18985,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Juxi",
+    "gn:country_code":"CN",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1804898,
+    "gn:latitude":27.50502,
+    "gn:longitude":120.18985,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Juxi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u00fc-hsi",
+        "Juxi"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u00fc-ch\u2019i"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u00fc-hsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890514289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1804898
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8f701380b7662911c673036ce6fddacf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514289,
+            "empire_id":136253041,
+            "locality_id":1309815651,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1309815651,
+    "wof:lastmodified":1537593276,
+    "wof:name":"Juxi",
+    "wof:parent_id":890514289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.18985,
+    27.50502,
+    120.18985,
+    27.50502
+],
+  "geometry": {"coordinates":[120.18985000000001,27.50502],"type":"Point"}
+}

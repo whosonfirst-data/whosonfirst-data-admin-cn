@@ -1,0 +1,75 @@
+{
+  "id": 1293345019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.32889,34.26694,108.32889,34.26694",
+    "geom:latitude":34.26694,
+    "geom:longitude":108.32889,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Qianjin",
+    "gn:country_code":"CN",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1999097,
+    "gn:latitude":34.26694,
+    "gn:longitude":108.32889,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Qianjin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u524d\u8fdb"
+    ],
+    "name:zho_x_preferred":[
+        "\u524d\u8fdb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1999097
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d58e506dd9b32a240b99cdafb98f669c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515689,
+            "empire_id":136253041,
+            "locality_id":1293345019,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1293345019,
+    "wof:lastmodified":1537595433,
+    "wof:name":"Qianjin",
+    "wof:parent_id":890515689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.32889,
+    34.26694000000001,
+    108.32889,
+    34.26694000000001
+],
+  "geometry": {"coordinates":[108.32889,34.26694000000001],"type":"Point"}
+}

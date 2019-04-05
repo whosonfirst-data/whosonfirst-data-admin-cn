@@ -1,0 +1,76 @@
+{
+  "id": 1327425285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.27333,24.01556,117.27333,24.01556",
+    "geom:latitude":24.01556,
+    "geom:longitude":117.27333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Xiahe",
+    "gn:country_code":"CN",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1790718,
+    "gn:latitude":24.01556,
+    "gn:longitude":117.27333,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Xiahe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsia-ho",
+        "Xiahe",
+        "\u4e0b\u6cb3",
+        "Xiahe Xiang",
+        "\u4e0b\u6cb3\u4e61"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890513339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1790718
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4d293a65623c57c73dfd22300151e173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513339,
+            "empire_id":136253041,
+            "locality_id":1327425285,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1327425285,
+    "wof:lastmodified":1537592356,
+    "wof:name":"Xiahe",
+    "wof:parent_id":890513339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.27333,
+    24.01556,
+    117.27333,
+    24.01556
+],
+  "geometry": {"coordinates":[117.27333,24.01556],"type":"Point"}
+}

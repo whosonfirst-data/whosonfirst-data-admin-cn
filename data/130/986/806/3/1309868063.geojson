@@ -1,0 +1,75 @@
+{
+  "id": 1309868063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.76009,41.25213,123.76009,41.25213",
+    "geom:latitude":41.25213,
+    "geom:longitude":123.76009,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Qianjingou",
+    "gn:country_code":"CN",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7397859,
+    "gn:latitude":41.25213,
+    "gn:longitude":123.76009,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qianjingou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5343\u91d1\u6c9f"
+    ],
+    "name:zho_x_preferred":[
+        "\u5343\u91d1\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890513783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7397859
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d76148da01d559e0e221170b18af9485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513783,
+            "empire_id":136253041,
+            "locality_id":1309868063,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1309868063,
+    "wof:lastmodified":1537598537,
+    "wof:name":"Qianjingou",
+    "wof:parent_id":890513783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.76009,
+    41.25213,
+    123.76009,
+    41.25213
+],
+  "geometry": {"coordinates":[123.76009000000001,41.25213],"type":"Point"}
+}

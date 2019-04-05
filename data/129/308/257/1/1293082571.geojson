@@ -1,0 +1,77 @@
+{
+  "id": 1293082571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.52722,23.84861,109.52722,23.84861",
+    "geom:latitude":23.84861,
+    "geom:longitude":109.52722,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Shilong",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1795182,
+    "gn:latitude":23.84861,
+    "gn:longitude":109.52722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shilong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sheklung",
+        "Shih-lung",
+        "Shih-lung-chen",
+        "Shih-lung-hs\u00fc",
+        "Shilong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669717,
+        102191569,
+        85632695,
+        136253041,
+        1108732439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1795182
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b83b851f66a67d11eec0a47a86acf20d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732439,
+            "empire_id":136253041,
+            "locality_id":1293082571,
+            "region_id":85669717
+        }
+    ],
+    "wof:id":1293082571,
+    "wof:lastmodified":1537592651,
+    "wof:name":"Shilong",
+    "wof:parent_id":1108732439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.52722,
+    23.84861,
+    109.52722,
+    23.84861
+],
+  "geometry": {"coordinates":[109.52722,23.84861],"type":"Point"}
+}

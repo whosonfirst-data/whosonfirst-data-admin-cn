@@ -1,0 +1,80 @@
+{
+  "id": 1226413195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.63333,32.0,83.63333,32.0",
+    "geom:latitude":32.0,
+    "geom:longitude":83.63333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Camco",
+    "gn:country_code":"CN",
+    "gn:dem":4391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":1281582,
+    "gn:latitude":32.0,
+    "gn:longitude":83.63333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Camco",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Camco"
+    ],
+    "name:zho_x_preferred":[
+        "Chacuo"
+    ],
+    "name:zho_x_variant":[
+        "\u8336\u63aa",
+        "Pengdi",
+        "\u5f6d\u5730"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1281582
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a62adb7c5dc8bf5ea712bb815b3312e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732537,
+            "empire_id":136253041,
+            "locality_id":1226413195,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226413195,
+    "wof:lastmodified":1537591531,
+    "wof:name":"Camco",
+    "wof:parent_id":1108732537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.63333,
+    32.0,
+    83.63333,
+    32.0
+],
+  "geometry": {"coordinates":[83.63333,32.0],"type":"Point"}
+}

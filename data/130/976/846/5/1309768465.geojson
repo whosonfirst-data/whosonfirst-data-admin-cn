@@ -1,0 +1,75 @@
+{
+  "id": 1309768465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.57444,40.87889,124.57444,40.87889",
+    "geom:latitude":40.87889,
+    "geom:longitude":124.57444,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Guanshui",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2037183,
+    "gn:latitude":40.87889,
+    "gn:longitude":124.57444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guanshui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuan-shui-tung",
+        "Kuan-shui",
+        "Guanshui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2037183
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f86e92c2dd37b990776a1fb88b0595a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514725,
+            "empire_id":136253041,
+            "locality_id":1309768465,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1309768465,
+    "wof:lastmodified":1537595814,
+    "wof:name":"Guanshui",
+    "wof:parent_id":890514725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.57444,
+    40.87889000000001,
+    124.57444,
+    40.87889000000001
+],
+  "geometry": {"coordinates":[124.57444,40.87889000000001],"type":"Point"}
+}

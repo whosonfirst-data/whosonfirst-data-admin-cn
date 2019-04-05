@@ -1,0 +1,79 @@
+{
+  "id": 1326630243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.16309,31.8623,121.16309,31.8623",
+    "geom:latitude":31.8623,
+    "geom:longitude":121.16309,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Xiushancun",
+    "gn:country_code":"CN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1887619,
+    "gn:latitude":31.8623,
+    "gn:longitude":121.16309,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Xiushancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xiushan",
+        "Xiushancun"
+    ],
+    "name:zho_x_preferred":[
+        "\u79c0\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "\u79c0\u5c71\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1887619
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"eb4ac9fbbdb84d4192cf3991151897f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515155,
+            "empire_id":136253041,
+            "locality_id":1326630243,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1326630243,
+    "wof:lastmodified":1537594248,
+    "wof:name":"Xiushancun",
+    "wof:parent_id":890515155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.16309,
+    31.8623,
+    121.16309,
+    31.8623
+],
+  "geometry": {"coordinates":[121.16309,31.8623],"type":"Point"}
+}

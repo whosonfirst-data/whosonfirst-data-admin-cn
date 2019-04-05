@@ -1,0 +1,78 @@
+{
+  "id": 1259541329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.66392,35.31558,111.66392,35.31558",
+    "geom:latitude":35.31558,
+    "geom:longitude":111.66392,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Gudui",
+    "gn:country_code":"CN",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1809553,
+    "gn:latitude":35.31558,
+    "gn:longitude":111.66392,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Gudui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ku-tui",
+        "Chung-ku-tui",
+        "Chung-ko-tui",
+        "Gudui"
+    ],
+    "name:zho_x_preferred":[
+        "\u53e4\u5806"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        890514745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1809553
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"60a16c3751df07c9c76f364deed4a154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514745,
+            "empire_id":136253041,
+            "locality_id":1259541329,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":1259541329,
+    "wof:lastmodified":1537593576,
+    "wof:name":"Gudui",
+    "wof:parent_id":890514745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.66392,
+    35.31558,
+    111.66392,
+    35.31558
+],
+  "geometry": {"coordinates":[111.66392,35.31558],"type":"Point"}
+}

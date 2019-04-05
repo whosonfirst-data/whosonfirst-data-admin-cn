@@ -1,0 +1,75 @@
+{
+  "id": 1259787259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.06267,32.67773,119.06267,32.67773",
+    "geom:latitude":32.67773,
+    "geom:longitude":119.06267,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Xi'an",
+    "gn:country_code":"CN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10415090,
+    "gn:latitude":32.67773,
+    "gn:longitude":119.06267,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Xi\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xi\u2019an"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u5eb5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890513329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10415090
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b90aea50c7adb7b909d6cedc6e1d274a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513329,
+            "empire_id":136253041,
+            "locality_id":1259787259,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":1259787259,
+    "wof:lastmodified":1537613250,
+    "wof:name":"Xi'an",
+    "wof:parent_id":890513329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.06267,
+    32.67773,
+    119.06267,
+    32.67773
+],
+  "geometry": {"coordinates":[119.06267,32.67773],"type":"Point"}
+}

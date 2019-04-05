@@ -1,0 +1,64 @@
+{
+  "id": 1209676289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.31,25.668,103.31,25.668",
+    "geom:latitude":25.668,
+    "geom:longitude":103.31,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Heishadi",
+    "gn:country_code":"CN",
+    "gn:dem":2397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10158196,
+    "gn:latitude":25.668,
+    "gn:longitude":103.31,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Heishadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9ed1\u6c99\u5730"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10158196
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f711f39aa97847d3abf098b93b41aa5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209676289
+        }
+    ],
+    "wof:id":1209676289,
+    "wof:lastmodified":1537610699,
+    "wof:name":"Heishadi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.31,
+    25.66800000000001,
+    103.31,
+    25.66800000000001
+],
+  "geometry": {"coordinates":[103.31,25.66800000000001],"type":"Point"}
+}

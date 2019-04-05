@@ -1,0 +1,82 @@
+{
+  "id": 890512891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.9156,22.49359,113.9156,22.49359",
+    "geom:latitude":22.49359,
+    "geom:longitude":113.9156,
+    "gn:country":"CN",
+    "gn:fcode":"PPLA4",
+    "gn:pop":0,
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shekou"
+    ],
+    "name:unk_x_variant":[
+        "Shekou Jiedao"
+    ],
+    "name:zho_x_preferred":[
+        "\u86c7\u53e3"
+    ],
+    "name:zho_x_variant":[
+        "\u86c7\u53e3\u8857\u9053"
+    ],
+    "qs:name":"Shekou",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":696,
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890514737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1795708,
+        "gp:id":2162206,
+        "qs:id":136460,
+        "wd:id":"Q3138761",
+        "wk:page":"Shekou"
+    },
+    "wof:country":"CN",
+    "wof:created":1469055790,
+    "wof:geomhash":"e8a0fe498baeb260db05707d1acc0058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514737,
+            "empire_id":136253041,
+            "locality_id":890512891,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":890512891,
+    "wof:lastmodified":1527793096,
+    "wof:name":"Shekou",
+    "wof:parent_id":890514737,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.9156,
+    22.49359,
+    113.9156,
+    22.49359
+],
+  "geometry": {"coordinates":[113.9156,22.49359],"type":"Point"}
+}

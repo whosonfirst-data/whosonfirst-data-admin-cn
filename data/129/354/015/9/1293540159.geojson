@@ -1,0 +1,87 @@
+{
+  "id": 1293540159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.00417,23.5711,102.00417,23.5711",
+    "geom:latitude":23.5711,
+    "geom:longitude":102.00417,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Lijiang",
+    "gn:country_code":"CN",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1803670,
+    "gn:latitude":23.5711,
+    "gn:longitude":102.00417,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lijiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00fcan-chiang",
+        "Hsiao-yen",
+        "Y\u00fcan-chiang-hsien",
+        "Yuanjiang",
+        "Y\u00fcankiang-hsien",
+        "Y\u00fcankiang",
+        "Lijiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u6fa7\u6c5f"
+    ],
+    "name:zho_x_variant":[
+        "Y\u00fcankiang-hsien",
+        "Y\u00fcankiang",
+        "Y\u00fcan-chiang-hsien",
+        "Y\u00fcan-chiang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        890512033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1803670
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3a7754ac74db11e15d60075236e2d018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890512033,
+            "empire_id":136253041,
+            "locality_id":1293540159,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1293540159,
+    "wof:lastmodified":1537593204,
+    "wof:name":"Lijiang",
+    "wof:parent_id":890512033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.00417,
+    23.5711,
+    102.00417,
+    23.5711
+],
+  "geometry": {"coordinates":[102.00417,23.5711],"type":"Point"}
+}

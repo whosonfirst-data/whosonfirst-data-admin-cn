@@ -1,0 +1,64 @@
+{
+  "id": 1209660947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.61,32.0335,102.61,32.0335",
+    "geom:latitude":32.0335,
+    "geom:longitude":102.61,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Selong",
+    "gn:country_code":"CN",
+    "gn:dem":3342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10202440,
+    "gn:latitude":32.0335,
+    "gn:longitude":102.61,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Selong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8272\u9686"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10202440
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"cfd23cd3ff799324c8b15738b3df1dee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209660947
+        }
+    ],
+    "wof:id":1209660947,
+    "wof:lastmodified":1537611311,
+    "wof:name":"Selong",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.61,
+    32.0335,
+    102.61,
+    32.0335
+],
+  "geometry": {"coordinates":[102.61,32.0335],"type":"Point"}
+}

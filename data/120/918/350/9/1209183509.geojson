@@ -1,0 +1,64 @@
+{
+  "id": 1209183509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.299,23.5305,108.299,23.5305",
+    "geom:latitude":23.5305,
+    "geom:longitude":108.299,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bayou",
+    "gn:country_code":"CN",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9929636,
+    "gn:latitude":23.5305,
+    "gn:longitude":108.299,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Bayou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5c9c\u4f18"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9929636
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b7e6cbdf79bc4e9e483826f54820731b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209183509
+        }
+    ],
+    "wof:id":1209183509,
+    "wof:lastmodified":1537607629,
+    "wof:name":"Bayou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.299,
+    23.5305,
+    108.299,
+    23.5305
+],
+  "geometry": {"coordinates":[108.29900000000001,23.5305],"type":"Point"}
+}

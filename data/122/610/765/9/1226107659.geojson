@@ -1,0 +1,75 @@
+{
+  "id": 1226107659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.09028,41.20017,123.09028,41.20017",
+    "geom:latitude":41.20017,
+    "geom:longitude":123.09028,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Xiangyangsi",
+    "gn:country_code":"CN",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7404739,
+    "gn:latitude":41.20017,
+    "gn:longitude":123.09028,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Xiangyangsi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5411\u9633\u5bfa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5411\u9633\u5bfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7404739
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"42640ba62f223abb941384a4f1d6cff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514643,
+            "empire_id":136253041,
+            "locality_id":1226107659,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1226107659,
+    "wof:lastmodified":1537598940,
+    "wof:name":"Xiangyangsi",
+    "wof:parent_id":890514643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.09028,
+    41.20017,
+    123.09028,
+    41.20017
+],
+  "geometry": {"coordinates":[123.09028000000001,41.20017],"type":"Point"}
+}

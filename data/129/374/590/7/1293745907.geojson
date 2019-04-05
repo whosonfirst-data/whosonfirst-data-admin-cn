@@ -1,0 +1,75 @@
+{
+  "id": 1293745907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.16484,39.86096,123.16484,39.86096",
+    "geom:latitude":39.86096,
+    "geom:longitude":123.16484,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shijiagou",
+    "gn:country_code":"CN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7403065,
+    "gn:latitude":39.86096,
+    "gn:longitude":123.16484,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shijiagou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u53f2\u5bb6\u6c9f"
+    ],
+    "name:zho_x_preferred":[
+        "\u53f2\u5bb6\u6c9f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890515891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7403065
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"91d87139e19d231f2ad276672132c4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515891,
+            "empire_id":136253041,
+            "locality_id":1293745907,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1293745907,
+    "wof:lastmodified":1537598834,
+    "wof:name":"Shijiagou",
+    "wof:parent_id":890515891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.16483999999998,
+    39.86096,
+    123.16483999999998,
+    39.86096
+],
+  "geometry": {"coordinates":[123.16483999999998,39.86096],"type":"Point"}
+}

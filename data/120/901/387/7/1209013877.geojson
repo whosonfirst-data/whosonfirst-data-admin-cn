@@ -1,0 +1,64 @@
+{
+  "id": 1209013877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.29816,30.2376,117.29816,30.2376",
+    "geom:latitude":30.2376,
+    "geom:longitude":117.29816,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shenglicun",
+    "gn:country_code":"CN",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10799833,
+    "gn:latitude":30.2376,
+    "gn:longitude":117.29816,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Shenglicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u80dc\u5229\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10799833
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"dbee11f61752243998e6375354322ae5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209013877
+        }
+    ],
+    "wof:id":1209013877,
+    "wof:lastmodified":1537614441,
+    "wof:name":"Shenglicun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.29816,
+    30.2376,
+    117.29816,
+    30.2376
+],
+  "geometry": {"coordinates":[117.29816,30.2376],"type":"Point"}
+}

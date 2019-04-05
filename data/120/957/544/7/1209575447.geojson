@@ -1,0 +1,64 @@
+{
+  "id": 1209575447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.21285,25.30761,113.21285,25.30761",
+    "geom:latitude":25.30761,
+    "geom:longitude":113.21285,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Xinqin",
+    "gn:country_code":"CN",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1917505,
+    "gn:latitude":25.30761,
+    "gn:longitude":113.21285,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Xinqin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u65b0\u79e6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1917505
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"30fa2a642b19c2b63ee5c935f4617320",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209575447
+        }
+    ],
+    "wof:id":1209575447,
+    "wof:lastmodified":1537594760,
+    "wof:name":"Xinqin",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.21285,
+    25.30761,
+    113.21285,
+    25.30761
+],
+  "geometry": {"coordinates":[113.21285,25.30761],"type":"Point"}
+}

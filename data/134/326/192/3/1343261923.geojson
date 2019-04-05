@@ -1,0 +1,76 @@
+{
+  "id": 1343261923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.24103,31.89468,121.24103,31.89468",
+    "geom:latitude":31.89468,
+    "geom:longitude":121.24103,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sanchang",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1796955,
+    "gn:latitude":31.89468,
+    "gn:longitude":121.24103,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sanchang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San-ch\u2019ang-shih",
+        "Sanchang",
+        "\u4e09\u5382",
+        "Sanchang Zhen",
+        "\u4e09\u5382\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1796955
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8c010b5dd33f066e56656da93394ef8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515155,
+            "empire_id":136253041,
+            "locality_id":1343261923,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1343261923,
+    "wof:lastmodified":1537592770,
+    "wof:name":"Sanchang",
+    "wof:parent_id":890515155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.24103,
+    31.89468,
+    121.24103,
+    31.89468
+],
+  "geometry": {"coordinates":[121.24102999999999,31.89468],"type":"Point"}
+}

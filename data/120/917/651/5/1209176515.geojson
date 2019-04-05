@@ -1,0 +1,64 @@
+{
+  "id": 1209176515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.68568,40.95551,122.68568,40.95551",
+    "geom:latitude":40.95551,
+    "geom:longitude":122.68568,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shanshui",
+    "gn:country_code":"CN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7886551,
+    "gn:latitude":40.95551,
+    "gn:longitude":122.68568,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shanshui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5c71\u6c34"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7886551
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8fb54ebf9fd270630437d2c188c5493b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209176515
+        }
+    ],
+    "wof:id":1209176515,
+    "wof:lastmodified":1537601809,
+    "wof:name":"Shanshui",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.68568,
+    40.95551,
+    122.68568,
+    40.95551
+],
+  "geometry": {"coordinates":[122.68568,40.95551],"type":"Point"}
+}

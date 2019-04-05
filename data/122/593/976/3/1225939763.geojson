@@ -1,0 +1,76 @@
+{
+  "id": 1225939763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.21944,38.05528,117.21944,38.05528",
+    "geom:latitude":38.05528,
+    "geom:longitude":117.21944,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Yanshan",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1787111,
+    "gn:latitude":38.05528,
+    "gn:longitude":117.21944,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yanshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yen-shan-ch\u2019eng-kuan",
+        "Yen-shan-hsien",
+        "Yen-shan",
+        "Yanshan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669797,
+        102191569,
+        85632695,
+        136253041,
+        890513789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1787111
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1dca4fa95f9a19f1969d105a13137a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513789,
+            "empire_id":136253041,
+            "locality_id":1225939763,
+            "region_id":85669797
+        }
+    ],
+    "wof:id":1225939763,
+    "wof:lastmodified":1537592104,
+    "wof:name":"Yanshan",
+    "wof:parent_id":890513789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.21944,
+    38.05528,
+    117.21944,
+    38.05528
+],
+  "geometry": {"coordinates":[117.21944000000001,38.05528],"type":"Point"}
+}

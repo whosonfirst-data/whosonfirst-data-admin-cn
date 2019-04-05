@@ -1,0 +1,64 @@
+{
+  "id": 1209104909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.62434,42.58053,125.62434,42.58053",
+    "geom:latitude":42.58053,
+    "geom:longitude":125.62434,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mayicun",
+    "gn:country_code":"CN",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10982492,
+    "gn:latitude":42.58053,
+    "gn:longitude":125.62434,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Mayicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8682\u8681\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10982492
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5ffe9541786e0164e9061e97a9600004",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209104909
+        }
+    ],
+    "wof:id":1209104909,
+    "wof:lastmodified":1537615088,
+    "wof:name":"Mayicun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.62434,
+    42.58053,
+    125.62434,
+    42.58053
+],
+  "geometry": {"coordinates":[125.62434,42.58053],"type":"Point"}
+}

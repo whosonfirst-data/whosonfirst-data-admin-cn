@@ -1,0 +1,75 @@
+{
+  "id": 1326492709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.90511,40.95875,119.90511,40.95875",
+    "geom:latitude":40.95875,
+    "geom:longitude":119.90511,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Huaizhangzi",
+    "gn:country_code":"CN",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7395612,
+    "gn:latitude":40.95875,
+    "gn:longitude":119.90511,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Huaizhangzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6000\u6756\u5b50"
+    ],
+    "name:zho_x_preferred":[
+        "\u6000\u6756\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890515907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7395612
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"265797595d43b3ce2fdbcd57445f8d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515907,
+            "empire_id":136253041,
+            "locality_id":1326492709,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1326492709,
+    "wof:lastmodified":1537598411,
+    "wof:name":"Huaizhangzi",
+    "wof:parent_id":890515907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.90511,
+    40.95875,
+    119.90511,
+    40.95875
+],
+  "geometry": {"coordinates":[119.90510999999999,40.95875],"type":"Point"}
+}

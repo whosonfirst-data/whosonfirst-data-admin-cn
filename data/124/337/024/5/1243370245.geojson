@@ -1,0 +1,77 @@
+{
+  "id": 1243370245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.16667,28.95,117.16667,28.95",
+    "geom:latitude":28.95,
+    "geom:longitude":117.16667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Jiedu",
+    "gn:country_code":"CN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1805826,
+    "gn:latitude":28.95,
+    "gn:longitude":117.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jiedu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chieh-chu-tu",
+        "Jiezhudu",
+        "Jiedu",
+        "\u63a5\u6e21",
+        "Jiedu Zhen",
+        "\u63a5\u6e21\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669823,
+        102191569,
+        85632695,
+        136253041,
+        890514599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1805826
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b07e5aac4ee4b668ea32851d463ba039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514599,
+            "empire_id":136253041,
+            "locality_id":1243370245,
+            "region_id":85669823
+        }
+    ],
+    "wof:id":1243370245,
+    "wof:lastmodified":1537593340,
+    "wof:name":"Jiedu",
+    "wof:parent_id":890514599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.16667,
+    28.95,
+    117.16667,
+    28.95
+],
+  "geometry": {"coordinates":[117.16667,28.95],"type":"Point"}
+}

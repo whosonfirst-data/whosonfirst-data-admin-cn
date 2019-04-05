@@ -1,0 +1,80 @@
+{
+  "id": 1326925541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.03608,47.61578,125.03608,47.61578",
+    "geom:latitude":47.61578,
+    "geom:longitude":125.03608,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sanxing",
+    "gn:country_code":"CN",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2035088,
+    "gn:latitude":47.61578,
+    "gn:longitude":125.03608,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Sanxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San-hsing",
+        "Sanxing",
+        "Sanxing Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u5174"
+    ],
+    "name:zho_x_variant":[
+        "\u4e09\u5174\u9547"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669849,
+        102191569,
+        85632695,
+        136253041,
+        890516483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2035088
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2d5f2000a4efd02a47aa7b6f30c219fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516483,
+            "empire_id":136253041,
+            "locality_id":1326925541,
+            "region_id":85669849
+        }
+    ],
+    "wof:id":1326925541,
+    "wof:lastmodified":1537595692,
+    "wof:name":"Sanxing",
+    "wof:parent_id":890516483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.03608,
+    47.61578,
+    125.03608,
+    47.61578
+],
+  "geometry": {"coordinates":[125.03608,47.61578],"type":"Point"}
+}

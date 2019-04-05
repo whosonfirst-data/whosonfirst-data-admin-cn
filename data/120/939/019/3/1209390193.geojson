@@ -1,0 +1,64 @@
+{
+  "id": 1209390193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.879,25.4114,105.879,25.4114",
+    "geom:latitude":25.4114,
+    "geom:longitude":105.879,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Naweng",
+    "gn:country_code":"CN",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1550912,
+    "gn:latitude":25.4114,
+    "gn:longitude":105.879,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Naweng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7eb3\u7fc1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1550912
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ccb4751baf0280b72f7be04f14d3e6ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209390193
+        }
+    ],
+    "wof:id":1209390193,
+    "wof:lastmodified":1537591729,
+    "wof:name":"Naweng",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.879,
+    25.4114,
+    105.879,
+    25.4114
+],
+  "geometry": {"coordinates":[105.879,25.4114],"type":"Point"}
+}

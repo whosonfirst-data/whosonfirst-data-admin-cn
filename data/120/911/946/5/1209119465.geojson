@@ -1,0 +1,64 @@
+{
+  "id": 1209119465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.38799,29.89557,118.38799,29.89557",
+    "geom:latitude":29.89557,
+    "geom:longitude":118.38799,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shaxi",
+    "gn:country_code":"CN",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7090314,
+    "gn:latitude":29.89557,
+    "gn:longitude":118.38799,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Shaxi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6c99\u6eaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7090314
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0321c38e69f5804b6462296ab0579567",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209119465
+        }
+    ],
+    "wof:id":1209119465,
+    "wof:lastmodified":1537597909,
+    "wof:name":"Shaxi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.38799,
+    29.89557000000001,
+    118.38799,
+    29.89557000000001
+],
+  "geometry": {"coordinates":[118.38799,29.89557000000001],"type":"Point"}
+}

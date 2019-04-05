@@ -1,0 +1,77 @@
+{
+  "id": 1226087485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.557,32.8596,103.557,32.8596",
+    "geom:latitude":32.8596,
+    "geom:longitude":103.557,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Huangshengguan",
+    "gn:country_code":"CN",
+    "gn:dem":3124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1807239,
+    "gn:latitude":32.8596,
+    "gn:longitude":103.557,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Huangshengguan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huang-sheng-kuan",
+        "Huang-cheng-kuan",
+        "Huangshengguan"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ec4\u80dc\u5173"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        1108794065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1807239
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"667e898bf78b322706a50cf6b02772b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794065,
+            "empire_id":136253041,
+            "locality_id":1226087485,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":1226087485,
+    "wof:lastmodified":1537593427,
+    "wof:name":"Huangshengguan",
+    "wof:parent_id":1108794065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.557,
+    32.8596,
+    103.557,
+    32.8596
+],
+  "geometry": {"coordinates":[103.557,32.8596],"type":"Point"}
+}

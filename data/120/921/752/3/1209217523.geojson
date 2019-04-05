@@ -1,0 +1,64 @@
+{
+  "id": 1209217523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.2953,29.29517,120.2953,29.29517",
+    "geom:latitude":29.29517,
+    "geom:longitude":120.2953,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Hucang",
+    "gn:country_code":"CN",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11196713,
+    "gn:latitude":29.29517,
+    "gn:longitude":120.2953,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Hucang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6e56\u6ca7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11196713
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2547d5e562cdbdf861b3d83095973b6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209217523
+        }
+    ],
+    "wof:id":1209217523,
+    "wof:lastmodified":1537615829,
+    "wof:name":"Hucang",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.2953,
+    29.29517,
+    120.2953,
+    29.29517
+],
+  "geometry": {"coordinates":[120.2953,29.29517],"type":"Point"}
+}

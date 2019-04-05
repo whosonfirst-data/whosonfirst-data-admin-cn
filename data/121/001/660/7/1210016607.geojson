@@ -1,0 +1,77 @@
+{
+  "id": 1210016607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.50629,32.4411,120.50629,32.4411",
+    "geom:latitude":32.4411,
+    "geom:longitude":120.50629,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Daizhuangcun",
+    "gn:country_code":"CN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1548497,
+    "gn:latitude":32.4411,
+    "gn:longitude":120.50629,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Daizhuangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daizhuang",
+        "\u6234\u5e84",
+        "Daizhuangcun"
+    ],
+    "name:zho_x_preferred":[
+        "\u6234\u5e84\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669827,
+        102191569,
+        85632695,
+        136253041,
+        890515155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1548497
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"90eb95a6f85cc7fc70cad68c7a3b5451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515155,
+            "empire_id":136253041,
+            "locality_id":1210016607,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":1210016607,
+    "wof:lastmodified":1537591665,
+    "wof:name":"Daizhuangcun",
+    "wof:parent_id":890515155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.50629,
+    32.4411,
+    120.50629,
+    32.4411
+],
+  "geometry": {"coordinates":[120.50629000000001,32.4411],"type":"Point"}
+}

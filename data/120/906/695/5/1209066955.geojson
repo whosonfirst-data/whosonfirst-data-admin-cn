@@ -1,0 +1,64 @@
+{
+  "id": 1209066955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.2843,27.9382,99.2843,27.9382",
+    "geom:latitude":27.9382,
+    "geom:longitude":99.2843,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Jiaola",
+    "gn:country_code":"CN",
+    "gn:dem":3023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10140117,
+    "gn:latitude":27.9382,
+    "gn:longitude":99.2843,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Jiaola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u811a\u62c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10140117
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c56934cfe2f828352dcda943c2b079f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209066955
+        }
+    ],
+    "wof:id":1209066955,
+    "wof:lastmodified":1537610164,
+    "wof:name":"Jiaola",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.2843,
+    27.9382,
+    99.2843,
+    27.9382
+],
+  "geometry": {"coordinates":[99.2843,27.9382],"type":"Point"}
+}

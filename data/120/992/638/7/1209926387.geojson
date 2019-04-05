@@ -1,0 +1,77 @@
+{
+  "id": 1209926387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.54169,30.0033,120.54169,30.0033",
+    "geom:latitude":30.0033,
+    "geom:longitude":120.54169,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zhongyan",
+    "gn:country_code":"CN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1881914,
+    "gn:latitude":30.0033,
+    "gn:longitude":120.54169,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Zhongyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chung-hui-t\u2019ou",
+        "Zhongyantou",
+        "Zhongyan"
+    ],
+    "name:zho_x_preferred":[
+        "\u949f\u5830"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890513785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1881914
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"1eef9f725b102e5d7dab8164148e4782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513785,
+            "empire_id":136253041,
+            "locality_id":1209926387,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1209926387,
+    "wof:lastmodified":1537594155,
+    "wof:name":"Zhongyan",
+    "wof:parent_id":890513785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.54169,
+    30.0033,
+    120.54169,
+    30.0033
+],
+  "geometry": {"coordinates":[120.54169,30.0033],"type":"Point"}
+}

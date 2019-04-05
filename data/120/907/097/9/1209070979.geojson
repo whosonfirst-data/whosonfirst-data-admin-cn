@@ -1,0 +1,67 @@
+{
+  "id": 1209070979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.25,41.78333,119.25,41.78333",
+    "geom:latitude":41.78333,
+    "geom:longitude":119.25,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Xizi",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2033576,
+    "gn:latitude":41.78333,
+    "gn:longitude":119.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Xizi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Han-tzu",
+        "Hsi-tzu",
+        "Xizi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2033576
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ba5489c73045b411d1eb9e2c7d3c33c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209070979
+        }
+    ],
+    "wof:id":1209070979,
+    "wof:lastmodified":1537595592,
+    "wof:name":"Xizi",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.25,
+    41.78333,
+    119.25,
+    41.78333
+],
+  "geometry": {"coordinates":[119.25,41.78333],"type":"Point"}
+}

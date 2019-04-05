@@ -1,0 +1,76 @@
+{
+  "id": 1242938551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.875,43.0605,123.875,43.0605",
+    "geom:latitude":43.0605,
+    "geom:longitude":123.875,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Dazi Wobu",
+    "gn:country_code":"CN",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7005465,
+    "gn:latitude":43.0605,
+    "gn:longitude":123.875,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Dazi Wobu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daziwobao",
+        "Dazi Wobu"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fbe\u5b50\u7a9d\u5821"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669807,
+        102191569,
+        85632695,
+        136253041,
+        890514741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7005465
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7aa5767e1b450688800016b6fbdb94b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514741,
+            "empire_id":136253041,
+            "locality_id":1242938551,
+            "region_id":85669807
+        }
+    ],
+    "wof:id":1242938551,
+    "wof:lastmodified":1537597318,
+    "wof:name":"Dazi Wobu",
+    "wof:parent_id":890514741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.875,
+    43.0605,
+    123.875,
+    43.0605
+],
+  "geometry": {"coordinates":[123.875,43.0605],"type":"Point"}
+}

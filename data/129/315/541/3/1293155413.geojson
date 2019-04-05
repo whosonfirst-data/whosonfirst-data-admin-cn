@@ -1,0 +1,77 @@
+{
+  "id": 1293155413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.1929,34.33533,109.1929,34.33533",
+    "geom:latitude":34.33533,
+    "geom:longitude":109.1929,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Gonglucun",
+    "gn:country_code":"CN",
+    "gn:dem":737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2001965,
+    "gn:latitude":34.33533,
+    "gn:longitude":109.1929,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Gongl\u00fccun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9f9a\u5bb6\u6751",
+        "Gongjiacun",
+        "Gongl\u00fccun"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f9a\u5415\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669769,
+        102191569,
+        85632695,
+        136253041,
+        890515687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2001965
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5fd4ca0e90d9b796dd5ce6d4f2dce910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515687,
+            "empire_id":136253041,
+            "locality_id":1293155413,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":1293155413,
+    "wof:lastmodified":1537595503,
+    "wof:name":"Gonglucun",
+    "wof:parent_id":890515687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.1929,
+    34.33533,
+    109.1929,
+    34.33533
+],
+  "geometry": {"coordinates":[109.19289999999999,34.33533],"type":"Point"}
+}

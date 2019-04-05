@@ -1,0 +1,64 @@
+{
+  "id": 1209577811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.786,42.9883,123.786,42.9883",
+    "geom:latitude":42.9883,
+    "geom:longitude":123.786,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Wangbaoshan",
+    "gn:country_code":"CN",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11486224,
+    "gn:latitude":42.9883,
+    "gn:longitude":123.786,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Wangbaoshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u738b\u4fdd\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11486224
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ca9bec3e537e2eac124698bd311c5649",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209577811
+        }
+    ],
+    "wof:id":1209577811,
+    "wof:lastmodified":1537616980,
+    "wof:name":"Wangbaoshan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.786,
+    42.9883,
+    123.786,
+    42.9883
+],
+  "geometry": {"coordinates":[123.786,42.9883],"type":"Point"}
+}

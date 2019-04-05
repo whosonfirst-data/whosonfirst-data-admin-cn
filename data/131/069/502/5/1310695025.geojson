@@ -1,0 +1,76 @@
+{
+  "id": 1310695025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.06242,27.09624,119.06242,27.09624",
+    "geom:latitude":27.09624,
+    "geom:longitude":119.06242,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shangtantou",
+    "gn:country_code":"CN",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6958785,
+    "gn:latitude":27.09624,
+    "gn:longitude":119.06242,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Shangtantou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6f6d\u5934",
+        "Shangtantou"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u6f6d\u5934"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669735,
+        102191569,
+        85632695,
+        136253041,
+        890516577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6958785
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bfc9b79971c27d2b4c788fe95b80196b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516577,
+            "empire_id":136253041,
+            "locality_id":1310695025,
+            "region_id":85669735
+        }
+    ],
+    "wof:id":1310695025,
+    "wof:lastmodified":1537596891,
+    "wof:name":"Shangtantou",
+    "wof:parent_id":890516577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.06242,
+    27.09624,
+    119.06242,
+    27.09624
+],
+  "geometry": {"coordinates":[119.06242,27.09624],"type":"Point"}
+}

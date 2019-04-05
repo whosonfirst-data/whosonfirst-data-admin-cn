@@ -1,0 +1,80 @@
+{
+  "id": 1260363201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.705,29.005,91.705,29.005",
+    "geom:latitude":29.005,
+    "geom:longitude":91.705,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zhailing",
+    "gn:country_code":"CN",
+    "gn:dem":4068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8067054,
+    "gn:latitude":29.005,
+    "gn:longitude":91.705,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zhailing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Zhailing"
+    ],
+    "name:zho_x_preferred":[
+        "Zhalin"
+    ],
+    "name:zho_x_variant":[
+        "\u672d\u6797",
+        "Kongma",
+        "\u5b54\u9a6c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108794057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8067054
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9158fc934c164b9b1b835ee1823381e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794057,
+            "empire_id":136253041,
+            "locality_id":1260363201,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1260363201,
+    "wof:lastmodified":1537602532,
+    "wof:name":"Zhailing",
+    "wof:parent_id":1108794057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.705,
+    29.005,
+    91.705,
+    29.005
+],
+  "geometry": {"coordinates":[91.705,29.005],"type":"Point"}
+}

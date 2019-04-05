@@ -1,0 +1,64 @@
+{
+  "id": 1209518111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.59105,27.96962,119.59105,27.96962",
+    "geom:latitude":27.96962,
+    "geom:longitude":119.59105,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Hangguo",
+    "gn:country_code":"CN",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11178997,
+    "gn:latitude":27.96962,
+    "gn:longitude":119.59105,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Hangguo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u676d\u90ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11178997
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"39dc6bf790035d57ef3338603294617b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209518111
+        }
+    ],
+    "wof:id":1209518111,
+    "wof:lastmodified":1537615670,
+    "wof:name":"Hangguo",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.59105,
+    27.96962000000001,
+    119.59105,
+    27.96962000000001
+],
+  "geometry": {"coordinates":[119.59105,27.96962000000001],"type":"Point"}
+}

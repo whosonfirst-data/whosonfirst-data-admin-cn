@@ -1,0 +1,78 @@
+{
+  "id": 1326813531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.1,30.7,92.1,30.7",
+    "geom:latitude":30.7,
+    "geom:longitude":92.1,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gyando",
+    "gn:country_code":"CN",
+    "gn:dem":4953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8026633,
+    "gn:latitude":30.7,
+    "gn:longitude":92.1,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gyando",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Gyando"
+    ],
+    "name:zho_x_preferred":[
+        "Jianduo"
+    ],
+    "name:zho_x_variant":[
+        "\u5efa\u591a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026633
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"868a3a1d64c35194ac0a258059db41b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1326813531,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1326813531,
+    "wof:lastmodified":1537602182,
+    "wof:name":"Gyando",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.1,
+    30.7,
+    92.1,
+    30.7
+],
+  "geometry": {"coordinates":[92.09999999999999,30.7],"type":"Point"}
+}

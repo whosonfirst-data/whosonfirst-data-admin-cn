@@ -1,0 +1,64 @@
+{
+  "id": 1209110019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.79252,33.30337,116.79252,33.30337",
+    "geom:latitude":33.30337,
+    "geom:longitude":116.79252,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Wabucun",
+    "gn:country_code":"CN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10358694,
+    "gn:latitude":33.30337,
+    "gn:longitude":116.79252,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Wabucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u74e6\u57e0\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10358694
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ce3794669e337702e71450e8eec93be6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209110019
+        }
+    ],
+    "wof:id":1209110019,
+    "wof:lastmodified":1537612482,
+    "wof:name":"Wabucun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.79252,
+    33.30337,
+    116.79252,
+    33.30337
+],
+  "geometry": {"coordinates":[116.79252,33.30337],"type":"Point"}
+}

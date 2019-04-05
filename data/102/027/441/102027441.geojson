@@ -1,0 +1,90 @@
+{
+  "id": 102027441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":68183.513439,
+    "geom:bbox":"121.585693359,31.2433336586,121.588439941,31.2456818807",
+    "geom:latitude":31.244508,
+    "geom:longitude":121.587067,
+    "iso:country":"CN",
+    "lbl:latitude":31.244508,
+    "lbl:longitude":121.587067,
+    "mps:latitude":31.244508,
+    "mps:longitude":121.587067,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u91d1\u6865\u9547"
+    ],
+    "name:eng_x_preferred":[
+        "Jinqiao"
+    ],
+    "name:ita_x_preferred":[
+        "Jinqiao"
+    ],
+    "name:unk_x_variant":[
+        "\u91d1\u6865"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u6865\u9547"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"China",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Jinqiao",
+    "qs:loc_lc":"1805419",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":357,
+    "wof:belongsto":[
+        85669831,
+        102191569,
+        85632695,
+        136253041,
+        890514815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1805419,
+        "gp:id":2151579,
+        "wd:id":"Q6202735"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"35aa85a7772313238a0cd0cfab5079a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514815,
+            "empire_id":136253041,
+            "locality_id":102027441,
+            "region_id":85669831
+        }
+    ],
+    "wof:id":102027441,
+    "wof:lastmodified":1527637560,
+    "wof:name":"Jinqiao",
+    "wof:parent_id":890514815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.585693359,
+    31.2433336586,
+    121.588439941,
+    31.2456818807
+],
+  "geometry": {"coordinates":[[[121.585693359,31.2433336586],[121.585693359,31.2445077769],[121.585693359,31.2456818807],[121.58706665,31.2456818807],[121.588439941,31.2456818807],[121.588439941,31.2445077769],[121.588439941,31.2433336586],[121.58706665,31.2433336586],[121.585693359,31.2433336586]]],"type":"Polygon"}
+}

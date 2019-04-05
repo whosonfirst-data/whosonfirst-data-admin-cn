@@ -1,0 +1,76 @@
+{
+  "id": 1310298769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.78521,40.33929,117.78521,40.33929",
+    "geom:latitude":40.33929,
+    "geom:longitude":117.78521,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Niuquanzi",
+    "gn:country_code":"CN",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2047892,
+    "gn:latitude":40.33929,
+    "gn:longitude":117.78521,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Niuquanzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niu-yuan-tzu",
+        "Niuquanzi"
+    ],
+    "name:zho_x_preferred":[
+        "\u725b\u5708\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669797,
+        102191569,
+        85632695,
+        136253041,
+        890513327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2047892
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ffe52475fbada5ee1cceafcabce05bbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513327,
+            "empire_id":136253041,
+            "locality_id":1310298769,
+            "region_id":85669797
+        }
+    ],
+    "wof:id":1310298769,
+    "wof:lastmodified":1537595918,
+    "wof:name":"Niuquanzi",
+    "wof:parent_id":890513327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.78521,
+    40.33929000000001,
+    117.78521,
+    40.33929000000001
+],
+  "geometry": {"coordinates":[117.78521000000001,40.33929000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276842293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.65,24.68333,108.65,24.68333",
+    "geom:latitude":24.68333,
+    "geom:longitude":108.65,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Xiangbei",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1790610,
+    "gn:latitude":24.68333,
+    "gn:longitude":108.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Xiangbei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsiang-pei-hs\u00fc",
+        "Hsiang-pei",
+        "Xiangbei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669717,
+        102191569,
+        85632695,
+        136253041,
+        1108732453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1790610
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"63f73f6f044f65cd9be8d8eca995ff0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732453,
+            "empire_id":136253041,
+            "locality_id":1276842293,
+            "region_id":85669717
+        }
+    ],
+    "wof:id":1276842293,
+    "wof:lastmodified":1537592349,
+    "wof:name":"Xiangbei",
+    "wof:parent_id":1108732453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.65,
+    24.68333,
+    108.65,
+    24.68333
+],
+  "geometry": {"coordinates":[108.65000000000001,24.68333],"type":"Point"}
+}

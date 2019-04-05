@@ -1,0 +1,64 @@
+{
+  "id": 1209410655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.15025,32.45165,115.15025,32.45165",
+    "geom:latitude":32.45165,
+    "geom:longitude":115.15025,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dongzhuyuan",
+    "gn:country_code":"CN",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10423166,
+    "gn:latitude":32.45165,
+    "gn:longitude":115.15025,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Dongzhuyuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8463\u7af9\u56ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10423166
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a69b3a4aaa3d36194375fe48a4930496",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209410655
+        }
+    ],
+    "wof:id":1209410655,
+    "wof:lastmodified":1537613444,
+    "wof:name":"Dongzhuyuan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.15025,
+    32.45165,
+    115.15025,
+    32.45165
+],
+  "geometry": {"coordinates":[115.15025,32.45165],"type":"Point"}
+}

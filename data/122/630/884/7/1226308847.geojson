@@ -1,0 +1,69 @@
+{
+  "id": 1226308847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.51667,25.425,105.51667,25.425",
+    "geom:latitude":25.425,
+    "geom:longitude":105.51667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Poliu",
+    "gn:country_code":"CN",
+    "gn:dem":1303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1550926,
+    "gn:latitude":25.425,
+    "gn:longitude":105.51667,
+    "gn:modification_date":"1998-08-27",
+    "gn:name":"Poliu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669721,
+        102191569,
+        85632695,
+        136253041,
+        1108732559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1550926
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f02cc35ad1b8eee696835683a5ef5ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732559,
+            "empire_id":136253041,
+            "locality_id":1226308847,
+            "region_id":85669721
+        }
+    ],
+    "wof:id":1226308847,
+    "wof:lastmodified":1536841786,
+    "wof:name":"Poliu",
+    "wof:parent_id":1108732559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.51667,
+    25.425,
+    105.51667,
+    25.425
+],
+  "geometry": {"coordinates":[105.51667,25.425],"type":"Point"}
+}

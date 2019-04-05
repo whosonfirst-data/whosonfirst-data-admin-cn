@@ -1,0 +1,80 @@
+{
+  "id": 1225795045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.32212,21.27574,110.32212,21.27574",
+    "geom:latitude":21.27574,
+    "geom:longitude":110.32212,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Mazhang",
+    "gn:country_code":"CN",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1800913,
+    "gn:latitude":21.27574,
+    "gn:longitude":110.32212,
+    "gn:modification_date":"2013-10-05",
+    "gn:name":"Mazhang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma-chang-shih",
+        "Ma-chang",
+        "Macheung",
+        "Mazhang",
+        "Mazhang Zhen",
+        "\u9ebb\u7ae0\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ebb\u7ae0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890514753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1800913
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4facfca4416257744a0183224c09f081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514753,
+            "empire_id":136253041,
+            "locality_id":1225795045,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1225795045,
+    "wof:lastmodified":1537593017,
+    "wof:name":"Mazhang",
+    "wof:parent_id":890514753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.32212,
+    21.27574,
+    110.32212,
+    21.27574
+],
+  "geometry": {"coordinates":[110.32212,21.27574],"type":"Point"}
+}

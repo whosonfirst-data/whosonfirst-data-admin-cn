@@ -1,0 +1,64 @@
+{
+  "id": 1209664381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.272,28.9421,104.272,28.9421",
+    "geom:latitude":28.9421,
+    "geom:longitude":104.272,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Yangjiaba",
+    "gn:country_code":"CN",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10184172,
+    "gn:latitude":28.9421,
+    "gn:longitude":104.272,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Yangjiaba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6768\u5bb6\u575d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10184172
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"245dbf136c2dce4c66ff7737d75389dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209664381
+        }
+    ],
+    "wof:id":1209664381,
+    "wof:lastmodified":1537610944,
+    "wof:name":"Yangjiaba",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.272,
+    28.9421,
+    104.272,
+    28.9421
+],
+  "geometry": {"coordinates":[104.27200000000001,28.9421],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1259566549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.702,31.202,91.702,31.202",
+    "geom:latitude":31.202,
+    "geom:longitude":91.702,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Togru",
+    "gn:country_code":"CN",
+    "gn:dem":4578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8078216,
+    "gn:latitude":31.202,
+    "gn:longitude":91.702,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Togru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Togru"
+    ],
+    "name:zho_x_preferred":[
+        "Tuoru"
+    ],
+    "name:zho_x_variant":[
+        "\u59a5\u5982",
+        "Quchangseng",
+        "\u66f2\u5e38\u50e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8078216
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f7ba0065e03f5e549f2a8c9d85293c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1259566549,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1259566549,
+    "wof:lastmodified":1537602549,
+    "wof:name":"Togru",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.702,
+    31.202,
+    91.702,
+    31.202
+],
+  "geometry": {"coordinates":[91.702,31.202],"type":"Point"}
+}

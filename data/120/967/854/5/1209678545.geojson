@@ -1,0 +1,64 @@
+{
+  "id": 1209678545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.583,25.8674,105.583,25.8674",
+    "geom:latitude":25.8674,
+    "geom:longitude":105.583,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Xiaowangzhai",
+    "gn:country_code":"CN",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10020996,
+    "gn:latitude":25.8674,
+    "gn:longitude":105.583,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Xiaowangzhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5c0f\u738b\u5be8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10020996
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d8075468098b76e313726fbb78ae0bb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209678545
+        }
+    ],
+    "wof:id":1209678545,
+    "wof:lastmodified":1537609114,
+    "wof:name":"Xiaowangzhai",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.583,
+    25.8674,
+    105.583,
+    25.8674
+],
+  "geometry": {"coordinates":[105.583,25.8674],"type":"Point"}
+}

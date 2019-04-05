@@ -1,0 +1,64 @@
+{
+  "id": 1209205223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.08723,45.05487,128.08723,45.05487",
+    "geom:latitude":45.05487,
+    "geom:longitude":128.08723,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Minle",
+    "gn:country_code":"CN",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7628866,
+    "gn:latitude":45.05487,
+    "gn:longitude":128.08723,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Minle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6c11\u4e50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7628866
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"40d1736805cde0c4020538cbe8445c57",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209205223
+        }
+    ],
+    "wof:id":1209205223,
+    "wof:lastmodified":1537600203,
+    "wof:name":"Minle",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.08723,
+    45.05487,
+    128.08723,
+    45.05487
+],
+  "geometry": {"coordinates":[128.08723000000001,45.05487],"type":"Point"}
+}

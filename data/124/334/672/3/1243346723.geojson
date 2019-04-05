@@ -1,0 +1,78 @@
+{
+  "id": 1243346723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.301,28.401,85.301,28.401",
+    "geom:latitude":28.401,
+    "geom:longitude":85.301,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Naixar",
+    "gn:country_code":"CN",
+    "gn:dem":2840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8046463,
+    "gn:latitude":28.401,
+    "gn:longitude":85.301,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Naixar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Naixar"
+    ],
+    "name:zho_x_preferred":[
+        "Naixia"
+    ],
+    "name:zho_x_variant":[
+        "\u4e43\u4e0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8046463
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"6afa1d7b4cb96a823e29a71486f9f2c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1243346723,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1243346723,
+    "wof:lastmodified":1537602408,
+    "wof:name":"Naixar",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.301,
+    28.401,
+    85.301,
+    28.401
+],
+  "geometry": {"coordinates":[85.301,28.401],"type":"Point"}
+}

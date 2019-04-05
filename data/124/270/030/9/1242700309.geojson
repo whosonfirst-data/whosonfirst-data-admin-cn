@@ -1,0 +1,77 @@
+{
+  "id": 1242700309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.34028,43.89139,127.34028,43.89139",
+    "geom:latitude":43.89139,
+    "geom:longitude":127.34028,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Xinzhan",
+    "gn:cc2":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2033642,
+    "gn:latitude":43.89139,
+    "gn:longitude":127.34028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Xinzhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lafa",
+        "Hsin-chan-chieh",
+        "La-fa-chan",
+        "Hsin-chan",
+        "Xinzhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669843,
+        102191569,
+        85632695,
+        136253041,
+        890516735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2033642
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"44bc5168060c2924b9e006b616bb1c64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516735,
+            "empire_id":136253041,
+            "locality_id":1242700309,
+            "region_id":85669843
+        }
+    ],
+    "wof:id":1242700309,
+    "wof:lastmodified":1537595596,
+    "wof:name":"Xinzhan",
+    "wof:parent_id":890516735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.34028,
+    43.89139,
+    127.34028,
+    43.89139
+],
+  "geometry": {"coordinates":[127.34028000000001,43.89139],"type":"Point"}
+}

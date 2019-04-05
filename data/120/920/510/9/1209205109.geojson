@@ -1,0 +1,64 @@
+{
+  "id": 1209205109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"132.85213,47.73267,132.85213,47.73267",
+    "geom:latitude":47.73267,
+    "geom:longitude":132.85213,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Pingyuancun",
+    "gn:country_code":"CN",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11566535,
+    "gn:latitude":47.73267,
+    "gn:longitude":132.85213,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Pingyuancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5e73\u539f\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11566535
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"307765a6edbd51202769cc744d5f5576",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209205109
+        }
+    ],
+    "wof:id":1209205109,
+    "wof:lastmodified":1537617700,
+    "wof:name":"Pingyuancun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    132.85213000000002,
+    47.73267,
+    132.85213000000002,
+    47.73267
+],
+  "geometry": {"coordinates":[132.85213000000002,47.73267],"type":"Point"}
+}

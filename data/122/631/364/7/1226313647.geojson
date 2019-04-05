@@ -1,0 +1,78 @@
+{
+  "id": 1226313647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.7,32.2,93.7,32.2",
+    "geom:latitude":32.2,
+    "geom:longitude":93.7,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Lodoogma",
+    "gn:country_code":"CN",
+    "gn:dem":4648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8044432,
+    "gn:latitude":32.2,
+    "gn:longitude":93.7,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Lodoogma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Lodoogma"
+    ],
+    "name:zho_x_preferred":[
+        "Laoduwoma"
+    ],
+    "name:zho_x_variant":[
+        "\u52b3\u90fd\u6c83\u739b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        1108732507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8044432
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8bb2a02d0be118deb3c3e554d6d36e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732507,
+            "empire_id":136253041,
+            "locality_id":1226313647,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1226313647,
+    "wof:lastmodified":1537602371,
+    "wof:name":"Lodoogma",
+    "wof:parent_id":1108732507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.7,
+    32.2,
+    93.7,
+    32.2
+],
+  "geometry": {"coordinates":[93.7,32.2],"type":"Point"}
+}

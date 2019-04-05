@@ -1,0 +1,76 @@
+{
+  "id": 1226388821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.47828,23.36356,116.47828,23.36356",
+    "geom:latitude":23.36356,
+    "geom:longitude":116.47828,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Zhushanling",
+    "gn:country_code":"CN",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1997991,
+    "gn:latitude":23.36356,
+    "gn:longitude":116.47828,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Zhushanling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhuling",
+        "Zhushanling"
+    ],
+    "name:zho_x_preferred":[
+        "\u7af9\u5c71\u5cad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        1108732449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1997991
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"72466c2190b042f033be730e11c9a069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732449,
+            "empire_id":136253041,
+            "locality_id":1226388821,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1226388821,
+    "wof:lastmodified":1537595400,
+    "wof:name":"Zhushanling",
+    "wof:parent_id":1108732449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.47828,
+    23.36356,
+    116.47828,
+    23.36356
+],
+  "geometry": {"coordinates":[116.47828,23.36356],"type":"Point"}
+}

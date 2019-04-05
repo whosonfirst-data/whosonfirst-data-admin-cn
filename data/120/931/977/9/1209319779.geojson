@@ -1,0 +1,64 @@
+{
+  "id": 1209319779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.395,34.1506,117.395,34.1506",
+    "geom:latitude":34.1506,
+    "geom:longitude":117.395,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shuikou",
+    "gn:country_code":"CN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11089832,
+    "gn:latitude":34.1506,
+    "gn:longitude":117.395,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Shuikou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6c34\u53e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11089832
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"df079b13131cc11b5f3c0c86ab9f4c9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209319779
+        }
+    ],
+    "wof:id":1209319779,
+    "wof:lastmodified":1537615343,
+    "wof:name":"Shuikou",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.395,
+    34.1506,
+    117.395,
+    34.1506
+],
+  "geometry": {"coordinates":[117.395,34.1506],"type":"Point"}
+}

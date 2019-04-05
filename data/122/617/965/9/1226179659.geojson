@@ -1,0 +1,67 @@
+{
+  "id": 1226179659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.7,18.34,109.7,18.34",
+    "geom:latitude":18.34,
+    "geom:longitude":109.7,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Tianweicun",
+    "gn:country_code":"CN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1932500,
+    "gn:latitude":18.34,
+    "gn:longitude":109.7,
+    "gn:modification_date":"2003-12-01",
+    "gn:name":"Tianweicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632695,
+        85669759,
+        1108732333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1932500
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f5b7f54aec2b9bb25cd727ff592d8c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732333,
+            "locality_id":1226179659,
+            "region_id":85669759
+        }
+    ],
+    "wof:id":1226179659,
+    "wof:lastmodified":1537027499,
+    "wof:name":"Tianweicun",
+    "wof:parent_id":1108732333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.7,
+    18.34,
+    109.7,
+    18.34
+],
+  "geometry": {"coordinates":[109.7,18.34],"type":"Point"}
+}

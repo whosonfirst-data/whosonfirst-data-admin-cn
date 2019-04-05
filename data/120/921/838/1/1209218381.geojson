@@ -1,0 +1,64 @@
+{
+  "id": 1209218381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.76443,31.52152,116.76443,31.52152",
+    "geom:latitude":31.52152,
+    "geom:longitude":116.76443,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Xuloucun",
+    "gn:country_code":"CN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10440973,
+    "gn:latitude":31.52152,
+    "gn:longitude":116.76443,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Xuloucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8bb8\u697c\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10440973
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fa95b8d849d218c6eb2922784f8914c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209218381
+        }
+    ],
+    "wof:id":1209218381,
+    "wof:lastmodified":1537613605,
+    "wof:name":"Xuloucun",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.76443,
+    31.52152,
+    116.76443,
+    31.52152
+],
+  "geometry": {"coordinates":[116.76443,31.52152],"type":"Point"}
+}

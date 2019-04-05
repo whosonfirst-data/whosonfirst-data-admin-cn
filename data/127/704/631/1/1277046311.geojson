@@ -1,0 +1,80 @@
+{
+  "id": 1277046311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.103,31.403,97.103,31.403",
+    "geom:latitude":31.403,
+    "geom:longitude":97.103,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gyonda",
+    "gn:country_code":"CN",
+    "gn:dem":4198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8059146,
+    "gn:latitude":31.403,
+    "gn:longitude":97.103,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Gyonda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Gyonda"
+    ],
+    "name:zho_x_preferred":[
+        "Xiangda"
+    ],
+    "name:zho_x_variant":[
+        "\u5411\u8fbe",
+        "Dongduo",
+        "\u4e1c\u591a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890514545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8059146
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"2c709585130461427f40b6a105cd3e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514545,
+            "empire_id":136253041,
+            "locality_id":1277046311,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1277046311,
+    "wof:lastmodified":1537602499,
+    "wof:name":"Gyonda",
+    "wof:parent_id":890514545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.103,
+    31.403,
+    97.103,
+    31.403
+],
+  "geometry": {"coordinates":[97.10299999999999,31.403],"type":"Point"}
+}

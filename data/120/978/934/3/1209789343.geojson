@@ -1,0 +1,80 @@
+{
+  "id": 1209789343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.1,29.3,86.1,29.3",
+    "geom:latitude":29.3,
+    "geom:longitude":86.1,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jainba",
+    "gn:country_code":"CN",
+    "gn:dem":5359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8026641,
+    "gn:latitude":29.3,
+    "gn:longitude":86.1,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Jainba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Urumqi",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bod_x_preferred":[
+        "Jainba"
+    ],
+    "name:zho_x_preferred":[
+        "Jiangba"
+    ],
+    "name:zho_x_variant":[
+        "\u6c5f\u5df4",
+        "Shalong",
+        "\u5239\u9686"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669747,
+        102191569,
+        85632695,
+        136253041,
+        890516395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026641
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"115a905a19b7e23e55ead37e0467c46c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516395,
+            "empire_id":136253041,
+            "locality_id":1209789343,
+            "region_id":85669747
+        }
+    ],
+    "wof:id":1209789343,
+    "wof:lastmodified":1537602183,
+    "wof:name":"Jainba",
+    "wof:parent_id":890516395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.1,
+    29.3,
+    86.1,
+    29.3
+],
+  "geometry": {"coordinates":[86.09999999999999,29.3],"type":"Point"}
+}

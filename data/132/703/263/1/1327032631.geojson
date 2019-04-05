@@ -1,0 +1,79 @@
+{
+  "id": 1327032631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.16147,28.14492,120.16147,28.14492",
+    "geom:latitude":28.14492,
+    "geom:longitude":120.16147,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dayicun",
+    "gn:country_code":"CN",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1813201,
+    "gn:latitude":28.14492,
+    "gn:longitude":120.16147,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dayicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dayi",
+        "Dayicun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u5955"
+    ],
+    "name:zho_x_variant":[
+        "\u5927\u5955\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1813201
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"cfa3008f02bc91b6ce425eb52688c862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516399,
+            "empire_id":136253041,
+            "locality_id":1327032631,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":1327032631,
+    "wof:lastmodified":1537593811,
+    "wof:name":"Dayicun",
+    "wof:parent_id":890516399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.16147,
+    28.14492000000001,
+    120.16147,
+    28.14492000000001
+],
+  "geometry": {"coordinates":[120.16146999999999,28.14492000000001],"type":"Point"}
+}

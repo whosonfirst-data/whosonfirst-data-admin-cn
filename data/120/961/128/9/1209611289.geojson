@@ -1,0 +1,64 @@
+{
+  "id": 1209611289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.74256,47.15996,124.74256,47.15996",
+    "geom:latitude":47.15996,
+    "geom:longitude":124.74256,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Dongnanshan",
+    "gn:country_code":"CN",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8464428,
+    "gn:latitude":47.15996,
+    "gn:longitude":124.74256,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Dongnanshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"CN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e1c\u5357\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8464428
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"ae9250fbd74557ef733662bd572bba41",
+    "wof:hierarchy":[
+        {
+            "country_id":85632695,
+            "locality_id":1209611289
+        }
+    ],
+    "wof:id":1209611289,
+    "wof:lastmodified":1537603834,
+    "wof:name":"Dongnanshan",
+    "wof:parent_id":85632695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.74256,
+    47.15996,
+    124.74256,
+    47.15996
+],
+  "geometry": {"coordinates":[124.74256,47.15996],"type":"Point"}
+}
