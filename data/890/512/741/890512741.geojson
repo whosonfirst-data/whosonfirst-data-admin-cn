@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Guangyuan City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":32.241898,
     "lbl:longitude":105.78206,
     "meso:adm1_loc":"\u56db\u5ddd\u7701",
@@ -41,9 +47,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Guangyuan"
-    ],
-    "name:und_x_variant":[
-        "\u5e7f\u5143\u5e02"
     ],
     "name:unk_x_variant":[
         "guangyuan shi"
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890512741,
-    "wof:lastmodified":1536617480,
+    "wof:lastmodified":1554759497,
     "wof:name":"Guangyuan",
     "wof:parent_id":85669787,
     "wof:placetype":"county",

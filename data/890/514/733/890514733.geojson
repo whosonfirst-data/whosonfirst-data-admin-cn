@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Wuxi City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":31.351948,
     "lbl:longitude":119.842036,
     "meso:adm1_loc":"\u6c5f\u82cf\u7701",
@@ -48,9 +54,6 @@
     ],
     "name:swe_x_preferred":[
         "Wuxi"
-    ],
-    "name:und_x_variant":[
-        "\u65e0\u9521\u5e02"
     ],
     "name:unk_x_variant":[
         "Wu-hsi Shih"
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":890514733,
-    "wof:lastmodified":1536617490,
+    "wof:lastmodified":1554759508,
     "wof:name":"Wuxi",
     "wof:parent_id":85669827,
     "wof:placetype":"county",

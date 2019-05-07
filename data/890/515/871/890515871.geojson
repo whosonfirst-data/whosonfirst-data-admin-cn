@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Hainan Sheng"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sheng"
+    ],
     "lbl:latitude":36.03585,
     "lbl:longitude":100.112326,
     "meso:adm1_loc":"\u9752\u6d77\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Hainan"
-    ],
-    "name:und_x_variant":[
-        "\u6d77\u5357\u85cf\u65cf\u81ea\u6cbb\u5dde"
     ],
     "name:unk_x_variant":[
         "Hainan Tibetan Autonomous Chou"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890515871,
-    "wof:lastmodified":1536617497,
+    "wof:lastmodified":1554759515,
     "wof:name":"Hainan",
     "wof:parent_id":85669715,
     "wof:placetype":"county",

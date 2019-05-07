@@ -10,6 +10,12 @@
     "geom:latitude":36.330447,
     "geom:longitude":102.342457,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Haidong Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":36.322478,
     "lbl:longitude":102.331851,
     "meso:adm1_loc":"\u9752\u6d77\u7701",
@@ -40,6 +46,9 @@
         "Haidong"
     ],
     "name:und_x_variant":[
+        "\u6d77\u4e1c\u5730\u533a"
+    ],
+    "name:zho_x_preferred":[
         "\u6d77\u4e1c\u5730\u533a"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732457,
-    "wof:lastmodified":1536615660,
+    "wof:lastmodified":1554759573,
     "wof:name":"Haidong",
     "wof:parent_id":85669715,
     "wof:placetype":"county",

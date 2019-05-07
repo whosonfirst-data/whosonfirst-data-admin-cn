@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.91402,
-    "geom:area_square_m":8962759168.239586,
+    "geom:area_square_m":8962759168.241016,
     "geom:bbox":"117.260078522,36.6873921121,118.373533225,38.272109985",
     "geom:latitude":37.529745,
     "geom:longitude":117.835635,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Binzhou City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":37.586327,
     "lbl:longitude":117.827246,
     "meso:adm1_loc":"\u5c71\u4e1c\u7701",
@@ -40,6 +46,9 @@
         "Binshou"
     ],
     "name:und_x_variant":[
+        "\u6ee8\u5dde\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u6ee8\u5dde\u5e02"
     ],
     "src:geom":"meso",
@@ -77,7 +86,7 @@
         }
     ],
     "wof:id":1108732469,
-    "wof:lastmodified":1505431693,
+    "wof:lastmodified":1554759573,
     "wof:name":"Binzhou",
     "wof:parent_id":85669813,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":26.012499,
     "geom:longitude":107.250043,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Qiannan Autonomous Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "autonomous prefecture"
+    ],
     "lbl:latitude":25.998882,
     "lbl:longitude":107.265703,
     "meso:adm1_loc":"\u8d35\u5dde\u7701",
@@ -40,6 +46,9 @@
         "Qiannan Buyizu Miaozu"
     ],
     "name:und_x_variant":[
+        "\u9ed4\u5357\u5e03\u4f9d\u65cf\u82d7\u65cf"
+    ],
+    "name:zho_x_preferred":[
         "\u9ed4\u5357\u5e03\u4f9d\u65cf\u82d7\u65cf"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732557,
-    "wof:lastmodified":1536615665,
+    "wof:lastmodified":1554759577,
     "wof:name":"Qiannan",
     "wof:parent_id":85669721,
     "wof:placetype":"county",

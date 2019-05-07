@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":14.113176,
-    "geom:area_square_m":149622263877.846375,
+    "geom:area_square_m":149622263877.855408,
     "geom:bbox":"97.3528866586,27.9672978763,102.479653486,34.1986475276",
     "geom:latitude":30.946939,
     "geom:longitude":99.998487,
@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Ganzi County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":30.664108,
     "lbl:longitude":100.172481,
     "meso:adm1_loc":"\u56db\u5ddd\u7701",
@@ -45,9 +51,6 @@
     ],
     "name:eng_x_variant":[
         "Garz\u00ea"
-    ],
-    "name:und_x_variant":[
-        "\u7518\u5b5c\u85cf\u65cf\u81ea\u6cbb\u5dde"
     ],
     "name:unk_x_variant":[
         "Sikang Tibetan Autonomous District"
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":890514703,
-    "wof:lastmodified":1512517921,
+    "wof:lastmodified":1555220352,
     "wof:name":"Ganzi",
     "wof:parent_id":85669787,
     "wof:placetype":"county",

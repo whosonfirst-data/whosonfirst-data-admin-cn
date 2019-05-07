@@ -10,6 +10,12 @@
     "geom:latitude":21.933634,
     "geom:longitude":100.943383,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Xishuangbanna Autonomous Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "autonomous prefecture"
+    ],
     "lbl:latitude":22.100778,
     "lbl:longitude":100.830442,
     "meso:adm1_loc":"\u4e91\u5357\u7701",
@@ -40,6 +46,9 @@
         "Xishuangbanna Daizu"
     ],
     "name:und_x_variant":[
+        "\u897f\u53cc\u7248\u7eb3"
+    ],
+    "name:zho_x_preferred":[
         "\u897f\u53cc\u7248\u7eb3"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732499,
-    "wof:lastmodified":1536615661,
+    "wof:lastmodified":1554759574,
     "wof:name":"Xishuangbanna",
     "wof:parent_id":85669791,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":32.017765,
     "geom:longitude":107.037928,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Bazhong City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":31.97035,
     "lbl:longitude":107.048465,
     "meso:adm1_loc":"\u56db\u5ddd\u7701",
@@ -40,6 +46,9 @@
         "Bazhong"
     ],
     "name:und_x_variant":[
+        "\u5df4\u4e2d\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u5df4\u4e2d\u5e02"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732413,
-    "wof:lastmodified":1536615658,
+    "wof:lastmodified":1554759567,
     "wof:name":"Bazhong",
     "wof:parent_id":85669787,
     "wof:placetype":"county",

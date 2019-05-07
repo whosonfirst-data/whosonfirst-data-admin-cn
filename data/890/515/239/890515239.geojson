@@ -11,6 +11,12 @@
     "geom:longitude":116.181407,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Bozhou City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":33.39847,
     "lbl:longitude":116.22498,
     "meso:adm1_loc":"\u5b89\u5fbd\u7701",
@@ -41,6 +47,9 @@
         "Bozhou"
     ],
     "name:und_x_variant":[
+        "\u4eb3\u5dde\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u4eb3\u5dde\u5e02"
     ],
     "qs:name":"\u4eb3\u5dde\u5e02",
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":890515239,
-    "wof:lastmodified":1536617495,
+    "wof:lastmodified":1554759513,
     "wof:name":"Bozhou",
     "wof:parent_id":85669739,
     "wof:placetype":"county",

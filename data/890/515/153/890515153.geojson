@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Yancheng City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":33.626192,
     "lbl:longitude":120.02163,
     "meso:adm1_loc":"\u6c5f\u82cf\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Yancheng"
-    ],
-    "name:und_x_variant":[
-        "\u76d0\u57ce\u5e02"
     ],
     "name:unk_x_variant":[
         "Yen-ch\u2019eng Hsien"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890515153,
-    "wof:lastmodified":1536617494,
+    "wof:lastmodified":1554759512,
     "wof:name":"Yancheng",
     "wof:parent_id":85669827,
     "wof:placetype":"county",

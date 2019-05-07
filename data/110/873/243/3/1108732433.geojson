@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.206079,
-    "geom:area_square_m":2398319245.108319,
+    "geom:area_square_m":2398319245.109311,
     "geom:bbox":"110.46276806,19.3549523211,111.042945862,20.164583206",
     "geom:latitude":19.748292,
     "geom:longitude":110.769618,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Wenchang City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":19.783679,
     "lbl:longitude":110.846332,
     "meso:adm1_loc":"\u6d77\u5357\u7701",
@@ -36,7 +42,13 @@
     "mps:longitude":110.846332,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Wenchang"
+    ],
     "name:und_x_variant":[
+        "\u6587\u660c\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u6587\u660c\u5e02"
     ],
     "src:geom":"meso",
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1108732433,
-    "wof:lastmodified":1512516965,
+    "wof:lastmodified":1555220446,
     "wof:name":"\u6587\u660c\u5e02",
     "wof:parent_id":85669759,
     "wof:placetype":"county",

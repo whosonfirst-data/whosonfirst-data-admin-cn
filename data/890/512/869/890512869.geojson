@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Baicheng City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":45.123336,
     "lbl:longitude":122.879451,
     "meso:adm1_loc":"\u5409\u6797\u7701",
@@ -41,9 +47,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "baicheng shi"
-    ],
-    "name:und_x_variant":[
-        "\u767d\u57ce\u5e02"
     ],
     "name:unk_x_variant":[
         "Pai-ch\u2019eng Shih"
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890512869,
-    "wof:lastmodified":1536617481,
+    "wof:lastmodified":1554759498,
     "wof:name":"Baicheng",
     "wof:parent_id":85669843,
     "wof:placetype":"county",

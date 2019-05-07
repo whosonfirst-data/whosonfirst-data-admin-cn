@@ -10,6 +10,12 @@
     "geom:latitude":23.688629,
     "geom:longitude":104.713084,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Wenshan Autonomous Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "autonomous prefecture"
+    ],
     "lbl:latitude":23.730186,
     "lbl:longitude":104.687882,
     "meso:adm1_loc":"\u4e91\u5357\u7701",
@@ -40,6 +46,9 @@
         "Wenshan Zhuangzu Miaozu"
     ],
     "name:und_x_variant":[
+        "\u6587\u5c71\u5dde"
+    ],
+    "name:zho_x_preferred":[
         "\u6587\u5c71\u5dde"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732431,
-    "wof:lastmodified":1536615659,
+    "wof:lastmodified":1554759571,
     "wof:name":"Wenshan",
     "wof:parent_id":85669791,
     "wof:placetype":"county",

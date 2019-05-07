@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Shiyan City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":32.474431,
     "lbl:longitude":110.709444,
     "meso:adm1_loc":"\u6e56\u5317\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Shiyan"
-    ],
-    "name:und_x_variant":[
-        "\u5341\u5830\u5e02"
     ],
     "name:unk_x_variant":[
         "Y\u00fcn-yang Ti-ch\u2019\u00fc"
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":890515173,
-    "wof:lastmodified":1536617495,
+    "wof:lastmodified":1554759513,
     "wof:name":"Shiyan",
     "wof:parent_id":85669777,
     "wof:placetype":"county",

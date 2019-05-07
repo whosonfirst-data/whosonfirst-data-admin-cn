@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Shannan Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":28.736262,
     "lbl:longitude":91.578634,
     "meso:adm1_loc":"\u897f\u85cf\u81ea\u6cbb\u533a",
@@ -121,9 +127,6 @@
     "name:tur_x_preferred":[
         "Shannan"
     ],
-    "name:und_x_variant":[
-        "\u5c71\u5357\u5730\u533a"
-    ],
     "name:unk_x_variant":[
         "Shan-nan Chuan-ch\u2019\u00fc"
     ],
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":1108794057,
-    "wof:lastmodified":1536615814,
+    "wof:lastmodified":1554759635,
     "wof:name":"Shannan",
     "wof:parent_id":85669747,
     "wof:placetype":"county",

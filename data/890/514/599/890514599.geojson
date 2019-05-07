@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Jingdezhen City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":29.486291,
     "lbl:longitude":117.276596,
     "meso:adm1_loc":"\u6c5f\u897f\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Jingdezhen"
-    ],
-    "name:und_x_variant":[
-        "\u666f\u5fb7\u9547\u5e02"
     ],
     "name:unk_x_variant":[
         "Ching-te-chen Shih"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890514599,
-    "wof:lastmodified":1536617489,
+    "wof:lastmodified":1554759506,
     "wof:name":"Jingdezhen",
     "wof:parent_id":85669823,
     "wof:placetype":"county",

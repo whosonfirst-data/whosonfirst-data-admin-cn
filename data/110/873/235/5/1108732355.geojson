@@ -10,6 +10,12 @@
     "geom:latitude":43.464137,
     "geom:longitude":82.115317,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Yili Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":43.380821,
     "lbl:longitude":81.690125,
     "meso:adm1_loc":"\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a",
@@ -40,6 +46,9 @@
         "Yili"
     ],
     "name:und_x_variant":[
+        "\u4f0a\u7281\u54c8\u8428\u514b\u81ea\u6cbb\u5dde"
+    ],
+    "name:zho_x_preferred":[
         "\u4f0a\u7281\u54c8\u8428\u514b\u81ea\u6cbb\u5dde"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732355,
-    "wof:lastmodified":1536615655,
+    "wof:lastmodified":1554759567,
     "wof:name":"Yili",
     "wof:parent_id":85669753,
     "wof:placetype":"county",

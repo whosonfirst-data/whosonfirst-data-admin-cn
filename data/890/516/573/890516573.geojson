@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Sanming City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":26.333109,
     "lbl:longitude":117.22492,
     "meso:adm1_loc":"\u798f\u5efa\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Sanming"
-    ],
-    "name:und_x_variant":[
-        "\u4e09\u660e\u5e02"
     ],
     "name:unk_x_variant":[
         "Sanming Shi"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890516573,
-    "wof:lastmodified":1536617505,
+    "wof:lastmodified":1554759522,
     "wof:name":"Sanming",
     "wof:parent_id":85669735,
     "wof:placetype":"county",

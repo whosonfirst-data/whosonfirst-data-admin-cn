@@ -10,6 +10,12 @@
     "geom:latitude":26.964493,
     "geom:longitude":98.869194,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Nujiang Autonomous Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "autonomous prefecture"
+    ],
     "lbl:latitude":26.638684,
     "lbl:longitude":99.132268,
     "meso:adm1_loc":"\u4e91\u5357\u7701",
@@ -40,6 +46,9 @@
         "Nujiang Lisuzu"
     ],
     "name:und_x_variant":[
+        "\u6012\u6c5f\u5dde"
+    ],
+    "name:zho_x_preferred":[
         "\u6012\u6c5f\u5dde"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732425,
-    "wof:lastmodified":1536615659,
+    "wof:lastmodified":1554759573,
     "wof:name":"Nujiang",
     "wof:parent_id":85669791,
     "wof:placetype":"county",

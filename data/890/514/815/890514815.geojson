@@ -11,6 +11,12 @@
     "geom:longitude":121.418502,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Shanghai Shixiaqu"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "shixiaqu"
+    ],
     "lbl:latitude":31.094449,
     "lbl:longitude":121.400245,
     "meso:adm1_loc":"\u4e0a\u6d77\u5e02",
@@ -41,6 +47,9 @@
         "Shanghai Shi"
     ],
     "name:und_x_variant":[
+        "\u4e0a\u6d77\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u4e0a\u6d77\u5e02"
     ],
     "qs:name":"\u4e0a\u6d77\u5e02",
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":890514815,
-    "wof:lastmodified":1536617492,
+    "wof:lastmodified":1554759510,
     "wof:name":"Shanghai",
     "wof:parent_id":85669831,
     "wof:placetype":"county",

@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Yantai City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":37.296221,
     "lbl:longitude":120.879331,
     "meso:adm1_loc":"\u5c71\u4e1c\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Yantai"
-    ],
-    "name:und_x_variant":[
-        "\u70df\u53f0\u5e02"
     ],
     "name:unk_x_variant":[
         "Yen-t\u2019ai Shih"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890516301,
-    "wof:lastmodified":1536617499,
+    "wof:lastmodified":1554759518,
     "wof:name":"Yantai",
     "wof:parent_id":85669813,
     "wof:placetype":"county",

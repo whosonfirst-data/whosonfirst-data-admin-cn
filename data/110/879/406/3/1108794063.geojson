@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Honghe Hanizu Autonomous Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "autonomous prefecture"
+    ],
     "lbl:latitude":23.358139,
     "lbl:longitude":103.018247,
     "meso:adm1_loc":"\u4e91\u5357\u7701",
@@ -42,17 +48,15 @@
     "name:eng_x_preferred":[
         "Honghe Ha'nizu Yizu"
     ],
-    "name:und_x_variant":[
-        "\u7ea2\u6cb3\u5dde"
-    ],
     "name:unk_x_variant":[
         "Hung-ho-ha-ni-tsu Tzu-chih-ch\u2019\u00fc"
     ],
     "name:zho_x_preferred":[
-        "\u7ea2\u6cb3\u54c8\u5c3c\u65cf\u5f5d\u65cf\u81ea\u6cbb\u5dde"
+        "\u7ea2\u6cb3\u5dde"
     ],
     "name:zho_x_variant":[
-        "\u7ea2\u6cb3"
+        "\u7ea2\u6cb3",
+        "\u7ea2\u6cb3\u54c8\u5c3c\u65cf\u5f5d\u65cf\u81ea\u6cbb\u5dde"
     ],
     "qs:name":"Honghe Hanizu Yizu Zizhizhou",
     "qs:photos_9r":0,
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":1108794063,
-    "wof:lastmodified":1536615815,
+    "wof:lastmodified":1554759636,
     "wof:name":"Honghe Hanizu",
     "wof:parent_id":85669791,
     "wof:placetype":"county",

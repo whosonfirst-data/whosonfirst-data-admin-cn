@@ -11,6 +11,12 @@
     "geom:longitude":107.102402,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Hanzhong City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":33.20941,
     "lbl:longitude":107.123752,
     "meso:adm1_loc":"\u9655\u897f\u7701",
@@ -41,6 +47,9 @@
         "Hanzhong"
     ],
     "name:und_x_variant":[
+        "\u6c49\u4e2d\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u6c49\u4e2d\u5e02"
     ],
     "qs:name":"\u6c49\u4e2d\u5e02",
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":890515099,
-    "wof:lastmodified":1536617493,
+    "wof:lastmodified":1554759511,
     "wof:name":"Hanzhong",
     "wof:parent_id":85669769,
     "wof:placetype":"county",

@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Ji'an City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":26.994341,
     "lbl:longitude":114.808586,
     "meso:adm1_loc":"\u6c5f\u897f\u7701",
@@ -43,18 +49,16 @@
     "name:eng_x_preferred":[
         "Ji'an"
     ],
-    "name:und_x_variant":[
-        "\u5409\u5b89\u5e02"
-    ],
     "name:unk_x_variant":[
         "Chi-an Chuan-ch\u2019\u00fc"
     ],
     "name:zho_x_preferred":[
-        "Ji\u2019an Shi"
+        "\u5409\u5b89\u5e02"
     ],
     "name:zho_x_variant":[
         "\u5409\u5b89\u5e02",
-        "\u5409\u5b89"
+        "\u5409\u5b89",
+        "Ji\u2019an Shi"
     ],
     "qs:name":"\u5409\u5b89\u5e02",
     "qs:name_adm0":"\u4e2d\u570b",
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":890514607,
-    "wof:lastmodified":1536617489,
+    "wof:lastmodified":1554759507,
     "wof:name":"Ji'an",
     "wof:parent_id":85669823,
     "wof:placetype":"county",

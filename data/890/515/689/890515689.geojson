@@ -11,6 +11,12 @@
     "geom:longitude":108.391045,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Xianyang City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":34.63848,
     "lbl:longitude":108.402576,
     "meso:adm1_loc":"\u9655\u897f\u7701",
@@ -41,6 +47,9 @@
         "Xianyang"
     ],
     "name:und_x_variant":[
+        "\u54b8\u9633\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u54b8\u9633\u5e02"
     ],
     "qs:name":"\u54b8\u9633\u5e02",
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":890515689,
-    "wof:lastmodified":1536617496,
+    "wof:lastmodified":1554759514,
     "wof:name":"Xianyang",
     "wof:parent_id":85669769,
     "wof:placetype":"county",

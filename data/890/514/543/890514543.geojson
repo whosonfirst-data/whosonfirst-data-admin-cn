@@ -11,6 +11,12 @@
     "geom:longitude":89.838192,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Tulufan Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":42.410384,
     "lbl:longitude":89.795155,
     "meso:adm1_loc":"\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a",
@@ -41,6 +47,9 @@
         "Tulufan"
     ],
     "name:und_x_variant":[
+        "\u5410\u9c81\u756a\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u5410\u9c81\u756a\u5e02"
     ],
     "qs:name":"\u5410\u9c81\u756a\u5e02",
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":890514543,
-    "wof:lastmodified":1536617488,
+    "wof:lastmodified":1554759506,
     "wof:name":"Tulufan",
     "wof:parent_id":85669753,
     "wof:placetype":"county",

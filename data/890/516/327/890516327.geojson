@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Zaozhuang City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":34.935784,
     "lbl:longitude":117.427271,
     "meso:adm1_loc":"\u5c71\u4e1c\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Zaozhuang"
-    ],
-    "name:und_x_variant":[
-        "\u67a3\u5e84\u5e02"
     ],
     "name:unk_x_variant":[
         "Tsao-chuang Shih"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890516327,
-    "wof:lastmodified":1536617500,
+    "wof:lastmodified":1554759518,
     "wof:name":"Zaozhuang",
     "wof:parent_id":85669813,
     "wof:placetype":"county",

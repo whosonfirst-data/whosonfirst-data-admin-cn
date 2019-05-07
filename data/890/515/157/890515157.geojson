@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Kaifeng City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":34.618738,
     "lbl:longitude":114.489446,
     "meso:adm1_loc":"\u6cb3\u5357\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Kaifeng"
-    ],
-    "name:und_x_variant":[
-        "\u5f00\u5c01\u5e02"
     ],
     "name:unk_x_variant":[
         "K\u2019ai-feng Shih"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890515157,
-    "wof:lastmodified":1536617494,
+    "wof:lastmodified":1554759512,
     "wof:name":"Kaifeng",
     "wof:parent_id":85669801,
     "wof:placetype":"county",

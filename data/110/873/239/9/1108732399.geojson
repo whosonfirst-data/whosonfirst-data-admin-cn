@@ -10,6 +10,12 @@
     "geom:latitude":52.326106,
     "geom:longitude":124.202301,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Daxing'anling Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":52.384547,
     "lbl:longitude":123.916255,
     "meso:adm1_loc":"\u9ed1\u9f99\u6c5f\u7701",
@@ -111,6 +117,9 @@
     "name:wuu_x_preferred":[
         "\u5927\u5174\u5b89\u5cad\u5730\u533a"
     ],
+    "name:zho_x_preferred":[
+        "\u5927\u5174\u5b89\u5cad\u5730\u533a"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -149,7 +158,7 @@
         }
     ],
     "wof:id":1108732399,
-    "wof:lastmodified":1536615658,
+    "wof:lastmodified":1554759567,
     "wof:name":"Daxing'anling",
     "wof:parent_id":85669849,
     "wof:placetype":"county",

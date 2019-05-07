@@ -10,6 +10,12 @@
     "geom:latitude":41.687232,
     "geom:longitude":112.444874,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Wulanchabu League"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "league"
+    ],
     "lbl:latitude":41.544969,
     "lbl:longitude":112.444489,
     "meso:adm1_loc":"\u5185\u8499\u53e4\u81ea\u6cbb\u533a",
@@ -40,6 +46,9 @@
         "Wulanchabu"
     ],
     "name:und_x_variant":[
+        "\u4e4c\u5170\u5bdf\u5e03\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u4e4c\u5170\u5bdf\u5e03\u5e02"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732343,
-    "wof:lastmodified":1536615655,
+    "wof:lastmodified":1554759564,
     "wof:name":"Wulanchabu",
     "wof:parent_id":85669847,
     "wof:placetype":"county",

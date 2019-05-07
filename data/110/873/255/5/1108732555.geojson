@@ -10,6 +10,12 @@
     "geom:latitude":49.263684,
     "geom:longitude":126.984906,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Heihe City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":49.559414,
     "lbl:longitude":126.553282,
     "meso:adm1_loc":"\u9ed1\u9f99\u6c5f\u7701",
@@ -40,6 +46,9 @@
         "Heihe"
     ],
     "name:und_x_variant":[
+        "\u9ed1\u6cb3\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u9ed1\u6cb3\u5e02"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732555,
-    "wof:lastmodified":1536615665,
+    "wof:lastmodified":1554759577,
     "wof:name":"Heihe",
     "wof:parent_id":85669849,
     "wof:placetype":"county",

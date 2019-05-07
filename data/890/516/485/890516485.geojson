@@ -11,6 +11,12 @@
     "geom:longitude":106.287173,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Baise Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":24.257713,
     "lbl:longitude":106.426965,
     "meso:adm1_loc":"\u5e7f\u897f\u7701",
@@ -41,6 +47,9 @@
         "Baise"
     ],
     "name:und_x_variant":[
+        "\u767e\u8272\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u767e\u8272\u5e02"
     ],
     "qs:name":"\u767e\u8272\u5e02",
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":890516485,
-    "wof:lastmodified":1536617503,
+    "wof:lastmodified":1554759521,
     "wof:name":"Baise",
     "wof:parent_id":85669717,
     "wof:placetype":"county",

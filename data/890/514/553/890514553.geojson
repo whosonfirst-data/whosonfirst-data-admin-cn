@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Yichun City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":28.456629,
     "lbl:longitude":115.067009,
     "meso:adm1_loc":"\u6c5f\u897f\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Yichun"
-    ],
-    "name:und_x_variant":[
-        "\u5b9c\u6625\u5e02"
     ],
     "name:unk_x_variant":[
         "I-ch\u2019un Ti-ch\u2019\u00fc"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890514553,
-    "wof:lastmodified":1536617488,
+    "wof:lastmodified":1554759505,
     "wof:name":"Yichun",
     "wof:parent_id":85669823,
     "wof:placetype":"county",

@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Foshan City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":23.00993,
     "lbl:longitude":112.994514,
     "meso:adm1_loc":"\u5e7f\u4e1c\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Foshan"
-    ],
-    "name:und_x_variant":[
-        "\u4f5b\u5c71\u5e02"
     ],
     "name:unk_x_variant":[
         "Fo-shan Shih"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890513089,
-    "wof:lastmodified":1536617483,
+    "wof:lastmodified":1554759499,
     "wof:name":"Foshan",
     "wof:parent_id":85669743,
     "wof:placetype":"county",

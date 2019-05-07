@@ -10,6 +10,12 @@
     "geom:latitude":25.264951,
     "geom:longitude":105.464208,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Qianxinan Autonomous Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "autonomous prefecture"
+    ],
     "lbl:latitude":25.308967,
     "lbl:longitude":105.464146,
     "meso:adm1_loc":"\u8d35\u5dde\u7701",
@@ -40,6 +46,9 @@
         "Qianxi'nan Buyizu Miaozu"
     ],
     "name:und_x_variant":[
+        "\u9ed4\u897f\u5357\u5e03\u4f9d\u65cf\u82d7\u65cf"
+    ],
+    "name:zho_x_preferred":[
         "\u9ed4\u897f\u5357\u5e03\u4f9d\u65cf\u82d7\u65cf"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732559,
-    "wof:lastmodified":1536615665,
+    "wof:lastmodified":1554759577,
     "wof:name":"Qianxinan",
     "wof:parent_id":85669721,
     "wof:placetype":"county",

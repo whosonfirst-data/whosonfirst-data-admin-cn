@@ -10,6 +10,12 @@
     "geom:latitude":33.03045,
     "geom:longitude":82.644613,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Ali Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":33.435685,
     "lbl:longitude":82.326233,
     "meso:adm1_loc":"\u897f\u85cf\u81ea\u6cbb\u533a",
@@ -117,6 +123,9 @@
     "name:vie_x_preferred":[
         "Ngari"
     ],
+    "name:zho_x_preferred":[
+        "\u963f\u91cc\u5730\u533a"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -155,7 +164,7 @@
         }
     ],
     "wof:id":1108732537,
-    "wof:lastmodified":1536615663,
+    "wof:lastmodified":1554759578,
     "wof:name":"Ali",
     "wof:parent_id":85669747,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":27.73225,
     "geom:longitude":112.602923,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Xiangtan City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":27.674476,
     "lbl:longitude":112.656716,
     "meso:adm1_loc":"\u6e56\u5357\u7701",
@@ -40,6 +46,9 @@
         "Xiangtan"
     ],
     "name:und_x_variant":[
+        "\u6e58\u6f6d\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u6e58\u6f6d\u5e02"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732467,
-    "wof:lastmodified":1536615660,
+    "wof:lastmodified":1554759572,
     "wof:name":"Xiangtan",
     "wof:parent_id":85669781,
     "wof:placetype":"county",

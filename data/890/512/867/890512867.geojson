@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Baotou City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":41.912317,
     "lbl:longitude":110.181989,
     "meso:adm1_loc":"\u5185\u8499\u53e4\u81ea\u6cbb\u533a",
@@ -41,9 +47,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Baotou"
-    ],
-    "name:und_x_variant":[
-        "\u5305\u5934\u5e02"
     ],
     "name:unk_x_variant":[
         "Pao-t\u2019ou Shih"
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890512867,
-    "wof:lastmodified":1536617481,
+    "wof:lastmodified":1554759498,
     "wof:name":"Baotou",
     "wof:parent_id":85669847,
     "wof:placetype":"county",

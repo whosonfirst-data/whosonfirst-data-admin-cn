@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Tangshan City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":39.756408,
     "lbl:longitude":118.321234,
     "meso:adm1_loc":"\u6cb3\u5317\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Tangshan"
-    ],
-    "name:und_x_variant":[
-        "\u5510\u5c71\u5e02"
     ],
     "name:unk_x_variant":[
         "T\u2019ang-shan Shih"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890516585,
-    "wof:lastmodified":1536617505,
+    "wof:lastmodified":1554759523,
     "wof:name":"Tangshan",
     "wof:parent_id":85669797,
     "wof:placetype":"county",

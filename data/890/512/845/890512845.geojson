@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Qingyang Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":36.149192,
     "lbl:longitude":107.569147,
     "meso:adm1_loc":"\u7518\u8083\u7701",
@@ -41,9 +47,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Qingyang"
-    ],
-    "name:und_x_variant":[
-        "\u5e86\u9633\u5e02"
     ],
     "name:unk_x_variant":[
         "Qingyang Diqu"
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890512845,
-    "wof:lastmodified":1536617481,
+    "wof:lastmodified":1554759498,
     "wof:name":"Qingyang",
     "wof:parent_id":85669711,
     "wof:placetype":"county",

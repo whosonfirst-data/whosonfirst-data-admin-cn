@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Qingdao City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":36.623442,
     "lbl:longitude":120.274295,
     "meso:adm1_loc":"\u5c71\u4e1c\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Qingdao"
-    ],
-    "name:und_x_variant":[
-        "\u9752\u5c9b\u5e02"
     ],
     "name:unk_x_variant":[
         "Ch\u2019ing-tao Shih"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890514775,
-    "wof:lastmodified":1536617492,
+    "wof:lastmodified":1554759510,
     "wof:name":"Qingdao",
     "wof:parent_id":85669813,
     "wof:placetype":"county",

@@ -11,6 +11,12 @@
     "geom:longitude":107.87429,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Chongqing Shixiaqu"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "shixiaqu"
+    ],
     "lbl:latitude":30.127455,
     "lbl:longitude":107.87487,
     "meso:adm1_loc":"\u91cd\u5e86\u5e02",
@@ -41,6 +47,9 @@
         "Chongqing Shi"
     ],
     "name:und_x_variant":[
+        "\u91cd\u5e86\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u91cd\u5e86\u5e02"
     ],
     "qs:name":"\u91cd\u5e86\u5e02",
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":890513063,
-    "wof:lastmodified":1536617482,
+    "wof:lastmodified":1554759499,
     "wof:name":"Chongqing",
     "wof:parent_id":85669725,
     "wof:placetype":"county",

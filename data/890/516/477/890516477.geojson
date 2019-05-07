@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Yiyang City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":28.376327,
     "lbl:longitude":111.782721,
     "meso:adm1_loc":"\u6e56\u5357\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Yiyang"
-    ],
-    "name:und_x_variant":[
-        "\u76ca\u9633\u5e02"
     ],
     "name:unk_x_variant":[
         "I-yang Chuan-ch\u2019\u00fc"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890516477,
-    "wof:lastmodified":1536617502,
+    "wof:lastmodified":1554759520,
     "wof:name":"Yiyang",
     "wof:parent_id":85669781,
     "wof:placetype":"county",

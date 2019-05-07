@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Shangrao City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":28.446157,
     "lbl:longitude":117.842846,
     "meso:adm1_loc":"\u6c5f\u897f\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Shangrao"
-    ],
-    "name:und_x_variant":[
-        "\u4e0a\u9976\u5e02"
     ],
     "name:unk_x_variant":[
         "Shang-jao Chuan-ch\u2019\u00fc"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890515869,
-    "wof:lastmodified":1536617497,
+    "wof:lastmodified":1554759516,
     "wof:name":"Shangrao",
     "wof:parent_id":85669823,
     "wof:placetype":"county",

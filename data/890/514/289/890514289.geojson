@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Wenzhou City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":27.734517,
     "lbl:longitude":120.365071,
     "meso:adm1_loc":"\u6d59\u6c5f\u7701",
@@ -41,9 +47,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Wenzhou"
-    ],
-    "name:und_x_variant":[
-        "\u6e29\u5dde\u5e02"
     ],
     "name:unk_x_variant":[
         "Wen-chou Shih"
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":890514289,
-    "wof:lastmodified":1536617487,
+    "wof:lastmodified":1554759505,
     "wof:name":"Wenzhou",
     "wof:parent_id":85669835,
     "wof:placetype":"county",

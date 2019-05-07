@@ -10,6 +10,12 @@
     "geom:latitude":46.231411,
     "geom:longitude":121.366247,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Xing'an League"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "league"
+    ],
     "lbl:latitude":46.284452,
     "lbl:longitude":120.99051,
     "meso:adm1_loc":"\u5185\u8499\u53e4\u81ea\u6cbb\u533a",
@@ -40,6 +46,9 @@
         "Xingan"
     ],
     "name:und_x_variant":[
+        "\u5174\u5b89\u76df"
+    ],
+    "name:zho_x_preferred":[
         "\u5174\u5b89\u76df"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732367,
-    "wof:lastmodified":1536615656,
+    "wof:lastmodified":1554759567,
     "wof:name":"Xing'an",
     "wof:parent_id":85669847,
     "wof:placetype":"county",

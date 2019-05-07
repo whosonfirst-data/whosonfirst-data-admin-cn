@@ -11,6 +11,12 @@
     "geom:longitude":86.460401,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Rikaze Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":29.280754,
     "lbl:longitude":86.799728,
     "meso:adm1_loc":"\u897f\u85cf\u81ea\u6cbb\u533a",
@@ -118,6 +124,9 @@
     "name:vie_x_preferred":[
         "Xigaz\u00ea"
     ],
+    "name:zho_x_preferred":[
+        "\u65e5\u5580\u5219\u5e02"
+    ],
     "qs:name":"\u65e5\u5580\u5219\u5e02",
     "qs:name_adm0":"\u4e2d\u570b",
     "qs:name_adm1":"\u897f\u85cf\u81ea\u6cbb\u533a",
@@ -171,7 +180,7 @@
         }
     ],
     "wof:id":890516395,
-    "wof:lastmodified":1536617501,
+    "wof:lastmodified":1554759524,
     "wof:name":"Rikaze",
     "wof:parent_id":85669747,
     "wof:placetype":"county",

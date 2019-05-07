@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Kelamayi City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":45.273491,
     "lbl:longitude":84.926893,
     "meso:adm1_loc":"\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a",
@@ -80,9 +86,6 @@
         "Karamay",
         "\u0642\u0627\u0631\u0627\u0645\u0627\u064a \u0631\u0627\u064a\u0648\u0646\u0649"
     ],
-    "name:und_x_variant":[
-        "\u514b\u62c9\u739b\u4f9d\u5e02"
-    ],
     "name:unk_x_variant":[
         "K\u2019o-la-ma-i Shih"
     ],
@@ -93,10 +96,11 @@
         "Karamay"
     ],
     "name:zho_x_preferred":[
-        "Kelamayi Shi"
+        "\u514b\u62c9\u739b\u4f9d\u5e02"
     ],
     "name:zho_x_variant":[
-        "\u514b\u62c9\u739b\u4f9d"
+        "\u514b\u62c9\u739b\u4f9d",
+        "Kelamayi Shi"
     ],
     "qs:name":"\u514b\u62c9\u739b\u4f9d\u5e02",
     "qs:name_adm0":"\u4e2d\u570b",
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":890515397,
-    "wof:lastmodified":1536617495,
+    "wof:lastmodified":1554759514,
     "wof:name":"Kelamayi",
     "wof:parent_id":85669753,
     "wof:placetype":"county",

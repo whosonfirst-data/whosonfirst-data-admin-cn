@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Hefei City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":31.840527,
     "lbl:longitude":117.452478,
     "meso:adm1_loc":"\u5b89\u5fbd\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Hefei"
-    ],
-    "name:und_x_variant":[
-        "\u5408\u80a5\u5e02"
     ],
     "name:unk_x_variant":[
         "Ho-fei Shih"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890513787,
-    "wof:lastmodified":1536617485,
+    "wof:lastmodified":1554759502,
     "wof:name":"Hefei",
     "wof:parent_id":85669739,
     "wof:placetype":"county",

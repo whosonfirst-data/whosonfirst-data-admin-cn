@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.113901,
-    "geom:area_square_m":1325122786.039873,
+    "geom:area_square_m":1325122786.039591,
     "geom:bbox":"109.512916565,19.575250375,109.892046699,20.014583588",
     "geom:latitude":19.802803,
     "geom:longitude":109.712933,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Lingao County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":19.804447,
     "lbl:longitude":109.728227,
     "meso:adm1_loc":"\u6d77\u5357\u7701",
@@ -36,7 +42,13 @@
     "mps:longitude":109.728227,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Lingao"
+    ],
     "name:und_x_variant":[
+        "\u4e34\u9ad8\u53bf"
+    ],
+    "name:zho_x_preferred":[
         "\u4e34\u9ad8\u53bf"
     ],
     "src:geom":"meso",
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1108732341,
-    "wof:lastmodified":1512516963,
+    "wof:lastmodified":1555220445,
     "wof:name":"\u4e34\u9ad8\u53bf",
     "wof:parent_id":85669759,
     "wof:placetype":"county",

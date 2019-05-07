@@ -10,6 +10,12 @@
     "geom:latitude":35.30934,
     "geom:longitude":118.280459,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Linyi City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":35.287966,
     "lbl:longitude":118.13284,
     "meso:adm1_loc":"\u5c71\u4e1c\u7701",
@@ -40,6 +46,9 @@
         "Linyi"
     ],
     "name:und_x_variant":[
+        "\u4e34\u6c82\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u4e34\u6c82\u5e02"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732339,
-    "wof:lastmodified":1536615655,
+    "wof:lastmodified":1554759564,
     "wof:name":"Linyi",
     "wof:parent_id":85669813,
     "wof:placetype":"county",

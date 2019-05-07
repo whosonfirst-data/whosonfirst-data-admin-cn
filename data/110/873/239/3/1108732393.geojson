@@ -10,6 +10,12 @@
     "geom:latitude":39.814164,
     "geom:longitude":98.200394,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Jiayuguan City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":39.836931,
     "lbl:longitude":98.200412,
     "meso:adm1_loc":"\u7518\u8083\u7701",
@@ -40,6 +46,9 @@
         "Jiayuguan"
     ],
     "name:und_x_variant":[
+        "\u5609\u5cea\u5173\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u5609\u5cea\u5173\u5e02"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732393,
-    "wof:lastmodified":1536615657,
+    "wof:lastmodified":1554759564,
     "wof:name":"Jiayuguan",
     "wof:parent_id":85669711,
     "wof:placetype":"county",

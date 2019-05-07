@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106782,
-    "geom:area_square_m":1245848565.467021,
+    "geom:area_square_m":1245848565.467019,
     "geom:bbox":"109.816911483,19.133693126,110.245216949,19.5942082766",
     "geom:latitude":19.343441,
     "geom:longitude":110.052336,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Tunchang County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":19.322398,
     "lbl:longitude":110.031239,
     "meso:adm1_loc":"\u6d77\u5357\u7701",
@@ -36,7 +42,13 @@
     "mps:longitude":110.031239,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Tunchang"
+    ],
     "name:und_x_variant":[
+        "\u5c6f\u660c\u53bf"
+    ],
+    "name:zho_x_preferred":[
         "\u5c6f\u660c\u53bf"
     ],
     "src:geom":"meso",
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1108732411,
-    "wof:lastmodified":1512516964,
+    "wof:lastmodified":1555220446,
     "wof:name":"\u5c6f\u660c\u53bf",
     "wof:parent_id":85669759,
     "wof:placetype":"county",

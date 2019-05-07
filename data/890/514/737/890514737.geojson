@@ -14,6 +14,12 @@
     "gn:pop":820000,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Shenzhen City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":22.641362,
     "lbl:longitude":114.028076,
     "meso:adm1_loc":"\u5e7f\u4e1c\u7701",
@@ -136,9 +142,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u043d\u044c\u0447\u0436\u0435\u043d\u044c"
     ],
-    "name:und_x_variant":[
-        "\u6df1\u5733\u5e02"
-    ],
     "name:unk_x_variant":[
         "Shenzhen Shi"
     ],
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":890514737,
-    "wof:lastmodified":1536617490,
+    "wof:lastmodified":1554759508,
     "wof:name":"Shenzhen",
     "wof:parent_id":85669743,
     "wof:placetype":"county",

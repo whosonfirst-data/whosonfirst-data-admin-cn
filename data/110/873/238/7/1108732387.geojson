@@ -10,6 +10,12 @@
     "geom:latitude":37.293742,
     "geom:longitude":81.13039,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Hetian Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":37.428939,
     "lbl:longitude":81.131168,
     "meso:adm1_loc":"\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a",
@@ -123,6 +129,9 @@
     "name:vie_x_preferred":[
         "Hotan"
     ],
+    "name:zho_x_preferred":[
+        "\u548c\u7530\u5730\u533a"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -161,7 +170,7 @@
         }
     ],
     "wof:id":1108732387,
-    "wof:lastmodified":1536615656,
+    "wof:lastmodified":1554759566,
     "wof:name":"Hetian",
     "wof:parent_id":85669753,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.930547,
-    "geom:area_square_m":82789328232.552399,
+    "geom:area_square_m":82789328232.553772,
     "geom:bbox":"100.528156523,30.6016800576,104.422787666,34.3141272192",
     "geom:latitude":32.399489,
     "geom:longitude":102.61225,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Aba Autonomous Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "autonomous prefecture"
+    ],
     "lbl:latitude":32.208848,
     "lbl:longitude":102.582859,
     "meso:adm1_loc":"\u56db\u5ddd\u7701",
@@ -144,9 +150,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0433\u0430\u0432\u0430-\u0422\u0430\u0443\u043d"
     ],
-    "name:und_x_variant":[
-        "\u963f\u575d\u85cf\u65cf\u7f8c\u65cf\u81ea\u6cbb\u5dde"
-    ],
     "name:unk_x_variant":[
         "Ngawa Zangzu Zizhizhou"
     ],
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":1108794065,
-    "wof:lastmodified":1553816513,
+    "wof:lastmodified":1555037217,
     "wof:name":"Aba",
     "wof:parent_id":85669787,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.015855,
-    "geom:area_square_m":20007186757.391525,
+    "geom:area_square_m":20007186757.389179,
     "geom:bbox":"103.554940316,35.4151073859,105.507774692,37.6372985865",
     "geom:latitude":36.613145,
     "geom:longitude":104.624235,
@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Baiyin City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":36.799368,
     "lbl:longitude":104.638871,
     "meso:adm1_loc":"\u7518\u8083\u7701",
@@ -72,9 +78,6 @@
     ],
     "name:swe_x_preferred":[
         "Baiyin"
-    ],
-    "name:und_x_variant":[
-        "\u767d\u94f6\u5e02"
     ],
     "name:unk_x_variant":[
         "Pai-yin Shih"
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":890516465,
-    "wof:lastmodified":1553816433,
+    "wof:lastmodified":1555036907,
     "wof:name":"Baiyin",
     "wof:parent_id":85669711,
     "wof:placetype":"county",

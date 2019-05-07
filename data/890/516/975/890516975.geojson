@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Huzhou City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":30.758793,
     "lbl:longitude":119.910046,
     "meso:adm1_loc":"\u6d59\u6c5f\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Huzhou"
-    ],
-    "name:und_x_variant":[
-        "\u6e56\u5dde\u5e02"
     ],
     "name:unk_x_variant":[
         "Hu-chou Shih"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890516975,
-    "wof:lastmodified":1536617507,
+    "wof:lastmodified":1554759525,
     "wof:name":"Huzhou",
     "wof:parent_id":85669835,
     "wof:placetype":"county",

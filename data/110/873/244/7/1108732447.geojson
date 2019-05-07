@@ -10,6 +10,12 @@
     "geom:latitude":27.067506,
     "geom:longitude":105.215119,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Bijie Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":27.049966,
     "lbl:longitude":105.626073,
     "meso:adm1_loc":"\u8d35\u5dde\u7701",
@@ -69,6 +75,9 @@
     "name:vie_x_preferred":[
         "T\u1ea5t Ti\u1ebft"
     ],
+    "name:zho_x_preferred":[
+        "\u6bd5\u8282\u5730\u533a"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":1108732447,
-    "wof:lastmodified":1536615659,
+    "wof:lastmodified":1554759570,
     "wof:name":"Bijie",
     "wof:parent_id":85669721,
     "wof:placetype":"county",

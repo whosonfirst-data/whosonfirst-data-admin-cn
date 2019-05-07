@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Hegang City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":47.721113,
     "lbl:longitude":130.421889,
     "meso:adm1_loc":"\u9ed1\u9f99\u6c5f\u7701",
@@ -41,9 +47,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Hegang"
-    ],
-    "name:und_x_variant":[
-        "\u9e64\u5c97\u5e02"
     ],
     "name:unk_x_variant":[
         "Hao-kang Shih"
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890514875,
-    "wof:lastmodified":1536617492,
+    "wof:lastmodified":1554759511,
     "wof:name":"Hegang",
     "wof:parent_id":85669849,
     "wof:placetype":"county",

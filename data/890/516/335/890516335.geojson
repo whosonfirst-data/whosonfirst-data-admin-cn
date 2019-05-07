@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Longnan Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":33.637824,
     "lbl:longitude":105.200776,
     "meso:adm1_loc":"\u7518\u8083\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Longnan"
-    ],
-    "name:und_x_variant":[
-        "\u9647\u5357\u5e02"
     ],
     "name:unk_x_variant":[
         "Wudu Diqu"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890516335,
-    "wof:lastmodified":1536617500,
+    "wof:lastmodified":1554759519,
     "wof:name":"Longnan",
     "wof:parent_id":85669711,
     "wof:placetype":"county",

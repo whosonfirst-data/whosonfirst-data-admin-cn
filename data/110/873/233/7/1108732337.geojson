@@ -10,6 +10,12 @@
     "geom:latitude":36.226335,
     "geom:longitude":111.377265,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Linfen City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":36.179045,
     "lbl:longitude":111.50786,
     "meso:adm1_loc":"\u5c71\u897f\u7701",
@@ -40,6 +46,9 @@
         "Linfen"
     ],
     "name:und_x_variant":[
+        "\u4e34\u6c7e\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u4e34\u6c7e\u5e02"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732337,
-    "wof:lastmodified":1536615655,
+    "wof:lastmodified":1554759566,
     "wof:name":"Linfen",
     "wof:parent_id":85669773,
     "wof:placetype":"county",

@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Nanjing City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":31.983884,
     "lbl:longitude":118.762771,
     "meso:adm1_loc":"\u6c5f\u82cf\u7701",
@@ -118,9 +124,6 @@
     "name:uig_x_preferred":[
         "\u0646\u06d5\u0646\u062c\u0649\u06ad \u0634\u06d5\u06be\u0649\u0631\u0649"
     ],
-    "name:und_x_variant":[
-        "\u5357\u4eac\u5e02"
-    ],
     "name:unk_x_variant":[
         "Nan-ching Shih"
     ],
@@ -128,10 +131,11 @@
         "Nam Kinh"
     ],
     "name:zho_x_preferred":[
-        "\u5357\u4eac"
+        "\u5357\u4eac\u5e02"
     ],
     "name:zho_x_variant":[
-        "\u5357\u4eac\u5e02"
+        "\u5357\u4eac\u5e02",
+        "\u5357\u4eac"
     ],
     "qs:name":"\u5357\u4eac\u5e02",
     "qs:name_adm0":"\u4e2d\u570b",
@@ -187,7 +191,7 @@
         }
     ],
     "wof:id":890516425,
-    "wof:lastmodified":1536617502,
+    "wof:lastmodified":1554759519,
     "wof:name":"Nanjing",
     "wof:parent_id":85669827,
     "wof:placetype":"county",

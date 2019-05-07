@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Wuhan City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":30.494666,
     "lbl:longitude":114.284811,
     "meso:adm1_loc":"\u6e56\u5317\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Wuhan"
-    ],
-    "name:und_x_variant":[
-        "\u6b66\u6c49\u5e02"
     ],
     "name:unk_x_variant":[
         "Wu-han Shih"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890516557,
-    "wof:lastmodified":1536617504,
+    "wof:lastmodified":1554759522,
     "wof:name":"Wuhan",
     "wof:parent_id":85669777,
     "wof:placetype":"county",

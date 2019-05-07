@@ -10,6 +10,12 @@
     "geom:latitude":46.907746,
     "geom:longitude":88.401913,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Aletai Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":46.587018,
     "lbl:longitude":88.678977,
     "meso:adm1_loc":"\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a",
@@ -40,6 +46,9 @@
         "Aletai"
     ],
     "name:und_x_variant":[
+        "\u963f\u52d2\u6cf0\u5730\u533a"
+    ],
+    "name:zho_x_preferred":[
         "\u963f\u52d2\u6cf0\u5730\u533a"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732531,
-    "wof:lastmodified":1536615663,
+    "wof:lastmodified":1554759578,
     "wof:name":"Aletai",
     "wof:parent_id":85669753,
     "wof:placetype":"county",

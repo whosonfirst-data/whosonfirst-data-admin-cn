@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.902777,
-    "geom:area_square_m":44358109981.900642,
+    "geom:area_square_m":44358109981.899994,
     "geom:bbox":"99.15633,22.02597,102.3246,24.8257400848",
     "geom:latitude":23.186105,
     "geom:longitude":100.720453,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Pu'er County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":23.211982,
     "lbl:longitude":100.875484,
     "meso:adm1_loc":"\u4e91\u5357\u7701",
@@ -37,7 +43,13 @@
     "mps:longitude":100.875484,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Pu'er"
+    ],
     "name:und_x_variant":[
+        "\u666e\u6d31\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u666e\u6d31\u5e02"
     ],
     "qs:name":"\u666e\u6d31\u5e02",
@@ -79,7 +91,7 @@
         }
     ],
     "wof:id":890514995,
-    "wof:lastmodified":1512517921,
+    "wof:lastmodified":1555220353,
     "wof:name":"Pu'er",
     "wof:parent_id":85669791,
     "wof:placetype":"county",

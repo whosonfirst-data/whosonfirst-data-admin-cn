@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Zhaotong City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":27.855374,
     "lbl:longitude":103.982967,
     "meso:adm1_loc":"\u4e91\u5357\u7701",
@@ -41,9 +47,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Zhaotong"
-    ],
-    "name:und_x_variant":[
-        "\u662d\u901a\u5e02"
     ],
     "name:unk_x_variant":[
         "Chao-t\u2019ung Hsien"
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890514257,
-    "wof:lastmodified":1536617486,
+    "wof:lastmodified":1554759504,
     "wof:name":"Zhaotong",
     "wof:parent_id":85669791,
     "wof:placetype":"county",

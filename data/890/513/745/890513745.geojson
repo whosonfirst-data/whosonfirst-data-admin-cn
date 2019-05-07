@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.753827,
-    "geom:area_square_m":18439417530.489105,
+    "geom:area_square_m":18439417530.489685,
     "geom:bbox":"115.367168682,31.0111936417,117.245927358,32.6583756241",
     "geom:latitude":31.755971,
     "geom:longitude":116.314523,
@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Lu'an County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":31.609948,
     "lbl:longitude":116.300282,
     "meso:adm1_loc":"\u5b89\u5fbd\u7701",
@@ -40,8 +46,8 @@
     "mps:longitude":116.300282,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:und_x_variant":[
-        "\u516d\u5b89\u5e02"
+    "name:eng_x_preferred":[
+        "Lu'an"
     ],
     "name:unk_x_variant":[
         "Liu-an Chuan-ch\u2019\u00fc"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":890513745,
-    "wof:lastmodified":1512517920,
+    "wof:lastmodified":1555220352,
     "wof:name":"Lu'an",
     "wof:parent_id":85669739,
     "wof:placetype":"county",

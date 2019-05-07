@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Dongying City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":37.604513,
     "lbl:longitude":118.636187,
     "meso:adm1_loc":"\u5c71\u4e1c\u7701",
@@ -69,9 +75,6 @@
     ],
     "name:swe_x_preferred":[
         "Dongying"
-    ],
-    "name:und_x_variant":[
-        "\u4e1c\u8425\u5e02"
     ],
     "name:unk_x_variant":[
         "Dongying Shi"
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":890514773,
-    "wof:lastmodified":1536617492,
+    "wof:lastmodified":1554759509,
     "wof:name":"Dongying",
     "wof:parent_id":85669813,
     "wof:placetype":"county",

@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Shizuishan City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":39.013282,
     "lbl:longitude":106.550898,
     "meso:adm1_loc":"\u5b81\u590f\u56de\u65cf\u81ea\u6cbb\u533a",
@@ -41,9 +47,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Shizuishan"
-    ],
-    "name:und_x_variant":[
-        "\u77f3\u5634\u5c71\u5e02"
     ],
     "name:unk_x_variant":[
         "Shih-tsui-shan Shih"
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890514111,
-    "wof:lastmodified":1536617485,
+    "wof:lastmodified":1554759503,
     "wof:name":"Shizuishan",
     "wof:parent_id":85669763,
     "wof:placetype":"county",

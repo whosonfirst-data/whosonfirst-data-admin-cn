@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Rizhao City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":35.616295,
     "lbl:longitude":119.141627,
     "meso:adm1_loc":"\u5c71\u4e1c\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Rizhao"
-    ],
-    "name:und_x_variant":[
-        "\u65e5\u7167\u5e02"
     ],
     "name:unk_x_variant":[
         "Jih-chao Hsien"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890514757,
-    "wof:lastmodified":1536617491,
+    "wof:lastmodified":1554759509,
     "wof:name":"Rizhao",
     "wof:parent_id":85669813,
     "wof:placetype":"county",

@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Qiandongnan Autonomous Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "autonomous prefecture"
+    ],
     "lbl:latitude":26.536036,
     "lbl:longitude":108.557626,
     "meso:adm1_loc":"\u8d35\u5dde\u7701",
@@ -45,9 +51,6 @@
     "name:pny_x_preferred":[
         "Qi\u00e1nd\u014dngn\u00e1n Mi\u00e1oz\u00fa D\u00f2ngz\u00fa Z\u00eczh\u00eczh\u014du"
     ],
-    "name:und_x_variant":[
-        "\u9ed4\u4e1c\u5357\u82d7\u65cf\u4f97\u65cf"
-    ],
     "name:unk_x_variant":[
         "Southeast Kweichow Miao-T\u2019ung Autonomous District"
     ],
@@ -55,10 +58,11 @@
         "\u9ed4\u4e1c\u5357\u82d7\u65cf\u4f97\u65cf\u81ea\u6cbb\u5dde"
     ],
     "name:zho_x_preferred":[
-        "\u9ed4\u4e1c\u5357\u82d7\u65cf\u4f97\u65cf\u81ea\u6cbb\u5dde"
+        "\u9ed4\u4e1c\u5357\u82d7\u65cf\u4f97\u65cf"
     ],
     "name:zho_x_variant":[
-        "\u9ed4\u4e1c\u5357"
+        "\u9ed4\u4e1c\u5357",
+        "\u9ed4\u4e1c\u5357\u82d7\u65cf\u4f97\u65cf\u81ea\u6cbb\u5dde"
     ],
     "qs:name":"Qiandongnan Miaozu Dongzu Zizhizhou",
     "qs:photos_9r":0,
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":1108794067,
-    "wof:lastmodified":1536615815,
+    "wof:lastmodified":1554759635,
     "wof:name":"Qiandongnan",
     "wof:parent_id":85669781,
     "wof:placetype":"county",

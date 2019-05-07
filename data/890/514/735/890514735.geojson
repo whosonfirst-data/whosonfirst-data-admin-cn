@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Changzhou City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":31.63666,
     "lbl:longitude":119.468915,
     "meso:adm1_loc":"\u6c5f\u82cf\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Changzhou"
-    ],
-    "name:und_x_variant":[
-        "\u5e38\u5dde\u5e02"
     ],
     "name:unk_x_variant":[
         "Ch\u2019ang-chou Shih"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890514735,
-    "wof:lastmodified":1536617490,
+    "wof:lastmodified":1554759508,
     "wof:name":"Changzhou",
     "wof:parent_id":85669827,
     "wof:placetype":"county",

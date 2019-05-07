@@ -11,6 +11,12 @@
     "geom:longitude":113.516534,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Zhuzhou City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":27.06503,
     "lbl:longitude":113.507853,
     "meso:adm1_loc":"\u6e56\u5357\u7701",
@@ -41,6 +47,9 @@
         "Zhuzhou"
     ],
     "name:und_x_variant":[
+        "\u682a\u6d32\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u682a\u6d32\u5e02"
     ],
     "qs:name":"\u682a\u6d32\u5e02",
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":890514759,
-    "wof:lastmodified":1536617491,
+    "wof:lastmodified":1554759509,
     "wof:name":"Zhuzhou",
     "wof:parent_id":85669781,
     "wof:placetype":"county",

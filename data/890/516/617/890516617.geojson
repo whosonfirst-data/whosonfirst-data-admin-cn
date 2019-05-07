@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Fuzhou City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":27.572267,
     "lbl:longitude":116.447215,
     "meso:adm1_loc":"\u6c5f\u897f\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Fuzhou"
-    ],
-    "name:und_x_variant":[
-        "\u629a\u5dde\u5e02"
     ],
     "name:unk_x_variant":[
         "Fu-chou Chuan-ch\u2019\u00fc"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890516617,
-    "wof:lastmodified":1536617506,
+    "wof:lastmodified":1554759524,
     "wof:name":"Fuzhou",
     "wof:parent_id":85669823,
     "wof:placetype":"county",

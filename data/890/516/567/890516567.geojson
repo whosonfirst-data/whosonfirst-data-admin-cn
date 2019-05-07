@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Chengdu City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":30.717055,
     "lbl:longitude":103.810709,
     "meso:adm1_loc":"\u56db\u5ddd\u7701",
@@ -48,9 +54,6 @@
     ],
     "name:swe_x_preferred":[
         "Chengu"
-    ],
-    "name:und_x_variant":[
-        "\u6210\u90fd\u5e02"
     ],
     "name:unk_x_variant":[
         "Ch\u2019eng-tu Shih"
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":890516567,
-    "wof:lastmodified":1536617504,
+    "wof:lastmodified":1554759522,
     "wof:name":"Chengdu",
     "wof:parent_id":85669787,
     "wof:placetype":"county",

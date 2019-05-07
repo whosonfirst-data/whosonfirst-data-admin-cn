@@ -10,6 +10,12 @@
     "geom:latitude":35.195957,
     "geom:longitude":109.033513,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Tongchuan City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":35.177551,
     "lbl:longitude":109.033575,
     "meso:adm1_loc":"\u9655\u897f\u7701",
@@ -40,6 +46,9 @@
         "Tongchuan"
     ],
     "name:und_x_variant":[
+        "\u94dc\u5ddd\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u94dc\u5ddd\u5e02"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732515,
-    "wof:lastmodified":1536615662,
+    "wof:lastmodified":1554759574,
     "wof:name":"Tongchuan",
     "wof:parent_id":85669769,
     "wof:placetype":"county",

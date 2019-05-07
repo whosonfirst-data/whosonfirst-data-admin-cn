@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Zhangye Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":39.080976,
     "lbl:longitude":99.87492,
     "meso:adm1_loc":"\u7518\u8083\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Zhangye"
-    ],
-    "name:und_x_variant":[
-        "\u5f20\u6396\u5e02"
     ],
     "name:unk_x_variant":[
         "Chang-yeh Ti-ch\u2019\u00fc"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890515163,
-    "wof:lastmodified":1536617494,
+    "wof:lastmodified":1554759513,
     "wof:name":"Zhangye",
     "wof:parent_id":85669711,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.802916,
-    "geom:area_square_m":18256516306.248367,
+    "geom:area_square_m":18256516306.253616,
     "geom:bbox":"100.687166678,34.0681430831,102.447119235,36.1638199971",
     "geom:latitude":35.02032,
     "geom:longitude":101.627248,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Huangnan Autonomous Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "autonomous prefecture"
+    ],
     "lbl:latitude":34.884771,
     "lbl:longitude":101.494135,
     "meso:adm1_loc":"\u9752\u6d77\u7701",
@@ -40,6 +46,9 @@
         "Huangnan Zangzu"
     ],
     "name:und_x_variant":[
+        "\u9ec4\u5357\u85cf\u65cf\u81ea\u6cbb\u5dde"
+    ],
+    "name:zho_x_preferred":[
         "\u9ec4\u5357\u85cf\u65cf\u81ea\u6cbb\u5dde"
     ],
     "src:geom":"meso",
@@ -77,7 +86,7 @@
         }
     ],
     "wof:id":1108732551,
-    "wof:lastmodified":1505431697,
+    "wof:lastmodified":1554759576,
     "wof:name":"Huangnan",
     "wof:parent_id":85669715,
     "wof:placetype":"county",

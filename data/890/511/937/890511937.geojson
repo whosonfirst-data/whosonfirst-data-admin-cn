@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Weinan City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":34.964888,
     "lbl:longitude":109.8378,
     "meso:adm1_loc":"\u9655\u897f\u7701",
@@ -41,9 +47,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "weinan shi"
-    ],
-    "name:und_x_variant":[
-        "\u6e2d\u5357\u5e02"
     ],
     "name:unk_x_variant":[
         "Wei-nan Chuan-ch\u2019\u00fc"
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890511937,
-    "wof:lastmodified":1536617479,
+    "wof:lastmodified":1554759496,
     "wof:name":"Weinan",
     "wof:parent_id":85669769,
     "wof:placetype":"county",

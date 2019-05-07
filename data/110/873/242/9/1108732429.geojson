@@ -10,6 +10,12 @@
     "geom:latitude":23.337929,
     "geom:longitude":116.116782,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Jieyang City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":23.376394,
     "lbl:longitude":116.066725,
     "meso:adm1_loc":"\u5e7f\u4e1c\u7701",
@@ -40,6 +46,9 @@
         "Jieyang"
     ],
     "name:und_x_variant":[
+        "\u63ed\u9633\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u63ed\u9633\u5e02"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732429,
-    "wof:lastmodified":1536615659,
+    "wof:lastmodified":1554759570,
     "wof:name":"Jieyang",
     "wof:parent_id":85669743,
     "wof:placetype":"county",

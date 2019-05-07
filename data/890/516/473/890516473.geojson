@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.826777,
-    "geom:area_square_m":30812803994.306759,
+    "geom:area_square_m":30812803994.303673,
     "geom:bbox":"105.608736846,27.1413666577,108.209474184,29.2207427106",
     "geom:latitude":28.168606,
     "geom:longitude":107.085319,
@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Zunyi City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":28.062203,
     "lbl:longitude":107.174227,
     "meso:adm1_loc":"\u8d35\u5dde\u7701",
@@ -66,9 +72,6 @@
     ],
     "name:swe_x_preferred":[
         "Zunyi"
-    ],
-    "name:und_x_variant":[
-        "\u9075\u4e49\u5e02"
     ],
     "name:unk_x_variant":[
         "Tsun-i Chuan-ch\u2019\u00fc"
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":890516473,
-    "wof:lastmodified":1553816434,
+    "wof:lastmodified":1555036906,
     "wof:name":"Zunyi",
     "wof:parent_id":85669721,
     "wof:placetype":"county",

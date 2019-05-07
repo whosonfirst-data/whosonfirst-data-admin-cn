@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Liangshan Autonomous Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "autonomous prefecture"
+    ],
     "lbl:latitude":28.013022,
     "lbl:longitude":102.42261,
     "meso:adm1_loc":"\u56db\u5ddd\u7701",
@@ -41,9 +47,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Liangshan Yizu"
-    ],
-    "name:und_x_variant":[
-        "\u51c9\u5c71\u5f5d\u65cf\u81ea\u6cbb\u5dde"
     ],
     "name:unk_x_variant":[
         "Liangshan Yi Autonomous Chou"
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108794061,
-    "wof:lastmodified":1536615814,
+    "wof:lastmodified":1554759635,
     "wof:name":"Liangshan",
     "wof:parent_id":85669787,
     "wof:placetype":"county",

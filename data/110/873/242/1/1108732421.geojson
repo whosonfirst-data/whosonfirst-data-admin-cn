@@ -10,6 +10,12 @@
     "geom:latitude":43.140082,
     "geom:longitude":129.129309,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Yanbianchao Autonomous Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "autonomous prefecture"
+    ],
     "lbl:latitude":42.862455,
     "lbl:longitude":128.681183,
     "meso:adm1_loc":"\u5409\u6797\u7701",
@@ -40,6 +46,9 @@
         "Yanbian Chaoxianzu"
     ],
     "name:und_x_variant":[
+        "\u5ef6\u8fb9\u671d\u9c9c\u65cf\u81ea\u6cbb\u5dde"
+    ],
+    "name:zho_x_preferred":[
         "\u5ef6\u8fb9\u671d\u9c9c\u65cf\u81ea\u6cbb\u5dde"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732421,
-    "wof:lastmodified":1536615658,
+    "wof:lastmodified":1554759575,
     "wof:name":"Yanbianchao",
     "wof:parent_id":85669843,
     "wof:placetype":"county",

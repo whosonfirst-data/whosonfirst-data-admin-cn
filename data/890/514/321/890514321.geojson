@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Panzhihua City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":26.831319,
     "lbl:longitude":101.767907,
     "meso:adm1_loc":"\u56db\u5ddd\u7701",
@@ -41,9 +47,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Panzhihua"
-    ],
-    "name:und_x_variant":[
-        "\u6500\u679d\u82b1\u5e02"
     ],
     "name:unk_x_variant":[
         "Tu-k\u2019ou Shih"
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890514321,
-    "wof:lastmodified":1536617487,
+    "wof:lastmodified":1554759504,
     "wof:name":"Panzhihua",
     "wof:parent_id":85669787,
     "wof:placetype":"county",

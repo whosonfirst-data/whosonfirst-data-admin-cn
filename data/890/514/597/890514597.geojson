@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Chifeng City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":43.333051,
     "lbl:longitude":118.915909,
     "meso:adm1_loc":"\u5185\u8499\u53e4\u81ea\u6cbb\u533a",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Chifeng"
-    ],
-    "name:und_x_variant":[
-        "\u8d64\u5cf0\u5e02"
     ],
     "name:unk_x_variant":[
         "Ulanhad Shi"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890514597,
-    "wof:lastmodified":1536617489,
+    "wof:lastmodified":1554759507,
     "wof:name":"Chifeng",
     "wof:parent_id":85669847,
     "wof:placetype":"county",

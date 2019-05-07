@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Xiangxi Autonomous Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "autonomous prefecture"
+    ],
     "lbl:latitude":28.713224,
     "lbl:longitude":109.737852,
     "meso:adm1_loc":"\u6e56\u5357\u7701",
@@ -41,9 +47,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Xiangxi Tujiazu Miaozu"
-    ],
-    "name:und_x_variant":[
-        "\u6e58\u897f\u571f\u5bb6\u65cf\u82d7\u65cf\u81ea\u6cbb\u5dde"
     ],
     "name:unk_x_variant":[
         "Hsiang-hsi Miao Autonomous District"
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108794059,
-    "wof:lastmodified":1536615814,
+    "wof:lastmodified":1554759635,
     "wof:name":"Xiangxi",
     "wof:parent_id":85669781,
     "wof:placetype":"county",

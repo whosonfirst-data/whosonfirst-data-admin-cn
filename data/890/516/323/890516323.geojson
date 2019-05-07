@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Zhongshan City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":22.529794,
     "lbl:longitude":113.361383,
     "meso:adm1_loc":"\u5e7f\u4e1c\u7701",
@@ -41,10 +47,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Zhongshan Prefecture"
+        "Zhongshan"
     ],
-    "name:und_x_variant":[
-        "\u4e2d\u5c71\u5e02"
+    "name:eng_x_variant":[
+        "Zhongshan Prefecture"
     ],
     "name:unk_x_variant":[
         "Chung-shan Hsien"
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":890516323,
-    "wof:lastmodified":1536617499,
+    "wof:lastmodified":1555220353,
     "wof:name":"Zhongshan",
     "wof:parent_id":85669743,
     "wof:placetype":"county",

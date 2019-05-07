@@ -11,6 +11,12 @@
     "geom:longitude":117.330965,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Tianjin Shixiaqu"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "shixiaqu"
+    ],
     "lbl:latitude":39.264612,
     "lbl:longitude":117.34117,
     "meso:adm1_loc":"\u5929\u6d25\u5e02",
@@ -41,6 +47,9 @@
         "Tianjin Shi"
     ],
     "name:und_x_variant":[
+        "\u5929\u6d25\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u5929\u6d25\u5e02"
     ],
     "qs:name":"\u5929\u6d25\u5e02",
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":890513813,
-    "wof:lastmodified":1536617485,
+    "wof:lastmodified":1554759503,
     "wof:name":"Tianjin",
     "wof:parent_id":85669817,
     "wof:placetype":"county",

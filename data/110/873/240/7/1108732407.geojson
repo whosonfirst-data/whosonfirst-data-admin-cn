@@ -10,6 +10,12 @@
     "geom:latitude":31.118868,
     "geom:longitude":113.879275,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Xiaogan City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":31.088076,
     "lbl:longitude":113.826351,
     "meso:adm1_loc":"\u6e56\u5317\u7701",
@@ -40,6 +46,9 @@
         "Xiaogan"
     ],
     "name:und_x_variant":[
+        "\u5b5d\u611f\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u5b5d\u611f\u5e02"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732407,
-    "wof:lastmodified":1536615658,
+    "wof:lastmodified":1554759567,
     "wof:name":"Xiaogan",
     "wof:parent_id":85669777,
     "wof:placetype":"county",

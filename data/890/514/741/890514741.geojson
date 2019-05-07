@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Tieling City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":42.500803,
     "lbl:longitude":124.170878,
     "meso:adm1_loc":"\u8fbd\u5b81\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Tieling"
-    ],
-    "name:und_x_variant":[
-        "\u94c1\u5cad\u5e02"
     ],
     "name:unk_x_variant":[
         "tieling shi"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890514741,
-    "wof:lastmodified":1536617491,
+    "wof:lastmodified":1554759508,
     "wof:name":"Tieling",
     "wof:parent_id":85669807,
     "wof:placetype":"county",

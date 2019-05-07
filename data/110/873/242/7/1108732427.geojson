@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.256615,
-    "geom:area_square_m":24117663674.017181,
+    "geom:area_square_m":24117663674.019432,
     "geom:bbox":"108.366819533,29.1231674885,110.635797354,31.3962957762",
     "geom:latitude":30.191549,
     "geom:longitude":109.548124,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Enshi County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":30.184365,
     "lbl:longitude":109.659719,
     "meso:adm1_loc":"\u6e56\u5317\u7701",
@@ -36,7 +42,13 @@
     "mps:longitude":109.659719,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Enshi"
+    ],
     "name:und_x_variant":[
+        "\u6069\u65bd\u571f\u5bb6\u65cf\u82d7\u65cf\u81ea\u6cbb\u5dde"
+    ],
+    "name:zho_x_preferred":[
         "\u6069\u65bd\u571f\u5bb6\u65cf\u82d7\u65cf\u81ea\u6cbb\u5dde"
     ],
     "src:geom":"meso",
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1108732427,
-    "wof:lastmodified":1512516964,
+    "wof:lastmodified":1555220446,
     "wof:name":"Enshi",
     "wof:parent_id":85669777,
     "wof:placetype":"county",

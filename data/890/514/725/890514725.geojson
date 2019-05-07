@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Dandong City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":40.602787,
     "lbl:longitude":124.407338,
     "meso:adm1_loc":"\u8fbd\u5b81\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Dandong"
-    ],
-    "name:und_x_variant":[
-        "\u4e39\u4e1c\u5e02"
     ],
     "name:unk_x_variant":[
         "Tan-tung Shih"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890514725,
-    "wof:lastmodified":1536617490,
+    "wof:lastmodified":1554759509,
     "wof:name":"Dandong",
     "wof:parent_id":85669807,
     "wof:placetype":"county",

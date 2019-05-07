@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.231467,
-    "geom:area_square_m":2705617346.763051,
+    "geom:area_square_m":2705617346.763044,
     "geom:bbox":"109.520068115,18.7302368799,110.153896026,19.4163830749",
     "geom:latitude":19.035628,
     "geom:longitude":109.85085,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Qiongzhong Li and Miao Autonomous County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "autonomous county"
+    ],
     "lbl:latitude":19.034722,
     "lbl:longitude":109.855649,
     "meso:adm1_loc":"\u6d77\u5357\u7701",
@@ -36,7 +42,13 @@
     "mps:longitude":109.855649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Qiongzhong Li and Miao"
+    ],
     "name:und_x_variant":[
+        "\u743c\u4e2d\u9ece\u65cf\u82d7\u65cf\u81ea\u6cbb\u53bf"
+    ],
+    "name:zho_x_preferred":[
         "\u743c\u4e2d\u9ece\u65cf\u82d7\u65cf\u81ea\u6cbb\u53bf"
     ],
     "src:geom":"meso",
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1108732477,
-    "wof:lastmodified":1512516965,
+    "wof:lastmodified":1555220447,
     "wof:name":"\u743c\u4e2d\u9ece\u65cf\u82d7\u65cf\u81ea\u6cbb\u53bf",
     "wof:parent_id":85669759,
     "wof:placetype":"county",

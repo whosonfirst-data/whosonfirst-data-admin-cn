@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":8900000,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Ganzhou City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":25.576385,
     "lbl:longitude":115.293595,
     "meso:adm1_loc":"\u6c5f\u897f\u7701",
@@ -41,9 +47,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Ganzhou"
-    ],
-    "name:und_x_variant":[
-        "\u8d63\u5dde\u5e02"
     ],
     "name:unk_x_variant":[
         "Kan-chou Chuan-ch\u2019\u00fc"
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":890511835,
-    "wof:lastmodified":1536617479,
+    "wof:lastmodified":1554759496,
     "wof:name":"Ganzhou",
     "wof:parent_id":85669823,
     "wof:placetype":"county",

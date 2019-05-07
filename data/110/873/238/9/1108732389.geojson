@@ -10,6 +10,12 @@
     "geom:latitude":43.031398,
     "geom:longitude":93.524863,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Hami Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":42.964381,
     "lbl:longitude":93.475361,
     "meso:adm1_loc":"\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a",
@@ -40,6 +46,9 @@
         "Hami"
     ],
     "name:und_x_variant":[
+        "\u54c8\u5bc6\u5730\u533a"
+    ],
+    "name:zho_x_preferred":[
         "\u54c8\u5bc6\u5730\u533a"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732389,
-    "wof:lastmodified":1536615657,
+    "wof:lastmodified":1554759565,
     "wof:name":"Hami",
     "wof:parent_id":85669753,
     "wof:placetype":"county",

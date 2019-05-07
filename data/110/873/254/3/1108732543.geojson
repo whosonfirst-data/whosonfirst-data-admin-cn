@@ -10,6 +10,12 @@
     "geom:latitude":31.63793,
     "geom:longitude":118.363221,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Ma'anshan City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":31.720819,
     "lbl:longitude":118.288327,
     "meso:adm1_loc":"\u5b89\u5fbd\u7701",
@@ -40,6 +46,9 @@
         "Ma'anshan"
     ],
     "name:und_x_variant":[
+        "\u9a6c\u978d\u5c71\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u9a6c\u978d\u5c71\u5e02"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732543,
-    "wof:lastmodified":1536615664,
+    "wof:lastmodified":1554759576,
     "wof:name":"Ma'anshan",
     "wof:parent_id":85669739,
     "wof:placetype":"county",

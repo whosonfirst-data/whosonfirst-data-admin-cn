@@ -10,6 +10,12 @@
     "geom:latitude":32.741379,
     "geom:longitude":89.261605,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Naqu Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":32.459168,
     "lbl:longitude":88.361751,
     "meso:adm1_loc":"\u897f\u85cf\u81ea\u6cbb\u533a",
@@ -117,6 +123,9 @@
     "name:vie_x_preferred":[
         "Nagqu"
     ],
+    "name:zho_x_preferred":[
+        "\u90a3\u66f2\u5730\u533a"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -155,7 +164,7 @@
         }
     ],
     "wof:id":1108732507,
-    "wof:lastmodified":1536615661,
+    "wof:lastmodified":1554759573,
     "wof:name":"Naqu",
     "wof:parent_id":85669747,
     "wof:placetype":"county",

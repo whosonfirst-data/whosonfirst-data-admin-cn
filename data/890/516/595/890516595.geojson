@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Hengshui City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":37.70965,
     "lbl:longitude":115.776903,
     "meso:adm1_loc":"\u6cb3\u5317\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Hengshui"
-    ],
-    "name:und_x_variant":[
-        "\u8861\u6c34\u5e02"
     ],
     "name:unk_x_variant":[
         "Hengshui Diqu"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890516595,
-    "wof:lastmodified":1536617506,
+    "wof:lastmodified":1554759523,
     "wof:name":"Hengshui",
     "wof:parent_id":85669797,
     "wof:placetype":"county",

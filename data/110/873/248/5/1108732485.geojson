@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.309659,
-    "geom:area_square_m":3261543426.313936,
+    "geom:area_square_m":3261543426.314074,
     "geom:bbox":"109.943766678,31.2971013662,110.972507162,31.862576409",
     "geom:latitude":31.591601,
     "geom:longitude":110.474882,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Shennongjia"
+    ],
     "lbl:latitude":31.585619,
     "lbl:longitude":110.432066,
     "meso:adm1_loc":"\u6e56\u5317\u7701",
@@ -111,6 +114,9 @@
     "name:yue_x_preferred":[
         "\u795e\u8fb2\u67b6"
     ],
+    "name:zho_x_preferred":[
+        "\u795e\u519c\u67b6\u6797\u533a"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1108732485,
-    "wof:lastmodified":1513939763,
+    "wof:lastmodified":1555220447,
     "wof:name":"Hubei",
     "wof:parent_id":85669777,
     "wof:placetype":"county",

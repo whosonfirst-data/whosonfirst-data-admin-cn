@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Dingxi Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":35.154258,
     "lbl:longitude":104.344661,
     "meso:adm1_loc":"\u7518\u8083\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Dingxi"
-    ],
-    "name:und_x_variant":[
-        "\u5b9a\u897f\u5e02"
     ],
     "name:unk_x_variant":[
         "Ting-hsi Chuan-ch\u2019\u00fc"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890516337,
-    "wof:lastmodified":1536617500,
+    "wof:lastmodified":1554759519,
     "wof:name":"Dingxi",
     "wof:parent_id":85669711,
     "wof:placetype":"county",

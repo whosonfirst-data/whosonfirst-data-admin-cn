@@ -10,6 +10,12 @@
     "geom:latitude":45.641887,
     "geom:longitude":84.790025,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Tacheng Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":45.944026,
     "lbl:longitude":83.802737,
     "meso:adm1_loc":"\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a",
@@ -40,6 +46,9 @@
         "Tacheng"
     ],
     "name:und_x_variant":[
+        "\u5854\u57ce\u5730\u533a"
+    ],
+    "name:zho_x_preferred":[
         "\u5854\u57ce\u5730\u533a"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732397,
-    "wof:lastmodified":1536615657,
+    "wof:lastmodified":1554759568,
     "wof:name":"Tacheng",
     "wof:parent_id":85669753,
     "wof:placetype":"county",

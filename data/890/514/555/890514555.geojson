@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Lincang Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":23.767483,
     "lbl:longitude":99.673915,
     "meso:adm1_loc":"\u4e91\u5357\u7701",
@@ -42,9 +48,6 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Lincang"
-    ],
-    "name:und_x_variant":[
-        "\u4e34\u6ca7\u5e02"
     ],
     "name:unk_x_variant":[
         "Lin-ts\u2019ang Ti-ch\u2019\u00fc"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890514555,
-    "wof:lastmodified":1536617489,
+    "wof:lastmodified":1554759506,
     "wof:name":"Lincang",
     "wof:parent_id":85669791,
     "wof:placetype":"county",

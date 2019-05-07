@@ -10,6 +10,12 @@
     "geom:latitude":24.642603,
     "geom:longitude":107.841643,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Hechi Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":24.484488,
     "lbl:longitude":107.841694,
     "meso:adm1_loc":"\u5e7f\u897f\u7701",
@@ -40,6 +46,9 @@
         "Hechi"
     ],
     "name:und_x_variant":[
+        "\u6cb3\u6c60\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u6cb3\u6c60\u5e02"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732453,
-    "wof:lastmodified":1536615660,
+    "wof:lastmodified":1554759570,
     "wof:name":"Hechi",
     "wof:parent_id":85669717,
     "wof:placetype":"county",

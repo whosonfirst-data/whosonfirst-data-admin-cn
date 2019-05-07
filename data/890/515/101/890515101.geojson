@@ -11,6 +11,12 @@
     "geom:longitude":108.926989,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Ankang City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":32.625942,
     "lbl:longitude":108.837012,
     "meso:adm1_loc":"\u9655\u897f\u7701",
@@ -41,6 +47,9 @@
         "Ankang"
     ],
     "name:und_x_variant":[
+        "\u5b89\u5eb7\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u5b89\u5eb7\u5e02"
     ],
     "qs:name":"\u5b89\u5eb7\u5e02",
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":890515101,
-    "wof:lastmodified":1536617493,
+    "wof:lastmodified":1554759511,
     "wof:name":"Ankang",
     "wof:parent_id":85669769,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":42.810474,
     "geom:longitude":125.305831,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Liaoyuan City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":42.794739,
     "lbl:longitude":125.345936,
     "meso:adm1_loc":"\u5409\u6797\u7701",
@@ -40,6 +46,9 @@
         "Liaoyuan"
     ],
     "name:und_x_variant":[
+        "\u8fbd\u6e90\u5e02"
+    ],
+    "name:zho_x_preferred":[
         "\u8fbd\u6e90\u5e02"
     ],
     "src:geom":"meso",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1108732503,
-    "wof:lastmodified":1536615661,
+    "wof:lastmodified":1554759571,
     "wof:name":"Liaoyuan",
     "wof:parent_id":85669843,
     "wof:placetype":"county",
