@@ -16,9 +16,6 @@
     "mps:longitude":113.620605,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6c99\u7530\u9547"
-    ],
     "name:eng_x_preferred":[
         "Shatian"
     ],
@@ -30,6 +27,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6c99\u7530"
+    ],
+    "name:zho_x_variant":[
+        "\u6c99\u7530\u9547"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":102027799,
-    "wof:lastmodified":1559680786,
+    "wof:lastmodified":1561752062,
     "wof:name":"Shatian",
     "wof:parent_id":890516401,
     "wof:placetype":"locality",

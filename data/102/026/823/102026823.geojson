@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015307,
-    "geom:area_square_m":136635583.380915,
+    "geom:area_square_m":136635583.380863,
     "geom:bbox":"87.1696494762,43.3521298187,88.3259365419,43.9187692237",
     "geom:latitude":43.786977,
     "geom:longitude":87.57919,
@@ -26,23 +26,14 @@
     "name:afr_x_preferred":[
         "\u00dcr\u00fcmqi"
     ],
-    "name:alb_x_preferred":[
-        "Urumqi"
-    ],
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631\u0648\u0645\u062a\u0634\u064a"
-    ],
-    "name:arm_x_preferred":[
-        "\u0548\u0582\u0580\u0578\u0582\u0574\u0579\u056b"
     ],
     "name:azb_x_preferred":[
         "\u0627\u0648\u0631\u0648\u0645\u0686\u06cc"
     ],
     "name:aze_x_preferred":[
         "Urum\u00e7i"
-    ],
-    "name:baq_x_preferred":[
-        "\u00dcr\u00fcmqi"
     ],
     "name:bel_x_preferred":[
         "\u0423\u0440\u0443\u043c\u0447\u044b"
@@ -74,14 +65,11 @@
     "name:che_x_preferred":[
         "\u0423\u0440\u0443\u043c\u0447\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u4e4c\u9c81\u6728\u9f50"
-    ],
     "name:chv_x_preferred":[
         "\u0423\u0440\u0443\u043c\u0447\u0438"
     ],
-    "name:cze_x_preferred":[
-        "Urum\u010di"
+    "name:cym_x_preferred":[
+        "\u00dcr\u00fcmqi"
     ],
     "name:dan_x_preferred":[
         "\u00dcr\u00fcmqi"
@@ -89,11 +77,11 @@
     "name:deu_x_preferred":[
         "\u00dcr\u00fcmqi"
     ],
-    "name:dut_x_preferred":[
-        "\u00dcr\u00fcmqi"
-    ],
     "name:ell_x_preferred":[
         "\u039f\u03c5\u03c1\u03bf\u03cd\u03bc\u03c4\u03c3\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039f\u03c5\u03c1\u03bf\u03cd\u03bc\u03ba\u03b9"
     ],
     "name:eng_x_colloquial":[
         ""
@@ -131,6 +119,9 @@
     "name:est_x_preferred":[
         "\u00dcr\u00fcmqi"
     ],
+    "name:eus_x_preferred":[
+        "\u00dcr\u00fcmqi"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0631\u0648\u0645\u0686\u06cc"
     ],
@@ -140,23 +131,11 @@
     "name:fra_x_preferred":[
         "\u00dcr\u00fcmqi"
     ],
-    "name:fre_x_preferred":[
-        "\u00dcr\u00fcmqi"
-    ],
     "name:fry_x_preferred":[
-        "\u00dcr\u00fcmqi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10e0\u10e3\u10db\u10e9\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "\u00dcr\u00fcmqi"
     ],
     "name:gle_x_preferred":[
         "\u00dcr\u00fcmqi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03c1\u03bf\u03cd\u03bc\u03ba\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0ab0\u0ac1\u0aae\u0acd\u0a95\u0ac0"
@@ -179,11 +158,11 @@
     "name:hye_x_preferred":[
         "\u0548\u0582\u0580\u0578\u0582\u0574\u0579\u056b"
     ],
-    "name:ice_x_preferred":[
-        "\u00dcr\u00fcmqi"
-    ],
     "name:ind_x_preferred":[
         "Urumqi"
+    ],
+    "name:isl_x_preferred":[
+        "\u00dcr\u00fcmqi"
     ],
     "name:ita_x_preferred":[
         "\u00dcr\u00fcmqi"
@@ -196,6 +175,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0caf\u0cc1\u0cb0\u0cc1\u200d\u0cae\u0ccd\u200c\u0c9a\u0cbf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10e0\u10e3\u10db\u10e9\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u04ae\u0440\u0456\u043c\u0436\u0456"
@@ -227,20 +209,20 @@
     "name:lzh_x_preferred":[
         "\u70cf\u9b6f\u6728\u9f4a\u5e02"
     ],
-    "name:mac_x_preferred":[
-        "\u0423\u0440\u0443\u043c\u0447\u0438"
-    ],
     "name:mar_x_preferred":[
         "\u0909\u0930\u0941\u092e\u094d\u091b\u0940"
     ],
-    "name:may_x_preferred":[
-        "\u00dcr\u00fcmqi"
+    "name:mkd_x_preferred":[
+        "\u0423\u0440\u0443\u043c\u0447\u0438"
     ],
     "name:mlg_x_preferred":[
         "\u00dcr\u00fcmqi"
     ],
     "name:mon_x_preferred":[
         "\u04e8\u0440\u04e9\u043c\u0447 \u0445\u043e\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "\u00dcr\u00fcmqi"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0648\u0631\u0648\u0645\u0686\u06cc"
@@ -269,9 +251,6 @@
     "name:pan_x_preferred":[
         "\u0a09\u0a30\u0a42\u0a2e\u0a15\u0a40"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0631\u0648\u0645\u0686\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u0627\u0631\u0648\u0645\u0686\u06cc"
     ],
@@ -285,9 +264,6 @@
         "Urumqi"
     ],
     "name:ron_x_variant":[
-        "\u00dcr\u00fcmqi"
-    ],
-    "name:rum_x_preferred":[
         "\u00dcr\u00fcmqi"
     ],
     "name:rus_x_preferred":[
@@ -308,14 +284,14 @@
     "name:slk_x_preferred":[
         "Urum\u010di"
     ],
-    "name:slo_x_preferred":[
-        "Urum\u010di"
-    ],
     "name:slv_x_preferred":[
         "Urum\u010di"
     ],
     "name:spa_x_preferred":[
         "\u00dcr\u00fcmqi"
+    ],
+    "name:sqi_x_preferred":[
+        "Urumqi"
     ],
     "name:srp_x_preferred":[
         "\u0423\u0440\u0443\u043c\u045b\u0438"
@@ -343,9 +319,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e38\u0e23\u0e38\u0e21\u0e0a\u0e35"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f68\u0f74\u0f0b\u0f62\u0f74\u0f58\u0f0b\u0f46\u0f72\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Urum\u00e7i"
@@ -378,9 +351,6 @@
         "\u00dcr\u00fcmqi"
     ],
     "name:war_x_preferred":[
-        "\u00dcr\u00fcmqi"
-    ],
-    "name:wel_x_preferred":[
         "\u00dcr\u00fcmqi"
     ],
     "name:wuu_x_preferred":[
@@ -545,7 +515,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1513940584,
+    "wof:lastmodified":1561752083,
     "wof:megacity":1,
     "wof:name":"Urunchi",
     "wof:parent_id":890516251,

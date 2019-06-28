@@ -19,35 +19,32 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u0633"
     ],
-    "name:baq_x_preferred":[
-        "Baise"
-    ],
     "name:cdo_x_preferred":[
         "B\u00e1h-s\u00e1ik"
     ],
-    "name:chi_x_preferred":[
-        "\u767e\u8272\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Paj-se"
     ],
     "name:dan_x_preferred":[
         "Baise"
     ],
-    "name:dut_x_preferred":[
-        "Baise"
+    "name:deu_x_preferred":[
+        "Bose"
     ],
     "name:eng_x_preferred":[
         "Baise City"
     ],
+    "name:eus_x_preferred":[
+        "Baise"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06cc\u0633\u0647"
+    ],
     "name:fin_x_preferred":[
         "Baise"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Baise"
-    ],
-    "name:ger_x_preferred":[
-        "Bose"
     ],
     "name:hak_x_preferred":[
         "Pak-set-s\u1e73"
@@ -70,6 +67,9 @@
     "name:nan_x_preferred":[
         "Pek-sek-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Baise"
+    ],
     "name:nno_x_preferred":[
         "Baise i Guangxi"
     ],
@@ -78,9 +78,6 @@
     ],
     "name:pam_x_preferred":[
         "Baise Lakanbalen"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u06cc\u0633\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0627\u0626\u06cc\u0633\u06d2"
@@ -132,7 +129,8 @@
         "\u767e\u57ce",
         "\u767e\u57ce\u8857\u9053",
         "\u767e\u8272\u9547",
-        "\u767e\u8272"
+        "\u767e\u8272",
+        "\u767e\u8272\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -261,7 +259,7 @@
         }
     ],
     "wof:id":890512921,
-    "wof:lastmodified":1527793098,
+    "wof:lastmodified":1561753708,
     "wof:name":"Baicheng",
     "wof:parent_id":890516485,
     "wof:placetype":"locality",

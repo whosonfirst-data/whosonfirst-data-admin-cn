@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003121,
-    "geom:area_square_m":35909474.412378,
+    "geom:area_square_m":35909474.412324,
     "geom:bbox":"109.090083058,21.4389255746,109.153324103,21.4978825331",
     "geom:latitude":21.468473,
     "geom:longitude":109.11905,
@@ -24,12 +24,6 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0647\u0627\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u0575\u0570\u0561\u0575"
-    ],
-    "name:baq_x_preferred":[
-        "Beihai"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u0987\u09b9\u09be\u0987"
     ],
@@ -42,17 +36,17 @@
     "name:cdo_x_preferred":[
         "B\u00e1e\u0324k-h\u0101i"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u6d77\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Pej-chaj"
     ],
     "name:dan_x_preferred":[
         "Beihai"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Beihai"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03ca\u03c7\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Beihai"
@@ -60,17 +54,17 @@
     "name:epo_x_preferred":[
         "Beihai"
     ],
+    "name:eus_x_preferred":[
+        "Beihai"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0647\u0627\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Beihai"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Beihai"
-    ],
-    "name:ger_x_preferred":[
-        "Beihai"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b5\u03ca\u03c7\u03ac\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abf\u0ab9\u0abe\u0a87"
@@ -83,6 +77,9 @@
     ],
     "name:hun_x_preferred":[
         "Pejhaj"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0575\u0570\u0561\u0575"
     ],
     "name:ind_x_preferred":[
         "Beihai"
@@ -114,29 +111,29 @@
     "name:lzh_x_preferred":[
         "\u5317\u6d77\u5e02"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0435\u0458\u0445\u0430\u0458"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u0947\u0907\u0939\u093e\u0908"
     ],
-    "name:may_x_preferred":[
-        "Beihai"
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u0458\u0445\u0430\u0458"
     ],
     "name:mlg_x_preferred":[
         "Beihai"
     ],
+    "name:msa_x_preferred":[
+        "Beihai"
+    ],
     "name:nan_x_preferred":[
         "Pak-h\u00e1i-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Beihai"
     ],
     "name:nno_x_preferred":[
         "Beihai i Guangxi"
     ],
     "name:nob_x_preferred":[
         "Beihai"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u0647\u0627\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u06cc\u0626\u06cc\u06c1\u0627\u0626\u06cc"
@@ -201,6 +198,9 @@
     "name:zha_x_preferred":[
         "Baekhaij"
     ],
+    "name:zho_x_preferred":[
+        "\u5317\u6d77\u5e02"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"China",
@@ -241,7 +241,7 @@
         }
     ],
     "wof:id":102028103,
-    "wof:lastmodified":1527637783,
+    "wof:lastmodified":1561752080,
     "wof:name":"Beihai",
     "wof:parent_id":890516487,
     "wof:placetype":"locality",

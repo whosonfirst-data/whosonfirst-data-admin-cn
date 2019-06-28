@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003288,
-    "geom:area_square_m":35436814.467778,
+    "geom:area_square_m":35436814.467754,
     "geom:bbox":"104.716875116,29.2917454672,104.814380728,29.3768396858",
     "geom:latitude":29.339841,
     "geom:longitude":104.768364,
@@ -23,9 +23,6 @@
     "name:ara_x_preferred":[
         "\u0632\u064a\u062c\u0648\u0646\u062c"
     ],
-    "name:baq_x_preferred":[
-        "Zigong"
-    ],
     "name:ben_x_preferred":[
         "\u099c\u09bf\u0997\u09c1\u0982"
     ],
@@ -42,12 +39,7 @@
         "C'-kung"
     ],
     "name:ces_x_variant":[
-        "C-kung"
-    ],
-    "name:chi_x_preferred":[
-        "\u81ea\u8d21\u5e02"
-    ],
-    "name:cze_x_preferred":[
+        "C-kung",
         "C\u2019-kung"
     ],
     "name:dan_x_preferred":[
@@ -56,8 +48,8 @@
     "name:deu_x_preferred":[
         "Zigong"
     ],
-    "name:dut_x_preferred":[
-        "Zigong"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03af\u03b3\u03ba\u03bf\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_colloquial":[
         ""
@@ -82,15 +74,6 @@
     ],
     "name:fra_x_preferred":[
         "Zigong"
-    ],
-    "name:fre_x_preferred":[
-        "Zigong"
-    ],
-    "name:ger_x_preferred":[
-        "Zigong"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03af\u03b3\u03ba\u03bf\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abf\u0a97\u0acb\u0aa8\u0acd\u0a97"
@@ -128,7 +111,7 @@
     "name:mar_x_preferred":[
         "\u091d\u093f\u0917\u0949\u0928\u094d\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Zigong"
     ],
     "name:nan_x_preferred":[
@@ -148,9 +131,6 @@
     ],
     "name:oci_x_preferred":[
         "Zigong"
-    ],
-    "name:per_x_preferred":[
-        "\u0632\u06cc\u06af\u0627\u0646\u06af"
     ],
     "name:pol_x_preferred":[
         "Zigong"
@@ -364,7 +344,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1527637807,
+    "wof:lastmodified":1561752082,
     "wof:megacity":1,
     "wof:name":"Zigong",
     "wof:parent_id":890515847,

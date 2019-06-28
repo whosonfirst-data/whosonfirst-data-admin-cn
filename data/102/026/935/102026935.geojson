@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001623,
-    "geom:area_square_m":16371732.803995,
+    "geom:area_square_m":16371732.803986,
     "geom:bbox":"110.681709396,35.0344720075,111.220085326,35.6082686128",
     "geom:latitude":35.350569,
     "geom:longitude":110.9107,
@@ -25,9 +25,6 @@
     "name:ara_x_preferred":[
         "\u064a\u0648\u0646\u062a\u0634\u0646\u063a"
     ],
-    "name:baq_x_preferred":[
-        "Yuncheng"
-    ],
     "name:bel_x_preferred":[
         "\u042e\u043d\u044c\u0447\u044d\u043d"
     ],
@@ -43,19 +40,19 @@
     "name:ces_x_preferred":[
         "J\u00fcn-\u010dcheng"
     ],
-    "name:chi_x_preferred":[
-        "\u8fd0\u57ce\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "J\u00fcn-\u010dcheng"
-    ],
     "name:dan_x_preferred":[
         "Yuncheng"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Yuncheng"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03bf\u03cd\u03bd\u03c4\u03c3\u03b5\u03bd\u03b3\u03ba"
+    ],
     "name:eng_x_preferred":[
+        "Yuncheng"
+    ],
+    "name:eus_x_preferred":[
         "Yuncheng"
     ],
     "name:fas_x_preferred":[
@@ -64,14 +61,8 @@
     "name:fin_x_preferred":[
         "Yuncheng"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Yuncheng"
-    ],
-    "name:ger_x_preferred":[
-        "Yuncheng"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03bf\u03cd\u03bd\u03c4\u03c3\u03b5\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aaf\u0ac2\u0aa8\u0a9a\u0ac7\u0a82\u0a97"
@@ -103,20 +94,23 @@
     "name:lit_x_preferred":[
         "Ju\u010dengas"
     ],
-    "name:mac_x_preferred":[
-        "\u0408\u0443\u043d\u0447\u0435\u043d\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u092f\u0941\u0928\u091a\u0947\u0902\u0917"
     ],
-    "name:may_x_preferred":[
-        "Yuncheng"
+    "name:mkd_x_preferred":[
+        "\u0408\u0443\u043d\u0447\u0435\u043d\u0433"
     ],
     "name:mlg_x_preferred":[
         "Yuncheng"
     ],
+    "name:msa_x_preferred":[
+        "Yuncheng"
+    ],
     "name:nan_x_preferred":[
         "\u016an-si\u00e2\u207f-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Yuncheng"
     ],
     "name:nno_x_preferred":[
         "Yuncheng"
@@ -126,9 +120,6 @@
     ],
     "name:oci_x_preferred":[
         "Yuncheng"
-    ],
-    "name:per_x_preferred":[
-        "\u06cc\u0627\u0646\u06af\u0686\u0646\u06af"
     ],
     "name:pol_x_preferred":[
         "Yuncheng"
@@ -181,6 +172,9 @@
     "name:yue_x_preferred":[
         "\u904b\u57ce"
     ],
+    "name:zho_x_preferred":[
+        "\u8fd0\u57ce\u5e02"
+    ],
     "qs:a0":"\u4e2d\u570b",
     "qs:a1":"*\u5c71\u897f\u7701",
     "qs:a1r":"*",
@@ -229,7 +223,7 @@
         }
     ],
     "wof:id":102026935,
-    "wof:lastmodified":1527637810,
+    "wof:lastmodified":1561752083,
     "wof:name":"Yuncheng",
     "wof:parent_id":890514745,
     "wof:placetype":"locality",

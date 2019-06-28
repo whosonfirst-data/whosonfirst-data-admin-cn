@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000223,
-    "geom:area_square_m":2612457.063022,
+    "geom:area_square_m":2612457.06302,
     "geom:bbox":"109.588623047,18.2774710843,109.603574983,18.2957696151",
     "geom:latitude":18.286861,
     "geom:longitude":109.595481,
@@ -19,44 +19,44 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u064a\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Sanya"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u043d\u044c\u044f"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09bf\u09af\u09bc\u09be"
     ],
+    "name:bod_x_preferred":[
+        "\u0f66\u0f53\u0f0b\u0f61\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0d"
+    ],
     "name:cdo_x_preferred":[
         "S\u0103ng-\u0101"
     ],
-    "name:chi_x_preferred":[
-        "\u4e09\u4e9e\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "San-ja"
     ],
     "name:dan_x_preferred":[
         "Sanya"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sanya"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Sanya"
     ],
+    "name:eus_x_preferred":[
+        "Sanya"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u06cc\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Sanya"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sanya"
-    ],
-    "name:ger_x_preferred":[
-        "Sanya"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03bd\u03b3\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0a82\u0aaf\u0abe"
@@ -64,10 +64,10 @@
     "name:hin_x_preferred":[
         "\u0938\u093e\u0928\u094d\u092f\u093e"
     ],
-    "name:ice_x_preferred":[
+    "name:ind_x_preferred":[
         "Sanya"
     ],
-    "name:ind_x_preferred":[
+    "name:isl_x_preferred":[
         "Sanya"
     ],
     "name:ita_x_preferred":[
@@ -91,20 +91,23 @@
     "name:lit_x_preferred":[
         "Sanja"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u043d\u0458\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u0902\u092f\u093e"
     ],
-    "name:may_x_preferred":[
-        "Sanya"
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043d\u0458\u0430"
     ],
     "name:mlg_x_preferred":[
         "Sanya"
     ],
+    "name:msa_x_preferred":[
+        "Sanya"
+    ],
     "name:nan_x_preferred":[
         "Sam-a-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Sanya"
     ],
     "name:nob_x_preferred":[
         "Sanya"
@@ -112,16 +115,13 @@
     "name:pam_x_preferred":[
         "Sanya"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u06cc\u0646\u0627"
-    ],
     "name:pol_x_preferred":[
         "Sanya"
     ],
     "name:por_x_preferred":[
         "Sanya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sanya"
     ],
     "name:rus_x_preferred":[
@@ -150,9 +150,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e19\u0e22\u0e48\u0e32"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f66\u0f53\u0f0b\u0f61\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0d"
     ],
     "name:tur_x_preferred":[
         "Sanya"
@@ -231,7 +228,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1513940337,
+    "wof:lastmodified":1561752080,
     "wof:name":"Sanya Shi",
     "wof:parent_id":1108732333,
     "wof:placetype":"locality",

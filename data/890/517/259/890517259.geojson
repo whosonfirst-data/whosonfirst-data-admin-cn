@@ -24,14 +24,11 @@
     "name:bod_x_preferred":[
         "\u0f51\u0f62\u0f0b\u0f58\u0f51\u0f7c\u0f0d"
     ],
-    "name:chi_x_preferred":[
-        "\u7089\u57ce\u9547"
-    ],
     "name:dan_x_preferred":[
         "Lucheng"
     ],
-    "name:dut_x_preferred":[
-        "Kangding"
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03cd\u03c4\u03c3\u03b5\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Kangding"
@@ -42,11 +39,8 @@
     "name:fra_x_preferred":[
         "Kangding"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Lucheng Kangding"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03cd\u03c4\u03c3\u03b5\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac1\u0a9a\u0ac7\u0aa8\u0acd\u0a97"
@@ -78,8 +72,11 @@
     "name:mar_x_preferred":[
         "\u0932\u094d\u092f\u0942\u091a\u0947\u0902\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lucheng"
+    ],
+    "name:nld_x_preferred":[
+        "Kangding"
     ],
     "name:nob_x_preferred":[
         "Lucheng"
@@ -126,6 +123,9 @@
     "name:vie_x_preferred":[
         "L\u00f4 Th\u00e0nh"
     ],
+    "name:zho_x_preferred":[
+        "\u7089\u57ce\u9547"
+    ],
     "qs:name":"Kangding",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -161,7 +161,7 @@
         }
     ],
     "wof:id":890517259,
-    "wof:lastmodified":1553816434,
+    "wof:lastmodified":1561753683,
     "wof:name":"Kangding",
     "wof:parent_id":890514703,
     "wof:placetype":"locality",

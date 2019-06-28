@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002675,
-    "geom:area_square_m":28652745.109302,
+    "geom:area_square_m":28652745.109292,
     "geom:bbox":"122.18506753,29.941150945,122.329394911,30.0067833504",
     "geom:latitude":29.975606,
     "geom:longitude":122.254711,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0632\u0647\u0648\u0634\u0627\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Zhoushan"
-    ],
     "name:ben_x_preferred":[
         "\u099d\u09c1\u0993\u09b8\u09be\u09a8"
     ],
@@ -35,20 +32,14 @@
     "name:ces_x_preferred":[
         "\u010cou-\u0161an"
     ],
-    "name:chi_x_preferred":[
-        "\u821f\u5c71\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "\u010cou-\u0161an"
-    ],
     "name:dan_x_preferred":[
         "Zhoushan"
     ],
     "name:deu_x_preferred":[
         "Zhoushan"
     ],
-    "name:dut_x_preferred":[
-        "Zhoushan"
+    "name:ell_x_preferred":[
+        "\u0396\u03bf\u03cd\u03c3\u03b1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Zhoushan"
@@ -67,15 +58,6 @@
     ],
     "name:fra_x_preferred":[
         "Zhoushan"
-    ],
-    "name:fre_x_preferred":[
-        "Zhoushan"
-    ],
-    "name:ger_x_preferred":[
-        "Zhoushan"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03bf\u03cd\u03c3\u03b1\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0acc\u0ab6\u0abe\u0aa8"
@@ -110,16 +92,16 @@
     "name:lzh_x_preferred":[
         "\u821f\u5c71\u5e02"
     ],
-    "name:mac_x_preferred":[
-        "\u040f\u043e\u0443\u0448\u0430\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u091d\u094b\u090a\u0936\u093e\u0928"
     ],
-    "name:may_x_preferred":[
-        "Zhoushan"
+    "name:mkd_x_preferred":[
+        "\u040f\u043e\u0443\u0448\u0430\u043d"
     ],
     "name:mlg_x_preferred":[
+        "Zhoushan"
+    ],
+    "name:msa_x_preferred":[
         "Zhoushan"
     ],
     "name:nan_x_preferred":[
@@ -139,9 +121,6 @@
     ],
     "name:oci_x_preferred":[
         "Zhoushan"
-    ],
-    "name:per_x_preferred":[
-        "\u062c\u0648\u0627\u0634\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "Zhoushan"
@@ -204,7 +183,6 @@
         "\u821f\u5c71\u5e02"
     ],
     "name:zho_x_variant":[
-        "\u821f\u5c71\u5e02",
         "\u821f\u5c71"
     ],
     "name:zho_yue_x_preferred":[
@@ -264,7 +242,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1527637566,
+    "wof:lastmodified":1561752071,
     "wof:name":"Zhoushan",
     "wof:parent_id":890513083,
     "wof:placetype":"locality",

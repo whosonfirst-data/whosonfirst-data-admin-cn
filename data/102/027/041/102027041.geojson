@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028423,
-    "geom:area_square_m":290517933.058103,
+    "geom:area_square_m":290517933.058093,
     "geom:bbox":"108.726336684,34.1391680662,109.066639046,34.3751231671",
     "geom:latitude":34.246804,
     "geom:longitude":108.936976,
@@ -24,14 +24,8 @@
     "name:afr_x_preferred":[
         "Xi'an"
     ],
-    "name:alb_x_preferred":[
-        "Sian"
-    ],
     "name:ara_x_preferred":[
         "\u0634\u064a\u0627\u0646"
-    ],
-    "name:arm_x_preferred":[
-        "\u054d\u056b\u0561\u0576"
     ],
     "name:aze_x_preferred":[
         "Sian"
@@ -42,14 +36,14 @@
     "name:bam_x_preferred":[
         "Xi'an"
     ],
-    "name:baq_x_preferred":[
-        "Xi'an"
-    ],
     "name:bel_x_preferred":[
         "\u0421\u0456\u044f\u043d\u044c"
     ],
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09af\u09bc\u09be\u09a8"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f64\u0f7a\u0f0b\u0f68\u0f53\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Xi'an"
@@ -60,9 +54,6 @@
     "name:bul_x_preferred":[
         "\u0421\u0438\u0430\u043d"
     ],
-    "name:bur_x_preferred":[
-        "\u101b\u103e\u102e\u1038\u1021\u1014\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:bxr_x_preferred":[
         "\u0421\u0438\u0430\u043d\u044c"
     ],
@@ -72,17 +63,17 @@
     "name:cdo_x_preferred":[
         "S\u0103\u0324-\u0103ng"
     ],
+    "name:ces_x_preferred":[
+        "Si-an"
+    ],
     "name:che_x_preferred":[
         "\u0421\u0438\u0430\u043d\u044c"
-    ],
-    "name:chi_x_preferred":[
-        "\u897f\u5b89\u5e02"
     ],
     "name:chy_x_preferred":[
         "Xi'an"
     ],
-    "name:cze_x_preferred":[
-        "Si-an"
+    "name:cym_x_preferred":[
+        "Xi'an"
     ],
     "name:dan_x_preferred":[
         "Xian"
@@ -93,8 +84,8 @@
     "name:deu_x_variant":[
         "Xi\u2019an"
     ],
-    "name:dut_x_preferred":[
-        "Xi'an"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03ac\u03bd"
     ],
     "name:eng_x_colloquial":[
         "",
@@ -118,29 +109,20 @@
     "name:ext_x_preferred":[
         "Xi'an"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u200c\u0622\u0646"
+    ],
     "name:fin_x_preferred":[
         "Xi'an"
     ],
     "name:fra_x_preferred":[
         "Xi'an"
     ],
-    "name:fre_x_preferred":[
-        "Xi'an"
-    ],
     "name:gan_x_preferred":[
         "\u897f\u5b89"
     ],
-    "name:geo_x_preferred":[
-        "\u10e5\u10e1\u10d8\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Xi\u2019an"
-    ],
     "name:glg_x_preferred":[
         "Xi'an - \u897f\u5b89"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03ac\u03bd"
     ],
     "name:gsw_x_preferred":[
         "Xi'an"
@@ -163,11 +145,14 @@
     "name:hun_x_preferred":[
         "Hszian"
     ],
-    "name:ice_x_preferred":[
-        "Xi'an"
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Xian"
+    ],
+    "name:isl_x_preferred":[
+        "Xi'an"
     ],
     "name:ita_x_preferred":[
         "Xi'an"
@@ -180,6 +165,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0cb8\u0cbf\u0caf\u0cbe\u0ca8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10e1\u10d8\u10d0\u10dc\u10d8"
     ],
     "name:kik_x_preferred":[
         "Xi'an"
@@ -202,26 +190,29 @@
     "name:lzh_x_preferred":[
         "\u897f\u5b89"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0438\u0430\u043d"
-    ],
     "name:mal_x_preferred":[
         "\u0d38\u0d3f\u0d2f\u0d3e\u0d7b"
-    ],
-    "name:mao_x_preferred":[
-        "Xi'an"
     ],
     "name:mar_x_preferred":[
         "\u0936\u0940\u0906\u0928"
     ],
-    "name:may_x_preferred":[
-        "Xi'an"
+    "name:mkd_x_preferred":[
+        "\u0421\u0438\u0430\u043d"
     ],
     "name:mlg_x_preferred":[
         "Xi'an"
     ],
     "name:mon_x_preferred":[
         "\u0428\u0438\u0430\u043d\u044c"
+    ],
+    "name:mri_x_preferred":[
+        "Xi'an"
+    ],
+    "name:msa_x_preferred":[
+        "Xi'an"
+    ],
+    "name:mya_x_preferred":[
+        "\u101b\u103e\u102e\u1038\u1021\u1014\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nah_x_preferred":[
         "Xi'an"
@@ -253,9 +244,6 @@
     "name:pan_x_preferred":[
         "\u0a1c\u0a3c\u0a40\u0a06\u0a28"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u06cc\u200c\u0622\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u0633\u06cc\u0627\u0646"
     ],
@@ -274,7 +262,7 @@
     "name:ron_x_preferred":[
         "X\u012b'\u0101n"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Xi'an"
     ],
     "name:rus_x_preferred":[
@@ -286,7 +274,7 @@
     "name:sin_x_preferred":[
         "\u0dc2\u0dd2\u0dba\u0dd1\u0db1\u0dca \u0db1\u0d9c\u0dbb\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Si-an"
     ],
     "name:slv_x_preferred":[
@@ -294,6 +282,9 @@
     ],
     "name:spa_x_preferred":[
         "Xi'an"
+    ],
+    "name:sqi_x_preferred":[
+        "Sian"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0438'\u0430\u043d"
@@ -312,9 +303,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e35\u0e2d\u0e32\u0e19"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f64\u0f7a\u0f0b\u0f68\u0f53\u0f0d"
     ],
     "name:tsn_x_preferred":[
         "Xi'an"
@@ -347,9 +335,6 @@
         "T\u00e2y An"
     ],
     "name:war_x_preferred":[
-        "Xi'an"
-    ],
-    "name:wel_x_preferred":[
         "Xi'an"
     ],
     "name:wuu_x_preferred":[
@@ -512,7 +497,7 @@
         }
     ],
     "wof:id":102027041,
-    "wof:lastmodified":1513940893,
+    "wof:lastmodified":1561752065,
     "wof:megacity":1,
     "wof:name":"Xi\u2019an",
     "wof:parent_id":890515687,

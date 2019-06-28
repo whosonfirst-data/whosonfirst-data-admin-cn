@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001851,
-    "geom:area_square_m":20969975.718445,
+    "geom:area_square_m":20969975.718437,
     "geom:bbox":"116.593586896,23.5197038486,116.657135114,23.6787142713",
     "geom:latitude":23.640092,
     "geom:longitude":116.624243,
@@ -27,12 +27,6 @@
     "name:ara_x_preferred":[
         "\u0634\u0627\u0648\u0632\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0549\u0561\u0578\u0579\u056a\u0578\u0578\u0582"
-    ],
-    "name:baq_x_preferred":[
-        "Chaozhou"
-    ],
     "name:ben_x_preferred":[
         "\u099a\u09be\u0993\u099c\u09b9\u09c1"
     ],
@@ -45,20 +39,14 @@
     "name:ces_x_preferred":[
         "\u010cchao-\u010dou"
     ],
-    "name:chi_x_preferred":[
-        "\u6f6e\u5dde\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "\u010cchao-\u010dou"
-    ],
     "name:dan_x_preferred":[
         "Chaozhou"
     ],
     "name:deu_x_preferred":[
         "Chaozhou"
     ],
-    "name:dut_x_preferred":[
-        "Chaozhou"
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03bf\u03c4\u03b6\u03cc\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Chaozhou"
@@ -81,15 +69,6 @@
     "name:fra_x_preferred":[
         "Chaozhou"
     ],
-    "name:fre_x_preferred":[
-        "Chaozhou"
-    ],
-    "name:ger_x_preferred":[
-        "Chaozhou"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03b1\u03bf\u03c4\u03b6\u03cc\u03bf\u03c5"
-    ],
     "name:guj_x_preferred":[
         "\u0a9a\u0abe\u0a93\u0a9d\u0ac2"
     ],
@@ -98,6 +77,9 @@
     ],
     "name:hin_x_preferred":[
         "\u091a\u093e\u092f\u094b\u091c\u093c\u0939\u094b\u0909"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0561\u0578\u0579\u056a\u0578\u0578\u0582"
     ],
     "name:ind_x_preferred":[
         "Chaozhou"
@@ -132,10 +114,10 @@
     "name:mar_x_preferred":[
         "\u091a\u093e\u0913\u091d\u0942"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Chaozhou"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Chaozhou"
     ],
     "name:nan_x_preferred":[
@@ -158,9 +140,6 @@
     ],
     "name:pam_x_preferred":[
         "Chaozhou"
-    ],
-    "name:per_x_preferred":[
-        "\u0686\u0627\u0648\u0698\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u0686\u0627\u0624\u0698\u0648\u0624"
@@ -387,7 +366,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1527637566,
+    "wof:lastmodified":1561752072,
     "wof:name":"Chaozhou",
     "wof:parent_id":890513033,
     "wof:placetype":"locality",

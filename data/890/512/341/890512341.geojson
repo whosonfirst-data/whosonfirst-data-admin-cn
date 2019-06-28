@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0646\u064a\u0627\u0646\u062c"
     ],
-    "name:baq_x_preferred":[
-        "Xinyang"
-    ],
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09a8\u0987\u09af\u09bc\u09be\u0982"
     ],
@@ -37,17 +34,17 @@
     "name:cdo_x_preferred":[
         "S\u00e9ng-i\u00f2ng"
     ],
-    "name:chi_x_preferred":[
-        "\u4fe1\u9633\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Sin-jang"
     ],
     "name:dan_x_preferred":[
         "Xinyang"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Xinyang"
+    ],
+    "name:ell_x_preferred":[
+        "\u039e\u03af\u03bd\u03b3\u03b9\u03b1\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Xinyang"
@@ -55,17 +52,17 @@
     "name:epo_x_preferred":[
         "Sinjan"
     ],
+    "name:eus_x_preferred":[
+        "Xinyang"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0646\u200c\u06cc\u0627\u0646\u06af"
+    ],
     "name:fin_x_preferred":[
         "Xinyang"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Xinyang"
-    ],
-    "name:ger_x_preferred":[
-        "Xinyang"
-    ],
-    "name:gre_x_preferred":[
-        "\u039e\u03af\u03bd\u03b3\u03b9\u03b1\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abf\u0aa8\u0aaf\u0abe\u0a82\u0a97"
@@ -100,14 +97,17 @@
     "name:mar_x_preferred":[
         "\u0938\u093f\u0928\u092f\u093e\u0902\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Xinyang"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Xinyang"
     ],
     "name:nan_x_preferred":[
         "S\u00ecn-i\u00f4ng-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Xinyang"
     ],
     "name:nno_x_preferred":[
         "Xinyang"
@@ -117,9 +117,6 @@
     ],
     "name:pam_x_preferred":[
         "Xinyang"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u06cc\u0646\u200c\u06cc\u0627\u0646\u06af"
     ],
     "name:pol_x_preferred":[
         "Xinyang"
@@ -180,6 +177,9 @@
     ],
     "name:yue_x_preferred":[
         "\u4fe1\u967d"
+    ],
+    "name:zho_x_preferred":[
+        "\u4fe1\u9633\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -308,7 +308,7 @@
         }
     ],
     "wof:id":890512341,
-    "wof:lastmodified":1527793092,
+    "wof:lastmodified":1561753705,
     "wof:name":"Xinyang",
     "wof:parent_id":890512239,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004259,
-    "geom:area_square_m":41232314.428264,
+    "geom:area_square_m":41232314.428231,
     "geom:bbox":"106.209850469,38.4230665179,106.30967901,38.5013040342",
     "geom:latitude":38.467213,
     "geom:longitude":106.26436,
@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0629 \u064a\u0646\u0634\u0648\u0627\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Yinchuan"
-    ],
     "name:ben_x_preferred":[
         "\u0987\u09a8\u099a\u09c1\u09af\u09bc\u09be\u09a8"
     ],
@@ -50,20 +47,14 @@
     "name:ces_x_preferred":[
         "Jin-\u010dchuan"
     ],
-    "name:chi_x_preferred":[
-        "\u9280\u5ddd\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Jin-\u010dchuan"
-    ],
     "name:dan_x_preferred":[
         "Yinchuan"
     ],
     "name:deu_x_preferred":[
         "Yinchuan"
     ],
-    "name:dut_x_preferred":[
-        "Yinchuan"
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03bd\u03c4\u03c3\u03bf\u03c5\u03ac\u03bd"
     ],
     "name:eng_x_colloquial":[
         ""
@@ -74,6 +65,9 @@
     "name:est_x_preferred":[
         "Yinchuan"
     ],
+    "name:eus_x_preferred":[
+        "Yinchuan"
+    ],
     "name:fas_x_preferred":[
         "\u06cc\u06cc\u0646\u0686\u0648\u0627\u0646"
     ],
@@ -82,15 +76,6 @@
     ],
     "name:fra_x_preferred":[
         "Yinchuan"
-    ],
-    "name:fre_x_preferred":[
-        "Yinchuan"
-    ],
-    "name:ger_x_preferred":[
-        "Yinchuan"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03bd\u03c4\u03c3\u03bf\u03c5\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aaf\u0abf\u0aa8\u0a9a\u0ac1\u0a86\u0aa8"
@@ -134,23 +119,23 @@
     "name:lit_x_preferred":[
         "In\u010duanas"
     ],
-    "name:mac_x_preferred":[
-        "\u0408\u0438\u043d\u0447\u0443\u0435\u043d"
-    ],
     "name:mal_x_preferred":[
         "\u0d2f\u0d3f\u0d1e\u0d4d\u0d1a\u0d41\u0d35\u0d3e\u0d7b"
     ],
     "name:mar_x_preferred":[
         "\u092f\u093f\u0928\u091a\u0941\u0906\u0928"
     ],
-    "name:may_x_preferred":[
-        "Yinchuan"
+    "name:mkd_x_preferred":[
+        "\u0408\u0438\u043d\u0447\u0443\u0435\u043d"
     ],
     "name:mlg_x_preferred":[
         "Yinchuan"
     ],
     "name:mon_x_preferred":[
         "\u0418\u043d\u044c\u0447\u0443\u0430\u043d\u044c"
+    ],
+    "name:msa_x_preferred":[
+        "Yinchuan"
     ],
     "name:nan_x_preferred":[
         "G\u00een-chhoan-chh\u012b"
@@ -166,9 +151,6 @@
     ],
     "name:nor_x_preferred":[
         "Yinchuan"
-    ],
-    "name:per_x_preferred":[
-        "\u06cc\u06cc\u0646\u0686\u0648\u0627\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u06cc\u0646\u0686\u0648\u0622\u0646"
@@ -209,9 +191,6 @@
     "name:tha_x_preferred":[
         "\u0e2b\u0e22\u0e34\u0e19\u0e0a\u0e27\u0e19"
     ],
-    "name:tib_x_preferred":[
-        "\u0f61\u0f72\u0f53\u0f0b\u0f41\u0fb2\u0f7c\u0f60\u0f7c\u0f53\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Yinchuan"
     ],
@@ -247,6 +226,9 @@
     ],
     "name:zho_x_preferred":[
         "\u94f6\u5ddd"
+    ],
+    "name:zho_x_variant":[
+        "\u9280\u5ddd\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -391,7 +373,7 @@
         }
     ],
     "wof:id":102026957,
-    "wof:lastmodified":1527637810,
+    "wof:lastmodified":1561752082,
     "wof:megacity":1,
     "wof:name":"Yinchuan",
     "wof:parent_id":1108732517,

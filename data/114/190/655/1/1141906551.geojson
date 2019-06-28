@@ -17,9 +17,6 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0646\u063a\u0647\u0648\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Tonghua"
-    ],
     "name:ben_x_preferred":[
         "\u09a4\u0982\u09b9\u09c1\u09af\u09bc\u09be"
     ],
@@ -29,32 +26,32 @@
     "name:cdo_x_preferred":[
         "T\u016dng-hu\u00e1"
     ],
-    "name:chi_x_preferred":[
-        "\u901a\u5316\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tchung-chua"
     ],
     "name:dan_x_preferred":[
         "Tonghua"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tonghua"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03cc\u03bd\u03b3\u03ba\u03bf\u03c5\u03b1"
     ],
     "name:eng_x_preferred":[
         "Tonghua"
     ],
+    "name:eus_x_preferred":[
+        "Tonghua"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0646\u06af\u0647\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Tonghua"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tonghua"
-    ],
-    "name:ger_x_preferred":[
-        "Tonghua"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03cc\u03bd\u03b3\u03ba\u03bf\u03c5\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acb\u0a82\u0a97\u0ab9\u0ac1\u0a86"
@@ -89,14 +86,17 @@
     "name:mar_x_preferred":[
         "\u091f\u094b\u0902\u0917\u0939\u0941\u0906"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Tonghua"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Tonghua"
     ],
     "name:nan_x_preferred":[
         "Thong-ho\u00e0-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Tonghua"
     ],
     "name:nno_x_preferred":[
         "Tonghua"
@@ -106,9 +106,6 @@
     ],
     "name:oci_x_preferred":[
         "Tonghua"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u0646\u06af\u0647\u0648\u0627"
     ],
     "name:pol_x_preferred":[
         "Tonghua"
@@ -157,6 +154,9 @@
     ],
     "name:yue_x_preferred":[
         "\u901a\u5316"
+    ],
+    "name:zho_x_preferred":[
+        "\u901a\u5316\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -279,7 +279,7 @@
         }
     ],
     "wof:id":1141906551,
-    "wof:lastmodified":1513940572,
+    "wof:lastmodified":1561755418,
     "wof:name":"Tonghua",
     "wof:parent_id":890516249,
     "wof:placetype":"locality",

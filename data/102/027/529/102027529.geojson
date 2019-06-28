@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000273,
-    "geom:area_square_m":3128681.4596,
+    "geom:area_square_m":3128681.459601,
     "geom:bbox":"113.045108395,22.2749850876,113.064510677,22.2930419189",
     "geom:latitude":22.284014,
     "geom:longitude":113.05481,
@@ -16,9 +16,6 @@
     "mps:longitude":113.05481,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5d16\u95e8\u9547"
-    ],
     "name:deu_x_preferred":[
         "Yamen"
     ],
@@ -65,7 +62,8 @@
         "\u8859\u9580"
     ],
     "name:zho_x_variant":[
-        "\u5d16\u95e8"
+        "\u5d16\u95e8",
+        "\u5d16\u95e8\u9547"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -111,7 +109,7 @@
         }
     ],
     "wof:id":102027529,
-    "wof:lastmodified":1527637565,
+    "wof:lastmodified":1561752071,
     "wof:name":"Yamen",
     "wof:parent_id":890514609,
     "wof:placetype":"locality",

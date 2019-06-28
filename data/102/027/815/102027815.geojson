@@ -26,9 +26,6 @@
     "name:ara_x_preferred":[
         "\u0627\u0646\u064a\u0627\u0646\u063a"
     ],
-    "name:baq_x_preferred":[
-        "Anyang"
-    ],
     "name:bel_x_preferred":[
         "\u0410\u043d\u044c\u044f\u043d"
     ],
@@ -50,20 +47,14 @@
     "name:ces_x_preferred":[
         "An-jang"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u967d\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "An-jang"
-    ],
     "name:dan_x_preferred":[
         "Anyang"
     ],
     "name:deu_x_preferred":[
         "Anyang"
     ],
-    "name:dut_x_preferred":[
-        "Anyang"
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03b3\u03b9\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Anyang"
@@ -85,15 +76,6 @@
     ],
     "name:fra_x_preferred":[
         "Anyang"
-    ],
-    "name:fre_x_preferred":[
-        "Anyang"
-    ],
-    "name:ger_x_preferred":[
-        "Anyang"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bd\u03b3\u03b9\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aa8\u0acd\u0aaf\u0abe\u0a82\u0a97"
@@ -137,10 +119,10 @@
     "name:mar_x_preferred":[
         "\u0905\u0928\u094d\u092f\u093e\u0902\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Anyang"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Anyang"
     ],
     "name:nan_x_preferred":[
@@ -160,9 +142,6 @@
     ],
     "name:pam_x_preferred":[
         "Anyang"
-    ],
-    "name:per_x_preferred":[
-        "\u0622\u0646\u06cc\u0627\u0646\u06af"
     ],
     "name:pol_x_preferred":[
         "Anyang"
@@ -232,7 +211,8 @@
     ],
     "name:zho_x_variant":[
         "\u706f\u5854\u8def",
-        "\u5b89\u9633"
+        "\u5b89\u9633",
+        "\u5b89\u967d\u5e02"
     ],
     "name:zho_yue_x_preferred":[
         "\u5b89\u967d"
@@ -379,7 +359,7 @@
         }
     ],
     "wof:id":102027815,
-    "wof:lastmodified":1527637569,
+    "wof:lastmodified":1561752075,
     "wof:name":"Anyang",
     "wof:parent_id":890513077,
     "wof:placetype":"locality",

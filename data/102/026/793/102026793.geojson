@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000508,
-    "geom:area_square_m":4966086.858093,
+    "geom:area_square_m":4966086.858095,
     "geom:bbox":"75.2175266497,37.7573591185,75.2402370097,37.7840698213",
     "geom:latitude":37.770715,
     "geom:longitude":75.228882,
@@ -27,12 +27,6 @@
     "name:ces_x_preferred":[
         "Ta\u0161kurgan"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u4ec0\u5e93\u5c14\u5e72\u9547"
-    ],
-    "name:cze_x_preferred":[
-        "Ta\u0161kurgan"
-    ],
     "name:dan_x_preferred":[
         "Tashkurgan"
     ],
@@ -42,8 +36,8 @@
     "name:deu_x_variant":[
         "St\u00e4tte der Steinernen Stadt"
     ],
-    "name:dut_x_preferred":[
-        "Taxkorgan"
+    "name:ell_x_preferred":[
+        "\u03a4\u03ac\u03c3\u03ba\u03bf\u03c5\u03c1\u03b3\u03ba\u03b1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Tashkurgan"
@@ -59,15 +53,6 @@
     ],
     "name:fra_x_preferred":[
         "Tashkurgan"
-    ],
-    "name:fre_x_preferred":[
-        "Tashkurgan"
-    ],
-    "name:ger_x_preferred":[
-        "St\u00e4tte der Steinernen Stadt"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03ac\u03c3\u03ba\u03bf\u03c5\u03c1\u03b3\u03ba\u03b1\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0abe\u0ab6\u0acd\u0a95\u0ac1\u0ab0\u0a97\u0aa8"
@@ -99,11 +84,14 @@
     "name:mar_x_preferred":[
         "\u0924\u093e\u0936\u0915\u0941\u0930\u0917\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tashkurgan"
     ],
     "name:nld_x_preferred":[
         "Tasjkoergan"
+    ],
+    "name:nld_x_variant":[
+        "Taxkorgan"
     ],
     "name:nob_x_preferred":[
         "Tashkurgan"
@@ -205,7 +193,7 @@
         }
     ],
     "wof:id":102026793,
-    "wof:lastmodified":1527637810,
+    "wof:lastmodified":1561752083,
     "wof:name":"Taxkorgan",
     "wof:parent_id":1108732391,
     "wof:placetype":"locality",

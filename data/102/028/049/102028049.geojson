@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000941,
-    "geom:area_square_m":9365815.397599,
+    "geom:area_square_m":9365815.397605,
     "geom:bbox":"109.385268804,36.0089912506,109.517404102,36.6201302001",
     "geom:latitude":36.408498,
     "geom:longitude":109.462444,
@@ -21,26 +21,26 @@
     "name:ara_x_preferred":[
         "\u064a\u0627\u0646\u0627\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Yan'an"
-    ],
     "name:ben_x_preferred":[
         "\u0987\u09af\u09bc\u09be\u09a8'\u0986\u09a8"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f61\u0f53\u0f0b\u0f68\u0f53\u0f0d"
     ],
     "name:cdo_x_preferred":[
         "I\u00f2ng-\u0103ng"
     ],
-    "name:chi_x_preferred":[
-        "\u5ef6\u5b89\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Jen-an"
     ],
     "name:dan_x_preferred":[
         "Yan'an"
     ],
-    "name:dut_x_preferred":[
-        "Yan'an"
+    "name:deu_x_preferred":[
+        "Yan\u2019an"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03b1\u03bd\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Yan'an"
@@ -48,17 +48,14 @@
     "name:epo_x_preferred":[
         "Janan"
     ],
+    "name:eus_x_preferred":[
+        "Yan'an"
+    ],
     "name:fin_x_preferred":[
         "Yan\u2019an"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Yan'an"
-    ],
-    "name:ger_x_preferred":[
-        "Yan\u2019an"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03b1\u03bd\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aaf\u0abe\u0aa8\u0aa8"
@@ -93,14 +90,17 @@
     "name:mar_x_preferred":[
         "\u092f\u093e\u0928\u093e\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Yan'an"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Yan'an"
     ],
     "name:nan_x_preferred":[
         "I\u00e2n-an-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Yan'an"
     ],
     "name:nno_x_preferred":[
         "Yan'an"
@@ -138,9 +138,6 @@
     "name:tha_x_preferred":[
         "\u0e22\u0e32\u0e19\u0e32\u0e19"
     ],
-    "name:tib_x_preferred":[
-        "\u0f61\u0f53\u0f0b\u0f68\u0f53\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Yan'an"
     ],
@@ -169,7 +166,8 @@
         "Yan\u2019an"
     ],
     "name:zho_x_variant":[
-        "\u5ef6\u5b89"
+        "\u5ef6\u5b89",
+        "\u5ef6\u5b89\u5e02"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -211,7 +209,7 @@
         }
     ],
     "wof:id":102028049,
-    "wof:lastmodified":1527637786,
+    "wof:lastmodified":1561752080,
     "wof:name":"Yan\u2019an",
     "wof:parent_id":890516587,
     "wof:placetype":"locality",

@@ -22,9 +22,6 @@
     "name:ast_x_preferred":[
         "Baishan"
     ],
-    "name:baq_x_preferred":[
-        "Baishan"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0987\u09b8\u09be\u09a8"
     ],
@@ -34,32 +31,32 @@
     "name:cdo_x_preferred":[
         "B\u0103h-s\u0103ng"
     ],
-    "name:chi_x_preferred":[
-        "\u767d\u5c71\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Paj-\u0161an"
     ],
     "name:dan_x_preferred":[
         "Baishan"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Baishan"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03ca\u03c3\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Baishan"
     ],
+    "name:eus_x_preferred":[
+        "Baishan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06cc\u0634\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Baishan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Baishan"
-    ],
-    "name:ger_x_preferred":[
-        "Baishan"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03ca\u03c3\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac8\u0ab6\u0aa8"
@@ -94,11 +91,14 @@
     "name:mar_x_preferred":[
         "\u092c\u0948\u0936\u093e\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Baishan"
     ],
     "name:nan_x_preferred":[
         "Pe\u030dk-san-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Baishan"
     ],
     "name:nno_x_preferred":[
         "Baishan"
@@ -108,9 +108,6 @@
     ],
     "name:oci_x_preferred":[
         "Baishan"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u06cc\u0634\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "Baishan"
@@ -156,6 +153,9 @@
     ],
     "name:yue_x_preferred":[
         "\u767d\u5c71"
+    ],
+    "name:zho_x_preferred":[
+        "\u767d\u5c71\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -278,7 +278,7 @@
         }
     ],
     "wof:id":1141906553,
-    "wof:lastmodified":1534379257,
+    "wof:lastmodified":1561755418,
     "wof:name":"Baishan",
     "wof:parent_id":890516621,
     "wof:placetype":"locality",

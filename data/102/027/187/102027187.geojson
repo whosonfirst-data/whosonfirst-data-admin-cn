@@ -21,9 +21,6 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u064a\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Sanya"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u043d\u044c\u044f"
     ],
@@ -39,20 +36,14 @@
     "name:ces_x_preferred":[
         "San-ja"
     ],
-    "name:chi_x_preferred":[
-        "\u4e09\u4e9e\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "San-ja"
-    ],
     "name:dan_x_preferred":[
         "Sanya"
     ],
     "name:deu_x_preferred":[
         "Sanya"
     ],
-    "name:dut_x_preferred":[
-        "Sanya"
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Sanya"
@@ -63,29 +54,20 @@
     "name:fas_x_preferred":[
         "\u0633\u0627\u0646\u06cc\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u0627\u06cc\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Sanya"
     ],
     "name:fra_x_preferred":[
         "Sanya"
     ],
-    "name:fre_x_preferred":[
-        "Sanya"
-    ],
-    "name:ger_x_preferred":[
-        "Sanya"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03bd\u03b3\u03b9\u03b1"
-    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0a82\u0aaf\u0abe"
     ],
     "name:hin_x_preferred":[
         "\u0938\u093e\u0928\u094d\u092f\u093e"
-    ],
-    "name:ice_x_preferred":[
-        "Sanya"
     ],
     "name:ind_x_preferred":[
         "Sanya"
@@ -114,16 +96,16 @@
     "name:lit_x_preferred":[
         "Sanja"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u043d\u0458\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u0902\u092f\u093e"
     ],
-    "name:may_x_preferred":[
-        "Sanya"
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043d\u0458\u0430"
     ],
     "name:mlg_x_preferred":[
+        "Sanya"
+    ],
+    "name:msa_x_preferred":[
         "Sanya"
     ],
     "name:nan_x_preferred":[
@@ -141,9 +123,6 @@
     "name:pam_x_preferred":[
         "Sanya"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u06cc\u0646\u0627"
-    ],
     "name:pol_x_preferred":[
         "Sanya"
     ],
@@ -151,9 +130,6 @@
         "Sanya"
     ],
     "name:ron_x_preferred":[
-        "Sanya"
-    ],
-    "name:rum_x_preferred":[
         "Sanya"
     ],
     "name:rus_x_preferred":[
@@ -182,9 +158,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e19\u0e22\u0e48\u0e32"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f66\u0f53\u0f0b\u0f61\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0d"
     ],
     "name:tur_x_preferred":[
         "Sanya"
@@ -220,7 +193,8 @@
         "\u4e09\u4e9a\u5e02"
     ],
     "name:zho_x_variant":[
-        "\u4e09\u4e9a"
+        "\u4e09\u4e9a",
+        "\u4e09\u4e9e\u5e02"
     ],
     "name:zho_yue_x_preferred":[
         "\u4e09\u4e9e"
@@ -367,7 +341,7 @@
         }
     ],
     "wof:id":102027187,
-    "wof:lastmodified":1559680754,
+    "wof:lastmodified":1561752069,
     "wof:name":"Sanya",
     "wof:parent_id":1108732333,
     "wof:placetype":"locality",

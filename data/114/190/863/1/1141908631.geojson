@@ -17,41 +17,38 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0646\u063a\u062a\u0634\u0649"
     ],
-    "name:baq_x_preferred":[
-        "Nyingchi prefektura"
-    ],
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u0982\u0995\u09be\u09af\u09bc"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f49\u0f72\u0f44\u0f0b\u0f41\u0fb2\u0f72\u0f0b\u0f66\u0f0b\u0f41\u0f74\u0f63"
     ],
     "name:cdo_x_preferred":[
         "Nyingchi"
     ],
-    "name:chi_x_preferred":[
-        "\u6797\u829d\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u0147ingthri"
     ],
     "name:dan_x_preferred":[
         "Nyingchi"
     ],
-    "name:dut_x_preferred":[
-        "Nyingtri"
+    "name:deu_x_preferred":[
+        "Nyingchi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b3\u03af\u03bd\u03b3\u03ba\u03c4\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Nyingchi"
     ],
+    "name:eus_x_preferred":[
+        "Nyingchi prefektura"
+    ],
     "name:fin_x_preferred":[
         "Nyingchi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "pr\u00e9fecture de Nyingchi"
-    ],
-    "name:ger_x_preferred":[
-        "Nyingchi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b3\u03af\u03bd\u03b3\u03ba\u03c4\u03c3\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abf\u0a87\u0a82\u0a97\u0a9a\u0ac0"
@@ -89,11 +86,14 @@
     "name:mar_x_preferred":[
         "\u0928\u093f\u0902\u0917\u091a\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Nyingchi"
     ],
     "name:nan_x_preferred":[
         "Nyingchi-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Nyingtri"
     ],
     "name:nob_x_preferred":[
         "Nyingchi"
@@ -128,9 +128,6 @@
     "name:tha_x_preferred":[
         "\u0e19\u0e22\u0e34\u0e07\u0e09\u0e35"
     ],
-    "name:tib_x_preferred":[
-        "\u0f49\u0f72\u0f44\u0f0b\u0f41\u0fb2\u0f72\u0f0b\u0f66\u0f0b\u0f41\u0f74\u0f63"
-    ],
     "name:tur_x_preferred":[
         "Nyingchi"
     ],
@@ -142,6 +139,9 @@
     ],
     "name:vie_x_preferred":[
         "Nyingchi"
+    ],
+    "name:zho_x_preferred":[
+        "\u6797\u829d\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -264,7 +264,7 @@
         }
     ],
     "wof:id":1141908631,
-    "wof:lastmodified":1513940260,
+    "wof:lastmodified":1561755419,
     "wof:name":"Nyingchi",
     "wof:parent_id":890515951,
     "wof:placetype":"locality",

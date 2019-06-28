@@ -20,14 +20,11 @@
     "name:ben_x_preferred":[
         "\u09ab\u09c1\u09b2\u09bf\u09a8"
     ],
-    "name:chi_x_preferred":[
-        "\u5bcc\u6797\u9547"
-    ],
     "name:dan_x_preferred":[
         "Fulin"
     ],
-    "name:dut_x_preferred":[
-        "Fulin"
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03c5\u03bb\u03af\u03bd"
     ],
     "name:eng_x_preferred":[
         "Fulin"
@@ -35,11 +32,8 @@
     "name:fin_x_preferred":[
         "Fulin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Fulin"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03bf\u03c5\u03bb\u03af\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0ac1\u0ab2\u0ac0\u0aa8"
@@ -71,7 +65,10 @@
     "name:mar_x_preferred":[
         "\u092b\u0941\u0932\u093f\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Fulin"
+    ],
+    "name:nld_x_preferred":[
         "Fulin"
     ],
     "name:nob_x_preferred":[
@@ -115,6 +112,9 @@
     ],
     "name:vie_x_preferred":[
         "Ph\u00fa L\u00e2m"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bcc\u6797\u9547"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -237,7 +237,7 @@
         }
     ],
     "wof:id":1141908647,
-    "wof:lastmodified":1553816737,
+    "wof:lastmodified":1561755419,
     "wof:name":"Fulin",
     "wof:parent_id":1108732541,
     "wof:placetype":"locality",

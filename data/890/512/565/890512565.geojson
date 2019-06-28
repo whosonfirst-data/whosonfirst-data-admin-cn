@@ -21,9 +21,6 @@
     "name:ara_x_preferred":[
         "\u064a\u0646\u063a\u0643\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Yingkou"
-    ],
     "name:ben_x_preferred":[
         "\u0987\u0982\u0995\u09c1"
     ],
@@ -36,17 +33,17 @@
     "name:cdo_x_preferred":[
         "\u00ccng-k\u0101u"
     ],
-    "name:chi_x_preferred":[
-        "\u8425\u53e3\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Jing-kchou"
     ],
     "name:dan_x_preferred":[
         "Yingkou"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Yingkou"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03af\u03bd\u03b3\u03ba\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Yingkou"
@@ -54,20 +51,20 @@
     "name:epo_x_preferred":[
         "Inkou"
     ],
+    "name:eus_x_preferred":[
+        "Yingkou"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u06cc\u0646\u06af\u06a9\u0648"
+    ],
     "name:fin_x_preferred":[
         "Yingkou"
     ],
-    "name:fre_x_preferred":[
-        "Yingkou"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Yingkou"
     ],
     "name:glg_x_preferred":[
         "Yingkou"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03af\u03bd\u03b3\u03ba\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aaf\u0abf\u0a82\u0a97\u0a95\u0acb\u0a89"
@@ -102,14 +99,17 @@
     "name:mar_x_preferred":[
         "\u092f\u093f\u0902\u0917\u0915\u094c"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Yingkou"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Yingkou"
     ],
     "name:nan_x_preferred":[
         "\u00cang-kh\u00e1u-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Yingkou"
     ],
     "name:nno_x_preferred":[
         "Yingkou"
@@ -119,9 +119,6 @@
     ],
     "name:oci_x_preferred":[
         "Yingkou"
-    ],
-    "name:per_x_preferred":[
-        "\u06cc\u06cc\u0646\u06af\u06a9\u0648"
     ],
     "name:pol_x_preferred":[
         "Yingkou"
@@ -174,6 +171,9 @@
     "name:yue_x_preferred":[
         "\u71df\u53e3"
     ],
+    "name:zho_x_preferred":[
+        "\u8425\u53e3\u5e02"
+    ],
     "qs:name":"Dashiqiao",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -209,7 +209,7 @@
         }
     ],
     "wof:id":890512565,
-    "wof:lastmodified":1527793094,
+    "wof:lastmodified":1561753706,
     "wof:name":"Dashiqiao",
     "wof:parent_id":1108732495,
     "wof:placetype":"locality",

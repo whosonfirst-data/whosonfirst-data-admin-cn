@@ -17,9 +17,6 @@
     "name:ara_x_preferred":[
         "\u0634\u0648\u0632\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Shuozhou"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u0989\u099d\u09c1"
     ],
@@ -29,32 +26,32 @@
     "name:cdo_x_preferred":[
         "S\u00e1uk-ci\u016d"
     ],
-    "name:chi_x_preferred":[
-        "\u6714\u5dde\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u0160uo-\u010dou"
     ],
     "name:dan_x_preferred":[
         "Shuozhou"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Shuozhou"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03cd\u03bf\u03b6\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Shuozhou"
     ],
+    "name:eus_x_preferred":[
+        "Shuozhou"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u062c\u0648"
+    ],
     "name:fin_x_preferred":[
         "Shuozhou"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Shuozhou"
-    ],
-    "name:ger_x_preferred":[
-        "Shuozhou"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03cd\u03bf\u03b6\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0ac1\u0a9d\u0acb\u0a89"
@@ -89,14 +86,17 @@
     "name:mar_x_preferred":[
         "\u0936\u0941\u0913\u091d\u094b\u0909"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Shuozhou"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Shuozhou"
     ],
     "name:nan_x_preferred":[
         "Sok-chiu-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Shuozhou"
     ],
     "name:nno_x_preferred":[
         "Shuozhou"
@@ -106,9 +106,6 @@
     ],
     "name:oci_x_preferred":[
         "Shuozhou"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0648\u062c\u0648"
     ],
     "name:pol_x_preferred":[
         "Shuozhou"
@@ -154,6 +151,9 @@
     ],
     "name:yue_x_preferred":[
         "\u6714\u5dde"
+    ],
+    "name:zho_x_preferred":[
+        "\u6714\u5dde\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -276,7 +276,7 @@
         }
     ],
     "wof:id":1141907671,
-    "wof:lastmodified":1513940473,
+    "wof:lastmodified":1561755418,
     "wof:name":"Shuozhou",
     "wof:parent_id":890513491,
     "wof:placetype":"locality",

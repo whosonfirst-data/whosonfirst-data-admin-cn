@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000914,
-    "geom:area_square_m":9375170.86056,
+    "geom:area_square_m":9375170.860552,
     "geom:bbox":"116.75737231,33.8933172864,116.866913807,34.0571267773",
     "geom:latitude":33.972237,
     "geom:longitude":116.808497,
@@ -20,12 +20,6 @@
     "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0627\u064a\u0628\u064a"
-    ],
-    "name:arm_x_preferred":[
-        "\u0540\u0578\u0582\u0561\u0575\u0562\u0565\u0575"
-    ],
-    "name:baq_x_preferred":[
-        "Huaibei"
     ],
     "name:ben_x_preferred":[
         "\u09b9\u09c1\u09af\u09bc\u09be\u09ac\u09c7\u0987"
@@ -42,17 +36,14 @@
     "name:ces_x_preferred":[
         "Chuaj-pej"
     ],
-    "name:chi_x_preferred":[
-        "\u6dee\u5317\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Chuaj-pej"
-    ],
     "name:dan_x_preferred":[
         "Huaibei"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Huaibei"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c5\u03b1\u03ca\u03bc\u03c0\u03ad\u03b9"
     ],
     "name:eng_x_colloquial":[
         ""
@@ -66,6 +57,9 @@
     "name:epo_x_preferred":[
         "Huajbej"
     ],
+    "name:eus_x_preferred":[
+        "Huaibei"
+    ],
     "name:fas_x_preferred":[
         "\u0647\u0648\u0627\u06cc\u0628\u06cc"
     ],
@@ -74,15 +68,6 @@
     ],
     "name:fra_x_preferred":[
         "Huaibei"
-    ],
-    "name:fre_x_preferred":[
-        "Huaibei"
-    ],
-    "name:ger_x_preferred":[
-        "Huaibei"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03bf\u03c5\u03b1\u03ca\u03bc\u03c0\u03ad\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac1\u0a86\u0a87\u0aac\u0ac7\u0a87"
@@ -120,14 +105,17 @@
     "name:mar_x_preferred":[
         "\u0939\u0941\u0906\u0907\u092c\u0947\u0907"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Huaibei"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Huaibei"
     ],
     "name:nan_x_preferred":[
         "Ho\u00e2i-pak-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Huaibei"
     ],
     "name:nno_x_preferred":[
         "Huaibei"
@@ -140,9 +128,6 @@
     ],
     "name:pam_x_preferred":[
         "Huaibei"
-    ],
-    "name:per_x_preferred":[
-        "\u0647\u0648\u0627\u06cc\u0628\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u06c1\u0648\u0622\u0626\u06cc\u0628\u0626\u06cc"
@@ -354,7 +339,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1527637559,
+    "wof:lastmodified":1561752064,
     "wof:megacity":1,
     "wof:name":"Huaibei",
     "wof:parent_id":1108732463,

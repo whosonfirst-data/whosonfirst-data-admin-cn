@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000998,
-    "geom:area_square_m":9353178.183129,
+    "geom:area_square_m":9353178.183136,
     "geom:bbox":"120.744390236,40.725768458,120.877923744,40.7604205979",
     "geom:latitude":40.743096,
     "geom:longitude":120.825807,
@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0644\u0648\u062f\u0627\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Huludao"
-    ],
     "name:ben_x_preferred":[
         "\u09b9\u09c1\u09b2\u09c1\u09a6\u09be\u0993"
     ],
@@ -34,32 +31,32 @@
     "name:cdo_x_preferred":[
         "H\u00f9-l\u00f9-d\u014d\u0324"
     ],
-    "name:chi_x_preferred":[
-        "\u846b\u82a6\u5c9b\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Chu-lu-tao"
     ],
     "name:dan_x_preferred":[
         "Huludao"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Huludao"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c5\u03bb\u03bf\u03c5\u03bd\u03c4\u03ac\u03bf"
     ],
     "name:eng_x_preferred":[
         "Huludao"
     ],
+    "name:eus_x_preferred":[
+        "Huludao"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0644\u0648\u062f\u0627\u0648"
+    ],
     "name:fin_x_preferred":[
         "Huludao"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Huludao"
-    ],
-    "name:ger_x_preferred":[
-        "Huludao"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03bf\u03c5\u03bb\u03bf\u03c5\u03bd\u03c4\u03ac\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac1\u0ab2\u0ac1\u0aa1\u0a93"
@@ -97,14 +94,17 @@
     "name:mar_x_preferred":[
         "\u0939\u0941\u0932\u0942\u0921\u0913"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Huludao"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Huludao"
     ],
     "name:nan_x_preferred":[
         "H\u00f4\u0358-l\u00f4\u0358-t\u00f3-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Huludao"
     ],
     "name:nno_x_preferred":[
         "Huludao"
@@ -114,9 +114,6 @@
     ],
     "name:oci_x_preferred":[
         "Huludao"
-    ],
-    "name:per_x_preferred":[
-        "\u0647\u0648\u0644\u0648\u062f\u0627\u0648"
     ],
     "name:pol_x_preferred":[
         "Huludao"
@@ -166,6 +163,9 @@
     "name:yue_x_preferred":[
         "\u846b\u8606\u5cf6"
     ],
+    "name:zho_x_preferred":[
+        "\u846b\u82a6\u5c9b\u5e02"
+    ],
     "qs:a0":"\u4e2d\u570b",
     "qs:a1":"*\u8fbd\u5b81\u7701",
     "qs:a1r":"*",
@@ -213,7 +213,7 @@
         }
     ],
     "wof:id":102027911,
-    "wof:lastmodified":1527637572,
+    "wof:lastmodified":1561752077,
     "wof:name":"Huludao",
     "wof:parent_id":890514399,
     "wof:placetype":"locality",

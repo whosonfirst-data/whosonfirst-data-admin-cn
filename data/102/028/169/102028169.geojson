@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001675,
-    "geom:area_square_m":16904912.757914,
+    "geom:area_square_m":16904912.757931,
     "geom:bbox":"113.845824421,35.2859463397,113.900758363,35.3308537494",
     "geom:latitude":35.306816,
     "geom:longitude":113.87514,
@@ -24,9 +24,6 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0646\u0634\u064a\u0627\u0646\u063a"
     ],
-    "name:baq_x_preferred":[
-        "Xinxiang"
-    ],
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09a8\u099c\u09bf\u09af\u09bc\u09be\u0982"
     ],
@@ -36,17 +33,17 @@
     "name:cdo_x_preferred":[
         "S\u012dng-hi\u014fng"
     ],
-    "name:chi_x_preferred":[
-        "\u65b0\u4e61\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Sin-siang"
     ],
     "name:dan_x_preferred":[
         "Xinxiang"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Xinxiang"
+    ],
+    "name:ell_x_preferred":[
+        "\u039e\u03af\u03bd\u03ba\u03c3\u03b9\u03b1\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Xinxiang"
@@ -54,17 +51,17 @@
     "name:epo_x_preferred":[
         "Sinsjan"
     ],
+    "name:eus_x_preferred":[
+        "Xinxiang"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0646\u0634\u06cc\u0627\u0646\u06af"
+    ],
     "name:fin_x_preferred":[
         "Xinxiang"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Xinxiang"
-    ],
-    "name:ger_x_preferred":[
-        "Xinxiang"
-    ],
-    "name:gre_x_preferred":[
-        "\u039e\u03af\u03bd\u03ba\u03c3\u03b9\u03b1\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abf\u0a82\u0a9d\u0abf\u0a86\u0a82\u0a97"
@@ -96,20 +93,23 @@
     "name:lit_x_preferred":[
         "Sinsiangas"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0438\u043d\u0441\u0458\u0430\u043d\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u093f\u0928\u0938\u0940\u0906\u0928\u094d\u0917"
     ],
-    "name:may_x_preferred":[
-        "Xinxiang"
+    "name:mkd_x_preferred":[
+        "\u0421\u0438\u043d\u0441\u0458\u0430\u043d\u0433"
     ],
     "name:mlg_x_preferred":[
         "Xinxiang"
     ],
+    "name:msa_x_preferred":[
+        "Xinxiang"
+    ],
     "name:nan_x_preferred":[
         "Sin-hiong-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Xinxiang"
     ],
     "name:nno_x_preferred":[
         "Xinxiang"
@@ -119,9 +119,6 @@
     ],
     "name:pam_x_preferred":[
         "Xinxiang"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u06cc\u0646\u0634\u06cc\u0627\u0646\u06af"
     ],
     "name:pol_x_preferred":[
         "Xinxiang"
@@ -182,7 +179,8 @@
     ],
     "name:zho_x_variant":[
         "\u65b0\u4e61\u9547",
-        "\u5357\u5e72\u9053"
+        "\u5357\u5e72\u9053",
+        "\u65b0\u4e61\u5e02"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -228,7 +226,7 @@
         }
     ],
     "wof:id":102028169,
-    "wof:lastmodified":1527637784,
+    "wof:lastmodified":1561752080,
     "wof:name":"Xinxiang",
     "wof:parent_id":890515625,
     "wof:placetype":"locality",

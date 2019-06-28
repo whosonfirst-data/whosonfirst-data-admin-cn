@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001114,
-    "geom:area_square_m":12698936.389912,
+    "geom:area_square_m":12698936.389923,
     "geom:bbox":"113.781160016,22.7924802991,113.822599473,22.8307801406",
     "geom:latitude":22.81471,
     "geom:longitude":113.798553,
@@ -30,9 +30,6 @@
     ],
     "name:cat_x_preferred":[
         "Chang'an"
-    ],
-    "name:chi_x_preferred":[
-        "\u957f\u5b89\u9547"
     ],
     "name:deu_x_preferred":[
         "Chang\u2019an"
@@ -123,7 +120,8 @@
     ],
     "name:zho_x_variant":[
         "\u9577\u5b89",
-        "Chang\u2019an"
+        "Chang\u2019an",
+        "\u957f\u5b89\u9547"
     ],
     "name:zho_yue_x_preferred":[
         "\u9577\u5b89"
@@ -174,7 +172,7 @@
         }
     ],
     "wof:id":102027721,
-    "wof:lastmodified":1527637573,
+    "wof:lastmodified":1561752078,
     "wof:name":"Chang\u2019an",
     "wof:parent_id":890516401,
     "wof:placetype":"locality",

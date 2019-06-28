@@ -25,9 +25,6 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062c\u0627\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Bijie"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u099c\u09bf"
     ],
@@ -37,19 +34,19 @@
     "name:ces_x_preferred":[
         "Pi-\u0165ie"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd5\u8282\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Pi-\u0165ie"
-    ],
     "name:dan_x_preferred":[
         "Bijie"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bijie"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03c4\u03b6\u03b9\u03ad"
+    ],
     "name:eng_x_preferred":[
+        "Bijie"
+    ],
+    "name:eus_x_preferred":[
         "Bijie"
     ],
     "name:fas_x_preferred":[
@@ -61,14 +58,8 @@
     "name:fra_x_preferred":[
         "Pr\u00e9fecture de Bijie"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "pr\u00e9fecture de Bijie"
-    ],
-    "name:ger_x_preferred":[
-        "Bijie"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b9\u03c4\u03b6\u03b9\u03ad"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abf\u0a9c\u0ac0"
@@ -103,14 +94,17 @@
     "name:mar_x_preferred":[
         "\u092c\u0940\u091c\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Bijie"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Bijie"
     ],
     "name:nan_x_preferred":[
         "Pit-chiat-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Bijie"
     ],
     "name:nno_x_preferred":[
         "Bijie"
@@ -120,9 +114,6 @@
     ],
     "name:pam_x_preferred":[
         "Bijie"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u062c\u0627\u06cc"
     ],
     "name:pol_x_preferred":[
         "Bijie"
@@ -227,7 +218,7 @@
         }
     ],
     "wof:id":1125867691,
-    "wof:lastmodified":1513941178,
+    "wof:lastmodified":1561753712,
     "wof:name":"\u6bd5\u8282",
     "wof:parent_id":1108732447,
     "wof:placetype":"locality",

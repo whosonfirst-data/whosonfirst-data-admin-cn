@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000497,
-    "geom:area_square_m":5015081.996754,
+    "geom:area_square_m":5015081.996756,
     "geom:bbox":"113.911743029,35.2949132089,113.933715812,35.3218890683",
     "geom:latitude":35.308402,
     "geom:longitude":113.922729,
@@ -26,9 +26,6 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0646\u0634\u064a\u0627\u0646\u063a"
     ],
-    "name:baq_x_preferred":[
-        "Xinxiang"
-    ],
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09a8\u099c\u09bf\u09af\u09bc\u09be\u0982"
     ],
@@ -41,20 +38,14 @@
     "name:ces_x_preferred":[
         "Sin-siang"
     ],
-    "name:chi_x_preferred":[
-        "\u65b0\u4e61\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Sin-siang"
-    ],
     "name:dan_x_preferred":[
         "Xinxiang"
     ],
     "name:deu_x_preferred":[
         "Xinxiang"
     ],
-    "name:dut_x_preferred":[
-        "Xinxiang"
+    "name:ell_x_preferred":[
+        "\u039e\u03af\u03bd\u03ba\u03c3\u03b9\u03b1\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_colloquial":[
         ""
@@ -76,15 +67,6 @@
     ],
     "name:fra_x_preferred":[
         "Xinxiang"
-    ],
-    "name:fre_x_preferred":[
-        "Xinxiang"
-    ],
-    "name:ger_x_preferred":[
-        "Xinxiang"
-    ],
-    "name:gre_x_preferred":[
-        "\u039e\u03af\u03bd\u03ba\u03c3\u03b9\u03b1\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abf\u0a82\u0a9d\u0abf\u0a86\u0a82\u0a97"
@@ -116,16 +98,16 @@
     "name:lit_x_preferred":[
         "Sinsiangas"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0438\u043d\u0441\u0458\u0430\u043d\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u093f\u0928\u0938\u0940\u0906\u0928\u094d\u0917"
     ],
-    "name:may_x_preferred":[
-        "Xinxiang"
+    "name:mkd_x_preferred":[
+        "\u0421\u0438\u043d\u0441\u0458\u0430\u043d\u0433"
     ],
     "name:mlg_x_preferred":[
+        "Xinxiang"
+    ],
+    "name:msa_x_preferred":[
         "Xinxiang"
     ],
     "name:nan_x_preferred":[
@@ -145,9 +127,6 @@
     ],
     "name:pam_x_preferred":[
         "Xinxiang"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u06cc\u0646\u0634\u06cc\u0627\u0646\u06af"
     ],
     "name:pol_x_preferred":[
         "Xinxiang"
@@ -355,7 +334,7 @@
         }
     ],
     "wof:id":102026993,
-    "wof:lastmodified":1527637811,
+    "wof:lastmodified":1561752083,
     "wof:megacity":1,
     "wof:name":"Xinxiang",
     "wof:parent_id":890515625,

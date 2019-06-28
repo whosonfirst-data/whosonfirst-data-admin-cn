@@ -17,9 +17,6 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0646\u063a \u062a\u0634\u0649"
     ],
-    "name:baq_x_preferred":[
-        "Changzhi"
-    ],
     "name:ben_x_preferred":[
         "\u099a\u09cd\u09af\u09be\u0982\u099d\u09bf"
     ],
@@ -32,17 +29,17 @@
     "name:cdo_x_preferred":[
         "Di\u00f2ng-d\u00ea"
     ],
-    "name:chi_x_preferred":[
-        "\u957f\u6cbb\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u010cchang-\u010d'"
     ],
     "name:dan_x_preferred":[
         "Changzhi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Changzhi"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03bd\u03b3\u03ba\u03b6\u03af"
     ],
     "name:eng_x_preferred":[
         "Changzhi"
@@ -50,17 +47,17 @@
     "name:epo_x_preferred":[
         "\u0108an\u011di"
     ],
+    "name:eus_x_preferred":[
+        "Changzhi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0646\u06af\u062c\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Changzhi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Changzhi"
-    ],
-    "name:ger_x_preferred":[
-        "Changzhi"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03b1\u03bd\u03b3\u03ba\u03b6\u03af"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0abe\u0a82\u0a97\u0a9d\u0ac0"
@@ -95,14 +92,17 @@
     "name:mar_x_preferred":[
         "\u091a\u0902\u0917\u091d\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Changzhi"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Changzhi"
     ],
     "name:nan_x_preferred":[
         "Ti\u00f4ng-t\u012b-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Changzhi"
     ],
     "name:nno_x_preferred":[
         "Changzhi"
@@ -112,9 +112,6 @@
     ],
     "name:oci_x_preferred":[
         "Changzhi"
-    ],
-    "name:per_x_preferred":[
-        "\u0686\u0627\u0646\u06af\u062c\u06cc"
     ],
     "name:pol_x_preferred":[
         "Changzhi"
@@ -160,6 +157,9 @@
     ],
     "name:yue_x_preferred":[
         "\u9577\u6cbb"
+    ],
+    "name:zho_x_preferred":[
+        "\u957f\u6cbb\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -282,7 +282,7 @@
         }
     ],
     "wof:id":1141907673,
-    "wof:lastmodified":1513939125,
+    "wof:lastmodified":1561755418,
     "wof:name":"Changzhi",
     "wof:parent_id":1108732523,
     "wof:placetype":"locality",

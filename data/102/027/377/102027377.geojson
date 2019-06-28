@@ -24,19 +24,13 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0646\u0647\u0627\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Taizhou"
-    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u0987\u099c\u09b9\u09cb"
     ],
     "name:cdo_x_preferred":[
         "D\u00e0i-ci\u016d"
     ],
-    "name:chi_x_preferred":[
-        "\u53f0\u5dde\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tchaj-\u010dou"
     ],
     "name:dan_x_preferred":[
@@ -45,8 +39,11 @@
     "name:deu_x_preferred":[
         "Linhai"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Taizhou"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03ca\u03c4\u03c3\u03cc\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Linhai"
@@ -54,20 +51,20 @@
     "name:est_x_preferred":[
         "Linhai"
     ],
+    "name:eus_x_preferred":[
+        "Taizhou"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u06cc\u062c\u0648"
+    ],
     "name:fin_x_preferred":[
         "Taizhou"
     ],
     "name:fra_x_preferred":[
         "Linhai"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Taizhou"
-    ],
-    "name:ger_x_preferred":[
-        "Taizhou"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03ca\u03c4\u03c3\u03cc\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0a87\u0a9d\u0acb\u0a89"
@@ -108,14 +105,17 @@
     "name:mar_x_preferred":[
         "\u091f\u093e\u0908\u091d\u094b\u0909"
     ],
-    "name:may_x_preferred":[
-        "Taizhou"
-    ],
     "name:mlg_x_preferred":[
         "Linhai"
     ],
+    "name:msa_x_preferred":[
+        "Taizhou"
+    ],
     "name:nan_x_preferred":[
         "T\u00e2i-chiu-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Taizhou"
     ],
     "name:nno_x_preferred":[
         "Taizhou i Zhejiang"
@@ -125,9 +125,6 @@
     ],
     "name:nor_x_preferred":[
         "Linhai"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u06cc\u062c\u0648"
     ],
     "name:pol_x_preferred":[
         "Taizhou"
@@ -187,7 +184,8 @@
         "\u4e34\u6d77\u5e02"
     ],
     "name:zho_x_variant":[
-        "\u4e34\u6d77"
+        "\u4e34\u6d77",
+        "\u53f0\u5dde\u5e02"
     ],
     "name:zho_yue_x_preferred":[
         "\u81e8\u6d77"
@@ -330,7 +328,7 @@
         }
     ],
     "wof:id":102027377,
-    "wof:lastmodified":1527637564,
+    "wof:lastmodified":1561752070,
     "wof:name":"Linhai",
     "wof:parent_id":890515633,
     "wof:placetype":"locality",

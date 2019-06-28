@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018449,
-    "geom:area_square_m":198429346.999011,
+    "geom:area_square_m":198429346.999116,
     "geom:bbox":"106.375792293,29.4831843253,106.61616358,29.6636638849",
     "geom:latitude":29.564171,
     "geom:longitude":106.52564,
@@ -24,9 +24,6 @@
     "name:afr_x_preferred":[
         "Tsjongtsjing"
     ],
-    "name:alb_x_preferred":[
-        "\u00c7ongqing"
-    ],
     "name:ara_x_preferred":[
         "\u062a\u0634\u0648\u0646\u063a\u062a\u0634\u064a\u0646\u063a"
     ],
@@ -37,9 +34,6 @@
         "\u00c7untsin"
     ],
     "name:bam_x_preferred":[
-        "Chongqing"
-    ],
-    "name:baq_x_preferred":[
         "Chongqing"
     ],
     "name:bel_x_preferred":[
@@ -60,9 +54,6 @@
     "name:bul_x_preferred":[
         "\u0427\u0443\u043d\u0446\u0438\u043d"
     ],
-    "name:bur_x_preferred":[
-        "\u1001\u103b\u102f\u1036\u1001\u103b\u1004\u1037\u103a\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:bxr_x_preferred":[
         "\u0427\u0443\u043d\u0446\u0438\u043d"
     ],
@@ -78,17 +69,14 @@
     "name:che_x_preferred":[
         "\u0427\u0443\u043d\u0446\u0438\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u91cd\u5e86\u5e02"
-    ],
     "name:chy_x_preferred":[
         "Chongqing"
     ],
     "name:cor_x_preferred":[
         "Chongqing"
     ],
-    "name:cze_x_preferred":[
-        "\u010cchung-\u010dching"
+    "name:cym_x_preferred":[
+        "Chongqing"
     ],
     "name:dan_x_preferred":[
         "Chongqing"
@@ -96,8 +84,8 @@
     "name:deu_x_preferred":[
         "Chongqing"
     ],
-    "name:dut_x_preferred":[
-        "Chongqing"
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03bf\u03bd\u03b3\u03ba\u03af\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_colloquial":[
         ""
@@ -123,17 +111,8 @@
     "name:fra_x_preferred":[
         "Chongqing"
     ],
-    "name:fre_x_preferred":[
-        "Chongqing"
-    ],
     "name:gan_x_preferred":[
         "\u91cd\u6176"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10e3\u10dc\u10ea\u10d8\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Chongqing"
     ],
     "name:gle_x_preferred":[
         "Chongqing"
@@ -143,9 +122,6 @@
     ],
     "name:glv_x_preferred":[
         "Chongqing"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03bf\u03bd\u03b3\u03ba\u03af\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0ac9\u0a82\u0a97\u0a95\u0abf\u0a82\u0a97"
@@ -168,10 +144,10 @@
     "name:hun_x_variant":[
         "Chongqing"
     ],
-    "name:ice_x_preferred":[
+    "name:ind_x_preferred":[
         "Chongqing"
     ],
-    "name:ind_x_preferred":[
+    "name:isl_x_preferred":[
         "Chongqing"
     ],
     "name:ita_x_preferred":[
@@ -185,6 +161,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c9a\u0cbe\u0c82\u0c97\u0ccd\u200d\u0c95\u0cbf\u0c82\u0c97\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10e3\u10dc\u10ea\u10d8\u10dc\u10d8"
     ],
     "name:kik_x_preferred":[
         "Chongqing"
@@ -207,32 +186,38 @@
     "name:lzh_x_preferred":[
         "\u91cd\u6176\u5e02"
     ],
-    "name:mac_x_preferred":[
-        "\u0427\u0443\u043d\u0433\u045c\u0438\u043d\u0433"
-    ],
     "name:mal_x_preferred":[
         "\u0d1a\u0d4b\u0d19\u0d4d\u0d1a\u0d3f\u0d19\u0d4d"
-    ],
-    "name:mao_x_preferred":[
-        "Chongqing"
     ],
     "name:mar_x_preferred":[
         "\u091a\u094b\u0902\u0917\u091b\u093f\u0902\u0917"
     ],
-    "name:may_x_preferred":[
-        "Chongqing"
-    ],
     "name:mhr_x_preferred":[
         "\u0427\u0443\u043d\u0446\u0438\u043d"
     ],
+    "name:mkd_x_preferred":[
+        "\u0427\u0443\u043d\u0433\u045c\u0438\u043d\u0433"
+    ],
     "name:mon_x_preferred":[
         "\u0427\u0443\u043d\u0446\u0438\u043d"
+    ],
+    "name:mri_x_preferred":[
+        "Chongqing"
+    ],
+    "name:msa_x_preferred":[
+        "Chongqing"
+    ],
+    "name:mya_x_preferred":[
+        "\u1001\u103b\u102f\u1036\u1001\u103b\u1004\u1037\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nan_x_preferred":[
         "Ti\u014dng-kh\u00e8ng-chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Tsjoengking"
+    ],
+    "name:nld_x_variant":[
+        "Chongqing"
     ],
     "name:nno_x_preferred":[
         "Chongqing"
@@ -255,9 +240,6 @@
     "name:pan_x_preferred":[
         "\u0a1a\u0a4c\u0a02\u0a17\u0a15\u0a3f\u0a70\u0a17"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u0648\u0646\u06af\u200c\u06a9\u06cc\u0646\u06af"
-    ],
     "name:pnb_x_preferred":[
         "\u0686\u0648\u0646\u06af\u0686\u0646\u06af"
     ],
@@ -273,9 +255,6 @@
     "name:ron_x_preferred":[
         "Chongqing"
     ],
-    "name:rum_x_preferred":[
-        "Chongqing"
-    ],
     "name:rus_x_preferred":[
         "\u0427\u0443\u043d\u0446\u0438\u043d"
     ],
@@ -285,7 +264,7 @@
     "name:sin_x_preferred":[
         "\u0da0\u0ddc\u0db1\u0dca\u0d9a\u0dd2\u0db1\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u010cchung-\u010dching"
     ],
     "name:slv_x_preferred":[
@@ -293,6 +272,9 @@
     ],
     "name:spa_x_preferred":[
         "Chongqing"
+    ],
+    "name:sqi_x_preferred":[
+        "\u00c7ongqing"
     ],
     "name:srp_x_preferred":[
         "\u0427\u0443\u043d\u0433\u043a\u0438\u043d\u0433"
@@ -317,9 +299,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e09\u0e07\u0e0a\u0e34\u0e48\u0e07"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f41\u0fb2\u0f74\u0f44\u0f0b\u0f46\u0f72\u0f53\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0d"
     ],
     "name:tsn_x_preferred":[
         "Chongqing"
@@ -355,9 +334,6 @@
         "Tr\u00f9ng Kh\u00e1nh"
     ],
     "name:war_x_preferred":[
-        "Chongqing"
-    ],
-    "name:wel_x_preferred":[
         "Chongqing"
     ],
     "name:wuu_x_preferred":[
@@ -511,7 +487,7 @@
         }
     ],
     "wof:id":102027689,
-    "wof:lastmodified":1513939165,
+    "wof:lastmodified":1561752066,
     "wof:megacity":1,
     "wof:name":"Chongqing",
     "wof:parent_id":890513063,

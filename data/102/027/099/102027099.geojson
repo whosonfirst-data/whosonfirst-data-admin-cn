@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000545,
-    "geom:area_square_m":5783420.167255,
+    "geom:area_square_m":5783420.16725,
     "geom:bbox":"117.790438526,30.9073412261,117.822355406,30.93481101",
     "geom:latitude":30.921076,
     "geom:longitude":117.806397,
@@ -21,12 +21,6 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0646\u063a\u0644\u064a\u0646\u063a"
     ],
-    "name:arm_x_preferred":[
-        "\u054f\u0578\u0582\u0576\u056c\u056b\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Tongling"
-    ],
     "name:ben_x_preferred":[
         "\u09a4\u0982\u09b2\u09bf\u09a8"
     ],
@@ -36,10 +30,7 @@
     "name:cdo_x_preferred":[
         "D\u00e8\u0324ng-l\u00ecng"
     ],
-    "name:chi_x_preferred":[
-        "\u94dc\u9675\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tchung-ling"
     ],
     "name:dan_x_preferred":[
@@ -48,8 +39,8 @@
     "name:deu_x_preferred":[
         "Tongling"
     ],
-    "name:dut_x_preferred":[
-        "Tongling"
+    "name:ell_x_preferred":[
+        "\u03a4\u03cc\u03bd\u03b3\u03ba\u03bb\u03b9\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Tongling"
@@ -57,17 +48,17 @@
     "name:epo_x_preferred":[
         "Tonglingo"
     ],
+    "name:eus_x_preferred":[
+        "Tongling"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0646\u06af\u0644\u06cc\u0646\u06af"
+    ],
     "name:fin_x_preferred":[
         "Tongling"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tongling"
-    ],
-    "name:ger_x_preferred":[
-        "Tongling"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03cc\u03bd\u03b3\u03ba\u03bb\u03b9\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acb\u0a82\u0a97\u0ab2\u0abf\u0a82\u0a97"
@@ -77,6 +68,9 @@
     ],
     "name:hun_x_preferred":[
         "Tungling"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0578\u0582\u0576\u056c\u056b\u0576"
     ],
     "name:ind_x_preferred":[
         "Tongling"
@@ -105,10 +99,10 @@
     "name:mar_x_preferred":[
         "\u091f\u0902\u0917\u0932\u093f\u0902\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Tongling"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Tongling"
     ],
     "name:nan_x_preferred":[
@@ -128,9 +122,6 @@
     ],
     "name:pam_x_preferred":[
         "Tongling"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u0646\u06af\u0644\u06cc\u0646\u06af"
     ],
     "name:pnb_x_preferred":[
         "\u062a\u0648\u0646\u06af \u0644\u06cc\u0646\u06af"
@@ -191,6 +182,9 @@
     ],
     "name:yue_x_preferred":[
         "\u9285\u9675"
+    ],
+    "name:zho_x_preferred":[
+        "\u94dc\u9675\u5e02"
     ],
     "name:zho_x_variant":[
         "\u94dc\u9675"
@@ -338,7 +332,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1513940606,
+    "wof:lastmodified":1561752068,
     "wof:name":"Wusong",
     "wof:parent_id":890514517,
     "wof:placetype":"locality",
