@@ -40,12 +40,6 @@
     "name:ara_x_preferred":[
         "\u0634\u0627\u0646\u062f\u0648\u0646\u063a"
     ],
-    "name:arm_x_preferred":[
-        "\u0547\u0561\u0576\u0564\u0578\u0582\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Shandong"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0428\u0430\u043d\u044c\u0434\u0443\u043d"
     ],
@@ -73,14 +67,8 @@
     "name:che_x_preferred":[
         "\u0428\u0430\u043d\u044c\u0434\u0443\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u5c71\u4e1c\u7701"
-    ],
     "name:cym_x_preferred":[
         "Shandong"
-    ],
-    "name:cze_x_preferred":[
-        "\u0160an-tung"
     ],
     "name:dan_x_preferred":[
         "Shandong"
@@ -88,11 +76,11 @@
     "name:deu_x_preferred":[
         "Shandong"
     ],
-    "name:dut_x_preferred":[
-        "Shandong"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd\u03bd\u03c4\u03cc\u03bd\u03b3\u03ba"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03bd-\u03c4\u03bf\u03cd\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Shandong"
@@ -121,17 +109,8 @@
     "name:fra_x_variant":[
         "Province de Shandong"
     ],
-    "name:fre_x_preferred":[
-        "Shandong"
-    ],
     "name:gan_x_preferred":[
         "\u5c71\u6771"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d0\u10dc\u10d3\u10e3\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Shandong"
     ],
     "name:gle_x_preferred":[
         "Shandong"
@@ -141,9 +120,6 @@
     ],
     "name:glv_x_preferred":[
         "Shandong"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd-\u03c4\u03bf\u03cd\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0abe\u0aa8\u0aa1\u0acb\u0a82\u0a97"
@@ -210,14 +186,11 @@
     "name:lzh_x_preferred":[
         "\u5c71\u6771\u7701"
     ],
-    "name:mac_x_preferred":[
-        "\u0428\u0430\u043d\u0434\u0443\u043d\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u0937\u093e\u0902\u0924\u094b\u0902\u0917"
     ],
-    "name:may_x_preferred":[
-        "Shandong"
+    "name:mkd_x_preferred":[
+        "\u0428\u0430\u043d\u0434\u0443\u043d\u0433"
     ],
     "name:mlg_x_preferred":[
         "Shandong"
@@ -255,9 +228,6 @@
     "name:pam_x_preferred":[
         "Shandong"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0627\u0646\u062f\u0648\u0646\u06af"
-    ],
     "name:pnb_x_preferred":[
         "\u0634\u0627\u0646\u0688\u0648\u0646\u06af"
     ],
@@ -271,9 +241,6 @@
         "Shandong pruwinsya"
     ],
     "name:ron_x_preferred":[
-        "Shandong"
-    ],
-    "name:rum_x_preferred":[
         "Shandong"
     ],
     "name:rus_x_preferred":[
@@ -318,9 +285,6 @@
     "name:tha_x_preferred":[
         "\u0e21\u0e13\u0e11\u0e25\u0e0b\u0e32\u0e19\u0e15\u0e07"
     ],
-    "name:tib_x_preferred":[
-        "\u0f67\u0fb2\u0f53\u0f0b\u0f4f\u0f74\u0f44\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "\u015eantung"
     ],
@@ -350,9 +314,6 @@
         "S\u01a1n \u0110\u00f4ng"
     ],
     "name:war_x_preferred":[
-        "Shandong"
-    ],
-    "name:wel_x_preferred":[
         "Shandong"
     ],
     "name:wln_x_preferred":[
@@ -512,7 +473,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1553550334,
+    "wof:lastmodified":1561752347,
     "wof:name":"Shandong",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

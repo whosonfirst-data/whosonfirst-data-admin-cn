@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00308,
-    "geom:area_square_m":30739878.642103,
+    "geom:area_square_m":30739878.642109,
     "geom:bbox":"117.053693934,36.1599067466,117.174819138,36.2222707175",
     "geom:latitude":36.192292,
     "geom:longitude":117.118246,
@@ -24,9 +24,6 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u064a\u0622\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Tai'an"
-    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u0987'\u0986\u09a8"
     ],
@@ -36,17 +33,17 @@
     "name:cdo_x_preferred":[
         "T\u00e1i-\u0103ng"
     ],
-    "name:chi_x_preferred":[
-        "\u6cf0\u5b89\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tchaj-an"
     ],
     "name:dan_x_preferred":[
         "Tai'an"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tai'an"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u0390\u03b1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Tai'an"
@@ -54,17 +51,14 @@
     "name:epo_x_preferred":[
         "Tajan"
     ],
+    "name:eus_x_preferred":[
+        "Tai'an"
+    ],
     "name:fin_x_preferred":[
         "Tai\u2019an"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tai'an"
-    ],
-    "name:ger_x_preferred":[
-        "Tai'an"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u0390\u03b1\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ac8\u0a86\u0aa8"
@@ -99,11 +93,14 @@
     "name:mar_x_preferred":[
         "\u0924\u0948\u0906\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tai'an"
     ],
     "name:nan_x_preferred":[
         "Th\u00e0i-an-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Tai'an"
     ],
     "name:nno_x_preferred":[
         "Tai'an"
@@ -117,7 +114,7 @@
     "name:por_x_preferred":[
         "Tai'an"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tai'an"
     ],
     "name:rus_x_preferred":[
@@ -172,7 +169,8 @@
         "\u6cf0\u5b89"
     ],
     "name:zho_x_variant":[
-        "\u6cf0\u5b89\u9547"
+        "\u6cf0\u5b89\u9547",
+        "\u6cf0\u5b89\u5e02"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -218,7 +216,7 @@
         }
     ],
     "wof:id":102026855,
-    "wof:lastmodified":1527637814,
+    "wof:lastmodified":1561752084,
     "wof:name":"Tai\u2019an",
     "wof:parent_id":890515833,
     "wof:placetype":"locality",

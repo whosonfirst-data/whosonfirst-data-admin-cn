@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001883,
-    "geom:area_square_m":19518418.821582,
+    "geom:area_square_m":19518418.821592,
     "geom:bbox":"106.979655342,33.0134669067,107.045010281,33.0959536801",
     "geom:latitude":33.053798,
     "geom:longitude":107.019803,
@@ -21,12 +21,6 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u0646\u062a\u0634\u0648\u0646\u063a"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0561\u0576\u056a\u0578\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Hanzhong"
-    ],
     "name:ben_x_preferred":[
         "\u09b9\u09be\u0982\u099d\u0982"
     ],
@@ -36,20 +30,14 @@
     "name:ces_x_preferred":[
         "Chan-\u010dung"
     ],
-    "name:chi_x_preferred":[
-        "\u6c49\u4e2d\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Chan-\u010dung"
-    ],
     "name:dan_x_preferred":[
         "Hanzhong"
     ],
     "name:deu_x_preferred":[
         "Hanzhong"
     ],
-    "name:dut_x_preferred":[
-        "Hanzhong"
+    "name:ell_x_preferred":[
+        "\u03a7\u03ac\u03bd\u03b6\u03bf\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Hanzhong"
@@ -66,15 +54,6 @@
     "name:fra_x_preferred":[
         "Hanzhong"
     ],
-    "name:fre_x_preferred":[
-        "Hanzhong"
-    ],
-    "name:ger_x_preferred":[
-        "Hanzhong"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03ac\u03bd\u03b6\u03bf\u03bd\u03b3\u03ba"
-    ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac7\u0aa8\u0acd\u0a9d\u0acb\u0a82\u0a97"
     ],
@@ -86,6 +65,9 @@
     ],
     "name:hun_x_preferred":[
         "Hancsung"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0576\u056a\u0578\u0576"
     ],
     "name:ind_x_preferred":[
         "Hanzhong"
@@ -114,7 +96,7 @@
     "name:mar_x_preferred":[
         "\u0939\u0902\u091d\u0939\u0949\u0902\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hanzhong"
     ],
     "name:nan_x_preferred":[
@@ -329,7 +311,7 @@
         }
     ],
     "wof:id":102027567,
-    "wof:lastmodified":1527637557,
+    "wof:lastmodified":1561752063,
     "wof:name":"Hanzhong",
     "wof:parent_id":890515099,
     "wof:placetype":"locality",

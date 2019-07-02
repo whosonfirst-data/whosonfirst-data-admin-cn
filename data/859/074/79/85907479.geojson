@@ -24,13 +24,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
-    "name:baq_x_preferred":[
-        "Lujiazui"
-    ],
-    "name:chi_x_preferred":[
-        "\u9646\u5bb6\u5634\u91d1\u878d\u8d38\u6613\u533a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lujiazui"
     ],
     "name:eng_x_preferred":[
@@ -39,10 +33,10 @@
     "name:eng_x_variant":[
         "Lujiazui"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Lujiazui"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Lujiazui"
     ],
     "name:heb_x_preferred":[
@@ -51,11 +45,17 @@
     "name:kor_x_preferred":[
         "\ub8e8\uc790\ucb48\uc774"
     ],
+    "name:nld_x_preferred":[
+        "Lujiazui"
+    ],
     "name:nob_x_preferred":[
         "Lujiazui"
     ],
     "name:spa_x_preferred":[
         "Lujiazui"
+    ],
+    "name:zho_x_preferred":[
+        "\u9646\u5bb6\u5634\u91d1\u878d\u8d38\u6613\u533a"
     ],
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
@@ -95,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269172,
+    "wof:lastmodified":1561752327,
     "wof:name":"Lu Jia Zui",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

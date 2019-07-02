@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000279,
-    "geom:area_square_m":3129562.943539,
+    "geom:area_square_m":3129562.94354,
     "geom:bbox":"112.264895789,24.7028761479,112.284664712,24.7209345379",
     "geom:latitude":24.711905,
     "geom:longitude":112.27478,
@@ -22,14 +22,11 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8\u099c\u09bf\u09af\u09bc\u09be\u0982"
     ],
-    "name:chi_x_preferred":[
-        "\u4e09\u6c5f\u9547"
-    ],
     "name:dan_x_preferred":[
         "Sanjiang"
     ],
-    "name:dut_x_preferred":[
-        "Sanjiang"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd\u03c4\u03b6\u03b9\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Sanjiang"
@@ -37,11 +34,8 @@
     "name:fin_x_preferred":[
         "Sanjiang"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sanjiang"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd\u03c4\u03b6\u03b9\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0a82\u0a9c\u0ac0\u0a85\u0a82\u0a97"
@@ -70,7 +64,10 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928\u091c\u093f\u0902\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Sanjiang"
+    ],
+    "name:nld_x_preferred":[
         "Sanjiang"
     ],
     "name:nob_x_preferred":[
@@ -124,7 +121,8 @@
     "name:zho_x_variant":[
         "San-chiang-ch\u2019eng",
         "\u4e09\u6c5f",
-        "San-chiang-hs\u00fc"
+        "San-chiang-hs\u00fc",
+        "\u4e09\u6c5f\u9547"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -170,7 +168,7 @@
         }
     ],
     "wof:id":102027191,
-    "wof:lastmodified":1553815721,
+    "wof:lastmodified":1561752072,
     "wof:name":"Sanjiang",
     "wof:parent_id":890513267,
     "wof:placetype":"locality",

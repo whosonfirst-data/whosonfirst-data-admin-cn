@@ -17,12 +17,6 @@
     "name:ara_x_preferred":[
         "\u0648\u0648\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0548\u0582\u057e\u0565\u0575"
-    ],
-    "name:baq_x_preferred":[
-        "Wuwei"
-    ],
     "name:ben_x_preferred":[
         "\u0989\u0989\u0987"
     ],
@@ -35,38 +29,38 @@
     "name:cdo_x_preferred":[
         "\u016a-\u016di"
     ],
-    "name:chi_x_preferred":[
-        "\u6b66\u5a01\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Wu-wej"
     ],
     "name:dan_x_preferred":[
         "Wuwei"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Wuwei"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03b3\u03bf\u03c5\u03ad\u03b9"
+    ],
     "name:eng_x_preferred":[
+        "Wuwei"
+    ],
+    "name:eus_x_preferred":[
         "Wuwei"
     ],
     "name:fin_x_preferred":[
         "Wuwei"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Wuwei"
-    ],
-    "name:ger_x_preferred":[
-        "Wuwei"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03bf\u03c5\u03b3\u03bf\u03c5\u03ad\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac1\u0ab5\u0ac7\u0a88"
     ],
     "name:hin_x_preferred":[
         "\u0935\u0942\u0935\u0947\u0907"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u057e\u0565\u0575"
     ],
     "name:ind_x_preferred":[
         "Wuwei"
@@ -95,11 +89,14 @@
     "name:mar_x_preferred":[
         "\u0935\u0942\u0935\u0947\u0908"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Wuwei"
     ],
     "name:nan_x_preferred":[
         "B\u00fa-ui-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Wuwei"
     ],
     "name:nno_x_preferred":[
         "Wuwei"
@@ -160,6 +157,9 @@
     ],
     "name:yue_x_preferred":[
         "\u6b66\u5a01"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b66\u5a01\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -282,7 +282,7 @@
         }
     ],
     "wof:id":1141909217,
-    "wof:lastmodified":1513940606,
+    "wof:lastmodified":1561755420,
     "wof:name":"Wuwei",
     "wof:parent_id":890516467,
     "wof:placetype":"locality",

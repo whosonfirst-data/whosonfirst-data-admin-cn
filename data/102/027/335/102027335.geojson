@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003555,
-    "geom:area_square_m":37403804.372232,
+    "geom:area_square_m":37403804.372194,
     "geom:bbox":"118.471506891,31.6677390955,118.558523076,31.7325137658",
     "geom:latitude":31.69411,
     "geom:longitude":118.512562,
@@ -22,12 +22,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u0634\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u0561\u0576\u0577\u0561\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Ma'anshan"
-    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be'\u0986\u09a8\u09b8\u09be\u09a8"
     ],
@@ -40,20 +34,14 @@
     "name:ces_x_preferred":[
         "Ma-an-\u0161an"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u978d\u5c71\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Ma-an-\u0161an"
-    ],
     "name:dan_x_preferred":[
         "Ma'anshan"
     ],
     "name:deu_x_preferred":[
         "Ma\u2019anshan"
     ],
-    "name:dut_x_preferred":[
-        "Ma'anshan"
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03b1\u03bd\u03c3\u03b1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Ma'anshan"
@@ -72,15 +60,6 @@
     ],
     "name:fra_x_preferred":[
         "Ma'anshan"
-    ],
-    "name:fre_x_preferred":[
-        "Ma'anshan"
-    ],
-    "name:ger_x_preferred":[
-        "Ma\u2019anshan"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03ac\u03b1\u03bd\u03c3\u03b1\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0aa8\u0ab6\u0aa8"
@@ -118,10 +97,10 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0928\u0936\u093e\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Ma'anshan"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Ma'anshan"
     ],
     "name:nan_x_preferred":[
@@ -141,9 +120,6 @@
     ],
     "name:pam_x_preferred":[
         "Ma'anshan"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u0646\u0634\u0627\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u0622\u0646\u0634\u0627\u0646"
@@ -267,7 +243,7 @@
         }
     ],
     "wof:id":102027335,
-    "wof:lastmodified":1527637567,
+    "wof:lastmodified":1561752073,
     "wof:name":"Ma\u2019anshan",
     "wof:parent_id":1108732543,
     "wof:placetype":"locality",

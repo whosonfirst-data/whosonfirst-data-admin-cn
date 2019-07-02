@@ -52,14 +52,11 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u099d\u09c1"
     ],
-    "name:chi_x_preferred":[
-        "\u5927\u5e97\u9547"
-    ],
     "name:dan_x_preferred":[
         "Suzhou"
     ],
-    "name:dut_x_preferred":[
-        "Suzhou"
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c5\u03c4\u03c3\u03cc\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Suzhou"
@@ -67,11 +64,8 @@
     "name:fin_x_preferred":[
         "Suzhou"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Suzhou"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03c5\u03c4\u03c3\u03cc\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0a9d\u0acb\u0a89"
@@ -100,7 +94,10 @@
     "name:mar_x_preferred":[
         "\u0938\u0941\u091d\u094b\u090a"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Suzhou"
+    ],
+    "name:nld_x_preferred":[
         "Suzhou"
     ],
     "name:nob_x_preferred":[
@@ -152,7 +149,8 @@
         "\u5bbf\u5dde\u5e02"
     ],
     "name:zho_x_variant":[
-        "\u5bbf\u5dde"
+        "\u5bbf\u5dde",
+        "\u5927\u5e97\u9547"
     ],
     "qs:name":"\u5bbf\u5dde\u5e02",
     "qs:name_adm0":"\u4e2d\u570b",
@@ -209,7 +207,7 @@
         }
     ],
     "wof:id":890514507,
-    "wof:lastmodified":1555036908,
+    "wof:lastmodified":1561753698,
     "wof:name":"Suzhou",
     "wof:parent_id":85669739,
     "wof:placetype":"county",

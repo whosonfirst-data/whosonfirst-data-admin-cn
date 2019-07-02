@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038623,
-    "geom:area_square_m":440969480.928775,
+    "geom:area_square_m":440969480.928533,
     "geom:bbox":"113.792155762,22.4654701822,114.163161844,22.6990751045",
     "geom:latitude":22.578962,
     "geom:longitude":113.98708,
@@ -21,17 +21,11 @@
     "name:afr_x_preferred":[
         "Shenzhen"
     ],
-    "name:alb_x_preferred":[
-        "Shenzhen"
-    ],
     "name:ara_x_preferred":[
         "\u0634\u0646\u062c\u0646"
     ],
     "name:ara_x_variant":[
         "\u0634\u064a\u0646\u0632\u064a\u0646"
-    ],
-    "name:arm_x_preferred":[
-        "\u0547\u0565\u0576\u056a\u0565\u0576"
     ],
     "name:ast_x_preferred":[
         "Shenzhen"
@@ -43,9 +37,6 @@
         "\u0428\u044d\u043d\u044c\u0447\u0436\u044d\u043d\u044c"
     ],
     "name:bam_x_preferred":[
-        "Shenzhen"
-    ],
-    "name:baq_x_preferred":[
         "Shenzhen"
     ],
     "name:bel_x_preferred":[
@@ -66,9 +57,6 @@
     "name:bul_x_preferred":[
         "\u0428\u044a\u043d\u0434\u0436\u044a\u043d"
     ],
-    "name:bur_x_preferred":[
-        "\u101b\u103e\u102d\u1014\u103a\u1038\u1000\u103b\u102d\u1014\u1037\u103a\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "Shenzhen"
     ],
@@ -77,9 +65,6 @@
     ],
     "name:ces_x_preferred":[
         "\u0160en-\u010den"
-    ],
-    "name:chi_x_preferred":[
-        "\u6df1\u5733\u5e02"
     ],
     "name:chy_x_preferred":[
         "Shenzhen"
@@ -90,20 +75,17 @@
     "name:cym_x_preferred":[
         "Shenzhen"
     ],
-    "name:cze_x_preferred":[
-        "\u0160en-\u010den"
-    ],
     "name:dan_x_preferred":[
         "Shenzhen"
     ],
     "name:deu_x_preferred":[
         "Shenzhen"
     ],
-    "name:dut_x_preferred":[
-        "Shenzhen"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b5\u03bd\u03c4\u03b6\u03ad\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b5\u03bd\u03b6\u03ad\u03bd"
     ],
     "name:eng_x_colloquial":[
         "The overnight city"
@@ -138,23 +120,11 @@
     "name:fra_x_preferred":[
         "Shenzhen"
     ],
-    "name:fre_x_preferred":[
-        "Shenzhen"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d4\u10dc\u10ea\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Shenzhen"
-    ],
     "name:gle_x_preferred":[
         "Shenzhen"
     ],
     "name:glg_x_preferred":[
         "Shenzhen"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b5\u03bd\u03b6\u03ad\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0ac7\u0aa8\u0a9d\u0ac7\u0aa8"
@@ -180,8 +150,8 @@
     "name:hun_x_preferred":[
         "Sencsen"
     ],
-    "name:ice_x_preferred":[
-        "Shenzhen"
+    "name:hye_x_preferred":[
+        "\u0547\u0565\u0576\u056a\u0565\u0576"
     ],
     "name:ina_x_preferred":[
         "Shenzhen"
@@ -204,6 +174,9 @@
     "name:kan_x_preferred":[
         "\u0cb6\u0cc6\u0ca8\u0ccd\u200c\u0c9d\u0cc6\u0ca8\u0ccd\u200c"
     ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d4\u10dc\u10ea\u10d4\u10dc\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u0428\u044d\u043d\u044c\u0447\u0436\u044d\u043d\u044c"
     ],
@@ -225,20 +198,14 @@
     "name:lit_x_preferred":[
         "\u0160end\u017eenas"
     ],
-    "name:mac_x_preferred":[
-        "\u0428\u0435\u043d\u045f\u0435\u043d"
-    ],
     "name:mal_x_preferred":[
         "\u0d37\u0d46\u0d1e\u0d4d\u0d1c\u0d46\u0d7b"
-    ],
-    "name:mao_x_preferred":[
-        "Shenzhen"
     ],
     "name:mar_x_preferred":[
         "\u0937\u0947\u0902\u091a\u0947\u0928"
     ],
-    "name:may_x_preferred":[
-        "Shenzhen"
+    "name:mkd_x_preferred":[
+        "\u0428\u0435\u043d\u045f\u0435\u043d"
     ],
     "name:mlg_x_preferred":[
         "Shenzhen"
@@ -288,9 +255,6 @@
     "name:pan_x_preferred":[
         "\u0a38\u0a3c\u0a48\u0a28\u0a1c\u0a3c\u0a48\u0a28"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0646\u0698\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u0634\u06cc\u0646\u0698\u06cc\u0646"
     ],
@@ -306,9 +270,6 @@
     "name:ron_x_preferred":[
         "Shenzhen"
     ],
-    "name:rum_x_preferred":[
-        "Shenzhen"
-    ],
     "name:rus_x_preferred":[
         "\u0428\u044d\u043d\u044c\u0447\u0436\u044d\u043d\u044c"
     ],
@@ -321,13 +282,13 @@
     "name:slk_x_preferred":[
         "\u0160en-\u010den"
     ],
-    "name:slo_x_preferred":[
-        "\u0160en-\u010den"
-    ],
     "name:slv_x_preferred":[
         "\u0160en\u017een"
     ],
     "name:spa_x_preferred":[
+        "Shenzhen"
+    ],
+    "name:sqi_x_preferred":[
         "Shenzhen"
     ],
     "name:srp_x_preferred":[
@@ -388,9 +349,6 @@
         "Th\u00e2m Quy\u1ebfn"
     ],
     "name:war_x_preferred":[
-        "Shenzhen"
-    ],
-    "name:wel_x_preferred":[
         "Shenzhen"
     ],
     "name:wol_x_preferred":[
@@ -563,7 +521,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1527637566,
+    "wof:lastmodified":1561752072,
     "wof:megacity":1,
     "wof:name":"Shenzhen",
     "wof:parent_id":890514737,

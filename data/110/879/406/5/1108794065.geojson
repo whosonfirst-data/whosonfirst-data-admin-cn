@@ -54,14 +54,14 @@
     "name:bod_x_preferred":[
         "Aba"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u575d\u9547"
-    ],
     "name:dan_x_preferred":[
         "Ngawa"
     ],
-    "name:dut_x_preferred":[
-        "Ngawa Town"
+    "name:deu_x_preferred":[
+        "Ngawa"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b3\u03ba\u03ac\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
         "Aba Zangzu Qiangzu"
@@ -72,14 +72,8 @@
     "name:fin_x_preferred":[
         "Ngawa Town"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Aba"
-    ],
-    "name:ger_x_preferred":[
-        "Ngawa"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b3\u03ba\u03ac\u03b2\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0a97\u0abe\u0ab5\u0abe \u0aa8\u0a97\u0ab0"
@@ -111,7 +105,10 @@
     "name:mar_x_preferred":[
         "\u0928\u0917\u093e\u0935\u093e \u0928\u0917\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Ngawa Town"
+    ],
+    "name:nld_x_preferred":[
         "Ngawa Town"
     ],
     "name:nob_x_preferred":[
@@ -163,7 +160,8 @@
         "\u963f\u575d\u85cf\u65cf\u7f8c\u65cf\u81ea\u6cbb\u5dde"
     ],
     "name:zho_x_variant":[
-        "\u963f\u575d"
+        "\u963f\u575d",
+        "\u963f\u575d\u9547"
     ],
     "qs:name":"Aba Zangzu Qiangzu Zizhizhou",
     "qs:photos_9r":0,
@@ -212,7 +210,7 @@
         }
     ],
     "wof:id":1108794065,
-    "wof:lastmodified":1555037217,
+    "wof:lastmodified":1561753291,
     "wof:name":"Aba",
     "wof:parent_id":85669787,
     "wof:placetype":"county",

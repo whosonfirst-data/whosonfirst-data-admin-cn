@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004674,
-    "geom:area_square_m":47714342.11235,
+    "geom:area_square_m":47714342.112355,
     "geom:bbox":"108.440680449,34.2845203297,108.759036078,34.4748173087",
     "geom:latitude":34.347714,
     "geom:longitude":108.637717,
@@ -24,9 +24,6 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0627\u0646\u064a\u0627\u0646\u063a"
     ],
-    "name:baq_x_preferred":[
-        "Xianyang"
-    ],
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09af\u09bc\u09be\u09a8\u0987\u09af\u09bc\u09be\u0982"
     ],
@@ -39,17 +36,14 @@
     "name:ces_x_preferred":[
         "Sien-jang"
     ],
-    "name:chi_x_preferred":[
-        "\u54b8\u967d\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Sien-jang"
-    ],
     "name:dan_x_preferred":[
         "Xianyang"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Xianyang"
+    ],
+    "name:ell_x_preferred":[
+        "\u039e\u03b9\u03ac\u03bd\u03b3\u03b9\u03b1\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_colloquial":[
         ""
@@ -60,20 +54,17 @@
     "name:epo_x_preferred":[
         "\u015cjanjango"
     ],
+    "name:eus_x_preferred":[
+        "Xianyang"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u06cc\u0627\u0646\u200c\u06cc\u0627\u0646\u06af"
     ],
     "name:fin_x_preferred":[
         "Xianyang"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Xianyang"
-    ],
-    "name:ger_x_preferred":[
-        "Xianyang"
-    ],
-    "name:gre_x_preferred":[
-        "\u039e\u03b9\u03ac\u03bd\u03b3\u03b9\u03b1\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abf\u0aaf\u0abe\u0aa8\u0abf\u0aaf\u0abe\u0a82\u0a97"
@@ -111,23 +102,23 @@
     "name:mar_x_preferred":[
         "\u091d\u093f\u092f\u093e\u0928\u092f\u093e\u0902\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Xianyang"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Xianyang"
     ],
     "name:nan_x_preferred":[
         "H\u00e2m-i\u00f4ng-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Xianyang"
     ],
     "name:nno_x_preferred":[
         "Xianyang"
     ],
     "name:nob_x_preferred":[
         "Xianyang"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u06cc\u0627\u0646\u200c\u06cc\u0627\u0646\u06af"
     ],
     "name:pol_x_preferred":[
         "Xianyang"
@@ -188,6 +179,9 @@
     ],
     "name:zho_x_preferred":[
         "\u54b8\u9633"
+    ],
+    "name:zho_x_variant":[
+        "\u54b8\u967d\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -329,7 +323,7 @@
         }
     ],
     "wof:id":102027031,
-    "wof:lastmodified":1527637562,
+    "wof:lastmodified":1561752068,
     "wof:megacity":1,
     "wof:name":"Xianyang",
     "wof:parent_id":890515689,

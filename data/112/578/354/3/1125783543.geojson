@@ -22,12 +22,6 @@
     "name:ara_x_preferred":[
         "\u0632\u0647\u0627\u0646\u063a\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0549\u056a\u0561\u0576\u056b\u0565"
-    ],
-    "name:baq_x_preferred":[
-        "Zhangye"
-    ],
     "name:ben_x_preferred":[
         "\u099d\u09be\u0982\u0987"
     ],
@@ -43,32 +37,29 @@
     "name:ces_x_preferred":[
         "\u010cang-jie"
     ],
-    "name:chi_x_preferred":[
-        "\u5f20\u6396\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "\u010cang-jie"
-    ],
     "name:dan_x_preferred":[
         "Zhangye"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Zhangye"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03bd\u03b3\u03ba\u03b3\u03b9\u03ad"
     ],
     "name:eng_x_preferred":[
         "Zhangye"
     ],
+    "name:eus_x_preferred":[
+        "Zhangye"
+    ],
+    "name:fas_x_preferred":[
+        "\u0698\u0627\u0646\u06af\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Zhangye"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zhangye"
-    ],
-    "name:ger_x_preferred":[
-        "Zhangye"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03b1\u03bd\u03b3\u03ba\u03b3\u03b9\u03ad"
     ],
     "name:gsw_x_preferred":[
         "Zhangye"
@@ -109,14 +100,17 @@
     "name:mar_x_preferred":[
         "\u091d\u093e\u0902\u0917\u094d\u092f\u0947"
     ],
-    "name:may_x_preferred":[
-        "Zhangye"
-    ],
     "name:mon_x_preferred":[
         "\u0416\u0430\u043d\u044a\u0435"
     ],
+    "name:msa_x_preferred":[
+        "Zhangye"
+    ],
     "name:nan_x_preferred":[
         "Tiu\u207f-e\u030dk-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Zhangye"
     ],
     "name:nno_x_preferred":[
         "Zhangye"
@@ -126,9 +120,6 @@
     ],
     "name:pam_x_preferred":[
         "Zhangye"
-    ],
-    "name:per_x_preferred":[
-        "\u0698\u0627\u0646\u06af\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0698\u0627\u0646\u06af\u06cc\u06d3"
@@ -248,7 +239,7 @@
         }
     ],
     "wof:id":1125783543,
-    "wof:lastmodified":1513941174,
+    "wof:lastmodified":1561753713,
     "wof:name":"\u5f20\u6396",
     "wof:parent_id":890515163,
     "wof:placetype":"locality",

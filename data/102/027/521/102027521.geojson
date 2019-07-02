@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001023,
-    "geom:area_square_m":10925942.332774,
+    "geom:area_square_m":10925942.332794,
     "geom:bbox":"115.032948159,30.2168290653,115.075695633,30.2538509046",
     "geom:latitude":30.236886,
     "geom:longitude":115.05713,
@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0627\u0646\u063a\u0634\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Huangshi"
-    ],
     "name:ben_x_preferred":[
         "\u09b9\u09bf\u0989\u09af\u09bc\u09be\u09a8\u09b8\u09bf"
     ],
@@ -48,20 +45,14 @@
     "name:ces_x_variant":[
         "Chuang-\u0161"
     ],
-    "name:chi_x_preferred":[
-        "\u9ec3\u77f3\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Chuang-\u0161'"
-    ],
     "name:dan_x_preferred":[
         "Huangshi"
     ],
     "name:deu_x_preferred":[
         "Huangshi"
     ],
-    "name:dut_x_preferred":[
-        "Huangshi"
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c5\u03ac\u03bd\u03b3\u03ba\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Huangshi"
@@ -93,15 +84,6 @@
     ],
     "name:fra_x_preferred":[
         "Huangshi"
-    ],
-    "name:fre_x_preferred":[
-        "Huangshi"
-    ],
-    "name:ger_x_preferred":[
-        "Huangshi"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03bf\u03c5\u03ac\u03bd\u03b3\u03ba\u03c3\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac1\u0a86\u0a82\u0a97\u0ab6\u0ac0"
@@ -136,10 +118,10 @@
     "name:mar_x_preferred":[
         "\u0939\u0906\u0902\u0917\u0936\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Huangshi"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Huangshi"
     ],
     "name:nan_x_preferred":[
@@ -162,9 +144,6 @@
     ],
     "name:pam_x_preferred":[
         "Huangshi"
-    ],
-    "name:per_x_preferred":[
-        "\u0647\u0648\u0627\u0646\u06af\u0634\u06cc"
     ],
     "name:pol_x_preferred":[
         "Huangshi"
@@ -230,7 +209,8 @@
         "\u9ec4\u77f3\u5e02"
     ],
     "name:zho_x_variant":[
-        "\u9ec4\u77f3"
+        "\u9ec4\u77f3",
+        "\u9ec3\u77f3\u5e02"
     ],
     "name:zho_yue_x_preferred":[
         "\u9ec3\u77f3\u5e02"
@@ -382,7 +362,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1527637564,
+    "wof:lastmodified":1561752070,
     "wof:name":"Huangshi",
     "wof:parent_id":890516683,
     "wof:placetype":"locality",

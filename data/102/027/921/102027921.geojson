@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012103,
-    "geom:area_square_m":104436905.190345,
+    "geom:area_square_m":104436905.190327,
     "geom:bbox":"126.555141469,45.6780024158,126.723670389,45.7956723891",
     "geom:latitude":45.743302,
     "geom:longitude":126.635161,
@@ -24,22 +24,13 @@
     "name:afr_x_preferred":[
         "Harbin"
     ],
-    "name:alb_x_preferred":[
-        "Harbin"
-    ],
     "name:ara_x_preferred":[
         "\u0647\u0627\u0631\u0628\u0646"
-    ],
-    "name:arm_x_preferred":[
-        "\u0540\u0561\u0580\u0562\u056b\u0576"
     ],
     "name:ast_x_preferred":[
         "Harbin"
     ],
     "name:aze_x_preferred":[
-        "Harbin"
-    ],
-    "name:baq_x_preferred":[
         "Harbin"
     ],
     "name:bel_x_preferred":[
@@ -60,9 +51,6 @@
     "name:bul_x_preferred":[
         "\u0425\u0430\u0440\u0431\u0438\u043d"
     ],
-    "name:bur_x_preferred":[
-        "\u101f\u102c\u101b\u103a\u1015\u1004\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:bxr_x_preferred":[
         "\u0425\u0430\u0440\u0431\u0438\u043d"
     ],
@@ -78,25 +66,16 @@
     "name:che_x_preferred":[
         "\u0425\u0430\u0440\u0431\u0438\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u5c14\u6ee8\u5e02"
-    ],
     "name:chv_x_preferred":[
         "\u0425\u0430\u0440\u0431\u0438\u043d"
     ],
     "name:cym_x_preferred":[
         "Harbin"
     ],
-    "name:cze_x_preferred":[
-        "Charbin"
-    ],
     "name:dan_x_preferred":[
         "Harbin"
     ],
     "name:deu_x_preferred":[
-        "Harbin"
-    ],
-    "name:dut_x_preferred":[
         "Harbin"
     ],
     "name:ell_x_preferred":[
@@ -136,20 +115,8 @@
     "name:fra_x_preferred":[
         "Harbin"
     ],
-    "name:fre_x_preferred":[
-        "Harbin"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10d0\u10e0\u10d1\u10d8\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Harbin"
-    ],
     "name:glg_x_preferred":[
         "Harbin"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b1\u03c1\u03bc\u03c0\u03af\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0abe\u0ab0\u0acd\u0aac\u0abf\u0aa8"
@@ -175,10 +142,13 @@
     "name:hye_x_preferred":[
         "\u053d\u0561\u0580\u0562\u056b\u0576"
     ],
-    "name:ice_x_preferred":[
-        "Harbin"
+    "name:hye_x_variant":[
+        "\u0540\u0561\u0580\u0562\u056b\u0576"
     ],
     "name:ind_x_preferred":[
+        "Harbin"
+    ],
+    "name:isl_x_preferred":[
         "Harbin"
     ],
     "name:ita_x_preferred":[
@@ -222,20 +192,14 @@
     "name:lzh_x_preferred":[
         "\u54c8\u723e\u6ff1\u5e02"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u0430\u0440\u0431\u0438\u043d"
-    ],
     "name:mal_x_preferred":[
         "\u0d39\u0d3e\u0d7c\u0d2c\u0d40\u0d7b"
-    ],
-    "name:mao_x_preferred":[
-        "Harbin"
     ],
     "name:mar_x_preferred":[
         "\u0939\u093e\u0930\u094d\u092a\u093f\u0928"
     ],
-    "name:may_x_preferred":[
-        "Harbin"
+    "name:mkd_x_preferred":[
+        "\u0425\u0430\u0440\u0431\u0438\u043d"
     ],
     "name:mlg_x_preferred":[
         "Harbin"
@@ -282,9 +246,6 @@
     "name:pan_x_preferred":[
         "\u0a39\u0a3e\u0a30\u0a2c\u0a3f\u0a28"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0627\u0631\u0628\u06cc\u0646"
-    ],
     "name:pol_x_preferred":[
         "Harbin"
     ],
@@ -295,9 +256,6 @@
         "Harbin"
     ],
     "name:ron_x_preferred":[
-        "Harbin"
-    ],
-    "name:rum_x_preferred":[
         "Harbin"
     ],
     "name:rus_x_preferred":[
@@ -315,13 +273,13 @@
     "name:slk_x_preferred":[
         "Charbin"
     ],
-    "name:slo_x_preferred":[
-        "Charbin"
-    ],
     "name:slv_x_preferred":[
         "Harbin"
     ],
     "name:spa_x_preferred":[
+        "Harbin"
+    ],
+    "name:sqi_x_preferred":[
         "Harbin"
     ],
     "name:srp_x_preferred":[
@@ -376,9 +334,6 @@
         "C\u00e1p Nh\u0129 T\u00e2n"
     ],
     "name:war_x_preferred":[
-        "Harbin"
-    ],
-    "name:wel_x_preferred":[
         "Harbin"
     ],
     "name:yue_x_preferred":[
@@ -548,7 +503,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1527637573,
+    "wof:lastmodified":1561752079,
     "wof:megacity":1,
     "wof:name":"Harbin",
     "wof:parent_id":890516235,

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010961,
-    "geom:area_square_m":121194484.536128,
+    "geom:area_square_m":121194484.536118,
     "geom:bbox":"106.376074079,26.4861313026,106.813627931,26.7104778452",
     "geom:latitude":26.596003,
     "geom:longitude":106.653118,
@@ -27,12 +27,6 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u064a\u064a\u0627\u0646\u063a"
     ],
-    "name:arm_x_preferred":[
-        "\u0533\u0578\u0582\u0575\u0561\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Guiyang"
-    ],
     "name:ben_x_preferred":[
         "\u0997\u09c1\u09af\u09bc\u09be\u0982"
     ],
@@ -41,9 +35,6 @@
     ],
     "name:bul_x_preferred":[
         "\u0413\u0443\u0435\u0439\u044f\u043d"
-    ],
-    "name:bur_x_preferred":[
-        "\u1000\u103d\u1031\u1037\u101a\u1014\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:bxr_x_preferred":[
         "\u0413\u0443\u0439\u044f\u043d"
@@ -60,20 +51,14 @@
     "name:che_x_preferred":[
         "\u0413\u0443\u0439\u044f\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u8cb4\u967d\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Kuej-jang"
-    ],
     "name:dan_x_preferred":[
         "Guiyang"
     ],
     "name:deu_x_preferred":[
         "Guiyang"
     ],
-    "name:dut_x_preferred":[
-        "Guiyang"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c5\u03b5\u03ca\u03b3\u03b9\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_colloquial":[
         ""
@@ -93,6 +78,9 @@
     "name:epo_x_preferred":[
         "G\u016dijango"
     ],
+    "name:eus_x_preferred":[
+        "Guiyang"
+    ],
     "name:fas_x_preferred":[
         "\u06af\u0648\u0626\u06cc\u0627\u0646\u06af"
     ],
@@ -101,15 +89,6 @@
     ],
     "name:fra_x_preferred":[
         "Guiyang"
-    ],
-    "name:fre_x_preferred":[
-        "Guiyang"
-    ],
-    "name:ger_x_preferred":[
-        "Guiyang"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03bf\u03c5\u03b5\u03ca\u03b3\u03b9\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0ac1\u0aaf\u0abe\u0a82\u0a97"
@@ -163,16 +142,16 @@
     "name:lit_x_preferred":[
         "Guijangas"
     ],
-    "name:mac_x_preferred":[
-        "\u0413\u0443\u0435\u0458\u0458\u0430\u043d\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u091c\u0941\u092f\u093e\u0902\u0917"
     ],
-    "name:may_x_preferred":[
-        "Guiyang"
+    "name:mkd_x_preferred":[
+        "\u0413\u0443\u0435\u0458\u0458\u0430\u043d\u0433"
     ],
     "name:mlg_x_preferred":[
+        "Guiyang"
+    ],
+    "name:msa_x_preferred":[
         "Guiyang"
     ],
     "name:mya_x_preferred":[
@@ -199,9 +178,6 @@
     "name:pan_x_preferred":[
         "\u0a17\u0a41\u0a08\u0a2f\u0a3e\u0a02\u0a17"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0648\u0626\u06cc\u0627\u0646\u06af"
-    ],
     "name:pnb_x_preferred":[
         "\u06af\u0648\u0626\u06cc\u0627\u0646\u06af"
     ],
@@ -214,7 +190,7 @@
     "name:que_x_preferred":[
         "Guiyang"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Guiyang"
     ],
     "name:rus_x_preferred":[
@@ -287,7 +263,8 @@
         "\u8d35\u9633\u5e02"
     ],
     "name:zho_x_variant":[
-        "\u8d35\u9633"
+        "\u8d35\u9633",
+        "\u8cb4\u967d\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -436,7 +413,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1527637572,
+    "wof:lastmodified":1561752078,
     "wof:megacity":1,
     "wof:name":"Guiyang",
     "wof:parent_id":890516581,

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003429,
-    "geom:area_square_m":37810925.738389,
+    "geom:area_square_m":37810925.738395,
     "geom:bbox":"119.317922925,26.692434962,120.205986874,27.1121648274",
     "geom:latitude":26.892248,
     "geom:longitude":119.830832,
@@ -21,9 +21,6 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0646\u063a\u062f"
     ],
-    "name:baq_x_preferred":[
-        "Ningde"
-    ],
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u0982\u09a4\u09c7"
     ],
@@ -36,17 +33,17 @@
     "name:cdo_x_preferred":[
         "N\u00ecng-d\u00e1ik"
     ],
-    "name:chi_x_preferred":[
-        "\u5b81\u5fb7\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ning-te"
     ],
     "name:dan_x_preferred":[
         "Ningde"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ningde"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03af\u03bd\u03b3\u03ba\u03bd\u03c4\u03b5"
     ],
     "name:eng_x_historical":[
         "Ningteh"
@@ -61,17 +58,17 @@
         "Ningteh",
         "Ningtehhsien"
     ],
+    "name:eus_x_preferred":[
+        "Ningde"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0646\u06af\u062f\u0647"
+    ],
     "name:fin_x_preferred":[
         "Ningde"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ningde"
-    ],
-    "name:ger_x_preferred":[
-        "Ningde"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03af\u03bd\u03b3\u03ba\u03bd\u03c4\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abf\u0a82\u0a97\u0acd\u0aa1\u0ac7"
@@ -112,14 +109,17 @@
     "name:mar_x_preferred":[
         "\u0928\u093f\u0902\u0917\u0926\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Ningde"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Ningde"
     ],
     "name:nan_x_preferred":[
         "L\u00eang-tek-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Ningde"
     ],
     "name:nno_x_preferred":[
         "Ningde"
@@ -132,9 +132,6 @@
     ],
     "name:pam_x_preferred":[
         "Ningde"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u06cc\u0646\u06af\u062f\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0646\u06cc\u0646\u06af\u062f\u06d2"
@@ -335,7 +332,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1513940243,
+    "wof:lastmodified":1561752075,
     "wof:name":"Ningde",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

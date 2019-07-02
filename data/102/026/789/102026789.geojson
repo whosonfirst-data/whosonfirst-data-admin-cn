@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000475,
-    "geom:area_square_m":5155775.11397,
+    "geom:area_square_m":5155775.113971,
     "geom:bbox":"87.171775423,28.6188987499,87.1922382417,28.6465943808",
     "geom:latitude":28.632747,
     "geom:longitude":87.182007,
@@ -27,17 +27,20 @@
     "name:bod_x_preferred":[
         "X\u00eagar"
     ],
+    "name:bod_x_variant":[
+        "\u0f64\u0f7a\u0f63\u0f0b\u0f51\u0f40\u0f62\u0f0d"
+    ],
     "name:cat_x_preferred":[
         "Shelkar"
-    ],
-    "name:chi_x_preferred":[
-        "\u534f\u683c\u5c14\u9547"
     ],
     "name:dan_x_preferred":[
         "Shelkar"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Shelkar"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03bb\u03ba\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Shelkar"
@@ -45,14 +48,8 @@
     "name:fin_x_preferred":[
         "Shelkar"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Shelkar"
-    ],
-    "name:ger_x_preferred":[
-        "Shelkar"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b5\u03bb\u03ba\u03ac\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0ac7\u0ab2\u0acd\u0a95\u0ab0"
@@ -84,7 +81,10 @@
     "name:mar_x_preferred":[
         "\u0936\u0947\u0932\u094d\u0915\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Shelkar"
+    ],
+    "name:nld_x_preferred":[
         "Shelkar"
     ],
     "name:nob_x_preferred":[
@@ -117,9 +117,6 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e0a\u0e25\u0e4c\u0e04\u0e32\u0e23\u0e4c"
     ],
-    "name:tib_x_preferred":[
-        "\u0f64\u0f7a\u0f63\u0f0b\u0f51\u0f40\u0f62\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Shelkar"
     ],
@@ -141,7 +138,8 @@
     "name:zho_x_variant":[
         "\u534f\u560e\u5c14",
         "Dingri Xian",
-        "\u5b9a\u65e5\u53bf"
+        "\u5b9a\u65e5\u53bf",
+        "\u534f\u683c\u5c14\u9547"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -187,7 +185,7 @@
         }
     ],
     "wof:id":102026789,
-    "wof:lastmodified":1553815721,
+    "wof:lastmodified":1561752084,
     "wof:name":"X\u00eagar",
     "wof:parent_id":890516395,
     "wof:placetype":"locality",

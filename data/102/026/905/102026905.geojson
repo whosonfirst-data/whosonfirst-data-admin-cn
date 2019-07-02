@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003891,
-    "geom:area_square_m":44263103.510392,
+    "geom:area_square_m":44263103.510373,
     "geom:bbox":"112.429814302,23.0252120426,112.504267438,23.1039217147",
     "geom:latitude":23.066957,
     "geom:longitude":112.463604,
@@ -23,9 +23,6 @@
     "name:ara_x_preferred":[
         "\u0632\u0627\u0648\u0634\u064a\u0646\u063a"
     ],
-    "name:baq_x_preferred":[
-        "Zhaoqing"
-    ],
     "name:ben_x_preferred":[
         "\u099d\u09be\u0993\u0995\u09bf\u0982"
     ],
@@ -38,20 +35,14 @@
     "name:ces_x_preferred":[
         "\u010cao-\u010dching"
     ],
-    "name:chi_x_preferred":[
-        "\u8087\u5e86\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "\u010cao-\u010dching"
-    ],
     "name:dan_x_preferred":[
         "Zhaoqing"
     ],
     "name:deu_x_preferred":[
         "Zhaoqing"
     ],
-    "name:dut_x_preferred":[
-        "Zhaoqing"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03ac\u03bf\u03c4\u03c3\u03b9\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Zhaoqing"
@@ -70,15 +61,6 @@
     ],
     "name:fra_x_preferred":[
         "Zhaoqing"
-    ],
-    "name:fre_x_preferred":[
-        "Zhaoqing"
-    ],
-    "name:ger_x_preferred":[
-        "Zhaoqing"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03ac\u03bf\u03c4\u03c3\u03b9\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abe\u0a93\u0a95\u0abf\u0a82\u0a97"
@@ -119,16 +101,16 @@
     "name:lit_x_preferred":[
         "\u017dao\u010dingas"
     ],
-    "name:mac_x_preferred":[
-        "\u040f\u0430\u043e\u045c\u0438\u043d\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u091d\u093e\u0913\u0915\u093f\u0902\u0917"
     ],
-    "name:may_x_preferred":[
-        "Zhaoqing"
+    "name:mkd_x_preferred":[
+        "\u040f\u0430\u043e\u045c\u0438\u043d\u0433"
     ],
     "name:mlg_x_preferred":[
+        "Zhaoqing"
+    ],
+    "name:msa_x_preferred":[
         "Zhaoqing"
     ],
     "name:nan_x_preferred":[
@@ -151,9 +133,6 @@
     ],
     "name:pam_x_preferred":[
         "Zhaoqing"
-    ],
-    "name:per_x_preferred":[
-        "\u0698\u0627\u0648\u06a9\u06cc\u0646\u06af"
     ],
     "name:pnb_x_preferred":[
         "\u0698\u0627\u0624\u0686\u06cc\u0646\u06af"
@@ -373,7 +352,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1527637811,
+    "wof:lastmodified":1561752083,
     "wof:name":"Zhaoqing",
     "wof:parent_id":890514727,
     "wof:placetype":"locality",

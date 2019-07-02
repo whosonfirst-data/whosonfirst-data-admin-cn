@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002717,
-    "geom:area_square_m":28579401.022001,
+    "geom:area_square_m":28579401.021996,
     "geom:bbox":"115.95564338,31.6209774785,116.591981384,31.7792294064",
     "geom:latitude":31.724722,
     "geom:longitude":116.415154,
@@ -24,50 +24,47 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u0578\u0582\u0561\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Lu'an"
-    ],
     "name:ben_x_preferred":[
         "\u09b2\u09c1'\u0986\u09a8"
     ],
     "name:cdo_x_preferred":[
         "L\u0115\u0324k-\u0103ng"
     ],
-    "name:chi_x_preferred":[
-        "\u516d\u5b89\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Lu-an"
     ],
     "name:dan_x_preferred":[
         "Lu'an"
     ],
-    "name:dut_x_preferred":[
-        "Lu'an"
+    "name:deu_x_preferred":[
+        "Lu\u2019an"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Lu'an"
     ],
+    "name:eus_x_preferred":[
+        "Lu'an"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0622\u0646"
+    ],
     "name:fin_x_preferred":[
         "Lu\u2019an"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lu'an"
-    ],
-    "name:ger_x_preferred":[
-        "Lu\u2019an"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03c5\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac1\u0a85\u0aa8"
     ],
     "name:hin_x_preferred":[
         "\u0932\u0941\u0906\u0928"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0582\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Lu'an"
@@ -99,14 +96,17 @@
     "name:mar_x_preferred":[
         "\u0932\u0941\u0906\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Lu'an"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Lu'an"
     ],
     "name:nan_x_preferred":[
         "Lio\u030dk-an-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Lu'an"
     ],
     "name:nno_x_preferred":[
         "Lu'an"
@@ -116,9 +116,6 @@
     ],
     "name:pam_x_preferred":[
         "Lu'an"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u0648\u0622\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0644\u0648\u0622\u0646"
@@ -175,7 +172,8 @@
         "\u516d\u5b89"
     ],
     "name:zho_x_variant":[
-        "Liu\u2018an"
+        "Liu\u2018an",
+        "\u516d\u5b89\u5e02"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -220,7 +218,7 @@
         }
     ],
     "wof:id":102026859,
-    "wof:lastmodified":1513940182,
+    "wof:lastmodified":1561752082,
     "wof:name":"Liu\u2018an",
     "wof:parent_id":890513745,
     "wof:placetype":"locality",

@@ -20,50 +20,44 @@
     "name:ara_x_preferred":[
         "\u063a\u0627\u0646\u062a\u0634\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0533\u0561\u0576\u0579\u056a\u0578\u0578\u0582"
-    ],
-    "name:baq_x_preferred":[
-        "Ganzhou"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09a8\u099a\u09cc"
     ],
     "name:cdo_x_preferred":[
         "G\u00e1ng-ci\u016d"
     ],
-    "name:chi_x_preferred":[
-        "\u8d63\u5dde\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kan-\u010dou"
     ],
     "name:dan_x_preferred":[
         "Ganzhou"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ganzhou"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03b1\u03bd\u03b6\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Ganzhou"
     ],
+    "name:eus_x_preferred":[
+        "Ganzhou"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u0646\u0698\u0648\u0648"
+    ],
     "name:fin_x_preferred":[
         "Ganzhou"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ganzhou"
     ],
     "name:gan_x_preferred":[
         "\u8d1b\u5dde"
     ],
-    "name:ger_x_preferred":[
-        "Ganzhou"
-    ],
     "name:gla_x_preferred":[
         "Ganzhou"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03b1\u03bd\u03b6\u03bf\u03cd"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0abe\u0aa8\u0acd\u0a9d\u0acb\u0a89"
@@ -79,6 +73,9 @@
     ],
     "name:hun_x_preferred":[
         "Kancsou"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0561\u0576\u0579\u056a\u0578\u0578\u0582"
     ],
     "name:ind_x_preferred":[
         "Ganzhou"
@@ -110,20 +107,20 @@
     "name:mar_x_preferred":[
         "\u0917\u0923\u091d\u094b\u0909"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ganzhou"
     ],
     "name:nan_x_preferred":[
         "K\u00f2ng-chiu-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Ganzhou"
     ],
     "name:nno_x_preferred":[
         "Ganzhou"
     ],
     "name:nob_x_preferred":[
         "Ganzhou"
-    ],
-    "name:per_x_preferred":[
-        "\u06af\u0627\u0646\u0698\u0648\u0648"
     ],
     "name:pol_x_preferred":[
         "Ganzhou"
@@ -175,6 +172,9 @@
     ],
     "name:yue_x_preferred":[
         "\u8d1b\u5dde"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d63\u5dde\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -297,7 +297,7 @@
         }
     ],
     "wof:id":1141908653,
-    "wof:lastmodified":1513939320,
+    "wof:lastmodified":1561755419,
     "wof:name":"Ganzhou",
     "wof:parent_id":890511835,
     "wof:placetype":"locality",

@@ -17,12 +17,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0648\u062c\u0649"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u0561\u0581\u0566\u056b"
-    ],
-    "name:baq_x_preferred":[
-        "Baoji"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0993\u099c\u09bf"
     ],
@@ -32,38 +26,41 @@
     "name:cdo_x_preferred":[
         "B\u014d\u0324-gi\u0115"
     ],
-    "name:chi_x_preferred":[
-        "\u5b9d\u9e21\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Pao-\u0165i"
     ],
     "name:dan_x_preferred":[
         "Baoji"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Baoji"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03bf\u03c4\u03b6\u03b9"
     ],
     "name:eng_x_preferred":[
         "Baoji"
     ],
+    "name:eus_x_preferred":[
+        "Baoji"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0648\u0698\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Baoji"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Baoji"
-    ],
-    "name:ger_x_preferred":[
-        "Baoji"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ac\u03bf\u03c4\u03b6\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0a93\u0a9c\u0ac0"
     ],
     "name:hin_x_preferred":[
         "\u092c\u093e\u0913\u091c\u0940"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0561\u0581\u0566\u056b"
     ],
     "name:ind_x_preferred":[
         "Baoji"
@@ -95,23 +92,23 @@
     "name:mar_x_preferred":[
         "\u092c\u093e\u0913\u091c\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Baoji"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Baoji"
     ],
     "name:nan_x_preferred":[
         "P\u00f3-ke-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Baoji"
     ],
     "name:nno_x_preferred":[
         "Baoji"
     ],
     "name:nob_x_preferred":[
         "Baoji"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0648\u0698\u06cc"
     ],
     "name:pol_x_preferred":[
         "Baoji"
@@ -160,6 +157,9 @@
     ],
     "name:yue_x_preferred":[
         "\u5bf6\u96de"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b9d\u9e21\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -282,7 +282,7 @@
         }
     ],
     "wof:id":1141908641,
-    "wof:lastmodified":1513939003,
+    "wof:lastmodified":1561755419,
     "wof:name":"Baoji",
     "wof:parent_id":890516525,
     "wof:placetype":"locality",

@@ -14,35 +14,32 @@
     "lbl:longitude":97.233279,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Qamdo prefektura"
-    ],
     "name:ben_x_preferred":[
         "\u099b\u09be\u09ac-\u09ae\u09cd\u09a6\u09cb \u09ac\u09bf\u09ad\u09be\u0997"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f46\u0f56\u0f0b\u0f58\u0f51\u0f7c\u0f0b\u0f66\u0f0b\u0f41\u0f74\u0f63\u0f0d"
     ],
     "name:cdo_x_preferred":[
         "Chamdo"
     ],
-    "name:chi_x_preferred":[
-        "\u660c\u90fd\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Qamdo"
     ],
-    "name:dut_x_preferred":[
-        "Chamdo"
+    "name:deu_x_preferred":[
+        "Qamdo"
     ],
     "name:eng_x_preferred":[
         "Chamdo"
     ],
+    "name:eus_x_preferred":[
+        "Qamdo prefektura"
+    ],
     "name:fin_x_preferred":[
         "Qamdo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "pr\u00e9fecture de Qamdo"
-    ],
-    "name:ger_x_preferred":[
-        "Qamdo"
     ],
     "name:hak_x_preferred":[
         "Tsh\u00f4ng-t\u00fb-s\u1e73"
@@ -65,6 +62,9 @@
     "name:nan_x_preferred":[
         "Chamdo-chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Chamdo"
+    ],
     "name:nob_x_preferred":[
         "Qamdo"
     ],
@@ -83,9 +83,6 @@
     "name:swe_x_preferred":[
         "Chamdo"
     ],
-    "name:tib_x_preferred":[
-        "\u0f46\u0f56\u0f0b\u0f58\u0f51\u0f7c\u0f0b\u0f66\u0f0b\u0f41\u0f74\u0f63\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Qamdo"
     ],
@@ -94,6 +91,9 @@
     ],
     "name:vie_x_preferred":[
         "Qamdo"
+    ],
+    "name:zho_x_preferred":[
+        "\u660c\u90fd\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -216,7 +216,7 @@
         }
     ],
     "wof:id":1141908635,
-    "wof:lastmodified":1513939114,
+    "wof:lastmodified":1561755420,
     "wof:name":"Chamdo",
     "wof:parent_id":890514545,
     "wof:placetype":"locality",

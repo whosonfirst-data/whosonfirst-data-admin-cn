@@ -25,17 +25,20 @@
     "name:bod_x_preferred":[
         "Gyangz\u00ea"
     ],
-    "name:chi_x_preferred":[
-        "\u6c5f\u5b5c\u9547"
+    "name:bod_x_variant":[
+        "\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f62\u0fa9\u0f7a\u0f0d"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Gjance"
+    ],
+    "name:cym_x_preferred":[
+        "Gyantse"
     ],
     "name:dan_x_preferred":[
         "Gyantse"
     ],
-    "name:dut_x_preferred":[
-        "Gyantse"
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03ac\u03bd\u03c4\u03c3\u03b5"
     ],
     "name:eng_x_preferred":[
         "Gyangze"
@@ -43,11 +46,8 @@
     "name:fin_x_preferred":[
         "Gyantse"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gyants\u00e9"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03ac\u03bd\u03c4\u03c3\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acd\u0aaf\u0abe\u0aa8\u0acd\u0aa4\u0acd\u0ab8\u0ac7"
@@ -79,7 +79,10 @@
     "name:mar_x_preferred":[
         "\u0917\u094d\u092f\u093e\u0902\u0924\u0938\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Gyantse"
+    ],
+    "name:nld_x_preferred":[
         "Gyantse"
     ],
     "name:nob_x_preferred":[
@@ -97,7 +100,7 @@
     "name:sin_x_preferred":[
         "\u0da2\u0dd2\u0dba\u0dd0\u0db1\u0dca\u0da7\u0dca\u0dc3\u0dda"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Gjance"
     ],
     "name:spa_x_preferred":[
@@ -115,9 +118,6 @@
     "name:tha_x_preferred":[
         "\u0e01\u0e22\u0e31\u0e19\u0e40\u0e0b"
     ],
-    "name:tib_x_preferred":[
-        "\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f62\u0fa9\u0f7a\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Gyantse"
     ],
@@ -131,9 +131,6 @@
         "\u062c\u06cc\u0627\u0646\u062a\u0633\u06cc"
     ],
     "name:vie_x_preferred":[
-        "Gyantse"
-    ],
-    "name:wel_x_preferred":[
         "Gyantse"
     ],
     "name:wuu_x_preferred":[
@@ -273,7 +270,7 @@
         }
     ],
     "wof:id":890513537,
-    "wof:lastmodified":1527793069,
+    "wof:lastmodified":1561753701,
     "wof:name":"Jiangzi",
     "wof:parent_id":890516395,
     "wof:placetype":"locality",

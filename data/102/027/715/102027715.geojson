@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022327,
-    "geom:area_square_m":243318677.900701,
+    "geom:area_square_m":243318677.900767,
     "geom:bbox":"112.846871254,28.0871903428,113.130913912,28.2795413174",
     "geom:latitude":28.195907,
     "geom:longitude":112.983019,
@@ -30,12 +30,6 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0646\u063a\u0634\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0549\u0561\u0576\u0577\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Changsha"
-    ],
     "name:bel_x_preferred":[
         "\u0427\u0430\u043d\u0448\u0430"
     ],
@@ -47,9 +41,6 @@
     ],
     "name:bul_x_preferred":[
         "\u0427\u0430\u043d\u0448\u0430"
-    ],
-    "name:bur_x_preferred":[
-        "\u1001\u103b\u1031\u102c\u1004\u103a\u101b\u103e\u102c\u1038\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:bxr_x_preferred":[
         "\u0427\u0430\u043d\u0448\u0430"
@@ -66,19 +57,13 @@
     "name:che_x_preferred":[
         "\u0427\u0430\u043d\u0448\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u957f\u6c99\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "\u010cchang-\u0161a"
+    "name:cym_x_preferred":[
+        "Changsha"
     ],
     "name:dan_x_preferred":[
         "Changsha"
     ],
     "name:deu_x_preferred":[
-        "Changsha"
-    ],
-    "name:dut_x_preferred":[
         "Changsha"
     ],
     "name:ell_x_preferred":[
@@ -112,20 +97,8 @@
     "name:fra_x_preferred":[
         "Changsha"
     ],
-    "name:fre_x_preferred":[
-        "Changsha"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d0\u10dc\u10e8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Changsha"
-    ],
     "name:glg_x_preferred":[
         "Changsha"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03b1\u03bd\u03b3\u03ba\u03c3\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0abe\u0a82\u0a97\u0ab6\u0abe"
@@ -167,6 +140,9 @@
     "name:kan_x_preferred":[
         "\u0c9a\u0c82\u0c97\u0ccd\u0cb7\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10dc\u10e8\u10d0"
+    ],
     "name:kik_x_preferred":[
         "Changsha"
     ],
@@ -186,14 +162,11 @@
     "name:lzh_x_preferred":[
         "\u9577\u6c99\u5e02"
     ],
-    "name:mac_x_preferred":[
-        "\u0427\u0430\u043d\u0433\u0448\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u091b\u093e\u0902\u0917\u094d\u0937\u093e"
     ],
-    "name:may_x_preferred":[
-        "Changsha"
+    "name:mkd_x_preferred":[
+        "\u0427\u0430\u043d\u0433\u0448\u0430"
     ],
     "name:mlg_x_preferred":[
         "Changsha"
@@ -201,8 +174,14 @@
     "name:mon_x_preferred":[
         "\u0427\u0430\u043d\u0448\u0430"
     ],
+    "name:msa_x_preferred":[
+        "Changsha"
+    ],
     "name:mya_x_preferred":[
         "\u1001\u103b\u1014\u103a\u1006\u102c\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:mya_x_variant":[
+        "\u1001\u103b\u1031\u102c\u1004\u103a\u101b\u103e\u102c\u1038\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nan_x_preferred":[
         "Tn\u0302g-soa-chh\u012b"
@@ -228,9 +207,6 @@
     "name:pan_x_preferred":[
         "\u0a1b\u0a3e\u0a02\u0a19\u0a38\u0a3c\u0a3e"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u0627\u0646\u06af\u0634\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u0686\u0627\u0646\u06af\u0634\u0627"
     ],
@@ -244,9 +220,6 @@
         "Changsha"
     ],
     "name:ron_x_preferred":[
-        "Changsha"
-    ],
-    "name:rum_x_preferred":[
         "Changsha"
     ],
     "name:rus_x_preferred":[
@@ -311,9 +284,6 @@
         "Tr\u01b0\u1eddng Sa"
     ],
     "name:war_x_preferred":[
-        "Changsha"
-    ],
-    "name:wel_x_preferred":[
         "Changsha"
     ],
     "name:wuu_x_preferred":[
@@ -486,7 +456,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1527637565,
+    "wof:lastmodified":1561752070,
     "wof:megacity":1,
     "wof:name":"Changsha",
     "wof:parent_id":890513085,

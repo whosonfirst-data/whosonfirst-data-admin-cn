@@ -19,12 +19,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u064a\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u0575\u056b\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Baiyin"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0987\u0987\u09a8"
     ],
@@ -34,17 +28,14 @@
     "name:ces_x_preferred":[
         "Paj-jin"
     ],
-    "name:chi_x_preferred":[
-        "\u767d\u94f6\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Paj-jin"
-    ],
     "name:dan_x_preferred":[
         "Baiyin"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Baiyin"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03b9\u03b3\u03af\u03bd"
     ],
     "name:eng_x_preferred":[
         "Baiyin"
@@ -52,17 +43,14 @@
     "name:est_x_preferred":[
         "Baiyin"
     ],
+    "name:eus_x_preferred":[
+        "Baiyin"
+    ],
     "name:fin_x_preferred":[
         "Baiyin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Baiyin"
-    ],
-    "name:ger_x_preferred":[
-        "Baiyin"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03b9\u03b3\u03af\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0aaf\u0abf\u0aa8"
@@ -103,11 +91,14 @@
     "name:mar_x_preferred":[
         "\u092c\u093e\u0908\u092f\u093f\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Baiyin"
     ],
     "name:nan_x_preferred":[
         "Pe\u030dh-g\u00een-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Baiyin"
     ],
     "name:nno_x_preferred":[
         "Baiyin"
@@ -218,7 +209,7 @@
         }
     ],
     "wof:id":890514581,
-    "wof:lastmodified":1513941181,
+    "wof:lastmodified":1561753696,
     "wof:name":"\u767d\u94f6\u5e02",
     "wof:parent_id":890516465,
     "wof:placetype":"locality",

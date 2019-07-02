@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000274,
-    "geom:area_square_m":3127182.660238,
+    "geom:area_square_m":3127182.660244,
     "geom:bbox":"113.407633439,22.650614905,113.427083277,22.668666414",
     "geom:latitude":22.659641,
     "geom:longitude":113.417358,
@@ -16,9 +16,6 @@
     "mps:longitude":113.417358,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e09\u89d2\u9547"
-    ],
     "name:eng_x_preferred":[
         "Sanjiao"
     ],
@@ -33,6 +30,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4e09\u89d2"
+    ],
+    "name:zho_x_variant":[
+        "\u4e09\u89d2\u9547"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":102027795,
-    "wof:lastmodified":1553815721,
+    "wof:lastmodified":1561752074,
     "wof:name":"Sanjiao",
     "wof:parent_id":890516323,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000338,
-    "geom:area_square_m":3119148.550915,
+    "geom:area_square_m":3119148.550914,
     "geom:bbox":"81.8635761613,41.7827866031,81.887644486,41.8007984861",
     "geom:latitude":41.791793,
     "geom:longitude":81.87561,
@@ -30,17 +30,14 @@
     "name:ces_x_preferred":[
         "Paj-\u010dcheng"
     ],
-    "name:chi_x_preferred":[
-        "\u62dc\u57ce\u9547"
-    ],
     "name:dan_x_preferred":[
         "Baicheng"
     ],
     "name:deu_x_preferred":[
         "Baicheng"
     ],
-    "name:dut_x_preferred":[
-        "Baicheng"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03ca\u03c4\u03c3\u03ad\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Baicheng"
@@ -56,12 +53,6 @@
     ],
     "name:fra_x_preferred":[
         "Baicheng"
-    ],
-    "name:fre_x_preferred":[
-        "Baicheng"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03ca\u03c4\u03c3\u03ad\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0a9a\u0ac7\u0a82\u0a97"
@@ -96,7 +87,7 @@
     "name:mar_x_preferred":[
         "\u092c\u093e\u0908\u091a\u0947\u0902\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Baicheng"
     ],
     "name:nan_x_preferred":[
@@ -175,7 +166,8 @@
         "\u767d\u57ce\u5e02"
     ],
     "name:zho_x_variant":[
-        "\u767d\u57ce"
+        "\u767d\u57ce",
+        "\u62dc\u57ce\u9547"
     ],
     "name:zho_yue_x_preferred":[
         "\u767d\u57ce"
@@ -323,7 +315,7 @@
         }
     ],
     "wof:id":102027959,
-    "wof:lastmodified":1527637567,
+    "wof:lastmodified":1561752072,
     "wof:name":"Baicheng",
     "wof:parent_id":1108732529,
     "wof:placetype":"locality",

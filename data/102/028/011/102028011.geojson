@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007838,
-    "geom:area_square_m":76868663.184433,
+    "geom:area_square_m":76868663.184415,
     "geom:bbox":"120.415298651,36.9716077456,121.657425388,37.9315403073",
     "geom:latitude":37.518495,
     "geom:longitude":121.197476,
@@ -24,9 +24,6 @@
     "name:ara_x_preferred":[
         "\u064a\u0627\u0646\u062a\u0627\u0649"
     ],
-    "name:baq_x_preferred":[
-        "Yantai"
-    ],
     "name:ben_x_preferred":[
         "\u0987\u09af\u09bc\u09be\u09a8\u09cd\u09a4\u09be\u0987"
     ],
@@ -36,17 +33,17 @@
     "name:cdo_x_preferred":[
         "I\u0115ng-d\u00e0i"
     ],
-    "name:chi_x_preferred":[
-        "\u70df\u53f0\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Jen-tchaj"
     ],
     "name:dan_x_preferred":[
         "Yantai"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Yantai"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03b1\u03bd\u03c4\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Yantai"
@@ -54,17 +51,17 @@
     "name:epo_x_preferred":[
         "Jantaj"
     ],
+    "name:eus_x_preferred":[
+        "Yantai"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u0646\u062a\u0627\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Yantai"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Yantai"
-    ],
-    "name:ger_x_preferred":[
-        "Yantai"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03b1\u03bd\u03c4\u03ac\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aaf\u0abe\u0a82\u0aa4\u0abe\u0a88"
@@ -105,20 +102,20 @@
     "name:mar_x_preferred":[
         "\u092f\u0902\u0924\u093e\u0908"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Yantai"
     ],
     "name:nan_x_preferred":[
         "Ian-t\u00e2i-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Yantai"
     ],
     "name:nno_x_preferred":[
         "Yantai"
     ],
     "name:nob_x_preferred":[
         "Yantai"
-    ],
-    "name:per_x_preferred":[
-        "\u06cc\u0627\u0646\u062a\u0627\u06cc"
     ],
     "name:pol_x_preferred":[
         "Yantai"
@@ -183,6 +180,9 @@
     "name:zho_x_preferred":[
         "\u70df\u53f0"
     ],
+    "name:zho_x_variant":[
+        "\u70df\u53f0\u5e02"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"China",
@@ -224,7 +224,7 @@
         }
     ],
     "wof:id":102028011,
-    "wof:lastmodified":1527637792,
+    "wof:lastmodified":1561752081,
     "wof:name":"Yantai",
     "wof:parent_id":890516301,
     "wof:placetype":"locality",

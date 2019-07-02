@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009723,
-    "geom:area_square_m":94688132.916693,
+    "geom:area_square_m":94688132.916759,
     "geom:bbox":"114.438682619,37.9914866829,114.582310636,38.0960170409",
     "geom:latitude":38.039172,
     "geom:longitude":114.505304,
@@ -26,12 +26,6 @@
     ],
     "name:ara_x_preferred":[
         "\u0634\u064a\u062c\u064a\u0627\u062a\u0634\u0648\u0627\u0646\u063a"
-    ],
-    "name:arm_x_preferred":[
-        "\u0547\u056b\u0581\u0566\u0575\u0561\u0579\u056a\u0578\u0582\u0561\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Shijiazhuang"
     ],
     "name:ben_x_preferred":[
         "\u09b6\u09bf\u099c\u09bf\u09af\u09bc\u09be\u099d\u09c1\u09af\u09bc\u09be\u0982"
@@ -54,16 +48,10 @@
     "name:che_x_preferred":[
         "\u0428\u0438\u0446\u0437\u044f\u0447\u0436\u0443\u0430\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u77f3\u5bb6\u5e84\u5e02"
-    ],
     "name:chi_x_variant":[
         "\u77f3\u5bb6\u5e84",
         "\u77f3\u5bb6\u838a",
         "\u77f3\u5bb6\u838a\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "\u0160\u2019-\u0165ia-\u010duang"
     ],
     "name:dan_x_preferred":[
         "Shijiazhuang"
@@ -71,11 +59,11 @@
     "name:deu_x_preferred":[
         "Shijiazhuang"
     ],
-    "name:dut_x_preferred":[
-        "Shijiazhuang"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b9\u03c4\u03b6\u03b9\u03b1\u03b6\u03bf\u03c5\u03ac\u03b3\u03ba"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b9\u03c4\u03b6\u03b9\u03b1\u03c4\u03c3\u03bf\u03c5\u03ac\u03b3\u03ba"
     ],
     "name:eng_x_colloquial":[
         ""
@@ -103,18 +91,6 @@
     ],
     "name:fra_x_preferred":[
         "Shijiazhuang"
-    ],
-    "name:fre_x_preferred":[
-        "Shijiazhuang"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d8\u10eb\u10d8\u10d0\u10ef\u10e3\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Shijiazhuang"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03c4\u03b6\u03b9\u03b1\u03c4\u03c3\u03bf\u03c5\u03ac\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0abf\u0a9c\u0abf\u0aaf\u0abe\u0a9d\u0ac1\u0a86\u0a82\u0a97"
@@ -170,23 +146,23 @@
     "name:lzh_x_preferred":[
         "\u77f3\u5bb6\u838a\u5e02"
     ],
-    "name:mac_x_preferred":[
-        "\u0428\u0435\u0453\u0430\u045f\u0443\u0430\u043d\u0433"
-    ],
-    "name:mao_x_preferred":[
-        "Shijiazhuang"
-    ],
     "name:mar_x_preferred":[
         "\u0937-\u091a\u094d\u092f\u093e\u091a\u094d\u0935\u093e\u0902\u0917"
     ],
-    "name:may_x_preferred":[
-        "Shijiazhuang"
+    "name:mkd_x_preferred":[
+        "\u0428\u0435\u0453\u0430\u045f\u0443\u0430\u043d\u0433"
     ],
     "name:mlg_x_preferred":[
         "Shijiazhuang"
     ],
     "name:mon_x_preferred":[
         "\u0428\u0438\u0436\u044f\u0436\u0443\u0430\u043d"
+    ],
+    "name:mri_x_preferred":[
+        "Shijiazhuang"
+    ],
+    "name:msa_x_preferred":[
+        "Shijiazhuang"
     ],
     "name:nan_x_preferred":[
         "Chio\u030dh-ka-chng-chh\u012b"
@@ -211,9 +187,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a3c\u0a40\u0a1c\u0a3c\u0a40\u0a06\u0a1c\u0a3c\u0a42\u0a06\u0a02\u0a17"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u06cc\u062c\u06cc\u0627\u0698\u0648\u0627\u0646\u06af"
     ],
     "name:pnb_x_preferred":[
         "\u0634\u06cc\u062c\u06cc\u0627\u0698\u0648\u0627\u0646\u06af"
@@ -441,7 +414,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1527637558,
+    "wof:lastmodified":1561752063,
     "wof:megacity":1,
     "wof:name":"Shijiazhuang",
     "wof:parent_id":890515171,

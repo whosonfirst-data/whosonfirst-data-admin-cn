@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004976,
-    "geom:area_square_m":48821478.599638,
+    "geom:area_square_m":48821478.599604,
     "geom:bbox":"121.942428231,37.4091503348,122.162804965,37.5492340687",
     "geom:latitude":37.486182,
     "geom:longitude":122.100343,
@@ -24,9 +24,6 @@
     "name:ara_x_preferred":[
         "\u0648\u064a\u0647\u0627\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Weihai"
-    ],
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09c7\u09b9\u09be\u0987"
     ],
@@ -39,20 +36,14 @@
     "name:ces_x_preferred":[
         "Wej-chaj"
     ],
-    "name:chi_x_preferred":[
-        "\u5a01\u6d77\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Wej-chaj"
-    ],
     "name:dan_x_preferred":[
         "Weihai"
     ],
     "name:deu_x_preferred":[
         "Weihai"
     ],
-    "name:dut_x_preferred":[
-        "Weihai"
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03b5\u03ca\u03c7\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Weihai"
@@ -73,15 +64,6 @@
     ],
     "name:fra_x_preferred":[
         "Weihai"
-    ],
-    "name:fre_x_preferred":[
-        "Weihai"
-    ],
-    "name:ger_x_preferred":[
-        "Weihai"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03bf\u03c5\u03b5\u03ca\u03c7\u03ac\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0a87\u0ab9\u0abe\u0a88"
@@ -116,7 +98,7 @@
     "name:mar_x_preferred":[
         "\u0935\u0947\u0907\u0939\u093e\u0908"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Weihai"
     ],
     "name:nan_x_preferred":[
@@ -133,9 +115,6 @@
     ],
     "name:nor_x_preferred":[
         "Weihai"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u0647\u0627\u06cc"
     ],
     "name:pol_x_preferred":[
         "Weihai"
@@ -201,7 +180,6 @@
         "\u5a01\u6d77\u5e02"
     ],
     "name:zho_x_variant":[
-        "\u5a01\u6d77\u5e02",
         "\u5a01\u6d77"
     ],
     "name:zho_yue_x_preferred":[
@@ -354,7 +332,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1527637568,
+    "wof:lastmodified":1561752074,
     "wof:name":"Weihai",
     "wof:parent_id":890514771,
     "wof:placetype":"locality",

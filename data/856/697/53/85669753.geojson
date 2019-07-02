@@ -37,9 +37,6 @@
     "name:afr_x_preferred":[
         "Xinjiang"
     ],
-    "name:alb_x_preferred":[
-        "Sinkiang"
-    ],
     "name:ara_x_preferred":[
         "\u0633\u0646\u062c\u0627\u0646"
     ],
@@ -52,9 +49,6 @@
     "name:aze_x_preferred":[
         "\u062f\u0648\u063a\u0648 \u062a\u0648\u0631\u06a9\u0648\u0633\u062a\u0627\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Xinjiang"
-    ],
     "name:bel_x_preferred":[
         "\u0421\u0456\u043d\u044c\u0446\u0437\u044f\u043d-\u0423\u0439\u0433\u0443\u0440\u0441\u043a\u0456 \u0430\u045e\u0442\u0430\u043d\u043e\u043c\u043d\u044b \u0440\u0430\u0451\u043d"
     ],
@@ -63,6 +57,9 @@
     ],
     "name:bho_x_preferred":[
         "\u091c\u093f\u0928\u091c\u093f\u092f\u093e\u0902\u0917"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f64\u0f72\u0f53\u0f0b\u0f45\u0f44\u0f0b\u0f61\u0f74\u0f0b\u0f42\u0f74\u0f62\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f63\u0f97\u0f7c\u0f44\u0f66\u0f0d"
     ],
     "name:bre_x_preferred":[
         "Xinjiang"
@@ -79,16 +76,19 @@
     "name:cdo_x_preferred":[
         "S\u012dng-gi\u014fng"
     ],
-    "name:chi_x_preferred":[
-        "\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a"
+    "name:ces_x_preferred":[
+        "Sin-\u0165iang"
     ],
     "name:chv_x_preferred":[
         "\u0421\u0438\u043d\u044c\u0446\u0437\u044f\u043d-\u0423\u0439\u0433\u0443\u0440 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u0438 \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
-    "name:cze_x_preferred":[
-        "Sin-\u0165iang"
+    "name:cym_x_preferred":[
+        "Xinjiang"
     ],
     "name:dan_x_preferred":[
+        "Xinjiang"
+    ],
+    "name:deu_x_preferred":[
         "Xinjiang"
     ],
     "name:diq_x_preferred":[
@@ -97,8 +97,8 @@
     "name:dsb_x_preferred":[
         "Ujgurska"
     ],
-    "name:dut_x_preferred":[
-        "Sinkiang"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03bd\u03c4\u03b6\u03b9\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Xinjiang Uyghur"
@@ -114,8 +114,14 @@
     "name:est_x_preferred":[
         "Xinjiang"
     ],
+    "name:eus_x_preferred":[
+        "Xinjiang"
+    ],
     "name:fao_x_preferred":[
         "Xinjiang"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0646\u200c\u06a9\u06cc\u0627\u0646\u06af"
     ],
     "name:fin_x_preferred":[
         "Xinjiang"
@@ -123,7 +129,7 @@
     "name:fra_x_preferred":[
         "R\u00e9gion autonome de Xinjiang"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Xinjiang"
     ],
     "name:fry_x_preferred":[
@@ -131,12 +137,6 @@
     ],
     "name:gan_x_preferred":[
         "\u65b0\u7586"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d8\u10dc\u10eb\u10d8\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Xinjiang"
     ],
     "name:gle_x_preferred":[
         "Xinjiang"
@@ -146,9 +146,6 @@
     ],
     "name:glv_x_preferred":[
         "Xinjiang"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03bd\u03c4\u03b6\u03b9\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abf\u0a82\u0a9c\u0abf\u0aaf\u0abe\u0a82\u0a97"
@@ -171,13 +168,13 @@
     "name:hun_x_preferred":[
         "Hszincsiang-Ujgur Auton\u00f3m Ter\u00fclet"
     ],
-    "name:ice_x_preferred":[
-        "Xinjiang"
-    ],
     "name:ina_x_preferred":[
         "Xinjiang"
     ],
     "name:ind_x_preferred":[
+        "Xinjiang"
+    ],
+    "name:isl_x_preferred":[
         "Xinjiang"
     ],
     "name:ita_x_preferred":[
@@ -195,6 +192,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0cb8\u0cbf\u0ca8\u0ccd\u0c9c\u0cbf\u0caf\u0cbe\u0c82\u0c97\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10dc\u10eb\u10d8\u10d0\u10dc\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0428\u044b\u04a3\u0436\u0430\u04a3 \u04b0\u0439\u0493\u044b\u0440 \u0430\u0443\u0442\u043e\u043d\u043e\u043c\u0438\u044f\u043b\u044b\u049b \u0430\u0443\u0434\u0430\u043d\u044b"
@@ -223,23 +223,26 @@
     "name:lzh_x_preferred":[
         "\u65b0\u7586"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0438\u043d\u0453\u0430\u043d\u0433"
-    ],
     "name:mal_x_preferred":[
         "\u0d38\u0d3f\u0d7b\u0d1c\u0d3f\u0d2f\u0d3e\u0d19\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0936\u093f\u0902\u091a\u094d\u092f\u093e\u0902\u0917"
     ],
-    "name:may_x_preferred":[
-        "Xinjiang"
+    "name:mkd_x_preferred":[
+        "\u0421\u0438\u043d\u0453\u0430\u043d\u0433"
     ],
     "name:mon_x_preferred":[
         "\u0428\u0438\u043d\u044c\u0436\u044f\u043d - \u0423\u0439\u0433\u0443\u0440\u044b\u043d \u04e9\u04e9\u0440\u0442\u04e9\u04e9 \u0437\u0430\u0441\u0430\u0445 \u043e\u0440\u043e\u043d"
     ],
+    "name:msa_x_preferred":[
+        "Xinjiang"
+    ],
     "name:nan_x_preferred":[
         "Sin-kiong Uyghur Ch\u016b-t\u012b-khu"
+    ],
+    "name:nld_x_preferred":[
+        "Sinkiang"
     ],
     "name:nno_x_preferred":[
         "Xinjiang"
@@ -259,9 +262,6 @@
     "name:pan_x_preferred":[
         "\u0a38\u0a3c\u0a3f\u0a28\u0a1a\u0a3f\u0a06\u0a02\u0a19"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u0646\u200c\u06a9\u06cc\u0627\u0646\u06af"
-    ],
     "name:pnb_x_preferred":[
         "\u062c\u06cc\u0627\u0646\u06af\u0632\u06cc"
     ],
@@ -274,7 +274,7 @@
     "name:que_x_preferred":[
         "Sinkiyan Uyq'ur"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Xinjiang"
     ],
     "name:rus_x_preferred":[
@@ -292,13 +292,16 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dca\u0dc3\u0dd2\u0db1\u0dca\u0d9c\u0dca\u0da2\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sin-\u0165iang"
     ],
     "name:sme_x_preferred":[
         "Nuorta-Turkestan"
     ],
     "name:spa_x_preferred":[
+        "Sinkiang"
+    ],
+    "name:sqi_x_preferred":[
         "Sinkiang"
     ],
     "name:srp_x_preferred":[
@@ -327,9 +330,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e1b\u0e01\u0e04\u0e23\u0e2d\u0e07\u0e15\u0e19\u0e40\u0e2d\u0e07\u0e0b\u0e34\u0e19\u0e40\u0e08\u0e35\u0e22\u0e07\u0e2d\u0e38\u0e22\u0e01\u0e39\u0e23\u0e4c"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f64\u0f72\u0f53\u0f0b\u0f45\u0f44\u0f0b\u0f61\u0f74\u0f0b\u0f42\u0f74\u0f62\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f63\u0f97\u0f7c\u0f44\u0f66\u0f0d"
     ],
     "name:tur_x_preferred":[
         "Sincan Uygur \u00d6zerk B\u00f6lgesi"
@@ -364,9 +364,6 @@
         "T\u00e2n C\u01b0\u01a1ng"
     ],
     "name:war_x_preferred":[
-        "Xinjiang"
-    ],
-    "name:wel_x_preferred":[
         "Xinjiang"
     ],
     "name:wuu_x_preferred":[
@@ -522,7 +519,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1553550684,
+    "wof:lastmodified":1561752336,
     "wof:name":"Xinjiang Uyghur",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

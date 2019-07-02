@@ -15,9 +15,6 @@
     "iso:country":"CN",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u77f3\u4e95\u9547"
-    ],
     "name:eng_x_preferred":[
         "Shijing"
     ],
@@ -29,6 +26,9 @@
     ],
     "name:zho_x_preferred":[
         "\u77f3\u4e95"
+    ],
+    "name:zho_x_variant":[
+        "\u77f3\u4e95\u9547"
     ],
     "qs:name":"Shijing",
     "qs:photos_9r":0,
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":890517037,
-    "wof:lastmodified":1553816434,
+    "wof:lastmodified":1561753683,
     "wof:name":"Shijing",
     "wof:parent_id":890514127,
     "wof:placetype":"locality",

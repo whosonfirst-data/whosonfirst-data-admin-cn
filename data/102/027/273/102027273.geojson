@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010268,
-    "geom:area_square_m":110100229.101114,
+    "geom:area_square_m":110100229.101252,
     "geom:bbox":"121.492943233,29.7863455945,121.656475471,29.9306353889",
     "geom:latitude":29.865779,
     "geom:longitude":121.571241,
@@ -24,17 +24,11 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0646\u063a\u0628\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0546\u056b\u0576\u0562\u0578"
-    ],
     "name:ast_x_preferred":[
         "Ningb\u00f3"
     ],
     "name:aze_x_preferred":[
         "Ninbo"
-    ],
-    "name:baq_x_preferred":[
-        "Ningbo"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041d\u0456\u043d\u0431\u043e"
@@ -60,20 +54,14 @@
     "name:che_x_preferred":[
         "\u041d\u0438\u043d\u0431\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u5b81\u6ce2\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Ning-po"
-    ],
     "name:dan_x_preferred":[
         "Ningbo"
     ],
     "name:deu_x_preferred":[
         "Ningbo"
     ],
-    "name:dut_x_preferred":[
-        "Ningbo"
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03bd\u03b3\u03ba\u03bc\u03c0\u03cc"
     ],
     "name:eng_x_colloquial":[
         ""
@@ -102,18 +90,6 @@
     "name:fra_x_preferred":[
         "Ningbo"
     ],
-    "name:fre_x_preferred":[
-        "Ningbo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d8\u10dc\u10d1\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Ningbo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b9\u03bd\u03b3\u03ba\u03bc\u03c0\u03cc"
-    ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abf\u0a82\u0a97\u0acd\u0aac\u0acb"
     ],
@@ -129,6 +105,9 @@
     "name:hun_x_preferred":[
         "Ningbo"
     ],
+    "name:hye_x_preferred":[
+        "\u0546\u056b\u0576\u0562\u0578"
+    ],
     "name:ind_x_preferred":[
         "Ningbo"
     ],
@@ -140,6 +119,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0ca8\u0cbf\u0c82\u0c97\u0ccd\u0cac\u0cca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d8\u10dc\u10d1\u10dd"
     ],
     "name:kik_x_preferred":[
         "Ningbo"
@@ -156,17 +138,17 @@
     "name:lzh_x_preferred":[
         "\u5be7\u6ce2\u5e02"
     ],
-    "name:mac_x_preferred":[
-        "\u041d\u0438\u043d\u0433\u0431\u043e"
-    ],
     "name:mar_x_preferred":[
         "\u0928\u093f\u0902\u0917\u092c\u094b"
     ],
-    "name:may_x_preferred":[
-        "Ningbo"
+    "name:mkd_x_preferred":[
+        "\u041d\u0438\u043d\u0433\u0431\u043e"
     ],
     "name:mon_x_preferred":[
         "\u041d\u0438\u043d\u0431\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Ningbo"
     ],
     "name:nan_x_preferred":[
         "L\u00eang-pho-chh\u012b"
@@ -185,9 +167,6 @@
     ],
     "name:oci_x_preferred":[
         "Ningbo"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u0646\u06af\u0628\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u0646\u0646\u06af\u0628\u0648"
@@ -419,7 +398,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1527637559,
+    "wof:lastmodified":1561752065,
     "wof:megacity":1,
     "wof:name":"Ningbo",
     "wof:parent_id":890516553,

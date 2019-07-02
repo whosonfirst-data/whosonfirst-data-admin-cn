@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001943,
-    "geom:area_square_m":20743524.875263,
+    "geom:area_square_m":20743524.875262,
     "geom:bbox":"102.67328314,29.9792254341,103.001693748,30.7083514734",
     "geom:latitude":30.276383,
     "geom:longitude":102.854394,
@@ -21,9 +21,6 @@
     "name:ara_x_preferred":[
         "\u064a\u0627\u0627\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Ya'an"
-    ],
     "name:ben_x_preferred":[
         "\u0987\u09af\u09bc\u09be'\u09a8"
     ],
@@ -33,17 +30,17 @@
     "name:cdo_x_preferred":[
         "Ng\u0101-\u0103ng"
     ],
-    "name:chi_x_preferred":[
-        "\u96c5\u5b89\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ja-an"
     ],
     "name:dan_x_preferred":[
         "Ya'an"
     ],
-    "name:dut_x_preferred":[
-        "Ya'an"
+    "name:deu_x_preferred":[
+        "Ya\u2019an"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03b1\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Ya'an"
@@ -51,17 +48,17 @@
     "name:est_x_preferred":[
         "Ya'an"
     ],
+    "name:eus_x_preferred":[
+        "Ya'an"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Ya\u2019an"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ya'an"
-    ],
-    "name:ger_x_preferred":[
-        "Ya\u2019an"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03b1\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aaf\u0abe\u0aa8"
@@ -99,20 +96,20 @@
     "name:mar_x_preferred":[
         "\u092f\u093e\u0906\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ya'an"
     ],
     "name:nan_x_preferred":[
         "Ng\u00e1-an-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Ya'an"
     ],
     "name:nno_x_preferred":[
         "Ya'an"
     ],
     "name:nob_x_preferred":[
         "Ya'an"
-    ],
-    "name:per_x_preferred":[
-        "\u06cc\u0627\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "Ya'an"
@@ -169,7 +166,8 @@
         "\u96c5\u5b89"
     ],
     "name:zho_x_variant":[
-        "Ya\u2019an"
+        "Ya\u2019an",
+        "\u96c5\u5b89\u5e02"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -211,7 +209,7 @@
         }
     ],
     "wof:id":102026981,
-    "wof:lastmodified":1513940909,
+    "wof:lastmodified":1561752084,
     "wof:name":"Ya\u2019an",
     "wof:parent_id":1108732541,
     "wof:placetype":"locality",

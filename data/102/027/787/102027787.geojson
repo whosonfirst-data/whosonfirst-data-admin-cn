@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000505,
-    "geom:area_square_m":4978268.561298,
+    "geom:area_square_m":4978268.5613,
     "geom:bbox":"112.164635851,37.1906938403,112.187170726,37.2174687367",
     "geom:latitude":37.204082,
     "geom:longitude":112.175903,
@@ -16,25 +16,16 @@
     "mps:longitude":112.175903,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Pingyao"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646\u063a\u064a\u0627\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Pingyao konderria"
-    ],
-    "name:chi_x_preferred":[
-        "\u5e73\u9065\u53e4\u57ce"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Pching-jao"
     ],
     "name:dan_x_preferred":[
         "Pingyao"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pingyao"
     ],
     "name:eng_x_preferred":[
@@ -43,17 +34,17 @@
     "name:epo_x_preferred":[
         "Pingyao"
     ],
+    "name:eus_x_preferred":[
+        "Pingyao konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0646\u06af \u06cc\u0627\u0626\u0648"
+    ],
     "name:fin_x_preferred":[
         "Pingyao"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Xian de Pingyao"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d8\u10dc\u10d8\u10d0\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Pingyao"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d9\u05e0\u05d2\u05d9\u05d0\u05d5"
@@ -70,17 +61,20 @@
     "name:jpn_x_preferred":[
         "\u5e73\u9065\u770c"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d8\u10dc\u10d8\u10d0\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ud551\uc57c\uc624 \ud604"
     ],
     "name:lit_x_preferred":[
         "Pingjao"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Pingyao"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u06cc\u0646\u06af \u06cc\u0627\u0626\u0648"
+    "name:nob_x_preferred":[
+        "Pingyao"
     ],
     "name:pol_x_preferred":[
         "Pingyao"
@@ -92,6 +86,9 @@
         "\u041f\u0438\u043d\u044a\u044f\u043e"
     ],
     "name:spa_x_preferred":[
+        "Pingyao"
+    ],
+    "name:sqi_x_preferred":[
         "Pingyao"
     ],
     "name:swe_x_preferred":[
@@ -111,6 +108,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u5e73\u9065\u53bf"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e73\u9065\u53e4\u57ce"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -155,7 +155,7 @@
         }
     ],
     "wof:id":102027787,
-    "wof:lastmodified":1513940265,
+    "wof:lastmodified":1561752079,
     "wof:name":"Pingyao",
     "wof:parent_id":890513369,
     "wof:placetype":"locality",

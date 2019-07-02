@@ -20,41 +20,38 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u062a\u0627\u064a\u0647\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Qitaihe"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09a4\u09be\u0987\u09b9\u09c7"
     ],
     "name:cdo_x_preferred":[
         "Ch\u00e9k-d\u00e0i-\u00f2\u0324"
     ],
-    "name:chi_x_preferred":[
-        "\u4e03\u53f0\u6cb3\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u010cchi-tchaj-che"
     ],
     "name:dan_x_preferred":[
         "Qitaihe"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Qitaihe"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03c4\u03ac\u03b9\u03c7\u03b5"
     ],
     "name:eng_x_preferred":[
         "Qitaihe"
     ],
+    "name:eus_x_preferred":[
+        "Qitaihe"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u062a\u0627\u06cc\u0647\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Qitaihe"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Qitaihe"
-    ],
-    "name:ger_x_preferred":[
-        "Qitaihe"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03b9\u03c4\u03ac\u03b9\u03c7\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0a9f\u0ac7\u0ab9\u0ac7"
@@ -89,14 +86,17 @@
     "name:mar_x_preferred":[
         "\u0915\u093c\u093f\u0924\u093e\u0908\u0939\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Qitaihe"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Qitaihe"
     ],
     "name:nan_x_preferred":[
         "Chhit-t\u00e2i-h\u00f4-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Qitaihe"
     ],
     "name:nno_x_preferred":[
         "Qitaihe"
@@ -106,9 +106,6 @@
     ],
     "name:pam_x_preferred":[
         "Qitaihe"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u06cc\u062a\u0627\u06cc\u0647\u06cc"
     ],
     "name:pol_x_preferred":[
         "Qitaihe"
@@ -171,7 +168,8 @@
         "\u592a\u548c"
     ],
     "name:zho_x_variant":[
-        "\u592a\u6cb3\u6751"
+        "\u592a\u6cb3\u6751",
+        "\u4e03\u53f0\u6cb3\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -301,7 +299,7 @@
         }
     ],
     "wof:id":890516381,
-    "wof:lastmodified":1513941162,
+    "wof:lastmodified":1561753689,
     "wof:name":"\u4e03\u53f0\u6cb3\u5e02",
     "wof:parent_id":890515829,
     "wof:placetype":"locality",

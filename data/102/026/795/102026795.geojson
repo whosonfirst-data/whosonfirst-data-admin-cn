@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001548,
-    "geom:area_square_m":14722584.478346,
+    "geom:area_square_m":14722584.478355,
     "geom:bbox":"98.4862562529,39.6939504592,98.5315689295,39.7542198996",
     "geom:latitude":39.725457,
     "geom:longitude":98.507074,
@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u0648\u063a\u0648\u0627\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Jiuquan"
-    ],
     "name:ben_x_preferred":[
         "\u099c\u09bf\u0995\u09cb\u09af\u09bc\u09be\u09a8"
     ],
@@ -37,17 +34,14 @@
     "name:ces_x_preferred":[
         "\u0164iou-\u010dch\u00fcan"
     ],
-    "name:chi_x_preferred":[
-        "\u9152\u6cc9\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "\u0164iou-\u010dch\u00fcan"
-    ],
     "name:dan_x_preferred":[
         "Jiuquan"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Jiuquan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03b9\u03bd\u03c4\u03c3\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Jiuquan"
@@ -55,17 +49,17 @@
     "name:est_x_preferred":[
         "Jiuquan"
     ],
+    "name:eus_x_preferred":[
+        "Jiuquan"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u06cc\u0648\u0686\u0648\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Jiuquan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jiuquan"
-    ],
-    "name:ger_x_preferred":[
-        "Jiuquan"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03b9\u03bd\u03c4\u03c3\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0abf\u0aaf\u0ac1\u0a95\u0acd\u0ab5\u0abe\u0aa8"
@@ -97,14 +91,11 @@
     "name:lit_x_preferred":[
         "D\u017eiukanas"
     ],
-    "name:mac_x_preferred":[
-        "\u0403\u0443\u045c\u0443\u0435\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u091c\u093f\u0909\u0915\u094d\u0935\u093e\u0907\u0928"
     ],
-    "name:may_x_preferred":[
-        "Jiuquan"
+    "name:mkd_x_preferred":[
+        "\u0403\u0443\u045c\u0443\u0435\u043d"
     ],
     "name:mlg_x_preferred":[
         "Jiuquan"
@@ -112,8 +103,14 @@
     "name:mon_x_preferred":[
         "\u0416\u044e\u0447\u0443\u0430\u043d\u044c"
     ],
+    "name:msa_x_preferred":[
+        "Jiuquan"
+    ],
     "name:nan_x_preferred":[
         "Chi\u00fa-cho\u00e2n-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Jiuquan"
     ],
     "name:nno_x_preferred":[
         "Jiuquan"
@@ -123,9 +120,6 @@
     ],
     "name:pam_x_preferred":[
         "Jiuquan"
-    ],
-    "name:per_x_preferred":[
-        "\u062c\u06cc\u0648\u0686\u0648\u0627\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u062c\u06cc\u0648\u0686\u0648\u0622\u0646"
@@ -235,7 +229,7 @@
         }
     ],
     "wof:id":102026795,
-    "wof:lastmodified":1513940532,
+    "wof:lastmodified":1561752083,
     "wof:name":"Suzhou",
     "wof:parent_id":890515159,
     "wof:placetype":"locality",

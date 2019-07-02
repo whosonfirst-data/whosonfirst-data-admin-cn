@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001793,
-    "geom:area_square_m":19181425.17628,
+    "geom:area_square_m":19181425.176268,
     "geom:bbox":"118.153070319,30.0458084363,118.184818228,30.1588997332",
     "geom:latitude":30.104119,
     "geom:longitude":118.166298,
@@ -18,9 +18,6 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0627\u0646\u063a\u0634\u0627\u0646"
-    ],
-    "name:baq_x_preferred":[
-        "Huangshan"
     ],
     "name:ben_x_preferred":[
         "\u09b9\u09c1\u09af\u09bc\u09be\u0982\u09b8\u09be\u09a8 \u09b6\u09b9\u09b0"
@@ -37,10 +34,7 @@
     "name:ces_x_preferred":[
         "\u017dlut\u00e9 hory"
     ],
-    "name:chi_x_preferred":[
-        "\u9ec4\u5c71\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "Chuang-\u0161an"
     ],
     "name:dan_x_preferred":[
@@ -49,8 +43,11 @@
     "name:deu_x_preferred":[
         "Huang Shan"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Huangshan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c5\u03b1\u03bd\u03b3\u03ba\u03c3\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Huangshan City"
@@ -61,8 +58,14 @@
     "name:eus_x_preferred":[
         "Huang mendia"
     ],
+    "name:eus_x_variant":[
+        "Huangshan"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0647\u0633\u062a\u0627\u0646 \u0647\u0648\u0646\u06af\u200c\u0634\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u0648\u0627\u0646\u06af\u0634\u0627\u0646"
     ],
     "name:fin_x_preferred":[
         "Huangshan"
@@ -70,14 +73,8 @@
     "name:fra_x_preferred":[
         "Monts Huang"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Huangshan"
-    ],
-    "name:ger_x_preferred":[
-        "Huangshan"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03bf\u03c5\u03b1\u03bd\u03b3\u03ba\u03c3\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac1\u0a86\u0a82\u0a97\u0ab6\u0abe\u0aa8 \u0ab6\u0ab9\u0ac7\u0ab0"
@@ -133,7 +130,7 @@
     "name:mar_x_preferred":[
         "\u0939\u0941\u0906\u0902\u0917\u0936\u093e\u0928 \u0936\u0939\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Huangshan City"
     ],
     "name:nan_x_preferred":[
@@ -145,6 +142,9 @@
     "name:nld_x_preferred":[
         "Huang Shan"
     ],
+    "name:nld_x_variant":[
+        "Huangshan"
+    ],
     "name:nno_x_preferred":[
         "Huangshan"
     ],
@@ -153,9 +153,6 @@
     ],
     "name:nor_x_preferred":[
         "Huang Shan"
-    ],
-    "name:per_x_preferred":[
-        "\u0647\u0648\u0627\u0646\u06af\u0634\u0627\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u06c1\u0648\u0622\u0646\u06af\u0634\u0627\u0646"
@@ -220,6 +217,9 @@
     "name:zho_x_preferred":[
         "\u9ec4\u5c71"
     ],
+    "name:zho_x_variant":[
+        "\u9ec4\u5c71\u5e02"
+    ],
     "name:zho_yue_x_preferred":[
         "\u9ec3\u5c71"
     ],
@@ -269,7 +269,7 @@
         }
     ],
     "wof:id":102027523,
-    "wof:lastmodified":1527637574,
+    "wof:lastmodified":1561752079,
     "wof:name":"Huangshan",
     "wof:parent_id":1108732553,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00029,
-    "geom:area_square_m":3128037.453344,
+    "geom:area_square_m":3128037.453349,
     "geom:bbox":"111.143865413,29.4162195046,111.164484191,29.4342702287",
     "geom:latitude":29.425245,
     "geom:longitude":111.154175,
@@ -16,9 +16,6 @@
     "mps:longitude":111.154175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u96f6\u9633\u9547"
-    ],
     "name:eng_x_preferred":[
         "Lingyang"
     ],
@@ -29,7 +26,8 @@
         "Tz\u2019u-li"
     ],
     "name:zho_x_variant":[
-        "Tz\u2019u-li-hsien"
+        "Tz\u2019u-li-hsien",
+        "\u96f6\u9633\u9547"
     ],
     "qs:a0":"\u4e2d\u570b",
     "qs:a1":"*\u6e56\u5357\u7701",
@@ -77,7 +75,7 @@
         }
     ],
     "wof:id":102027677,
-    "wof:lastmodified":1513939169,
+    "wof:lastmodified":1561752076,
     "wof:name":"Cili",
     "wof:parent_id":890513321,
     "wof:placetype":"locality",

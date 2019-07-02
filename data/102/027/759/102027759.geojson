@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002024,
-    "geom:area_square_m":22827905.146253,
+    "geom:area_square_m":22827905.14625,
     "geom:bbox":"107.079385034,24.102635861,107.263863211,24.3110727696",
     "geom:latitude":24.189609,
     "geom:longitude":107.194723,
@@ -22,17 +22,14 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09ae\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u9a6c\u9547"
-    ],
     "name:dan_x_preferred":[
         "Bama"
     ],
     "name:deu_x_preferred":[
         "Bama"
     ],
-    "name:dut_x_preferred":[
-        "Bama"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bama"
@@ -45,9 +42,6 @@
     ],
     "name:glg_x_preferred":[
         "Bama"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ac\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0aae\u0abe"
@@ -79,7 +73,7 @@
     "name:mar_x_preferred":[
         "\u092c\u093e\u092e\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bama"
     ],
     "name:nld_x_preferred":[
@@ -130,6 +124,9 @@
     "name:zho_x_preferred":[
         "\u5df4\u9a6c"
     ],
+    "name:zho_x_variant":[
+        "\u5df4\u9a6c\u9547"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"China",
@@ -174,7 +171,7 @@
         }
     ],
     "wof:id":102027759,
-    "wof:lastmodified":1527637568,
+    "wof:lastmodified":1561752074,
     "wof:name":"Bama",
     "wof:parent_id":1108732453,
     "wof:placetype":"locality",

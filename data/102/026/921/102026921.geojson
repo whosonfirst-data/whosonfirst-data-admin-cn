@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004474,
-    "geom:area_square_m":44440359.939129,
+    "geom:area_square_m":44440359.939115,
     "geom:bbox":"117.822693893,36.4520398091,117.998857865,36.6642130385",
     "geom:latitude":36.548849,
     "geom:longitude":117.897387,
@@ -26,12 +26,6 @@
     "name:ara_x_preferred":[
         "\u0632\u064a\u0628\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0551\u0566\u056b\u0562\u0578"
-    ],
-    "name:baq_x_preferred":[
-        "Zibo"
-    ],
     "name:ben_x_preferred":[
         "\u099a\u09bf\u09ac\u09cb"
     ],
@@ -47,10 +41,7 @@
     "name:ces_x_preferred":[
         "C-po"
     ],
-    "name:chi_x_preferred":[
-        "\u6dc4\u535a\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "C'-po"
     ],
     "name:dan_x_preferred":[
@@ -59,8 +50,8 @@
     "name:deu_x_preferred":[
         "Zibo"
     ],
-    "name:dut_x_preferred":[
-        "Zibo"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03b9\u03bc\u03c0\u03cc"
     ],
     "name:eng_x_colloquial":[
         ""
@@ -83,17 +74,8 @@
     "name:fra_x_preferred":[
         "Zibo"
     ],
-    "name:fre_x_preferred":[
-        "Zibo"
-    ],
-    "name:ger_x_preferred":[
-        "Zibo"
-    ],
     "name:glg_x_preferred":[
         "Zibo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03b9\u03bc\u03c0\u03cc"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abf\u0aac\u0acb"
@@ -103,6 +85,9 @@
     ],
     "name:hun_x_preferred":[
         "Cepo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0551\u0566\u056b\u0562\u0578"
     ],
     "name:ind_x_preferred":[
         "Zibo"
@@ -131,7 +116,7 @@
     "name:mar_x_preferred":[
         "\u091d\u093f\u092c\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Zibo"
     ],
     "name:nan_x_preferred":[
@@ -151,9 +136,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a1c\u0a3c\u0a40\u0a2c\u0a4b"
-    ],
-    "name:per_x_preferred":[
-        "\u0632\u0627\u06cc\u0628\u0648"
     ],
     "name:pol_x_preferred":[
         "Zibo"
@@ -359,7 +341,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1527637815,
+    "wof:lastmodified":1561752084,
     "wof:megacity":1,
     "wof:name":"Zibo",
     "wof:parent_id":890515095,

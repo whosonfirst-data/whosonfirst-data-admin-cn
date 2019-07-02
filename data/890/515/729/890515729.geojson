@@ -23,12 +23,6 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u0646\u062f\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0561\u0576\u0564\u0561\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Handan"
-    ],
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09a8\u09cd\u09a6\u09be\u09a8"
     ],
@@ -44,17 +38,14 @@
     "name:ces_x_preferred":[
         "Chan-tan"
     ],
-    "name:chi_x_preferred":[
-        "\u90af\u90f8\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Chan-tan"
-    ],
     "name:dan_x_preferred":[
         "Handan"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Handan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03bd\u03c4\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Handan"
@@ -65,23 +56,20 @@
     "name:est_x_preferred":[
         "Handan Shi"
     ],
+    "name:eus_x_preferred":[
+        "Handan"
+    ],
     "name:fas_x_preferred":[
         "\u0647\u0627\u0646\u062f\u0627\u0646"
     ],
     "name:fin_x_preferred":[
         "Handan"
     ],
-    "name:fre_x_preferred":[
-        "Handan"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Handan"
     ],
     "name:glg_x_preferred":[
         "Handan"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b1\u03bd\u03c4\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac7\u0aa8\u0acd\u0aa1\u0aa8"
@@ -91,6 +79,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0939\u0928\u0926\u093e\u0928"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0576\u0564\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Handan"
@@ -119,11 +110,14 @@
     "name:mar_x_preferred":[
         "\u0939\u093e\u0902\u0921\u0923"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Handan"
     ],
     "name:nan_x_preferred":[
         "H\u00e2n-tan-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Handan"
     ],
     "name:nno_x_preferred":[
         "Handan"
@@ -136,9 +130,6 @@
     ],
     "name:pam_x_preferred":[
         "Handan"
-    ],
-    "name:per_x_preferred":[
-        "\u0647\u0627\u0646\u062f\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "Handan"
@@ -335,7 +326,7 @@
         }
     ],
     "wof:id":890515729,
-    "wof:lastmodified":1513941186,
+    "wof:lastmodified":1561753712,
     "wof:name":"\u90af\u90f8",
     "wof:parent_id":890511887,
     "wof:placetype":"locality",

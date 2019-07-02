@@ -40,13 +40,7 @@
     "name:ara_x_preferred":[
         "\u0642\u0648\u064a\u062a\u0634\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0533\u0578\u0582\u0575\u0579\u056a\u0578\u0578\u0582"
-    ],
     "name:ast_x_preferred":[
-        "Guizhou"
-    ],
-    "name:baq_x_preferred":[
         "Guizhou"
     ],
     "name:bel_x_preferred":[
@@ -76,14 +70,8 @@
     "name:che_x_preferred":[
         "\u0413\u0443\u0439\u0447\u0436\u043e\u0443"
     ],
-    "name:chi_x_preferred":[
-        "\u8d35\u5dde\u7701"
-    ],
     "name:cym_x_preferred":[
         "Guizhou"
-    ],
-    "name:cze_x_preferred":[
-        "Kuej-\u010dou"
     ],
     "name:dan_x_preferred":[
         "Guizhou"
@@ -91,11 +79,11 @@
     "name:deu_x_preferred":[
         "Guizhou"
     ],
-    "name:dut_x_preferred":[
-        "Guizhou"
-    ],
     "name:ell_x_preferred":[
         "\u0393\u03ba\u03bf\u03c5\u03ca\u03c4\u03b6\u03cc\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c5\u03b9\u03c4\u03c3\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Guizhou"
@@ -124,26 +112,14 @@
     "name:fra_x_variant":[
         "Province de Guizhou"
     ],
-    "name:fre_x_preferred":[
-        "Guizhou"
-    ],
     "name:gan_x_preferred":[
         "\u8cb4\u5dde"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e3\u10d8\u10ef\u10dd\u10e3"
-    ],
-    "name:ger_x_preferred":[
-        "Guizhou"
     ],
     "name:gle_x_preferred":[
         "Guizhou"
     ],
     "name:glv_x_preferred":[
         "Guizhou"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c5\u03b9\u03c4\u03c3\u03bf\u03cd"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0ac1\u0a87\u0a9d\u0acb\u0a89"
@@ -165,6 +141,9 @@
     ],
     "name:hun_x_preferred":[
         "Kujcsou"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0578\u0582\u0575\u0579\u056a\u0578\u0578\u0582"
     ],
     "name:ina_x_preferred":[
         "Guizhou"
@@ -207,14 +186,11 @@
     "name:lzh_x_preferred":[
         "\u8cb4\u5dde\u7701"
     ],
-    "name:mac_x_preferred":[
-        "\u0413\u0443\u0435\u0458\u045f\u043e\u0443"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u094d\u0935\u0940\u091a\u094c"
     ],
-    "name:may_x_preferred":[
-        "Guizhou"
+    "name:mkd_x_preferred":[
+        "\u0413\u0443\u0435\u0458\u045f\u043e\u0443"
     ],
     "name:mlg_x_preferred":[
         "Guizhou"
@@ -249,9 +225,6 @@
     "name:pam_x_preferred":[
         "Guizhou"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0648\u0626\u06cc\u0698\u0648"
-    ],
     "name:pnb_x_preferred":[
         "\u06af\u0648\u0626\u06cc\u0698\u0648"
     ],
@@ -265,9 +238,6 @@
         "Guizhou pruwinsya"
     ],
     "name:ron_x_preferred":[
-        "Guizhou"
-    ],
-    "name:rum_x_preferred":[
         "Guizhou"
     ],
     "name:rus_x_preferred":[
@@ -306,9 +276,6 @@
     "name:tha_x_preferred":[
         "\u0e21\u0e13\u0e11\u0e25\u0e01\u0e38\u0e49\u0e22\u0e42\u0e08\u0e27"
     ],
-    "name:tib_x_preferred":[
-        "\u0f40\u0f74\u0f51\u0f0b\u0f40\u0fb2\u0f7c\u0f60\u0f74\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Guizhou"
     ],
@@ -338,9 +305,6 @@
         "Qu\u00fd Ch\u00e2u"
     ],
     "name:war_x_preferred":[
-        "Guizhou"
-    ],
-    "name:wel_x_preferred":[
         "Guizhou"
     ],
     "name:wln_x_preferred":[
@@ -500,7 +464,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1553550356,
+    "wof:lastmodified":1561752332,
     "wof:name":"Guizhou",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
