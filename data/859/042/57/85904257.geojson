@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000356,
-    "geom:area_square_m":3378236.967673,
+    "geom:area_square_m":3378236.967676,
     "geom:bbox":"116.315002441,39.9084617231,116.340925315,39.9265884219",
     "geom:latitude":39.917836,
     "geom:longitude":116.329412,
@@ -28,17 +28,50 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u0647\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u09b6\u09be\u09a8\u09b9\u09bf"
+    ],
+    "name:dan_x_preferred":[
+        "Sanhe"
+    ],
     "name:deu_x_preferred":[
         "Sanhe"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c7\u03b5"
     ],
     "name:eng_x_preferred":[
         "Sanlihe"
     ],
+    "name:eng_x_variant":[
+        "Sanhe"
+    ],
+    "name:fin_x_preferred":[
+        "Sanhe"
+    ],
     "name:fra_x_preferred":[
+        "Sanhe"
+    ],
+    "name:gan_x_preferred":[
+        "\u4e09\u6cb3\u5e02"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0a82\u0ab9\u0ac7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u0928\u0939\u0947"
+    ],
+    "name:ind_x_preferred":[
+        "Sanhe"
+    ],
+    "name:ita_x_preferred":[
         "Sanhe"
     ],
     "name:jpn_x_preferred":[
         "\u4e09\u6cb3\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0caf\u0cbe\u0ca8\u0ccd\u0cb9\u0cc6"
     ],
     "name:kik_x_preferred":[
         "Sanhe"
@@ -46,17 +79,68 @@
     "name:kor_x_preferred":[
         "\uc2fc\ud5c8 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc2fc\ud5c8\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Sanhe"
+    ],
+    "name:lit_x_preferred":[
+        "Sanch\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0945\u0928\u0939\u0947"
+    ],
+    "name:msa_x_preferred":[
+        "Sanhe"
+    ],
+    "name:nan_x_preferred":[
+        "Sam-h\u00f4-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Sanhe"
+    ],
+    "name:nob_x_preferred":[
+        "Sanhe"
+    ],
     "name:nor_x_preferred":[
         "Sanhe"
     ],
     "name:pam_x_preferred":[
         "Sanhe"
     ],
+    "name:pol_x_preferred":[
+        "Sanhe"
+    ],
+    "name:por_x_preferred":[
+        "Sanhe"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d\u044c\u0445\u044d"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca\u0dc4\u0dd2"
+    ],
+    "name:spa_x_preferred":[
+        "Sanhe"
+    ],
     "name:swe_x_preferred":[
         "Sanhe"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba9\u0bcd\u0bb9\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3e\u0c28\u0c4d\u0c39\u0c46"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19\u0e40\u0e2b\u0e2d"
+    ],
+    "name:tur_x_preferred":[
+        "Sanhe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u044c\u0445\u0435"
     ],
     "name:unk_x_variant":[
         "Sunhohsien",
@@ -67,6 +151,12 @@
     ],
     "name:vie_x_preferred":[
         "Tam H\u00e0"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e09\u6cb3\u5e02"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e09\u6cb3"
     ],
     "name:zho_x_preferred":[
         "\u4e09\u6cb3\u5e02"
@@ -134,7 +224,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497316587,
+    "wof:lastmodified":1563404343,
     "wof:name":"Sanlihe",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

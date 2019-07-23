@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000293,
-    "geom:area_square_m":3125144.297353,
+    "geom:area_square_m":3125144.297354,
     "geom:bbox":"112.780730799,30.4064993473,112.801544516,30.4245385731",
     "geom:latitude":30.415519,
     "geom:longitude":112.791138,
@@ -19,14 +19,32 @@
     "mps:longitude":112.791138,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0646\u0629 \u062a\u0634\u064a\u0627\u0646\u062c\u064a\u0627\u0646\u063a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09bf\u09af\u09bc\u09be\u09a8\u099c\u09bf\u09af\u09bc\u09be\u0982"
+    ],
+    "name:cat_x_preferred":[
+        "Qianjiang"
+    ],
+    "name:ceb_x_preferred":[
+        "Qianjiang"
+    ],
     "name:dan_x_preferred":[
         "Qianjiang"
     ],
     "name:deu_x_preferred":[
         "Qianjiang"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03ac\u03bd\u03b6\u03b9\u03b1\u03bd\u03b3\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Qianjiang"
+    ],
+    "name:eng_x_variant":[
+        "Qianjiang City"
     ],
     "name:fin_x_preferred":[
         "Qianjiang"
@@ -34,8 +52,26 @@
     "name:fra_x_preferred":[
         "Qianjiang"
     ],
+    "name:gan_x_preferred":[
+        "\u6f5c\u6c5f\u5e02"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0ac0\u0aa8\u0a9c\u0abf\u0aaf\u0abe\u0a82\u0a97 \u0ab6\u0ab9\u0ac7\u0ab0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0940\u0923\u094d\u091c\u093f\u0906\u0902\u0917 \u0938\u093f\u091f\u0940"
+    ],
+    "name:ind_x_preferred":[
+        "Qianjiang City"
+    ],
+    "name:ita_x_preferred":[
+        "Qianjiang"
+    ],
     "name:jpn_x_preferred":[
         "\u6f5c\u6c5f\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cbf\u0caf\u0cbe\u0ca8\u0ccd\u0c9c\u0cbf\u0caf\u0cbe\u0c82\u0c97\u0ccd \u0ca8\u0c97\u0cb0"
     ],
     "name:kik_x_preferred":[
         "Qianjiang"
@@ -43,13 +79,37 @@
     "name:kor_x_preferred":[
         "\uccb8\uc7a5 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uccb8\uc7a5\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "\u010ciandziango"
+    ],
+    "name:lit_x_preferred":[
+        "\u010ciandziango miestas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u0940\u0923\u091c\u093f\u092f\u093e\u0902\u0917 \u0936\u0939\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Qianjiang City"
+    ],
+    "name:nan_x_preferred":[
+        "Chi\u00e2m-kang-chh\u012b"
+    ],
     "name:nld_x_preferred":[
         "Qianjiang"
     ],
     "name:nno_x_preferred":[
         "Qianjiang"
     ],
+    "name:nob_x_preferred":[
+        "Qianjiang"
+    ],
     "name:nor_x_preferred":[
+        "Qianjiang"
+    ],
+    "name:oci_x_preferred":[
         "Qianjiang"
     ],
     "name:pam_x_preferred":[
@@ -70,6 +130,9 @@
     "name:rus_x_variant":[
         "\u042e\u0430\u043d\u044c\u043b\u0438\u043d\u044c"
     ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dd4\u0d89\u0d87\u0db1\u0dca\u0da2\u0dd2\u0dba\u0dd0\u0db1\u0dca\u0d9c\u0dca \u0db1\u0d9c\u0dbb\u0dba"
+    ],
     "name:spa_x_preferred":[
         "Qianjiang"
     ],
@@ -79,8 +142,14 @@
     "name:swe_x_preferred":[
         "Qianjiang"
     ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0a\u0e35\u0e22\u0e19\u0e40\u0e08\u0e35\u0e22\u0e07 \u0e0b\u0e34\u0e15\u0e35\u0e49"
+    ],
     "name:tur_x_preferred":[
         "Qianjiang"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u044f\u043d\u044c\u0446\u0437\u044f\u043d"
     ],
     "name:unk_x_variant":[
         "Chien-kou"
@@ -88,11 +157,20 @@
     "name:urd_x_preferred":[
         "\u0686\u06cc\u0627\u0646\u062c\u06cc\u0627\u0646\u06af\u060c \u06c1\u0648\u0628\u0626\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u0686\u06cc\u0627\u0646\u062c\u06cc\u0627\u0646\u06af"
+    ],
     "name:vie_x_preferred":[
         "Ti\u1ec1m Giang"
     ],
     "name:war_x_preferred":[
         "Qianjiang"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6f5c\u6c5f\u5e02"
+    ],
+    "name:yue_x_preferred":[
+        "\u6f5b\u6c5f"
     ],
     "name:zho_min_nan_x_preferred":[
         "Chi\u00e2m-kang-chh\u012b"
@@ -150,7 +228,7 @@
         }
     ],
     "wof:id":102026951,
-    "wof:lastmodified":1527637811,
+    "wof:lastmodified":1563393453,
     "wof:name":"Yuanlin",
     "wof:parent_id":1108732471,
     "wof:placetype":"locality",

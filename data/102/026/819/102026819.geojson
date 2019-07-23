@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000318,
-    "geom:area_square_m":3121154.081098,
+    "geom:area_square_m":3121154.081101,
     "geom:bbox":"97.3660332295,37.3393156652,97.3886055286,37.3573362134",
     "geom:latitude":37.348326,
     "geom:longitude":97.377319,
@@ -18,11 +18,23 @@
     "mps:longitude":97.377319,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0644\u064a\u0646\u062c\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09c7\u09b2\u09b9\u09bf"
+    ],
     "name:bod_x_preferred":[
         "\u0f42\u0f4f\u0f7a\u0f62\u0f0b\u0f63\u0f7a\u0f53\u0f0b\u0f41\u0f0b"
     ],
+    "name:dan_x_preferred":[
+        "Delingha"
+    ],
     "name:deu_x_preferred":[
         "Delhi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b5\u03bb\u03af\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Delingha"
@@ -39,8 +51,26 @@
     "name:fra_x_preferred":[
         "Delingha"
     ],
+    "name:gan_x_preferred":[
+        "\u5fb7\u4ee4\u54c8\u5e02"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa6\u0abf\u0ab2\u0acd\u0ab9\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u0947\u0932\u094d\u0939\u0940"
+    ],
+    "name:ind_x_preferred":[
+        "Delhi"
+    ],
+    "name:ita_x_preferred":[
+        "Delingha"
+    ],
     "name:jpn_x_preferred":[
         "\u30c7\u30ea\u30f3\u30cf\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca6\u0cc6\u0cb9\u0cb2\u0cbf"
     ],
     "name:kik_x_preferred":[
         "Delingha"
@@ -48,11 +78,35 @@
     "name:kor_x_preferred":[
         "\ub354\ub9c1\ud558 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub354\ub9c1\ud558\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Delinga"
+    ],
+    "name:lit_x_preferred":[
+        "Delis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0926\u093f\u0932\u094d\u0932\u0940"
+    ],
     "name:mon_x_preferred":[
         "\u0414\u044d\u043b\u0445\u0438\u0439 \u0445\u043e\u0442"
     ],
     "name:mon_x_variant":[
         "Delhi"
+    ],
+    "name:msa_x_preferred":[
+        "Delhi"
+    ],
+    "name:nan_x_preferred":[
+        "Tek-l\u0113ng-ha-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Delhi"
+    ],
+    "name:nob_x_preferred":[
+        "Delingha"
     ],
     "name:nor_x_preferred":[
         "Delingha"
@@ -63,19 +117,52 @@
     "name:pol_x_preferred":[
         "Delingha"
     ],
+    "name:por_x_preferred":[
+        "Delhi"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u044d\u043b\u0438\u043d\u0445\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0daf\u0dd2\u0dbd\u0dca\u0dbd\u0dd2"
+    ],
+    "name:spa_x_preferred":[
+        "Delingha"
     ],
     "name:swe_x_preferred":[
         "Delingha"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bc6\u0bb2\u0bcd\u0bb2\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c22\u0c3f\u0c32\u0c4d\u0c32\u0c40"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e14\u0e25\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "Delhi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u043b\u0456\u043d\u0445\u0430"
+    ],
     "name:urd_x_preferred":[
         "\u062f\u06cc\u0644\u06c1\u06cc\u060c \u0686\u0646\u06af\u06be\u0627\u0626\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u062f\u06cc\u0644\u06c1\u06cc"
     ],
     "name:vie_x_preferred":[
         "\u0110\u1ee9c Linh C\u00e1p"
     ],
     "name:wuu_x_preferred":[
+        "\u5fb7\u4ee4\u54c8"
+    ],
+    "name:wuu_x_variant":[
+        "\u5fb7\u4ee4\u54c8\u5e02"
+    ],
+    "name:yue_x_preferred":[
         "\u5fb7\u4ee4\u54c8"
     ],
     "name:zho_x_preferred":[
@@ -122,7 +209,7 @@
         }
     ],
     "wof:id":102026819,
-    "wof:lastmodified":1527637807,
+    "wof:lastmodified":1563393433,
     "wof:name":"Delingha",
     "wof:parent_id":1108732461,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001082,
-    "geom:area_square_m":12155905.294189,
+    "geom:area_square_m":12155905.294199,
     "geom:bbox":"118.593019846,24.712857328,118.645750255,24.7608474939",
     "geom:latitude":24.737149,
     "geom:longitude":118.619385,
@@ -19,23 +19,56 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0634\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u099a\u09bf\u099a\u09bf"
+    ],
     "name:cdo_x_preferred":[
         "Si\u014fh-s\u0103i"
     ],
+    "name:dan_x_preferred":[
+        "Shishi"
+    ],
     "name:deu_x_preferred":[
+        "Shishi"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03af\u03c3\u03b9"
+    ],
+    "name:eng_x_preferred":[
         "Shishi"
     ],
     "name:fas_x_preferred":[
         "\u0634\u06cc\u0634\u06cc"
     ],
+    "name:fin_x_preferred":[
+        "Shishi"
+    ],
     "name:fra_x_preferred":[
         "Shishi"
+    ],
+    "name:gan_x_preferred":[
+        "\u77f3\u72ee\u5e02"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab6\u0abf\u0ab6\u0abf"
     ],
     "name:hak_x_preferred":[
         "Sa\u030dk-s\u1e73\u0302-s\u1e73"
     ],
+    "name:hin_x_preferred":[
+        "\u0936\u0940\u0936\u0940"
+    ],
+    "name:ind_x_preferred":[
+        "Shishi"
+    ],
+    "name:ita_x_preferred":[
+        "Shishi"
+    ],
     "name:jpn_x_preferred":[
         "\u77f3\u7345\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb6\u0cbf\u0cb6\u0cbf"
     ],
     "name:kik_x_preferred":[
         "Shishi"
@@ -43,7 +76,31 @@
     "name:kor_x_preferred":[
         "\uc2a4\uc2a4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc2a4\uc2a4\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "\u0160i\u0161i"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160i\u0161i"
+    ],
+    "name:mar_x_preferred":[
+        "\u0936\u093f\u0936\u093f"
+    ],
+    "name:msa_x_preferred":[
+        "Shishi"
+    ],
+    "name:mwl_x_preferred":[
+        "Shishi"
+    ],
+    "name:nan_x_preferred":[
+        "Chio\u030dh-sai-chh\u012b"
+    ],
     "name:nld_x_preferred":[
+        "Shishi"
+    ],
+    "name:nob_x_preferred":[
         "Shishi"
     ],
     "name:nor_x_preferred":[
@@ -55,11 +112,41 @@
     "name:pnb_x_preferred":[
         "\u0634\u06cc\u0634\u06cc \u0634\u06c1\u0631"
     ],
+    "name:pol_x_preferred":[
+        "Shishi"
+    ],
+    "name:por_x_preferred":[
+        "Shishi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u0448\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc1\u0dd2\u0dc1\u0dd2"
+    ],
+    "name:spa_x_preferred":[
+        "Shishi"
+    ],
     "name:srp_x_preferred":[
         "\u0428\u0438\u0448\u0438"
     ],
     "name:swe_x_preferred":[
         "Shishi"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb7\u0bbf\u0bb7\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c36\u0c40\u0c37\u0c3f"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e37\u0e2d\u0e0b\u0e37\u0e2d"
+    ],
+    "name:tur_x_preferred":[
+        "Shishi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0456\u0448\u0456"
     ],
     "name:unk_x_variant":[
         "Shih-shih"
@@ -67,11 +154,20 @@
     "name:urd_x_preferred":[
         "\u0634\u06cc\u0634\u06cc\u060c \u0641\u0648\u062c\u06cc\u0627\u0646"
     ],
+    "name:urd_x_variant":[
+        "\u0634\u06cc\u0634\u06cc"
+    ],
     "name:vie_x_preferred":[
         "Th\u1ea1ch S\u01b0"
     ],
     "name:war_x_preferred":[
         "Shishi"
+    ],
+    "name:wuu_x_preferred":[
+        "\u77f3\u72ee\u5e02"
+    ],
+    "name:yue_x_preferred":[
+        "\u77f3\u7345"
     ],
     "name:zho_min_nan_x_preferred":[
         "Chio\u030dh-sai-chh\u012b"
@@ -135,7 +231,7 @@
         }
     ],
     "wof:id":102027151,
-    "wof:lastmodified":1527637559,
+    "wof:lastmodified":1563393126,
     "wof:name":"Shishi",
     "wof:parent_id":890514127,
     "wof:placetype":"locality",

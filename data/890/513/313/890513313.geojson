@@ -18,11 +18,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u064a\u0643\u0627\u0646\u063a\u060c \u0645\u0642\u0627\u0637\u0639\u0629 \u062f\u0648\u0631\u0628\u0648\u062f"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0627\u064a\u0643\u0627\u0646\u063a"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u0987\u0995\u09be\u0982"
     ],
     "name:cat_x_preferred":[
         "D\u00f6rb\u00f6d"
+    ],
+    "name:ceb_x_preferred":[
+        "Taikang"
     ],
     "name:dan_x_preferred":[
         "Taikang"
@@ -33,8 +39,14 @@
     "name:eng_x_preferred":[
         "Taikang"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u06cc\u06a9\u0627\u0646\u06af"
+    ],
     "name:fin_x_preferred":[
         "Taikang"
+    ],
+    "name:gan_x_preferred":[
+        "\u6cf0\u5eb7\u9547"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0abe\u0a88\u0a95\u0ac7\u0a82\u0a97"
@@ -47,6 +59,9 @@
     ],
     "name:ita_x_preferred":[
         "Taikang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6cf0\u5eb7\u93ae"
     ],
     "name:kan_x_preferred":[
         "\u0ca4\u0cc8\u0c95\u0cbe\u0c82\u0c97\u0ccd"
@@ -78,6 +93,9 @@
     "name:sin_x_preferred":[
         "\u0da7\u0dcf\u0dba\u0dd2\u0d9a\u0dd0\u0db1\u0dca\u0d9c\u0dca"
     ],
+    "name:sin_x_variant":[
+        "\u0da7\u0dcf\u0dba\u0dd2\u0d9a\u0dd0\u0db1\u0dca\u0d9c\u0dca "
+    ],
     "name:swe_x_preferred":[
         "Taikang"
     ],
@@ -102,8 +120,14 @@
     "name:urd_x_preferred":[
         "\u062a\u0627\u06cc\u06a9\u0627\u0646\u062c \u060c \u062f\u0648\u0631\u0628\u0648\u062f \u06a9\u0627\u0624\u0646\u0679\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u062a\u0627\u06cc\u06a9\u0627\u0646\u062c "
+    ],
     "name:vie_x_preferred":[
         "Th\u00e1i Khang Tr\u1ea5n"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6cf0\u5eb7\u9547"
     ],
     "name:zho_x_preferred":[
         "\u6cf0\u5eb7"
@@ -148,7 +172,7 @@
         }
     ],
     "wof:id":890513313,
-    "wof:lastmodified":1561753701,
+    "wof:lastmodified":1563459595,
     "wof:name":"Taikang",
     "wof:parent_id":890513007,
     "wof:placetype":"locality",

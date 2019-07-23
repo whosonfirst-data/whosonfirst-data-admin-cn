@@ -30,6 +30,9 @@
     "name:cdo_x_preferred":[
         "\u00d4i-n\u00e0ng"
     ],
+    "name:ceb_x_preferred":[
+        "Weinan"
+    ],
     "name:ces_x_preferred":[
         "Wej-nan"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:fra_x_preferred":[
         "Weinan"
+    ],
+    "name:gan_x_preferred":[
+        "\u6e2d\u5357\u5e02"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0a87\u0aa8\u0aa8"
@@ -84,11 +90,17 @@
     "name:kor_x_preferred":[
         "\uc6e8\uc774\ub09c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc6e8\uc774\ub09c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Veinana"
     ],
     "name:lit_x_preferred":[
         "Veinanas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6e2d\u5357\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0935\u0947\u0908\u0928\u0902"
@@ -164,6 +176,9 @@
     ],
     "name:war_x_preferred":[
         "Weinan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6e2d\u5357\u5e02"
     ],
     "name:yue_x_preferred":[
         "\u6e2d\u5357"
@@ -320,7 +335,7 @@
         }
     ],
     "wof:id":102027085,
-    "wof:lastmodified":1561752066,
+    "wof:lastmodified":1563393158,
     "wof:name":"Weinan",
     "wof:parent_id":890511937,
     "wof:placetype":"locality",

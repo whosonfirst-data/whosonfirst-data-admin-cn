@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000707,
-    "geom:area_square_m":6411203.023064,
+    "geom:area_square_m":6411203.023056,
     "geom:bbox":"130.3350501,42.8548833717,130.37051616,42.8809410841",
     "geom:latitude":42.869071,
     "geom:longitude":130.354358,
@@ -17,10 +17,46 @@
     "mps:longitude":130.356469,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0646\u062a\u0634\u0648\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09be\u09a8\u099a\u09c1\u09a8"
+    ],
+    "name:ceb_x_preferred":[
+        "Hunchun"
+    ],
+    "name:dan_x_preferred":[
+        "Hunchun"
+    ],
     "name:deu_x_preferred":[
         "Hunchun"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03cd\u03bd\u03c4\u03c3\u03bf\u03c5\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Hunchun"
+    ],
+    "name:epo_x_preferred":[
+        "Hun\u0109uno"
+    ],
+    "name:fin_x_preferred":[
+        "Hunchun"
+    ],
     "name:fra_x_preferred":[
+        "Hunchun"
+    ],
+    "name:gan_x_preferred":[
+        "\u73f2\u6625\u5e02"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab9\u0a82\u0a9a\u0aa8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u0941\u0902\u091a\u0942\u0901"
+    ],
+    "name:ind_x_preferred":[
         "Hunchun"
     ],
     "name:ita_x_preferred":[
@@ -29,16 +65,40 @@
     "name:jpn_x_preferred":[
         "\u743f\u6625\u5e02"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb9\u0c82\u0c9a\u0ccd\u0ca8\u0ccd"
+    ],
     "name:kik_x_preferred":[
         "Hunchun"
     ],
     "name:kor_x_preferred":[
         "\ud6c8\ucd98 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud6c8\ucd98\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Hun\u010duna"
+    ],
+    "name:lit_x_preferred":[
+        "Hun\u010dunas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0939\u0941\u0902\u091a\u0942\u0928"
+    ],
     "name:mlg_x_preferred":[
         "Hunchun"
     ],
+    "name:msa_x_preferred":[
+        "Hunchun"
+    ],
+    "name:nan_x_preferred":[
+        "Hui-chhun-chh\u012b"
+    ],
     "name:nld_x_preferred":[
+        "Hunchun"
+    ],
+    "name:nob_x_preferred":[
         "Hunchun"
     ],
     "name:nor_x_preferred":[
@@ -50,6 +110,9 @@
     "name:rus_x_preferred":[
         "\u0425\u0443\u043d\u044c\u0447\u0443\u043d\u044c"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc4\u0db1\u0dca\u0da0\u0dd4\u0db1\u0dca"
+    ],
     "name:spa_x_preferred":[
         "Hunchun"
     ],
@@ -59,14 +122,35 @@
     "name:swe_x_preferred":[
         "Hunchun"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb9\u0bc1\u0ba9\u0bcd\u0b9a\u0bc1\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c39\u0c41\u0c02\u0c1a\u0c41\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2e\u0e31\u0e19\u0e0a\u0e38\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Hunchun"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0443\u043d\u044c\u0447\u0443\u043d\u044c"
+    ],
     "name:unk_x_variant":[
         "Hun-ch\u2019un-chen"
+    ],
+    "name:urd_x_preferred":[
+        "\u062d\u0648\u0646\u0686\u0648\u0646"
     ],
     "name:vie_x_preferred":[
         "H\u1ed3n Xu\u00e2n"
     ],
     "name:war_x_preferred":[
         "Hunchun"
+    ],
+    "name:wuu_x_preferred":[
+        "\u73f2\u6625\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u73f2\u6625\u5e02"
@@ -119,7 +203,7 @@
         }
     ],
     "wof:id":102027909,
-    "wof:lastmodified":1527637557,
+    "wof:lastmodified":1563393096,
     "wof:name":"Hunchun",
     "wof:parent_id":1108732421,
     "wof:placetype":"locality",

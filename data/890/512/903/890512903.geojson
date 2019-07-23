@@ -19,6 +19,12 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0627\u0648\u064a\u0648\u0627\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Liaoyu\u00e1n"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u044f\u0430\u044e\u0430\u043d\u044c"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u09af\u09bc\u09be\u0993\u0989\u09af\u09bc\u09be\u09a8"
     ],
@@ -55,6 +61,9 @@
     "name:fra_x_preferred":[
         "Liaoyuan"
     ],
+    "name:gan_x_preferred":[
+        "\u8fbd\u6e90\u5e02"
+    ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0aaf\u0abe\u0a93\u0aaf\u0ac1\u0a85\u0aa8"
     ],
@@ -79,11 +88,17 @@
     "name:kor_x_preferred":[
         "\ub7b4\uc624\uc704\uc548 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub7b4\uc624\uc704\uc548\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Liaojuana"
     ],
     "name:lit_x_preferred":[
         "Liaojuanas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u907c\u6e90\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0932\u093f\u0913\u092f\u0941\u0906\u0928"
@@ -154,11 +169,17 @@
     "name:vep_x_preferred":[
         "L\u00e4ojuan"
     ],
+    "name:vep_x_variant":[
+        "L\u00e4ojuan'"
+    ],
     "name:vie_x_preferred":[
         "Li\u00eau Nguy\u00ean"
     ],
     "name:war_x_preferred":[
         "Liaoyuan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8fbd\u6e90\u5e02"
     ],
     "name:yue_x_preferred":[
         "\u907c\u6e90"
@@ -293,7 +314,7 @@
         }
     ],
     "wof:id":890512903,
-    "wof:lastmodified":1561753706,
+    "wof:lastmodified":1563459745,
     "wof:name":"Liaoyuan",
     "wof:parent_id":1108732503,
     "wof:placetype":"locality",

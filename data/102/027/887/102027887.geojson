@@ -21,6 +21,9 @@
     "name:bxr_x_preferred":[
         "\u041c\u0430\u043d\u0436\u0443\u0443\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Manzhouli Shi"
+    ],
     "name:deu_x_preferred":[
         "Manjur"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:fra_x_preferred":[
         "Manzhouli"
+    ],
+    "name:gan_x_preferred":[
+        "\u6ee1\u6d32\u91cc\u5e02"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e0\u05d2'\u05d5\u05d0\u05d5\u05dc\u05d9"
@@ -61,12 +67,19 @@
         "\ub9cc\uc800\uc6b0\ub9ac \uc2dc"
     ],
     "name:kor_x_variant":[
-        "\ub9cc\uc800\uc6b0\ub9ac"
+        "\ub9cc\uc800\uc6b0\ub9ac",
+        "\ub9cc\uc800\uc6b0\ub9ac\uc2dc"
     ],
     "name:mon_x_preferred":[
         "\u041c\u0430\u043d\u0436\u0443\u0443\u0440"
     ],
+    "name:nan_x_preferred":[
+        "Bo\u00e1n-chiu-l\u00ed-chh\u012b"
+    ],
     "name:nld_x_preferred":[
+        "Manzhouli"
+    ],
+    "name:nob_x_preferred":[
         "Manzhouli"
     ],
     "name:nor_x_preferred":[
@@ -87,6 +100,15 @@
     "name:swe_x_preferred":[
         "Manzhouli"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u043d\u0497\u0443\u0440\u0438\u044f"
+    ],
+    "name:tur_x_preferred":[
+        "Manzhouli"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043d\u044c\u0447\u0436\u0443\u0440\u0456\u044f"
+    ],
     "name:unk_x_variant":[
         "Man-chow-li"
     ],
@@ -98,6 +120,9 @@
     ],
     "name:war_x_preferred":[
         "Manzhouli"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6ee1\u6d32\u91cc\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u6ee1\u6d32\u91cc\u5e02"
@@ -246,7 +271,7 @@
         }
     ],
     "wof:id":102027887,
-    "wof:lastmodified":1527637560,
+    "wof:lastmodified":1563393147,
     "wof:name":"Manzhouli",
     "wof:parent_id":1108732385,
     "wof:placetype":"locality",

@@ -33,8 +33,14 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0632\u0647\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Fuzhou"
+    ],
     "name:aze_x_preferred":[
         "Fucou"
+    ],
+    "name:aze_x_variant":[
+        "Fu\u00e7jou"
     ],
     "name:bel_x_preferred":[
         "\u0424\u0443\u0447\u0436\u043e\u045e"
@@ -57,11 +63,17 @@
     "name:cdo_x_preferred":[
         "H\u00f3k-ci\u016d"
     ],
+    "name:ceb_x_preferred":[
+        "Fuzhou"
+    ],
     "name:ces_x_preferred":[
         "Fu-\u010dou"
     ],
     "name:che_x_preferred":[
         "\u0424\u0443\u0447\u0436\u043e\u0443"
+    ],
+    "name:cym_x_preferred":[
+        "Fuzhou"
     ],
     "name:dan_x_preferred":[
         "Fuzhou"
@@ -129,6 +141,9 @@
     "name:hak_x_preferred":[
         "Fuk-ch\u00fb-s\u1e73"
     ],
+    "name:hak_x_variant":[
+        "Fuk-chiu-s\u1e73"
+    ],
     "name:hbs_x_preferred":[
         "Fuzhou"
     ],
@@ -137,6 +152,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092b\u093c\u0942\u091d\u094b\u0909"
+    ],
+    "name:hrv_x_preferred":[
+        "Fuzhou"
     ],
     "name:hun_x_preferred":[
         "Fucsou"
@@ -165,9 +183,18 @@
     "name:kik_x_preferred":[
         "Fuzhou"
     ],
+    "name:kir_x_preferred":[
+        "\u0424\u0443\u0447\u0436\u043e\u0443"
+    ],
+    "name:kon_x_preferred":[
+        "Fuzhou"
+    ],
     "name:kor_x_preferred":[
         "\ud478\uc800\uc6b0",
         "\ud478\uc800\uc6b0 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ud478\uc800\uc6b0\uc2dc"
     ],
     "name:lat_x_preferred":[
         "Focheum"
@@ -217,11 +244,17 @@
     "name:oci_x_preferred":[
         "Fuzhou"
     ],
+    "name:oss_x_preferred":[
+        "\u0424\u0443\u0447\u0436\u043e\u0443"
+    ],
     "name:pam_x_preferred":[
         "Fuzhou"
     ],
     "name:pan_x_preferred":[
         "\u0a2b\u0a3c\u0a42\u0a1a\u0a4b"
+    ],
+    "name:pan_x_variant":[
+        "\u0a2b\u0a3c\u0a42\u0a1c\u0a3c\u0a42"
     ],
     "name:pnb_x_preferred":[
         "\u0641\u0648\u0698\u0648"
@@ -473,7 +506,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1561752067,
+    "wof:lastmodified":1563393164,
     "wof:megacity":1,
     "wof:name":"Fuzhou",
     "wof:parent_id":890516575,

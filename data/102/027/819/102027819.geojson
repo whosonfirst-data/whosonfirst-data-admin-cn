@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000286,
-    "geom:area_square_m":3128429.73321,
+    "geom:area_square_m":3128429.733217,
     "geom:bbox":"117.977537088,27.6112467209,117.99780467,27.6292996155",
     "geom:latitude":27.620273,
     "geom:longitude":117.987671,
@@ -25,6 +25,9 @@
     "name:cdo_x_preferred":[
         "\u016a-\u00ec-s\u0103ng-ch\u00ea"
     ],
+    "name:ceb_x_preferred":[
+        "Wuyishan"
+    ],
     "name:dan_x_preferred":[
         "Wuyishan City"
     ],
@@ -34,14 +37,23 @@
     "name:eng_x_preferred":[
         "Wuyishan"
     ],
+    "name:eng_x_variant":[
+        "Wuyishan City"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0627\u06cc\u0634\u0627\u0646"
     ],
     "name:fra_x_preferred":[
         "Wuyishan"
     ],
+    "name:gan_x_preferred":[
+        "\u6b66\u5937\u5c71\u5e02"
+    ],
     "name:hak_x_preferred":[
         "V\u00fa-y\u00ee-s\u00e2n-s\u1e73"
+    ],
+    "name:ita_x_preferred":[
+        "Wuyishan"
     ],
     "name:jpn_x_preferred":[
         "\u6b66\u5937\u5c71\u5e02"
@@ -52,8 +64,20 @@
     "name:kor_x_preferred":[
         "\uc6b0\uc774\uc0b0 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc6b0\uc774\uc0b0\uc2dc"
+    ],
+    "name:mwl_x_preferred":[
+        "Wuyishan"
+    ],
     "name:nan_x_preferred":[
         "B\u00fa-\u00ee-soa\u207f-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Wuyishan"
+    ],
+    "name:nob_x_preferred":[
+        "Wuyishan"
     ],
     "name:nor_x_preferred":[
         "Wuyishan"
@@ -64,8 +88,14 @@
     "name:pnb_x_preferred":[
         "\u0648\u0648\u06cc\u06cc\u0634\u0627\u0646"
     ],
+    "name:pol_x_preferred":[
+        "Wuyishan"
+    ],
     "name:spa_x_preferred":[
         "Ciudad de Wuyishan"
+    ],
+    "name:spa_x_variant":[
+        "Ciudad Wuyishan"
     ],
     "name:swe_x_preferred":[
         "Wuyishan"
@@ -73,11 +103,17 @@
     "name:urd_x_preferred":[
         "\u0648\u0648\u0626\u06cc\u0634\u0627\u0646\u060c \u0641\u0648\u062c\u06cc\u0627\u0646"
     ],
+    "name:urd_x_variant":[
+        "\u0648\u0648\u0626\u06cc\u0634\u0627\u0646"
+    ],
     "name:vie_x_preferred":[
         "V\u0169 Di S\u01a1n"
     ],
     "name:war_x_preferred":[
         "Wuyishan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6b66\u5937\u5c71\u5e02"
     ],
     "name:yue_x_preferred":[
         "\u6b66\u5937\u5c71\u5e02"
@@ -135,7 +171,7 @@
         }
     ],
     "wof:id":102027819,
-    "wof:lastmodified":1527637560,
+    "wof:lastmodified":1563393154,
     "wof:name":"Wuyishan",
     "wof:parent_id":890516651,
     "wof:placetype":"locality",

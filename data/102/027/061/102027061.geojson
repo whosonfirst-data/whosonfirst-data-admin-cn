@@ -48,6 +48,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0423\u0445\u0430\u043d\u044c"
     ],
+    "name:bel_x_variant":[
+        "\u0423\u0445\u0430\u043d\u044c"
+    ],
     "name:ben_x_preferred":[
         "\u0989\u09b9\u09be\u09a8"
     ],
@@ -71,6 +74,9 @@
     ],
     "name:cdo_x_preferred":[
         "\u016a-h\u00e1ng"
+    ],
+    "name:ceb_x_preferred":[
+        "Wuhan"
     ],
     "name:ces_x_preferred":[
         "Wu-chan"
@@ -210,11 +216,17 @@
     "name:kik_x_preferred":[
         "Wuhan"
     ],
+    "name:kir_x_preferred":[
+        "\u0423\u0445\u0430\u043d\u044c"
+    ],
     "name:kon_x_preferred":[
         "Wuhan"
     ],
     "name:kor_x_preferred":[
         "\uc6b0\ud55c \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc6b0\ud55c\uc2dc"
     ],
     "name:ksh_x_preferred":[
         "Wuhan"
@@ -260,6 +272,9 @@
     ],
     "name:mon_x_preferred":[
         "\u04ae\u0445\u0430\u043d\u044c"
+    ],
+    "name:mon_x_variant":[
+        "\u0423\u0445\u0430\u043d\u044c"
     ],
     "name:mri_x_preferred":[
         "Wuhan"
@@ -308,6 +323,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a35\u0a42\u0a16\u0a3c\u0a28"
+    ],
+    "name:pan_x_variant":[
+        "\u0a35\u0a42\u0a39\u0a3e\u0a28"
     ],
     "name:pnb_x_preferred":[
         "\u0648\u0648\u06c1\u0627\u0646"
@@ -590,7 +608,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1561752076,
+    "wof:lastmodified":1563393320,
     "wof:megacity":1,
     "wof:name":"Wuhan",
     "wof:parent_id":890516557,

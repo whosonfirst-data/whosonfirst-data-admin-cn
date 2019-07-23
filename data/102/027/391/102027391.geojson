@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000564,
-    "geom:area_square_m":6254252.920185,
+    "geom:area_square_m":6254252.920184,
     "geom:bbox":"112.825059427,26.2203503125,112.987911008,26.4353335635",
     "geom:latitude":26.32793,
     "geom:longitude":112.90643,
@@ -17,7 +17,31 @@
     "mps:longitude":112.835083,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u064a\u0627\u0646\u063a"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u044d\u044f\u043d"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09bf\u0987\u09af\u09bc\u09be\u0982"
+    ],
+    "name:ceb_x_preferred":[
+        "Leiyang"
+    ],
+    "name:dan_x_preferred":[
+        "Leiyang"
+    ],
     "name:deu_x_preferred":[
+        "Leiyang"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03ca\u03b3\u03b9\u03ac\u03bd\u03b3\u03ba"
+    ],
+    "name:eng_x_preferred":[
+        "Leiyang"
+    ],
+    "name:fin_x_preferred":[
         "Leiyang"
     ],
     "name:fra_x_preferred":[
@@ -26,11 +50,26 @@
     "name:gan_x_preferred":[
         "\u8012\u967d"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0ac7\u0a88\u0aaf\u0a82\u0a97"
+    ],
     "name:hak_x_preferred":[
         "L\u00f3i-y\u00f2ng-s\u1e73"
     ],
+    "name:hin_x_preferred":[
+        "\u0932\u093f\u092f\u093e\u0902\u0917"
+    ],
+    "name:ind_x_preferred":[
+        "Leiyang"
+    ],
+    "name:ita_x_preferred":[
+        "Leiyang"
+    ],
     "name:jpn_x_preferred":[
         "\u8012\u967d\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cc0\u0caf\u0cbe\u0c82\u0c97\u0ccd"
     ],
     "name:kik_x_preferred":[
         "Leiyang"
@@ -38,7 +77,31 @@
     "name:kor_x_preferred":[
         "\ub808\uc774\uc591 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub808\uc774\uc591\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Leijanga"
+    ],
+    "name:lit_x_preferred":[
+        "Leijangas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u0947\u0908\u092f\u093e\u0902\u0917"
+    ],
     "name:mlg_x_preferred":[
+        "Leiyang"
+    ],
+    "name:msa_x_preferred":[
+        "Leiyang"
+    ],
+    "name:nan_x_preferred":[
+        "L\u016bi-i\u00f4ng-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Leiyang"
+    ],
+    "name:nob_x_preferred":[
         "Leiyang"
     ],
     "name:nor_x_preferred":[
@@ -47,20 +110,53 @@
     "name:pam_x_preferred":[
         "Leiyang"
     ],
+    "name:pol_x_preferred":[
+        "Leiyang"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u044d\u0439\u044f\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dda\u0dba\u0db1\u0dca\u0d9c\u0dca"
     ],
     "name:swe_x_preferred":[
         "Leiyang"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bc6\u0baf\u0bcd\u0baf\u0bbe\u0b99\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c40\u0c2f\u0c3e\u0c02\u0c17\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Leiyang"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e25\u0e22\u0e4c\u0e2b\u0e22\u0e32\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "Leiyang"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0439\u044f\u043d"
+    ],
     "name:unk_x_variant":[
         "Lei-yang-hsien"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u06cc\u0627\u0646\u062c"
     ],
     "name:vie_x_preferred":[
         "L\u1ed7i D\u01b0\u01a1ng"
     ],
     "name:war_x_preferred":[
         "Leiyang"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8012\u9633\u5e02"
+    ],
+    "name:yue_x_preferred":[
+        "\u8012\u967d"
     ],
     "name:zho_x_preferred":[
         "\u8012\u9633\u5e02"
@@ -113,7 +209,7 @@
         }
     ],
     "wof:id":102027391,
-    "wof:lastmodified":1527637557,
+    "wof:lastmodified":1563393104,
     "wof:name":"Leiyang",
     "wof:parent_id":890513059,
     "wof:placetype":"locality",

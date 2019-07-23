@@ -27,8 +27,14 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0646\u063a\u062a\u0634\u0648\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Changchun"
+    ],
     "name:aze_x_preferred":[
         "\u00c7anq\u00e7un"
+    ],
+    "name:bak_x_preferred":[
+        "\u0427\u0430\u043d\u0447\u0443\u043d\u044c"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0427\u0430\u043d\u0447\u0443\u043d\u044c"
@@ -102,6 +108,9 @@
     "name:fra_x_preferred":[
         "Changchun"
     ],
+    "name:gan_x_preferred":[
+        "\u957f\u6625\u5e02"
+    ],
     "name:glg_x_preferred":[
         "Changchun"
     ],
@@ -159,6 +168,9 @@
     "name:kik_x_preferred":[
         "Changchun"
     ],
+    "name:kir_x_preferred":[
+        "\u0427\u0430\u043d\u0447\u0443\u043d\u044c"
+    ],
     "name:kon_x_preferred":[
         "Changchun"
     ],
@@ -166,7 +178,8 @@
         "\ucc3d\ucd98 \uc2dc"
     ],
     "name:kor_x_variant":[
-        "\uc7a5\ucd98"
+        "\uc7a5\ucd98",
+        "\ucc3d\ucd98\uc2dc"
     ],
     "name:lat_x_preferred":[
         "Changchun"
@@ -176,6 +189,9 @@
     ],
     "name:lit_x_preferred":[
         "\u010cang\u010dunas"
+    ],
+    "name:ltz_x_preferred":[
+        "Changchun"
     ],
     "name:lzh_x_preferred":[
         "\u9577\u6625\u5e02"
@@ -194,6 +210,9 @@
     ],
     "name:mon_x_preferred":[
         "\u0427\u0430\u043d\u0447\u04af\u043d\u044c \u0445\u043e\u0442"
+    ],
+    "name:mon_x_variant":[
+        "\u0427\u0430\u043d\u0447\u04af\u043d\u044c"
     ],
     "name:mri_x_preferred":[
         "Changchun"
@@ -311,6 +330,9 @@
     ],
     "name:war_x_preferred":[
         "Changchun"
+    ],
+    "name:wuu_x_preferred":[
+        "\u957f\u6625\u5e02"
     ],
     "name:yue_x_preferred":[
         "\u9577\u6625"
@@ -470,7 +492,7 @@
         }
     ],
     "wof:id":102027947,
-    "wof:lastmodified":1561752071,
+    "wof:lastmodified":1563393221,
     "wof:megacity":1,
     "wof:name":"Changchun",
     "wof:parent_id":890514235,

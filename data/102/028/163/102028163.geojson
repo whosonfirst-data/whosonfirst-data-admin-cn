@@ -60,6 +60,9 @@
     "name:fra_x_preferred":[
         "Taizhou"
     ],
+    "name:gan_x_preferred":[
+        "\u53f0\u5dde\u5e02"
+    ],
     "name:guj_x_preferred":[
         "\u0a9f\u0a87\u0a9d\u0acb\u0a89"
     ],
@@ -86,6 +89,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud0c0\uc774\uc800\uc6b0 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ud0c0\uc774\uc800\uc6b0\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Tai\u017eo"
@@ -159,6 +165,9 @@
     "name:urd_x_preferred":[
         "\u062a\u0627\u0626\u06cc\u0698\u0648\u060c \u0698\u062c\u06cc\u0627\u0646\u06af"
     ],
+    "name:urd_x_variant":[
+        "\u062a\u0627\u0626\u06cc\u0698\u0648"
+    ],
     "name:vie_x_preferred":[
         "Thai Ch\u00e2u"
     ],
@@ -228,7 +237,7 @@
         }
     ],
     "wof:id":102028163,
-    "wof:lastmodified":1561752081,
+    "wof:lastmodified":1563393402,
     "wof:name":"Taizhou",
     "wof:parent_id":890515633,
     "wof:placetype":"locality",

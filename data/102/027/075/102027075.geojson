@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001772,
-    "geom:area_square_m":19277247.574636,
+    "geom:area_square_m":19277247.574649,
     "geom:bbox":"121.361255014,28.2421425623,121.601378721,28.463226808",
     "geom:latitude":28.369926,
     "geom:longitude":121.451839,
@@ -17,14 +17,53 @@
     "mps:longitude":121.448344,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0644\u064a\u0646\u063a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0993\u09af\u09bc\u09c7\u09a8\u09b2\u09bf\u0982"
+    ],
+    "name:ceb_x_preferred":[
+        "Wenling"
+    ],
+    "name:dan_x_preferred":[
+        "Wenling"
+    ],
     "name:deu_x_preferred":[
+        "Wenling"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03ad\u03bd\u03bb\u03b9\u03bd\u03b3\u03ba"
+    ],
+    "name:eng_x_preferred":[
+        "Wenling"
+    ],
+    "name:fin_x_preferred":[
         "Wenling"
     ],
     "name:fra_x_preferred":[
         "Wenling"
     ],
+    "name:gan_x_preferred":[
+        "\u6e29\u5cad\u5e02"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0ac7\u0aa8\u0acd\u0ab2\u0abf\u0a82\u0a97"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0947\u0928\u0932\u093f\u0902\u0917"
+    ],
+    "name:ind_x_preferred":[
+        "Wenling"
+    ],
+    "name:ita_x_preferred":[
+        "Wenling"
+    ],
     "name:jpn_x_preferred":[
         "\u6e29\u5dba\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cc6\u0ca8\u0ccd\u0cb2\u0cbf\u0c82\u0c97\u0ccd"
     ],
     "name:kik_x_preferred":[
         "Wenling"
@@ -32,20 +71,71 @@
     "name:kor_x_preferred":[
         "\uc6d0\ub9c1 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc6d0\ub9c1\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Venlinga"
+    ],
+    "name:lit_x_preferred":[
+        "Venlingas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u0947\u0902\u0932\u093f\u0902\u0917"
+    ],
     "name:mlg_x_preferred":[
         "Wenling"
     ],
+    "name:msa_x_preferred":[
+        "Wenling"
+    ],
+    "name:nan_x_preferred":[
+        "Un-ni\u00e1-chh\u012b"
+    ],
     "name:nld_x_preferred":[
+        "Wenling"
+    ],
+    "name:nob_x_preferred":[
         "Wenling"
     ],
     "name:nor_x_preferred":[
         "Wenling"
     ],
+    "name:pol_x_preferred":[
+        "Wenling"
+    ],
+    "name:por_x_preferred":[
+        "Wenling"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044d\u043d\u044c\u043b\u0438\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd9\u0db1\u0dca\u0dbd\u0dd2\u0db1\u0dca\u0d9c\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Wenling"
+    ],
     "name:swe_x_preferred":[
         "Wenling"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bc6\u0ba9\u0bcd\u0bb2\u0bbf\u0b99\u0bcd\u0b95\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c46\u0c28\u0c4d\u0c32\u0c3f\u0c02\u0c17\u0c4d"
+    ],
     "name:tgl_x_preferred":[
         "Wenling"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e27\u0e25\u0e25\u0e34\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "Wenling"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043d\u044c\u043b\u0456\u043d"
     ],
     "name:unk_x_variant":[
         "Taipinghsien"
@@ -56,8 +146,17 @@
     "name:vie_x_preferred":[
         "\u00d4n L\u0129nh"
     ],
+    "name:war_x_preferred":[
+        "Wenling"
+    ],
     "name:wuu_x_preferred":[
         "\u6e29\u5cad\u5e02"
+    ],
+    "name:wuu_x_variant":[
+        "\u6e29\u5cad"
+    ],
+    "name:yue_x_preferred":[
+        "\u6eab\u5dba"
     ],
     "name:zho_x_preferred":[
         "\u6e29\u5cad\u5e02"
@@ -116,7 +215,7 @@
         }
     ],
     "wof:id":102027075,
-    "wof:lastmodified":1527637569,
+    "wof:lastmodified":1563393293,
     "wof:name":"Wenling",
     "wof:parent_id":890515633,
     "wof:placetype":"locality",

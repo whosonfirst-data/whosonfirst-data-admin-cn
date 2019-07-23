@@ -20,8 +20,17 @@
     "name:afr_x_preferred":[
         "Huanggang"
     ],
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0627\u0646\u063a\u0642\u0627\u0646\u063a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09be\u09a8\u099c\u09be\u0982"
+    ],
     "name:bul_x_preferred":[
         "\u0425\u0443\u0430\u043d\u0433\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Huanggang"
     ],
     "name:cdo_x_preferred":[
         "U\u00f2ng-g\u014fng"
@@ -33,6 +42,12 @@
         "Huanggang"
     ],
     "name:deu_x_preferred":[
+        "Huanggang"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c5\u03ac\u03bd\u03b3\u03ba\u03b1\u03bd\u03b3\u03ba"
+    ],
+    "name:eng_x_preferred":[
         "Huanggang"
     ],
     "name:eus_x_preferred":[
@@ -47,11 +62,26 @@
     "name:fra_x_preferred":[
         "Huanggang"
     ],
+    "name:gan_x_preferred":[
+        "\u9ec4\u5188\u5e02"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab9\u0ac1\u0a86\u0a82\u0a97\u0a97\u0abe\u0a82\u0a97"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u0941\u0906\u0902\u0917\u0917\u093e\u0902\u0917"
+    ],
+    "name:ind_x_preferred":[
+        "Huanggang"
+    ],
     "name:ita_x_preferred":[
         "Huanggang"
     ],
     "name:jpn_x_preferred":[
         "\u9ec4\u5ca1\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb9\u0cc1\u0cb5\u0cbe\u0c82\u0c97\u0ccd\u0c97\u0cbe\u0c82\u0c97\u0ccd"
     ],
     "name:kik_x_preferred":[
         "Huanggang"
@@ -59,11 +89,29 @@
     "name:kor_x_preferred":[
         "\ud669\uac15 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud669\uac15\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Huaganga"
+    ],
+    "name:lit_x_preferred":[
+        "Huangangas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0939\u0941\u0906\u0902\u0917\u0917\u0945\u0902\u0917"
+    ],
     "name:mlg_x_preferred":[
+        "Huanggang"
+    ],
+    "name:msa_x_preferred":[
         "Huanggang"
     ],
     "name:mya_x_preferred":[
         "\u101f\u1014\u103a\u1000\u1031\u102c\u1004\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:nan_x_preferred":[
+        "N\u0302g-kng-chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Huanggang"
@@ -71,7 +119,13 @@
     "name:nno_x_preferred":[
         "Huanggang"
     ],
+    "name:nob_x_preferred":[
+        "Huanggang"
+    ],
     "name:nor_x_preferred":[
+        "Huanggang"
+    ],
+    "name:oci_x_preferred":[
         "Huanggang"
     ],
     "name:pam_x_preferred":[
@@ -82,6 +136,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0425\u0443\u0430\u043d\u0433\u0430\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc4\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dd0\u0db1\u0dca\u0d9c\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:slv_x_preferred":[
+        "Huanggang"
     ],
     "name:spa_x_preferred":[
         "Huanggang"
@@ -95,11 +155,23 @@
     "name:swe_x_preferred":[
         "Huanggang"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb9\u0bc1\u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bbe\u0b99\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c39\u0c41\u0c2f\u0c3e\u0c02\u0c17\u0c4d\u0c2f\u0c3e\u0c02\u0c17\u0c4d"
+    ],
     "name:tgl_x_preferred":[
         "Huanggang"
     ],
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e27\u0e07\u0e01\u0e31\u0e07"
+    ],
     "name:tur_x_preferred":[
         "Huanggang"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0443\u0430\u043d\u0433\u0430\u043d"
     ],
     "name:unk_x_variant":[
         "Ng kng"
@@ -109,6 +181,12 @@
     ],
     "name:vie_x_preferred":[
         "Ho\u00e0ng C\u01b0\u01a1ng"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9ec4\u5188\u5e02"
+    ],
+    "name:yue_x_preferred":[
+        "\u9ec3\u5ca1"
     ],
     "name:zho_min_nan_x_preferred":[
         "N\u0302g-kng-chh\u012b"
@@ -168,7 +246,7 @@
         }
     ],
     "wof:id":102027527,
-    "wof:lastmodified":1527637565,
+    "wof:lastmodified":1563393219,
     "wof:name":"Huanggang",
     "wof:parent_id":890514791,
     "wof:placetype":"locality",

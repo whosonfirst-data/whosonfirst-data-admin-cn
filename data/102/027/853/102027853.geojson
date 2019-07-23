@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000793,
-    "geom:area_square_m":7183208.559416,
+    "geom:area_square_m":7183208.559419,
     "geom:bbox":"129.456136121,42.8870834613,129.502605634,42.9131412827",
     "geom:latitude":42.901079,
     "geom:longitude":129.4789,
@@ -21,17 +21,47 @@
     "name:ara_x_preferred":[
         "\u064a\u0627\u0646\u062c\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u0987\u09af\u09bc\u09be\u09a8\u099c\u09bf"
+    ],
     "name:cat_x_preferred":[
+        "Yanji"
+    ],
+    "name:ceb_x_preferred":[
+        "Yanji"
+    ],
+    "name:ces_x_preferred":[
+        "Jongil"
+    ],
+    "name:dan_x_preferred":[
         "Yanji"
     ],
     "name:deu_x_preferred":[
         "Yanji"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03ac\u03bd\u03c4\u03b6\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Yanji"
+    ],
     "name:fas_x_preferred":[
         "\u06cc\u0627\u0646\u06af\u0698\u06cc"
     ],
+    "name:fin_x_preferred":[
+        "Yanji"
+    ],
     "name:fra_x_preferred":[
         "Yanji"
+    ],
+    "name:gan_x_preferred":[
+        "\u5ef6\u5409\u5e02"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaf\u0abe\u0a82\u0a9c\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u092f\u093e\u0902\u091c\u0940"
     ],
     "name:ind_x_preferred":[
         "Yanji"
@@ -42,6 +72,9 @@
     "name:jpn_x_preferred":[
         "\u5ef6\u5409\u5e02"
     ],
+    "name:kan_x_preferred":[
+        "\u0caf\u0cbe\u0c82\u0c9c\u0cbf"
+    ],
     "name:kik_x_preferred":[
         "Yanji"
     ],
@@ -49,12 +82,31 @@
         "\uc60c\uc9c0 \uc2dc"
     ],
     "name:kor_x_variant":[
-        "\uc5f0\uae38"
+        "\uc5f0\uae38",
+        "\uc60c\uc9c0\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Jandzi"
+    ],
+    "name:lit_x_preferred":[
+        "Jandzi"
+    ],
+    "name:mar_x_preferred":[
+        "\u092f\u093e\u0928\u094d\u091c\u0940"
     ],
     "name:mlg_x_preferred":[
         "Yanji"
     ],
+    "name:msa_x_preferred":[
+        "Yanji"
+    ],
+    "name:nan_x_preferred":[
+        "I\u00e2n-kiat-chh\u012b"
+    ],
     "name:nld_x_preferred":[
+        "Yanji"
+    ],
+    "name:nob_x_preferred":[
         "Yanji"
     ],
     "name:nor_x_preferred":[
@@ -69,6 +121,9 @@
     "name:rus_x_preferred":[
         "\u042f\u043d\u044c\u0446\u0437\u0438"
     ],
+    "name:sin_x_preferred":[
+        "\u0dba\u0dd0\u0db1\u0dca\u0da2\u0dd2"
+    ],
     "name:spa_x_preferred":[
         "Yanji"
     ],
@@ -78,8 +133,20 @@
     "name:swe_x_preferred":[
         "Yanji"
     ],
+    "name:tam_x_preferred":[
+        "\u0baf\u0bbe\u0ba9\u0bcd\u0b9c\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2f\u0c02\u0c1c\u0c40"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e22\u0e32\u0e19\u0e08\u0e35\u0e4b"
+    ],
     "name:tur_x_preferred":[
         "Yanji"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u043d\u044c\u0446\u0437\u0456"
     ],
     "name:unk_x_variant":[
         "Yang-chi-t'eng"
@@ -95,6 +162,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u5ef6\u5409\u5e02"
+    ],
+    "name:yue_x_preferred":[
+        "\u5ef6\u5409"
     ],
     "name:zho_x_preferred":[
         "\u5ef6\u5409\u5e02"
@@ -242,7 +312,7 @@
         }
     ],
     "wof:id":102027853,
-    "wof:lastmodified":1527637571,
+    "wof:lastmodified":1563393323,
     "wof:name":"Yanji",
     "wof:parent_id":1108732421,
     "wof:placetype":"locality",

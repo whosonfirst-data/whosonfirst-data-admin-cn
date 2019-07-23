@@ -81,6 +81,9 @@
     "name:bcl_x_preferred":[
         "Pekin"
     ],
+    "name:bcl_x_variant":[
+        "Beijing"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0435\u043a\u0456\u043d"
     ],
@@ -118,6 +121,9 @@
     "name:bxr_x_preferred":[
         "\u0411\u044d\u044d\u0436\u044d\u043d"
     ],
+    "name:bxr_x_variant":[
+        "\u0411\u044d\u044d\u0436\u0438\u043d"
+    ],
     "name:cat_x_preferred":[
         "Pequ\u00edn"
     ],
@@ -130,8 +136,14 @@
     "name:ceb_x_preferred":[
         "Pekin"
     ],
+    "name:ceb_x_variant":[
+        "Beijing"
+    ],
     "name:ces_x_preferred":[
         "Peking"
+    ],
+    "name:cha_x_preferred":[
+        "Beijing"
     ],
     "name:che_x_preferred":[
         "\u041f\u0435\u043a\u0438\u043d"
@@ -295,6 +307,9 @@
     "name:ind_x_preferred":[
         "Beijing"
     ],
+    "name:inh_x_preferred":[
+        "\u041f\u0435\u043a\u0438\u043d"
+    ],
     "name:isl_x_preferred":[
         "Beijing"
     ],
@@ -357,7 +372,8 @@
     ],
     "name:kor_x_variant":[
         "\ubca0\uc774\uc9d5",
-        "\ubd81\uacbd"
+        "\ubd81\uacbd",
+        "\ubca0\uc774\uc9d5\uc2dc"
     ],
     "name:kur_x_preferred":[
         "Beijing"
@@ -400,6 +416,9 @@
     ],
     "name:lrc_x_preferred":[
         "\u067e\u0626\u06a9\u0623\u0646"
+    ],
+    "name:lrc_x_variant":[
+        "\u067e\u06a9\u0646"
     ],
     "name:ltz_x_preferred":[
         "Peking"
@@ -461,6 +480,9 @@
     "name:nau_x_preferred":[
         "Beijing"
     ],
+    "name:nds_x_preferred":[
+        "Peking"
+    ],
     "name:nep_x_preferred":[
         "\u092c\u0947\u0907\u091c\u093f\u0919"
     ],
@@ -490,6 +512,9 @@
     ],
     "name:oci_x_preferred":[
         "Pequin"
+    ],
+    "name:olo_x_preferred":[
+        "Pekin"
     ],
     "name:ori_x_preferred":[
         "\u0b2c\u0b47\u0b1c\u0b3f\u0b02"
@@ -554,6 +579,9 @@
     ],
     "name:san_x_preferred":[
         "\u092c\u0940\u091c\u093f\u0919\u094d\u0917\u094d"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c75\u1c6e\u1c61\u1c64\u1c5d"
     ],
     "name:scn_x_preferred":[
         "Pechinu"
@@ -671,6 +699,9 @@
     ],
     "name:vec_x_preferred":[
         "Pechin"
+    ],
+    "name:vec_x_variant":[
+        "Pechino"
     ],
     "name:vep_x_preferred":[
         "Pekin"
@@ -882,7 +913,7 @@
         }
     ],
     "wof:id":102027745,
-    "wof:lastmodified":1561752079,
+    "wof:lastmodified":1563393370,
     "wof:megacity":1,
     "wof:name":"Beijing",
     "wof:parent_id":1108732371,

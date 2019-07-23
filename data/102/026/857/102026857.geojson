@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000573,
-    "geom:area_square_m":6255505.941891,
+    "geom:area_square_m":6255505.941885,
     "geom:bbox":"112.209680385,27.9902263703,112.295937278,28.0373739203",
     "geom:latitude":28.013802,
     "geom:longitude":112.252811,
@@ -21,20 +21,44 @@
     "name:deu_x_preferred":[
         "Ningxiang"
     ],
+    "name:eng_x_preferred":[
+        "Ningxiang City"
+    ],
     "name:eus_x_preferred":[
         "Ningxiang konderria"
     ],
     "name:fra_x_preferred":[
         "Xian de Ningxiang"
     ],
+    "name:gan_x_preferred":[
+        "\u5b81\u4e61\u5e02"
+    ],
     "name:hak_x_preferred":[
         "N\u00e8n-hi\u00f4ng-yen"
+    ],
+    "name:ita_x_preferred":[
+        "Ningxiang"
     ],
     "name:jpn_x_preferred":[
         "\u5be7\u90f7\u770c"
     ],
+    "name:jpn_x_variant":[
+        "\u5be7\u90f7\u5e02"
+    ],
     "name:kor_x_preferred":[
         "\ub2dd\uc0f9 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\ub2dd\uc0f9\uc2dc"
+    ],
+    "name:nan_x_preferred":[
+        "L\u00eang-hiong-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Ningxiang"
+    ],
+    "name:nob_x_preferred":[
+        "Ningxiang"
     ],
     "name:nor_x_preferred":[
         "Ningxiang"
@@ -51,12 +75,19 @@
     "name:wuu_x_preferred":[
         "\u5b81\u4e61\u53bf"
     ],
+    "name:wuu_x_variant":[
+        "\u5b81\u4e61\u5e02"
+    ],
+    "name:yue_x_preferred":[
+        "\u5be7\u9109"
+    ],
     "name:zho_x_preferred":[
         "\u5b81\u4e61\u53bf"
     ],
     "name:zho_x_variant":[
         "\u5b81\u4e61",
-        "\u5b81\u4e61\u6751"
+        "\u5b81\u4e61\u6751",
+        "\u5b81\u4e61\u5e02"
     ],
     "name:zho_yue_x_preferred":[
         "\u5be7\u9109"
@@ -101,7 +132,7 @@
         }
     ],
     "wof:id":102026857,
-    "wof:lastmodified":1527637808,
+    "wof:lastmodified":1563393436,
     "wof:name":"Ningxiang",
     "wof:parent_id":890513085,
     "wof:placetype":"locality",

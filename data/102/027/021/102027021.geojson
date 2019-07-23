@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000572,
-    "geom:area_square_m":6246744.027484,
+    "geom:area_square_m":6246744.027485,
     "geom:bbox":"102.234114908,27.8640553018,102.276382527,27.8918007375",
     "geom:latitude":27.877928,
     "geom:longitude":102.255249,
@@ -18,6 +18,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.0,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062a\u0634\u0627\u0646\u063a"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09bf\u099a\u09c7\u0982"
+    ],
+    "name:ceb_x_preferred":[
+        "Xichang"
+    ],
     "name:ces_x_preferred":[
         "Si-\u010dchang"
     ],
@@ -26,6 +35,9 @@
     ],
     "name:deu_x_preferred":[
         "Xichang"
+    ],
+    "name:ell_x_preferred":[
+        "\u039e\u03b9\u03bd\u03c4\u03c3\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Xichang"
@@ -39,14 +51,32 @@
     "name:fra_x_preferred":[
         "Xichang"
     ],
+    "name:gan_x_preferred":[
+        "\u897f\u660c\u5e02"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9d\u0ac0\u0a9a\u0abe\u0a82\u0a97"
+    ],
     "name:hak_x_preferred":[
         "S\u00ee-chh\u00f4ng-s\u1e73"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093c\u093f\u091a\u0947\u0902\u0917"
     ],
     "name:iii_x_preferred":[
         "\ua012\ua382"
     ],
+    "name:ind_x_preferred":[
+        "Xichang"
+    ],
+    "name:ita_x_preferred":[
+        "Xichang"
+    ],
     "name:jpn_x_preferred":[
         "\u897f\u660c\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccd\u0cb8\u0cbf\u0c9a\u0c82\u0c97\u0ccd"
     ],
     "name:kik_x_preferred":[
         "Xichang"
@@ -55,9 +85,31 @@
         "\uc2dc\ucc3d \uc2dc"
     ],
     "name:kor_x_variant":[
-        "\uc2dc\ucc3d"
+        "\uc2dc\ucc3d",
+        "\uc2dc\ucc3d\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Si\u010danga"
+    ],
+    "name:lit_x_preferred":[
+        "Si\u010dangas"
+    ],
+    "name:mar_x_preferred":[
+        "\u091d\u093f\u091a\u093e\u0902\u0917"
+    ],
+    "name:mlg_x_preferred":[
+        "Xichang"
+    ],
+    "name:msa_x_preferred":[
+        "Xichang"
+    ],
+    "name:nan_x_preferred":[
+        "Se-chhiong-chh\u012b"
     ],
     "name:nld_x_preferred":[
+        "Xichang"
+    ],
+    "name:nob_x_preferred":[
         "Xichang"
     ],
     "name:nor_x_preferred":[
@@ -72,8 +124,26 @@
     "name:rus_x_preferred":[
         "\u0421\u0438\u0447\u0430\u043d"
     ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dca\u0dc3\u0dd2\u0da0\u0dcf\u0db1\u0dca"
+    ],
     "name:swe_x_preferred":[
         "Xichang"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcd\u0bb8\u0bbf\u0b9a\u0bcd\u0b99\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c40\u0c28\u0c4d\u0c1a\u0c3e\u0c17\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e35\u0e09\u0e32\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "Xichang"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u0447\u0430\u043d"
     ],
     "name:unk_x_variant":[
         "Sichang"
@@ -86,6 +156,12 @@
     ],
     "name:war_x_preferred":[
         "Xichang"
+    ],
+    "name:wuu_x_preferred":[
+        "\u897f\u660c\u5e02"
+    ],
+    "name:yue_x_preferred":[
+        "\u897f\u660c"
     ],
     "name:zho_x_preferred":[
         "\u897f\u660c\u5e02"
@@ -233,7 +309,7 @@
         }
     ],
     "wof:id":102027021,
-    "wof:lastmodified":1527637570,
+    "wof:lastmodified":1563393309,
     "wof:name":"Xichang",
     "wof:parent_id":1108794061,
     "wof:placetype":"locality",

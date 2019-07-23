@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000315,
-    "geom:area_square_m":3121584.284489,
+    "geom:area_square_m":3121584.284482,
     "geom:bbox":"118.613688638,36.6814348366,118.636067138,36.6994573671",
     "geom:latitude":36.690446,
     "geom:longitude":118.624878,
@@ -18,17 +18,53 @@
     "mps:longitude":118.624878,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u0995\u09bf\u0982\u099d\u09c1"
+    ],
+    "name:ceb_x_preferred":[
+        "Qingzhou"
+    ],
     "name:ces_x_preferred":[
         "\u010cching-\u010dou"
     ],
+    "name:dan_x_preferred":[
+        "Qingzhou"
+    ],
     "name:deu_x_preferred":[
+        "Qingzhou"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03bd\u03b3\u03ba\u03b6\u03bf\u03cd"
+    ],
+    "name:eng_x_preferred":[
+        "Qingzhou"
+    ],
+    "name:fin_x_preferred":[
         "Qingzhou"
     ],
     "name:fra_x_preferred":[
         "Qingzhou"
     ],
+    "name:gan_x_preferred":[
+        "\u9752\u5dde\u5e02"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0abf\u0a82\u0a97\u0a9d\u0ac2"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093f\u0928\u094d\u0917\u094d\u091c\u093c\u094d\u0939\u094c"
+    ],
+    "name:ind_x_preferred":[
+        "Qingzhou"
+    ],
+    "name:ita_x_preferred":[
+        "Qingzhou"
+    ],
     "name:jpn_x_preferred":[
         "\u9752\u5dde\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccd\u0cb5\u0cbf\u0c82\u0c97\u0ccd\u0c9d\u0ccc"
     ],
     "name:kik_x_preferred":[
         "Qingzhou"
@@ -36,14 +72,59 @@
     "name:kor_x_preferred":[
         "\uce6d\uc800\uc6b0 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uce6d\uc800\uc6b0\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "\u010cingd\u017eou"
+    ],
+    "name:lit_x_preferred":[
+        "\u010cingd\u017eou"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u093f\u0902\u0917\u091d\u0939\u094c"
+    ],
+    "name:msa_x_preferred":[
+        "Qingzhou"
+    ],
+    "name:nan_x_preferred":[
+        "Chheng-chiu-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Qingzhou"
+    ],
+    "name:nob_x_preferred":[
+        "Qingzhou"
+    ],
     "name:nor_x_preferred":[
+        "Qingzhou"
+    ],
+    "name:pol_x_preferred":[
         "Qingzhou"
     ],
     "name:rus_x_preferred":[
         "\u0426\u0438\u043d\u0447\u0436\u043e\u0443"
     ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dd4\u0d89\u0db1\u0dca\u0d9c\u0dca\u0dc2\u0dd4"
+    ],
     "name:swe_x_preferred":[
         "Qingzhou"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcd\u0bb5\u0bbf\u0b99\u0bcd\u0bb7\u0bcb\u0bb5\u0bc1"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c46\u0c28\u0c4d \u0c1c\u0c41\u0c39\u0c41"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e09\u0e34\u0e07\u0e40\u0e2a\u0e35\u0e48\u0e22\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Qingzhou"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0456\u043d\u0447\u0436\u043e\u0443"
     ],
     "name:unk_x_variant":[
         "\u9752\u5dde"
@@ -56,6 +137,12 @@
     ],
     "name:war_x_preferred":[
         "Qingzhou"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9752\u5dde\u5e02"
+    ],
+    "name:yue_x_preferred":[
+        "\u9752\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u9752\u5dde\u5e02"
@@ -103,7 +190,7 @@
         }
     ],
     "wof:id":102028031,
-    "wof:lastmodified":1527637787,
+    "wof:lastmodified":1563393387,
     "wof:name":"Qingzhou",
     "wof:parent_id":890514755,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000957,
-    "geom:area_square_m":9353626.006521,
+    "geom:area_square_m":9353626.006524,
     "geom:bbox":"113.625740349,37.7573699334,113.857167675,37.7927436316",
     "geom:latitude":37.777952,
     "geom:longitude":113.765246,
@@ -16,8 +16,50 @@
     "mps:longitude":113.637085,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Pingding"
+    ],
+    "name:eng_x_preferred":[
+        "Pingding County"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u067e\u06cc\u0646\u06af\u062f\u06cc\u0646\u06af"
+    ],
+    "name:gan_x_preferred":[
+        "\u5e73\u5b9a\u53bf"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5e73\u5b9a\u770c"
+    ],
+    "name:kor_x_preferred":[
+        "\ud551\ub529\ud604"
+    ],
+    "name:nan_x_preferred":[
+        "P\u00eang-t\u0113ng-ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Pingding"
+    ],
+    "name:nob_x_preferred":[
+        "Pingding"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043d\u0434\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Pingding"
+    ],
     "name:unk_x_variant":[
         "Piutingchow"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00ecnh \u0110\u1ecbnh"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5e73\u5b9a\u53bf"
+    ],
+    "name:yue_x_preferred":[
+        "\u5e73\u5b9a\u7e23"
     ],
     "name:zho_x_preferred":[
         "P\u2019ing-ting-hsien"
@@ -26,7 +68,8 @@
         "P\u2019ing-ting",
         "P\u2019ing-ting-hsien-ch\u2019eng",
         "\u5e73\u5b9a",
-        "\u51a0\u5c71"
+        "\u51a0\u5c71",
+        "\u5e73\u5b9a\u53bf"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -72,7 +115,7 @@
         }
     ],
     "wof:id":102027263,
-    "wof:lastmodified":1497297879,
+    "wof:lastmodified":1563393339,
     "wof:name":"Guanshan",
     "wof:parent_id":1108732525,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00127,
-    "geom:area_square_m":12474876.736061,
+    "geom:area_square_m":12474876.736057,
     "geom:bbox":"120.393381464,37.3567867339,120.459897089,37.4271677342",
     "geom:latitude":37.396349,
     "geom:longitude":120.426638,
@@ -22,7 +22,16 @@
     "name:deu_x_preferred":[
         "Zhaoyuan"
     ],
+    "name:eng_x_preferred":[
+        "Zhaoyuan"
+    ],
     "name:fra_x_preferred":[
+        "Zhaoyuan"
+    ],
+    "name:gan_x_preferred":[
+        "\u62db\u8fdc\u5e02"
+    ],
+    "name:ita_x_preferred":[
         "Zhaoyuan"
     ],
     "name:jpn_x_preferred":[
@@ -34,11 +43,23 @@
     "name:kor_x_preferred":[
         "\uc790\uc624\uc704\uc548 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc790\uc624\uc704\uc548\uc2dc"
+    ],
+    "name:nan_x_preferred":[
+        "Chiau-o\u00e1n-chh\u012b"
+    ],
+    "name:nob_x_preferred":[
+        "Zhaoyuan"
+    ],
     "name:nor_x_preferred":[
         "Zhaoyuan"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0436\u0430\u043e\u044e\u0430\u043d\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Zhaoyuan"
     ],
     "name:swe_x_preferred":[
         "Zhaoyuan"
@@ -48,6 +69,12 @@
     ],
     "name:vie_x_preferred":[
         "Chi\u00eau Vi\u1ec5n"
+    ],
+    "name:wuu_x_preferred":[
+        "\u62db\u8fdc\u5e02"
+    ],
+    "name:yue_x_preferred":[
+        "\u62db\u9060"
     ],
     "name:zho_x_preferred":[
         "\u62db\u8fdc\u5e02"
@@ -103,7 +130,7 @@
         }
     ],
     "wof:id":102026909,
-    "wof:lastmodified":1527637804,
+    "wof:lastmodified":1563393422,
     "wof:name":"Zhaoyuan",
     "wof:parent_id":890516301,
     "wof:placetype":"locality",

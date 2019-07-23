@@ -34,8 +34,38 @@
     "mz:is_current":1,
     "mz:max_zoom":10.1,
     "mz:min_zoom":4.6,
+    "name:ace_x_preferred":[
+        "Tib\u00e8t"
+    ],
+    "name:afr_x_preferred":[
+        "Tibet"
+    ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u062a\u0628\u062a"
+    ],
+    "name:bar_x_preferred":[
+        "Tibet"
+    ],
+    "name:bcl_x_preferred":[
+        "Tibet"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f56\u0f7c\u0f51\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f63\u0f97\u0f7c\u0f44\u0f66\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Tibet"
+    ],
+    "name:bxr_x_preferred":[
+        "\u0422\u04af\u0431\u044d\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "Tibet"
+    ],
+    "name:cdo_x_preferred":[
+        "S\u0103\u0324-c\u00e2ung"
+    ],
+    "name:dzo_x_preferred":[
+        "\u0f56\u0f7c\u0f51\u0f0d"
     ],
     "name:eng_x_preferred":[
         "Tibet"
@@ -46,17 +76,72 @@
         "Tibet Autonomous Region",
         "Xizang Autonomous Region"
     ],
+    "name:epo_x_preferred":[
+        "Tibeto"
+    ],
     "name:fra_x_preferred":[
         "R\u00e9gion autonome du Tibet"
+    ],
+    "name:gan_x_preferred":[
+        "\u897f\u85cf"
+    ],
+    "name:glg_x_preferred":[
+        "T\u00edbet"
+    ],
+    "name:glv_x_preferred":[
+        "Tibet"
+    ],
+    "name:hak_x_preferred":[
+        "S\u00ee-tsh\u00f4ng Tsh\u1e73-tsh\u1e73-kh\u00ee"
+    ],
+    "name:hrv_x_preferred":[
+        "Tibet"
+    ],
+    "name:ina_x_preferred":[
+        "Xizang"
+    ],
+    "name:ind_x_preferred":[
+        "Tibet"
+    ],
+    "name:isl_x_preferred":[
+        "T\u00edbet"
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30fc\u30c4\u30a1\u30f3"
     ],
     "name:jpn_x_variant":[
-        "\u897f\u8535"
+        "\u897f\u8535",
+        "\u30c1\u30d9\u30c3\u30c8\u81ea\u6cbb\u533a"
+    ],
+    "name:kon_x_preferred":[
+        "Xizang"
     ],
     "name:kor_x_preferred":[
         "\uc2dc\uc9f1"
+    ],
+    "name:kor_x_variant":[
+        "\ud2f0\ubca0\ud2b8 \uc790\uce58\uad6c"
+    ],
+    "name:kur_x_preferred":[
+        "T\u00eebet"
+    ],
+    "name:lmo_x_preferred":[
+        "Tibet"
+    ],
+    "name:lzh_x_preferred":[
+        "\u897f\u85cf"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d24\u0d3f\u0d2c\u0d46\u0d24\u0d4d\u0d24\u0d4d \u0d38\u0d4d\u0d35\u0d2f\u0d02\u0d2d\u0d30\u0d23\u0d2a\u0d4d\u0d30\u0d26\u0d47\u0d36\u0d02"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0438\u0431\u0435\u0442"
+    ],
+    "name:nan_x_preferred":[
+        "Se-ch\u014dng Ch\u016b-t\u012b-khu"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u0901\u0926\u0947\u092f\u094d"
     ],
     "name:nno_x_preferred":[
         "Den autonome regionen Tibet"
@@ -67,14 +152,44 @@
     "name:nob_x_preferred":[
         "Den autonome region Tibet"
     ],
+    "name:nob_x_variant":[
+        "Tibet"
+    ],
     "name:nor_x_preferred":[
         "Den autonome regionen Tibet"
     ],
     "name:nor_x_variant":[
         "Tibet"
     ],
+    "name:ori_x_preferred":[
+        "\u0b24\u0b3f\u0b2c\u0b4d\u0b2c\u0b24"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062a\u0628\u062a"
+    ],
+    "name:slk_x_preferred":[
+        "Tibet"
+    ],
+    "name:spa_x_preferred":[
+        "T\u00edbet"
+    ],
+    "name:sqi_x_preferred":[
+        "Tibet"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0438\u0431\u0435\u0442"
+    ],
+    "name:sun_x_preferred":[
+        "Tib\u00e9t"
+    ],
     "name:swe_x_preferred":[
         "Tibet"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e1b\u0e01\u0e04\u0e23\u0e2d\u0e07\u0e15\u0e19\u0e40\u0e2d\u0e07\u0e17\u0e34\u0e40\u0e1a\u0e15"
+    ],
+    "name:tyv_x_preferred":[
+        "\u0422\u04e9\u0432\u04af\u0442"
     ],
     "name:und_x_variant":[
         "\u897f\u85cf\u81ea\u6cbb\u5340|\u897f\u85cf\u81ea\u6cbb\u533a",
@@ -82,6 +197,18 @@
     ],
     "name:unk_x_variant":[
         "Xizang Zizhiqu"
+    ],
+    "name:vec_x_preferred":[
+        "Tibet"
+    ],
+    "name:wuu_x_preferred":[
+        "\u897f\u85cf"
+    ],
+    "name:yue_x_preferred":[
+        "\u897f\u85cf"
+    ],
+    "name:zha_x_preferred":[
+        "Sihcang Swcigih"
     ],
     "name:zho_x_preferred":[
         "\u897f\u85cf"
@@ -224,7 +351,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1553550560,
+    "wof:lastmodified":1563404410,
     "wof:name":"Tibet",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

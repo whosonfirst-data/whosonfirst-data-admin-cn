@@ -64,6 +64,9 @@
     "name:cdo_x_preferred":[
         "G\u00f3i-ci\u016d"
     ],
+    "name:ceb_x_preferred":[
+        "Guizhou Sheng"
+    ],
     "name:ces_x_preferred":[
         "Kuej-\u010dou"
     ],
@@ -83,7 +86,8 @@
         "\u0393\u03ba\u03bf\u03c5\u03ca\u03c4\u03b6\u03cc\u03bf\u03c5"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03bf\u03c5\u03b9\u03c4\u03c3\u03bf\u03cd"
+        "\u039a\u03bf\u03c5\u03b9\u03c4\u03c3\u03bf\u03cd",
+        "\u039a\u03bf\u03c5\u03b5\u03ca\u03c4\u03c3\u03cc\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Guizhou"
@@ -111,6 +115,9 @@
     ],
     "name:fra_x_variant":[
         "Province de Guizhou"
+    ],
+    "name:frr_x_preferred":[
+        "Guizhou"
     ],
     "name:gan_x_preferred":[
         "\u8cb4\u5dde"
@@ -174,6 +181,9 @@
         "\uad6c\uc774\uc800\uc6b0",
         "\uad6c\uc774\uc800\uc6b0 \uc131"
     ],
+    "name:kor_x_variant":[
+        "\uad6c\uc774\uc800\uc6b0\uc131"
+    ],
     "name:lat_x_preferred":[
         "Queichea"
     ],
@@ -222,11 +232,17 @@
     "name:oci_x_preferred":[
         "Guizhou"
     ],
+    "name:oss_x_preferred":[
+        "\u0413\u0443\u0439\u0447\u0436\u043e\u0443"
+    ],
     "name:pam_x_preferred":[
         "Guizhou"
     ],
     "name:pnb_x_preferred":[
         "\u06af\u0648\u0626\u06cc\u0698\u0648"
+    ],
+    "name:pnb_x_variant":[
+        "\u06a9\u0648\u0626\u06cc\u0686\u0648"
     ],
     "name:pol_x_preferred":[
         "Kuejczou"
@@ -312,6 +328,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u8d35\u5dde\u7701"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d2\u10e3\u10d8\u10ef\u10dd\u10e3"
     ],
     "name:yue_x_preferred":[
         "\u8cb4\u5dde"
@@ -464,7 +483,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1561752332,
+    "wof:lastmodified":1563404383,
     "wof:name":"Guizhou",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

@@ -24,6 +24,9 @@
     "name:afr_x_preferred":[
         "Tianjin"
     ],
+    "name:amh_x_preferred":[
+        "\u1275\u12e8\u1295\u1302\u1295"
+    ],
     "name:ara_x_preferred":[
         "\u062a\u064a\u0627\u0646\u062c\u064a\u0646"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:bam_x_preferred":[
         "Tianjin"
+    ],
+    "name:bel_x_preferred":[
+        "\u0426\u044f\u043d\u044c\u0446\u0437\u0456\u043d\u044c"
     ],
     "name:ben_x_preferred":[
         "\u09a5\u09bf\u09af\u09bc\u09c7\u09a8\u099a\u09bf\u09a8"
@@ -60,8 +66,14 @@
     "name:cat_x_preferred":[
         "Tianjin"
     ],
+    "name:cat_x_variant":[
+        "Tientsin"
+    ],
     "name:cdo_x_preferred":[
         "Ti\u0115ng-c\u012dng"
+    ],
+    "name:ceb_x_preferred":[
+        "Tianjin Shi"
     ],
     "name:ces_x_preferred":[
         "Tchien-\u0165in"
@@ -87,11 +99,15 @@
     "name:deu_x_preferred":[
         "Tianjin"
     ],
+    "name:dty_x_preferred":[
+        "\u0924\u093f\u0906\u0928\u094d\u091c\u093f\u0928"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03b9\u03b1\u03bd\u03c4\u03b6\u03af\u03bd"
     ],
     "name:ell_x_variant":[
-        "\u03a4\u03b9\u03b1\u03bd\u03c4\u03c3\u03af\u03bd"
+        "\u03a4\u03b9\u03b1\u03bd\u03c4\u03c3\u03af\u03bd",
+        "\u03a4\u03b9\u03b5\u03bd\u03c4\u03c3\u03af\u03bd"
     ],
     "name:eng_x_colloquial":[
         ""
@@ -105,11 +121,20 @@
     "name:est_x_preferred":[
         "Tianjin"
     ],
+    "name:est_x_variant":[
+        "Tianjin Shi"
+    ],
     "name:eus_x_preferred":[
+        "Tianjin"
+    ],
+    "name:fao_x_preferred":[
         "Tianjin"
     ],
     "name:fas_x_preferred":[
         "\u062a\u06cc\u0627\u0646\u062c\u06cc\u0646"
+    ],
+    "name:fij_x_preferred":[
+        "Tianjin"
     ],
     "name:fin_x_preferred":[
         "Tianjin"
@@ -137,6 +162,9 @@
     ],
     "name:hak_x_preferred":[
         "Thi\u00ean-ts\u00een"
+    ],
+    "name:hau_x_preferred":[
+        "Tianjin"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d9\u05d9\u05e0\u05d2'\u05d9\u05df"
@@ -192,6 +220,9 @@
     "name:kik_x_preferred":[
         "Tianjin"
     ],
+    "name:kir_x_preferred":[
+        "\u0422\u044f\u043d\u044c\u0446\u0437\u0438\u043d\u044c"
+    ],
     "name:kon_x_preferred":[
         "Tianjin"
     ],
@@ -199,7 +230,8 @@
         "\ud188\uc9c4 \uc2dc"
     ],
     "name:kor_x_variant":[
-        "\ucc9c\uc9c4"
+        "\ucc9c\uc9c4",
+        "\ud188\uc9c4\uc2dc"
     ],
     "name:lat_x_preferred":[
         "Tianjin"
@@ -228,6 +260,9 @@
     "name:mkd_x_preferred":[
         "\u0422\u0458\u0435\u043d\u0453\u0438\u043d"
     ],
+    "name:mlg_x_preferred":[
+        "Tianjin"
+    ],
     "name:mon_x_preferred":[
         "\u0422\u044f\u043d\u044c\u0436\u0438\u043d\u044c"
     ],
@@ -239,6 +274,9 @@
     ],
     "name:mya_x_preferred":[
         "\u1011\u103b\u1014\u103a\u1038\u1000\u103b\u1004\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:myv_x_preferred":[
+        "\u0422\u044f\u043d\u044c\u0446\u0437\u0438\u043d\u044c"
     ],
     "name:nan_x_preferred":[
         "Thian-tin-chh\u012b"
@@ -261,11 +299,17 @@
     "name:oci_x_preferred":[
         "Tianjin"
     ],
+    "name:oss_x_preferred":[
+        "\u0422\u044f\u043d\u044c\u0446\u0437\u0438\u043d\u044c"
+    ],
     "name:pam_x_preferred":[
         "Tianjin"
     ],
     "name:pan_x_preferred":[
         "\u0a24\u0a3f\u0a06\u0a02\u0a1c\u0a3f\u0a28"
+    ],
+    "name:pan_x_variant":[
+        "\u0a25\u0a3f\u0a06\u0a28\u0a1a\u0a3f\u0a28"
     ],
     "name:pnb_x_preferred":[
         "\u062a\u06cc\u0627\u0646\u062c\u0646"
@@ -306,6 +350,9 @@
     "name:spa_x_preferred":[
         "Tianj\u00edn"
     ],
+    "name:spa_x_variant":[
+        "Tianjin"
+    ],
     "name:sqi_x_preferred":[
         "Tianxhin"
     ],
@@ -315,11 +362,17 @@
     "name:swe_x_preferred":[
         "Tianjin"
     ],
+    "name:szl_x_preferred":[
+        "Tiencin"
+    ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bbf\u0baf\u0bbe\u0ba9\u0bcd\u0b9c\u0bbf\u0ba9\u0bcd"
     ],
     "name:tat_x_preferred":[
         "Ti\u00e4ntszin"
+    ],
+    "name:tat_x_variant":[
+        "\u0422\u0438\u044f\u043d\u0497\u0438\u043d"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c3f\u0c2f\u0c3e\u0c02\u0c1c\u0c3f\u0c28\u0c4d"
@@ -370,8 +423,14 @@
     "name:war_x_preferred":[
         "Tianjin"
     ],
+    "name:wol_x_preferred":[
+        "Tianjin"
+    ],
     "name:wuu_x_preferred":[
         "\u5929\u6d25\u5e02"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e2\u10d8\u10d0\u10dc\u10eb\u10d8\u10dc\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u5929\u6d25"
@@ -524,7 +583,7 @@
         }
     ],
     "wof:id":102027107,
-    "wof:lastmodified":1561752073,
+    "wof:lastmodified":1563393253,
     "wof:megacity":1,
     "wof:name":"Tianjin",
     "wof:parent_id":890513813,

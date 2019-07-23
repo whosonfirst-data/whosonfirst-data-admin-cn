@@ -27,6 +27,9 @@
     "name:cdo_x_preferred":[
         "Ng\u00f9-ci\u016d"
     ],
+    "name:ceb_x_preferred":[
+        "Wuzhou"
+    ],
     "name:ces_x_preferred":[
         "Wu-\u010dou"
     ],
@@ -54,11 +57,17 @@
     "name:fra_x_preferred":[
         "Wuzhou"
     ],
+    "name:gan_x_preferred":[
+        "\u68a7\u5dde\u5e02"
+    ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac1\u0a9d\u0ac1\u0a93"
     ],
     "name:hak_x_preferred":[
         "\u01f8g-ch\u00fb-s\u1e73"
+    ],
+    "name:hak_x_variant":[
+        "\u01f8g-chiu-s\u1e73"
     ],
     "name:hin_x_preferred":[
         "\u0935\u0942\u091c\u093c\u0942"
@@ -80,6 +89,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc6b0\uc800\uc6b0 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc6b0\uc800\uc6b0\uc2dc"
     ],
     "name:lat_x_preferred":[
         "Ng Chow"
@@ -164,6 +176,9 @@
     ],
     "name:war_x_preferred":[
         "Wuzhou"
+    ],
+    "name:wuu_x_preferred":[
+        "\u68a7\u5dde\u5e02"
     ],
     "name:yue_x_preferred":[
         "\u68a7\u5dde"
@@ -321,7 +336,7 @@
         }
     ],
     "wof:id":102027045,
-    "wof:lastmodified":1561752074,
+    "wof:lastmodified":1563393275,
     "wof:name":"Wuzhou",
     "wof:parent_id":890512833,
     "wof:placetype":"locality",

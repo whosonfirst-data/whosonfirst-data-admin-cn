@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00069,
-    "geom:area_square_m":7411019.065757,
+    "geom:area_square_m":7411019.065745,
     "geom:bbox":"121.402329734,29.6360728988,121.425735039,29.6732108895",
     "geom:latitude":29.654643,
     "geom:longitude":121.414418,
@@ -17,20 +17,44 @@
     "mps:longitude":121.413025,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0424\u044d\u043d\u0445\u0443\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Fenghua"
+    ],
+    "name:cym_x_preferred":[
+        "Ardal Fenghua"
+    ],
     "name:deu_x_preferred":[
         "Fenghua"
     ],
     "name:eng_x_preferred":[
         "Fenghua"
     ],
+    "name:eng_x_variant":[
+        "Fenghua District"
+    ],
     "name:fra_x_preferred":[
         "Fenghua"
+    ],
+    "name:gan_x_preferred":[
+        "\u5949\u5316\u533a"
     ],
     "name:hak_x_preferred":[
         "Fung-fa-s\u1e73"
     ],
+    "name:hak_x_variant":[
+        "Fung-fa-kh\u00ee"
+    ],
+    "name:ita_x_preferred":[
+        "Fenghua"
+    ],
     "name:jpn_x_preferred":[
         "\u5949\u5316\u5e02"
+    ],
+    "name:jpn_x_variant":[
+        "\u5949\u5316\u533a"
     ],
     "name:kik_x_preferred":[
         "Fenghua"
@@ -38,7 +62,13 @@
     "name:kor_x_preferred":[
         "\ud391\ud654 \uc2dc"
     ],
+    "name:nan_x_preferred":[
+        "H\u014dng-ho\u00e0-khu"
+    ],
     "name:nld_x_preferred":[
+        "Fenghua"
+    ],
+    "name:nob_x_preferred":[
         "Fenghua"
     ],
     "name:nor_x_preferred":[
@@ -59,6 +89,9 @@
     "name:tgl_x_preferred":[
         "Fenghua"
     ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0435\u043d\u0445\u0443\u0430"
+    ],
     "name:unk_x_variant":[
         "Fenghwa"
     ],
@@ -74,11 +107,18 @@
     "name:wuu_x_preferred":[
         "\u5949\u5316\u5e02"
     ],
+    "name:wuu_x_variant":[
+        "\u5949\u5316\u533a"
+    ],
+    "name:yue_x_preferred":[
+        "\u5949\u5316"
+    ],
     "name:zho_x_preferred":[
         "\u5949\u5316\u5e02"
     ],
     "name:zho_x_variant":[
-        "\u5949\u5316"
+        "\u5949\u5316",
+        "\u5949\u5316\u533a"
     ],
     "name:zho_yue_x_preferred":[
         "\u5949\u5316"
@@ -129,7 +169,7 @@
         }
     ],
     "wof:id":102027659,
-    "wof:lastmodified":1527637563,
+    "wof:lastmodified":1563393194,
     "wof:name":"Fenghua",
     "wof:parent_id":890516553,
     "wof:placetype":"locality",

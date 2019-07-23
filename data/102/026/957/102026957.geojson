@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0629 \u064a\u0646\u0634\u0648\u0627\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u064a\u0646\u0634\u0648\u0627\u0646"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09a8\u099a\u09c1\u09af\u09bc\u09be\u09a8"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:cdo_x_preferred":[
         "Ng\u1e73\u0300ng-chi\u014fng"
+    ],
+    "name:ceb_x_preferred":[
+        "Yinchuan"
     ],
     "name:ces_x_preferred":[
         "Jin-\u010dchuan"
@@ -77,17 +83,26 @@
     "name:fra_x_preferred":[
         "Yinchuan"
     ],
+    "name:gan_x_preferred":[
+        "\u94f6\u5ddd\u5e02"
+    ],
     "name:guj_x_preferred":[
         "\u0aaf\u0abf\u0aa8\u0a9a\u0ac1\u0a86\u0aa8"
     ],
     "name:hak_x_preferred":[
         "Ngi\u00f9n-chh\u00f4n-s\u1e73"
     ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d9\u05e0\u05e6'\u05d5-\u05d0\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u092f\u093f\u0902\u091a\u0941\u0906\u0928"
     ],
     "name:hrv_x_preferred":[
         "Yinchuan"
+    ],
+    "name:hun_x_preferred":[
+        "Jincsuan"
     ],
     "name:ina_x_preferred":[
         "Yinchuan"
@@ -110,6 +125,9 @@
     "name:kor_x_preferred":[
         "\uc778\ucd28 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc778\ucd28\uc2dc"
+    ],
     "name:lat_x_preferred":[
         "Yinchuan"
     ],
@@ -118,6 +136,9 @@
     ],
     "name:lit_x_preferred":[
         "In\u010duanas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u9280\u5ddd\u5e02"
     ],
     "name:mal_x_preferred":[
         "\u0d2f\u0d3f\u0d1e\u0d4d\u0d1a\u0d41\u0d35\u0d3e\u0d7b"
@@ -136,6 +157,9 @@
     ],
     "name:msa_x_preferred":[
         "Yinchuan"
+    ],
+    "name:mya_x_preferred":[
+        "\u101a\u1004\u103a\u1001\u103b\u103d\u1019\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nan_x_preferred":[
         "G\u00een-chhoan-chh\u012b"
@@ -199,6 +223,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0407\u043d\u044c\u0447\u0443\u0430\u043d\u044c"
+    ],
+    "name:ukr_x_variant":[
+        "\u0406\u043d\u044c\u0447\u0443\u0430\u043d\u044c"
     ],
     "name:unk_x_variant":[
         "Ning-hsia"
@@ -373,7 +400,7 @@
         }
     ],
     "wof:id":102026957,
-    "wof:lastmodified":1561752082,
+    "wof:lastmodified":1563393446,
     "wof:megacity":1,
     "wof:name":"Yinchuan",
     "wof:parent_id":1108732517,

@@ -36,6 +36,9 @@
     "name:cdo_x_preferred":[
         "G\u00e9k-l\u00ecng"
     ],
+    "name:ceb_x_preferred":[
+        "Jilin"
+    ],
     "name:ces_x_preferred":[
         "\u0164i-lin"
     ],
@@ -76,6 +79,9 @@
     "name:epo_x_preferred":[
         "\u011cilino"
     ],
+    "name:epo_x_variant":[
+        "\u011cjilin"
+    ],
     "name:est_x_preferred":[
         "Jilin Shi"
     ],
@@ -91,11 +97,17 @@
     "name:fra_x_preferred":[
         "Jilin"
     ],
+    "name:gan_x_preferred":[
+        "\u5409\u6797\u5e02"
+    ],
     "name:guj_x_preferred":[
         "\u0a9c\u0abf\u0ab2\u0abf\u0aa8 \u0ab6\u0ab9\u0ac7\u0ab0"
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05d9\u05dc\u05d9\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2'\u05d9\u05dc\u05d9\u05df"
     ],
     "name:hin_x_preferred":[
         "\u091c\u093f\u0932\u093f\u0928 \u0938\u093f\u091f\u0940"
@@ -129,7 +141,8 @@
         "\uc9c0\ub9b0"
     ],
     "name:kor_x_variant":[
-        "\uc9c0\ub9b0 \uc2dc"
+        "\uc9c0\ub9b0 \uc2dc",
+        "\uc9c0\ub9b0\uc2dc"
     ],
     "name:lat_x_preferred":[
         "Jilin"
@@ -139,6 +152,9 @@
     ],
     "name:lit_x_preferred":[
         "Dzilinas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5409\u6797\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u091c\u093f\u0932\u093f\u0928 \u0936\u0939\u0930"
@@ -200,6 +216,9 @@
     "name:swe_x_preferred":[
         "Kirin"
     ],
+    "name:swe_x_variant":[
+        "Jilin"
+    ],
     "name:tam_x_preferred":[
         "\u0b9c\u0bc0\u0bb2\u0bbf\u0ba9\u0bcd  \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
     ],
@@ -226,6 +245,9 @@
     ],
     "name:vie_x_preferred":[
         "C\u00e1t L\u00e2m"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5409\u6797\u5e02"
     ],
     "name:yue_x_preferred":[
         "\u5409\u6797\u5e02"
@@ -383,7 +405,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1561752063,
+    "wof:lastmodified":1563393111,
     "wof:megacity":1,
     "wof:name":"Jilin",
     "wof:parent_id":890516735,

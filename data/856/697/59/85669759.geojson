@@ -37,14 +37,23 @@
     "name:afr_x_preferred":[
         "Hainan"
     ],
+    "name:amh_x_preferred":[
+        "\u1203\u12ed\u1293\u1295"
+    ],
     "name:ara_x_preferred":[
         "\u0647\u0627\u064a\u0646\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Hainan"
     ],
     "name:aze_x_preferred":[
         "Haynan"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0425\u0430\u0439\u043d\u0430\u043d\u044c"
+    ],
+    "name:bel_x_variant":[
+        "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0425\u0430\u0439\u043d\u0430\u043d\u044c"
     ],
     "name:ben_x_preferred":[
         "\u09b9\u09be\u0987\u09a8\u09be\u09a8"
@@ -63,6 +72,9 @@
     ],
     "name:cdo_x_preferred":[
         "H\u0101i-n\u00e0ng"
+    ],
+    "name:ceb_x_preferred":[
+        "Hainan Sheng"
     ],
     "name:ces_x_preferred":[
         "Chaj-nan"
@@ -97,6 +109,9 @@
     "name:est_x_preferred":[
         "Hainani provints"
     ],
+    "name:est_x_variant":[
+        "Hainan"
+    ],
     "name:eus_x_preferred":[
         "Hainan"
     ],
@@ -111,6 +126,9 @@
     ],
     "name:fra_x_variant":[
         "Province de Hainan"
+    ],
+    "name:frr_x_preferred":[
+        "Hainan"
     ],
     "name:gan_x_preferred":[
         "\u6d77\u5357"
@@ -176,6 +194,9 @@
     "name:kaz_x_preferred":[
         "\u0425\u0430\u0439\u043d\u0430\u043d\u044c"
     ],
+    "name:kaz_x_variant":[
+        "\u0425\u0430\u0439\u043d\u0430\u043d\u044c \u0430\u0440\u0430\u043b\u044b"
+    ],
     "name:kir_x_preferred":[
         "\u0425\u0430\u0439\u043d\u0430\u043d\u044c"
     ],
@@ -185,6 +206,9 @@
     "name:kor_x_preferred":[
         "\ud558\uc774\ub09c",
         "\ud558\uc774\ub09c \uc131"
+    ],
+    "name:kor_x_variant":[
+        "\ud558\uc774\ub09c\uc131"
     ],
     "name:lat_x_preferred":[
         "Hainania"
@@ -526,7 +550,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1561752328,
+    "wof:lastmodified":1563404364,
     "wof:name":"Hainan",
     "wof:parent_id":-1,
     "wof:placetype":"region",

@@ -30,6 +30,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0646\u063a\u0634\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Changsh\u00e1"
+    ],
+    "name:aze_x_preferred":[
+        "\u00c7ansa"
+    ],
     "name:bel_x_preferred":[
         "\u0427\u0430\u043d\u0448\u0430"
     ],
@@ -50,6 +56,9 @@
     ],
     "name:cdo_x_preferred":[
         "Di\u00f2ng-s\u0103"
+    ],
+    "name:ceb_x_preferred":[
+        "Changsha Shi"
     ],
     "name:ces_x_preferred":[
         "\u010cchang-\u0161a"
@@ -82,6 +91,9 @@
     "name:epo_x_preferred":[
         "\u0108ang\u015da"
     ],
+    "name:est_x_preferred":[
+        "Changsha Shi"
+    ],
     "name:eus_x_preferred":[
         "Changsha"
     ],
@@ -96,6 +108,9 @@
     ],
     "name:fra_x_preferred":[
         "Changsha"
+    ],
+    "name:gan_x_preferred":[
+        "\u957f\u6c99\u5e02"
     ],
     "name:glg_x_preferred":[
         "Changsha"
@@ -114,6 +129,9 @@
     ],
     "name:hin_x_preferred":[
         "\u091a\u093e\u0902\u0917\u0936\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Changsha"
     ],
     "name:hun_x_preferred":[
         "Csangsa"
@@ -146,9 +164,18 @@
     "name:kik_x_preferred":[
         "Changsha"
     ],
+    "name:kir_x_preferred":[
+        "\u0427\u0430\u043d\u0448\u0430"
+    ],
+    "name:kon_x_preferred":[
+        "Changsha"
+    ],
     "name:kor_x_preferred":[
         "\ucc3d\uc0ac",
         "\ucc3d\uc0ac \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ucc3d\uc0ac\uc2dc"
     ],
     "name:lat_x_preferred":[
         "Changsha"
@@ -201,11 +228,17 @@
     "name:oci_x_preferred":[
         "Changsha"
     ],
+    "name:ori_x_preferred":[
+        "\u0b1a\u0b3e\u0b19\u0b4d\u0b17\u0b38\u0b3e"
+    ],
     "name:pam_x_preferred":[
         "Changsha"
     ],
     "name:pan_x_preferred":[
         "\u0a1b\u0a3e\u0a02\u0a19\u0a38\u0a3c\u0a3e"
+    ],
+    "name:pan_x_variant":[
+        "\u0a1a\u0a3e\u0a02\u0a17\u0a38\u0a3c\u0a3e"
     ],
     "name:pnb_x_preferred":[
         "\u0686\u0627\u0646\u06af\u0634\u0627"
@@ -265,6 +298,9 @@
     "name:tur_x_preferred":[
         "\u00c7ang\u015fa"
     ],
+    "name:tur_x_variant":[
+        "Changsha"
+    ],
     "name:uig_x_preferred":[
         "\u0686\u0627\u06ad\u0634\u0627 \u0634\u06d5\u06be\u0649\u0631"
     ],
@@ -289,11 +325,17 @@
     "name:wuu_x_preferred":[
         "\u957f\u6c99\u5e02"
     ],
+    "name:wuu_x_variant":[
+        "\u957f\u6c99"
+    ],
     "name:yue_x_preferred":[
         "\u9577\u6c99"
     ],
     "name:zha_x_preferred":[
         "Cangzsah"
+    ],
+    "name:zha_x_variant":[
+        "Cangzsa"
     ],
     "name:zho_min_nan_x_preferred":[
         "Tn\u0302g-soa-chh\u012b"
@@ -456,7 +498,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1561752070,
+    "wof:lastmodified":1563393218,
     "wof:megacity":1,
     "wof:name":"Changsha",
     "wof:parent_id":890513085,

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001213,
-    "geom:area_square_m":13244341.312675,
+    "geom:area_square_m":13244341.312694,
     "geom:bbox":"109.572965223,27.9417138888,109.626251906,27.9791709934",
     "geom:latitude":27.955961,
     "geom:longitude":109.594601,
@@ -27,14 +27,29 @@
     "name:cat_x_preferred":[
         "Fenghuang"
     ],
+    "name:cdo_x_preferred":[
+        "H\u00f4ng-hu\u00f2ng"
+    ],
     "name:ces_x_preferred":[
         "Feng-chuang"
     ],
     "name:deu_x_preferred":[
         "Fenghuang"
     ],
+    "name:eng_x_preferred":[
+        "fenghuang"
+    ],
+    "name:epo_x_preferred":[
+        "\u0109ina fenikso"
+    ],
     "name:fra_x_preferred":[
         "Fenghuang"
+    ],
+    "name:fra_x_variant":[
+        "fenghuang"
+    ],
+    "name:hak_x_preferred":[
+        "Fung-f\u00f2ng"
     ],
     "name:hrv_x_preferred":[
         "Fenghuang"
@@ -57,11 +72,20 @@
     "name:kor_x_preferred":[
         "\ubd09\ud669"
     ],
+    "name:lzh_x_preferred":[
+        "\u9cf3\u51f0"
+    ],
     "name:msa_x_preferred":[
         "Fenghuang"
     ],
+    "name:nan_x_preferred":[
+        "H\u014dng-h\u00f4ng"
+    ],
     "name:nld_x_preferred":[
         "Feng Huang"
+    ],
+    "name:nob_x_preferred":[
+        "fenghuang"
     ],
     "name:nor_x_preferred":[
         "Fenghuang"
@@ -72,8 +96,14 @@
     "name:por_x_preferred":[
         "Fenghuang"
     ],
+    "name:por_x_variant":[
+        "fenghuang"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u0444\u0435\u043d\u0438\u043a\u0441"
+    ],
+    "name:rus_x_variant":[
+        "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u0444\u0435\u043d\u0438\u043a\u0441"
     ],
     "name:slk_x_preferred":[
         "Feng-chuang"
@@ -84,6 +114,9 @@
     "name:swe_x_preferred":[
         "Fenghuang"
     ],
+    "name:tur_x_preferred":[
+        "Fenghuang"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0438\u0442\u0430\u0439\u0441\u044c\u043a\u0438\u0439 \u0444\u0435\u043d\u0456\u043a\u0441"
     ],
@@ -92,6 +125,12 @@
     ],
     "name:war_x_preferred":[
         "Fenghuang"
+    ],
+    "name:yue_x_preferred":[
+        "\u9cf3"
+    ],
+    "name:zha_x_preferred":[
+        "Roegfunghvuengz"
     ],
     "name:zho_x_preferred":[
         "\u51e4\u51f0"
@@ -142,7 +181,7 @@
         }
     ],
     "wof:id":102028173,
-    "wof:lastmodified":1527637788,
+    "wof:lastmodified":1563393393,
     "wof:name":"Fenghuang",
     "wof:parent_id":1108794059,
     "wof:placetype":"locality",

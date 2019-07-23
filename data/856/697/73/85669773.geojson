@@ -40,11 +40,17 @@
     "name:ara_x_preferred":[
         "\u0634\u0627\u0646\u0634\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Shanxi"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0428\u0430\u043d\u044c\u0441\u0456"
     ],
     "name:bel_x_variant":[
         "\u0428\u0430\u043d\u044c\u0441\u0456"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b6\u09be\u09a8\u09b8\u09bf"
     ],
     "name:bod_x_preferred":[
         "\u0f67\u0fb2\u0f53\u0f0b\u0f5e\u0f72\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
@@ -61,6 +67,9 @@
     "name:cdo_x_preferred":[
         "S\u0103ng-s\u0103\u0324"
     ],
+    "name:ceb_x_preferred":[
+        "Shanxi Sheng"
+    ],
     "name:ces_x_preferred":[
         "\u0160an-si"
     ],
@@ -75,6 +84,9 @@
     ],
     "name:deu_x_preferred":[
         "Shanxi"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd\u03c3\u03af"
     ],
     "name:eng_x_preferred":[
         "Shanxi"
@@ -103,14 +115,23 @@
     "name:fra_x_variant":[
         "Province de Shanxi"
     ],
+    "name:frr_x_preferred":[
+        "Shanxi"
+    ],
     "name:gan_x_preferred":[
         "\u5c71\u897f"
+    ],
+    "name:gan_x_variant":[
+        "\u5c71\u897f\u7701"
     ],
     "name:gle_x_preferred":[
         "Shanxi"
     ],
     "name:glv_x_preferred":[
         "Shanxi"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab6\u0abe\u0aa8\u0acd\u0a95\u0acd\u0ab8\u0ac0"
     ],
     "name:hak_x_preferred":[
         "S\u00e2n-s\u00ee"
@@ -149,6 +170,9 @@
     "name:jpn_x_variant":[
         "\u965d\u897f"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb6\u0cbe\u0c82\u0c95\u0ccd\u0cb8\u0cbf"
+    ],
     "name:kat_x_preferred":[
         "\u10e8\u10d0\u10dc\u10e1\u10d8"
     ],
@@ -159,17 +183,29 @@
         "\uc0b0\uc2dc",
         "\uc0b0\uc2dc \uc131"
     ],
+    "name:kor_x_variant":[
+        "\uc0b0\uc2dc\uc131"
+    ],
     "name:lat_x_preferred":[
         "Xansia"
     ],
     "name:lav_x_preferred":[
         "\u0160a\u0146sji"
     ],
+    "name:lfn_x_preferred":[
+        "Shanxi"
+    ],
     "name:lit_x_preferred":[
         "\u0160ansi"
     ],
+    "name:lzh_x_preferred":[
+        "\u5c71\u897f\u7701"
+    ],
     "name:mar_x_preferred":[
         "\u0937\u093e\u0928\u094d\u0936\u0940"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0430\u043d\u0441\u0438"
     ],
     "name:mlg_x_preferred":[
         "Shanxi"
@@ -180,10 +216,16 @@
     "name:msa_x_preferred":[
         "Shanxi"
     ],
+    "name:nan_x_preferred":[
+        "Soa\u207f-sai-s\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Shanxi"
     ],
     "name:nno_x_preferred":[
+        "Shanxi"
+    ],
+    "name:nob_x_preferred":[
         "Shanxi"
     ],
     "name:nor_x_preferred":[
@@ -195,6 +237,9 @@
     "name:oci_x_preferred":[
         "Shanxi"
     ],
+    "name:oss_x_preferred":[
+        "\u0428\u0430\u043d\u044c\u0441\u0438"
+    ],
     "name:pam_x_preferred":[
         "Shanxi"
     ],
@@ -203,6 +248,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0634\u0627\u0646\u0634\u06cc"
+    ],
+    "name:pnb_x_variant":[
+        "\u0634\u0646\u06af\u0632\u06cc"
     ],
     "name:pol_x_preferred":[
         "Shanxi"
@@ -225,6 +273,12 @@
     "name:sco_x_preferred":[
         "Shanxi"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc1\u0db1\u0dca\u0d9a\u0dca\u0dc3\u0dd2"
+    ],
+    "name:slv_x_preferred":[
+        "Shanxi"
+    ],
     "name:spa_x_preferred":[
         "Shanxi"
     ],
@@ -239,6 +293,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0ba9\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c37\u0c3e\u0c02\u0c15\u0c4d\u0c38\u0c3f"
     ],
     "name:tgl_x_preferred":[
         "Shanxi"
@@ -279,6 +336,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u5c71\u897f\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u5c71\u897f"
     ],
     "name:zha_x_preferred":[
         "Sanhsih"
@@ -426,7 +486,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1553550330,
+    "wof:lastmodified":1563404377,
     "wof:name":"Shanxi",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
