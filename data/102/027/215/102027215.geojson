@@ -39,6 +39,12 @@
     "name:cdo_x_preferred":[
         "Ci\u00f2ng-ci\u016d"
     ],
+    "name:cdo_x_variant":[
+        "Cu\u00f2ng-ci\u016d"
+    ],
+    "name:ceb_x_preferred":[
+        "Quanzhou"
+    ],
     "name:ces_x_preferred":[
         "\u010cch\u00fcan-\u010dou"
     ],
@@ -82,6 +88,9 @@
     "name:fra_x_preferred":[
         "Quanzhou"
     ],
+    "name:gan_x_preferred":[
+        "\u6cc9\u5dde\u5e02"
+    ],
     "name:gsw_x_preferred":[
         "Quanzhou"
     ],
@@ -91,11 +100,17 @@
     "name:hak_x_preferred":[
         "Chhi\u00e8n-ch\u00fb-s\u1e73"
     ],
+    "name:hak_x_variant":[
+        "Tshi\u00e8n-chiu-s\u1e73"
+    ],
     "name:hbs_x_preferred":[
         "Quanzhou"
     ],
     "name:hin_x_preferred":[
         "\u0915\u0941\u0923\u094d\u091c\u0939\u094b\u090a"
+    ],
+    "name:hin_x_variant":[
+        "\u091a\u093f\u0928\u091d\u094b\u090a"
     ],
     "name:ind_x_preferred":[
         "Quanzhou"
@@ -114,6 +129,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucde8\uc548\uc800\uc6b0 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ucde8\uc548\uc800\uc6b0\uc2dc"
     ],
     "name:lat_x_preferred":[
         "Quanzhou"
@@ -391,7 +409,7 @@
         }
     ],
     "wof:id":102027215,
-    "wof:lastmodified":1561752074,
+    "wof:lastmodified":1563393285,
     "wof:megacity":1,
     "wof:name":"Quanzhou",
     "wof:parent_id":890514127,

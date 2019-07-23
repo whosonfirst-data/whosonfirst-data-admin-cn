@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000824,
-    "geom:area_square_m":9447494.55423,
+    "geom:area_square_m":9447494.554218,
     "geom:bbox":"100.773397145,21.9900515892,100.814737445,22.018297969",
     "geom:latitude":22.006501,
     "geom:longitude":100.791622,
@@ -19,8 +19,20 @@
     "mps:longitude":100.79369,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u064a\u0646\u063a\u0647\u0648\u0646\u063a"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09bf\u09a8\u0982\u09b9\u0982"
+    ],
+    "name:dan_x_preferred":[
+        "Jinghong"
+    ],
     "name:deu_x_preferred":[
         "Jinghong"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b9\u03bd\u03b3\u03ba\u03c7\u03cc\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Jinghong"
@@ -29,6 +41,18 @@
         "Jinghong"
     ],
     "name:fra_x_preferred":[
+        "Jinghong"
+    ],
+    "name:gan_x_preferred":[
+        "\u666f\u6d2a\u5e02"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9c\u0abf\u0a82\u0a97\u0ab9\u0acb\u0a82\u0a97"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u0940\u0902\u0917\u0939\u094b\u0902\u0917"
+    ],
+    "name:ind_x_preferred":[
         "Jinghong"
     ],
     "name:ita_x_preferred":[
@@ -40,13 +64,37 @@
     "name:jpn_x_variant":[
         "\u666f\u6d2a"
     ],
+    "name:kan_x_preferred":[
+        "\u0c9c\u0cbf\u0c82\u0c97\u0ccd\u0cb9\u0cbe\u0c82\u0c97\u0ccd"
+    ],
     "name:kik_x_preferred":[
         "Jinghong"
     ],
     "name:kor_x_preferred":[
         "\uc9d5\ud6d9 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc9d5\ud6d9\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Dzinhuna"
+    ],
+    "name:lit_x_preferred":[
+        "D\u017eingchongas"
+    ],
+    "name:mar_x_preferred":[
+        "\u091c\u093f\u0902\u0939\u094b\u0902\u0917"
+    ],
+    "name:msa_x_preferred":[
+        "Jinghong"
+    ],
+    "name:nan_x_preferred":[
+        "K\u00e9ng-h\u00f4ng-chh\u012b"
+    ],
     "name:nld_x_preferred":[
+        "Jinghong"
+    ],
+    "name:nob_x_preferred":[
         "Jinghong"
     ],
     "name:nor_x_preferred":[
@@ -55,17 +103,38 @@
     "name:pol_x_preferred":[
         "Jinghong"
     ],
+    "name:por_x_preferred":[
+        "Jinghong"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0437\u0438\u043d\u0445\u0443\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da2\u0dd2\u0db1\u0dca\u0d9d\u0ddd\u0db1\u0dca\u0d9c\u0dca"
+    ],
     "name:spa_x_preferred":[
         "Jinghong"
     ],
     "name:swe_x_preferred":[
         "Jinghong"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9c\u0bbf\u0b99\u0bcd\u0bb9\u0bca\u0b99\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c3f\u0c02\u0c18\u0c4a\u0c02\u0c17\u0c4d"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e23\u0e38\u0e48\u0e07"
     ],
     "name:tha_x_variant":[
         "\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e23\u0e38\u0e49\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "Jinghong"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0437\u0438\u043d\u0445\u0443\u043d"
     ],
     "name:unk_x_variant":[
         "Kenghung"
@@ -75,6 +144,12 @@
     ],
     "name:vie_x_preferred":[
         "C\u1ea3nh H\u1ed3ng"
+    ],
+    "name:wuu_x_preferred":[
+        "\u666f\u6d2a\u5e02"
+    ],
+    "name:yue_x_preferred":[
+        "\u666f\u6d2a"
     ],
     "name:zho_x_preferred":[
         "\u666f\u6d2a\u5e02"
@@ -128,7 +203,7 @@
         }
     ],
     "wof:id":102026931,
-    "wof:lastmodified":1527637804,
+    "wof:lastmodified":1563393422,
     "wof:name":"Jinghong",
     "wof:parent_id":1108732499,
     "wof:placetype":"locality",

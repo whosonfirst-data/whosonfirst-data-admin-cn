@@ -29,6 +29,9 @@
     "name:cdo_x_preferred":[
         "\u016a-\u016di"
     ],
+    "name:ceb_x_preferred":[
+        "Wuwei"
+    ],
     "name:ces_x_preferred":[
         "Wu-wej"
     ],
@@ -47,11 +50,17 @@
     "name:eus_x_preferred":[
         "Wuwei"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u0648\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Wuwei"
     ],
     "name:fra_x_preferred":[
         "Wuwei"
+    ],
+    "name:gan_x_preferred":[
+        "\u6b66\u5a01\u5e02"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac1\u0ab5\u0ac7\u0a88"
@@ -79,6 +88,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc6b0\uc6e8\uc774 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc6b0\uc6e8\uc774\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Vuveja"
@@ -149,11 +161,17 @@
     "name:urd_x_preferred":[
         "\u0648\u0648\u0626\u06cc\u060c \u06af\u0627\u0646\u0633\u0648"
     ],
+    "name:urd_x_variant":[
+        "\u0648\u0648\u0626\u06cc"
+    ],
     "name:vie_x_preferred":[
         "V\u0169 Uy"
     ],
     "name:war_x_preferred":[
         "Wuwei"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6b66\u5a01\u5e02"
     ],
     "name:yue_x_preferred":[
         "\u6b66\u5a01"
@@ -282,7 +300,7 @@
         }
     ],
     "wof:id":1141909217,
-    "wof:lastmodified":1561755420,
+    "wof:lastmodified":1563490326,
     "wof:name":"Wuwei",
     "wof:parent_id":890516467,
     "wof:placetype":"locality",

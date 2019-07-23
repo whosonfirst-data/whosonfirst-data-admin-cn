@@ -25,6 +25,9 @@
     "name:ben_x_preferred":[
         "\u09a8\u09be\u0997-\u099b\u09c1 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
+    "name:ben_x_variant":[
+        "\u09a8\u09be\u0982\u099a\u09c1 \u099f\u09be\u0989\u09a8"
+    ],
     "name:bod_x_preferred":[
         "Nagqu"
     ],
@@ -43,8 +46,14 @@
     "name:eng_x_preferred":[
         "Nagqu Prefecture"
     ],
+    "name:eng_x_variant":[
+        "Nagchu Town"
+    ],
     "name:eus_x_preferred":[
         "Nagqu Prefektura"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0646\u0627\u06af\u06a9\u0648"
     ],
     "name:fin_x_preferred":[
         "Nagchu Town"
@@ -55,6 +64,9 @@
     "name:fra_x_variant":[
         "Nagchu"
     ],
+    "name:gan_x_preferred":[
+        "\u90a3\u66f2\u9547"
+    ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0a97\u0a9a\u0ac1 \u0aa8\u0a97\u0ab0"
     ],
@@ -64,20 +76,32 @@
     "name:hin_x_preferred":[
         "\u0928\u0917\u091a\u0941 \u0935\u093f\u092d\u093e\u0917"
     ],
+    "name:hin_x_variant":[
+        "\u0928\u093e\u0917\u091a\u0942 \u091f\u093e\u0909\u0928"
+    ],
     "name:ind_x_preferred":[
         "Kota Nagchu"
     ],
     "name:ita_x_preferred":[
         "Prefettura di Nagqu"
     ],
+    "name:ita_x_variant":[
+        "Nagchu"
+    ],
     "name:jpn_x_preferred":[
         "\u30ca\u30af\u30c1\u30e5\u5730\u533a"
+    ],
+    "name:jpn_x_variant":[
+        "\u30ca\u30af\u30c1\u30e5\u93ae"
     ],
     "name:kan_x_preferred":[
         "\u0ca8\u0cbe\u0c9a\u0ccd\u0c9a\u0cc1 \u0c9f\u0ccc\u0ca8\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\ub098\ucde8 \uc9c0\uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ub0ad\ucd94 \ud0c0\uc6b4"
     ],
     "name:lav_x_preferred":[
         "Nag\u010du pils\u0113ta"
@@ -112,6 +136,9 @@
     "name:swe_x_preferred":[
         "Nakchu"
     ],
+    "name:swe_x_variant":[
+        "Nagchu Town"
+    ],
     "name:tam_x_preferred":[
         "\u0ba8\u0b95\u0bcd\u0b9a\u0bc1  \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
     ],
@@ -135,6 +162,9 @@
     ],
     "name:vie_x_preferred":[
         "Na Kh\u00fac Tr\u1ea5n"
+    ],
+    "name:wuu_x_preferred":[
+        "\u90a3\u66f2\u9547"
     ],
     "name:zho_x_preferred":[
         "Naqu"
@@ -189,7 +219,7 @@
         }
     ],
     "wof:id":102026803,
-    "wof:lastmodified":1561752082,
+    "wof:lastmodified":1563393436,
     "wof:name":"Nagqu",
     "wof:parent_id":1108732507,
     "wof:placetype":"locality",

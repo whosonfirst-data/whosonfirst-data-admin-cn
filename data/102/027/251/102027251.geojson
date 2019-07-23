@@ -30,6 +30,12 @@
     "name:cdo_x_preferred":[
         "Bu\u00f2-di\u00e8ng"
     ],
+    "name:cdo_x_variant":[
+        "Pu\u00f2-di\u00e8ng"
+    ],
+    "name:ceb_x_preferred":[
+        "Putian"
+    ],
     "name:ces_x_preferred":[
         "Pchu-tchien"
     ],
@@ -60,11 +66,20 @@
     "name:fra_x_preferred":[
         "Putian"
     ],
+    "name:gan_x_preferred":[
+        "\u8386\u7530\u5e02"
+    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac1\u0aa4\u0abf\u0aaf\u0aa8"
     ],
     "name:hak_x_preferred":[
         "Ph\u00f9-thi\u00e8n-s\u1e73"
+    ],
+    "name:hak_x_variant":[
+        "Ph\u00fb-thi\u00e8n-s\u1e73"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d8\u05d9\u05d0\u05df"
     ],
     "name:hin_x_preferred":[
         "\u092a\u0941\u0924\u093f\u092f\u093e\u0902"
@@ -89,6 +104,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud478\ud188 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ud478\ud188\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Putiana"
@@ -185,6 +203,9 @@
     ],
     "name:war_x_preferred":[
         "Putian"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8386\u7530\u5e02"
     ],
     "name:yue_x_preferred":[
         "\u8386\u7530"
@@ -341,7 +362,7 @@
         }
     ],
     "wof:id":102027251,
-    "wof:lastmodified":1561752068,
+    "wof:lastmodified":1563393191,
     "wof:name":"Putian",
     "wof:parent_id":890516865,
     "wof:placetype":"locality",

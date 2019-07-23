@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000891,
-    "geom:area_square_m":9377504.659963,
+    "geom:area_square_m":9377504.659975,
     "geom:bbox":"117.856279703,31.5554737805,118.371757437,31.7231689504",
     "geom:latitude":31.630013,
     "geom:longitude":118.057356,
@@ -21,8 +21,14 @@
     "name:ara_x_preferred":[
         "\u0634\u0627\u0648\u0647\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u099a\u09be\u0993"
+    ],
     "name:bul_x_preferred":[
         "\u0427\u0430\u043e\u0445\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Chaohu Shi"
     ],
     "name:ces_x_preferred":[
         "\u010cchao-chu"
@@ -33,17 +39,38 @@
     "name:deu_x_preferred":[
         "Chaohu"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03bf\u03c7\u03bf\u03cd"
+    ],
+    "name:eng_x_preferred":[
+        "Chaohu"
+    ],
     "name:eus_x_preferred":[
         "Chaohu"
     ],
     "name:fas_x_preferred":[
         "\u0686\u0627\u0648\u0686\u0648"
     ],
+    "name:fin_x_preferred":[
+        "Chaohu"
+    ],
     "name:fra_x_preferred":[
         "Chaohu"
     ],
+    "name:gan_x_preferred":[
+        "\u5de2\u6e56\u5e02"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9a\u0acc\u0ab9\u0ac1"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u094c\u0939\u0941"
+    ],
     "name:hye_x_preferred":[
         "\u0549\u0561\u0578\u0570\u0578\u0582"
+    ],
+    "name:ind_x_preferred":[
+        "Chaohu"
     ],
     "name:ita_x_preferred":[
         "Chaohu"
@@ -51,19 +78,49 @@
     "name:jpn_x_preferred":[
         "\u5de3\u6e56\u5e02"
     ],
+    "name:kan_x_preferred":[
+        "\u0c9a\u0ccb\u0cb9\u0cc1"
+    ],
     "name:kik_x_preferred":[
         "Chaohu"
     ],
     "name:kor_x_preferred":[
         "\ucc28\uc624\ud6c4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ucc28\uc624\ud6c4\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "\u010cao\u010du"
+    ],
+    "name:lit_x_preferred":[
+        "\u010caochu"
+    ],
+    "name:mar_x_preferred":[
+        "\u091a\u093e\u0913\u0939\u0941"
+    ],
     "name:mlg_x_preferred":[
         "Chaohu"
+    ],
+    "name:msa_x_preferred":[
+        "Chaohu"
+    ],
+    "name:mwl_x_preferred":[
+        "Chaohu"
+    ],
+    "name:nan_x_preferred":[
+        "Ch\u00e2u-\u00f4\u0358-chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Chaohu"
     ],
+    "name:nob_x_preferred":[
+        "Chaohu"
+    ],
     "name:nor_x_preferred":[
+        "Chaohu"
+    ],
+    "name:pam_x_preferred":[
         "Chaohu"
     ],
     "name:pnb_x_preferred":[
@@ -78,17 +135,32 @@
     "name:rus_x_preferred":[
         "\u0427\u0430\u043e\u0445\u0443"
     ],
+    "name:sin_x_preferred":[
+        "\u0da0\u0ddd\u0dc4\u0dd4"
+    ],
     "name:spa_x_preferred":[
         "Chaohu"
     ],
     "name:swe_x_preferred":[
         "Chaohu"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0bb5\u0bcb\u0bb9\u0bc1"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1a\u0c4c\u0c39\u0c42"
+    ],
     "name:tgl_x_preferred":[
         "Chaohu"
     ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0a\u0e32\u0e2b\u0e39"
+    ],
     "name:tur_x_preferred":[
         "Chaohu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u043e\u0445\u0443"
     ],
     "name:urd_x_preferred":[
         "\u0686\u0627\u0648\u06c1\u0648"
@@ -98,6 +170,12 @@
     ],
     "name:war_x_preferred":[
         "Chaohu"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5de2\u6e56\u5e02"
+    ],
+    "name:yue_x_preferred":[
+        "\u5de2\u6e56"
     ],
     "name:zho_x_preferred":[
         "\u5de2\u6e56\u5e02"
@@ -148,7 +226,7 @@
         }
     ],
     "wof:id":102028155,
-    "wof:lastmodified":1527637791,
+    "wof:lastmodified":1563393403,
     "wof:name":"Chaohu",
     "wof:parent_id":1108732543,
     "wof:placetype":"locality",

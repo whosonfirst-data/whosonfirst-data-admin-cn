@@ -45,11 +45,17 @@
     "name:eus_x_preferred":[
         "Chenzhou"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0646\u0698\u0648"
+    ],
     "name:fin_x_preferred":[
         "Chenzhou"
     ],
     "name:fra_x_preferred":[
         "Chenzhou"
+    ],
+    "name:gan_x_preferred":[
+        "\u90f4\u5dde\u5e02"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0ac7\u0aa8\u0a9d\u0acb\u0a89"
@@ -77,6 +83,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucc9c\uc800\uc6b0 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ucc9c\uc800\uc6b0\uc2dc"
     ],
     "name:lav_x_preferred":[
         "\u010cend\u017eou"
@@ -158,6 +167,9 @@
     ],
     "name:war_x_preferred":[
         "Chenzhou"
+    ],
+    "name:wuu_x_preferred":[
+        "\u90f4\u5dde\u5e02"
     ],
     "name:yue_x_preferred":[
         "\u90f4\u5dde"
@@ -311,7 +323,7 @@
         }
     ],
     "wof:id":102027697,
-    "wof:lastmodified":1561752076,
+    "wof:lastmodified":1563393314,
     "wof:name":"Chenzhou",
     "wof:parent_id":890516905,
     "wof:placetype":"locality",

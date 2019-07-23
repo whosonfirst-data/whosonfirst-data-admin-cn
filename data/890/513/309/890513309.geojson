@@ -15,14 +15,26 @@
     "iso:country":"CN",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ganshui"
+    ],
     "name:eng_x_preferred":[
         "Ganshui"
+    ],
+    "name:gan_x_preferred":[
+        "\u8d76\u6c34\u9547"
+    ],
+    "name:jpn_x_preferred":[
+        "\u8d95\u6c34\u93ae"
     ],
     "name:swe_x_preferred":[
         "Ganshui"
     ],
     "name:unk_x_variant":[
         "Kan-shui"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8d76\u6c34\u9547"
     ],
     "name:yue_x_preferred":[
         "\u8d95\u6c34\u93ae"
@@ -31,7 +43,8 @@
         "\u8d76\u6c34"
     ],
     "name:zho_x_variant":[
-        "\u8d76\u6c34\u9547"
+        "\u8d76\u6c34\u9547",
+        "\u5546\u6d1b\u5e02"
     ],
     "qs:name":"Ganshui",
     "qs:photos_9r":0,
@@ -68,7 +81,7 @@
         }
     ],
     "wof:id":890513309,
-    "wof:lastmodified":1561753700,
+    "wof:lastmodified":1563459528,
     "wof:name":"Ganshui",
     "wof:parent_id":890513063,
     "wof:placetype":"locality",

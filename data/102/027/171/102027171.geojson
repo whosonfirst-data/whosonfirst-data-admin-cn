@@ -36,6 +36,9 @@
     "name:ces_x_preferred":[
         "\u0160ao-kuan"
     ],
+    "name:cym_x_preferred":[
+        "Shaoguan"
+    ],
     "name:dan_x_preferred":[
         "Shaoguan"
     ],
@@ -66,11 +69,17 @@
     "name:fra_x_preferred":[
         "Shaoguan"
     ],
+    "name:gan_x_preferred":[
+        "\u97f6\u5173\u5e02"
+    ],
     "name:guj_x_preferred":[
         "\u0ab6\u0abe\u0a93\u0a97\u0ac1\u0a86\u0aa8"
     ],
     "name:hak_x_preferred":[
         "S\u00e8u-k\u00f4an-s\u1e73"
+    ],
+    "name:hak_x_variant":[
+        "Sh\u00e2u-k\u00fban-s\u1e73"
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05d0\u05d5\u05d2\u05d5\u05d0\u05df"
@@ -96,6 +105,9 @@
     "name:kor_x_preferred":[
         "\uc0ac\uc624\uad00 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc0ac\uc624\uad00\uc2dc"
+    ],
     "name:lat_x_preferred":[
         "Shaoguan"
     ],
@@ -107,6 +119,9 @@
     ],
     "name:lzh_x_preferred":[
         "\u97f6\u95dc\u5e02"
+    ],
+    "name:lzh_x_variant":[
+        "\u97f6\u95dc"
     ],
     "name:mar_x_preferred":[
         "\u0936\u094b\u0917\u0941\u0906\u0928"
@@ -355,7 +370,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1561752080,
+    "wof:lastmodified":1563393376,
     "wof:name":"Shaoguan",
     "wof:parent_id":890516559,
     "wof:placetype":"locality",

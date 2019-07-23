@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001649,
-    "geom:area_square_m":17309666.851338,
+    "geom:area_square_m":17309666.851343,
     "geom:bbox":"119.130660662,31.7892089823,119.294613089,31.9751591472",
     "geom:latitude":31.926448,
     "geom:longitude":119.182557,
@@ -16,17 +16,56 @@
     "mps:longitude":119.171934,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0648\u0631\u0648\u0646\u063a"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09c1\u09b0\u0982"
+    ],
+    "name:cym_x_preferred":[
+        "Jurong"
+    ],
+    "name:dan_x_preferred":[
+        "Jurong"
+    ],
     "name:deu_x_preferred":[
+        "Jurong"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03bf\u03cd\u03c1\u03bf\u03bd\u03b3\u03ba"
+    ],
+    "name:eng_x_preferred":[
         "Jurong"
     ],
     "name:fas_x_preferred":[
         "\u0698\u0648\u0631\u0627\u0646\u06af"
     ],
+    "name:fin_x_preferred":[
+        "Jurong"
+    ],
     "name:fra_x_preferred":[
+        "Jurong"
+    ],
+    "name:gan_x_preferred":[
+        "\u53e5\u5bb9\u5e02"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9c\u0ac1\u0ab0\u0acb\u0a82\u0a97"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u0941\u0930\u094b\u0902\u0917"
+    ],
+    "name:ind_x_preferred":[
+        "Jurong"
+    ],
+    "name:ita_x_preferred":[
         "Jurong"
     ],
     "name:jpn_x_preferred":[
         "\u53e5\u5bb9\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9c\u0cc1\u0cb0\u0cbe\u0c82\u0c97\u0ccd"
     ],
     "name:kik_x_preferred":[
         "Jurong"
@@ -34,7 +73,28 @@
     "name:kor_x_preferred":[
         "\uc950\ub8fd \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc950\ub8fd\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "D\u017euronga"
+    ],
+    "name:lit_x_preferred":[
+        "Curongas"
+    ],
+    "name:mar_x_preferred":[
+        "\u091c\u094d\u092f\u0941\u0930\u094b\u0901\u0917"
+    ],
+    "name:msa_x_preferred":[
+        "Jurong"
+    ],
+    "name:nan_x_preferred":[
+        "K\u00f9-i\u00f4ng-chh\u012b"
+    ],
     "name:nld_x_preferred":[
+        "Jurong"
+    ],
+    "name:nob_x_preferred":[
         "Jurong"
     ],
     "name:nor_x_preferred":[
@@ -43,17 +103,53 @@
     "name:pam_x_preferred":[
         "Jurong"
     ],
+    "name:pol_x_preferred":[
+        "Jurong"
+    ],
+    "name:por_x_preferred":[
+        "Jurong"
+    ],
     "name:rus_x_preferred":[
         "\u0426\u0437\u044e\u0439\u0436\u0443\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da2\u0dd6\u0dbb\u0ddc\u0db1\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Jurong"
     ],
     "name:swe_x_preferred":[
         "Jurong"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9c\u0bc2\u0bb0\u0bcb\u0b99\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c41\u0c30\u0c4b\u0c02\u0c17\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e39\u0e23\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "Jurong"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0437\u044e\u0439\u0436\u0443\u043d"
+    ],
     "name:unk_x_variant":[
         "K\u00fcyung"
     ],
+    "name:urd_x_preferred":[
+        "\u062c\u0648\u0631\u0648\u0646\u062c"
+    ],
     "name:vie_x_preferred":[
         "C\u00fa Dung"
+    ],
+    "name:wuu_x_preferred":[
+        "\u53e5\u5bb9\u5e02"
+    ],
+    "name:yue_x_preferred":[
+        "\u53e5\u5bb9"
     ],
     "name:zho_x_preferred":[
         "\u53e5\u5bb9\u5e02"
@@ -105,7 +201,7 @@
         }
     ],
     "wof:id":102027427,
-    "wof:lastmodified":1527637570,
+    "wof:lastmodified":1563393299,
     "wof:name":"Jurong",
     "wof:parent_id":1108732521,
     "wof:placetype":"locality",

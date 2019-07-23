@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000317,
-    "geom:area_square_m":3122436.400433,
+    "geom:area_square_m":3122436.400437,
     "geom:bbox":"111.769118904,37.2519248203,111.79167207,37.2699512076",
     "geom:latitude":37.260938,
     "geom:longitude":111.780395,
@@ -16,14 +16,50 @@
     "mps:longitude":111.780395,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0646\u064a\u0627\u0646\u063a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ab\u09c7\u09a8\u0987\u09af\u09bc\u09be\u0982"
+    ],
+    "name:dan_x_preferred":[
+        "Fenyang"
+    ],
     "name:deu_x_preferred":[
+        "Fenyang"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03b5\u03bd\u03b3\u03b9\u03ac\u03bd\u03b3\u03ba"
+    ],
+    "name:eng_x_preferred":[
+        "Fenyang"
+    ],
+    "name:fin_x_preferred":[
         "Fenyang"
     ],
     "name:fra_x_preferred":[
         "Fenyang"
     ],
+    "name:gan_x_preferred":[
+        "\u6c7e\u9633\u5e02"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aab\u0ac7\u0aa8\u0aaf\u0abe\u0a82\u0a97"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u093c\u0947\u0928\u092f\u093e\u0902\u0917"
+    ],
+    "name:ind_x_preferred":[
+        "Fenyang"
+    ],
+    "name:ita_x_preferred":[
+        "Fenyang"
+    ],
     "name:jpn_x_preferred":[
         "\u6c7e\u967d\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cab\u0cc6\u0ca8\u0ccd\u0caf\u0cbe\u0c82\u0c97\u0ccd"
     ],
     "name:kik_x_preferred":[
         "Fenyang"
@@ -31,10 +67,37 @@
     "name:kor_x_preferred":[
         "\ud380\uc591 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud380\uc591\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Fenjanga"
+    ],
+    "name:lit_x_preferred":[
+        "Fenjangas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092b\u0947\u0928\u092f\u093e\u0902\u0917"
+    ],
     "name:mlg_x_preferred":[
         "Fenyang"
     ],
+    "name:msa_x_preferred":[
+        "Fenyang"
+    ],
+    "name:nan_x_preferred":[
+        "Hun-i\u00f4ng-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Fenyang"
+    ],
+    "name:nob_x_preferred":[
+        "Fenyang"
+    ],
     "name:nor_x_preferred":[
+        "Fenyang"
+    ],
+    "name:pol_x_preferred":[
         "Fenyang"
     ],
     "name:por_x_preferred":[
@@ -43,14 +106,41 @@
     "name:rus_x_preferred":[
         "\u0424\u044d\u043d\u044c\u044f\u043d"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc6\u0dd9\u0db1\u0dca\u0dba\u0dd0\u0db1\u0dca\u0d9c\u0dca"
+    ],
     "name:swe_x_preferred":[
         "Fenyang"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc6\u0ba3\u0bcd\u0baf\u0bbe\u0b99\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2b\u0c46\u0c28\u0c4d\u0c2f\u0c3e\u0c02\u0c17\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1f\u0e34\u0e19\u0e2b\u0e22\u0e32\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "Fenyang"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0435\u043d\u044c\u044f\u043d"
     ],
     "name:unk_x_variant":[
         "Fenchow"
     ],
+    "name:urd_x_preferred":[
+        "\u0641\u06cc\u0646\u06cc\u0627\u0646\u062c"
+    ],
     "name:vie_x_preferred":[
         "Ph\u1ea7n D\u01b0\u01a1ng"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6c7e\u9633\u5e02"
+    ],
+    "name:yue_x_preferred":[
+        "\u6c7e\u967d"
     ],
     "name:zho_x_preferred":[
         "\u6c7e\u9633\u5e02"
@@ -95,7 +185,7 @@
         }
     ],
     "wof:id":102027617,
-    "wof:lastmodified":1527637560,
+    "wof:lastmodified":1563393142,
     "wof:name":"Fenyang",
     "wof:parent_id":1108732379,
     "wof:placetype":"locality",

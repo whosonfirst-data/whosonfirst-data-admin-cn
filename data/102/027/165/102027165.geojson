@@ -27,6 +27,9 @@
     "name:ara_x_variant":[
         "\u0634\u064a\u0646\u0632\u064a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u064a\u0646\u0632\u0646"
+    ],
     "name:ast_x_preferred":[
         "Shenzhen"
     ],
@@ -63,6 +66,9 @@
     "name:cdo_x_preferred":[
         "Ch\u012dng-d\u00e1ung"
     ],
+    "name:ceb_x_preferred":[
+        "Shenzhen"
+    ],
     "name:ces_x_preferred":[
         "\u0160en-\u010den"
     ],
@@ -85,7 +91,8 @@
         "\u03a3\u03b5\u03bd\u03c4\u03b6\u03ad\u03bd"
     ],
     "name:ell_x_variant":[
-        "\u03a3\u03b5\u03bd\u03b6\u03ad\u03bd"
+        "\u03a3\u03b5\u03bd\u03b6\u03ad\u03bd",
+        "\u03a3\u03b5\u03bd\u03c4\u03c3\u03ad\u03bd"
     ],
     "name:eng_x_colloquial":[
         "The overnight city"
@@ -119,6 +126,9 @@
     ],
     "name:fra_x_preferred":[
         "Shenzhen"
+    ],
+    "name:gan_x_preferred":[
+        "\u6df1\u5733\u5e02"
     ],
     "name:gle_x_preferred":[
         "Shenzhen"
@@ -183,11 +193,15 @@
     "name:kik_x_preferred":[
         "Shenzhen"
     ],
+    "name:kir_x_preferred":[
+        "\u0428\u044d\u043d\u044c\u0447\u0436\u044d\u043d\u044c"
+    ],
     "name:kor_x_preferred":[
         "\uc120\uc804 \uc2dc"
     ],
     "name:kor_x_variant":[
-        "\uc2ec\ucc9c"
+        "\uc2ec\ucc9c",
+        "\uc120\uc804\uc2dc"
     ],
     "name:lat_x_preferred":[
         "Shenzhen"
@@ -197,6 +211,9 @@
     ],
     "name:lit_x_preferred":[
         "\u0160end\u017eenas"
+    ],
+    "name:mai_x_preferred":[
+        "\u0936\u0947\u0928\u091d\u0947\u0928"
     ],
     "name:mal_x_preferred":[
         "\u0d37\u0d46\u0d1e\u0d4d\u0d1c\u0d46\u0d7b"
@@ -248,6 +265,9 @@
     ],
     "name:oci_x_preferred":[
         "Shenzhen"
+    ],
+    "name:oss_x_preferred":[
+        "\u0428\u044d\u043d\u044c\u0447\u0436\u044d\u043d\u044c"
     ],
     "name:pam_x_preferred":[
         "Shenzhen"
@@ -521,7 +541,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1561752072,
+    "wof:lastmodified":1563393245,
     "wof:megacity":1,
     "wof:name":"Shenzhen",
     "wof:parent_id":890514737,

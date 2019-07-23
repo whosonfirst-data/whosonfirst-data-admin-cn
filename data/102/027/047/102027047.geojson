@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000292,
-    "geom:area_square_m":3126267.469693,
+    "geom:area_square_m":3126267.469689,
     "geom:bbox":"115.538356128,29.8459153739,115.559056041,29.8639591811",
     "geom:latitude":29.854937,
     "geom:longitude":115.548706,
@@ -17,17 +17,56 @@
     "mps:longitude":115.548706,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0634\u064a\u0648\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0989\u099c\u09c1"
+    ],
+    "name:ceb_x_preferred":[
+        "Wuxue"
+    ],
+    "name:dan_x_preferred":[
+        "Wuxue"
+    ],
     "name:deu_x_preferred":[
+        "Wuxue"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03cd\u03ba\u03c3\u03bf\u03c5\u03b5"
+    ],
+    "name:eng_x_preferred":[
         "Wuxue"
     ],
     "name:fas_x_preferred":[
         "\u0648\u0627\u0634\u0648\u06cc"
     ],
+    "name:fin_x_preferred":[
+        "Wuxue"
+    ],
     "name:fra_x_preferred":[
+        "Wuxue"
+    ],
+    "name:gan_x_preferred":[
+        "\u6b66\u7a74\u5e02"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0ac1\u0a95\u0acd\u0ab8\u0acd\u0aaf\u0ac1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0941\u0915\u094d\u0938\u0909\u0907"
+    ],
+    "name:ind_x_preferred":[
+        "Wuxue"
+    ],
+    "name:ita_x_preferred":[
         "Wuxue"
     ],
     "name:jpn_x_preferred":[
         "\u6b66\u7a74\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cc1\u0c95\u0ccd\u0cb8\u0ccd\u0caf\u0cc2"
     ],
     "name:kik_x_preferred":[
         "Wuxue"
@@ -35,7 +74,34 @@
     "name:kor_x_preferred":[
         "\uc6b0\uc250 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc6b0\uc250\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Vusue"
+    ],
+    "name:lit_x_preferred":[
+        "Vusue"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6b66\u7a74\u5e02"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u0942\u0915\u094d\u091d\u0942"
+    ],
     "name:mlg_x_preferred":[
+        "Wuxue"
+    ],
+    "name:msa_x_preferred":[
+        "Wuxue"
+    ],
+    "name:nan_x_preferred":[
+        "B\u00fa-hia\u030dt-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Wuxue"
+    ],
+    "name:nob_x_preferred":[
         "Wuxue"
     ],
     "name:nor_x_preferred":[
@@ -44,14 +110,41 @@
     "name:pam_x_preferred":[
         "Wuxue"
     ],
+    "name:pol_x_preferred":[
+        "Wuxue"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0441\u044e\u044d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd4\u0d9a\u0dca\u0dc3\u0dd4"
+    ],
     "name:srp_x_preferred":[
         "\u0412\u0443\u0441\u0458\u0443\u0435"
     ],
     "name:swe_x_preferred":[
         "Wuxue"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bc1\u0b9a\u0bc2\u0b87"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c41\u0c15\u0c4d\u0c38\u0c41\u0c2f\u0c47"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e27\u0e39\u0e48\u0e40\u0e0b\u0e35\u0e22\u0e30"
+    ],
+    "name:tur_x_preferred":[
+        "Wuxue"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0443\u0441\u0443\u0435"
+    ],
     "name:unk_x_variant":[
         "Kuang-chi-hsien"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0648\u0632\u0648\u06cc"
     ],
     "name:vie_x_preferred":[
         "V\u0169 Huy\u1ec7t"
@@ -59,10 +152,13 @@
     "name:war_x_preferred":[
         "Wuxue"
     ],
-    "name:zho_x_preferred":[
+    "name:wuu_x_preferred":[
         "\u6b66\u7a74\u5e02"
     ],
-    "name:zho_x_variant":[
+    "name:yue_x_preferred":[
+        "\u6b66\u7a74"
+    ],
+    "name:zho_x_preferred":[
         "\u6b66\u7a74\u5e02"
     ],
     "qs:a0":"\u4e2d\u570b",
@@ -113,7 +209,7 @@
         }
     ],
     "wof:id":102027047,
-    "wof:lastmodified":1527637561,
+    "wof:lastmodified":1563393165,
     "wof:name":"Wuxue",
     "wof:parent_id":890514791,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001736,
-    "geom:area_square_m":19899896.173603,
+    "geom:area_square_m":19899896.17361,
     "geom:bbox":"112.353004272,21.6024406967,112.81182518,22.2727102792",
     "geom:latitude":22.010416,
     "geom:longitude":112.636977,
@@ -20,8 +20,20 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u064a\u0634\u0627\u0646"
     ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09be\u0987\u09b6\u09be\u09a8"
+    ],
+    "name:ceb_x_preferred":[
+        "Taishan"
+    ],
+    "name:dan_x_preferred":[
+        "Taishan"
+    ],
     "name:deu_x_preferred":[
         "Taishan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03ca\u03c3\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Taishan"
@@ -29,8 +41,17 @@
     "name:fas_x_preferred":[
         "\u062a\u0627\u06cc\u0634\u0627\u0646"
     ],
+    "name:fin_x_preferred":[
+        "Taishan"
+    ],
     "name:fra_x_preferred":[
         "Taishan"
+    ],
+    "name:gan_x_preferred":[
+        "\u53f0\u5c71\u5e02"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa4\u0abe\u0a88\u0ab6\u0aa8"
     ],
     "name:hak_x_preferred":[
         "Th\u00f2i-s\u00e2n-s\u1e73"
@@ -38,11 +59,23 @@
     "name:heb_x_preferred":[
         "\u05d8\u05d0\u05d9\u05e9\u05d0\u05df"
     ],
+    "name:hin_x_preferred":[
+        "\u0924\u0948\u0936\u093e\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Tajsan"
+    ],
+    "name:ind_x_preferred":[
+        "Taishan"
+    ],
     "name:ita_x_preferred":[
         "Taishan"
     ],
     "name:jpn_x_preferred":[
         "\u53f0\u5c71\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9f\u0cc8\u0cb6\u0ca8\u0ccd"
     ],
     "name:kik_x_preferred":[
         "Taishan"
@@ -50,7 +83,31 @@
     "name:kor_x_preferred":[
         "\ud0c0\uc774\uc0b0 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud0c0\uc774\uc0b0\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Tai\u0161ana"
+    ],
+    "name:lit_x_preferred":[
+        "Tai\u0161anas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0924\u093e\u0936\u0940\u0928"
+    ],
+    "name:msa_x_preferred":[
+        "Taishan"
+    ],
+    "name:mwl_x_preferred":[
+        "Taishan"
+    ],
+    "name:nan_x_preferred":[
+        "T\u00e2i-san-chh\u012b"
+    ],
     "name:nld_x_preferred":[
+        "Taishan"
+    ],
+    "name:nob_x_preferred":[
         "Taishan"
     ],
     "name:nor_x_preferred":[
@@ -65,8 +122,14 @@
     "name:pol_x_preferred":[
         "Taishan"
     ],
+    "name:por_x_preferred":[
+        "Taishan"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0439\u0448\u0430\u043d\u044c"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dba\u0dd2\u0dc1\u0dcf\u0db1\u0dca"
     ],
     "name:spa_x_preferred":[
         "Taishan"
@@ -74,8 +137,23 @@
     "name:swe_x_preferred":[
         "Taishan"
     ],
+    "name:szl_x_preferred":[
+        "Taishan"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bc8\u0b9a\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c48\u0c37\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e44\u0e17 \u0e0a\u0e32\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Taishan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0439\u0448\u0430\u043d\u044c"
     ],
     "name:unk_x_variant":[
         "Hsin-ning"
@@ -85,6 +163,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00e0i S\u01a1n"
+    ],
+    "name:wuu_x_preferred":[
+        "\u53f0\u5c71\u5e02"
     ],
     "name:yue_x_preferred":[
         "\u53f0\u5c71"
@@ -148,7 +229,7 @@
         }
     ],
     "wof:id":102027121,
-    "wof:lastmodified":1527637566,
+    "wof:lastmodified":1563393229,
     "wof:name":"Taishan",
     "wof:parent_id":890514609,
     "wof:placetype":"locality",

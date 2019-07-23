@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000792,
-    "geom:area_square_m":8421795.71246,
+    "geom:area_square_m":8421795.712453,
     "geom:bbox":"120.995729393,30.678507713,121.030334569,30.7177993274",
     "geom:latitude":30.698556,
     "geom:longitude":121.011577,
@@ -21,14 +21,47 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u063a\u0647\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09bf\u0982\u09b9\u09c1"
+    ],
+    "name:dan_x_preferred":[
+        "Pinghu"
+    ],
     "name:deu_x_preferred":[
+        "Pinghu"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03af\u03bd\u03b3\u03ba\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Pinghu"
+    ],
+    "name:fin_x_preferred":[
         "Pinghu"
     ],
     "name:fra_x_preferred":[
         "Pinghu"
     ],
+    "name:gan_x_preferred":[
+        "\u5e73\u6e56\u5e02"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0abf\u0a82\u0a98\u0ac1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u093f\u0902\u0918\u0941"
+    ],
+    "name:ind_x_preferred":[
+        "Pinghu"
+    ],
+    "name:ita_x_preferred":[
+        "Pinghu"
+    ],
     "name:jpn_x_preferred":[
         "\u5e73\u6e56\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0cbf\u0c82\u0c97\u0ccd\u0cb9\u0cc1"
     ],
     "name:kik_x_preferred":[
         "Pinghu"
@@ -36,23 +69,83 @@
     "name:kor_x_preferred":[
         "\ud551\ud6c4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud551\ud6c4\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Ping\u010du"
+    ],
+    "name:lit_x_preferred":[
+        "Pingchu"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u093f\u0902\u0917\u0941"
+    ],
     "name:mlg_x_preferred":[
+        "Pinghu"
+    ],
+    "name:msa_x_preferred":[
+        "Pinghu"
+    ],
+    "name:nan_x_preferred":[
+        "P\u00eang-\u00f4\u0358-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Pinghu"
+    ],
+    "name:nob_x_preferred":[
         "Pinghu"
     ],
     "name:nor_x_preferred":[
         "Pinghu"
     ],
+    "name:pol_x_preferred":[
+        "Pinghu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043d\u0445\u0443"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dd2\u0d9f\u0dd4"
+    ],
     "name:swe_x_preferred":[
         "Pinghu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbf\u0ba9\u0bcd\u0bb9\u0bc1"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c3f\u0c02\u0c17\u0c41"
     ],
     "name:tgl_x_preferred":[
         "Pinghu"
     ],
+    "name:tha_x_preferred":[
+        "\u0e1c\u0e34\u0e07\u0e2b\u0e39"
+    ],
+    "name:tur_x_preferred":[
+        "Pinghu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u043d\u0445\u0443"
+    ],
     "name:unk_x_variant":[
         "\u5e73\u6e56"
     ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0646\u06af\u06be\u0648"
+    ],
     "name:vie_x_preferred":[
         "B\u00ecnh H\u1ed3"
+    ],
+    "name:war_x_preferred":[
+        "Pinghu"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5e73\u6e56\u5e02"
+    ],
+    "name:yue_x_preferred":[
+        "\u5e73\u6e56"
     ],
     "name:zho_x_preferred":[
         "\u5e73\u6e56\u5e02"
@@ -104,7 +197,7 @@
         }
     ],
     "wof:id":102026861,
-    "wof:lastmodified":1527637807,
+    "wof:lastmodified":1563393435,
     "wof:name":"Pinghu",
     "wof:parent_id":890514635,
     "wof:placetype":"locality",

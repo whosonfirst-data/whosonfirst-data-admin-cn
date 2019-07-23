@@ -24,14 +24,23 @@
     "name:afr_x_preferred":[
         "Sjenyang"
     ],
+    "name:afr_x_variant":[
+        "Shenyang"
+    ],
     "name:ara_x_preferred":[
         "\u0634\u0646\u064a\u0627\u0646\u063a"
+    ],
+    "name:ast_x_preferred":[
+        "Shenyang"
     ],
     "name:aze_x_preferred":[
         "\u015eenyanq"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0428\u044d\u043d\u044c\u044f\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u0428\u044d\u043d\u044c\u044f\u043d"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u0987\u09af\u09bc\u09be\u0982"
@@ -104,6 +113,9 @@
     "name:fra_x_preferred":[
         "Shenyang"
     ],
+    "name:gan_x_preferred":[
+        "\u6c88\u9633\u5e02"
+    ],
     "name:glg_x_preferred":[
         "Shenyang"
     ],
@@ -155,12 +167,19 @@
     "name:kik_x_preferred":[
         "Shenyang"
     ],
+    "name:kir_x_preferred":[
+        "\u0428\u044d\u043d\u044c\u044f\u043d"
+    ],
+    "name:kon_x_preferred":[
+        "Shenyang"
+    ],
     "name:kor_x_preferred":[
         "\uc120\uc591"
     ],
     "name:kor_x_variant":[
         "\uc2ec\uc591",
-        "\uc120\uc591 \uc2dc"
+        "\uc120\uc591 \uc2dc",
+        "\uc120\uc591\uc2dc"
     ],
     "name:lat_x_preferred":[
         "Shenyang"
@@ -195,6 +214,9 @@
     "name:mon_x_preferred":[
         "\u0428\u044d\u043d\u044c\u044f\u043d \u0445\u043e\u0442"
     ],
+    "name:mon_x_variant":[
+        "\u0428\u044d\u043d\u044c\u044f\u043d"
+    ],
     "name:mri_x_preferred":[
         "Shenyang"
     ],
@@ -221,6 +243,9 @@
     ],
     "name:oci_x_preferred":[
         "Mukden"
+    ],
+    "name:oss_x_preferred":[
+        "\u0428\u044d\u043d\u044c\u044f\u043d"
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a3c\u0a47\u0a28\u0a2f\u0a3e\u0a02\u0a17"
@@ -314,6 +339,12 @@
     ],
     "name:war_x_preferred":[
         "Shenyang"
+    ],
+    "name:wol_x_preferred":[
+        "Shenyang"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6c88\u9633\u5e02"
     ],
     "name:yue_x_preferred":[
         "\u700b\u967d"
@@ -476,7 +507,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1561752066,
+    "wof:lastmodified":1563393162,
     "wof:megacity":1,
     "wof:name":"Shenyang",
     "wof:parent_id":1108732451,

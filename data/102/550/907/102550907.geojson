@@ -15,8 +15,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0644\u0627\u0633\u0627 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
+    "name:bod_x_preferred":[
+        "\u0f63\u0fb7\u0f0b\u0f66\u0f0b\u0f42\u0f7c\u0f44\u0f0b\u0f51\u0f40\u0f62\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b"
+    ],
     "name:cat_x_preferred":[
         "Aeroport de Lhasa Gonggar"
+    ],
+    "name:ceb_x_preferred":[
+        "Lhasa Gonggar Airport"
     ],
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Lhasa"
@@ -24,11 +30,17 @@
     "name:deu_x_preferred":[
         "Flughafen Lhasa-Gonggar"
     ],
+    "name:eng_x_preferred":[
+        "Lhasa Gonggar Airport"
+    ],
     "name:eus_x_preferred":[
         "Lhasa Gonggar aireportua"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0627\u0633\u0627 \u06af\u0648\u0646\u06af\u0627\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Lhasa-Gonggarin lentoasema"
     ],
     "name:fra_x_preferred":[
         "A\u00e9roport de Lhassa Gonggar"
@@ -48,6 +60,9 @@
     "name:nld_x_preferred":[
         "Luchthaven Lhasa Gonggar"
     ],
+    "name:nob_x_preferred":[
+        "Lhasa Gonggar lufthavn"
+    ],
     "name:nor_x_preferred":[
         "Lhasa Gonggar lufthavn"
     ],
@@ -57,17 +72,29 @@
     "name:por_x_preferred":[
         "Aeroporto de Lhasa Gonggar"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Lhasa Gonggar"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u043d\u0433\u0433\u0430\u0440"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto de Lhasa Gonggar"
     ],
+    "name:swe_x_preferred":[
+        "Lhasa Gonggar Airport"
+    ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u041b\u0430\u0441\u0430 \u0413\u0443\u043d\u0433\u0430\u0440"
     ],
+    "name:tgk_x_variant":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043b\u043e\u0441\u043e \u0433\u0443\u043d\u0433\u043e\u0440"
+    ],
     "name:tha_x_preferred":[
         "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e25\u0e32\u0e0b\u0e32\u0e01\u0e38\u0e07\u0e02\u0e48\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Lhasa Gonggar Havaliman\u0131"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Gonggar Lhasa"
@@ -109,7 +136,7 @@
         }
     ],
     "wof:id":102550907,
-    "wof:lastmodified":1543792156,
+    "wof:lastmodified":1563393089,
     "wof:name":"Gonggar Airport",
     "wof:parent_id":85669747,
     "wof:placetype":"campus",

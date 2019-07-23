@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000265,
-    "geom:area_square_m":2510150.818731,
+    "geom:area_square_m":2510150.818726,
     "geom:bbox":"116.422119141,39.9286946451,116.444091797,39.9455421667",
     "geom:latitude":39.937454,
     "geom:longitude":116.433182,
@@ -28,6 +28,15 @@
     "name:eng_x_preferred":[
         "Dongzhimen"
     ],
+    "name:fra_x_preferred":[
+        "Dongzhimen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6771\u76f4\u9580"
+    ],
+    "name:nob_x_preferred":[
+        "Dongzhimen"
+    ],
     "name:nor_x_preferred":[
         "Dongzhimen"
     ],
@@ -37,6 +46,9 @@
     "name:unk_x_variant":[
         "Dongzhi",
         "Dongzhimen"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0648\u0646\u06af\u0698\u06cc\u0645\u06cc\u0646"
     ],
     "name:zho_x_preferred":[
         "\u4e1c\u76f4\u95e8"
@@ -107,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639107,
+    "wof:lastmodified":1563404360,
     "wof:name":"Dongzhimen",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

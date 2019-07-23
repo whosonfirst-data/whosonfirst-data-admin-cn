@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001235,
-    "geom:area_square_m":13453476.647243,
+    "geom:area_square_m":13453476.64725,
     "geom:bbox":"120.954789897,28.1065722886,121.019105785,28.3279102044",
     "geom:latitude":28.197866,
     "geom:longitude":120.984852,
@@ -18,17 +18,53 @@
     "mps:longitude":121.003418,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u0648\u064a\u0647\u062a\u0634\u064a\u0646\u063a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0987\u0989\u0995\u09bf\u0982"
+    ],
+    "name:dan_x_preferred":[
+        "Yueqing"
+    ],
     "name:deu_x_preferred":[
+        "Yueqing"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03bf\u03c5\u03ad\u03ba\u03b9\u03bd\u03b3\u03ba"
+    ],
+    "name:eng_x_preferred":[
+        "Yueqing"
+    ],
+    "name:fin_x_preferred":[
         "Yueqing"
     ],
     "name:fra_x_preferred":[
         "Yueqing"
     ],
+    "name:gan_x_preferred":[
+        "\u4e50\u6e05\u5e02"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaf\u0ac2\u0a8f\u0a95\u0abf\u0a82\u0a97"
+    ],
     "name:hak_x_preferred":[
         "Lo\u030dk-chh\u00een-s\u1e73"
     ],
+    "name:hin_x_preferred":[
+        "\u092f\u0942\u090f\u0915\u0907\u0902\u0917"
+    ],
+    "name:ind_x_preferred":[
+        "Yueqing"
+    ],
+    "name:ita_x_preferred":[
+        "Yueqing"
+    ],
     "name:jpn_x_preferred":[
         "\u697d\u6e05\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caf\u0cc1\u0c95\u0ccd\u0cb5\u0cbf\u0c82\u0c97\u0ccd"
     ],
     "name:kik_x_preferred":[
         "Yueqing"
@@ -36,29 +72,80 @@
     "name:kor_x_preferred":[
         "\uc6e8\uce6d \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc6e8\uce6d\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Ju\u010dinga"
+    ],
+    "name:lit_x_preferred":[
+        "Ju\u010dingas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092f\u0941\u090f\u0915\u093f\u0902\u0917"
+    ],
     "name:mlg_x_preferred":[
         "Yueqing"
     ],
+    "name:msa_x_preferred":[
+        "Yueqing"
+    ],
+    "name:nan_x_preferred":[
+        "Ga\u030dk-chheng-chh\u012b"
+    ],
     "name:nld_x_preferred":[
+        "Yueqing"
+    ],
+    "name:nob_x_preferred":[
         "Yueqing"
     ],
     "name:nor_x_preferred":[
         "Yueqing"
     ],
+    "name:pol_x_preferred":[
+        "Yueqing"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dba\u0dd4\u0d89\u0d9a\u0dd4\u0d89\u0d82\u0d9c\u0dca"
+    ],
     "name:swe_x_preferred":[
         "Yueqing"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baf\u0bc1\u0bb5\u0bc7\u0b95\u0bbf\u0b99\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2f\u0c41\u0c0e\u0c15\u0c4d\u0c2f\u0c3f\u0c02\u0c17\u0c4d"
     ],
     "name:tgl_x_preferred":[
         "Yueqing"
     ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e22\u0e27\u0e48\u0e09\u0e34\u0e07"
+    ],
     "name:tur_x_preferred":[
         "Yueqing"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042e\u0435\u0446\u0438\u043d"
     ],
     "name:unk_x_variant":[
         "Lo-ch\u2019ing"
     ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0648\u06cc\u0642\u06cc\u0646\u062c"
+    ],
     "name:vie_x_preferred":[
         "Nh\u1ea1c Thanh"
+    ],
+    "name:war_x_preferred":[
+        "Yueqing"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e50\u6e05"
+    ],
+    "name:yue_x_preferred":[
+        "\u6a02\u6e05"
     ],
     "name:zho_x_preferred":[
         "\u4e50\u6e05\u5e02"
@@ -109,7 +196,7 @@
         }
     ],
     "wof:id":102026947,
-    "wof:lastmodified":1527637809,
+    "wof:lastmodified":1563393443,
     "wof:name":"Yueqing",
     "wof:parent_id":890514289,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001456,
-    "geom:area_square_m":14343950.28111,
+    "geom:area_square_m":14343950.281103,
     "geom:bbox":"78.2717637866,36.9891511407,80.8211751736,37.6188831481",
     "geom:latitude":37.198481,
     "geom:longitude":79.753084,
@@ -23,10 +23,16 @@
     "name:aze_x_preferred":[
         "Xotan"
     ],
+    "name:aze_x_variant":[
+        "Xot\u0259n"
+    ],
     "name:bul_x_preferred":[
         "\u0425\u043e\u0442\u0430\u043d"
     ],
     "name:cat_x_preferred":[
+        "Hotan"
+    ],
+    "name:ceb_x_preferred":[
         "Hotan"
     ],
     "name:ces_x_preferred":[
@@ -63,6 +69,9 @@
     "name:fry_x_preferred":[
         "Hotan"
     ],
+    "name:gan_x_preferred":[
+        "\u548c\u7530\u5e02"
+    ],
     "name:hbs_x_preferred":[
         "Hotan"
     ],
@@ -90,14 +99,35 @@
     "name:kor_x_preferred":[
         "\ud5c8\ud188 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud5c8\ud188\uc2dc"
+    ],
     "name:lit_x_preferred":[
         "Hotanas"
+    ],
+    "name:lit_x_variant":[
+        "Hetianas"
+    ],
+    "name:mlg_x_preferred":[
+        "Hotan"
+    ],
+    "name:nan_x_preferred":[
+        "Hotan-chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Hotan"
     ],
+    "name:nob_x_preferred":[
+        "Hotan"
+    ],
     "name:nor_x_preferred":[
         "Hotan"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a16\u0a3c\u0a4b\u0a24\u0a3e\u0a28"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062e\u0648\u062a\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "Hoten"
@@ -116,6 +146,9 @@
     ],
     "name:spa_x_preferred":[
         "Ciudad de Jot\u00e1n"
+    ],
+    "name:spa_x_variant":[
+        "Jot\u00e1n"
     ],
     "name:swe_x_preferred":[
         "Khotan"
@@ -146,6 +179,12 @@
     ],
     "name:war_x_preferred":[
         "Hetian"
+    ],
+    "name:wuu_x_preferred":[
+        "\u548c\u7530\u5e02"
+    ],
+    "name:yue_x_preferred":[
+        "\u548c\u95d0"
     ],
     "name:zho_x_preferred":[
         "\u548c\u7530\u5e02"
@@ -300,7 +339,7 @@
         }
     ],
     "wof:id":102026813,
-    "wof:lastmodified":1527637813,
+    "wof:lastmodified":1563393463,
     "wof:megacity":0,
     "wof:name":"Hotan",
     "wof:parent_id":1108732387,

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000344,
-    "geom:area_square_m":3118658.728286,
+    "geom:area_square_m":3118658.728284,
     "geom:bbox":"93.4869074433,42.8387737153,93.511383539,42.8567836926",
     "geom:latitude":42.847779,
     "geom:longitude":93.499146,
@@ -20,8 +20,29 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.0,
+    "name:bul_x_preferred":[
+        "\u0425\u0430\u043c\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Hami"
+    ],
+    "name:ceb_x_preferred":[
+        "Hami"
+    ],
+    "name:ces_x_preferred":[
+        "Chami"
+    ],
+    "name:cym_x_preferred":[
+        "Ardal Yizhou"
+    ],
+    "name:dan_x_preferred":[
+        "Kumul"
+    ],
     "name:deu_x_preferred":[
         "Kumul"
+    ],
+    "name:deu_x_variant":[
+        "Yizhou"
     ],
     "name:eng_x_colloquial":[
         ""
@@ -42,25 +63,68 @@
         "Koumoul",
         "Kumul",
         "Qomul",
-        "Qumul"
+        "Qumul",
+        "Yizhou District"
     ],
     "name:fra_x_preferred":[
         "Hami"
     ],
+    "name:gan_x_preferred":[
+        "\u4f0a\u5dde\u533a"
+    ],
+    "name:hun_x_preferred":[
+        "Komul"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u0579\u056a\u0578\u0578\u0582"
+    ],
+    "name:ita_x_preferred":[
+        "Kumul"
+    ],
     "name:jpn_x_preferred":[
         "\u30af\u30e0\u30eb\u5e02"
+    ],
+    "name:jpn_x_variant":[
+        "\u4f0a\u5dde\u533a"
+    ],
+    "name:kik_x_preferred":[
+        "Hami City"
     ],
     "name:kor_x_preferred":[
         "\ud558\ubbf8"
     ],
+    "name:kor_x_variant":[
+        "\uc774\uc800\uc6b0\uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Kumulas"
+    ],
+    "name:nan_x_preferred":[
+        "I-chiu-khu"
+    ],
     "name:nld_x_preferred":[
         "Hami"
+    ],
+    "name:nob_x_preferred":[
+        "Kumul"
     ],
     "name:pol_x_preferred":[
         "Hami"
     ],
+    "name:por_x_preferred":[
+        "Kumul"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u043c\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0418\u0447\u0436\u043e\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Hami"
+    ],
+    "name:tur_x_preferred":[
+        "Kumul"
     ],
     "name:uig_x_preferred":[
         "\u0642\u06c7\u0645\u06c7\u0644 \u0634\u06d5\u06be\u0649\u0631\u0649"
@@ -70,15 +134,31 @@
         "\u0642\u06c7\u0645\u06c7\u0644",
         "\u049a\u0443\u043c\u0443\u043b"
     ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u043c\u0456"
+    ],
     "name:unk_x_variant":[
         "Ha-mi-ch\u2019eng-chen"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0627\u0645\u06cc \u0634\u06c1\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Y Ch\u00e2u"
+    ],
+    "name:war_x_preferred":[
+        "Kumul"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4f0a\u5dde\u533a"
     ],
     "name:zho_x_preferred":[
         "\u54c8\u5bc6\u5e02"
     ],
     "name:zho_x_variant":[
         "\u54c8\u5bc6",
-        "\u54c8\u5bc6\u5730\u533a"
+        "\u54c8\u5bc6\u5730\u533a",
+        "\u4f0a\u5dde\u533a"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -226,7 +306,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1505338992,
+    "wof:lastmodified":1563393439,
     "wof:megacity":0,
     "wof:name":"Hami",
     "wof:parent_id":1108732389,

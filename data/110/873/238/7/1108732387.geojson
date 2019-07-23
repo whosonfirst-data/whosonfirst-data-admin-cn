@@ -54,6 +54,9 @@
     "name:eng_x_preferred":[
         "Hetian"
     ],
+    "name:eng_x_variant":[
+        "Hotan Prefecture"
+    ],
     "name:est_x_preferred":[
         "Hotani ringkond"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:fra_x_preferred":[
         "pr\u00e9fecture de Hotan"
+    ],
+    "name:gan_x_preferred":[
+        "\u548c\u7530\u5730\u533a"
     ],
     "name:hin_x_preferred":[
         "\u0916\u093c\u094b\u0924\u093e\u0928 \u0935\u093f\u092d\u093e\u0917"
@@ -105,11 +111,17 @@
     "name:rus_x_preferred":[
         "\u0425\u043e\u0442\u0430\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u043e\u043a\u0440\u0443\u0433 \u0425\u043e\u0442\u0430\u043d"
+    ],
     "name:spa_x_preferred":[
         "Prefectura de Jot\u00e1n"
     ],
     "name:swe_x_preferred":[
         "Hotan"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u04e9\u0442\u04d9\u043d \u0431\u04af\u043b\u0433\u0435\u0441\u0435"
     ],
     "name:tur_x_preferred":[
         "Hotan \u0130li"
@@ -125,6 +137,12 @@
     ],
     "name:vie_x_preferred":[
         "Hotan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u548c\u7530\u5730\u533a"
+    ],
+    "name:yue_x_preferred":[
+        "\u548c\u95d0\u5730\u5340"
     ],
     "name:zho_x_preferred":[
         "\u548c\u7530\u5730\u533a"
@@ -167,7 +185,7 @@
         }
     ],
     "wof:id":1108732387,
-    "wof:lastmodified":1561753288,
+    "wof:lastmodified":1563445118,
     "wof:name":"Hetian",
     "wof:parent_id":85669753,
     "wof:placetype":"county",

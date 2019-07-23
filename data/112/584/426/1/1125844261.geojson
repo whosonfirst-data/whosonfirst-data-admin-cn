@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0627\u0648\u064a\u0627\u0646\u063a"
     ],
+    "name:bel_x_preferred":[
+        "\u041b\u044f\u0430\u044f\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u09af\u09bc\u09be\u0993\u0987\u09af\u09bc\u09be\u0982"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:cdo_x_preferred":[
         "Li\u00e8u-i\u00f2ng"
+    ],
+    "name:ceb_x_preferred":[
+        "Liaoyang"
     ],
     "name:ces_x_preferred":[
         "Liao-jang"
@@ -67,6 +73,9 @@
     "name:fra_x_preferred":[
         "Liaoyang"
     ],
+    "name:gan_x_preferred":[
+        "\u8fbd\u9633\u5e02"
+    ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0aaf\u0abe\u0a93\u0aaf\u0a82\u0a97"
     ],
@@ -85,11 +94,17 @@
     "name:kan_x_preferred":[
         "\u0cb2\u0cbf\u0caf\u0cbe\u0caf\u0cbe\u0c82\u0c97\u0ccd"
     ],
+    "name:kaz_x_preferred":[
+        "\u041b\u044f\u043e\u044f\u043d"
+    ],
     "name:kik_x_preferred":[
         "Liaoyang"
     ],
     "name:kor_x_preferred":[
         "\ub7b4\uc624\uc591 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ub7b4\uc624\uc591\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Liaod\u017eanga"
@@ -232,7 +247,7 @@
         }
     ],
     "wof:id":1125844261,
-    "wof:lastmodified":1561753713,
+    "wof:lastmodified":1563459965,
     "wof:name":"Liaoyangxian",
     "wof:parent_id":890514643,
     "wof:placetype":"locality",

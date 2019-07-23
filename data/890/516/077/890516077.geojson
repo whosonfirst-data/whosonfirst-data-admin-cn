@@ -26,6 +26,9 @@
     "name:cdo_x_preferred":[
         "\u012c-ch\u016dng"
     ],
+    "name:ceb_x_preferred":[
+        "Yichun"
+    ],
     "name:ces_x_preferred":[
         "I-\u010dchun"
     ],
@@ -53,6 +56,9 @@
     "name:fra_x_preferred":[
         "Yichun"
     ],
+    "name:gan_x_preferred":[
+        "\u4f0a\u6625\u5e02"
+    ],
     "name:guj_x_preferred":[
         "\u0aaf\u0ac0\u0a9a\u0ac1\u0a82"
     ],
@@ -79,6 +85,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc774\ucd98 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc774\ucd98\uc2dc"
     ],
     "name:lav_x_preferred":[
         "I\u010duna"
@@ -149,11 +158,17 @@
     "name:urd_x_preferred":[
         "\u06cc\u06a9\u06be\u0646\u060c \u06c1\u06cc\u0644\u0648\u0646\u06af\u062c\u06cc\u0627\u0646\u06af"
     ],
+    "name:urd_x_variant":[
+        "\u06cc\u06a9\u06be\u0646"
+    ],
     "name:vie_x_preferred":[
         "Y Xu\u00e2n"
     ],
     "name:war_x_preferred":[
         "Yichun"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4f0a\u6625\u5e02"
     ],
     "name:yue_x_preferred":[
         "\u4f0a\u6625"
@@ -295,7 +310,7 @@
         }
     ],
     "wof:id":890516077,
-    "wof:lastmodified":1561753685,
+    "wof:lastmodified":1563459200,
     "wof:name":"\u4f0a\u6625",
     "wof:parent_id":890515199,
     "wof:placetype":"locality",

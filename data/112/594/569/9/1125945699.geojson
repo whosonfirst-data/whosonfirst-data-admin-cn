@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u064a\u0627\u0646\u062a\u0627\u0649"
     ],
+    "name:ast_x_preferred":[
+        "Yant\u00e1i"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09af\u09bc\u09be\u09a8\u09cd\u09a4\u09be\u0987"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:ces_x_preferred":[
         "Jen-tchaj"
+    ],
+    "name:cym_x_preferred":[
+        "Yantai"
     ],
     "name:dan_x_preferred":[
         "Yantai"
@@ -63,6 +69,9 @@
     ],
     "name:fra_x_preferred":[
         "Yantai"
+    ],
+    "name:gan_x_preferred":[
+        "\u70df\u53f0\u5e02"
     ],
     "name:guj_x_preferred":[
         "\u0aaf\u0abe\u0a82\u0aa4\u0abe\u0a88"
@@ -93,7 +102,8 @@
     ],
     "name:kor_x_variant":[
         "\uc5f0\ud0dc",
-        "\uc5f0\ub300"
+        "\uc5f0\ub300",
+        "\uc60c\ud0c0\uc774\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Jantai"
@@ -107,8 +117,14 @@
     "name:mar_x_preferred":[
         "\u092f\u0902\u0924\u093e\u0908"
     ],
+    "name:mlg_x_preferred":[
+        "Yantai"
+    ],
     "name:msa_x_preferred":[
         "Yantai"
+    ],
+    "name:mya_x_preferred":[
+        "\u101a\u1014\u103a\u1010\u102d\u102f\u1004\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nan_x_preferred":[
         "Ian-t\u00e2i-chh\u012b"
@@ -139,6 +155,9 @@
     ],
     "name:spa_x_preferred":[
         "Yant\u00e1i"
+    ],
+    "name:spa_x_variant":[
+        "Yantai"
     ],
     "name:srp_x_preferred":[
         "\u0408\u0430\u043d\u0442\u0430\u0458"
@@ -176,11 +195,17 @@
     "name:vep_x_preferred":[
         "Jantai"
     ],
+    "name:vep_x_variant":[
+        "Jan'tai"
+    ],
     "name:vie_x_preferred":[
         "Y\u00ean \u0110\u00e0i"
     ],
     "name:war_x_preferred":[
         "Yantai"
+    ],
+    "name:wuu_x_preferred":[
+        "\u70df\u53f0\u5e02"
     ],
     "name:yue_x_preferred":[
         "\u7159\u81fa"
@@ -243,7 +268,7 @@
         }
     ],
     "wof:id":1125945699,
-    "wof:lastmodified":1561753712,
+    "wof:lastmodified":1563459940,
     "wof:name":"\u70df\u53f0",
     "wof:parent_id":890516301,
     "wof:placetype":"locality",

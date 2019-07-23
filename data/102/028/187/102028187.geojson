@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000535,
-    "geom:area_square_m":5836018.775213,
+    "geom:area_square_m":5836018.775206,
     "geom:bbox":"121.042676312,28.1550105525,121.074023964,28.1827394027",
     "geom:latitude":28.168875,
     "geom:longitude":121.05835,
@@ -20,6 +20,9 @@
     "mz:is_current":-1,
     "name:deu_x_preferred":[
         "Yueqin"
+    ],
+    "name:eng_x_preferred":[
+        "yueqin"
     ],
     "name:epo_x_preferred":[
         "Jue\u0109ino"
@@ -36,6 +39,15 @@
     "name:kor_x_preferred":[
         "\uc6d4\uae08"
     ],
+    "name:nan_x_preferred":[
+        "Goe\u030dh-kh\u00eem"
+    ],
+    "name:nld_x_preferred":[
+        "Yueqin"
+    ],
+    "name:nob_x_preferred":[
+        "Yueqin"
+    ],
     "name:nor_x_preferred":[
         "Yueqin"
     ],
@@ -44,6 +56,12 @@
     ],
     "name:rus_x_preferred":[
         "\u042e\u044d\u0446\u0438\u043d\u044c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042e\u0435\u0446\u0438\u043d\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00e0n nguy\u1ec7t"
     ],
     "name:zho_min_nan_x_preferred":[
         "Goe\u030dh-kh\u00eem"
@@ -91,7 +109,7 @@
         }
     ],
     "wof:id":102028187,
-    "wof:lastmodified":1527637788,
+    "wof:lastmodified":1563393392,
     "wof:name":"Yueqin",
     "wof:parent_id":890514289,
     "wof:placetype":"locality",

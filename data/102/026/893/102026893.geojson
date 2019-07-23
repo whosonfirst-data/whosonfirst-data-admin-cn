@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000314,
-    "geom:area_square_m":3123046.874367,
+    "geom:area_square_m":3123046.874368,
     "geom:bbox":"105.62786411,36.549173095,105.650212029,36.5672021721",
     "geom:latitude":36.558188,
     "geom:longitude":105.639038,
@@ -18,6 +18,12 @@
     "mps:longitude":105.639038,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u0648\u0646\u063a \u0648\u0649"
+    ],
+    "name:ben_x_preferred":[
+        "\u099d\u0982\u0989\u0987"
+    ],
     "name:cdo_x_preferred":[
         "D\u1e73\u0306ng-\u00f4i"
     ],
@@ -30,13 +36,34 @@
     "name:deu_x_preferred":[
         "Zhongwei"
     ],
+    "name:ell_x_preferred":[
+        "\u0396\u03bf\u03bd\u03b3\u03ba\u03b3\u03bf\u03c5\u03ad\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Zhongwei"
+    ],
     "name:eus_x_preferred":[
         "Zhongwei"
+    ],
+    "name:fas_x_preferred":[
+        "\u0698\u0627\u0646\u06af\u0648\u06cc"
     ],
     "name:fin_x_preferred":[
         "Zhongwei"
     ],
     "name:fra_x_preferred":[
+        "Zhongwei"
+    ],
+    "name:gan_x_preferred":[
+        "\u4e2d\u536b\u5e02"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9d\u0acb\u0a82\u0a97\u0ab5\u0ac7\u0a87"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093c\u094d\u0939\u094b\u0902\u0917\u0935\u0947\u0908"
+    ],
+    "name:ind_x_preferred":[
         "Zhongwei"
     ],
     "name:ita_x_preferred":[
@@ -48,16 +75,37 @@
     "name:jpn_x_variant":[
         "\u4e2d\u885b"
     ],
+    "name:kan_x_preferred":[
+        "\u0c9d\u0ccb\u0ca8\u0ccd\u0c97\u0ccd\u0cb5\u0cc7\u0caf\u0ccd"
+    ],
     "name:kik_x_preferred":[
         "Zhongwei"
     ],
     "name:kor_x_preferred":[
         "\uc911\uc6e8\uc774 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc911\uc6e8\uc774\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "\u017dongveija"
+    ],
+    "name:lit_x_preferred":[
+        "D\u017eongv\u0117jus"
+    ],
+    "name:mar_x_preferred":[
+        "\u091d\u094b\u0902\u0917\u0935\u0947\u0908"
+    ],
+    "name:msa_x_preferred":[
+        "Zhongwei"
+    ],
     "name:nan_x_preferred":[
         "Tiong-o\u0113-chh\u012b"
     ],
     "name:nld_x_preferred":[
+        "Zhongwei"
+    ],
+    "name:nob_x_preferred":[
         "Zhongwei"
     ],
     "name:nor_x_preferred":[
@@ -72,14 +120,29 @@
     "name:rus_x_preferred":[
         "\u0427\u0436\u0443\u043d\u0432\u044d\u0439"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0ddc\u0db1\u0dca\u0d9c\u0dca\u0dc0\u0dd9\u0dba\u0dd2"
+    ],
     "name:spa_x_preferred":[
         "Zhongwei"
     ],
     "name:swe_x_preferred":[
         "Zhongwei"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb7\u0bcb\u0b99\u0bcd\u0bb5\u0bc6\u0baf\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c4d\u0c39\u0c4a\u0c02\u0c17\u0c4d\u0c35\u0c47\u0c2f\u0c3f"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e07\u0e40\u0e2b\u0e27\u0e48\u0e22"
+    ],
     "name:tur_x_preferred":[
         "Zhongwei"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0436\u0443\u043d\u0432\u0435\u0439"
     ],
     "name:unk_x_variant":[
         "Chung-wei"
@@ -89,6 +152,9 @@
     ],
     "name:vie_x_preferred":[
         "Trung V\u1ec7"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e2d\u536b\u5e02"
     ],
     "name:yue_x_preferred":[
         "\u4e2d\u885b\u5e02"
@@ -146,7 +212,7 @@
         }
     ],
     "wof:id":102026893,
-    "wof:lastmodified":1527637808,
+    "wof:lastmodified":1563393438,
     "wof:name":"Zhongwei",
     "wof:parent_id":890512733,
     "wof:placetype":"locality",

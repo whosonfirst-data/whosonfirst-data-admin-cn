@@ -49,6 +49,9 @@
     "name:fra_x_preferred":[
         "Luoyang"
     ],
+    "name:gan_x_preferred":[
+        "\u7f57\u9633\u9547"
+    ],
     "name:heb_x_preferred":[
         "\u05dc\u05d5\u05d5-\u05d9\u05d0\u05e0\u05d2"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u6d1b\u967d\u5e02"
+    ],
+    "name:jpn_x_variant":[
+        "\u7f85\u967d\u93ae"
     ],
     "name:kat_x_preferred":[
         "\u10da\u10dd\u10d8\u10d0\u10dc\u10d8"
@@ -130,6 +136,9 @@
     "name:wuu_x_preferred":[
         "\u6d1b\u9633"
     ],
+    "name:wuu_x_variant":[
+        "\u7f57\u9633\u9547"
+    ],
     "name:yue_x_preferred":[
         "\u6d1b\u967d"
     ],
@@ -182,7 +191,7 @@
         }
     ],
     "wof:id":890513495,
-    "wof:lastmodified":1561753703,
+    "wof:lastmodified":1563459647,
     "wof:name":"\u6d1b\u9633",
     "wof:parent_id":890516563,
     "wof:placetype":"locality",

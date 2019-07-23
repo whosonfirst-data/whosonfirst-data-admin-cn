@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000376,
-    "geom:area_square_m":3115000.920648,
+    "geom:area_square_m":3115000.920644,
     "geom:bbox":"122.720360829,47.9846006605,122.74716849,48.0025948607",
     "geom:latitude":47.993598,
     "geom:longitude":122.733765,
@@ -18,23 +18,89 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u0632\u0627\u0644\u0627\u0646\u062a\u0648\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09be\u09a8\u09be\u09a4\u09c1\u09a8"
+    ],
+    "name:ceb_x_preferred":[
+        "Zalantun"
+    ],
+    "name:dan_x_preferred":[
+        "Zalantun"
+    ],
     "name:deu_x_preferred":[
         "Zalantun"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b1\u03bb\u03ac\u03bd\u03c4\u03bf\u03c5\u03bd"
     ],
     "name:eng_x_preferred":[
         "Zhalantun"
     ],
+    "name:eng_x_variant":[
+        "Zalantun"
+    ],
+    "name:fin_x_preferred":[
+        "Zalantun"
+    ],
     "name:fra_x_preferred":[
+        "Zhalantun"
+    ],
+    "name:gan_x_preferred":[
+        "\u624e\u5170\u5c6f\u5e02"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9d\u0abe\u0ab2\u0a82\u0a9f\u0ac1\u0aa8"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093c\u0932\u093e\u0928\u0924\u0941\u0928"
+    ],
+    "name:ind_x_preferred":[
+        "Zalantun"
+    ],
+    "name:ita_x_preferred":[
         "Zhalantun"
     ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e3\u30e9\u30f3\u30c8\u30f3\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9c\u0cb2\u0cbe\u0c82\u0ca4\u0cc2\u0ca8\u0ccd"
     ],
     "name:kik_x_preferred":[
         "Zhalantun"
     ],
     "name:kor_x_preferred":[
         "\uc790\ub780\ud230 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc790\ub780\ud230\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "\u010c\u017ealantu\u0146a"
+    ],
+    "name:lit_x_preferred":[
+        "Zalantunas"
+    ],
+    "name:mar_x_preferred":[
+        "\u091d\u0932\u0902\u091f\u0941\u0928"
+    ],
+    "name:mon_x_preferred":[
+        "\u0416\u0430\u043b\u0430\u043d-\u0410\u0439\u043b \u0445\u043e\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Zalantun"
+    ],
+    "name:nan_x_preferred":[
+        "Zhalantun Chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Zalantun"
+    ],
+    "name:nob_x_preferred":[
+        "Zhalantun"
     ],
     "name:nor_x_preferred":[
         "Zhalantun"
@@ -45,11 +111,35 @@
     "name:pol_x_preferred":[
         "Zhalantun"
     ],
+    "name:por_x_preferred":[
+        "Zhalantun"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0436\u0430\u043b\u0430\u043d\u044c\u0442\u0443\u043d\u044c"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dbd\u0db1\u0dca\u0da7\u0dd4\u0db1\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Zhalantun"
+    ],
     "name:swe_x_preferred":[
         "Zhalantun"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9c\u0bbe\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1\u0ba8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c3e\u0c32\u0c3e\u0c28\u0c4d\u0c24\u0c41\u0c02"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e25\u0e31\u0e19\u0e15\u0e38\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Zalantun"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0436\u0430\u043b\u0430\u043d\u044c\u0442\u0443\u043d\u044c"
     ],
     "name:unk_x_variant":[
         "Ya-lu-hsien"
@@ -62,6 +152,9 @@
     ],
     "name:war_x_preferred":[
         "Zhalantun"
+    ],
+    "name:wuu_x_preferred":[
+        "\u624e\u5170\u5c6f\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u624e\u5170\u5c6f\u5e02"
@@ -208,7 +301,7 @@
         }
     ],
     "wof:id":102027849,
-    "wof:lastmodified":1527637569,
+    "wof:lastmodified":1563393293,
     "wof:name":"Zalantun",
     "wof:parent_id":1108732385,
     "wof:placetype":"locality",

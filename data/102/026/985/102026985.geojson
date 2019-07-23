@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002294,
-    "geom:area_square_m":24706928.325469,
+    "geom:area_square_m":24706928.325467,
     "geom:bbox":"117.790602605,29.2629999991,117.997986508,29.5394743061",
     "geom:latitude":29.407601,
     "geom:longitude":117.865915,
@@ -26,11 +26,20 @@
     "name:afr_x_variant":[
         "Sjangrao"
     ],
+    "name:ara_x_preferred":[
+        "\u0634\u0627\u0646\u063a\u0631\u0627\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u0982\u09b0\u09be\u0993"
+    ],
     "name:cat_x_preferred":[
         "Shangrao"
     ],
     "name:cdo_x_preferred":[
         "Si\u00f4ng-ngi\u00e8u"
+    ],
+    "name:ceb_x_preferred":[
+        "Shangrao"
     ],
     "name:ces_x_preferred":[
         "\u0160ang-\u017eao"
@@ -40,6 +49,9 @@
     ],
     "name:deu_x_preferred":[
         "Shangrao"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd\u03b3\u03ba\u03c1\u03ac\u03bf"
     ],
     "name:eng_x_preferred":[
         "Shangrao"
@@ -59,8 +71,20 @@
     "name:gan_x_preferred":[
         "\u4e0a\u9952"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab6\u0abe\u0a82\u0a97\u0ab0\u0abe\u0a93"
+    ],
     "name:hak_x_preferred":[
         "Song-ngi\u00e8u-s\u1e73"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d0\u05e0\u05d2\u05d6'\u05d0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0936\u0919\u094d\u0917\u094d\u0930\u094b"
+    ],
+    "name:ind_x_preferred":[
+        "Shangrao"
     ],
     "name:ita_x_preferred":[
         "Shangrao"
@@ -68,13 +92,31 @@
     "name:jpn_x_preferred":[
         "\u4e0a\u9952\u5e02"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb6\u0cbe\u0c82\u0c97\u0ccd\u0cb0\u0cbe\u0cb5\u0cca"
+    ],
     "name:kik_x_preferred":[
         "Shangrao"
     ],
     "name:kor_x_preferred":[
         "\uc0c1\ub77c\uc624 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc0c1\ub77c\uc624\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "\u0160angrao"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160angrao"
+    ],
+    "name:mar_x_preferred":[
+        "\u0936\u0902\u0917\u093e\u0930\u093e\u0913"
+    ],
     "name:mlg_x_preferred":[
+        "Shangrao"
+    ],
+    "name:msa_x_preferred":[
         "Shangrao"
     ],
     "name:nan_x_preferred":[
@@ -86,6 +128,9 @@
     "name:nno_x_preferred":[
         "Shangrao"
     ],
+    "name:nob_x_preferred":[
+        "Shangrao"
+    ],
     "name:nor_x_preferred":[
         "Shangrao"
     ],
@@ -94,6 +139,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0428\u0430\u043d\u0436\u0430\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc1\u0dd0\u0db1\u0dca\u0d9c\u0dca\u0dbb\u0dcf\u0d95"
     ],
     "name:spa_x_preferred":[
         "Shangrao"
@@ -104,8 +152,20 @@
     "name:swe_x_preferred":[
         "Shangrao"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb7\u0bbe\u0b99\u0bcd\u0bb0\u0bbe\u0bb5\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c37\u0c3e\u0c28\u0c4d\u0c17\u0c4d\u0c30\u0c4b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e09\u0e32\u0e07\u0e40\u0e23\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Shangrao"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u043d\u0436\u0430\u043e"
     ],
     "name:unk_x_variant":[
         "Shang-jao-hsien"
@@ -279,7 +339,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1527637809,
+    "wof:lastmodified":1563393444,
     "wof:name":"Shangrao",
     "wof:parent_id":890515869,
     "wof:placetype":"locality",

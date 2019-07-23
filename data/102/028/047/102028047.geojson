@@ -21,14 +21,23 @@
     "name:afr_x_preferred":[
         "Hezhou"
     ],
+    "name:afr_x_variant":[
+        "Hetsjou"
+    ],
     "name:ara_x_preferred":[
         "\u0647\u064a\u0634\u0648"
     ],
     "name:ben_x_preferred":[
         "\u09b9\u09c7\u099d\u09c1"
     ],
+    "name:cat_x_preferred":[
+        "Hezhou"
+    ],
     "name:cdo_x_preferred":[
         "H\u00f4\u0324-ci\u016d"
+    ],
+    "name:ceb_x_preferred":[
+        "Hezhou"
     ],
     "name:ces_x_preferred":[
         "Che-\u010dou"
@@ -57,11 +66,17 @@
     "name:fra_x_preferred":[
         "Hezhou"
     ],
+    "name:gan_x_preferred":[
+        "\u8d3a\u5dde\u5e02"
+    ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac7\u0a9d\u0acb\u0a89"
     ],
     "name:hak_x_preferred":[
         "Fo-ch\u00fb-s\u1e73"
+    ],
+    "name:hak_x_variant":[
+        "Fo-chiu-s\u1e73"
     ],
     "name:hin_x_preferred":[
         "\u0939\u0947\u091c\u093c\u0939\u094b\u0909"
@@ -83,6 +98,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud5c8\uc800\uc6b0 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ud5c8\uc800\uc6b0\uc2dc"
     ],
     "name:lav_x_preferred":[
         "He\u010d\u017eou"
@@ -150,6 +168,9 @@
     "name:vie_x_preferred":[
         "H\u1ea1 Ch\u00e2u"
     ],
+    "name:wuu_x_preferred":[
+        "\u8d3a\u5dde\u5e02"
+    ],
     "name:yue_x_preferred":[
         "\u8cc0\u5dde"
     ],
@@ -206,7 +227,7 @@
         }
     ],
     "wof:id":102028047,
-    "wof:lastmodified":1561752080,
+    "wof:lastmodified":1563393386,
     "wof:name":"Hezhou",
     "wof:parent_id":890515189,
     "wof:placetype":"locality",
