@@ -31,6 +31,12 @@
     "name:bod_x_variant":[
         "Molo Zhen"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0644\u0648"
+    ],
+    "name:msa_x_preferred":[
+        "Bolo"
+    ],
     "name:und_x_variant":[
         "Kung-chiao",
         "Gonjo",
@@ -41,7 +47,8 @@
         "\u83ab\u6d1b"
     ],
     "name:zho_x_variant":[
-        "\u83ab\u843d\u9547"
+        "\u83ab\u843d\u9547",
+        "\u83ab\u6d1b\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +76,7 @@
         }
     ],
     "wof:id":1343532041,
-    "wof:lastmodified":1537591534,
+    "wof:lastmodified":1564180023,
     "wof:name":"Molo",
     "wof:parent_id":890514545,
     "wof:placetype":"locality",

@@ -25,12 +25,43 @@
     "iso:country":"CN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Qinggil"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0686\u06cc\u0646\u06af\u06cc\u0644"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30f3\u30ae\u30eb\u770c"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u0456\u04a3\u0433\u0456\u043b"
+    ],
+    "name:kor_x_preferred":[
+        "\uce6d\ud5c8\ud604"
+    ],
+    "name:mon_x_preferred":[
+        "\u0427\u0438\u043d\u0433\u044d\u043b \u0448\u044f\u043d\u044c"
+    ],
+    "name:nor_x_preferred":[
+        "Qinggil"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u043d\u0433\u0438\u043b\u044c"
+    ],
+    "name:swe_x_preferred":[
+        "Qinggil"
+    ],
+    "name:tur_x_preferred":[
+        "\u00c7inggil \u0130l\u00e7esi"
+    ],
     "name:uig_x_preferred":[
         "Chinggil"
     ],
     "name:uig_x_variant":[
         "\u0686\u0649\u06ad\u06af\u0649\u0644",
-        "\u0427\u0438\u04a3\u0433\u0438\u043b"
+        "\u0427\u0438\u04a3\u0433\u0438\u043b",
+        "\u0686\u0649\u06ad\u06af\u0649\u0644 \u0646\u0627\u06be\u0649\u064a\u0649\u0633\u0649"
     ],
     "name:und_x_variant":[
         "Chingil\u2019",
@@ -42,11 +73,18 @@
         "Qinghe",
         "Qinghe Zhen"
     ],
+    "name:urd_x_preferred":[
+        "\u0686\u0646\u06af\u06cc\u0644 \u06a9\u0627\u0624\u0646\u0679\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Qinggil"
+    ],
     "name:zho_x_preferred":[
         "\u9752\u6cb3"
     ],
     "name:zho_x_variant":[
-        "\u9752\u6cb3\u9547"
+        "\u9752\u6cb3\u9547",
+        "\u9752\u6cb3\u53bf"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +112,7 @@
         }
     ],
     "wof:id":1226617405,
-    "wof:lastmodified":1537591577,
+    "wof:lastmodified":1564274086,
     "wof:name":"Qinghe",
     "wof:parent_id":1108732531,
     "wof:placetype":"locality",

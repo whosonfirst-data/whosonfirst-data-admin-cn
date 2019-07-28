@@ -25,17 +25,27 @@
     "iso:country":"CN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Luzhi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30af\u76f4\u93ae"
+    ],
     "name:und_x_variant":[
         "Hezhai",
         "Luzhi",
         "Luzhi Xiang"
+    ],
+    "name:wuu_x_preferred":[
+        "\u752a\u76f4\u9547"
     ],
     "name:zho_x_preferred":[
         "\u82a6\u829d"
     ],
     "name:zho_x_variant":[
         "\u548c\u5b85",
-        "\u82a6\u829d\u4e61"
+        "\u82a6\u829d\u4e61",
+        "\u752a\u76f4\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +72,7 @@
         }
     ],
     "wof:id":1293121889,
-    "wof:lastmodified":1537594857,
+    "wof:lastmodified":1564195140,
     "wof:name":"Luzhi",
     "wof:parent_id":890516203,
     "wof:placetype":"locality",

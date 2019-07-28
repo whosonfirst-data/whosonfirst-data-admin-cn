@@ -25,6 +25,9 @@
     "iso:country":"CN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Qishi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -34,7 +37,7 @@
         "gn:id":1914745
     },
     "wof:country":"CN",
-    "wof:geomhash":"e69f34bf977d804923ad0b3899d289fb",
+    "wof:geomhash":"ea9b23a27d7574f94c74123dbd11fde2",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":1209349887,
-    "wof:lastmodified":1536289779,
+    "wof:lastmodified":1564222228,
     "wof:name":"Qishi",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -53,9 +56,9 @@
 },
   "bbox": [
     110.47583,
-    19.304170000000006,
+    19.30417000000001,
     110.47583,
-    19.304170000000006
+    19.30417000000001
 ],
   "geometry": {"coordinates":[110.47583,19.30417000000001],"type":"Point"}
 }

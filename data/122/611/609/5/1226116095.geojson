@@ -28,11 +28,15 @@
     "name:bod_x_preferred":[
         "Langmai"
     ],
+    "name:msa_x_preferred":[
+        "Langmai"
+    ],
     "name:zho_x_preferred":[
         "Luomai"
     ],
     "name:zho_x_variant":[
-        "\u7f57\u9ea6"
+        "\u7f57\u9ea6",
+        "\u7f57\u9ea6\u4e61"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226116095,
-    "wof:lastmodified":1537591477,
+    "wof:lastmodified":1564272309,
     "wof:name":"Langmai",
     "wof:parent_id":890514545,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"CN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043d\u0445\u0443"
+    ],
     "name:und_x_variant":[
         "Wu-hsing-hsien",
         "Ling-hu-chen",
@@ -33,6 +36,12 @@
         "\u83f1\u6e56",
         "Linghu Zhen",
         "\u83f1\u6e56\u9547"
+    ],
+    "name:vie_x_preferred":[
+        "L\u1ec7nh H\u1ed3"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ee4\u72d0\u59d3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1310307707,
-    "wof:lastmodified":1537593196,
+    "wof:lastmodified":1564237311,
     "wof:name":"Linghu",
     "wof:parent_id":890516975,
     "wof:placetype":"locality",

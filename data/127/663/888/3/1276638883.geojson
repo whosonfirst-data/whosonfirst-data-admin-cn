@@ -28,11 +28,15 @@
     "name:bod_x_preferred":[
         "Kargang"
     ],
+    "name:msa_x_preferred":[
+        "Kargang"
+    ],
     "name:zho_x_preferred":[
         "Kagong"
     ],
     "name:zho_x_variant":[
-        "\u5361\u8d21"
+        "\u5361\u8d21",
+        "\u5361\u8d21\u4e61"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276638883,
-    "wof:lastmodified":1537591484,
+    "wof:lastmodified":1564212371,
     "wof:name":"Kargang",
     "wof:parent_id":890514545,
     "wof:placetype":"locality",

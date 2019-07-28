@@ -28,13 +28,17 @@
     "name:bod_x_preferred":[
         "Targyaliling"
     ],
+    "name:msa_x_preferred":[
+        "Targyailing"
+    ],
     "name:zho_x_preferred":[
         "Dajiling"
     ],
     "name:zho_x_variant":[
         "\u8fbe\u5409\u5cad",
         "Luma",
-        "\u9c81\u739b"
+        "\u9c81\u739b",
+        "\u8fbe\u5409\u5cad\u4e61"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209197523,
-    "wof:lastmodified":1537591407,
+    "wof:lastmodified":1564224211,
     "wof:name":"Targyaliling",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",

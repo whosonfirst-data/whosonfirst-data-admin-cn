@@ -28,11 +28,15 @@
     "name:bod_x_preferred":[
         "Damdoi"
     ],
+    "name:msa_x_preferred":[
+        "Damdoi"
+    ],
     "name:zho_x_preferred":[
         "Dangdui"
     ],
     "name:zho_x_variant":[
-        "\u5f53\u5806"
+        "\u5f53\u5806",
+        "\u5f53\u5806\u4e61"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1360068629,
-    "wof:lastmodified":1537591522,
+    "wof:lastmodified":1564243984,
     "wof:name":"Damdoi",
     "wof:parent_id":890514545,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000732,
-    "geom:area_square_m":7740203.961968,
+    "geom:area_square_m":7740203.961967,
     "geom:bbox":"121.44012451,31.2456818807,121.475830078,31.2741157463",
     "geom:latitude":31.260122,
     "geom:longitude":121.457994,
@@ -25,15 +25,60 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
+    "name:ceb_x_preferred":[
+        "Zhabei Qu"
+    ],
+    "name:deu_x_preferred":[
+        "Zhabei"
+    ],
     "name:eng_x_preferred":[
         "Zhabei"
     ],
     "name:eng_x_variant":[
         "Cha-pei"
     ],
+    "name:eus_x_preferred":[
+        "Zhabei Barrutia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u9598\u5317\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\uc790\ubca0\uc774\uad6c"
+    ],
+    "name:nld_x_preferred":[
+        "Zhabei"
+    ],
+    "name:nor_x_preferred":[
+        "Zhabei"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Zhabei"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0436\u0430\u0431\u044d\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Zhabei"
+    ],
+    "name:swe_x_preferred":[
+        "Zhabei"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u043e\u043d \u0427\u0436\u0430\u0431\u0435\u0439"
+    ],
     "name:unk_x_variant":[
         "Cha-pei",
         "Zhabei"
+    ],
+    "name:vie_x_preferred":[
+        "\u00c1p B\u1eafc"
+    ],
+    "name:wuu_x_preferred":[
+        "\u95f8\u5317\u533a"
+    ],
+    "name:zho_x_preferred":[
+        "\u95f8\u5317\u533a"
     ],
     "qs:gn_adm0_cc":"CN",
     "qs:gn_fcode":"PPLX",
@@ -65,11 +110,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85669831,
         102191569,
         85632695,
         102027181,
-        890514815
+        136253041,
+        890514815,
+        85669831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +141,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497309075,
+    "wof:lastmodified":1564190836,
     "wof:name":"Zhabei",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

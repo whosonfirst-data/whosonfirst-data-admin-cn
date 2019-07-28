@@ -25,13 +25,44 @@
     "iso:country":"CN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mongolk\u00fcre"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u0396\u03b1\u03bf\u03c3\u03bf\u03cd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0698\u0627\u0648\u0633\u0648"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30b4\u30eb\u30ad\u30e5\u30ec\u770c"
+    ],
+    "name:kor_x_preferred":[
+        "\uc790\uc624\uc464\ud604"
+    ],
+    "name:nor_x_preferred":[
+        "Zhaosu"
+    ],
+    "name:por_x_preferred":[
+        "Zhaosu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0433\u043e\u043b\u043a\u044e\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Mongolk\u00fcre"
+    ],
+    "name:tur_x_preferred":[
+        "Mo\u011folk\u00fcre \u0130l\u00e7esi"
+    ],
     "name:uig_x_preferred":[
         "Mong\u01a3ulk\u00fcr\u0259"
     ],
     "name:uig_x_variant":[
         "Mongghulk\u00fcre",
         "\u0645\u0648\u06ad\u063a\u06c7\u0644\u0643\u06c8\u0631\u06d5",
-        "\u041c\u043e\u04a3\u0493\u0443\u043b\u043a\u04af\u0440\u04d9"
+        "\u041c\u043e\u04a3\u0493\u0443\u043b\u043a\u04af\u0440\u04d9",
+        "\u0645\u0648\u06ad\u063a\u06c7\u0644\u0643\u06c8\u0631\u06d5 \u0646\u0627\u06be\u0649\u064a\u0649\u0633\u0649"
     ],
     "name:und_x_variant":[
         "Chao-su-ch\u2019eng",
@@ -43,6 +74,15 @@
         "Zhaosu",
         "\u662d\u82cf",
         "Zhaosu Xian",
+        "\u662d\u82cf\u53bf"
+    ],
+    "name:urd_x_preferred":[
+        "\u0698\u0627\u0648\u0633\u0648 \u06a9\u0627\u0624\u0646\u0679\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Chi\u00eau T\u00f4"
+    ],
+    "name:zho_x_preferred":[
         "\u662d\u82cf\u53bf"
     ],
     "src:geom":"geonames",
@@ -71,7 +111,7 @@
         }
     ],
     "wof:id":1226617401,
-    "wof:lastmodified":1537591552,
+    "wof:lastmodified":1564274086,
     "wof:name":"Zhaosu",
     "wof:parent_id":1108732355,
     "wof:placetype":"locality",

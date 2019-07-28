@@ -29,6 +29,12 @@
     "name:bod_x_preferred":[
         "\u0f5f\u0f44\u0f66\u0f0b\u0f62\u0f72"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u06af\u0631\u06cc"
+    ],
+    "name:ita_x_preferred":[
+        "Sangri"
+    ],
     "name:und_x_variant":[
         "Hsia-ko-li-tsung",
         "Sang-jih",
@@ -37,6 +43,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6851\u65e5"
+    ],
+    "name:zho_x_variant":[
+        "\u6851\u65e5\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1293275415,
-    "wof:lastmodified":1537591418,
+    "wof:lastmodified":1564199900,
     "wof:name":"Sangri",
     "wof:parent_id":1108794057,
     "wof:placetype":"locality",

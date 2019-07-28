@@ -25,6 +25,12 @@
     "iso:country":"CN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Shijiedu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5e83\u5fb3\u30ed\u30b1\u30c3\u30c8\u767a\u5c04\u5834"
+    ],
     "name:und_x_variant":[
         "Shijie Zhen",
         "Shih-chieh-tu",
@@ -32,6 +38,9 @@
         "Shijie",
         "\u8a93\u8282",
         "\u8a93\u8282\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e7f\u5fb7\u706b\u7bad\u53d1\u5c04\u573a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1226751441,
-    "wof:lastmodified":1537592656,
+    "wof:lastmodified":1564269957,
     "wof:name":"Shijie",
     "wof:parent_id":890515063,
     "wof:placetype":"locality",

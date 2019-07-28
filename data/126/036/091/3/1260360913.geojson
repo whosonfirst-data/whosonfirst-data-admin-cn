@@ -25,8 +25,23 @@
     "iso:country":"CN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Barkol"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30eb\u30af\u30eb\u30fb\u30ab\u30b6\u30d5\u81ea\u6cbb\u770c"
+    ],
     "name:kaz_x_preferred":[
         "\u0628\u0627\u0631\u0643\u0648\u0644 \u0642\u0627\u0644\u0627\u0634\u0649\u0639\u0649"
+    ],
+    "name:mon_x_preferred":[
+        "\u0411\u0430\u0440\u0445\u04e9\u043b \u0448\u044f\u043d\u044c"
+    ],
+    "name:pol_x_preferred":[
+        "Barkol"
+    ],
+    "name:swe_x_preferred":[
+        "Bark\u00f6l"
     ],
     "name:uig_x_preferred":[
         "Bark\u0275l"
@@ -55,11 +70,15 @@
         "Balikun",
         "Barkol Zhen"
     ],
+    "name:vie_x_preferred":[
+        "Barkol"
+    ],
     "name:zho_x_preferred":[
         "\u5df4\u91cc\u5764"
     ],
     "name:zho_x_variant":[
-        "\u5df4\u91cc\u5764\u9547"
+        "\u5df4\u91cc\u5764\u9547",
+        "\u5df4\u91cc\u5764\u54c8\u8428\u514b\u81ea\u6cbb\u53bf"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -87,7 +106,7 @@
         }
     ],
     "wof:id":1260360913,
-    "wof:lastmodified":1537591612,
+    "wof:lastmodified":1564231254,
     "wof:name":"Barkol",
     "wof:parent_id":1108732389,
     "wof:placetype":"locality",

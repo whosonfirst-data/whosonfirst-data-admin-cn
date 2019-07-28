@@ -32,6 +32,15 @@
     "name:bod_x_variant":[
         "\u0f55\u0f74\u0f0b\u0f58\u0f51\u0f7c"
     ],
+    "name:ceb_x_preferred":[
+        "Pangduo"
+    ],
+    "name:msa_x_preferred":[
+        "Poindo"
+    ],
+    "name:swe_x_preferred":[
+        "Pangduo"
+    ],
     "name:und_x_variant":[
         "Phongdo Dzong",
         "Phang-do Dzong",
@@ -52,7 +61,8 @@
         "\u65c1\u591a"
     ],
     "name:zho_x_variant":[
-        "\u65c1\u591a\u529e\u4e8b\u5916"
+        "\u65c1\u591a\u529e\u4e8b\u5916",
+        "\u65c1\u591a\u4e61"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +82,7 @@
         }
     ],
     "wof:id":1209686609,
-    "wof:lastmodified":1537591443,
+    "wof:lastmodified":1564219963,
     "wof:name":"Poindo",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
