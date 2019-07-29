@@ -25,6 +25,15 @@
     "iso:country":"CN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Fang-jen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u65b9\u8a00"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u043d\u044a\u044f\u043d\u044c"
+    ],
     "name:und_x_variant":[
         "Fangyan Zhen"
     ],
@@ -32,7 +41,8 @@
         "\u65b9\u5ca9"
     ],
     "name:zho_x_variant":[
-        "\u65b9\u5ca9\u9547"
+        "\u65b9\u5ca9\u9547",
+        "\u65b9\u8a00"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":1310613181,
-    "wof:lastmodified":1537603243,
+    "wof:lastmodified":1564240465,
     "wof:name":"Fangyan",
     "wof:parent_id":890513337,
     "wof:placetype":"locality",

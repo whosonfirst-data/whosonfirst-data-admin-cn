@@ -28,6 +28,15 @@
     "name:bod_x_preferred":[
         "Dongco"
     ],
+    "name:ceb_x_preferred":[
+        "Dongcuo"
+    ],
+    "name:msa_x_preferred":[
+        "Dongco"
+    ],
+    "name:swe_x_preferred":[
+        "Dongcuo"
+    ],
     "name:und_x_variant":[
         "Dongcuo",
         "Cuoqiong"
@@ -36,7 +45,8 @@
         "\u6d1e\u63aa"
     ],
     "name:zho_x_variant":[
-        "\u63aa\u7a77"
+        "\u63aa\u7a77",
+        "\u6d1e\u63aa\u4e61"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +74,7 @@
         }
     ],
     "wof:id":1209987289,
-    "wof:lastmodified":1537602921,
+    "wof:lastmodified":1564215081,
     "wof:name":"Dongco",
     "wof:parent_id":1108732537,
     "wof:placetype":"locality",

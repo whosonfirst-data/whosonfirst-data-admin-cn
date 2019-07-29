@@ -28,13 +28,23 @@
     "name:bod_x_preferred":[
         "Mainpu"
     ],
+    "name:ceb_x_preferred":[
+        "Menbu"
+    ],
+    "name:msa_x_preferred":[
+        "Mainpu"
+    ],
+    "name:swe_x_preferred":[
+        "Menbu"
+    ],
     "name:zho_x_preferred":[
         "Menbu"
     ],
     "name:zho_x_variant":[
         "\u95e8\u5e03",
         "Menkamai",
-        "\u95e8\u5361\u9ea6"
+        "\u95e8\u5361\u9ea6",
+        "\u95e8\u5e03\u4e61"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +72,7 @@
         }
     ],
     "wof:id":1344028687,
-    "wof:lastmodified":1537591468,
+    "wof:lastmodified":1564188065,
     "wof:name":"Mainpu",
     "wof:parent_id":890516395,
     "wof:placetype":"locality",

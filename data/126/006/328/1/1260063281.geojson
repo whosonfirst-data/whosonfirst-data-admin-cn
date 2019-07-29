@@ -28,11 +28,21 @@
     "name:bod_x_preferred":[
         "Kungtang"
     ],
+    "name:ceb_x_preferred":[
+        "Gongdang"
+    ],
+    "name:msa_x_preferred":[
+        "Kungtang"
+    ],
+    "name:swe_x_preferred":[
+        "Gongdang"
+    ],
     "name:zho_x_preferred":[
         "Gongdang"
     ],
     "name:zho_x_variant":[
-        "\u8d21\u5f53"
+        "\u8d21\u5f53",
+        "\u8d21\u5f53\u4e61"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1260063281,
-    "wof:lastmodified":1537591479,
+    "wof:lastmodified":1564231940,
     "wof:name":"Kungtang",
     "wof:parent_id":890516395,
     "wof:placetype":"locality",

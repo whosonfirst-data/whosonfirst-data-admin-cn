@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000281,
-    "geom:area_square_m":3127197.861076,
+    "geom:area_square_m":3127197.861079,
     "geom:bbox":"115.02237462,25.8452555226,115.042322717,25.8633049118",
     "geom:latitude":25.85428,
     "geom:longitude":115.032349,
@@ -34,6 +34,9 @@
     ],
     "name:cdo_x_preferred":[
         "Di\u014fng-\u012dk"
+    ],
+    "name:ceb_x_preferred":[
+        "Zhangye"
     ],
     "name:ces_x_preferred":[
         "\u010cang-jie"
@@ -73,6 +76,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc7a5\uc608 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc7a5\uc608\uc2dc"
+    ],
+    "name:mlg_x_preferred":[
+        "Zhangye"
     ],
     "name:mon_x_preferred":[
         "\u0416\u0430\u043d\u044a\u0435"
@@ -119,6 +128,9 @@
     "name:tur_x_preferred":[
         "Zhangye"
     ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0436\u0430\u043d'\u0454"
+    ],
     "name:unk_x_variant":[
         "Kanchow"
     ],
@@ -130,6 +142,9 @@
     ],
     "name:war_x_preferred":[
         "Zhangye"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5f20\u6396\u5e02"
     ],
     "name:yue_x_preferred":[
         "\u5f35\u6396"
@@ -285,7 +300,7 @@
         }
     ],
     "wof:id":102026915,
-    "wof:lastmodified":1527637809,
+    "wof:lastmodified":1564178944,
     "wof:name":"Zhangye",
     "wof:parent_id":890511835,
     "wof:placetype":"locality",

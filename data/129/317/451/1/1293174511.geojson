@@ -28,8 +28,44 @@
     "name:bod_x_preferred":[
         "D\u00eangq\u00ean"
     ],
+    "name:bod_x_variant":[
+        "\u0f66\u0f9f\u0f7a\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f0d"
+    ],
+    "name:deu_x_preferred":[
+        "D\u00eangq\u00ean"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062f\u0646\u06af\u0686\u0646"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30f3\u30c1\u30a7\u30f3\u770c"
+    ],
+    "name:kor_x_preferred":[
+        "\ub529\uce6d\ud604"
+    ],
+    "name:nld_x_preferred":[
+        "Dengchen"
+    ],
+    "name:nor_x_preferred":[
+        "D\u00eangq\u00ean"
+    ],
+    "name:pol_x_preferred":[
+        "D\u00eangq\u00ean"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043d\u0433\u0447\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Tengchen"
+    ],
     "name:und_x_variant":[
         "Dingqing Zhen"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc\u0646\u06af\u0686\u06cc\u0646 \u06a9\u0627\u0624\u0646\u0679\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "D\u00eangq\u00ean"
     ],
     "name:zho_x_preferred":[
         "Dingqing"
@@ -38,7 +74,8 @@
         "\u4e01\u9752",
         "Jiamotang",
         "\u52a0\u83ab\u5858",
-        "\u4e01\u9752\u9547"
+        "\u4e01\u9752\u9547",
+        "\u4e01\u9752\u53bf"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +103,7 @@
         }
     ],
     "wof:id":1293174511,
-    "wof:lastmodified":1537602020,
+    "wof:lastmodified":1564201371,
     "wof:name":"Dingqing",
     "wof:parent_id":890514545,
     "wof:placetype":"locality",

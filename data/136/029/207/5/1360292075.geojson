@@ -25,6 +25,12 @@
     "iso:country":"CN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u9808\u535c\u6c0f"
+    ],
+    "name:kor_x_preferred":[
+        "\uc218\ubcf5\uc528"
+    ],
     "name:und_x_variant":[
         "Hs\u00fc-chia-pu",
         "Hs\u00fc-chia-fou",
@@ -33,6 +39,9 @@
         "\u5f90\u57e0",
         "Xubu Zhen",
         "\u5f90\u57e0\u9547"
+    ],
+    "name:zho_x_preferred":[
+        "\u9808\u535c\u6c0f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1360292075,
-    "wof:lastmodified":1537592157,
+    "wof:lastmodified":1564244586,
     "wof:name":"Xubu",
     "wof:parent_id":890516935,
     "wof:placetype":"locality",

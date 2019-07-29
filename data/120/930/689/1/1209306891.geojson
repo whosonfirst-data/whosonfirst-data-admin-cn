@@ -25,6 +25,24 @@
     "iso:country":"CN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lenghu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u06af\u0647\u0648"
+    ],
+    "name:jpn_x_preferred":[
+        "\u51b7\u6e56\u884c\u653f\u59d4\u54e1\u4f1a"
+    ],
+    "name:kor_x_preferred":[
+        "\ub801\ud6c4 \ud589\uc815\uc704\uc6d0\ud68c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044d\u043d\u0445\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Lenghu"
+    ],
     "name:und_x_variant":[
         "Lun-hu",
         "Leng-hu-chen",
@@ -32,11 +50,18 @@
         "Lenghu",
         "Lenghu Zhen"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0646\u06af\u06c1\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e3nh H\u1ed3"
+    ],
     "name:zho_x_preferred":[
         "\u51b7\u6e56"
     ],
     "name:zho_x_variant":[
-        "\u51b7\u6e56\u9547"
+        "\u51b7\u6e56\u9547",
+        "\u51b7\u6e56\u884c\u653f\u59d4\u5458\u4f1a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +80,7 @@
         }
     ],
     "wof:id":1209306891,
-    "wof:lastmodified":1537591476,
+    "wof:lastmodified":1564216045,
     "wof:name":"Lenghu",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",

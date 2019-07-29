@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00049,
-    "geom:area_square_m":5074769.489952,
+    "geom:area_square_m":5074769.489944,
     "geom:bbox":"115.603902912,33.1515293056,115.636331576,33.1695643898",
     "geom:latitude":33.160547,
     "geom:longitude":115.620117,
@@ -18,6 +18,9 @@
     "mps:longitude":115.620117,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Taihe"
+    ],
     "name:deu_x_preferred":[
         "Taihe"
     ],
@@ -30,11 +33,17 @@
     "name:kor_x_preferred":[
         "\ud0c0\uc774\ud5c8 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ud0c0\uc774\ud5c8"
+    ],
     "name:nor_x_preferred":[
         "Taihe"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0439\u0445\u044d"
+    ],
+    "name:swe_x_preferred":[
+        "Taihe"
     ],
     "name:zho_x_preferred":[
         "\u592a\u548c"
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":102028123,
-    "wof:lastmodified":1527637796,
+    "wof:lastmodified":1564178938,
     "wof:name":"Taihe",
     "wof:parent_id":890516677,
     "wof:placetype":"locality",

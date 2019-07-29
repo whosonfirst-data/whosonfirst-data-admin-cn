@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000278,
-    "geom:area_square_m":3124647.145435,
+    "geom:area_square_m":3124647.145438,
     "geom:bbox":"102.179463987,24.6030425873,102.199198221,24.6210838789",
     "geom:latitude":24.612063,
     "geom:longitude":102.189331,
@@ -23,6 +23,9 @@
     "name:fra_x_preferred":[
         "Longquan"
     ],
+    "name:ita_x_preferred":[
+        "Longquan"
+    ],
     "name:jpn_x_preferred":[
         "\u7adc\u6cc9\u5e02"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub8fd\ucde8\uc548 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ub8fd\ucde8\uc548\uc2dc"
     ],
     "name:mlg_x_preferred":[
         "Longquan"
@@ -61,6 +67,12 @@
     ],
     "name:vie_x_preferred":[
         "Long Tuy\u1ec1n"
+    ],
+    "name:war_x_preferred":[
+        "Longquan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9f99\u6cc9\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u9f99\u6cc9\u5e02"
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":102027351,
-    "wof:lastmodified":1527637567,
+    "wof:lastmodified":1564178912,
     "wof:name":"Longquan",
     "wof:parent_id":890512033,
     "wof:placetype":"locality",

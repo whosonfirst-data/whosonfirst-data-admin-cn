@@ -28,11 +28,15 @@
     "name:bod_x_preferred":[
         "Sar"
     ],
+    "name:msa_x_preferred":[
+        "Sar"
+    ],
     "name:zho_x_preferred":[
         "Sa\u2019er"
     ],
     "name:zho_x_variant":[
-        "\u8428\u5c14"
+        "\u8428\u5c14",
+        "\u8428\u5c14\u4e61"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209589145,
-    "wof:lastmodified":1537591418,
+    "wof:lastmodified":1564221269,
     "wof:name":"Sar",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",

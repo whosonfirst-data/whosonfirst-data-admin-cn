@@ -25,12 +25,40 @@
     "iso:country":"CN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Aksu Konaxeher"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u039f\u03c5\u03b5\u03bd\u03c3\u03bf\u03cd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0648\u0646\u0633\u0648"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30f3\u30b9\u30fc\u770c"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6d0\uc464\ud604"
+    ],
+    "name:nor_x_preferred":[
+        "Onsu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044d\u043d\u044c\u0441\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Onsu"
+    ],
+    "name:tur_x_preferred":[
+        "Onsu \u0130l\u00e7esi"
+    ],
     "name:uig_x_preferred":[
         "Onsu"
     ],
     "name:uig_x_variant":[
         "\u0626\u0648\u0646\u0633\u06c7",
-        "\u041e\u043d\u0441\u0443"
+        "\u041e\u043d\u0441\u0443",
+        "\u0626\u0648\u0646\u0633\u06c7 \u0646\u0627\u06be\u0649\u064a\u0649\u0633\u0649"
     ],
     "name:und_x_variant":[
         "Aksu",
@@ -54,6 +82,15 @@
         "Wensu",
         "\u6e29\u5bbf",
         "Wensu Xian",
+        "\u6e29\u5bbf\u53bf"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0626\u0646\u0633\u0624 \u06a9\u0627\u0624\u0646\u0679\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "\u00d4n T\u00fac"
+    ],
+    "name:zho_x_preferred":[
         "\u6e29\u5bbf\u53bf"
     ],
     "src:geom":"geonames",
@@ -82,7 +119,7 @@
         }
     ],
     "wof:id":1326801725,
-    "wof:lastmodified":1537591562,
+    "wof:lastmodified":1564169963,
     "wof:name":"Wensu",
     "wof:parent_id":1108732529,
     "wof:placetype":"locality",

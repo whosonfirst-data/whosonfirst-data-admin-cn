@@ -25,18 +25,37 @@
     "iso:country":"CN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Zhongdu"
+    ],
+    "name:kor_x_preferred":[
+        "\uc911\ub3c4"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0436\u0443\u043d\u0434\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Zhongdu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0436\u0443\u043d\u0434\u0443"
+    ],
     "name:und_x_variant":[
         "Chung-tu",
         "Zhongdu",
         "Zhongdu Zhen",
         "Raofang"
     ],
+    "name:wuu_x_preferred":[
+        "\u91d1\u4e2d\u90fd"
+    ],
     "name:zho_x_preferred":[
         "\u4e2d\u90fd"
     ],
     "name:zho_x_variant":[
         "\u4e2d\u90fd\u9547",
-        "\u9976\u574a"
+        "\u9976\u574a",
+        "\u91d1\u4e2d\u90fd"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +74,7 @@
         }
     ],
     "wof:id":1209027643,
-    "wof:lastmodified":1537591924,
+    "wof:lastmodified":1564222165,
     "wof:name":"Zhongdu",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
