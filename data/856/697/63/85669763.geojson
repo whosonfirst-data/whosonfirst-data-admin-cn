@@ -11,12 +11,14 @@
     "geom:longitude":106.164532,
     "gn:population":6180000,
     "iso:country":"CN",
-    "label:eng_x_abbreviation":"NX",
     "label:eng_x_preferred_longname":[
         "Ningxia Hui Autonomous Region"
     ],
     "label:eng_x_preferred_placetype":[
         "autonomous region"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "NX"
     ],
     "label:zho_x_preferred_placetype":[
         "\u81ea\u6cbb\u533a"
@@ -485,7 +487,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1563404403,
+    "wof:lastmodified":1565664524,
     "wof:name":"Ningxia Hui",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

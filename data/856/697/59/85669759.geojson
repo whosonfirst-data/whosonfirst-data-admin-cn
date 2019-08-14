@@ -11,12 +11,14 @@
     "geom:longitude":109.743971,
     "gn:population":8540000,
     "iso:country":"CN",
-    "label:eng_x_abbreviation":"HA",
     "label:eng_x_preferred_longname":[
         "Hainan Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "HA"
     ],
     "label:zho_x_preferred_placetype":[
         "\u7701"
@@ -550,7 +552,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1563404364,
+    "wof:lastmodified":1565664511,
     "wof:name":"Hainan",
     "wof:parent_id":-1,
     "wof:placetype":"region",

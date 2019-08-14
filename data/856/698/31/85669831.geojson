@@ -11,12 +11,14 @@
     "geom:longitude":121.418502,
     "gn:id":"",
     "iso:country":"CN",
-    "label:eng_x_abbreviation":"SH",
     "label:eng_x_preferred_longname":[
         "Shanghai Municipality"
     ],
     "label:eng_x_preferred_placetype":[
         "municipality"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "SH"
     ],
     "label:zho_x_preferred_placetype":[
         "\u76f4\u8f96\u5e02"
@@ -739,7 +741,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1563404429,
+    "wof:lastmodified":1565664531,
     "wof:name":"Shanghai",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

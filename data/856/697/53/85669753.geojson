@@ -11,12 +11,14 @@
     "geom:longitude":85.171993,
     "gn:population":21310000,
     "iso:country":"CN",
-    "label:eng_x_abbreviation":"XJ",
     "label:eng_x_preferred_longname":[
         "Xinjiang Uyghur Autonomous Region"
     ],
     "label:eng_x_preferred_placetype":[
         "autonomous region"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "XJ"
     ],
     "label:zho_x_preferred_placetype":[
         "\u81ea\u6cbb\u533a"
@@ -552,7 +554,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1563404395,
+    "wof:lastmodified":1565664520,
     "wof:name":"Xinjiang Uyghur",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

@@ -11,12 +11,14 @@
     "geom:longitude":113.614129,
     "gn:population":94290000,
     "iso:country":"CN",
-    "label:eng_x_abbreviation":"HE",
     "label:eng_x_preferred_longname":[
         "Henan Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "HE"
     ],
     "label:zho_x_preferred_placetype":[
         "\u7701"
@@ -483,7 +485,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1563404431,
+    "wof:lastmodified":1565664531,
     "wof:name":"Henan",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

@@ -11,12 +11,14 @@
     "geom:longitude":88.163837,
     "gn:population":2870000,
     "iso:country":"CN",
-    "label:eng_x_abbreviation":"XZ",
     "label:eng_x_preferred_longname":[
         "Tibet Autonomous Region"
     ],
     "label:eng_x_preferred_placetype":[
         "autonomous region"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "XZ"
     ],
     "label:eng_x_variant_longname":[
         "Xizang Autonomous Region"
@@ -351,7 +353,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1563404410,
+    "wof:lastmodified":1565664525,
     "wof:name":"Tibet",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

@@ -11,12 +11,14 @@
     "geom:longitude":101.48685,
     "gn:population":45430000,
     "iso:country":"CN",
-    "label:eng_x_abbreviation":"YN",
     "label:eng_x_preferred_longname":[
         "Yunnan Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "YN"
     ],
     "label:zho_x_preferred_placetype":[
         "\u7701"
@@ -484,7 +486,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1563404390,
+    "wof:lastmodified":1565664518,
     "wof:name":"Yunnan",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

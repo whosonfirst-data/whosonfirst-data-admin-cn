@@ -11,12 +11,14 @@
     "geom:longitude":116.412463,
     "gn:id":"",
     "iso:country":"CN",
-    "label:eng_x_abbreviation":"BJ",
     "label:eng_x_preferred_longname":[
         "Beijing Municipality"
     ],
     "label:eng_x_preferred_placetype":[
         "municipality"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "BJ"
     ],
     "label:zho_x_preferred_placetype":[
         "\u76f4\u8f96\u5e02"
@@ -857,7 +859,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1563404373,
+    "wof:lastmodified":1565664513,
     "wof:name":"Beijing",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

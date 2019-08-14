@@ -10,9 +10,11 @@
     "geom:latitude":16.386284,
     "geom:longitude":111.870125,
     "iso:country":"CN",
-    "label:eng_x_abbreviation":"",
     "label:eng_x_preferred_longname":[
         "Paracel Islands"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "PI"
     ],
     "lbl:latitude":15.783461,
     "lbl:longitude":111.201368,
@@ -299,10 +301,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"06ba5b82-8f76-11e1-848f-cfd5bf3ef515",
-        "fips:code":"",
         "gn:id":1821073,
         "gp:id":12497556,
-        "hasc:id":"CN",
         "wd:id":"Q274388",
         "wk:page":"Paracel Islands"
     },
@@ -316,9 +316,6 @@
         }
     ],
     "wof:id":85681327,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "zho"
     ],
@@ -330,12 +327,12 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1563404362,
+    "wof:lastmodified":1565815429,
     "wof:name":"Paracel Islands",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:shortcode":"",
+    "wof:shortcode":"PI",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

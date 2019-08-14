@@ -11,12 +11,14 @@
     "geom:longitude":122.607865,
     "gn:population":43150000,
     "iso:country":"CN",
-    "label:eng_x_abbreviation":"LN",
     "label:eng_x_preferred_longname":[
         "Liaoning Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "LN"
     ],
     "label:zho_x_preferred_placetype":[
         "\u7701"
@@ -491,7 +493,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1563404425,
+    "wof:lastmodified":1565664530,
     "wof:name":"Liaoning",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

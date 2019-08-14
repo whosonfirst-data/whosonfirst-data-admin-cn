@@ -11,12 +11,14 @@
     "geom:longitude":108.788433,
     "gn:id":"",
     "iso:country":"CN",
-    "label:eng_x_abbreviation":"GX",
     "label:eng_x_preferred_longname":[
         "Guangxi Zhuang Autonomous Region"
     ],
     "label:eng_x_preferred_placetype":[
         "autonomous region"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "GX"
     ],
     "label:zho_x_preferred_placetype":[
         "\u81ea\u6cbb\u533a"
@@ -499,7 +501,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1563404380,
+    "wof:lastmodified":1565664515,
     "wof:name":"Guangxi Zhuang",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
