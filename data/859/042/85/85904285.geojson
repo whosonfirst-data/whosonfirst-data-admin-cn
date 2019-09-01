@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000335,
-    "geom:area_square_m":3170351.618902,
+    "geom:area_square_m":3170351.618906,
     "geom:bbox":"116.28208892,39.9918514552,116.301269531,40.0187873956",
     "geom:latitude":40.003842,
     "geom:longitude":116.291917,
@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":40.004464,
     "lbl:longitude":116.294737,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.003852,
     "mps:longitude":116.291735,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Haidianlu"
-    ],
-    "name:unk_x_variant":[
         "Haidianlu"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12906645,
-        "qs:id":1195818,
         "qs_pg:id":1195818
     },
     "wof:country":"CN",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269155,
+    "wof:lastmodified":1566665026,
     "wof:name":"Haidianlu",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

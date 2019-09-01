@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"115.19111,39.06056,115.23111,39.10056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Dule"
     ],
@@ -52,8 +56,7 @@
     ],
     "name:und_x_variant":[
         "Tung-tu-lo",
-        "Tu-le",
-        "Dule"
+        "Tu-le"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1309691011,
-    "wof:lastmodified":1564248406,
+    "wof:lastmodified":1566693182,
     "wof:name":"Dule",
     "wof:parent_id":890513095,
     "wof:placetype":"locality",

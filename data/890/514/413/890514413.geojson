@@ -11,10 +11,14 @@
     "geom:longitude":118.455,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":69245,
+    "gn:population":69245,
     "iso:country":"CN",
+    "lbl:bbox":"118.435,35.52278,118.475,35.56278",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Yinan Xian"
     ],
@@ -60,7 +64,7 @@
     "name:tel_x_preferred":[
         "\u0c2f\u0c3f\u0c28\u0c28\u0c4d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chieh-hu"
     ],
     "name:vie_x_preferred":[
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":1805884,
         "gp:id":2168378,
-        "qs:id":1033217,
+        "qs_pg:id":1033217,
         "wd:id":"Q1337609",
         "wk:page":"Yinan County"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":890514413,
-    "wof:lastmodified":1563459400,
+    "wof:lastmodified":1566693662,
     "wof:name":"Jiehu",
     "wof:parent_id":1108732339,
     "wof:placetype":"locality",

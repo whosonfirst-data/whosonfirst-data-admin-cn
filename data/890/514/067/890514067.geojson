@@ -11,10 +11,14 @@
     "geom:longitude":119.9481,
     "gn:country":"CN",
     "gn:fcode":"PPLA3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"119.9281,47.1556,119.9681,47.1956",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wenquan"
     ],
@@ -26,9 +30,6 @@
     ],
     "name:swe_x_preferred":[
         "Wenquan"
-    ],
-    "name:unk_x_variant":[
-        "\u6e29\u6cc9"
     ],
     "name:zho_x_preferred":[
         "Wenquan"
@@ -53,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8054538,
         "gp:id":2149773,
-        "qs:id":381235,
+        "qs_pg:id":381235,
         "wk:page":"Wenquan"
     },
     "wof:country":"CN",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":890514067,
-    "wof:lastmodified":1564249813,
+    "wof:lastmodified":1566693691,
     "wof:name":"Wenquan",
     "wof:parent_id":1108732367,
     "wof:placetype":"locality",

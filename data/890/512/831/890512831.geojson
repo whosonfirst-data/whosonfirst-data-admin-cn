@@ -11,10 +11,14 @@
     "geom:longitude":112.89161,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":153714,
+    "gn:population":153714,
     "iso:country":"CN",
+    "lbl:bbox":"112.87161,23.13486,112.91161,23.17486",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:cym_x_preferred":[
         "Ardal Sanshui"
     ],
@@ -57,7 +61,7 @@
     "name:swe_x_preferred":[
         "Sanshui"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sainam"
     ],
     "name:vie_x_preferred":[
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":1789273,
         "gp:id":2161894,
-        "qs:id":372033,
+        "qs_pg:id":372033,
         "wd:id":"Q769621",
         "wk:page":"Sanshui District"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":890512831,
-    "wof:lastmodified":1563459775,
+    "wof:lastmodified":1566693754,
     "wof:name":"Sanshui",
     "wof:parent_id":890513089,
     "wof:placetype":"locality",

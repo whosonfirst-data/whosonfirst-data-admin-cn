@@ -11,7 +11,7 @@
     "geom:longitude":115.692151,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":35.196,
     "lbl:longitude":115.680121,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5c71\u4e1c\u7701",
     "meso:dissme":"\u83cf\u6cfd\u5e02\u5c71\u4e1c\u7701",
     "meso:gadm_adm2":"Heze",
@@ -46,6 +48,7 @@
     "mps:longitude":115.680121,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u0632\u064a"
     ],
@@ -127,7 +130,7 @@
     "name:tur_x_preferred":[
         "Heze"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ho-tse Ti-ch\u2019\u00fc"
     ],
     "name:urd_x_preferred":[
@@ -163,9 +166,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"12238",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Heze Shi",
@@ -187,7 +190,7 @@
         "gn:id":1808197,
         "gp:id":26198219,
         "hasc:id":"CN.SD.HZ",
-        "qs:id":230098
+        "qs_pg:id":230098
     },
     "wof:country":"CN",
     "wof:created":1469055968,
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":890516675,
-    "wof:lastmodified":1564249621,
+    "wof:lastmodified":1566693601,
     "wof:name":"Heze",
     "wof:parent_id":85669813,
     "wof:placetype":"county",

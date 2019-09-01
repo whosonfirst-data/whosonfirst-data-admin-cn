@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"116.44032,27.8072,116.48032,27.8472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Dongguan"
     ],
@@ -185,8 +189,6 @@
         "\u0414\u0443\u043d\u0433\u0443\u0430\u043d\u044c"
     ],
     "name:und_x_variant":[
-        "Tung-kuan",
-        "Dongguan",
         "\u4e1c\u9986",
         "Dongguan Zhen",
         "\u4e1c\u9986\u9547"
@@ -228,7 +230,7 @@
         }
     ],
     "wof:id":1260087337,
-    "wof:lastmodified":1564231509,
+    "wof:lastmodified":1566686852,
     "wof:name":"Dongguan",
     "wof:parent_id":890516617,
     "wof:placetype":"locality",

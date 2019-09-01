@@ -11,10 +11,14 @@
     "geom:longitude":119.19861,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":59902,
+    "gn:population":59902,
     "iso:country":"CN",
+    "lbl:bbox":"119.17861,25.46722,119.21861,25.50722",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:eng_x_preferred":[
         "Jiangkou"
     ],
@@ -24,7 +28,7 @@
     "name:jpn_x_preferred":[
         "\u6c5f\u53e3\u93ae"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chiang-k\u2019ou"
     ],
     "name:wuu_x_preferred":[
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":1806327,
         "gp:id":2140119,
-        "qs:id":136657,
+        "qs_pg:id":136657,
         "wd:id":"Q11134032",
         "wk:page":"Jiangkou County"
     },
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":890516089,
-    "wof:lastmodified":1563459271,
+    "wof:lastmodified":1566693627,
     "wof:name":"Jiangkou",
     "wof:parent_id":890516865,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"CN",
     "lbl:latitude":21.662533,
     "lbl:longitude":110.934448,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.662533,
     "mps:longitude":110.934448,
     "mz:hierarchy_label":1,
@@ -131,7 +133,7 @@
     "name:tur_x_preferred":[
         "Maoming"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hsin-p\u2019o"
     ],
     "name:urd_x_preferred":[
@@ -266,7 +268,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1271,
     "wof:belongsto":[
         85669743,
@@ -279,7 +281,6 @@
     "wof:concordances":{
         "gn:id":1801180,
         "gp:id":2161851,
-        "qs:id":136558,
         "qs_pg:id":136558,
         "wd:id":"Q38927",
         "wk:page":"Maoming"
@@ -297,7 +298,7 @@
         }
     ],
     "wof:id":102027329,
-    "wof:lastmodified":1563393352,
+    "wof:lastmodified":1566655708,
     "wof:name":"Maoming",
     "wof:parent_id":1108732487,
     "wof:placetype":"locality",

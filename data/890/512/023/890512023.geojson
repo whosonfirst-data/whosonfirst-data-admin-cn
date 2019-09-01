@@ -11,10 +11,14 @@
     "geom:longitude":116.20519,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":614821,
+    "gn:population":614821,
     "iso:country":"CN",
+    "lbl:bbox":"116.10519,40.12148,116.30519,40.32148",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":5.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0646\u063a \u0628\u064a\u0646\u063a"
     ],
@@ -73,7 +77,7 @@
     "name:tur_x_preferred":[
         "Changping"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ch\u2019ang-p\u2019ing Hsien"
     ],
     "name:urd_x_preferred":[
@@ -112,7 +116,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2038153,
-        "qs:id":1028424,
+        "qs_pg:id":1028424,
         "wd:id":"Q393485",
         "wk:page":"Changping District"
     },
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":890512023,
-    "wof:lastmodified":1563459691,
+    "wof:lastmodified":1566693737,
     "wof:name":"Changping Qu",
     "wof:parent_id":1108732371,
     "wof:placetype":"localadmin",

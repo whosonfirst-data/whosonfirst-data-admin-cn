@@ -11,11 +11,15 @@
     "geom:longitude":119.0215,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":2830,
+    "gn:population":2830,
     "iso:country":"CN",
+    "lbl:bbox":"119.0015,26.61004,119.0415,26.65004",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "\u5353\u6d0b"
     ],
     "qs:name":"Zhuoyang",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1783856,
         "gp:id":2139960,
-        "qs:id":558950
+        "qs_pg:id":558950
     },
     "wof:country":"CN",
     "wof:created":1469055995,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890517133,
-    "wof:lastmodified":1505343904,
+    "wof:lastmodified":1566693585,
     "wof:name":"Zhuoyang",
     "wof:parent_id":890516577,
     "wof:placetype":"locality",

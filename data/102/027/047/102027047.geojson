@@ -13,10 +13,13 @@
     "iso:country":"CN",
     "lbl:latitude":29.854937,
     "lbl:longitude":115.548706,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":29.854937,
     "mps:longitude":115.548706,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0648\u0634\u064a\u0648\u064a"
     ],
@@ -140,7 +143,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0443\u0441\u0443\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuang-chi-hsien"
     ],
     "name:urd_x_preferred":[
@@ -178,7 +181,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":318,
     "wof:belongsto":[
@@ -192,7 +195,7 @@
     "wof:concordances":{
         "gn:id":1790894,
         "gp:id":12686303,
-        "qs:id":959185,
+        "qs_pg:id":959185,
         "wd:id":"Q1367949",
         "wk:page":"Wuxue"
     },
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":102027047,
-    "wof:lastmodified":1563393165,
+    "wof:lastmodified":1566655646,
     "wof:name":"Wuxue",
     "wof:parent_id":890514791,
     "wof:placetype":"locality",

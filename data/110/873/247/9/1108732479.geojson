@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":19.248446,
     "lbl:longitude":110.472346,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6d77\u5357\u7701",
     "meso:dissme":"\u743c\u6d77\u5e02\u6d77\u5357\u7701",
     "meso:gadm_adm2":"Hainan",
@@ -39,17 +41,15 @@
     "mps:longitude":110.472346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Qionghai"
-    ],
-    "name:und_x_variant":[
-        "\u743c\u6d77\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u743c\u6d77\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":1108732479,
-    "wof:lastmodified":1555220447,
+    "wof:lastmodified":1566687993,
     "wof:name":"\u743c\u6d77\u5e02",
     "wof:parent_id":85669759,
     "wof:placetype":"county",

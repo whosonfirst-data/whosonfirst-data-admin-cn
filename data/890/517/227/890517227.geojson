@@ -11,10 +11,14 @@
     "geom:longitude":113.36306,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":323945,
+    "gn:population":323945,
     "iso:country":"CN",
+    "lbl:bbox":"113.34306,31.69111,113.38306,31.73111",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u064a\u0632\u0647\u0648"
     ],
@@ -159,7 +163,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0439\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sui"
     ],
     "name:urd_x_preferred":[
@@ -197,7 +201,7 @@
     "wof:concordances":{
         "gn:id":1793879,
         "gp:id":2163514,
-        "qs:id":560457,
+        "qs_pg:id":560457,
         "wd:id":"Q71401",
         "wk:page":"Suizhou"
     },
@@ -215,7 +219,7 @@
         }
     ],
     "wof:id":890517227,
-    "wof:lastmodified":1563459133,
+    "wof:lastmodified":1566693585,
     "wof:name":"Suizhou",
     "wof:parent_id":890514467,
     "wof:placetype":"locality",

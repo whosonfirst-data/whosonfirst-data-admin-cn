@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":43.165122,
     "lbl:longitude":124.370728,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":43.165122,
     "mps:longitude":124.370728,
     "mz:hierarchy_label":1,
@@ -183,9 +185,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0438\u043f\u0456\u043d"
     ],
-    "name:unk_x_variant":[
-        "Szeping"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u067e\u0646\u06af\u060c \u062c\u06cc\u0644\u0646"
     ],
@@ -328,7 +327,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":864,
     "wof:belongsto":[
@@ -342,7 +341,7 @@
     "wof:concordances":{
         "gn:id":2034714,
         "gp:id":2138128,
-        "qs:id":398139,
+        "qs_pg:id":398139,
         "wd:id":"Q92297",
         "wk:page":"Siping, Jilin"
     },
@@ -359,7 +358,7 @@
         }
     ],
     "wof:id":102027873,
-    "wof:lastmodified":1563393149,
+    "wof:lastmodified":1566655642,
     "wof:name":"Siping",
     "wof:parent_id":890514217,
     "wof:placetype":"locality",

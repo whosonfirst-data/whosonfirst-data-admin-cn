@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000768,
-    "geom:area_square_m":8266347.494643,
+    "geom:area_square_m":8266347.494633,
     "geom:bbox":"121.866517836,29.4640553233,121.920103418,29.4916666923",
     "geom:latitude":29.47967,
     "geom:longitude":121.8893,
     "iso:country":"CN",
     "lbl:latitude":29.477861,
     "lbl:longitude":121.876831,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":29.477861,
     "mps:longitude":121.876831,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Tan-ch\u2019eng"
     ],
     "name:zho_x_preferred":[
@@ -40,7 +43,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669835,
         102191569,
@@ -52,7 +55,6 @@
     "wof:concordances":{
         "gn:id":1813893,
         "gp:id":2132595,
-        "qs:id":136848,
         "qs_pg:id":136848
     },
     "wof:country":"CN",
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":102027667,
-    "wof:lastmodified":1497290450,
+    "wof:lastmodified":1566655653,
     "wof:name":"Danxi",
     "wof:parent_id":890516553,
     "wof:placetype":"locality",

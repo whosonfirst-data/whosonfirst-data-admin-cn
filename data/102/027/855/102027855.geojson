@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":49.278556,
     "lbl:longitude":120.734253,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":49.278556,
     "mps:longitude":120.734253,
     "mz:hierarchy_label":1,
@@ -135,7 +137,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u043a\u0435\u0448\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hsi-kuei-t\u2019u"
     ],
     "name:urd_x_preferred":[
@@ -256,7 +258,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":246,
     "wof:belongsto":[
@@ -270,7 +272,6 @@
     "wof:concordances":{
         "gn:id":2033536,
         "gp:id":2149770,
-        "qs:id":1243587,
         "qs_pg:id":1243587,
         "wd:id":"Q1010264",
         "wk:page":"Yakeshi"
@@ -288,7 +289,7 @@
         }
     ],
     "wof:id":102027855,
-    "wof:lastmodified":1563393335,
+    "wof:lastmodified":1566655702,
     "wof:name":"Yakeshi",
     "wof:parent_id":1108732385,
     "wof:placetype":"locality",

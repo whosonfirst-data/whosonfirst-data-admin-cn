@@ -11,10 +11,14 @@
     "geom:longitude":110.39667,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":64954,
+    "gn:population":64954,
     "iso:country":"CN",
+    "lbl:bbox":"110.37667,18.78028,110.41667,18.82028",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0648\u0627\u0646\u0646\u064a\u0646\u063a"
     ],
@@ -141,7 +145,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043d\u044c\u043d\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maning"
     ],
     "name:urd_x_preferred":[
@@ -179,7 +183,7 @@
     "wof:concordances":{
         "gn:id":1791779,
         "gp:id":2162785,
-        "qs:id":1243430,
+        "qs_pg:id":1243430,
         "wd:id":"Q997593",
         "wk:page":"Wanning"
     },
@@ -196,7 +200,7 @@
         }
     ],
     "wof:id":890511875,
-    "wof:lastmodified":1563459336,
+    "wof:lastmodified":1566693645,
     "wof:name":"Wanning",
     "wof:parent_id":1108732331,
     "wof:placetype":"locality",

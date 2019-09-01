@@ -11,12 +11,16 @@
     "geom:longitude":118.32528,
     "gn:country":"CN",
     "gn:fcode":"PPLA3",
-    "gn:pop":59187,
+    "gn:population":59187,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"118.22528,26.94694,118.42528,27.14694",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Kienning"
     ],
     "name:zho_x_preferred":[
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1806167,
         "gp:id":12685734,
-        "qs:id":258831
+        "qs_pg:id":258831
     },
     "wof:country":"CN",
     "wof:created":1469055990,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":890516999,
-    "wof:lastmodified":1505343904,
+    "wof:lastmodified":1566693601,
     "wof:name":"\u5efa\u74ef\u5e02",
     "wof:parent_id":890516651,
     "wof:placetype":"localadmin",

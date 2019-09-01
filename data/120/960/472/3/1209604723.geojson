@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"112.7375,33.77389,112.7775,33.81389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -34,7 +38,7 @@
         "gn:id":1908985
     },
     "wof:country":"CN",
-    "wof:geomhash":"e0c46fcf5059d1c8884317a10e31be37",
+    "wof:geomhash":"b6b8e39208e7db767ea0e00c7cea55d7",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209604723,
-    "wof:lastmodified":1536282050,
+    "wof:lastmodified":1566682431,
     "wof:name":"Gaozhuang",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     112.7575,
-    33.793890000000005,
+    33.79389,
     112.7575,
-    33.793890000000005
+    33.79389
 ],
   "geometry": {"coordinates":[112.75749999999999,33.79389],"type":"Point"}
 }

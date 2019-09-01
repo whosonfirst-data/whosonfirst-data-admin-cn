@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":27.13248,
     "lbl:longitude":114.988403,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":27.13248,
     "mps:longitude":114.988403,
     "mz:hierarchy_label":1,
@@ -155,7 +157,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0437\u0456\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kian-hsien"
     ],
     "name:urd_x_preferred":[
@@ -291,7 +293,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85669823,
@@ -305,7 +307,7 @@
         "fct:id":"06b47fe6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1806445,
         "gp:id":12685486,
-        "qs:id":136669,
+        "qs_pg:id":136669,
         "wd:id":"Q363262",
         "wk:page":"Ji'an"
     },
@@ -325,7 +327,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393200,
+    "wof:lastmodified":1566655661,
     "wof:name":"Ji\u2019an",
     "wof:parent_id":890514607,
     "wof:placetype":"locality",

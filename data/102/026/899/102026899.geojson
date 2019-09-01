@@ -15,6 +15,8 @@
     "iso:country":"CN",
     "lbl:latitude":34.786016,
     "lbl:longitude":113.67907,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":34.786016,
     "mps:longitude":113.67907,
     "mz:hierarchy_label":1,
@@ -408,9 +410,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0436\u0435\u043d\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
-        "Cheng"
-    ],
     "name:urd_x_preferred":[
         "\u0698\u06cc\u0646\u06af\u0698\u0648"
     ],
@@ -564,7 +563,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":4223,
     "wof:belongsto":[
@@ -580,7 +579,6 @@
         "gn:id":1784658,
         "gp:id":2172736,
         "loc:id":"n2008049243",
-        "qs:id":509307,
         "qs_pg:id":509307,
         "wd:id":"Q30340",
         "wk:page":"Zhengzhou"
@@ -601,7 +599,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393472,
+    "wof:lastmodified":1566655752,
     "wof:megacity":1,
     "wof:name":"Zhengzhou",
     "wof:parent_id":890515627,

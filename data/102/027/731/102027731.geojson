@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":22.26368,
     "lbl:longitude":109.978638,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.26368,
     "mps:longitude":109.978638,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0628\u0627\u064a"
     ],
@@ -103,7 +106,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0431\u0430\u0457"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pokpak"
     ],
     "name:urd_x_preferred":[
@@ -135,7 +138,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669717,
         102191569,
@@ -147,7 +150,6 @@
     "wof:concordances":{
         "gn:id":1816303,
         "gp:id":2166486,
-        "qs:id":372329,
         "qs_pg:id":372329,
         "wd:id":"Q10909537"
     },
@@ -164,7 +166,7 @@
         }
     ],
     "wof:id":102027731,
-    "wof:lastmodified":1563393122,
+    "wof:lastmodified":1566655634,
     "wof:name":"Bobai",
     "wof:parent_id":890514591,
     "wof:placetype":"locality",

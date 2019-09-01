@@ -11,7 +11,7 @@
     "geom:longitude":114.536739,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":34.618738,
     "lbl:longitude":114.489446,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6cb3\u5357\u7701",
     "meso:dissme":"\u5f00\u5c01\u5e02\u6cb3\u5357\u7701",
     "meso:gadm_adm2":"Kaifeng",
@@ -46,6 +48,7 @@
     "mps:longitude":114.489446,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Kaifeng"
     ],
@@ -181,7 +184,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0439\u0444\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u2019ai-feng Shih"
     ],
     "name:urd_x_preferred":[
@@ -220,9 +223,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"6444",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Kaifeng Shi",
@@ -244,7 +247,7 @@
         "gn:id":1804878,
         "gp:id":26198104,
         "hasc:id":"CN.HE.KF",
-        "qs:id":1086172
+        "qs_pg:id":1086172
     },
     "wof:country":"CN",
     "wof:created":1469055893,
@@ -259,7 +262,7 @@
         }
     ],
     "wof:id":890515157,
-    "wof:lastmodified":1564249979,
+    "wof:lastmodified":1566693764,
     "wof:name":"Kaifeng",
     "wof:parent_id":85669801,
     "wof:placetype":"county",

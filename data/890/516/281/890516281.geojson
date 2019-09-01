@@ -11,12 +11,16 @@
     "geom:longitude":117.96378,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":68351,
+    "gn:population":68351,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"117.94378,32.76017,117.98378,32.80017",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Chia-shan-hsien"
     ],
     "qs:name":"\u660e\u5149",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1800519,
         "gp:id":2127904,
-        "qs:id":190329
+        "qs_pg:id":190329
     },
     "wof:country":"CN",
     "wof:created":1469055951,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890516281,
-    "wof:lastmodified":1505343901,
+    "wof:lastmodified":1566693608,
     "wof:name":"\u660e\u5149",
     "wof:parent_id":890513329,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":24.760585,
     "lbl:longitude":118.087344,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u798f\u5efa\u7701",
     "meso:dissme":"\u53a6\u95e8\u5e02\u798f\u5efa\u7701",
     "meso:gadm_adm2":"Xiamen",
@@ -42,6 +44,7 @@
     "mps:longitude":118.087344,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Xiamen"
     ],
@@ -204,9 +207,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u044f\u043c\u0435\u043d\u044c"
     ],
-    "name:und_x_variant":[
-        "\u53a6\u95e8\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u06cc\u0627\u0645\u06cc\u0646"
     ],
@@ -223,9 +223,9 @@
         "\u53a6\u95e8\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"1565",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Xiamen Shi",
@@ -259,7 +259,7 @@
         }
     ],
     "wof:id":1108732375,
-    "wof:lastmodified":1564234226,
+    "wof:lastmodified":1566688013,
     "wof:name":"Xiamen",
     "wof:parent_id":85669735,
     "wof:placetype":"county",

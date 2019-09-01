@@ -11,7 +11,7 @@
     "geom:longitude":113.01051,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
         "Pingdingshan City"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":33.869221,
     "lbl:longitude":112.999727,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6cb3\u5357\u7701",
     "meso:dissme":"\u5e73\u9876\u5c71\u5e02\u6cb3\u5357\u7701",
     "meso:gadm_adm2":"Pingdingshan",
@@ -45,6 +47,7 @@
     "mps:longitude":112.999727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Pingdingshan"
     ],
@@ -144,7 +147,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u043d\u0434\u0456\u043d\u0448\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u2019ing-ting-shan Shih"
     ],
     "name:urd_x_preferred":[
@@ -170,9 +173,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"7882",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Pingdingshan Shi",
@@ -193,7 +196,7 @@
     "wof:concordances":{
         "gn:id":1798826,
         "hasc:id":"CN.HE.PD",
-        "qs:id":1027579
+        "qs_pg:id":1027579
     },
     "wof:country":"CN",
     "wof:created":1469055779,
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":890512655,
-    "wof:lastmodified":1564249958,
+    "wof:lastmodified":1566693754,
     "wof:name":"Pingdingshan",
     "wof:parent_id":85669801,
     "wof:placetype":"county",

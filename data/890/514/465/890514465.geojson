@@ -11,7 +11,7 @@
     "geom:longitude":113.903175,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":27.581261,
     "lbl:longitude":113.879631,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6c5f\u897f\u7701",
     "meso:dissme":"\u840d\u4e61\u5e02\u6c5f\u897f\u7701",
     "meso:gadm_adm2":"Pingxiang",
@@ -46,6 +48,7 @@
     "mps:longitude":113.879631,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646\u063a\u0634\u064a\u0627\u0646\u063a"
     ],
@@ -130,7 +133,7 @@
     "name:tur_x_preferred":[
         "Pingxiang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u2019ing-hsiang Shih"
     ],
     "name:urd_x_preferred":[
@@ -166,9 +169,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"3827",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Pingxiang Shi",
@@ -190,7 +193,7 @@
         "gn:id":1798652,
         "gp:id":26198039,
         "hasc:id":"CN.JX.PX",
-        "qs:id":1052152
+        "qs_pg:id":1052152
     },
     "wof:country":"CN",
     "wof:created":1469055861,
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":890514465,
-    "wof:lastmodified":1564249768,
+    "wof:lastmodified":1566693669,
     "wof:name":"Pingxiang",
     "wof:parent_id":85669823,
     "wof:placetype":"county",

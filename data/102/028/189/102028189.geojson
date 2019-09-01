@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001092,
-    "geom:area_square_m":12258709.378752,
+    "geom:area_square_m":12258709.378728,
     "geom:bbox":"110.463133605,24.7128540971,110.504883237,24.7508734069",
     "geom:latitude":24.732941,
     "geom:longitude":110.482541,
@@ -14,10 +14,13 @@
     "iso:country":"CN",
     "lbl:latitude":24.732842,
     "lbl:longitude":110.484232,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.732842,
     "mps:longitude":110.484232,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hanjiang"
     ],
@@ -63,7 +66,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":340,
     "wof:belongsto":[
         85669717,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":102028189,
-    "wof:lastmodified":1527637788,
+    "wof:lastmodified":1566655724,
     "wof:name":"Yangshou",
     "wof:parent_id":1108732443,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":23.579092,
     "lbl:longitude":116.724243,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":23.579092,
     "mps:longitude":116.724243,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Longdu"
     ],
@@ -31,7 +34,7 @@
     "name:swe_x_preferred":[
         "Longdu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Longdu Zhen"
     ],
     "name:wuu_x_preferred":[
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":140,
     "wof:belongsto":[
         85669743,
@@ -70,7 +73,6 @@
     "wof:concordances":{
         "gn:id":1919656,
         "gp:id":20253862,
-        "qs:id":1028276,
         "qs_pg:id":1028276,
         "wd:id":"Q6673703",
         "wk:page":"Longdu"
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":102027817,
-    "wof:lastmodified":1563393152,
+    "wof:lastmodified":1566655643,
     "wof:name":"Longdu",
     "wof:parent_id":1108732449,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"116.83671,26.06813,116.87671,26.10813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0627\u0648\u064a\u0648\u0627\u0646"
     ],
@@ -103,9 +107,6 @@
     "name:tur_x_preferred":[
         "Liaoyuan"
     ],
-    "name:und_x_variant":[
-        "\u5ed6\u5143"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0627\u0648\u06cc\u0648\u0627\u0646"
     ],
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1360205673,
-    "wof:lastmodified":1564244018,
+    "wof:lastmodified":1566691655,
     "wof:name":"Liaoyuan",
     "wof:parent_id":890516573,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"117.84833,27.93889,117.88833,27.97889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -34,7 +38,7 @@
         "gn:id":1924122
     },
     "wof:country":"CN",
-    "wof:geomhash":"4a97c52858931cce459403502f5e0958",
+    "wof:geomhash":"245fdd1af3740511ad0478dc4dfb2464",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209112557,
-    "wof:lastmodified":1536297359,
+    "wof:lastmodified":1566682921,
     "wof:name":"Shawoli",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     117.86833,
-    27.958890000000004,
+    27.95889,
     117.86833,
-    27.958890000000004
+    27.95889
 ],
   "geometry": {"coordinates":[117.86833,27.95889],"type":"Point"}
 }

@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.925587,
     "lbl:longitude":116.390004,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.926062,
     "mps:longitude":116.390498,
     "mz:hierarchy_label":1,
@@ -34,9 +35,6 @@
         "Jingshan"
     ],
     "name:nor_x_preferred":[
-        "Jingshan"
-    ],
-    "name:unk_x_variant":[
         "Jingshan"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -67,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":118,
     "wof:belongsto":[
         102191569,
@@ -80,7 +78,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724390,
-        "qs:id":853688,
         "qs_pg:id":853688
     },
     "wof:country":"CN",
@@ -100,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564190852,
+    "wof:lastmodified":1566665036,
     "wof:name":"Jingshan",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

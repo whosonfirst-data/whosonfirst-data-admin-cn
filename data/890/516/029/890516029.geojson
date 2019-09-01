@@ -11,11 +11,15 @@
     "geom:longitude":101.26361,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"101.24361,36.66722,101.28361,36.70722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Huangyuan Xian"
     ],
@@ -55,7 +59,7 @@
     "name:swe_x_preferred":[
         "Huangyuan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Thangkar"
     ],
     "name:vie_x_preferred":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":1807128,
         "gp:id":2138946,
-        "qs:id":136673,
+        "qs_pg:id":136673,
         "wd:id":"Q1356903",
         "wk:page":"Huangyuan County"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":890516029,
-    "wof:lastmodified":1563459277,
+    "wof:lastmodified":1566693629,
     "wof:name":"\u6e5f\u6e90",
     "wof:parent_id":890515671,
     "wof:placetype":"locality",

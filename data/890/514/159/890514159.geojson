@@ -11,11 +11,15 @@
     "geom:longitude":117.76412,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"117.66412,24.2916,117.86412,24.4916",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Longhai Xian"
     ],
     "name:zho_x_preferred":[
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1802632,
-        "qs:id":1027629
+        "qs_pg:id":1027629
     },
     "wof:country":"CN",
     "wof:created":1469055850,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890514159,
-    "wof:lastmodified":1505343895,
+    "wof:lastmodified":1566693655,
     "wof:name":"Longhai Shi",
     "wof:parent_id":890513339,
     "wof:placetype":"localadmin",

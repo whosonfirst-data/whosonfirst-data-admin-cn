@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"123.42903,40.45558,123.46903,40.49558",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Longmen"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:pol_x_preferred":[
         "Longmen"
-    ],
-    "name:und_x_variant":[
-        "\u9f99\u95e8"
     ],
     "name:vie_x_preferred":[
         "Long M\u00f4n"
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1260351319,
-    "wof:lastmodified":1564233538,
+    "wof:lastmodified":1566687692,
     "wof:name":"Longmen",
     "wof:parent_id":890514231,
     "wof:placetype":"locality",

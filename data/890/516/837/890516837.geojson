@@ -11,11 +11,15 @@
     "geom:longitude":106.76306,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":650,
+    "gn:population":650,
     "iso:country":"CN",
+    "lbl:bbox":"106.74306,28.17778,106.78306,28.21778",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Lizi"
     ],
     "qs:name":"Liziba",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1802726,
         "gp:id":2146881,
-        "qs:id":561874
+        "qs_pg:id":561874
     },
     "wof:country":"CN",
     "wof:created":1469055978,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890516837,
-    "wof:lastmodified":1505343903,
+    "wof:lastmodified":1566693635,
     "wof:name":"Liziba",
     "wof:parent_id":890516473,
     "wof:placetype":"locality",

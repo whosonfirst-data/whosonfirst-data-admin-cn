@@ -11,9 +11,12 @@
     "geom:longitude":129.26667,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":121367,
+    "gn:population":121367,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"129.24667,47.11333,129.28667,47.15333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -50,7 +53,7 @@
     "name:swe_x_preferred":[
         "Nancha"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nan-ch\u2019a-t\u2019un"
     ],
     "name:vie_x_preferred":[
@@ -181,7 +184,7 @@
     "wof:concordances":{
         "gn:id":2035669,
         "gp:id":2141203,
-        "qs:id":137730,
+        "qs_pg:id":137730,
         "wd:id":"Q476833",
         "wk:page":"Nancha District"
     },
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":890516145,
-    "wof:lastmodified":1563459229,
+    "wof:lastmodified":1566693614,
     "wof:name":"\u5357\u5c94\u533a",
     "wof:parent_id":890515199,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":117.07306,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":7533,
+    "gn:population":7533,
     "iso:country":"CN",
+    "lbl:bbox":"117.05306,39.1675,117.09306,39.2075",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Han-chia-shu"
     ],
     "name:zho_x_preferred":[
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1808899,
         "gp:id":2159928,
-        "qs:id":562894
+        "qs_pg:id":562894
     },
     "wof:country":"CN",
     "wof:created":1469056002,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890517307,
-    "wof:lastmodified":1505343905,
+    "wof:lastmodified":1566693584,
     "wof:name":"Hanjiashu",
     "wof:parent_id":890513813,
     "wof:placetype":"locality",

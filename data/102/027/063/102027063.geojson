@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":39.677598,
     "lbl:longitude":106.825561,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":39.677598,
     "mps:longitude":106.825561,
     "mz:hierarchy_label":1,
@@ -159,9 +161,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u0445\u0430\u0439"
     ],
-    "name:unk_x_variant":[
-        "Hai-po-wan"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u0648\u06c1\u0627\u0626\u06cc"
     ],
@@ -294,7 +293,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85669847,
@@ -308,7 +307,7 @@
         "fct:id":"06b7fbc6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1791249,
         "gp:id":12686884,
-        "qs:id":959210,
+        "qs_pg:id":959210,
         "wd:id":"Q570768",
         "wk:page":"Haibowan District"
     },
@@ -328,7 +327,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393192,
+    "wof:lastmodified":1566655656,
     "wof:name":"Wuhai",
     "wof:parent_id":890514877,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":125.67528,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":99419,
+    "gn:population":99419,
     "iso:country":"CN",
+    "lbl:bbox":"125.65528,42.50722,125.69528,42.54722",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u064a\u0647\u064a\u0643\u0648"
     ],
@@ -117,7 +121,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0439\u0445\u0435\u043a\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hai-lung"
     ],
     "name:urd_x_preferred":[
@@ -149,7 +153,7 @@
     "wof:concordances":{
         "gn:id":2035801,
         "gp:id":2137686,
-        "qs:id":571356,
+        "qs_pg:id":571356,
         "wd:id":"Q971498",
         "wk:page":"Meihekou"
     },
@@ -167,7 +171,7 @@
         }
     ],
     "wof:id":890511671,
-    "wof:lastmodified":1563459354,
+    "wof:lastmodified":1566693650,
     "wof:name":"Meihekou",
     "wof:parent_id":890516249,
     "wof:placetype":"locality",

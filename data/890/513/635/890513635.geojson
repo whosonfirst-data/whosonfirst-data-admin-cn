@@ -11,10 +11,14 @@
     "geom:longitude":116.32693,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":104904,
+    "gn:population":104904,
     "iso:country":"CN",
+    "lbl:bbox":"116.30693,39.72025,116.34693,39.76025",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0634\u064a\u0646\u063a"
     ],
@@ -75,7 +79,7 @@
     "name:tur_x_preferred":[
         "Daxing"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Huangcun"
     ],
     "name:urd_x_preferred":[
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":1807544,
         "gp:id":2150987,
-        "qs:id":562687,
+        "qs_pg:id":562687,
         "wd:id":"Q393445",
         "wk:page":"Daxing District"
     },
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":890513635,
-    "wof:lastmodified":1563459574,
+    "wof:lastmodified":1566693709,
     "wof:name":"Daxing",
     "wof:parent_id":1108732371,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":36.050357,
     "lbl:longitude":103.850246,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":36.050357,
     "mps:longitude":103.850246,
     "mz:hierarchy_label":1,
@@ -275,9 +277,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u043d\u044c\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
-        "Kao-lan-hsien"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0646\u0698\u0648"
     ],
@@ -426,7 +425,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":4243,
     "wof:belongsto":[
@@ -441,10 +440,12 @@
         "fct:id":"06b7ad4c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1804430,
         "gp:id":2145605,
-        "qs:id":839781,
         "qs_pg:id":221701,
         "wd:id":"Q183584",
         "wk:page":"Lanzhou"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":839781
     },
     "wof:country":"CN",
     "wof:geomhash":"5d0c60af9f0ebbf8fc448013b414ef5e",
@@ -462,7 +463,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393124,
+    "wof:lastmodified":1566655635,
     "wof:megacity":1,
     "wof:name":"Lanzhou",
     "wof:parent_id":890513013,

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":39.836931,
     "lbl:longitude":98.200412,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u7518\u8083\u7701",
     "meso:dissme":"\u5609\u5cea\u5173\u5e02\u7518\u8083\u7701",
     "meso:gadm_adm2":"Jiayuguan",
@@ -42,22 +44,20 @@
     "mps:longitude":98.200412,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Jiayuguan"
     ],
     "name:nor_x_preferred":[
         "Jiayuguan"
     ],
-    "name:und_x_variant":[
-        "\u5609\u5cea\u5173\u5e02"
-    ],
     "name:zho_x_preferred":[
         "\u5609\u5cea\u5173\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"2935",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Jiayuguang Shi",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1108732393,
-    "wof:lastmodified":1564234223,
+    "wof:lastmodified":1566688011,
     "wof:name":"Jiayuguan",
     "wof:parent_id":85669711,
     "wof:placetype":"county",

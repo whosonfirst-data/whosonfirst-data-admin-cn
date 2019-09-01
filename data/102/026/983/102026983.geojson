@@ -15,6 +15,8 @@
     "iso:country":"CN",
     "lbl:latitude":34.266233,
     "lbl:longitude":117.1779,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":34.266233,
     "mps:longitude":117.1779,
     "mz:hierarchy_label":1,
@@ -200,7 +202,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u044e\u0439\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Suchow"
     ],
     "name:urd_x_preferred":[
@@ -335,7 +337,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85669827,
@@ -349,10 +351,12 @@
         "fct:id":"06b4999a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1787824,
         "gp:id":2137084,
-        "qs:id":136311,
-        "qs_pg:id":1086822,
+        "qs_pg:id":136311,
         "wd:id":"Q57719",
         "wk:page":"Xuzhou"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1086822
     },
     "wof:country":"CN",
     "wof:geomhash":"f4c86bb06cc9c305022653d5e82d537c",
@@ -370,7 +374,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393441,
+    "wof:lastmodified":1566655742,
     "wof:megacity":1,
     "wof:name":"Tongshan",
     "wof:parent_id":890516333,

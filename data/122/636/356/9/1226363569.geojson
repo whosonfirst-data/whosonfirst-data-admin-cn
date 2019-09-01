@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"118.22355,26.46815,118.26355,26.50815",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0646\u063a \u064a\u0627\u0646\u063a"
     ],
@@ -76,9 +80,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043d\u044f\u043d"
     ],
-    "name:und_x_variant":[
-        "\u4e1c\u6d0b"
-    ],
     "name:urd_x_preferred":[
         "\u0688\u0648\u0646\u06af\u06cc\u0627\u0646\u06af"
     ],
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1226363569,
-    "wof:lastmodified":1564280088,
+    "wof:lastmodified":1566705670,
     "wof:name":"Dongyang",
     "wof:parent_id":890516651,
     "wof:placetype":"locality",

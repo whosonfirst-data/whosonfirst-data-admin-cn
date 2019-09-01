@@ -11,7 +11,7 @@
     "geom:longitude":116.628035,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":39.195182,
     "lbl:longitude":116.53908,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6cb3\u5317\u7701",
     "meso:dissme":"\u5eca\u574a\u5e02\u6cb3\u5317\u7701",
     "meso:gadm_adm2":"Langfang",
@@ -46,6 +48,7 @@
     "mps:longitude":116.53908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Langfang"
     ],
@@ -142,7 +145,7 @@
     "name:uig_x_preferred":[
         "Langfang shehiri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u2019ien-chin Ti-ch\u2019\u00fc"
     ],
     "name:urd_x_preferred":[
@@ -178,9 +181,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"6429",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Langfang Shi",
@@ -202,7 +205,7 @@
         "gn:id":1804539,
         "gp:id":26198363,
         "hasc:id":"CN.HB.LF",
-        "qs:id":1193881
+        "qs_pg:id":1193881
     },
     "wof:country":"CN",
     "wof:created":1469055989,
@@ -217,7 +220,7 @@
         }
     ],
     "wof:id":890516977,
-    "wof:lastmodified":1564249645,
+    "wof:lastmodified":1566693613,
     "wof:name":"Langfang",
     "wof:parent_id":85669797,
     "wof:placetype":"county",

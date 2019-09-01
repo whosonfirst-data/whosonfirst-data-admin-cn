@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"124.47,42.5444,124.51,42.5844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Hegang"
     ],
@@ -118,9 +122,6 @@
     "name:tur_x_preferred":[
         "Hegang"
     ],
-    "name:und_x_variant":[
-        "\u9e64\u5c97"
-    ],
     "name:urd_x_preferred":[
         "\u06c1\u06cc\u06af\u0627\u0646\u06af"
     ],
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":1242740171,
-    "wof:lastmodified":1564251776,
+    "wof:lastmodified":1566694397,
     "wof:name":"Hegang",
     "wof:parent_id":890514741,
     "wof:placetype":"locality",

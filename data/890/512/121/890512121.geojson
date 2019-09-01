@@ -11,8 +11,11 @@
     "geom:longitude":132.03222,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":89442,
+    "gn:population":89442,
     "iso:country":"CN",
+    "lbl:bbox":"132.01222,47.24,132.05222,47.28",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -31,7 +34,7 @@
     "name:rus_x_preferred":[
         "\u0424\u0443\u0446\u0437\u0438\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fu-chin"
     ],
     "ne:ADM0CAP":0.0,
@@ -143,7 +146,7 @@
     "wof:concordances":{
         "gn:id":2037375,
         "gp:id":2141187,
-        "qs:id":571497,
+        "qs_pg:id":571497,
         "wk:page":"Fujin"
     },
     "wof:country":"CN",
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":890512121,
-    "wof:lastmodified":1564249938,
+    "wof:lastmodified":1566693746,
     "wof:name":"Fujin",
     "wof:parent_id":890514505,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":113.470085,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":34.643086,
     "lbl:longitude":113.530678,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6cb3\u5357\u7701",
     "meso:dissme":"\u90d1\u5dde\u5e02\u6cb3\u5357\u7701",
     "meso:gadm_adm2":"Zhengzhou",
@@ -46,6 +48,7 @@
     "mps:longitude":113.530678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Zhengzhou"
     ],
@@ -358,7 +361,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0436\u0435\u043d\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cheng-chou Shih"
     ],
     "name:urd_x_preferred":[
@@ -403,9 +406,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"7446",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Zhengzhou Shi",
@@ -427,7 +430,7 @@
         "gn:id":1784657,
         "gp:id":26198373,
         "hasc:id":"CN.HE.ZZ",
-        "qs:id":61251
+        "qs_pg:id":61251
     },
     "wof:country":"CN",
     "wof:created":1469055924,
@@ -442,7 +445,7 @@
         }
     ],
     "wof:id":890515627,
-    "wof:lastmodified":1564249994,
+    "wof:lastmodified":1566693771,
     "wof:name":"Zhengzhou",
     "wof:parent_id":85669801,
     "wof:placetype":"county",

@@ -11,8 +11,11 @@
     "geom:longitude":115.04472,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":373422,
+    "gn:population":373422,
     "iso:country":"CN",
+    "lbl:bbox":"115.02472,40.59028,115.06472,40.63028",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -37,7 +40,7 @@
     "name:swe_x_preferred":[
         "Xuanhua"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hs\u00fcan-hua-ch\u2019eng"
     ],
     "name:zho_x_preferred":[
@@ -152,7 +155,7 @@
     "wof:concordances":{
         "gn:id":2033574,
         "gp:id":2171296,
-        "qs:id":571086,
+        "qs_pg:id":571086,
         "wk:page":"Xuanhua"
     },
     "wof:country":"CN",
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":890513697,
-    "wof:lastmodified":1564249889,
+    "wof:lastmodified":1566693724,
     "wof:name":"Xuanhua",
     "wof:parent_id":890516481,
     "wof:placetype":"locality",

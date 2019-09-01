@@ -11,7 +11,7 @@
     "geom:longitude":115.279122,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":3870000,
+    "gn:population":3870000,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":35.701415,
     "lbl:longitude":115.134386,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6cb3\u5357\u7701",
     "meso:dissme":"\u6fee\u9633\u5e02\u6cb3\u5357\u7701",
     "meso:gadm_adm2":"Puyang",
@@ -46,6 +48,7 @@
     "mps:longitude":115.134386,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Puyang"
     ],
@@ -136,9 +139,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u044f\u043d"
     ],
-    "name:unk_x_variant":[
-        "\u6fee\u9633"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u06cc\u0627\u0646\u06af"
     ],
@@ -169,9 +169,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"4271",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Puyang Shi",
@@ -193,7 +193,7 @@
         "gn:id":1941243,
         "gp:id":26198106,
         "hasc:id":"CN.HE.PY",
-        "qs:id":1014473
+        "qs_pg:id":1014473
     },
     "wof:country":"CN",
     "wof:created":1469055847,
@@ -208,7 +208,7 @@
         }
     ],
     "wof:id":890514079,
-    "wof:lastmodified":1564249752,
+    "wof:lastmodified":1566693661,
     "wof:name":"Puyang",
     "wof:parent_id":85669801,
     "wof:placetype":"county",

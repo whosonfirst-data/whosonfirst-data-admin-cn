@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":29.204918,
     "lbl:longitude":121.931763,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":29.204918,
     "mps:longitude":121.931763,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shipu"
     ],
@@ -34,7 +37,7 @@
     "name:swe_x_preferred":[
         "Shipu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shih-p\u2019u"
     ],
     "name:wuu_x_preferred":[
@@ -58,7 +61,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669835,
         102191569,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":102027155,
-    "wof:lastmodified":1563393264,
+    "wof:lastmodified":1566655681,
     "wof:name":"Shipu",
     "wof:parent_id":890516553,
     "wof:placetype":"locality",

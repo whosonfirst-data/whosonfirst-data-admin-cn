@@ -11,10 +11,14 @@
     "geom:longitude":104.11649,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"104.01649,28.39991,104.21649,28.59991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shuifu Xian"
     ],
@@ -46,9 +50,6 @@
         "Shuifu"
     ],
     "name:swe_x_preferred":[
-        "Shuifu"
-    ],
-    "name:unk_x_variant":[
         "Shuifu"
     ],
     "name:urd_x_preferred":[
@@ -86,7 +87,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1794488,
-        "qs:id":1027522,
+        "qs_pg:id":1027522,
         "wd:id":"Q582534",
         "wk:page":"Shuifu County"
     },
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":890514103,
-    "wof:lastmodified":1563459374,
+    "wof:lastmodified":1566693654,
     "wof:name":"Shuifu Xian",
     "wof:parent_id":890514257,
     "wof:placetype":"localadmin",

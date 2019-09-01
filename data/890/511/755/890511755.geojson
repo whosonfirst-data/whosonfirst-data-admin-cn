@@ -11,11 +11,15 @@
     "geom:longitude":106.3404,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":2000,
+    "gn:population":2000,
     "iso:country":"CN",
+    "lbl:bbox":"106.3204,28.88889,106.3604,28.92889",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Ts\u2019ai-chia-kang"
     ],
     "name:zho_x_preferred":[
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1816162,
         "gp:id":2157439,
-        "qs:id":136892
+        "qs_pg:id":136892
     },
     "wof:country":"CN",
     "wof:created":1469055744,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890511755,
-    "wof:lastmodified":1505343884,
+    "wof:lastmodified":1566693643,
     "wof:name":"Caijia",
     "wof:parent_id":890513063,
     "wof:placetype":"locality",

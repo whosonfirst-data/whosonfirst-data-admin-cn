@@ -11,11 +11,15 @@
     "geom:longitude":110.05556,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":320,
+    "gn:population":320,
     "iso:country":"CN",
+    "lbl:bbox":"110.03556,27.11222,110.07556,27.15222",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Shen-tu"
     ],
     "qs:name":"Shendu Miaozuxiang",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1795697,
         "gp:id":2142710,
-        "qs:id":560741
+        "qs_pg:id":560741
     },
     "wof:country":"CN",
     "wof:created":1469055870,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890514669,
-    "wof:lastmodified":1505343898,
+    "wof:lastmodified":1566693667,
     "wof:name":"Shendu Miaozuxiang",
     "wof:parent_id":890514349,
     "wof:placetype":"locality",

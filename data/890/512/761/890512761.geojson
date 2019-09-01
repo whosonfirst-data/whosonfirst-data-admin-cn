@@ -11,7 +11,7 @@
     "geom:longitude":111.794511,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
         "Yunfu City"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":22.890274,
     "lbl:longitude":111.673359,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5e7f\u4e1c\u7701",
     "meso:dissme":"\u4e91\u6d6e\u5e02\u5e7f\u4e1c\u7701",
     "meso:gadm_adm2":"Yunfu",
@@ -45,6 +47,7 @@
     "mps:longitude":111.673359,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u064a\u0627\u0646\u0641\u0648"
     ],
@@ -132,7 +135,7 @@
     "name:tur_x_preferred":[
         "Yunfu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yunfu Xian"
     ],
     "name:urd_x_preferred":[
@@ -155,9 +158,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"7779",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Yunfu Shi",
@@ -178,7 +181,7 @@
     "wof:concordances":{
         "gn:id":1785723,
         "hasc:id":"CN.GD.YF",
-        "qs:id":1152037
+        "qs_pg:id":1152037
     },
     "wof:country":"CN",
     "wof:created":1469055784,
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":890512761,
-    "wof:lastmodified":1564249949,
+    "wof:lastmodified":1566693750,
     "wof:name":"Yunfu",
     "wof:parent_id":85669743,
     "wof:placetype":"county",

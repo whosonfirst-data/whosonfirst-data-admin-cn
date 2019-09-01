@@ -11,7 +11,7 @@
     "geom:longitude":110.52677,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":29.358959,
     "lbl:longitude":110.59256,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6e56\u5357\u7701",
     "meso:dissme":"\u5f20\u5bb6\u754c\u5e02\u6e56\u5357\u7701",
     "meso:gadm_adm2":"Zhangjiajie",
@@ -46,6 +48,7 @@
     "mps:longitude":110.59256,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0632\u0627\u0646\u063a\u062c\u064a\u0627\u062c\u064a"
     ],
@@ -145,7 +148,7 @@
     "name:tur_x_preferred":[
         "Zhangjiajie"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ta-yung Hsien"
     ],
     "name:urd_x_preferred":[
@@ -175,9 +178,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"9690",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Zhangjiajie Shi",
@@ -199,7 +202,7 @@
         "gn:id":1813170,
         "gp:id":26198210,
         "hasc:id":"CN.HN.ZJ",
-        "qs:id":1287934
+        "qs_pg:id":1287934
     },
     "wof:country":"CN",
     "wof:created":1469055810,
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":890513321,
-    "wof:lastmodified":1564249906,
+    "wof:lastmodified":1566693731,
     "wof:name":"Zhangjiajie",
     "wof:parent_id":85669781,
     "wof:placetype":"county",

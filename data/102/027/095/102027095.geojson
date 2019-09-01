@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000473,
-    "geom:area_square_m":5161411.055484,
+    "geom:area_square_m":5161411.055482,
     "geom:bbox":"106.815383351,28.1162606738,106.835739624,28.1439943386",
     "geom:latitude":28.130128,
     "geom:longitude":106.825562,
@@ -13,11 +13,14 @@
     "iso:country":"CN",
     "lbl:latitude":28.130127,
     "lbl:longitude":106.825561,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":28.130127,
     "mps:longitude":106.825561,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Tungtze-hsien"
     ],
     "name:zho_x_preferred":[
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85669721,
@@ -55,7 +58,6 @@
     "wof:concordances":{
         "gn:id":1792516,
         "gp:id":2146304,
-        "qs:id":1243433,
         "qs_pg:id":1243433
     },
     "wof:country":"CN",
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":102027095,
-    "wof:lastmodified":1505338994,
+    "wof:lastmodified":1566655696,
     "wof:name":"Loushanguan",
     "wof:parent_id":890516473,
     "wof:placetype":"locality",

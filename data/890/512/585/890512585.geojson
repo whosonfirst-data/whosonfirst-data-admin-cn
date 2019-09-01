@@ -11,10 +11,14 @@
     "geom:longitude":120.23222,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"120.21222,29.28028,120.25222,29.32028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Jiangbei"
     ],
@@ -27,7 +31,7 @@
     "name:swe_x_preferred":[
         "Jiangbei"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jiangbei Jiedao"
     ],
     "name:vie_x_preferred":[
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":7071582,
         "gp:id":20269372,
-        "qs:id":379867,
+        "qs_pg:id":379867,
         "wk:page":"Jiangbei"
     },
     "wof:country":"CN",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890512585,
-    "wof:lastmodified":1564249967,
+    "wof:lastmodified":1566693758,
     "wof:name":"Jiangbei",
     "wof:parent_id":890513337,
     "wof:placetype":"locality",

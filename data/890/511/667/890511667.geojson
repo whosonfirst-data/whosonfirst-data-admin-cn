@@ -11,8 +11,11 @@
     "geom:longitude":123.18361,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":106384,
+    "gn:population":106384,
     "iso:country":"CN",
+    "lbl:bbox":"123.16361,47.31028,123.20361,47.35028",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041b\u043e\u043d\u0446\u0437\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chukiakan"
     ],
     "name:zho_x_preferred":[
@@ -147,7 +150,7 @@
     "wof:concordances":{
         "gn:id":2035970,
         "gp:id":2141240,
-        "qs:id":571317,
+        "qs_pg:id":571317,
         "wk:page":"Longjiang"
     },
     "wof:country":"CN",
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":890511667,
-    "wof:lastmodified":1564249714,
+    "wof:lastmodified":1566693646,
     "wof:name":"Longjiang",
     "wof:parent_id":890516483,
     "wof:placetype":"locality",

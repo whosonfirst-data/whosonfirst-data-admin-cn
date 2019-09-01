@@ -11,7 +11,7 @@
     "geom:longitude":124.65636,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":41.801246,
     "lbl:longitude":124.731462,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u8fbd\u5b81\u7701",
     "meso:dissme":"\u629a\u987a\u5e02\u8fbd\u5b81\u7701",
     "meso:gadm_adm2":"Fushun",
@@ -46,6 +48,7 @@
     "mps:longitude":124.731462,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Fushun"
     ],
@@ -172,7 +175,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0443\u0448\u0443\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fu-shun Shih"
     ],
     "name:urd_x_preferred":[
@@ -208,9 +211,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"11273",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Fushun Shi",
@@ -232,7 +235,7 @@
         "gn:id":2037353,
         "gp:id":26198075,
         "hasc:id":"CN.LN.FS",
-        "qs:id":1201236
+        "qs_pg:id":1201236
     },
     "wof:country":"CN",
     "wof:created":1469055797,
@@ -247,7 +250,7 @@
         }
     ],
     "wof:id":890513011,
-    "wof:lastmodified":1564249883,
+    "wof:lastmodified":1566693721,
     "wof:name":"Fushun",
     "wof:parent_id":85669807,
     "wof:placetype":"county",

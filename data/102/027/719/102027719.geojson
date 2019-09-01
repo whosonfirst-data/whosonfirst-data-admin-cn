@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":19.285221,
     "lbl:longitude":109.055786,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.285221,
     "mps:longitude":109.055786,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Changjiang Lizu Zizhixian"
     ],
@@ -62,7 +65,7 @@
     "name:swe_x_preferred":[
         "Changjiang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Changjiang Xian"
     ],
     "name:urd_x_preferred":[
@@ -101,7 +104,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -113,7 +116,7 @@
         "fct:id":"06b6143c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1815692,
         "gp:id":12687687,
-        "qs:id":204454,
+        "qs_pg:id":204454,
         "wd:id":"Q1027323",
         "wk:page":"Changjiang Li Autonomous County"
     },
@@ -132,7 +135,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393354,
+    "wof:lastmodified":1566655709,
     "wof:name":"Changjiang Lizu Zizhixian",
     "wof:parent_id":1108732435,
     "wof:placetype":"locality",

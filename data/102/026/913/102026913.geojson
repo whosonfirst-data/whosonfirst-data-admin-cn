@@ -15,6 +15,8 @@
     "iso:country":"CN",
     "lbl:latitude":24.515694,
     "lbl:longitude":117.658114,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":24.515694,
     "mps:longitude":117.658114,
     "mz:hierarchy_label":1,
@@ -216,9 +218,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0436\u0430\u043d\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
-        "Lunki"
-    ],
     "name:urd_x_preferred":[
         "\u0698\u0627\u0646\u06af\u0698\u0648"
     ],
@@ -360,7 +359,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":701,
     "wof:belongsto":[
@@ -375,10 +374,12 @@
         "fct:id":"06b72110-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1785018,
         "gp:id":2139969,
-        "qs:id":1120163,
         "qs_pg:id":900446,
         "wd:id":"Q68814",
         "wk:page":"Zhangzhou"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1120163
     },
     "wof:country":"CN",
     "wof:geomhash":"e9f7f3d2a92dc4b57a159683624c4233",
@@ -396,7 +397,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393445,
+    "wof:lastmodified":1566655744,
     "wof:name":"Zhangzhou",
     "wof:parent_id":890513339,
     "wof:placetype":"locality",

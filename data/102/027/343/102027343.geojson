@@ -13,10 +13,13 @@
     "iso:country":"CN",
     "lbl:latitude":34.664014,
     "lbl:longitude":112.38969,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":34.664014,
     "mps:longitude":112.38969,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Luoyang"
     ],
@@ -221,7 +224,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lo-yang"
     ],
     "name:urd_x_preferred":[
@@ -259,7 +262,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2340,
     "wof:belongsto":[
@@ -273,7 +276,6 @@
     "wof:concordances":{
         "gn:id":1801797,
         "gp:id":2172738,
-        "qs:id":846442,
         "qs_pg:id":846442,
         "wd:id":"Q187136"
     },
@@ -290,7 +292,7 @@
         }
     ],
     "wof:id":102027343,
-    "wof:lastmodified":1563393377,
+    "wof:lastmodified":1566655717,
     "wof:name":"Luoyang",
     "wof:parent_id":890515631,
     "wof:placetype":"locality",

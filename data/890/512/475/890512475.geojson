@@ -11,10 +11,14 @@
     "geom:longitude":109.60917,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":76430,
+    "gn:population":76430,
     "iso:country":"CN",
+    "lbl:bbox":"109.58917,23.07639,109.62917,23.11639",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Guigang"
     ],
@@ -153,7 +157,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0439\u0433\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuei"
     ],
     "name:urd_x_preferred":[
@@ -194,7 +198,7 @@
     "wof:concordances":{
         "gn:id":1809532,
         "gp:id":2166479,
-        "qs:id":136707,
+        "qs_pg:id":136707,
         "wd:id":"Q571808",
         "wk:page":"Guigang"
     },
@@ -212,7 +216,7 @@
         }
     ],
     "wof:id":890512475,
-    "wof:lastmodified":1563459762,
+    "wof:lastmodified":1566693752,
     "wof:name":"Guigang",
     "wof:parent_id":1108732501,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"130.96667,45.3,130.96667,45.3",
     "geom:latitude":45.3,
     "geom:longitude":130.96667,
-    "gn:gn_country":"CN",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":403759,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
     "gn:population":403759,
     "iso:country":"CN",
+    "lbl:bbox":"130.94667,45.28,130.98667,45.32",
     "lbl:latitude":45.3,
     "lbl:longitude":130.96667,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062c\u064a\u0634\u0649"
@@ -169,7 +172,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0437\u0456\u0441\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chi-ning"
     ],
     "name:urd_x_preferred":[
@@ -215,7 +218,7 @@
     "qs_pg:woe_adm0":23424781,
     "qs_pg:woe_id":2141170,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424781,
     "woe:name_adm0":"\u4e2d\u570b",
@@ -249,7 +252,7 @@
         }
     ],
     "wof:id":1125822383,
-    "wof:lastmodified":1563459956,
+    "wof:lastmodified":1566693806,
     "wof:name":"\u9e21\u897f",
     "wof:parent_id":1108732547,
     "wof:placetype":"locality",

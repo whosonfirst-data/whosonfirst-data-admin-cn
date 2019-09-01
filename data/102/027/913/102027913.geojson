@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":40.815902,
     "lbl:longitude":111.680538,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":40.815902,
     "mps:longitude":111.680538,
     "mz:hierarchy_label":1,
@@ -269,7 +271,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0443\u0445-\u0425\u043e\u0442\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Suiy\u00fcan"
     ],
     "name:urd_x_preferred":[
@@ -410,7 +412,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3830,
     "wof:belongsto":[
@@ -425,10 +427,12 @@
         "fct:id":"06b7f9fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2036892,
         "gp:id":2149760,
-        "qs:id":1109389,
-        "qs_pg:id":1129819,
+        "qs_pg:id":1109389,
         "wd:id":"Q535534",
         "wk:page":"Hohhot"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1129819
     },
     "wof:country":"CN",
     "wof:geomhash":"397b936f71243ce6983f1ccbb2b41663",
@@ -446,7 +450,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393234,
+    "wof:lastmodified":1566655671,
     "wof:megacity":1,
     "wof:name":"Hohhot",
     "wof:parent_id":890513779,

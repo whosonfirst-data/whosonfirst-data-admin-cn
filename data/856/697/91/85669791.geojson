@@ -25,6 +25,7 @@
     ],
     "lbl:latitude":24.282346,
     "lbl:longitude":101.057809,
+    "lbl:min_zoom":8.0,
     "meso:name_alt":"\u96f2\u5357|\u4e91\u5357",
     "meso:name_loc":"\u4e91\u5357\u7701",
     "mps:latitude":24.27144,
@@ -311,11 +312,7 @@
         "\u042e\u043d\u044c\u043d\u0430\u043d\u044c"
     ],
     "name:und_x_variant":[
-        "\u96f2\u5357|\u4e91\u5357",
-        "\u4e91\u5357\u7701"
-    ],
-    "name:unk_x_variant":[
-        "Yunnan Sheng"
+        "\u96f2\u5357|\u4e91\u5357"
     ],
     "name:urd_x_preferred":[
         "\u06cc\u0648\u0646\u0646\u0627\u0646"
@@ -426,9 +423,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"388,610",
     "statoids:area_mi":"150,043",
     "statoids:as_of_date":"2010-11-01",
@@ -459,7 +456,7 @@
         "iso:id":"CN-YN",
         "loc:id":"n81059860",
         "nyt:id":"N1054741059483811661",
-        "qs:id":931673,
+        "qs_pg:id":931673,
         "unlc:id":"CN-53",
         "wd:id":"Q43194",
         "wk:page":"Yunnan"
@@ -486,11 +483,10 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1565664518,
+    "wof:lastmodified":1566665051,
     "wof:name":"Yunnan",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":45966239,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-cn",

@@ -11,10 +11,14 @@
     "geom:longitude":110.27722,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"110.17722,37.43222,110.37722,37.63222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Suide Xian"
     ],
@@ -51,7 +55,7 @@
     "name:swe_x_preferred":[
         "Suide"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sui-te Hsien"
     ],
     "name:vie_x_preferred":[
@@ -85,7 +89,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1793904,
-        "qs:id":1031505,
+        "qs_pg:id":1031505,
         "wd:id":"Q1201296",
         "wk:page":"Suide County"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":890514301,
-    "wof:lastmodified":1563459385,
+    "wof:lastmodified":1566693658,
     "wof:name":"Suide Xian",
     "wof:parent_id":890515097,
     "wof:placetype":"localadmin",

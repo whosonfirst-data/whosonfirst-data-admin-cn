@@ -11,8 +11,11 @@
     "geom:longitude":128.99722,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":85756,
+    "gn:population":85756,
     "iso:country":"CN",
+    "lbl:bbox":"128.97722,42.51974,129.01722,42.55974",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -124,7 +127,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0435\u043b\u0443\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San-tao-kou"
     ],
     "name:urd_x_preferred":[
@@ -248,7 +251,7 @@
     "wof:concordances":{
         "gn:id":2036933,
         "gp:id":2138302,
-        "qs:id":90610,
+        "qs_pg:id":90610,
         "wd:id":"Q699125",
         "wk:page":"Helong"
     },
@@ -266,7 +269,7 @@
         }
     ],
     "wof:id":890515819,
-    "wof:lastmodified":1563459835,
+    "wof:lastmodified":1566693770,
     "wof:name":"Helong",
     "wof:parent_id":1108732421,
     "wof:placetype":"locality",

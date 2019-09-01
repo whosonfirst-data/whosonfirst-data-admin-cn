@@ -14,10 +14,13 @@
     "iso:country":"CN",
     "lbl:latitude":39.169521,
     "lbl:longitude":117.163517,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.169521,
     "mps:longitude":117.163517,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hongqiao"
     ],
@@ -51,7 +54,7 @@
     "name:swe_x_preferred":[
         "Hongqiao"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Xiyuzhuang Jiedao"
     ],
     "name:urd_x_preferred":[
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669817,
         102191569,
@@ -97,7 +100,6 @@
     "wof:concordances":{
         "gn:id":8413208,
         "gp:id":2159800,
-        "qs:id":381720,
         "qs_pg:id":381720,
         "wd:id":"Q708237",
         "wk:page":"Hongqiao District"
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":102028175,
-    "wof:lastmodified":1563393397,
+    "wof:lastmodified":1566655725,
     "wof:name":"Xiyuzhuang",
     "wof:parent_id":890513813,
     "wof:placetype":"locality",

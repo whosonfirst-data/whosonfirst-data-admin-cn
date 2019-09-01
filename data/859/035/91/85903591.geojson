@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.916124,
     "lbl:longitude":116.416678,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.917109,
     "mps:longitude":116.417398,
     "mz:hierarchy_label":1,
@@ -45,9 +46,6 @@
     "name:swe_x_preferred":[
         "Chaoyangmen"
     ],
-    "name:unk_x_variant":[
-        "Chaoyangmen"
-    ],
     "name:zho_x_preferred":[
         "\u671d\u9633\u95e8"
     ],
@@ -77,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":443,
     "wof:belongsto":[
         102191569,
@@ -90,7 +88,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2151400,
-        "qs:id":215101,
         "qs_pg:id":215101,
         "wd:id":"Q985767"
     },
@@ -111,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563404355,
+    "wof:lastmodified":1566665033,
     "wof:name":"Chaoyangmen",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

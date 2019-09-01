@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00052,
-    "geom:area_square_m":5917851.272847,
+    "geom:area_square_m":5917851.272846,
     "geom:bbox":"114.044821747,22.9746595856,114.075296361,23.0028164236",
     "geom:latitude":22.988738,
     "geom:longitude":114.060059,
     "iso:country":"CN",
     "lbl:latitude":22.993801,
     "lbl:longitude":114.06492,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.993801,
     "mps:longitude":114.06492,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ch\u2019iao-t\u2019ou"
     ],
     "name:zho_x_preferred":[
@@ -34,7 +37,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669743,
         102191569,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":102027245,
-    "wof:lastmodified":1501222233,
+    "wof:lastmodified":1566655642,
     "wof:name":"Tiantoujiao",
     "wof:parent_id":890516401,
     "wof:placetype":"locality",

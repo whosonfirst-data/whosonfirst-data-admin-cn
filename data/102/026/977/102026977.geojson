@@ -15,6 +15,8 @@
     "iso:country":"CN",
     "lbl:latitude":33.359972,
     "lbl:longitude":120.15112,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":33.359972,
     "mps:longitude":120.15112,
     "mz:hierarchy_label":1,
@@ -191,7 +193,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u043d\u0447\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yen-ch\u2019eng-chen"
     ],
     "name:urd_x_preferred":[
@@ -334,7 +336,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1139,
     "wof:belongsto":[
@@ -349,10 +351,12 @@
         "fct:id":"06b499cc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1787746,
         "gp:id":2137091,
-        "qs:id":959151,
-        "qs_pg:id":1129722,
+        "qs_pg:id":959151,
         "wd:id":"Q57866",
         "wk:page":"Yancheng"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1129722
     },
     "wof:country":"CN",
     "wof:geomhash":"ac6d7f4605e452ea35e92f9d12fd7907",
@@ -370,7 +374,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393440,
+    "wof:lastmodified":1566655741,
     "wof:megacity":1,
     "wof:name":"Yancheng",
     "wof:parent_id":890515153,

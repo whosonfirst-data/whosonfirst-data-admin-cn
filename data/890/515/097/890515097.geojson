@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":38.129519,
     "lbl:longitude":109.758363,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u9655\u897f\u7701",
     "meso:dissme":"\u6986\u6797\u5e02\u9655\u897f\u7701",
     "meso:gadm_adm2":"Yulin",
@@ -43,6 +45,7 @@
     "mps:longitude":109.758363,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Yulin"
     ],
@@ -85,9 +88,6 @@
     "name:tur_x_preferred":[
         "Yulin"
     ],
-    "name:und_x_variant":[
-        "\u6986\u6797\u5e02"
-    ],
     "name:zho_x_preferred":[
         "\u6986\u6797\u5e02"
     ],
@@ -105,9 +105,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"43578",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Yulin Shi",
@@ -128,7 +128,7 @@
     "wof:concordances":{
         "gp:id":26198114,
         "hasc:id":"CN.SA.YL",
-        "qs:id":1061981
+        "qs_pg:id":1061981
     },
     "wof:country":"CN",
     "wof:created":1469055890,
@@ -143,7 +143,7 @@
         }
     ],
     "wof:id":890515097,
-    "wof:lastmodified":1564250005,
+    "wof:lastmodified":1566693775,
     "wof:name":"Yulin",
     "wof:parent_id":85669769,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Urumqi",
     "iso:country":"CN",
+    "lbl:bbox":"110.5196,21.01832,110.5596,21.05832",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:chv_x_preferred":[
         "\u0425\u043e\u0443\u0445\u0430\u0439"
     ],
@@ -44,10 +48,6 @@
         "\u0425\u043e\u0443\u0445\u0430\u0439"
     ],
     "name:swe_x_preferred":[
-        "Houhai"
-    ],
-    "name:und_x_variant":[
-        "\u540e\u6d77",
         "Houhai"
     ],
     "name:zho_x_preferred":[
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1343904383,
-    "wof:lastmodified":1564181025,
+    "wof:lastmodified":1566657654,
     "wof:name":"Houhai",
     "wof:parent_id":890514753,
     "wof:placetype":"locality",

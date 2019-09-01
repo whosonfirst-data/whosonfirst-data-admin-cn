@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001564,
-    "geom:area_square_m":14839853.859806,
+    "geom:area_square_m":14839853.859819,
     "geom:bbox":"116.4652464,39.8734319141,116.535115967,39.9252605666",
     "geom:latitude":39.898713,
     "geom:longitude":116.502478,
@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.906988,
     "lbl:longitude":116.50075,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.89197,
     "mps:longitude":116.499566,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Jiulongshan"
-    ],
-    "name:unk_x_variant":[
         "Jiulongshan"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12906613,
-        "qs:id":1251315,
         "qs_pg:id":1251315
     },
     "wof:country":"CN",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269154,
+    "wof:lastmodified":1566665026,
     "wof:name":"Jiulongshan",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

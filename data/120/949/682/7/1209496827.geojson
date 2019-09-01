@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"109.71306,25.06167,109.75306,25.10167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -34,7 +38,7 @@
         "gn:id":1992025
     },
     "wof:country":"CN",
-    "wof:geomhash":"39aa22551bb169689d724e2009e730de",
+    "wof:geomhash":"085830101d6f1e8d2866cf7c51e16a7e",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209496827,
-    "wof:lastmodified":1536285309,
+    "wof:lastmodified":1566681202,
     "wof:name":"Chuanyan",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     109.73306,
-    25.081670000000006,
+    25.08167000000001,
     109.73306,
-    25.081670000000006
+    25.08167000000001
 ],
   "geometry": {"coordinates":[109.73305999999999,25.08167000000001],"type":"Point"}
 }

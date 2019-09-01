@@ -11,12 +11,16 @@
     "geom:longitude":114.95,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":61847,
+    "gn:population":61847,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"114.93,30.06333,114.97,30.10333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Ta-yeh-hsien"
     ],
     "qs:name":"\u5927\u51b6",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1813206,
         "gp:id":2163890,
-        "qs:id":136824
+        "qs_pg:id":136824
     },
     "wof:country":"CN",
     "wof:created":1469055773,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890512509,
-    "wof:lastmodified":1505343888,
+    "wof:lastmodified":1566693750,
     "wof:name":"\u5927\u51b6",
     "wof:parent_id":890516683,
     "wof:placetype":"locality",

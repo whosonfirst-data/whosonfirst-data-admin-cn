@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":29.444381,
     "lbl:longitude":111.64856,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":29.444381,
     "mps:longitude":111.64856,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Linli Xian"
     ],
@@ -61,7 +64,7 @@
     "name:swe_x_preferred":[
         "Linli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lin-li-hsien"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         85669781,
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gn:id":1803382,
         "gp:id":12686193,
-        "qs:id":872698,
+        "qs_pg:id":872698,
         "wd:id":"Q1338719"
     },
     "wof:country":"CN",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":102027373,
-    "wof:lastmodified":1563393356,
+    "wof:lastmodified":1566655711,
     "wof:name":"Linli",
     "wof:parent_id":890515867,
     "wof:placetype":"locality",

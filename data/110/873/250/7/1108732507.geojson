@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":32.459168,
     "lbl:longitude":88.361751,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u897f\u85cf\u81ea\u6cbb\u533a",
     "meso:dissme":"\u90a3\u66f2\u5730\u533a\u897f\u85cf\u81ea\u6cbb\u533a",
     "meso:gadm_adm2":"Nagchu",
@@ -42,6 +44,7 @@
     "mps:longitude":88.361751,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09a8\u09be\u0997-\u099b\u09c1 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -135,9 +138,6 @@
     "name:tur_x_preferred":[
         "Nagqu"
     ],
-    "name:und_x_variant":[
-        "\u90a3\u66f2\u5730\u533a"
-    ],
     "name:vie_x_preferred":[
         "Nagqu"
     ],
@@ -154,9 +154,9 @@
         "\u90a3\u66f2\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"389330",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Naqu Zhen",
@@ -191,7 +191,7 @@
         }
     ],
     "wof:id":1108732507,
-    "wof:lastmodified":1563445096,
+    "wof:lastmodified":1566687983,
     "wof:name":"Naqu",
     "wof:parent_id":85669747,
     "wof:placetype":"county",

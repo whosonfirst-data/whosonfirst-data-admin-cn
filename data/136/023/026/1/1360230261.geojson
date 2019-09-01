@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"106.21473,32.44994,106.25473,32.48994",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Dashan"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0448\u0430\u043d"
-    ],
-    "name:und_x_variant":[
-        "\u5927\u5c71"
     ],
     "name:zho_x_preferred":[
         "\u5927\u5c71"
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1360230261,
-    "wof:lastmodified":1564242609,
+    "wof:lastmodified":1566691166,
     "wof:name":"Dashan",
     "wof:parent_id":890512741,
     "wof:placetype":"locality",

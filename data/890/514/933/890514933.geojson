@@ -11,12 +11,16 @@
     "geom:longitude":112.42611,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"112.32611,35.04056,112.52611,35.24056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Chi-y\u00fcan Hsien"
     ],
     "name:zho_x_preferred":[
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":1805010,
         "gp:id":12685896,
-        "qs:id":1013003
+        "qs_pg:id":1013003
     },
     "wof:country":"CN",
     "wof:created":1469055883,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890514933,
-    "wof:lastmodified":1505343898,
+    "wof:lastmodified":1566693683,
     "wof:name":"\u6d4e\u6e90\u5e02",
     "wof:parent_id":890515835,
     "wof:placetype":"localadmin",

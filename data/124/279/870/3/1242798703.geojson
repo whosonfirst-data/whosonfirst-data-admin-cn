@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"116.62991,26.24321,116.66991,26.28321",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cdo_x_preferred":[
         "N\u00ecng-hu\u00e1"
     ],
@@ -53,15 +57,13 @@
         "Ninghua"
     ],
     "name:und_x_variant":[
-        "Ninghua",
         "Ninghwa",
         "Ninghwa-hsien",
         "Ning-hua-hsien",
         "Cuijiang",
         "Cuijiang Zhen",
         "Ninghua Xian",
-        "\u7fe0\u6c5f\u9547",
-        "\u5b81\u5316\u53bf"
+        "\u7fe0\u6c5f\u9547"
     ],
     "name:vie_x_preferred":[
         "Ninh H\u00f3a"
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":1242798703,
-    "wof:lastmodified":1564258552,
+    "wof:lastmodified":1566696710,
     "wof:name":"Cuijiang",
     "wof:parent_id":890516573,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000684,
-    "geom:area_square_m":6478563.479459,
+    "geom:area_square_m":6478563.479455,
     "geom:bbox":"116.248752103,39.9587560679,116.309509277,39.9771200984",
     "geom:latitude":39.968216,
     "geom:longitude":116.282247,
@@ -14,6 +14,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.967517,
     "lbl:longitude":116.293635,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.970805,
     "mps:longitude":116.288895,
     "mz:hierarchy_label":1,
@@ -35,9 +36,6 @@
     "name:eng_x_variant":[
         "Hai-tien",
         "Hai-tien-ch'\u00fc"
-    ],
-    "name:unk_x_variant":[
-        "Haidian"
     ],
     "qs:gn_adm0_cc":"CN",
     "qs:gn_fcode":"PPL",
@@ -67,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -80,7 +78,6 @@
     "wof:concordances":{
         "gn:id":2038491,
         "gp:id":2151408,
-        "qs:id":219485,
         "qs_pg:id":219485
     },
     "wof:country":"CN",
@@ -100,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497316631,
+    "wof:lastmodified":1566665018,
     "wof:name":"Haidian",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

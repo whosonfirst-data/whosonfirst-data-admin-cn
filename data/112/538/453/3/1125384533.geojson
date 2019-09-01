@@ -9,16 +9,20 @@
     "geom:bbox":"110.93826,22.05425,110.93826,22.05425",
     "geom:latitude":22.05425,
     "geom:longitude":110.93826,
-    "gn:gn_country":"CN",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":0,
+    "gn:country":"CN",
+    "gn:fcode":"ADM3",
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"110.83826,21.95425,111.03826,22.15425",
     "lbl:latitude":22.05425,
     "lbl:longitude":110.93826,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kao-chou Hsien"
     ],
     "name:zho_x_preferred":[
@@ -39,7 +43,7 @@
     "qs_pg:qs_id":1027692,
     "qs_pg:qs_pg_placetype":"localadmin",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "wof:belongsto":[
         85669743,
         102191569,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1125384533,
-    "wof:lastmodified":1509389676,
+    "wof:lastmodified":1566693805,
     "wof:name":"Gaozhou Shi",
     "wof:parent_id":1108732487,
     "wof:placetype":"localadmin",

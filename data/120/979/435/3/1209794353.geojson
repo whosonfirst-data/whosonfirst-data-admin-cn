@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"115.66889,39.11194,115.70889,39.15194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gucheng"
     ],
@@ -50,8 +54,7 @@
     "name:und_x_variant":[
         "Ku-ch\u2019eng",
         "Guchen",
-        "Ku-ch\u2019eng-chen",
-        "Gucheng"
+        "Ku-ch\u2019eng-chen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1209794353,
-    "wof:lastmodified":1564217886,
+    "wof:lastmodified":1566680570,
     "wof:name":"Gucheng",
     "wof:parent_id":890513095,
     "wof:placetype":"locality",

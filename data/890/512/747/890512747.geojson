@@ -11,10 +11,14 @@
     "geom:longitude":121.5609,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"121.4609,29.79272,121.6609,29.99272",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Jiangbei"
     ],
@@ -42,9 +46,6 @@
     "name:swe_x_preferred":[
         "Jiangbei"
     ],
-    "name:unk_x_variant":[
-        "\u6c5f\u5317\u533a"
-    ],
     "name:vie_x_preferred":[
         "Giang B\u1eafc"
     ],
@@ -70,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6607401,
-        "qs:id":1153560,
+        "qs_pg:id":1153560,
         "wk:page":"Jiangbei District, Chongqing"
     },
     "wof:country":"CN",
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":890512747,
-    "wof:lastmodified":1564249935,
+    "wof:lastmodified":1566693745,
     "wof:name":"Jiangbei Qu",
     "wof:parent_id":890516553,
     "wof:placetype":"localadmin",

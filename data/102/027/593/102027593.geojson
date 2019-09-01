@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":25.274504,
     "lbl:longitude":110.302684,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":25.274504,
     "mps:longitude":110.302684,
     "mz:hierarchy_label":1,
@@ -234,7 +236,7 @@
     "name:ukr_x_variant":[
         "\u0413\u0443\u0439\u043b\u0456\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ling-ch\u2019uan"
     ],
     "name:urd_x_preferred":[
@@ -373,7 +375,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1792,
     "wof:belongsto":[
@@ -390,7 +392,7 @@
         "gn:id":1809498,
         "gp:id":26198246,
         "nyt:id":"56427572758257624861",
-        "qs:id":886204,
+        "qs_pg:id":886204,
         "wd:id":"Q189633"
     },
     "wof:country":"CN",
@@ -406,7 +408,7 @@
         }
     ],
     "wof:id":102027593,
-    "wof:lastmodified":1563393100,
+    "wof:lastmodified":1566655623,
     "wof:megacity":1,
     "wof:name":"Guilin",
     "wof:parent_id":1108732443,

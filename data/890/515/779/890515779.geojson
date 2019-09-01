@@ -11,10 +11,14 @@
     "geom:longitude":110.53639,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":2800,
+    "gn:population":2800,
     "iso:country":"CN",
+    "lbl:bbox":"110.51639,27.39139,110.55639,27.43139",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Longtan"
     ],
@@ -24,7 +28,7 @@
     "name:fra_x_preferred":[
         "Longtan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lung-t\u2019an"
     ],
     "qs:name":"Longtan",
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1802409,
         "gp:id":2142917,
-        "qs:id":89123,
+        "qs_pg:id":89123,
         "wk:page":"Longtan"
     },
     "wof:country":"CN",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":890515779,
-    "wof:lastmodified":1564250018,
+    "wof:lastmodified":1566693781,
     "wof:name":"Longtan",
     "wof:parent_id":890514349,
     "wof:placetype":"locality",

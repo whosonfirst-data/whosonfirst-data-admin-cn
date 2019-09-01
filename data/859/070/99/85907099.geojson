@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3457376.71244,
+    "geom:area_square_m":0.0,
     "geom:bbox":"113.287487,23.120746,113.287487,23.120746",
     "geom:latitude":23.120746,
     "geom:longitude":113.287487,
     "gn:latitude":23.8832,
     "gn:longitude":113.72305,
     "iso:country":"CN",
+    "lbl:bbox":"113.282487,23.115746,113.292487,23.125746",
     "lbl:latitude":23.120746,
     "lbl:longitude":113.287487,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.1195,
     "mps:longitude":113.288755,
     "mz:hierarchy_label":0,
@@ -28,9 +30,8 @@
     "name:eng_x_preferred":[
         "Xiaodongyuan"
     ],
-    "name:unk_x_variant":[
-        "Xiadongcun",
-        "Xiaodongyuan"
+    "name:und_x_variant":[
+        "Xiadongcun"
     ],
     "name:zho_x_preferred":[
         "\u4e0b\u6d1e\u6751"
@@ -65,20 +66,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85669743,
         102191569,
         85632695,
         102027597,
         136253041,
-        890513087
+        890513087,
+        85669743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7008497,
         "gp:id":22724600,
-        "qs:id":1191437,
         "qs_pg:id":1191437
     },
     "wof:country":"CN",
@@ -98,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936509,
+    "wof:lastmodified":1566665014,
     "wof:name":"Xiaodongyuan",
     "wof:parent_id":102027597,
     "wof:placetype":"neighbourhood",

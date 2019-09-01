@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001131,
-    "geom:area_square_m":12039554.424579,
+    "geom:area_square_m":12039554.424578,
     "geom:bbox":"119.81196717,30.5461531063,119.887734185,30.6232900665",
     "geom:latitude":30.584472,
     "geom:longitude":119.851076,
     "iso:country":"CN",
     "lbl:latitude":30.604883,
     "lbl:longitude":119.833185,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":30.604883,
     "mps:longitude":119.833185,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Mo-kan-shan"
     ],
     "qs:a1":"*",
@@ -31,7 +34,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669835,
         102191569,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":102027297,
-    "wof:lastmodified":1501222253,
+    "wof:lastmodified":1566655702,
     "wof:name":"Moganshan",
     "wof:parent_id":890516975,
     "wof:placetype":"locality",

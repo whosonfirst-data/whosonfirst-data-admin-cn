@@ -11,10 +11,14 @@
     "geom:longitude":120.4011,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"120.3811,31.31451,120.4211,31.35451",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dongzhu"
     ],
@@ -27,7 +31,7 @@
     "name:swe_x_preferred":[
         "Dongzhu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tung-chu-chen"
     ],
     "name:wuu_x_preferred":[
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":1812042,
         "gp:id":2134675,
-        "qs:id":1031651,
+        "qs_pg:id":1031651,
         "wd:id":"Q5296082",
         "wk:page":"Dongzhu"
     },
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":890516939,
-    "wof:lastmodified":1563459180,
+    "wof:lastmodified":1566693598,
     "wof:name":"Dongzhu",
     "wof:parent_id":890515879,
     "wof:placetype":"locality",

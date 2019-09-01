@@ -11,7 +11,7 @@
     "geom:longitude":119.072768,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":36.610131,
     "lbl:longitude":119.072575,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5c71\u4e1c\u7701",
     "meso:dissme":"\u6f4d\u574a\u5e02\u5c71\u4e1c\u7701",
     "meso:gadm_adm2":"Weifang",
@@ -46,6 +48,7 @@
     "mps:longitude":119.072575,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Weifang"
     ],
@@ -145,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0439\u0444\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wei-fang Shih"
     ],
     "name:urd_x_preferred":[
@@ -181,9 +184,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"15782",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Weifang Shi",
@@ -205,7 +208,7 @@
         "gn:id":1791680,
         "gp:id":26198301,
         "hasc:id":"CN.SD.WF",
-        "qs:id":896548
+        "qs_pg:id":896548
     },
     "wof:country":"CN",
     "wof:created":1469055875,
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":890514755,
-    "wof:lastmodified":1564249734,
+    "wof:lastmodified":1566693654,
     "wof:name":"Weifang",
     "wof:parent_id":85669813,
     "wof:placetype":"county",

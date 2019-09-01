@@ -11,11 +11,15 @@
     "geom:longitude":118.94389,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"118.92389,40.38556,118.96389,40.42556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Qinglong"
     ],
@@ -31,7 +35,7 @@
     "name:swe_x_preferred":[
         "Qinglong"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tu-shan-she-chih-ch\u00fc"
     ],
     "name:vie_x_preferred":[
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":2035304,
         "gp:id":2171368,
-        "qs:id":137721,
+        "qs_pg:id":137721,
         "wd:id":"Q1152166",
         "wk:page":"Qinglong Manchu Autonomous County"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":890516035,
-    "wof:lastmodified":1563459294,
+    "wof:lastmodified":1566693633,
     "wof:name":"\u9752\u9f99",
     "wof:parent_id":890513075,
     "wof:placetype":"locality",

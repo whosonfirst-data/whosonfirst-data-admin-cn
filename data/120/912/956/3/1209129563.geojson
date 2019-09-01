@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"121.32556,32.15639,121.36556,32.19639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -34,7 +38,7 @@
         "gn:id":1885666
     },
     "wof:country":"CN",
-    "wof:geomhash":"2b36475e7731ce393d04ce2c3a3b0bac",
+    "wof:geomhash":"8a93abf9ff9b6e4f7b14af7d51bec6ae",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209129563,
-    "wof:lastmodified":1536296847,
+    "wof:lastmodified":1566680758,
     "wof:name":"Shenghuanben Nongchang",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     121.34556,
-    32.176390000000005,
+    32.17639,
     121.34556,
-    32.176390000000005
+    32.17639
 ],
   "geometry": {"coordinates":[121.34556000000001,32.17639],"type":"Point"}
 }

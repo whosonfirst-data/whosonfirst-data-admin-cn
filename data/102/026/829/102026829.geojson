@@ -14,6 +14,8 @@
     "iso:country":"CN",
     "lbl:latitude":46.13417,
     "lbl:longitude":85.726319,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.13417,
     "mps:longitude":85.726319,
     "mz:hierarchy_label":1,
@@ -178,7 +180,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043c\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karamai"
     ],
     "name:urd_x_preferred":[
@@ -319,7 +321,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":707,
     "wof:belongsto":[
         85669753,
@@ -349,7 +351,7 @@
         }
     ],
     "wof:id":102026829,
-    "wof:lastmodified":1563393429,
+    "wof:lastmodified":1566655738,
     "wof:name":"Karamay",
     "wof:parent_id":890515397,
     "wof:placetype":"locality",

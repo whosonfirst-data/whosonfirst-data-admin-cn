@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"117.21333,32.36611,117.25333,32.40611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -34,7 +38,7 @@
         "gn:id":1556342
     },
     "wof:country":"CN",
-    "wof:geomhash":"d8542d4a236cb639d8d89192b42368bb",
+    "wof:geomhash":"9fe05ba207e9293619446ffba67ab538",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209418883,
-    "wof:lastmodified":1536287596,
+    "wof:lastmodified":1566680678,
     "wof:name":"Dasheng",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     117.23333,
-    32.386109999999995,
+    32.38611,
     117.23333,
-    32.386109999999995
+    32.38611
 ],
   "geometry": {"coordinates":[117.23333,32.38611],"type":"Point"}
 }

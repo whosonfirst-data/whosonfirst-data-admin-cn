@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":25.043508,
     "lbl:longitude":102.710316,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":25.043508,
     "mps:longitude":102.710316,
     "mz:hierarchy_label":1,
@@ -315,7 +317,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043d\u044c\u043c\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Y\u00fcn-nan"
     ],
     "name:urd_x_preferred":[
@@ -462,7 +464,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":13973,
     "wof:belongsto":[
@@ -480,7 +482,6 @@
         "gn:id":1804651,
         "gp:id":2160693,
         "nyt:id":"49823253947053061291",
-        "qs:id":461281,
         "qs_pg:id":461281,
         "wd:id":"Q182852",
         "wk:page":"Kunming"
@@ -501,7 +502,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393280,
+    "wof:lastmodified":1566655686,
     "wof:megacity":1,
     "wof:name":"Kunming",
     "wof:parent_id":890513777,

@@ -11,11 +11,15 @@
     "geom:longitude":116.63076,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"116.61076,40.30353,116.65076,40.34353",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0627\u064a\u0631\u0648"
     ],
@@ -79,7 +83,7 @@
     "name:tur_x_preferred":[
         "Huairou"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khuayzhou"
     ],
     "name:urd_x_preferred":[
@@ -124,7 +128,7 @@
     "wof:concordances":{
         "gn:id":2036766,
         "gp:id":2151342,
-        "qs:id":1083648,
+        "qs_pg:id":1083648,
         "wd:id":"Q121911",
         "wk:page":"Huairou District"
     },
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":890514481,
-    "wof:lastmodified":1563459476,
+    "wof:lastmodified":1566693685,
     "wof:name":"\u6000\u67d4",
     "wof:parent_id":1108732371,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":119.36028,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":2150,
+    "gn:population":2150,
     "iso:country":"CN",
+    "lbl:bbox":"119.34028,26.91861,119.38028,26.95861",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Hsien-ts\u2019un"
     ],
     "qs:name":"Xiancun",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1790620,
         "gp:id":2139598,
-        "qs:id":277506
+        "qs_pg:id":277506
     },
     "wof:country":"CN",
     "wof:created":1469055795,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890512977,
-    "wof:lastmodified":1505343891,
+    "wof:lastmodified":1566693744,
     "wof:name":"Xiancun",
     "wof:parent_id":890516577,
     "wof:placetype":"locality",

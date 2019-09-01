@@ -11,14 +11,18 @@
     "geom:longitude":115.0989,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"115.0789,25.31458,115.1189,25.35458",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Gubei"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u53e4\u9642"
     ],
     "qs:name":"Gubei",
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1809625,
         "gp:id":2133839,
-        "qs:id":244483,
+        "qs_pg:id":244483,
         "wk:page":"Gubei"
     },
     "wof:country":"CN",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890516859,
-    "wof:lastmodified":1564249635,
+    "wof:lastmodified":1566693608,
     "wof:name":"Gubei",
     "wof:parent_id":890511835,
     "wof:placetype":"locality",

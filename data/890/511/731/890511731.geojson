@@ -11,10 +11,14 @@
     "geom:longitude":117.56417,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":1889,
+    "gn:population":1889,
     "iso:country":"CN",
+    "lbl:bbox":"117.54417,39.66083,117.58417,39.70083",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cym_x_preferred":[
         "Ardal Baodi"
     ],
@@ -51,7 +55,7 @@
     "name:swe_x_preferred":[
         "Baodi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ta-chung-chuang"
     ],
     "name:urd_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":1813085,
         "gp:id":2159607,
-        "qs:id":136821,
+        "qs_pg:id":136821,
         "wd:id":"Q708537",
         "wk:page":"Baodi District"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":890511731,
-    "wof:lastmodified":1563459330,
+    "wof:lastmodified":1566693644,
     "wof:name":"Dazhongzhuang",
     "wof:parent_id":890513813,
     "wof:placetype":"locality",

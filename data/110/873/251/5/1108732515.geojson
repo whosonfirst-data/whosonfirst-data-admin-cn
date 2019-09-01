@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":35.177551,
     "lbl:longitude":109.033575,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u9655\u897f\u7701",
     "meso:dissme":"\u94dc\u5ddd\u5e02\u9655\u897f\u7701",
     "meso:gadm_adm2":"Tongchuan",
@@ -42,6 +44,7 @@
     "mps:longitude":109.033575,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0646\u063a\u062a\u0634\u0648\u0627\u0646"
     ],
@@ -114,9 +117,6 @@
     "name:tur_x_preferred":[
         "Tongchuan"
     ],
-    "name:und_x_variant":[
-        "\u94dc\u5ddd\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0648\u0646\u06af\u0686\u0648\u0627\u0646"
     ],
@@ -130,9 +130,9 @@
         "\u94dc\u5ddd\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"3882",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Tongchuan Shi",
@@ -166,7 +166,7 @@
         }
     ],
     "wof:id":1108732515,
-    "wof:lastmodified":1564234196,
+    "wof:lastmodified":1566687987,
     "wof:name":"Tongchuan",
     "wof:parent_id":85669769,
     "wof:placetype":"county",

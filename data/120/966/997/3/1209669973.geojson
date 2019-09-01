@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"109.83611,34.78861,109.87611,34.82861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -34,7 +38,7 @@
         "gn:id":1910353
     },
     "wof:country":"CN",
-    "wof:geomhash":"6f55ee6047e6fc2c87e073ac4fc1d1d1",
+    "wof:geomhash":"431079872606d4c4df46d0ddd6ea92eb",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209669973,
-    "wof:lastmodified":1536279958,
+    "wof:lastmodified":1566681808,
     "wof:name":"Leifu",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     109.85611000000002,
-    34.808609999999994,
+    34.80860999999999,
     109.85611000000002,
-    34.808609999999994
+    34.80860999999999
 ],
   "geometry": {"coordinates":[109.85611000000002,34.80860999999999],"type":"Point"}
 }

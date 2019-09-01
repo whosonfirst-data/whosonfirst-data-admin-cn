@@ -11,10 +11,14 @@
     "geom:longitude":113.76667,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":87737,
+    "gn:population":87737,
     "iso:country":"CN",
+    "lbl:bbox":"113.74667,30.63,113.78667,30.67",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0629 \u0647\u0627\u0646\u062a\u0634\u0648\u0646\u0627\u0646"
     ],
@@ -123,7 +127,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043d\u044c\u0447\u0443\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Han-ch\u2019uan-hsien"
     ],
     "name:urd_x_preferred":[
@@ -158,7 +162,7 @@
     "wof:concordances":{
         "gn:id":1808977,
         "gp:id":2163145,
-        "qs:id":562897,
+        "qs_pg:id":562897,
         "wd:id":"Q1337056",
         "wk:page":"Hanchuan"
     },
@@ -176,7 +180,7 @@
         }
     ],
     "wof:id":890517311,
-    "wof:lastmodified":1563459165,
+    "wof:lastmodified":1566693593,
     "wof:name":"Hanchuan",
     "wof:parent_id":1108732407,
     "wof:placetype":"locality",

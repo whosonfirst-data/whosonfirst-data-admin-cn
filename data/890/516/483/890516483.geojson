@@ -11,7 +11,7 @@
     "geom:longitude":124.545223,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":48.053831,
     "lbl:longitude":125.286537,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u9ed1\u9f99\u6c5f\u7701",
     "meso:dissme":"\u9f50\u9f50\u54c8\u5c14\u5e02\u9ed1\u9f99\u6c5f\u7701",
     "meso:gadm_adm2":"Qiqihar",
@@ -46,13 +48,14 @@
     "mps:longitude":125.286537,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Qiqihaer"
     ],
     "name:mon_x_preferred":[
         "Qiqihar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ch\u2019i-ch\u2019i-ha-er Shih"
     ],
     "name:zho_x_preferred":[
@@ -76,9 +79,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"42469",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Qiqiha'er Shi",
@@ -100,7 +103,7 @@
         "gn:id":2035264,
         "gp:id":26198259,
         "hasc:id":"CN.HL.QQ",
-        "qs:id":212448
+        "qs_pg:id":212448
     },
     "wof:country":"CN",
     "wof:created":1469055960,
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":890516483,
-    "wof:lastmodified":1554759521,
+    "wof:lastmodified":1566693606,
     "wof:name":"Qiqiha'er",
     "wof:parent_id":85669849,
     "wof:placetype":"county",

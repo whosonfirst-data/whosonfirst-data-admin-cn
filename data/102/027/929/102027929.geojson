@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":41.849105,
     "lbl:longitude":123.821411,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":41.849105,
     "mps:longitude":123.821411,
     "mz:hierarchy_label":1,
@@ -201,7 +203,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0443\u0448\u0443\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fu-shan"
     ],
     "name:urd_x_preferred":[
@@ -337,7 +339,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1998,
     "wof:belongsto":[
@@ -351,7 +353,7 @@
     "wof:concordances":{
         "gn:id":2037355,
         "gp:id":2147987,
-        "qs:id":137784,
+        "qs_pg:id":137784,
         "wd:id":"Q75026",
         "wk:page":"Fushun"
     },
@@ -368,7 +370,7 @@
         }
     ],
     "wof:id":102027929,
-    "wof:lastmodified":1563393348,
+    "wof:lastmodified":1566655707,
     "wof:megacity":1,
     "wof:name":"Fushun",
     "wof:parent_id":890513011,

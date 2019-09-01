@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":22.81669,
     "lbl:longitude":108.316216,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":22.81669,
     "mps:longitude":108.316216,
     "mz:hierarchy_label":1,
@@ -270,7 +272,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043d\u044c\u043d\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yung-ning"
     ],
     "name:urd_x_preferred":[
@@ -414,7 +416,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1647,
     "wof:belongsto":[
@@ -428,7 +430,6 @@
     "wof:concordances":{
         "gn:id":1799869,
         "gp:id":2166473,
-        "qs:id":351128,
         "qs_pg:id":351128,
         "wd:id":"Q179608",
         "wk:page":"Nanning"
@@ -446,7 +447,7 @@
         }
     ],
     "wof:id":102027287,
-    "wof:lastmodified":1563393145,
+    "wof:lastmodified":1566655641,
     "wof:megacity":1,
     "wof:name":"Nanning",
     "wof:parent_id":890515419,

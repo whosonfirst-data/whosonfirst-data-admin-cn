@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":21.422383,
     "lbl:longitude":109.129073,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":21.422383,
     "mps:longitude":109.129073,
     "mz:hierarchy_label":1,
@@ -195,7 +197,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0439\u0445\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pakhoi"
     ],
     "name:urd_x_preferred":[
@@ -336,7 +338,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":589,
     "wof:belongsto":[
@@ -350,7 +352,6 @@
     "wof:concordances":{
         "gn:id":1816705,
         "gp:id":2166477,
-        "qs:id":349450,
         "qs_pg:id":349450,
         "wd:id":"Q210365",
         "wk:page":"Beihai"
@@ -368,7 +369,7 @@
         }
     ],
     "wof:id":102027747,
-    "wof:lastmodified":1563393213,
+    "wof:lastmodified":1566655665,
     "wof:name":"Beihai",
     "wof:parent_id":890516487,
     "wof:placetype":"locality",

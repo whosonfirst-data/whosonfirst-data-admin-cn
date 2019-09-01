@@ -11,10 +11,14 @@
     "geom:longitude":121.1576,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"121.1376,31.2789,121.1776,31.3189",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u043d\u0442\u0438\u043d"
     ],
@@ -48,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u044c\u0442\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "An-t\u2019ing-chen"
     ],
     "name:wuu_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1817962,
-        "qs:id":1027736,
+        "qs_pg:id":1027736,
         "wd:id":"Q578770",
         "wk:page":"Anting"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":890514205,
-    "wof:lastmodified":1563459426,
+    "wof:lastmodified":1566693669,
     "wof:name":"Anting",
     "wof:parent_id":890514815,
     "wof:placetype":"locality",

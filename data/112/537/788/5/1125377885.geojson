@@ -9,15 +9,18 @@
     "geom:bbox":"114.02944,32.97944,114.02944,32.97944",
     "geom:latitude":32.97944,
     "geom:longitude":114.02944,
-    "gn:gn_country":"CN",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8263100,
-    "gn:population":720000,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
+    "gn:population":8263100,
     "iso:country":"CN",
+    "lbl:bbox":"113.92944,32.87944,114.12944,33.07944",
     "lbl:latitude":32.97944,
     "lbl:longitude":114.02944,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":5.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Zhumadian"
@@ -31,7 +34,7 @@
     "name:rus_x_preferred":[
         "\u0427\u0436\u0443\u043c\u0430\u0434\u044f\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hsin-chuang"
     ],
     "qs_pg:aaroncc":"CN",
@@ -55,7 +58,7 @@
     "qs_pg:woe_adm0":23424781,
     "qs_pg:woe_id":12685995,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424781,
     "woe:name_adm0":"\u4e2d\u570b",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125377885,
-    "wof:lastmodified":1509389503,
+    "wof:lastmodified":1566693804,
     "wof:name":"\u9a7b\u9a6c\u5e97\u5e02",
     "wof:parent_id":890514843,
     "wof:placetype":"localadmin",

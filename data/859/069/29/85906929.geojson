@@ -14,6 +14,7 @@
     "iso:country":"CN",
     "lbl:latitude":40.001026,
     "lbl:longitude":116.319463,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.000636,
     "mps:longitude":116.320199,
     "mz:hierarchy_label":1,
@@ -28,9 +29,8 @@
     "name:eng_x_preferred":[
         "Ginghuayuan"
     ],
-    "name:unk_x_variant":[
-        "Tung-hua-y\u00fcan",
-        "Ginghuayuan"
+    "name:und_x_variant":[
+        "Tung-hua-y\u00fcan"
     ],
     "qs:gn_adm0_cc":"CN",
     "qs:gn_fcode":"PPL",
@@ -60,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -73,7 +73,6 @@
     "wof:concordances":{
         "gn:id":2037637,
         "gp:id":22724402,
-        "qs:id":1085998,
         "qs_pg:id":1085998
     },
     "wof:country":"CN",
@@ -93,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497313954,
+    "wof:lastmodified":1566665036,
     "wof:name":"Ginghuayuan",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

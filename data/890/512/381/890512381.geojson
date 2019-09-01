@@ -11,11 +11,15 @@
     "geom:longitude":114.35417,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":60202,
+    "gn:population":60202,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"114.33417,32.98111,114.37417,33.02111",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:deu_x_preferred":[
         "Runan"
     ],
@@ -58,7 +62,7 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e23\u0e39\u0e2b\u0e19\u0e32\u0e19"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ju-nan"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +100,7 @@
     "wof:concordances":{
         "gn:id":1797038,
         "gp:id":2172796,
-        "qs:id":136480,
+        "qs_pg:id":136480,
         "wd:id":"Q925681",
         "wk:page":"Runan County"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890512381,
-    "wof:lastmodified":1563459804,
+    "wof:lastmodified":1566693761,
     "wof:name":"\u6c5d\u5357",
     "wof:parent_id":890514843,
     "wof:placetype":"locality",

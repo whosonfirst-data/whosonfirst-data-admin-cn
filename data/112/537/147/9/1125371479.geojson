@@ -9,15 +9,18 @@
     "geom:bbox":"103.79222,36.05639,103.79222,36.05639",
     "geom:latitude":36.05639,
     "geom:longitude":103.79222,
-    "gn:gn_country":"CN",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":3200000,
-    "gn:population":2628426,
+    "gn:country":"CN",
+    "gn:fcode":"PPLA",
+    "gn:population":3200000,
     "iso:country":"CN",
+    "lbl:bbox":"103.69222,35.95639,103.89222,36.15639",
     "lbl:latitude":36.05639,
     "lbl:longitude":103.79222,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":4.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Lantsjou"
@@ -151,7 +154,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u043d\u044c\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kao-lan-hsien"
     ],
     "name:urd_x_preferred":[
@@ -199,7 +202,7 @@
     "qs_pg:woe_adm0":23424781,
     "qs_pg:woe_id":12686533,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424781,
     "woe:name_adm0":"\u4e2d\u570b",
@@ -232,7 +235,7 @@
         }
     ],
     "wof:id":1125371479,
-    "wof:lastmodified":1509389330,
+    "wof:lastmodified":1566693805,
     "wof:name":"\u5170\u5dde\u5e02",
     "wof:parent_id":890513013,
     "wof:placetype":"localadmin",

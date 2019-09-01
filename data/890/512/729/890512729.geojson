@@ -11,10 +11,14 @@
     "geom:longitude":104.07997,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"103.97997,30.55835,104.17997,30.75835",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Qingyang Qu"
     ],
@@ -57,7 +61,7 @@
     "name:swe_x_preferred":[
         "Qingyang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jinjiang"
     ],
     "name:vie_x_preferred":[
@@ -89,7 +93,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6642922,
-        "qs:id":1153567,
+        "qs_pg:id":1153567,
         "wd:id":"Q614322",
         "wk:page":"Qingyang District"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":890512729,
-    "wof:lastmodified":1563459805,
+    "wof:lastmodified":1566693761,
     "wof:name":"Jinjiang Qu",
     "wof:parent_id":890516567,
     "wof:placetype":"localadmin",

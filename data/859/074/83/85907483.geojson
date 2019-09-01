@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000167,
-    "geom:area_square_m":1769066.231384,
+    "geom:area_square_m":1769066.231381,
     "geom:bbox":"121.493682861,31.2245457718,121.515619439,31.2416804603",
     "geom:latitude":31.233097,
     "geom:longitude":121.504164,
     "iso:country":"CN",
     "lbl:latitude":31.234834,
     "lbl:longitude":121.504525,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.230418,
     "mps:longitude":121.502169,
     "mz:hierarchy_label":1,
@@ -24,9 +25,6 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Lu Jia Du"
-    ],
-    "name:unk_x_variant":[
         "Lu Jia Du"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -54,7 +52,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -84,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269172,
+    "wof:lastmodified":1566665029,
     "wof:name":"Lu Jia Du",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

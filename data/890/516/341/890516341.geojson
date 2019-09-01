@@ -11,7 +11,7 @@
     "geom:longitude":108.631667,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":39.450974,
     "lbl:longitude":108.387288,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5185\u8499\u53e4\u81ea\u6cbb\u533a",
     "meso:dissme":"\u9102\u5c14\u591a\u65af\u5e02\u5185\u8499\u53e4\u81ea\u6cbb\u533a",
     "meso:gadm_adm2":"Ordos",
@@ -46,10 +48,11 @@
     "mps:longitude":108.387288,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "E'erduosi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yeghe Jo League"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -85,7 +88,7 @@
     "wof:concordances":{
         "gn:id":1806529,
         "gp:id":26198286,
-        "qs:id":203472
+        "qs_pg:id":203472
     },
     "wof:country":"CN",
     "wof:created":1469055953,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890516341,
-    "wof:lastmodified":1555220353,
+    "wof:lastmodified":1566693614,
     "wof:name":"E'erduosi",
     "wof:parent_id":85669847,
     "wof:placetype":"county",

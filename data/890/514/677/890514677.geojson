@@ -11,11 +11,15 @@
     "geom:longitude":106.45478,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":2000,
+    "gn:population":2000,
     "iso:country":"CN",
+    "lbl:bbox":"106.43478,32.21908,106.47478,32.25908",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Pujichang"
     ],
     "name:zho_x_preferred":[
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1798501,
         "gp:id":2157976,
-        "qs:id":561257
+        "qs_pg:id":561257
     },
     "wof:country":"CN",
     "wof:created":1469055871,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890514677,
-    "wof:lastmodified":1505343898,
+    "wof:lastmodified":1566693687,
     "wof:name":"Puji",
     "wof:parent_id":890512741,
     "wof:placetype":"locality",

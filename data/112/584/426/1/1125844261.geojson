@@ -9,15 +9,18 @@
     "geom:bbox":"123.17306,41.27194,123.17306,41.27194",
     "geom:latitude":41.27194,
     "geom:longitude":123.17306,
-    "gn:gn_country":"CN",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":687890,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
     "gn:population":687890,
     "iso:country":"CN",
+    "lbl:bbox":"123.15306,41.25194,123.19306,41.29194",
     "lbl:latitude":41.27194,
     "lbl:longitude":123.17306,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Liaoyang"
@@ -175,9 +178,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u044f\u043e\u044f\u043d"
     ],
-    "name:unk_x_variant":[
-        "Liaoyang"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0627\u0648\u06cc\u0627\u0646\u06af"
     ],
@@ -213,7 +213,7 @@
     "qs_pg:woe_adm0":23424781,
     "qs_pg:woe_id":15016060,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424781,
     "woe:name_adm0":"\u4e2d\u570b",
@@ -247,7 +247,7 @@
         }
     ],
     "wof:id":1125844261,
-    "wof:lastmodified":1563459965,
+    "wof:lastmodified":1566693809,
     "wof:name":"Liaoyangxian",
     "wof:parent_id":890514643,
     "wof:placetype":"locality",

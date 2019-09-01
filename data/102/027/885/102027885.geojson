@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":44.028371,
     "lbl:longitude":128.983752,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":44.028371,
     "mps:longitude":128.983752,
     "mz:hierarchy_label":1,
@@ -193,9 +195,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0434\u0430\u043d\u044c\u0446\u0437\u044f\u043d"
     ],
-    "name:unk_x_variant":[
-        "Mutankiang"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u062f\u0627\u0646\u062c\u06cc\u0627\u0646\u06af"
     ],
@@ -328,7 +327,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1219,
     "wof:belongsto":[
@@ -343,10 +342,12 @@
         "fct:id":"06b741fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2035715,
         "gp:id":2141176,
-        "qs:id":248653,
-        "qs_pg:id":1129758,
+        "qs_pg:id":248653,
         "wd:id":"Q217646",
         "wk:page":"Mudanjiang"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1129758
     },
     "wof:country":"CN",
     "wof:geomhash":"70e0d90de4a2a66c847703ec73617e1e",
@@ -364,7 +365,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393295,
+    "wof:lastmodified":1566655690,
     "wof:megacity":1,
     "wof:name":"Mudanjiang",
     "wof:parent_id":890515915,

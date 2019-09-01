@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":30.320729,
     "lbl:longitude":107.363891,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":30.320729,
     "mps:longitude":107.363891,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Guixi"
     ],
@@ -55,7 +58,7 @@
     "name:swe_x_preferred":[
         "Guixi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dyan\u2019tszyan"
     ],
     "name:vie_x_preferred":[
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":200,
     "wof:belongsto":[
         85669725,
@@ -99,7 +102,6 @@
     "wof:concordances":{
         "gn:id":1809467,
         "gp:id":20260655,
-        "qs:id":244482,
         "qs_pg:id":244482
     },
     "wof:country":"CN",
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":102027589,
-    "wof:lastmodified":1564178909,
+    "wof:lastmodified":1566655671,
     "wof:name":"Guixi",
     "wof:parent_id":890513063,
     "wof:placetype":"locality",

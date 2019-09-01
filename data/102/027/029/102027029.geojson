@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":30.930499,
     "lbl:longitude":113.918726,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":30.930499,
     "mps:longitude":113.918726,
     "mz:hierarchy_label":1,
@@ -142,7 +144,7 @@
         "\u0421\u044f\u043e\u0433\u0430\u043d\u044c"
     ],
     "name:sin_x_preferred":[
-        "\u0d9a\u0dca\u0dc3\u0dd2\u0dba\u0dd0\u0d94\u0d9c\u0dd1\u0db1\u0dca\u0d9c\u0dca  \u0db1\u0d9c\u0dbb\u0dba"
+        "\u0d9a\u0dca\u0dc3\u0dd2\u0dba\u0dd0\u0d94\u0d9c\u0dd1\u0db1\u0dca\u0d9c\u0dca \u0db1\u0d9c\u0dbb\u0dba"
     ],
     "name:spa_x_preferred":[
         "Xiaogan"
@@ -154,7 +156,7 @@
         "Xiaogan"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bbf\u0baf\u0bbe\u0bb5\u0bcb\u0b95\u0ba9\u0bcd  \u0ba8\u0b95\u0bb0\u0bae\u0bcd . \u0bb9\u0bc1\u0baa\u0bc7\u0baf\u0bcd"
+        "\u0b9a\u0bbf\u0baf\u0bbe\u0bb5\u0bcb\u0b95\u0ba9\u0bcd \u0ba8\u0b95\u0bb0\u0bae\u0bcd . \u0bb9\u0bc1\u0baa\u0bc7\u0baf\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c3f\u0c2f\u0c3e\u0c17\u0c3e\u0c17\u0c28\u0c4d \u0c28\u0c17\u0c30\u0c02. \u0c39\u0c41\u0c2c\u0c48"
@@ -174,7 +176,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u044f\u043e\u0433\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Siaokan"
     ],
     "name:urd_x_preferred":[
@@ -313,7 +315,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":106,
     "wof:belongsto":[
@@ -328,7 +330,7 @@
         "fct:id":"06b51af0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1790254,
         "gp:id":12686309,
-        "qs:id":240812,
+        "qs_pg:id":240812,
         "wd:id":"Q71339",
         "wk:page":"Xiaogan"
     },
@@ -348,7 +350,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393291,
+    "wof:lastmodified":1566655689,
     "wof:name":"Xiaogan",
     "wof:parent_id":1108732407,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":117.13625,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":3507,
+    "gn:population":3507,
     "iso:country":"CN",
+    "lbl:bbox":"117.11625,39.18409,117.15625,39.22409",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:zho_x_preferred":[
         "\u5357\u4ed3"
     ],
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1800168,
         "gp:id":20267080,
-        "qs:id":89066
+        "qs_pg:id":89066
     },
     "wof:country":"CN",
     "wof:created":1469055760,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890512157,
-    "wof:lastmodified":1505343886,
+    "wof:lastmodified":1566693734,
     "wof:name":"Nancang",
     "wof:parent_id":890513813,
     "wof:placetype":"locality",

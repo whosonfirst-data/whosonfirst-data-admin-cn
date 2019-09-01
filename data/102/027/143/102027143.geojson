@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":29.003336,
     "lbl:longitude":115.405884,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":29.003336,
     "mps:longitude":115.405884,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shuangxi"
     ],
@@ -25,7 +28,7 @@
     "name:swe_x_preferred":[
         "Shuangxi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ching-an-ch\u2019eng"
     ],
     "qs:a1":"*",
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":104,
     "wof:belongsto":[
         85669823,
@@ -55,7 +58,6 @@
     "wof:concordances":{
         "gn:id":1794567,
         "gp:id":12685488,
-        "qs:id":136440,
         "qs_pg:id":136440
     },
     "wof:country":"CN",
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":102027143,
-    "wof:lastmodified":1564178907,
+    "wof:lastmodified":1566655668,
     "wof:name":"Shuangxi",
     "wof:parent_id":890514553,
     "wof:placetype":"locality",

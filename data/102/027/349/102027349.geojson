@@ -12,6 +12,8 @@
     "iso:country":"CN",
     "lbl:latitude":25.097185,
     "lbl:longitude":117.025512,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.097185,
     "mps:longitude":117.025512,
     "mz:hierarchy_label":1,
@@ -182,7 +184,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u043d'\u044f\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lung-yen"
     ],
     "name:urd_x_preferred":[
@@ -319,7 +321,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1057,
     "wof:belongsto":[
         85669735,
@@ -333,7 +335,6 @@
         "fct:id":"06b7217e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1802276,
         "gp:id":2139971,
-        "qs:id":136574,
         "qs_pg:id":136574,
         "wd:id":"Q68862",
         "wk:page":"Longyan"
@@ -354,7 +355,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393222,
+    "wof:lastmodified":1566655668,
     "wof:name":"Longyan",
     "wof:parent_id":890516203,
     "wof:placetype":"locality",

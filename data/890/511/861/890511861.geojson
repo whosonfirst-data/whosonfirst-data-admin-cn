@@ -11,10 +11,14 @@
     "geom:longitude":117.35238,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"117.25238,31.17848,117.45238,31.37848",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u0648\u062c\u064a\u0627\u0646\u063a"
     ],
@@ -60,7 +64,7 @@
     "name:swe_x_preferred":[
         "Lujiang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lu-chiang Hsien"
     ],
     "name:vie_x_preferred":[
@@ -94,7 +98,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1802067,
-        "qs:id":1152053,
+        "qs_pg:id":1152053,
         "wd:id":"Q1334871",
         "wk:page":"Lujiang County"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":890511861,
-    "wof:lastmodified":1563459337,
+    "wof:lastmodified":1566693646,
     "wof:name":"Lujiang Xian",
     "wof:parent_id":890513787,
     "wof:placetype":"localadmin",

@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000133,
-    "geom:area_square_m":1266374.886577,
+    "geom:area_square_m":1266374.886576,
     "geom:bbox":"116.377082842,39.8788131948,116.39465332,39.8907725589",
     "geom:latitude":39.884552,
     "geom:longitude":116.386672,
     "iso:country":"CN",
     "lbl:latitude":39.884518,
     "lbl:longitude":116.388625,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.8845,
     "mps:longitude":116.387383,
     "mz:hierarchy_label":1,
@@ -24,9 +25,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Yonganlu"
-    ],
-    "name:unk_x_variant":[
         "Yonganlu"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -54,7 +52,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -84,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269153,
+    "wof:lastmodified":1566665020,
     "wof:name":"Yonganlu",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

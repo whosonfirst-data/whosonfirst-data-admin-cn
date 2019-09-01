@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":30.052228,
     "lbl:longitude":119.944719,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":30.052228,
     "mps:longitude":119.944719,
     "mz:hierarchy_label":1,
@@ -135,7 +137,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043a\u0440\u0443\u0433 \u0424\u0443\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puyang"
     ],
     "name:urd_x_preferred":[
@@ -265,7 +267,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85669835,
@@ -278,7 +280,7 @@
     "wof:concordances":{
         "gn:id":1810846,
         "gp:id":12685399,
-        "qs:id":204427,
+        "qs_pg:id":204427,
         "wd:id":"Q1011103",
         "wk:page":"Fuyang District"
     },
@@ -295,7 +297,7 @@
         }
     ],
     "wof:id":102027613,
-    "wof:lastmodified":1563393275,
+    "wof:lastmodified":1566655684,
     "wof:megacity":1,
     "wof:name":"Fuyang",
     "wof:parent_id":890516555,

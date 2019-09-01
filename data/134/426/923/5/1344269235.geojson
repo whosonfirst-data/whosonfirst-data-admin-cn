@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"121.31016,28.29962,121.35016,28.33962",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hengshan"
     ],
@@ -47,8 +51,7 @@
         "Hengshan"
     ],
     "name:und_x_variant":[
-        "Heng-shan-chuang",
-        "Hengshan"
+        "Heng-shan-chuang"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1344269235,
-    "wof:lastmodified":1564186953,
+    "wof:lastmodified":1566662343,
     "wof:name":"Hengshan",
     "wof:parent_id":890515633,
     "wof:placetype":"locality",

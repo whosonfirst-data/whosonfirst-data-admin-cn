@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":36.168922,
     "lbl:longitude":117.042847,
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":5.0,
     "mps:latitude":36.168922,
     "mps:longitude":117.042847,
     "mz:hierarchy_label":1,
@@ -183,7 +185,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0439\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u2019ai-an-shih"
     ],
     "name:urd_x_preferred":[
@@ -321,7 +323,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":435,
     "wof:belongsto":[
@@ -335,7 +337,6 @@
     "wof:concordances":{
         "gn:id":1793724,
         "gp:id":2168328,
-        "qs:id":246814,
         "qs_pg:id":246814,
         "wd:id":"Q217681",
         "wk:page":"Tai'an"
@@ -353,7 +354,7 @@
         }
     ],
     "wof:id":102027127,
-    "wof:lastmodified":1563393215,
+    "wof:lastmodified":1566655666,
     "wof:megacity":1,
     "wof:name":"Tai\u2019an",
     "wof:parent_id":890515833,

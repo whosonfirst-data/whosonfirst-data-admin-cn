@@ -11,10 +11,14 @@
     "geom:longitude":106.71207,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"106.61207,29.52056,106.81207,29.72056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Ardal Jiangbei"
     ],
@@ -57,7 +61,7 @@
     "name:swe_x_preferred":[
         "Jiangbei"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chiang-pei Hsien"
     ],
     "name:vie_x_preferred":[
@@ -92,7 +96,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1806413,
-        "qs:id":1062525,
+        "qs_pg:id":1062525,
         "wd:id":"Q249712",
         "wk:page":"Jiangbei District, Chongqing"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":890512715,
-    "wof:lastmodified":1563459730,
+    "wof:lastmodified":1566693745,
     "wof:name":"Jiangbei Qu",
     "wof:parent_id":890513063,
     "wof:placetype":"localadmin",

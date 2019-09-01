@@ -11,8 +11,11 @@
     "geom:longitude":124.83333,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":108253,
+    "gn:population":108253,
     "iso:country":"CN",
+    "lbl:bbox":"124.81333,48.46333,124.85333,48.50333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
@@ -64,7 +67,7 @@
     "name:swe_x_preferred":[
         "Nehe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bordotschan"
     ],
     "name:urd_x_preferred":[
@@ -191,7 +194,7 @@
     "wof:concordances":{
         "gn:id":2035610,
         "gp:id":2141204,
-        "qs:id":274126,
+        "qs_pg:id":274126,
         "wd:id":"Q1332600",
         "wk:page":"Nehe"
     },
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":890512961,
-    "wof:lastmodified":1563459741,
+    "wof:lastmodified":1566693748,
     "wof:name":"Nehe",
     "wof:parent_id":890516483,
     "wof:placetype":"locality",

@@ -15,6 +15,8 @@
     "iso:country":"CN",
     "lbl:latitude":41.738529,
     "lbl:longitude":86.19873,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":41.738529,
     "mps:longitude":86.19873,
     "mz:hierarchy_label":1,
@@ -156,7 +158,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u2019u-erh-lo-chen"
     ],
     "name:urd_x_preferred":[
@@ -295,7 +297,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1352,
     "wof:belongsto":[
@@ -309,7 +311,6 @@
     "wof:concordances":{
         "gn:id":1529376,
         "gp:id":2143697,
-        "qs:id":274013,
         "qs_pg:id":274013,
         "wd:id":"Q837425",
         "wk:page":"Korla"
@@ -327,7 +328,7 @@
         }
     ],
     "wof:id":102026827,
-    "wof:lastmodified":1563393429,
+    "wof:lastmodified":1566655738,
     "wof:name":"Korla",
     "wof:parent_id":1108732417,
     "wof:placetype":"locality",

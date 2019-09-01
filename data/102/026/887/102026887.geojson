@@ -14,10 +14,13 @@
     "iso:country":"CN",
     "lbl:latitude":31.029402,
     "lbl:longitude":106.397095,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.029402,
     "mps:longitude":106.397095,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Peng\u2019an"
     ],
@@ -54,7 +57,7 @@
     "name:swe_x_preferred":[
         "Peng'an"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chzhoukou"
     ],
     "name:vie_x_preferred":[
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669787,
         102191569,
@@ -95,7 +98,6 @@
     "wof:concordances":{
         "gn:id":1784131,
         "gp:id":2158420,
-        "qs:id":371920,
         "qs_pg:id":371920,
         "wd:id":"Q29413",
         "wk:page":"Peng'an County"
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":102026887,
-    "wof:lastmodified":1563393432,
+    "wof:lastmodified":1566655738,
     "wof:name":"Zhoukou",
     "wof:parent_id":890511853,
     "wof:placetype":"locality",

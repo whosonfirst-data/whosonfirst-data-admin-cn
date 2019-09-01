@@ -11,8 +11,12 @@
     "geom:longitude":114.279121,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"114.259121,23.150945,114.299121,23.190945",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u064a\u0627\u0646\u063a"
     ],
@@ -124,7 +128,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Honanfu"
     ],
     "name:urd_x_preferred":[
@@ -173,9 +177,11 @@
     "wof:concordances":{
         "gn:id":1801792,
         "gp:id":2172738,
-        "qs:id":281518,
-        "qs_pg:id":980639,
+        "qs_pg:id":281518,
         "wd:id":"Q14392355"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":980639
     },
     "wof:country":"CN",
     "wof:created":1469055819,
@@ -191,7 +197,7 @@
         }
     ],
     "wof:id":890513495,
-    "wof:lastmodified":1563459647,
+    "wof:lastmodified":1566693726,
     "wof:name":"\u6d1b\u9633",
     "wof:parent_id":890516563,
     "wof:placetype":"locality",

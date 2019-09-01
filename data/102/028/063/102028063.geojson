@@ -14,10 +14,13 @@
     "iso:country":"CN",
     "lbl:latitude":40.447987,
     "lbl:longitude":124.061405,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.447987,
     "mps:longitude":124.061405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Dandong"
     ],
@@ -237,7 +240,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2546,
     "wof:belongsto":[
         85669807,
@@ -265,7 +268,7 @@
         }
     ],
     "wof:id":102028063,
-    "wof:lastmodified":1563393390,
+    "wof:lastmodified":1566655723,
     "wof:name":"Dandong",
     "wof:parent_id":890514725,
     "wof:placetype":"locality",

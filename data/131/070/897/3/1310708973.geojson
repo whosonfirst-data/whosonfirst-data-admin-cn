@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"115.09963,27.17899,115.13963,27.21899",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jishui Xian"
     ],
@@ -48,7 +52,6 @@
     ],
     "name:und_x_variant":[
         "Kishui",
-        "Jishui",
         "Chi-shui",
         "Kishuihsien",
         "Chi-shai-hsien",
@@ -56,9 +59,7 @@
         "Wenfeng",
         "\u6587\u5cf0",
         "Wenfeng Zhen",
-        "Jishui Xian",
-        "\u6587\u5cf0\u9547",
-        "\u5409\u6c34\u53bf"
+        "\u6587\u5cf0\u9547"
     ],
     "name:vie_x_preferred":[
         "C\u00e1t Th\u1ee7y"
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1310708973,
-    "wof:lastmodified":1564235006,
+    "wof:lastmodified":1566688361,
     "wof:name":"Wenfeng",
     "wof:parent_id":890514607,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003172,
-    "geom:area_square_m":32374666.26372,
+    "geom:area_square_m":32374666.263719,
     "geom:bbox":"107.089351502,34.3389591581,107.1879916,34.3932578656",
     "geom:latitude":34.363087,
     "geom:longitude":107.137371,
@@ -13,11 +13,14 @@
     "iso:country":"CN",
     "lbl:latitude":34.365067,
     "lbl:longitude":107.140099,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":34.365067,
     "mps:longitude":107.140099,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Ko-chen"
     ],
     "name:zho_x_preferred":[
@@ -37,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85669769,
@@ -50,7 +53,6 @@
     "wof:concordances":{
         "gn:id":1809263,
         "gp:id":2156954,
-        "qs:id":136702,
         "qs_pg:id":136702
     },
     "wof:country":"CN",
@@ -66,7 +68,7 @@
         }
     ],
     "wof:id":102027583,
-    "wof:lastmodified":1505338998,
+    "wof:lastmodified":1566655714,
     "wof:name":"Guozhen",
     "wof:parent_id":890516525,
     "wof:placetype":"locality",

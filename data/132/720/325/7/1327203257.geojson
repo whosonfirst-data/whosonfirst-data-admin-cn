@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"108.91333,23.69667,108.95333,23.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Heli"
     ],
@@ -39,8 +43,7 @@
         "Heli"
     ],
     "name:und_x_variant":[
-        "Ho-li",
-        "Heli"
+        "Ho-li"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1327203257,
-    "wof:lastmodified":1564178634,
+    "wof:lastmodified":1566655349,
     "wof:name":"Heli",
     "wof:parent_id":1108732439,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":116.314523,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":31.609948,
     "lbl:longitude":116.300282,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5b89\u5fbd\u7701",
     "meso:dissme":"\u516d\u5b89\u5e02\u5b89\u5fbd\u7701",
     "meso:gadm_adm2":"Lu'an",
@@ -46,6 +48,7 @@
     "mps:longitude":116.300282,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Lu'an"
     ],
@@ -142,7 +145,7 @@
     "name:tur_x_preferred":[
         "Lu'an"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Liu-an Chuan-ch\u2019\u00fc"
     ],
     "name:urd_x_preferred":[
@@ -179,7 +182,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -191,7 +194,7 @@
     "wof:concordances":{
         "gn:id":1802199,
         "gp:id":26198217,
-        "qs:id":335688
+        "qs_pg:id":335688
     },
     "wof:country":"CN",
     "wof:created":1469055834,
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":890513745,
-    "wof:lastmodified":1564249907,
+    "wof:lastmodified":1566693732,
     "wof:name":"Lu'an",
     "wof:parent_id":85669739,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"111.17806,39.41056,111.21806,39.45056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mashan"
     ],
@@ -46,8 +50,7 @@
     ],
     "name:und_x_variant":[
         "Ma-p\u2019eng-ts\u2019un",
-        "Mapeng",
-        "Mashan"
+        "Mapeng"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1293352141,
-    "wof:lastmodified":1564197314,
+    "wof:lastmodified":1566669201,
     "wof:name":"Mashan",
     "wof:parent_id":890516341,
     "wof:placetype":"locality",

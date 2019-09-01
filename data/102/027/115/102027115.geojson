@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":32.489348,
     "lbl:longitude":119.92462,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":32.489348,
     "mps:longitude":119.92462,
     "mz:hierarchy_label":1,
@@ -186,7 +188,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0439\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u2019ai-hsien-ch\u2019eng"
     ],
     "name:urd_x_preferred":[
@@ -328,7 +330,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1198,
     "wof:belongsto":[
@@ -343,7 +345,7 @@
         "fct:id":"06b49792-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1793505,
         "gp:id":12685608,
-        "qs:id":191118,
+        "qs_pg:id":191118,
         "wd:id":"Q57931",
         "wk:page":"Taizhou, Jiangsu"
     },
@@ -363,7 +365,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393347,
+    "wof:lastmodified":1566655707,
     "wof:name":"Taizhou",
     "wof:parent_id":890516237,
     "wof:placetype":"locality",

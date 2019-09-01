@@ -11,7 +11,7 @@
     "geom:longitude":106.889731,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":39.443487,
     "lbl:longitude":106.861374,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5185\u8499\u53e4\u81ea\u6cbb\u533a",
     "meso:dissme":"\u4e4c\u6d77\u5e02\u5185\u8499\u53e4\u81ea\u6cbb\u533a",
     "meso:gadm_adm2":"Wuhai",
@@ -46,6 +48,7 @@
     "mps:longitude":106.861374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0648\u0647\u0627\u064a"
     ],
@@ -127,7 +130,7 @@
     "name:tur_x_preferred":[
         "Wuhai"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wu-hai Shih"
     ],
     "name:urd_x_preferred":[
@@ -160,9 +163,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"1754",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Wuhai Shi",
@@ -184,7 +187,7 @@
         "gn:id":1791248,
         "gp:id":26198045,
         "hasc:id":"CN.NM.WH",
-        "qs:id":1001584
+        "qs_pg:id":1001584
     },
     "wof:country":"CN",
     "wof:created":1469055880,
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":890514877,
-    "wof:lastmodified":1564249794,
+    "wof:lastmodified":1566693684,
     "wof:name":"Wuhai",
     "wof:parent_id":85669847,
     "wof:placetype":"county",

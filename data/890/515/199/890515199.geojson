@@ -11,7 +11,7 @@
     "geom:longitude":129.209383,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":47.714043,
     "lbl:longitude":129.102705,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u9ed1\u9f99\u6c5f\u7701",
     "meso:dissme":"\u4f0a\u6625\u5e02\u9ed1\u9f99\u6c5f\u7701",
     "meso:gadm_adm2":"Yichun",
@@ -46,6 +48,7 @@
     "mps:longitude":129.102705,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Yichun Qu"
     ],
@@ -91,7 +94,7 @@
     "name:swe_x_preferred":[
         "Yichun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "I-ch\u2019un Shih"
     ],
     "name:vie_x_preferred":[
@@ -122,9 +125,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"32750",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Yichun Shi",
@@ -146,7 +149,7 @@
         "gn:id":2033412,
         "gp:id":26198062,
         "hasc:id":"CN.HL.YC",
-        "qs:id":10283,
+        "qs_pg:id":10283,
         "wd:id":"Q635541"
     },
     "wof:country":"CN",
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":890515199,
-    "wof:lastmodified":1563459882,
+    "wof:lastmodified":1566693785,
     "wof:name":"Yichun",
     "wof:parent_id":85669849,
     "wof:placetype":"county",

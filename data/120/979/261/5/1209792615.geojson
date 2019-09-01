@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"114.19992,31.15501,114.23992,31.19501",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Lu'an"
     ],
@@ -118,9 +122,6 @@
     "name:tur_x_preferred":[
         "Lu'an"
     ],
-    "name:und_x_variant":[
-        "Lu\u2019an"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u0622\u0646"
     ],
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":1209792615,
-    "wof:lastmodified":1564217784,
+    "wof:lastmodified":1566680517,
     "wof:name":"Lu'an",
     "wof:parent_id":1108732407,
     "wof:placetype":"locality",

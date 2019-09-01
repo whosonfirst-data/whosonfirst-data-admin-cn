@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000616,
-    "geom:area_square_m":5841876.45344,
+    "geom:area_square_m":5841876.453443,
     "geom:bbox":"116.289205028,39.8696955085,116.318839935,39.8999122999",
     "geom:latitude":39.885066,
     "geom:longitude":116.304326,
@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.892219,
     "lbl:longitude":116.31201,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.88501,
     "mps:longitude":116.30313,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Taipingqiao"
-    ],
-    "name:unk_x_variant":[
         "Taipingqiao"
     ],
     "name:zho_x_preferred":[
@@ -59,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":147,
     "wof:belongsto":[
         102191569,
@@ -72,7 +70,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12906642,
-        "qs:id":1195817,
         "qs_pg:id":1195817
     },
     "wof:country":"CN",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269154,
+    "wof:lastmodified":1566665025,
     "wof:name":"Taipingqiao",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

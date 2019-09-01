@@ -25,6 +25,7 @@
     ],
     "lbl:latitude":33.668773,
     "lbl:longitude":119.47881,
+    "lbl:min_zoom":8.0,
     "meso:name_alt":"\u6c5f\u8607|\u6c5f\u82cf",
     "meso:name_loc":"\u6c5f\u82cf\u7701",
     "mps:latitude":33.51238,
@@ -307,9 +308,6 @@
     ],
     "name:und_x_variant":[
         "\u6c5f\u8607|\u6c5f\u82cf",
-        "\u6c5f\u82cf\u7701"
-    ],
-    "name:unk_x_variant":[
         "Chiang-su"
     ],
     "name:urd_x_preferred":[
@@ -427,9 +425,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"98,285",
     "statoids:area_mi":"37,948",
     "statoids:as_of_date":"2010-11-01",
@@ -457,7 +455,7 @@
         "hasc:id":"CN.JS",
         "iso:id":"CN-JS",
         "loc:id":"n81022196",
-        "qs:id":885459,
+        "qs_pg:id":885459,
         "unlc:id":"CN-32",
         "wd:id":"Q16963",
         "wk:page":"Jiangsu"
@@ -484,11 +482,10 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1565664528,
+    "wof:lastmodified":1566665069,
     "wof:name":"Jiangsu",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":78659903,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-cn",

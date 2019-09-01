@@ -11,7 +11,7 @@
     "geom:longitude":117.440352,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":24.37472,
     "lbl:longitude":117.378836,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u798f\u5efa\u7701",
     "meso:dissme":"\u6f33\u5dde\u5e02\u798f\u5efa\u7701",
     "meso:gadm_adm2":"Zhangzhou",
@@ -46,6 +48,7 @@
     "mps:longitude":117.378836,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Zhangzhou"
     ],
@@ -160,7 +163,7 @@
     "name:uig_x_preferred":[
         "Jyangju shehiri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chang-chou Shih"
     ],
     "name:urd_x_preferred":[
@@ -199,9 +202,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"12689",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Zhangzhou Shi",
@@ -223,7 +226,7 @@
         "gn:id":1785017,
         "gp:id":26198336,
         "hasc:id":"CN.FJ.ZZ",
-        "qs:id":1287992
+        "qs_pg:id":1287992
     },
     "wof:country":"CN",
     "wof:created":1469055812,
@@ -238,7 +241,7 @@
         }
     ],
     "wof:id":890513339,
-    "wof:lastmodified":1564249833,
+    "wof:lastmodified":1566693700,
     "wof:name":"Zhangzhou",
     "wof:parent_id":85669735,
     "wof:placetype":"county",

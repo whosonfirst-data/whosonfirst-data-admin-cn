@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001438,
-    "geom:area_square_m":15215361.093865,
+    "geom:area_square_m":15215361.093864,
     "geom:bbox":"120.646866945,31.1332893246,120.832628604,31.1701254529",
     "geom:latitude":31.155727,
     "geom:longitude":120.739336,
@@ -14,11 +14,14 @@
     "iso:country":"CN",
     "lbl:latitude":31.158601,
     "lbl:longitude":120.720954,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.158601,
     "mps:longitude":120.720954,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Songlong Zhen"
     ],
     "name:zho_x_preferred":[
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669827,
         102191569,
@@ -54,7 +57,6 @@
     "wof:concordances":{
         "gn:id":8328215,
         "gp:id":2136244,
-        "qs:id":381634,
         "qs_pg:id":381634
     },
     "wof:country":"CN",
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":102028141,
-    "wof:lastmodified":1497295286,
+    "wof:lastmodified":1566655734,
     "wof:name":"Songlong",
     "wof:parent_id":890515879,
     "wof:placetype":"locality",

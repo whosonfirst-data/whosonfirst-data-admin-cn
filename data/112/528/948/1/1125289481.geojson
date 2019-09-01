@@ -9,15 +9,18 @@
     "geom:bbox":"116.2925,37.44861,116.2925,37.44861",
     "geom:latitude":37.44861,
     "geom:longitude":116.2925,
-    "gn:gn_country":"CN",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":379555,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
     "gn:population":379555,
     "iso:country":"CN",
+    "lbl:bbox":"116.1925,37.34861,116.3925,37.54861",
     "lbl:latitude":37.44861,
     "lbl:longitude":116.2925,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Detsjou"
@@ -58,7 +61,7 @@
     "name:srp_x_preferred":[
         "\u0414\u0435\u045f\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tehchow"
     ],
     "name:urd_x_preferred":[
@@ -97,7 +100,7 @@
     "qs_pg:woe_adm0":23424781,
     "qs_pg:woe_id":12687058,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424781,
     "woe:name_adm0":"\u4e2d\u570b",
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1125289481,
-    "wof:lastmodified":1509387497,
+    "wof:lastmodified":1566693801,
     "wof:name":"\u5fb7\u5dde\u5e02",
     "wof:parent_id":890516549,
     "wof:placetype":"localadmin",

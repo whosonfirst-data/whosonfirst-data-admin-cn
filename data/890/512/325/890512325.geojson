@@ -11,11 +11,15 @@
     "geom:longitude":109.26861,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":1110,
+    "gn:population":1110,
     "iso:country":"CN",
+    "lbl:bbox":"109.24861,27.17528,109.28861,27.21528",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Chung-chai-ch\u2019ang"
     ],
     "name:zho_x_preferred":[
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1784209,
         "gp:id":2143217,
-        "qs:id":136211
+        "qs_pg:id":136211
     },
     "wof:country":"CN",
     "wof:created":1469055767,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890512325,
-    "wof:lastmodified":1564249941,
+    "wof:lastmodified":1566693747,
     "wof:name":"Zhongzhai",
     "wof:parent_id":890514349,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":119.02718,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"118.92718,31.4939,119.12718,31.6939",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0644\u064a\u0634\u0648\u0649"
     ],
@@ -100,7 +104,7 @@
         "Lishui"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bc0\u0bb7\u0bc1\u0baf\u0bcd  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0bb2\u0bc0\u0bb7\u0bc1\u0baf\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3f\u0c37\u0c41\u0c2f\u0c3f \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -114,7 +118,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0448\u0443\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Li-shui Hsien"
     ],
     "name:urd_x_preferred":[
@@ -152,7 +156,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1803242,
-        "qs:id":1027645,
+        "qs_pg:id":1027645,
         "wd:id":"Q1197700",
         "wk:page":"Lishui District"
     },
@@ -170,7 +174,7 @@
         }
     ],
     "wof:id":890514165,
-    "wof:lastmodified":1563459453,
+    "wof:lastmodified":1566693678,
     "wof:name":"Lishui Xian",
     "wof:parent_id":890516425,
     "wof:placetype":"localadmin",

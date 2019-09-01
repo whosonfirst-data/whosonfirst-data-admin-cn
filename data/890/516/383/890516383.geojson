@@ -11,12 +11,16 @@
     "geom:longitude":119.97528,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":75656,
+    "gn:population":75656,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"119.95528,35.85861,119.99528,35.89861",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Chiao-nan"
     ],
     "name:zho_x_preferred":[
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1792087,
         "gp:id":2167577,
-        "qs:id":1306630
+        "qs_pg:id":1306630
     },
     "wof:country":"CN",
     "wof:created":1469055955,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890516383,
-    "wof:lastmodified":1505343902,
+    "wof:lastmodified":1566693614,
     "wof:name":"\u80f6\u5357",
     "wof:parent_id":890514775,
     "wof:placetype":"locality",

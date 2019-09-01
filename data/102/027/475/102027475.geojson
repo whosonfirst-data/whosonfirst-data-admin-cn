@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":24.661994,
     "lbl:longitude":116.174927,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.661994,
     "mps:longitude":116.174927,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jiaocheng"
     ],
@@ -28,7 +31,7 @@
     "name:nor_x_preferred":[
         "Jiaocheng"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chuiling"
     ],
     "name:zho_x_preferred":[
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":32,
     "wof:belongsto":[
         85669743,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":1806041,
         "gp:id":2161437,
-        "qs:id":277575,
         "qs_pg:id":277575
     },
     "wof:country":"CN",
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":102027475,
-    "wof:lastmodified":1564178914,
+    "wof:lastmodified":1566655688,
     "wof:name":"Jiaocheng",
     "wof:parent_id":890516561,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"109.99778,32.70028,110.03778,32.74028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -34,7 +38,7 @@
         "gn:id":1909302
     },
     "wof:country":"CN",
-    "wof:geomhash":"73ce758906427ee7f64df79bf426c20c",
+    "wof:geomhash":"a285e2b0f022edc5faf5b84d09c39fce",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209670043,
-    "wof:lastmodified":1536279955,
+    "wof:lastmodified":1566682257,
     "wof:name":"Goubaqu",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     110.01778,
-    32.720279999999995,
+    32.72028,
     110.01778,
-    32.720279999999995
+    32.72028
 ],
   "geometry": {"coordinates":[110.01778,32.72028],"type":"Point"}
 }

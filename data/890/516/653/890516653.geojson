@@ -11,9 +11,12 @@
     "geom:longitude":119.01917,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":555230,
+    "gn:population":555230,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"118.99917,33.56861,119.03917,33.60861",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -167,7 +170,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0443\u0430\u0439\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ch\u2019ing-chiang"
     ],
     "name:urd_x_preferred":[
@@ -304,7 +307,7 @@
     "wof:concordances":{
         "gn:id":1797873,
         "gp:id":2135024,
-        "qs:id":28091,
+        "qs_pg:id":28091,
         "wd:id":"Q57818",
         "wk:page":"Huaiyin"
     },
@@ -322,7 +325,7 @@
         }
     ],
     "wof:id":890516653,
-    "wof:lastmodified":1563459299,
+    "wof:lastmodified":1566693635,
     "wof:name":"Huaiyin",
     "wof:parent_id":1108732465,
     "wof:placetype":"locality",

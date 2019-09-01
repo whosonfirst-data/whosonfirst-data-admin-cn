@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":33.14675,
     "lbl:longitude":106.638794,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":33.14675,
     "mps:longitude":106.638794,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Mianyang"
     ],
@@ -106,7 +109,7 @@
     "name:uig_x_preferred":[
         "\u0645\u064a\u06d5\u0646\u064a\u0627\u06ad \u0634\u06d5\u06be\u0649\u0631\u0649"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mien"
     ],
     "name:urd_x_preferred":[
@@ -138,7 +141,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1071,
     "wof:belongsto":[
         85669769,
@@ -151,7 +154,6 @@
     "wof:concordances":{
         "gn:id":1800629,
         "gp:id":20262724,
-        "qs:id":136548,
         "qs_pg:id":136548
     },
     "wof:country":"CN",
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":102027311,
-    "wof:lastmodified":1564178919,
+    "wof:lastmodified":1566655707,
     "wof:name":"Mianyang",
     "wof:parent_id":890515099,
     "wof:placetype":"locality",

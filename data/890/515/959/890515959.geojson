@@ -11,11 +11,15 @@
     "geom:longitude":114.88655,
     "gn:country":"CN",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"114.86655,30.37607,114.90655,30.41607",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u064a\u062a\u0634\u0648"
     ],
@@ -175,9 +179,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
-        "E\u2019zhou Shi"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0698\u0624"
     ],
@@ -222,7 +223,7 @@
     "wof:concordances":{
         "gn:id":6642286,
         "gp:id":2163023,
-        "qs:id":1028960,
+        "qs_pg:id":1028960,
         "wd:id":"Q71305"
     },
     "wof:country":"CN",
@@ -239,7 +240,7 @@
         }
     ],
     "wof:id":890515959,
-    "wof:lastmodified":1563459874,
+    "wof:lastmodified":1566693783,
     "wof:name":"\u9102\u5dde\u5e02",
     "wof:parent_id":890514515,
     "wof:placetype":"locality",

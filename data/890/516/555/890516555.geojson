@@ -11,7 +11,7 @@
     "geom:longitude":119.454664,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":29.892926,
     "lbl:longitude":119.375604,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6d59\u6c5f\u7701",
     "meso:dissme":"\u676d\u5dde\u5e02\u6d59\u6c5f\u7701",
     "meso:gadm_adm2":"Hangzhou",
@@ -46,6 +48,7 @@
     "mps:longitude":119.375604,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Hangzhou"
     ],
@@ -280,7 +283,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u043d\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hang-chou Shih"
     ],
     "name:urd_x_preferred":[
@@ -322,9 +325,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"16596",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Hangzhou Shi",
@@ -346,7 +349,7 @@
         "gn:id":1808925,
         "gp:id":26198147,
         "hasc:id":"CN.ZJ.HZ",
-        "qs:id":219964
+        "qs_pg:id":219964
     },
     "wof:country":"CN",
     "wof:created":1469055963,
@@ -361,7 +364,7 @@
         }
     ],
     "wof:id":890516555,
-    "wof:lastmodified":1564249661,
+    "wof:lastmodified":1566693622,
     "wof:name":"Hangzhou",
     "wof:parent_id":85669835,
     "wof:placetype":"county",

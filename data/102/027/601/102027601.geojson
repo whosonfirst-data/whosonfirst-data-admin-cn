@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":37.094621,
     "lbl:longitude":118.427124,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.094621,
     "mps:longitude":118.427124,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Guangrao"
     ],
@@ -49,7 +52,7 @@
     "name:swe_x_preferred":[
         "Guangrao"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lo-an"
     ],
     "name:vie_x_preferred":[
@@ -84,7 +87,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669813,
         102191569,
@@ -96,7 +99,7 @@
     "wof:concordances":{
         "gn:id":1809883,
         "gp:id":2167449,
-        "qs:id":194660,
+        "qs_pg:id":194660,
         "wd:id":"Q1197940",
         "wk:page":"Guangrao County"
     },
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":102027601,
-    "wof:lastmodified":1563393327,
+    "wof:lastmodified":1566655699,
     "wof:name":"Guangrao",
     "wof:parent_id":890514773,
     "wof:placetype":"locality",

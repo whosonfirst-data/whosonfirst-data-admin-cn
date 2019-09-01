@@ -11,10 +11,14 @@
     "geom:longitude":114.58333,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"114.56333,23.03,114.60333,23.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pingtan"
     ],
@@ -30,7 +34,7 @@
     "name:swe_x_preferred":[
         "Pingtan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u2019ing-t\u2019an-y\u00fc"
     ],
     "name:wuu_x_preferred":[
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":1798685,
         "gp:id":20253878,
-        "qs:id":1027573,
+        "qs_pg:id":1027573,
         "wd:id":"Q7195821",
         "wk:page":"Pingtan"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890512667,
-    "wof:lastmodified":1563459711,
+    "wof:lastmodified":1566693741,
     "wof:name":"Pingtan",
     "wof:parent_id":890516563,
     "wof:placetype":"locality",

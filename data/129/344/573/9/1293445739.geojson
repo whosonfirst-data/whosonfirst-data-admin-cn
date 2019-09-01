@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"111.14425,35.59295,111.18425,35.63295",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Longquan"
     ],
@@ -60,9 +64,6 @@
     ],
     "name:tgl_x_preferred":[
         "Longquan"
-    ],
-    "name:und_x_variant":[
-        "\u9f99\u6cc9"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u0646\u06af\u0634\u0648\u0627\u0646"
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1293445739,
-    "wof:lastmodified":1564202302,
+    "wof:lastmodified":1566672068,
     "wof:name":"Longquan",
     "wof:parent_id":890514745,
     "wof:placetype":"locality",

@@ -9,17 +9,20 @@
     "geom:bbox":"112.35217,28.84298,112.35217,28.84298",
     "geom:latitude":28.84298,
     "geom:longitude":112.35217,
-    "gn:gn_country":"CN",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":66145,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
     "gn:population":66145,
     "iso:country":"CN",
+    "lbl:bbox":"112.33217,28.82298,112.37217,28.86298",
     "lbl:latitude":28.84298,
     "lbl:longitude":112.35217,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qionghu"
     ],
     "name:zho_x_preferred":[
@@ -49,7 +52,7 @@
     "qs_pg:woe_adm0":23424781,
     "qs_pg:woe_id":2142749,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424781,
     "woe:name_adm0":"\u4e2d\u570b",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1125792989,
-    "wof:lastmodified":1509392449,
+    "wof:lastmodified":1566693808,
     "wof:name":"\u6c85\u6c5f",
     "wof:parent_id":890516477,
     "wof:placetype":"locality",

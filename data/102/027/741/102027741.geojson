@@ -13,10 +13,13 @@
     "iso:country":"CN",
     "lbl:latitude":27.303452,
     "lbl:longitude":105.281982,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":27.303452,
     "mps:longitude":105.281982,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Bijie"
     ],
@@ -201,7 +204,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":995,
     "wof:belongsto":[
@@ -215,7 +218,7 @@
     "wof:concordances":{
         "gn:id":1816373,
         "gp:id":2146705,
-        "qs:id":136897,
+        "qs_pg:id":136897,
         "wd:id":"Q486319",
         "wk:page":"Bijie"
     },
@@ -232,7 +235,7 @@
         }
     ],
     "wof:id":102027741,
-    "wof:lastmodified":1563393236,
+    "wof:lastmodified":1566655671,
     "wof:name":"Bijie",
     "wof:parent_id":1108732447,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000227,
-    "geom:area_square_m":2151034.572383,
+    "geom:area_square_m":2151034.572386,
     "geom:bbox":"116.389710483,39.9048116116,116.411132812,39.920980292",
     "geom:latitude":39.913666,
     "geom:longitude":116.399395,
@@ -14,6 +14,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.915866,
     "lbl:longitude":116.394494,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.913359,
     "mps:longitude":116.399194,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Donghuamen"
-    ],
-    "name:unk_x_variant":[
         "Donghuamen"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -59,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -72,7 +70,6 @@
     "wof:concordances":{
         "gn:id":1911939,
         "gp:id":22724392,
-        "qs:id":223954,
         "qs_pg:id":223954
     },
     "wof:country":"CN",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497314551,
+    "wof:lastmodified":1566665038,
     "wof:name":"Donghuamen",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

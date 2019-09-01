@@ -12,8 +12,10 @@
     "gn:latitude":23.67947,
     "gn:longitude":113.30346,
     "iso:country":"CN",
+    "lbl:bbox":"113.274114,23.065186,113.284114,23.075186",
     "lbl:latitude":23.070186,
     "lbl:longitude":113.279114,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.064634,
     "mps:longitude":113.282519,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
         "Wufeng"
     ],
     "name:pol_x_preferred":[
-        "Wufeng"
-    ],
-    "name:unk_x_variant":[
         "Wufeng"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":108,
     "wof:belongsto":[
         102191569,
@@ -90,7 +89,6 @@
     "wof:concordances":{
         "gn:id":7007431,
         "gp:id":22724605,
-        "qs:id":1191427,
         "qs_pg:id":1191427
     },
     "wof:country":"CN",
@@ -110,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564190832,
+    "wof:lastmodified":1566665015,
     "wof:name":"Wufeng",
     "wof:parent_id":102027597,
     "wof:placetype":"neighbourhood",

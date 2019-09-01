@@ -11,8 +11,11 @@
     "geom:longitude":115.03194,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":126366,
+    "gn:population":126366,
     "iso:country":"CN",
+    "lbl:bbox":"115.01194,31.15833,115.05194,31.19833",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
@@ -136,7 +139,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0447\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ma-ch\u2019eng-hsien"
     ],
     "name:urd_x_preferred":[
@@ -269,7 +272,7 @@
     "wof:concordances":{
         "gn:id":1801582,
         "gp:id":2163900,
-        "qs:id":136565,
+        "qs_pg:id":136565,
         "wd:id":"Q1016939",
         "wk:page":"Macheng"
     },
@@ -287,7 +290,7 @@
         }
     ],
     "wof:id":890511711,
-    "wof:lastmodified":1563459369,
+    "wof:lastmodified":1566693653,
     "wof:name":"Macheng",
     "wof:parent_id":890514791,
     "wof:placetype":"locality",

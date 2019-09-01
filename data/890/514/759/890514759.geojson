@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":27.06503,
     "lbl:longitude":113.507853,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6e56\u5357\u7701",
     "meso:dissme":"\u682a\u6d32\u5e02\u6e56\u5357\u7701",
     "meso:gadm_adm2":"Zhuzhou",
@@ -43,6 +45,7 @@
     "mps:longitude":113.507853,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Zhuzhou"
     ],
@@ -145,9 +148,6 @@
     "name:tur_x_preferred":[
         "Zhuzhou"
     ],
-    "name:und_x_variant":[
-        "\u682a\u6d32\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u0698\u0648\u0698\u0648\u0648"
     ],
@@ -177,9 +177,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"11272",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Zhuzhou Shi",
@@ -200,7 +200,7 @@
     "wof:concordances":{
         "gp:id":26198214,
         "hasc:id":"CN.HN.ZZ",
-        "qs:id":896597
+        "qs_pg:id":896597
     },
     "wof:country":"CN",
     "wof:created":1469055876,
@@ -215,7 +215,7 @@
         }
     ],
     "wof:id":890514759,
-    "wof:lastmodified":1564249793,
+    "wof:lastmodified":1566693684,
     "wof:name":"Zhuzhou",
     "wof:parent_id":85669781,
     "wof:placetype":"county",

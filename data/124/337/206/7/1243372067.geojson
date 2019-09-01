@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"120.36083,29.71083,120.40083,29.75083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Sifu"
     ],
@@ -54,9 +58,6 @@
     ],
     "name:spa_x_preferred":[
         "Shifu"
-    ],
-    "name:und_x_variant":[
-        "\u77f3\u7829"
     ],
     "name:vie_x_preferred":[
         "S\u01b0 ph\u1ee5"
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1243372067,
-    "wof:lastmodified":1564250980,
+    "wof:lastmodified":1566694123,
     "wof:name":"Shifu",
     "wof:parent_id":890513785,
     "wof:placetype":"locality",

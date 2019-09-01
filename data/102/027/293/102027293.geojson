@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":30.812636,
     "lbl:longitude":106.089599,
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":5.0,
     "mps:latitude":30.812636,
     "mps:longitude":106.089599,
     "mz:hierarchy_label":1,
@@ -165,7 +167,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043d\u044c\u0447\u0443\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shun\u2019tsin"
     ],
     "name:urd_x_preferred":[
@@ -304,7 +306,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1099,
     "wof:belongsto":[
@@ -318,7 +320,7 @@
     "wof:concordances":{
         "gn:id":1800146,
         "gp:id":20071183,
-        "qs:id":277582,
+        "qs_pg:id":277582,
         "wd:id":"Q426996",
         "wk:page":"Nanchong"
     },
@@ -335,7 +337,7 @@
         }
     ],
     "wof:id":102027293,
-    "wof:lastmodified":1563393189,
+    "wof:lastmodified":1566655655,
     "wof:megacity":1,
     "wof:name":"Nanchong",
     "wof:parent_id":890511853,

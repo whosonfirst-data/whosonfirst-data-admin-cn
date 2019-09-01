@@ -11,10 +11,14 @@
     "geom:longitude":100.00457,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"99.90457,37.4878,100.10457,37.6878",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gangca Xian"
     ],
@@ -54,7 +58,7 @@
     "name:swe_x_preferred":[
         "Kangtsha"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kang-ch\u2019a Hsien"
     ],
     "name:vie_x_preferred":[
@@ -85,7 +89,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1810771,
-        "qs:id":244489,
+        "qs_pg:id":244489,
         "wd:id":"Q630450",
         "wk:page":"Gangca County"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":890517091,
-    "wof:lastmodified":1563459140,
+    "wof:lastmodified":1566693587,
     "wof:name":"Gangca Xian",
     "wof:parent_id":890515873,
     "wof:placetype":"localadmin",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000401,
-    "geom:area_square_m":3798698.598371,
+    "geom:area_square_m":3798698.598373,
     "geom:bbox":"116.468811035,39.904469035,116.510009766,39.9195847307",
     "geom:latitude":39.912057,
     "geom:longitude":116.489037,
@@ -14,6 +14,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.910429,
     "lbl:longitude":116.482054,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.911893,
     "mps:longitude":116.489051,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Balizhuang"
-    ],
-    "name:unk_x_variant":[
         "Balizhuang"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -59,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -72,7 +70,6 @@
     "wof:concordances":{
         "gn:id":1912076,
         "gp:id":2151396,
-        "qs:id":1083660,
         "qs_pg:id":1083660
     },
     "wof:country":"CN",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497313718,
+    "wof:lastmodified":1566665032,
     "wof:name":"Balizhuang",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

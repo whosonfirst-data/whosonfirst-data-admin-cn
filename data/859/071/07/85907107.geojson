@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11999124.61688,
+    "geom:area_square_m":0.0,
     "geom:bbox":"113.253514,23.085847,113.253514,23.085847",
     "geom:latitude":23.085847,
     "geom:longitude":113.253514,
     "iso:country":"CN",
+    "lbl:bbox":"113.248514,23.080847,113.258514,23.090847",
     "lbl:latitude":23.085847,
     "lbl:longitude":113.253514,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.078641,
     "mps:longitude":113.251923,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Baihedong"
-    ],
-    "name:unk_x_variant":[
         "Baihedong"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -58,14 +57,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85669743,
         102191569,
         85632695,
         102027597,
         136253041,
-        890513087
+        890513087,
+        85669743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936512,
+    "wof:lastmodified":1566665015,
     "wof:name":"Baihedong",
     "wof:parent_id":102027597,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000667,
-    "geom:area_square_m":7158614.901545,
+    "geom:area_square_m":7158614.90154,
     "geom:bbox":"118.295933609,29.7505860819,118.33858773,29.768631253",
     "geom:latitude":29.759609,
     "geom:longitude":118.317261,
@@ -14,10 +14,13 @@
     "iso:country":"CN",
     "lbl:latitude":29.759608,
     "lbl:longitude":118.317261,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":29.759608,
     "mps:longitude":118.317261,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u571f\u6eaa"
     ],
@@ -33,7 +36,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669739,
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102028083,
-    "wof:lastmodified":1501273254,
+    "wof:lastmodified":1566655720,
     "wof:name":"Tuxi",
     "wof:parent_id":1108732553,
     "wof:placetype":"locality",

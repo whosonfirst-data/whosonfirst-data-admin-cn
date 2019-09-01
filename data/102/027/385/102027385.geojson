@@ -13,10 +13,13 @@
     "iso:country":"CN",
     "lbl:latitude":24.9512,
     "lbl:longitude":102.453003,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":24.9512,
     "mps:longitude":102.453003,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0627\u0646\u0646\u064a\u0646\u063a"
     ],
@@ -131,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u044c\u043d\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Anning-chow"
     ],
     "name:urd_x_preferred":[
@@ -163,7 +166,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85669791,
@@ -176,7 +179,6 @@
     "wof:concordances":{
         "gn:id":1803886,
         "gp:id":2160537,
-        "qs:id":136616,
         "qs_pg:id":136616,
         "wd:id":"Q567193",
         "wk:page":"Anning, Yunnan"
@@ -194,7 +196,7 @@
         }
     ],
     "wof:id":102027385,
-    "wof:lastmodified":1563393216,
+    "wof:lastmodified":1566655667,
     "wof:name":"Lianran",
     "wof:parent_id":890513777,
     "wof:placetype":"locality",

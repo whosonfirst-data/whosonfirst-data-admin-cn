@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000394,
-    "geom:area_square_m":3734939.010906,
+    "geom:area_square_m":3734939.0109,
     "geom:bbox":"116.361694336,39.945542166,116.391906738,39.9665957373",
     "geom:latitude":39.956805,
     "geom:longitude":116.376737,
@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.955026,
     "lbl:longitude":116.374119,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.957122,
     "mps:longitude":116.376725,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Dewai"
-    ],
-    "name:unk_x_variant":[
         "Dewai"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724383,
-        "qs:id":900357,
         "qs_pg:id":900357
     },
     "wof:country":"CN",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269264,
+    "wof:lastmodified":1566665033,
     "wof:name":"Dewai",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

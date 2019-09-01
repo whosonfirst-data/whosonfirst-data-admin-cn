@@ -11,11 +11,15 @@
     "geom:longitude":109.62472,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":2350,
+    "gn:population":2350,
     "iso:country":"CN",
+    "lbl:bbox":"109.60472,27.10472,109.64472,27.14472",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Tokow"
     ],
     "qs:name":"Tuokou",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1792334,
         "gp:id":2143102,
-        "qs:id":560253
+        "qs_pg:id":560253
     },
     "wof:country":"CN",
     "wof:created":1469055826,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890513555,
-    "wof:lastmodified":1505343892,
+    "wof:lastmodified":1566693717,
     "wof:name":"Tuokou",
     "wof:parent_id":890514349,
     "wof:placetype":"locality",

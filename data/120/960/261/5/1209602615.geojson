@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"109.76482,25.93982,109.80482,25.97982",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0639\u0627\u0646"
     ],
@@ -109,9 +113,6 @@
     "name:tur_x_preferred":[
         "Ma'an"
     ],
-    "name:und_x_variant":[
-        "Ma\u2019an"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0639\u0627\u0646"
     ],
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1209602615,
-    "wof:lastmodified":1564221417,
+    "wof:lastmodified":1566682404,
     "wof:name":"Ma'an",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",

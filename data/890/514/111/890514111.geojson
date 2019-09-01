@@ -11,7 +11,7 @@
     "geom:longitude":106.517319,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
         "Shizuishan City"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":39.013282,
     "lbl:longitude":106.550898,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5b81\u590f\u56de\u65cf\u81ea\u6cbb\u533a",
     "meso:dissme":"\u77f3\u5634\u5c71\u5e02\u5b81\u590f\u56de\u65cf\u81ea\u6cbb\u533a",
     "meso:gadm_adm2":"Shizuishan",
@@ -45,6 +47,7 @@
     "mps:longitude":106.550898,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u0632\u0648\u064a\u0634\u0627\u0646"
     ],
@@ -117,7 +120,7 @@
     "name:tur_x_preferred":[
         "Shizuishan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shih-tsui-shan Shih"
     ],
     "name:urd_x_preferred":[
@@ -140,9 +143,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"4447",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Shizuishan Shi",
@@ -163,7 +166,7 @@
     "wof:concordances":{
         "gn:id":1794805,
         "hasc:id":"CN.NX.SZ",
-        "qs:id":1027541
+        "qs_pg:id":1027541
     },
     "wof:country":"CN",
     "wof:created":1469055848,
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":890514111,
-    "wof:lastmodified":1564249773,
+    "wof:lastmodified":1566693671,
     "wof:name":"Shizuishan",
     "wof:parent_id":85669763,
     "wof:placetype":"county",

@@ -11,13 +11,16 @@
     "geom:longitude":113.88333,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":132891,
+    "gn:population":132891,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"113.86333,29.69667,113.90333,29.73667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u2019u-ch\u2019i-hsien"
     ],
     "ne:ADM0CAP":0.0,
@@ -133,7 +136,7 @@
     "wof:concordances":{
         "gn:id":1798473,
         "gp:id":2163880,
-        "qs:id":274059
+        "qs_pg:id":274059
     },
     "wof:country":"CN",
     "wof:created":1469055794,
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":890512939,
-    "wof:lastmodified":1505343890,
+    "wof:lastmodified":1566693735,
     "wof:name":"\u84b2\u573b\u5e02",
     "wof:parent_id":890514637,
     "wof:placetype":"locality",

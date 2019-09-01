@@ -11,10 +11,14 @@
     "geom:longitude":103.30372,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":198423,
+    "gn:population":198423,
     "iso:country":"CN",
+    "lbl:bbox":"103.28372,23.67767,103.32372,23.71767",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ceb_x_preferred":[
         "Kaiyuan"
     ],
@@ -45,7 +49,7 @@
     "name:swe_x_preferred":[
         "Kaiyuan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ami-hsien"
     ],
     "qs:name":"Kaiyuan",
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":1804850,
         "gp:id":2160698,
-        "qs:id":562201,
+        "qs_pg:id":562201,
         "wk:page":"Kaiyuan"
     },
     "wof:country":"CN",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":890513615,
-    "wof:lastmodified":1564249885,
+    "wof:lastmodified":1566693722,
     "wof:name":"Kaiyuan",
     "wof:parent_id":1108794063,
     "wof:placetype":"locality",

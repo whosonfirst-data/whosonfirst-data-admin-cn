@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":37.740313,
     "lbl:longitude":115.680542,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":37.740313,
     "mps:longitude":115.680542,
     "mz:hierarchy_label":1,
@@ -168,7 +170,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0435\u043d\u0448\u0443\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khenshuy"
     ],
     "name:urd_x_preferred":[
@@ -309,7 +311,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":436,
     "wof:belongsto":[
@@ -324,7 +326,6 @@
         "fct:id":"06b4e5e4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1808392,
         "gp:id":2171299,
-        "qs:id":1070632,
         "qs_pg:id":1070632,
         "wd:id":"Q58724",
         "wk:page":"Hengshui"
@@ -345,7 +346,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393117,
+    "wof:lastmodified":1566655631,
     "wof:name":"Hengshui",
     "wof:parent_id":890516595,
     "wof:placetype":"locality",

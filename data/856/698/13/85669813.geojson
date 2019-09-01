@@ -25,6 +25,7 @@
     ],
     "lbl:latitude":36.334087,
     "lbl:longitude":117.756464,
+    "lbl:min_zoom":8.0,
     "meso:name_alt":"\u5c71\u6771|\u5c71\u4e1c",
     "meso:name_loc":"\u5c71\u4e1c\u7701",
     "mps:latitude":36.354769,
@@ -317,9 +318,6 @@
     ],
     "name:und_x_variant":[
         "\u5c71\u6771|\u5c71\u4e1c",
-        "\u5c71\u4e1c\u7701"
-    ],
-    "name:unk_x_variant":[
         "Shantung Province"
     ],
     "name:urd_x_preferred":[
@@ -437,9 +435,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"156,219",
     "statoids:area_mi":"60,316",
     "statoids:as_of_date":"2010-11-01",
@@ -467,7 +465,7 @@
         "hasc:id":"CN.SD",
         "iso:id":"CN-SD",
         "loc:id":"n80158871",
-        "qs:id":931672,
+        "qs_pg:id":931672,
         "unlc:id":"CN-37",
         "wd:id":"Q43407",
         "wk:page":"Shandong"
@@ -494,11 +492,10 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1565664534,
+    "wof:lastmodified":1566665078,
     "wof:name":"Shandong",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":95793065,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-cn",

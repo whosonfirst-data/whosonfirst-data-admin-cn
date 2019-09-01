@@ -11,10 +11,14 @@
     "geom:longitude":118.61944,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":850,
+    "gn:population":850,
     "iso:country":"CN",
+    "lbl:bbox":"118.59944,24.65278,118.63944,24.69278",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Longhu"
     ],
@@ -192,7 +196,7 @@
     "name:swe_x_preferred":[
         "Longhu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zhongshanjie"
     ],
     "name:vec_x_preferred":[
@@ -233,7 +237,7 @@
     "wof:concordances":{
         "gn:id":1784315,
         "gp:id":2140217,
-        "qs:id":558999,
+        "qs_pg:id":558999,
         "wd:id":"Q6673889",
         "wk:page":"Longhu"
     },
@@ -251,7 +255,7 @@
         }
     ],
     "wof:id":890517137,
-    "wof:lastmodified":1563459154,
+    "wof:lastmodified":1566693591,
     "wof:name":"Longhu",
     "wof:parent_id":890514127,
     "wof:placetype":"locality",

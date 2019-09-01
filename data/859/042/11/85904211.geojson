@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.956784,
     "lbl:longitude":116.421317,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.957624,
     "mps:longitude":116.421674,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Hepingli"
-    ],
-    "name:unk_x_variant":[
         "Hepingli"
     ],
     "name:zho_x_preferred":[
@@ -61,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":54,
     "wof:belongsto":[
         102191569,
@@ -74,7 +72,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12906608,
-        "qs:id":1084589,
         "qs_pg:id":1084589
     },
     "wof:country":"CN",
@@ -94,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564190838,
+    "wof:lastmodified":1566665022,
     "wof:name":"Hepingli",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

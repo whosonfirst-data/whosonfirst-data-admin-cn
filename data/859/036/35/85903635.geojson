@@ -14,6 +14,7 @@
     "iso:country":"CN",
     "lbl:latitude":31.214469,
     "lbl:longitude":121.417862,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.211847,
     "mps:longitude":121.417485,
     "mz:hierarchy_label":1,
@@ -55,9 +56,8 @@
     "name:swe_x_preferred":[
         "Changning"
     ],
-    "name:unk_x_variant":[
-        "Changxing",
-        "Changning"
+    "name:und_x_variant":[
+        "Changxing"
     ],
     "name:zho_x_preferred":[
         "\u957f\u5174"
@@ -90,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":139,
     "wof:belongsto":[
         102191569,
@@ -106,7 +106,6 @@
     "wof:concordances":{
         "gn:id":8307080,
         "gp:id":2151454,
-        "qs:id":1091412,
         "qs_pg:id":1091412
     },
     "wof:country":"CN",
@@ -126,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564190833,
+    "wof:lastmodified":1566665016,
     "wof:name":"Changning",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

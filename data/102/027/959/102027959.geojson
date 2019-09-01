@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":41.791792,
     "lbl:longitude":81.87561,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":41.791792,
     "mps:longitude":81.87561,
     "mz:hierarchy_label":1,
@@ -156,7 +158,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0439\u0447\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u2019ao-an"
     ],
     "name:urd_x_preferred":[
@@ -304,7 +306,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":784,
     "wof:belongsto":[
@@ -318,7 +320,6 @@
     "wof:concordances":{
         "gn:id":2038569,
         "gp:id":2138123,
-        "qs:id":274148,
         "qs_pg:id":274148,
         "wd:id":"Q11077328",
         "wk:page":"Baicheng"
@@ -336,7 +337,7 @@
         }
     ],
     "wof:id":102027959,
-    "wof:lastmodified":1563393246,
+    "wof:lastmodified":1566655675,
     "wof:name":"Baicheng",
     "wof:parent_id":1108732529,
     "wof:placetype":"locality",

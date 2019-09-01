@@ -14,6 +14,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.93586,
     "lbl:longitude":116.400874,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.937778,
     "mps:longitude":116.404005,
     "mz:hierarchy_label":1,
@@ -28,9 +29,8 @@
     "name:eng_x_preferred":[
         "Jiaodaokou"
     ],
-    "name:unk_x_variant":[
-        "Chiao-tao-chen",
-        "Jiaodaokou"
+    "name:und_x_variant":[
+        "Chiao-tao-chen"
     ],
     "qs:gn_adm0_cc":"CN",
     "qs:gn_fcode":"PPL",
@@ -60,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -73,7 +73,6 @@
     "wof:concordances":{
         "gn:id":1806087,
         "gp:id":22724386,
-        "qs:id":1085994,
         "qs_pg:id":1085994
     },
     "wof:country":"CN",
@@ -93,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497313953,
+    "wof:lastmodified":1566665036,
     "wof:name":"Jiaodaokou",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

@@ -11,11 +11,15 @@
     "geom:longitude":117.7,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":72957,
+    "gn:population":72957,
     "iso:country":"CN",
+    "lbl:bbox":"117.68,35.83,117.72,35.87",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Tung-tu"
     ],
     "qs:name":"Dongdu",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1812597,
         "gp:id":2167372,
-        "qs:id":563436
+        "qs_pg:id":563436
     },
     "wof:country":"CN",
     "wof:created":1469056004,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890517343,
-    "wof:lastmodified":1505343905,
+    "wof:lastmodified":1566693594,
     "wof:name":"Dongdu",
     "wof:parent_id":890515833,
     "wof:placetype":"locality",

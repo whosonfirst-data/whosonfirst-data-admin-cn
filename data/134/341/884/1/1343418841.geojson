@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"112.86569,39.82047,112.90569,39.86047",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u0634\u0627\u0646"
     ],
@@ -100,9 +104,6 @@
     "name:tur_x_preferred":[
         "Baishan"
     ],
-    "name:und_x_variant":[
-        "\u67cf\u5c71"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0626\u0634\u0627\u0646"
     ],
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":1343418841,
-    "wof:lastmodified":1564182958,
+    "wof:lastmodified":1566659168,
     "wof:name":"Baishan",
     "wof:parent_id":890516415,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":35.057985,
     "lbl:longitude":118.333737,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.057985,
     "mps:longitude":118.333737,
     "mz:hierarchy_label":1,
@@ -171,7 +173,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043d\u044c\u0457"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yichow"
     ],
     "name:urd_x_preferred":[
@@ -313,7 +315,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":974,
     "wof:belongsto":[
@@ -327,7 +329,6 @@
     "wof:concordances":{
         "gn:id":1803318,
         "gp:id":2168342,
-        "qs:id":372181,
         "qs_pg:id":372181,
         "wd:id":"Q373346",
         "wk:page":"Linyi"
@@ -345,7 +346,7 @@
         }
     ],
     "wof:id":102027371,
-    "wof:lastmodified":1563393220,
+    "wof:lastmodified":1566655668,
     "wof:megacity":1,
     "wof:name":"Linyi",
     "wof:parent_id":1108732339,

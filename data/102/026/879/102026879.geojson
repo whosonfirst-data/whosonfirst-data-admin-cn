@@ -15,10 +15,13 @@
     "iso:country":"CN",
     "lbl:latitude":32.976412,
     "lbl:longitude":114.043579,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":32.976412,
     "mps:longitude":114.043579,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:afr_x_preferred":[
         "Zhumadian"
     ],
@@ -163,7 +166,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0436\u0443\u043c\u0430\u0434\u044f\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hsin-chuang"
     ],
     "name:urd_x_preferred":[
@@ -212,7 +215,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":471,
     "wof:belongsto":[
@@ -227,7 +230,7 @@
         "fct:id":"06b4ddf6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1783873,
         "gp:id":12685995,
-        "qs:id":136208,
+        "qs_pg:id":136208,
         "wd:id":"Q198240"
     },
     "wof:country":"CN",
@@ -246,7 +249,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393457,
+    "wof:lastmodified":1566655748,
     "wof:name":"Zhumadian",
     "wof:parent_id":890514843,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001256,
-    "geom:area_square_m":11902175.185286,
+    "geom:area_square_m":11902175.18527,
     "geom:bbox":"116.427612305,39.9487005834,116.479797363,39.9964270673",
     "geom:latitude":39.969234,
     "geom:longitude":116.452504,
@@ -14,6 +14,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.965897,
     "lbl:longitude":116.44872,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.968799,
     "mps:longitude":116.4529,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Xiangheyuan"
-    ],
-    "name:unk_x_variant":[
         "Xiangheyuan"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -59,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -72,7 +70,6 @@
     "wof:concordances":{
         "gn:id":1912103,
         "gp:id":12906618,
-        "qs:id":48788,
         "qs_pg:id":48788
     },
     "wof:country":"CN",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497316586,
+    "wof:lastmodified":1566665022,
     "wof:name":"Xiangheyuan",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

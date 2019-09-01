@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Urumqi",
     "iso:country":"CN",
+    "lbl:bbox":"90.38941,29.23855,90.42941,29.27855",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bod_x_preferred":[
         "\u0f41\u0f0b\u0f51\u0f56\u0fb2\u0f42"
     ],
@@ -39,10 +43,6 @@
     ],
     "name:swe_x_preferred":[
         "Kare"
-    ],
-    "name:und_x_variant":[
-        "Kare",
-        "Karr\u00eag"
     ],
     "name:zho_x_preferred":[
         "\u5494\u60f9"
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":1327207523,
-    "wof:lastmodified":1564178560,
+    "wof:lastmodified":1566655271,
     "wof:name":"Karag",
     "wof:parent_id":1108794057,
     "wof:placetype":"locality",

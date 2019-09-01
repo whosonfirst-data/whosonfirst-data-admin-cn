@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":23.370226,
     "lbl:longitude":116.715362,
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":5.0,
     "mps:latitude":23.370226,
     "mps:longitude":116.715362,
     "mz:hierarchy_label":1,
@@ -222,7 +224,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043d\u044c\u0442\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Swatow"
     ],
     "name:urd_x_preferred":[
@@ -362,7 +364,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2841,
     "wof:belongsto":[
@@ -376,9 +378,11 @@
     "wof:concordances":{
         "gn:id":1795940,
         "gp:id":2162312,
-        "qs:id":488217,
-        "qs_pg:id":648894,
+        "qs_pg:id":488217,
         "wd:id":"Q59100"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":648894
     },
     "wof:country":"CN",
     "wof:geomhash":"871ff367abb71be47eba161d5ad397ce",
@@ -393,7 +397,7 @@
         }
     ],
     "wof:id":102027175,
-    "wof:lastmodified":1563393228,
+    "wof:lastmodified":1566655669,
     "wof:megacity":1,
     "wof:name":"Shantou",
     "wof:parent_id":1108732449,

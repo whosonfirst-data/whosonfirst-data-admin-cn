@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":36.711845,
     "lbl:longitude":119.140664,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":36.711845,
     "mps:longitude":119.140664,
     "mz:hierarchy_label":1,
@@ -143,9 +145,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0439\u0444\u0430\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Wei"
     ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0641\u0627\u0646\u06af"
@@ -285,7 +284,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1169,
     "wof:belongsto":[
@@ -300,7 +299,6 @@
         "fct:id":"06b94a9e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1791681,
         "gp:id":2168348,
-        "qs:id":229990,
         "qs_pg:id":229990,
         "wd:id":"Q217698",
         "wk:page":"Weifang"
@@ -321,7 +319,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393169,
+    "wof:lastmodified":1566655648,
     "wof:megacity":1,
     "wof:name":"Weifang",
     "wof:parent_id":890514755,

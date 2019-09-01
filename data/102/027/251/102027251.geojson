@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":25.430502,
     "lbl:longitude":119.007499,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":25.430502,
     "mps:longitude":119.007499,
     "mz:hierarchy_label":1,
@@ -192,7 +194,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0442\u044f\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hinghwafu"
     ],
     "name:urd_x_preferred":[
@@ -330,7 +332,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":275,
     "wof:belongsto":[
@@ -344,7 +346,6 @@
     "wof:concordances":{
         "gn:id":1798449,
         "gp:id":2140154,
-        "qs:id":372146,
         "qs_pg:id":372146,
         "wd:id":"Q68579",
         "wk:page":"Putian"
@@ -362,7 +363,7 @@
         }
     ],
     "wof:id":102027251,
-    "wof:lastmodified":1563393191,
+    "wof:lastmodified":1566655656,
     "wof:name":"Putian",
     "wof:parent_id":890516865,
     "wof:placetype":"locality",

@@ -11,13 +11,16 @@
     "geom:longitude":115.37444,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":82386,
+    "gn:population":82386,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"115.35444,37.33806,115.39444,37.37806",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nan\u2019gun"
     ],
     "ne:ADM0CAP":0.0,
@@ -131,7 +134,7 @@
     "wof:concordances":{
         "gn:id":1800065,
         "gp:id":2171361,
-        "qs:id":1306686
+        "qs_pg:id":1306686
     },
     "wof:country":"CN",
     "wof:created":1469055883,
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":890514937,
-    "wof:lastmodified":1505343898,
+    "wof:lastmodified":1566693658,
     "wof:name":"\u5357\u5bab",
     "wof:parent_id":890513015,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":125.13333,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":59370,
+    "gn:population":59370,
     "iso:country":"CN",
+    "lbl:bbox":"125.11333,45.48,125.15333,45.52",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Zhaoyuan"
     ],
@@ -33,7 +37,7 @@
     "name:swe_x_preferred":[
         "Zhaoyuan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chao-chou"
     ],
     "qs:name":"Zhaoyuan",
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":2033149,
         "gp:id":2141217,
-        "qs:id":571068,
+        "qs_pg:id":571068,
         "wk:page":"Zhaoyuan"
     },
     "wof:country":"CN",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890512215,
-    "wof:lastmodified":1564249952,
+    "wof:lastmodified":1566693752,
     "wof:name":"Zhaoyuan",
     "wof:parent_id":890513007,
     "wof:placetype":"locality",

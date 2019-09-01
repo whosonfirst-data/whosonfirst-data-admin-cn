@@ -11,10 +11,14 @@
     "geom:longitude":117.19028,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":2101,
+    "gn:population":2101,
     "iso:country":"CN",
+    "lbl:bbox":"117.17028,39.65889,117.21028,39.69889",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cym_x_preferred":[
         "Ardal Baodi"
     ],
@@ -51,7 +55,7 @@
     "name:swe_x_preferred":[
         "Baodi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hsin-k\u2019ai-t\u2019un"
     ],
     "name:urd_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":1788760,
         "gp:id":2159852,
-        "qs:id":136338,
+        "qs_pg:id":136338,
         "wd:id":"Q708537",
         "wk:page":"Baodi District"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":890516813,
-    "wof:lastmodified":1563459286,
+    "wof:lastmodified":1566693631,
     "wof:name":"Xinkaikou",
     "wof:parent_id":890513813,
     "wof:placetype":"locality",

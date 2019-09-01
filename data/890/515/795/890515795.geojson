@@ -11,11 +11,15 @@
     "geom:longitude":118.6525,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":3390,
+    "gn:population":3390,
     "iso:country":"CN",
+    "lbl:bbox":"118.6325,26.60528,118.6725,26.64528",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Feng-pu"
     ],
     "name:zho_x_preferred":[
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1811389,
         "gp:id":2140292,
-        "qs:id":89379
+        "qs_pg:id":89379
     },
     "wof:country":"CN",
     "wof:created":1469055931,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890515795,
-    "wof:lastmodified":1505343900,
+    "wof:lastmodified":1566693787,
     "wof:name":"Shuangzhu",
     "wof:parent_id":890516577,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":41.091772,
     "lbl:longitude":121.124268,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":41.091772,
     "mps:longitude":121.124268,
     "mz:hierarchy_label":1,
@@ -186,7 +188,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0437\u0456\u043d\u044c\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chinchow"
     ],
     "name:urd_x_preferred":[
@@ -327,7 +329,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1547,
     "wof:belongsto":[
@@ -341,7 +343,6 @@
     "wof:concordances":{
         "gn:id":2036427,
         "gp:id":2147992,
-        "qs:id":245344,
         "qs_pg:id":245344,
         "wd:id":"Q28996",
         "wk:page":"Jinzhou"
@@ -359,7 +360,7 @@
         }
     ],
     "wof:id":102027899,
-    "wof:lastmodified":1563393336,
+    "wof:lastmodified":1566655702,
     "wof:megacity":1,
     "wof:name":"Jinzhou",
     "wof:parent_id":890514397,

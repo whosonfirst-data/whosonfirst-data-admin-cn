@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":40.237605,
     "lbl:longitude":122.107544,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":40.237605,
     "mps:longitude":122.107544,
     "mz:hierarchy_label":1,
@@ -191,9 +193,6 @@
     "name:ukr_x_variant":[
         "\u0406\u043d\u043a\u043e\u0443"
     ],
-    "name:unk_x_variant":[
-        "Eiko"
-    ],
     "name:urd_x_preferred":[
         "\u06cc\u0646\u06af\u06a9\u0648"
     ],
@@ -339,10 +338,9 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":911,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85669807,
         102191569,
@@ -355,9 +353,11 @@
         "fct:id":"06b7e12c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2033370,
         "gp:id":2148006,
-        "qs:id":1285064,
         "qs_pg:id":1129811,
         "wd:id":"Q75150"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1285064
     },
     "wof:country":"CN",
     "wof:geomhash":"af34cd1be2eddb95daa6eaf72e88b01f",
@@ -375,7 +375,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393185,
+    "wof:lastmodified":1566655654,
     "wof:megacity":1,
     "wof:name":"Yingkou",
     "wof:parent_id":1108732495,

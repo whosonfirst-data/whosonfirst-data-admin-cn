@@ -11,7 +11,7 @@
     "geom:longitude":113.25518,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":5100000,
+    "gn:population":5100000,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":29.007874,
     "lbl:longitude":113.317969,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6e56\u5357\u7701",
     "meso:dissme":"\u5cb3\u9633\u5e02\u6e56\u5357\u7701",
     "meso:gadm_adm2":"Yueyang",
@@ -46,6 +48,7 @@
     "mps:longitude":113.317969,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Yueyang"
     ],
@@ -148,7 +151,7 @@
     "name:tur_x_preferred":[
         "Yueyang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Y\u00fceh-yang Shih"
     ],
     "name:urd_x_preferred":[
@@ -178,9 +181,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"15019",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Yueyang Shi",
@@ -202,7 +205,7 @@
         "gn:id":1785881,
         "gp:id":26198212,
         "hasc:id":"CN.HN.YU",
-        "qs:id":212446
+        "qs_pg:id":212446
     },
     "wof:country":"CN",
     "wof:created":1469055960,
@@ -217,7 +220,7 @@
         }
     ],
     "wof:id":890516479,
-    "wof:lastmodified":1564249631,
+    "wof:lastmodified":1566693606,
     "wof:name":"Yueyang",
     "wof:parent_id":85669781,
     "wof:placetype":"county",

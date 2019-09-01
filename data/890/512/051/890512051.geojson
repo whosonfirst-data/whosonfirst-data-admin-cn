@@ -11,10 +11,14 @@
     "geom:longitude":120.03306,
     "gn:country":"CN",
     "gn:fcode":"UNIV",
-    "gn:pop":30000,
+    "gn:population":30000,
     "iso:country":"CN",
+    "lbl:bbox":"120.01306,30.20792,120.05306,30.24792",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:deu_x_preferred":[
         "Polytechnische Universit\u00e4t Zhejiang"
     ],
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":7839208,
         "gp:id":12685402,
-        "qs:id":741032,
+        "qs_pg:id":741032,
         "wd:id":"Q986087",
         "wk:page":"Zhejiang University of Technology"
     },
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":890512051,
-    "wof:lastmodified":1563459788,
+    "wof:lastmodified":1566693757,
     "wof:name":"Zhejiang university of technology",
     "wof:parent_id":890516555,
     "wof:placetype":"locality",

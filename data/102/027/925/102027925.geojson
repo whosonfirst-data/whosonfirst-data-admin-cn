@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":34.139088,
     "lbl:longitude":103.925171,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":34.139088,
     "mps:longitude":103.925171,
     "mz:hierarchy_label":1,
@@ -45,7 +47,7 @@
     "name:swe_x_preferred":[
         "Gannan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kan-nan-hsien"
     ],
     "name:urd_x_preferred":[
@@ -170,7 +172,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85669711,
@@ -183,7 +185,7 @@
     "wof:concordances":{
         "gn:id":2037311,
         "gp:id":2141227,
-        "qs:id":194633,
+        "qs_pg:id":194633,
         "wk:page":"Gannan County"
     },
     "wof:country":"CN",
@@ -199,7 +201,7 @@
         }
     ],
     "wof:id":102027925,
-    "wof:lastmodified":1564178908,
+    "wof:lastmodified":1566655671,
     "wof:name":"Gannan",
     "wof:parent_id":1108794071,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":23.498515,
     "lbl:longitude":111.307983,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":23.498515,
     "mps:longitude":111.307983,
     "mz:hierarchy_label":1,
@@ -165,7 +167,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ts\u2019ang-wu-hsien"
     ],
     "name:urd_x_preferred":[
@@ -304,7 +306,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":485,
     "wof:belongsto":[
@@ -319,7 +321,7 @@
         "gn:id":1790840,
         "gp:id":26198353,
         "loc:id":"n89110758",
-        "qs:id":983777,
+        "qs_pg:id":983777,
         "wd:id":"Q571652",
         "wk:page":"Wuzhou"
     },
@@ -336,7 +338,7 @@
         }
     ],
     "wof:id":102027045,
-    "wof:lastmodified":1563393275,
+    "wof:lastmodified":1566655685,
     "wof:name":"Wuzhou",
     "wof:parent_id":890512833,
     "wof:placetype":"locality",

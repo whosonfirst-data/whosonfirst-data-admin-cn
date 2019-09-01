@@ -11,11 +11,15 @@
     "geom:longitude":109.74028,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":1590,
+    "gn:population":1590,
     "iso:country":"CN",
+    "lbl:bbox":"109.72028,27.835,109.76028,27.875",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Yen-men"
     ],
     "qs:name":"Yanmen",
@@ -35,7 +39,7 @@
     "wof:concordances":{
         "gn:id":1787131,
         "gp:id":2143042,
-        "qs:id":136295,
+        "qs_pg:id":136295,
         "wk:page":"Yanmen"
     },
     "wof:country":"CN",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890512307,
-    "wof:lastmodified":1527793089,
+    "wof:lastmodified":1566693733,
     "wof:name":"Yanmen",
     "wof:parent_id":890514349,
     "wof:placetype":"locality",

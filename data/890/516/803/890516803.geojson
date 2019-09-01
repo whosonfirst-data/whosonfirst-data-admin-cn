@@ -11,10 +11,14 @@
     "geom:longitude":110.96583,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":2170,
+    "gn:population":2170,
     "iso:country":"CN",
+    "lbl:bbox":"110.94583,27.67722,110.98583,27.71722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Xixi"
     ],
@@ -24,7 +28,7 @@
     "name:swe_x_preferred":[
         "Xixi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hsi-hsi"
     ],
     "name:zho_x_preferred":[
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1788224,
         "gp:id":2142395,
-        "qs:id":136317
+        "qs_pg:id":136317
     },
     "wof:country":"CN",
     "wof:created":1469055975,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":890516803,
-    "wof:lastmodified":1564249639,
+    "wof:lastmodified":1566693610,
     "wof:name":"Xixi",
     "wof:parent_id":890516409,
     "wof:placetype":"locality",

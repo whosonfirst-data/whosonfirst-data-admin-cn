@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":15.783461,
     "lbl:longitude":111.201368,
+    "lbl:min_zoom":8.0,
     "mps:latitude":15.783461,
     "mps:longitude":111.201368,
     "mz:hierarchy_label":1,
@@ -193,9 +194,6 @@
     "name:ukr_x_variant":[
         "\u041f\u0430\u0440\u0430\u0446\u0435\u043b\u044c\u0441\u044c\u043a\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
     ],
-    "name:unk_x_variant":[
-        "Les Paracels"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0631\u0627\u06a9\u06cc\u0644 \u0622\u0626\u06cc \u0644\u06cc\u0646\u0688"
     ],
@@ -291,9 +289,8 @@
     "qs:type":"Admin-1 aggregation",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":10470,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191569,
         85632695
@@ -327,7 +324,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1565815429,
+    "wof:lastmodified":1566665039,
     "wof:name":"Paracel Islands",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

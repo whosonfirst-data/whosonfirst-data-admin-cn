@@ -11,9 +11,12 @@
     "geom:longitude":80.26444,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":340020,
+    "gn:population":340020,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"80.24444,41.10306,80.28444,41.14306",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
@@ -79,7 +82,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0441\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aqsu New City"
     ],
     "name:urd_x_preferred":[
@@ -206,7 +209,7 @@
     "wof:concordances":{
         "gn:id":1529660,
         "gp:id":2143693,
-        "qs:id":919306
+        "qs_pg:id":919306
     },
     "wof:country":"CN",
     "wof:created":1469055835,
@@ -222,7 +225,7 @@
         }
     ],
     "wof:id":890513771,
-    "wof:lastmodified":1505343893,
+    "wof:lastmodified":1566693713,
     "wof:name":"\u963f\u514b\u82cf",
     "wof:parent_id":1108732529,
     "wof:placetype":"locality",

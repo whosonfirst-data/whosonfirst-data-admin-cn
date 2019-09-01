@@ -11,7 +11,7 @@
     "geom:longitude":102.770263,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
         "Gannan Autonomous Prefecture"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":34.65072,
     "lbl:longitude":103.297561,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u7518\u8083\u7701",
     "meso:dissme":"\u7518\u5357\u85cf\u65cf\u81ea\u6cbb\u5dde\u7518\u8083\u7701",
     "meso:gadm_adm2":"Gannan Tibetan",
@@ -45,6 +47,7 @@
     "mps:longitude":103.297561,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Gannan"
     ],
@@ -69,7 +72,7 @@
     "name:rus_x_preferred":[
         "\u0413\u0430\u043d\u044c\u043d\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "South Kansu Tibetan Autonomous District"
     ],
     "name:zho_x_preferred":[
@@ -86,9 +89,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"39247",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Lintan Xian",
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gn:id":1810686,
         "hasc:id":"CN.GS.GN",
-        "qs:id":244488
+        "qs_pg:id":244488
     },
     "wof:country":"CN",
     "wof:created":1469055994,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1108794071,
-    "wof:lastmodified":1564234232,
+    "wof:lastmodified":1566688018,
     "wof:name":"Gannan",
     "wof:parent_id":85669711,
     "wof:placetype":"county",

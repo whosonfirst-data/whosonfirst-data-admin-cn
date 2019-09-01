@@ -15,6 +15,7 @@
     "iso:country":"CN",
     "lbl:latitude":31.257421,
     "lbl:longitude":121.577454,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.257422,
     "mps:longitude":121.577454,
     "mz:hierarchy_label":1,
@@ -576,10 +577,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043d\u0445\u0430\u0439"
     ],
-    "name:unk_x_variant":[
-        "Shang-hai-shih",
-        "\u4e0a\u6d77\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u0646\u06af\u06be\u0627\u0626\u06cc"
     ],
@@ -730,7 +727,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -745,7 +742,7 @@
         "gn:id":1796236,
         "gp:id":2151849,
         "loc:id":"n79063254",
-        "qs:id":810974,
+        "qs_pg:id":810974,
         "wd:id":"Q8686",
         "wk:page":"Shanghai"
     },
@@ -766,7 +763,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563404342,
+    "wof:lastmodified":1566665019,
     "wof:name":"\u4e0a\u6d77\u5e02",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

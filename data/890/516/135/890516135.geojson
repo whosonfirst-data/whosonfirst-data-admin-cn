@@ -11,11 +11,15 @@
     "geom:longitude":119.66056,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":2430,
+    "gn:population":2430,
     "iso:country":"CN",
+    "lbl:bbox":"119.64056,26.82583,119.68056,26.86583",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "T\u2019eng-t\u2019ou"
     ],
     "name:zho_x_preferred":[
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1941924,
         "gp:id":20251392,
-        "qs:id":137292
+        "qs_pg:id":137292
     },
     "wof:country":"CN",
     "wof:created":1469055945,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890516135,
-    "wof:lastmodified":1505343901,
+    "wof:lastmodified":1566693595,
     "wof:name":"Dingtou",
     "wof:parent_id":890516577,
     "wof:placetype":"locality",

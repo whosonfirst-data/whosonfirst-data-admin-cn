@@ -11,11 +11,15 @@
     "geom:longitude":110.935,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":8970,
+    "gn:population":8970,
     "iso:country":"CN",
+    "lbl:bbox":"110.915,27.34611,110.955,27.38611",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Lunghwei"
     ],
     "name:zho_x_preferred":[
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1803159,
         "gp:id":2142912,
-        "qs:id":136594
+        "qs_pg:id":136594
     },
     "wof:country":"CN",
     "wof:created":1469055770,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890512435,
-    "wof:lastmodified":1505343887,
+    "wof:lastmodified":1566693757,
     "wof:name":"Liuduzhai",
     "wof:parent_id":890514309,
     "wof:placetype":"locality",

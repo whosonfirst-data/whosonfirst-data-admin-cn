@@ -11,11 +11,15 @@
     "geom:longitude":109.20556,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":720,
+    "gn:population":720,
     "iso:country":"CN",
+    "lbl:bbox":"109.18556,26.29,109.22556,26.33",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "T\u2019an-ch\u2019i"
     ],
     "name:zho_x_preferred":[
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1905959,
         "gp:id":56617944,
-        "qs:id":567792
+        "qs_pg:id":567792
     },
     "wof:country":"CN",
     "wof:created":1469055989,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890516965,
-    "wof:lastmodified":1505343903,
+    "wof:lastmodified":1566693597,
     "wof:name":"Tanxi",
     "wof:parent_id":1108794067,
     "wof:placetype":"locality",

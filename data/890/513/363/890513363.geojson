@@ -11,12 +11,15 @@
     "geom:longitude":121.36528,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"121.36028,31.2175,121.37028,31.2275",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "Pei-hsin-ching-chen"
     ],
     "qs:name":"\u5317\u65b0\u6cfe\u9547",
@@ -43,7 +46,7 @@
     "wof:concordances":{
         "gn:id":1816509,
         "gp:id":2151442,
-        "qs:id":1306323
+        "qs_pg:id":1306323
     },
     "wof:country":"CN",
     "wof:created":1469055812,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890513363,
-    "wof:lastmodified":1505343891,
+    "wof:lastmodified":1566693701,
     "wof:name":"\u5317\u65b0\u6cfe\u9547",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

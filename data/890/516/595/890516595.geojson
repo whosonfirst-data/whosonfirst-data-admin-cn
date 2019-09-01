@@ -11,7 +11,7 @@
     "geom:longitude":115.823637,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":37.70965,
     "lbl:longitude":115.776903,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6cb3\u5317\u7701",
     "meso:dissme":"\u8861\u6c34\u5e02\u6cb3\u5317\u7701",
     "meso:gadm_adm2":"Hengshui",
@@ -46,6 +48,7 @@
     "mps:longitude":115.776903,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0647\u0646\u063a\u0634\u0648\u064a"
     ],
@@ -130,7 +133,7 @@
     "name:tur_x_preferred":[
         "Hengshui"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hengshui Diqu"
     ],
     "name:urd_x_preferred":[
@@ -166,9 +169,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"8823",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Hengshui Shi",
@@ -190,7 +193,7 @@
         "gn:id":1808391,
         "gp:id":26198361,
         "hasc:id":"CN.HB.HS",
-        "qs:id":10342
+        "qs_pg:id":10342
     },
     "wof:country":"CN",
     "wof:created":1469055965,
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":890516595,
-    "wof:lastmodified":1564249612,
+    "wof:lastmodified":1566693597,
     "wof:name":"Hengshui",
     "wof:parent_id":85669797,
     "wof:placetype":"county",

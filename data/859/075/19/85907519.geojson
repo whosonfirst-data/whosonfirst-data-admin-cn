@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00294,
-    "geom:area_square_m":31060680.225544,
+    "geom:area_square_m":31060680.225542,
     "geom:bbox":"121.45111084,31.2842323512,121.516511384,31.3519086587",
     "geom:latitude":31.3186,
     "geom:longitude":121.483709,
     "iso:country":"CN",
     "lbl:latitude":31.307003,
     "lbl:longitude":121.48171,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.314779,
     "mps:longitude":121.483705,
     "mz:hierarchy_label":1,
@@ -24,9 +25,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Dabazi"
-    ],
-    "name:unk_x_variant":[
         "Dabazi"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -85,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269193,
+    "wof:lastmodified":1566665030,
     "wof:name":"Dabazi",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

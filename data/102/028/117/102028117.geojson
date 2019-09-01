@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000729,
-    "geom:area_square_m":8382429.166404,
+    "geom:area_square_m":8382429.166399,
     "geom:bbox":"107.958494817,21.5104940544,107.977784383,21.5591981071",
     "geom:latitude":21.535542,
     "geom:longitude":107.96814,
@@ -14,11 +14,14 @@
     "iso:country":"CN",
     "lbl:latitude":21.545066,
     "lbl:longitude":107.968139,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.545066,
     "mps:longitude":107.968139,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "\u4e1c\u5174\u5e02"
     ],
     "name:zho_x_preferred":[
@@ -36,7 +39,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669717,
         102191569,
@@ -48,7 +51,7 @@
     "wof:concordances":{
         "gn:id":8021215,
         "gp:id":91882525,
-        "qs:id":1155653
+        "qs_pg:id":1155653
     },
     "wof:country":"CN",
     "wof:geomhash":"413257afea487e623dd625940a7a1e35",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102028117,
-    "wof:lastmodified":1501273412,
+    "wof:lastmodified":1566655726,
     "wof:name":"Dongxing Shi",
     "wof:parent_id":890512639,
     "wof:placetype":"locality",

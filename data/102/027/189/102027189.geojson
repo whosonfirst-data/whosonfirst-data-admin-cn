@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":26.266684,
     "lbl:longitude":117.62747,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":26.266684,
     "mps:longitude":117.62747,
     "mz:hierarchy_label":1,
@@ -189,7 +191,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u044c\u043c\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San-y\u00fcan-hsien"
     ],
     "name:urd_x_preferred":[
@@ -328,7 +330,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":790,
     "wof:belongsto":[
@@ -343,7 +345,7 @@
         "fct:id":"06b72066-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1796663,
         "gp:id":12685760,
-        "qs:id":959166,
+        "qs_pg:id":959166,
         "wd:id":"Q68614",
         "wk:page":"Sanming"
     },
@@ -363,7 +365,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393210,
+    "wof:lastmodified":1566655664,
     "wof:name":"Sanming",
     "wof:parent_id":890516573,
     "wof:placetype":"locality",

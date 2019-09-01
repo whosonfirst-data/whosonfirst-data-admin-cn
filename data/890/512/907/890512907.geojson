@@ -11,10 +11,14 @@
     "geom:longitude":121.3118,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"121.2918,31.27979,121.3318,31.31979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nanxiang"
     ],
@@ -39,7 +43,7 @@
     "name:swe_x_preferred":[
         "Nanxiang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nan-hsiang-chen"
     ],
     "name:wuu_x_preferred":[
@@ -67,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1799674,
-        "qs:id":1033157,
+        "qs_pg:id":1033157,
         "wd:id":"Q866006",
         "wk:page":"Nanxiang"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":890512907,
-    "wof:lastmodified":1563459675,
+    "wof:lastmodified":1566693734,
     "wof:name":"Nanxiang",
     "wof:parent_id":890514815,
     "wof:placetype":"locality",

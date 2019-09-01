@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"121.05917,30.81917,121.09917,30.85917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -34,7 +38,7 @@
         "gn:id":1896471
     },
     "wof:country":"CN",
-    "wof:geomhash":"d3ebe9d2abd5d900f8ca4668775fc8cf",
+    "wof:geomhash":"9e11f1b256660cc1f50d727c439a9ab9",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209109025,
-    "wof:lastmodified":1536297468,
+    "wof:lastmodified":1566684097,
     "wof:name":"Gangwanbang",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     121.07917,
-    30.839170000000006,
+    30.83917000000001,
     121.07917,
-    30.839170000000006
+    30.83917000000001
 ],
   "geometry": {"coordinates":[121.07917,30.83917000000001],"type":"Point"}
 }

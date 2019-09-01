@@ -11,7 +11,7 @@
     "geom:longitude":119.867472,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":30.758793,
     "lbl:longitude":119.910046,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6d59\u6c5f\u7701",
     "meso:dissme":"\u6e56\u5dde\u5e02\u6d59\u6c5f\u7701",
     "meso:gadm_adm2":"Huzhou",
@@ -46,6 +48,7 @@
     "mps:longitude":119.910046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cdo_x_preferred":[
         "H\u00f9-ci\u016d"
     ],
@@ -133,7 +136,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0443\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hu-chou Shih"
     ],
     "name:urd_x_preferred":[
@@ -169,9 +172,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"5817",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Huzhou Shi",
@@ -193,7 +196,7 @@
         "gn:id":1806534,
         "gp:id":26198141,
         "hasc:id":"CN.ZJ.HU",
-        "qs:id":1193693
+        "qs_pg:id":1193693
     },
     "wof:country":"CN",
     "wof:created":1469055989,
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":890516975,
-    "wof:lastmodified":1564249704,
+    "wof:lastmodified":1566693642,
     "wof:name":"Huzhou",
     "wof:parent_id":85669835,
     "wof:placetype":"county",

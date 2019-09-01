@@ -11,11 +11,15 @@
     "geom:longitude":118.80722,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":3540,
+    "gn:population":3540,
     "iso:country":"CN",
+    "lbl:bbox":"118.78722,26.91,118.82722,26.95",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Lu-hsia"
     ],
     "qs:name":"Luxia",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1801684,
         "gp:id":20251369,
-        "qs:id":89103
+        "qs_pg:id":89103
     },
     "wof:country":"CN",
     "wof:created":1469055930,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890515777,
-    "wof:lastmodified":1505343900,
+    "wof:lastmodified":1566693781,
     "wof:name":"Luxia",
     "wof:parent_id":890516577,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":122.50251,
     "gn:country":"CN",
     "gn:fcode":"PPLA3",
-    "gn:pop":80223,
+    "gn:population":80223,
     "iso:country":"CN",
+    "lbl:bbox":"122.48251,40.61732,122.52251,40.65732",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Yingkou"
     ],
@@ -168,9 +172,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u043d\u043a\u043e\u0443"
     ],
-    "name:unk_x_variant":[
-        "Yingkou"
-    ],
     "name:urd_x_preferred":[
         "\u06cc\u0646\u06af\u06a9\u0648"
     ],
@@ -206,7 +207,7 @@
     "wof:concordances":{
         "gn:id":2037823,
         "gp:id":2147776,
-        "qs:id":137799,
+        "qs_pg:id":137799,
         "wd:id":"Q75150",
         "wk:page":"Dashiqiao"
     },
@@ -224,7 +225,7 @@
         }
     ],
     "wof:id":890512565,
-    "wof:lastmodified":1563459752,
+    "wof:lastmodified":1566693750,
     "wof:name":"Dashiqiao",
     "wof:parent_id":1108732495,
     "wof:placetype":"locality",

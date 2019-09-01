@@ -11,10 +11,14 @@
     "geom:longitude":117.56667,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"117.46667,41.83333,117.66667,42.03333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Weichang Manchu and Mongol Autonomous County"
     ],
@@ -30,7 +34,7 @@
     "name:rus_x_preferred":[
         "\u0412\u044d\u0439\u0447\u0430\u043d-\u041c\u0430\u043d\u044c\u0447\u0436\u0443\u0440\u0441\u043a\u043e-\u041c\u043e\u043d\u0433\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u0443\u0435\u0437\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wei-ch\u2019ang Hsien"
     ],
     "name:vie_x_preferred":[
@@ -58,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2034193,
-        "qs:id":1032010,
+        "qs_pg:id":1032010,
         "wd:id":"Q1196704",
         "wk:page":"Weichang Manchu and Mongol Autonomous County"
     },
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890511951,
-    "wof:lastmodified":1563459350,
+    "wof:lastmodified":1566693649,
     "wof:name":"Weichang Manzu Mengguzu Zizhixian",
     "wof:parent_id":890513327,
     "wof:placetype":"localadmin",

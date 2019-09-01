@@ -11,7 +11,7 @@
     "geom:longitude":116.080178,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":24.174668,
     "lbl:longitude":116.067882,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5e7f\u4e1c\u7701",
     "meso:dissme":"\u6885\u5dde\u5e02\u5e7f\u4e1c\u7701",
     "meso:gadm_adm2":"Meizhou",
@@ -46,6 +48,7 @@
     "mps:longitude":116.067882,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0648\u0632\u0648"
     ],
@@ -145,7 +148,7 @@
     "name:tur_x_preferred":[
         "Meizhou"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Meixian Diqu"
     ],
     "name:urd_x_preferred":[
@@ -180,9 +183,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"15901",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Meizhou Shi",
@@ -204,7 +207,7 @@
         "gn:id":1800794,
         "gp:id":26198169,
         "hasc:id":"CN.GD.MZ",
-        "qs:id":219967
+        "qs_pg:id":219967
     },
     "wof:country":"CN",
     "wof:created":1469055963,
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":890516561,
-    "wof:lastmodified":1564249614,
+    "wof:lastmodified":1566693598,
     "wof:name":"Meizhou",
     "wof:parent_id":85669743,
     "wof:placetype":"county",

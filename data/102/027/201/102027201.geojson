@@ -13,10 +13,13 @@
     "iso:country":"CN",
     "lbl:latitude":25.725683,
     "lbl:longitude":119.366455,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":25.725683,
     "mps:longitude":119.366455,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0643\u064a\u0646\u063a"
     ],
@@ -152,7 +155,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0443\u0446\u0456\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Putsinghsien"
     ],
     "name:urd_x_preferred":[
@@ -190,7 +193,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":845,
     "wof:belongsto":[
@@ -204,7 +207,6 @@
     "wof:concordances":{
         "gn:id":1797120,
         "gp:id":20271115,
-        "qs:id":136484,
         "qs_pg:id":136484,
         "wd:id":"Q262208",
         "wk:page":"Fuqing"
@@ -222,7 +224,7 @@
         }
     ],
     "wof:id":102027201,
-    "wof:lastmodified":1563393329,
+    "wof:lastmodified":1566655700,
     "wof:name":"Fuqing",
     "wof:parent_id":890516575,
     "wof:placetype":"locality",

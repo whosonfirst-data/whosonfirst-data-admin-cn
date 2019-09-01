@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":32.059061,
     "lbl:longitude":119.487281,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6c5f\u82cf\u7701",
     "meso:dissme":"\u9547\u6c5f\u5e02\u6c5f\u82cf\u7701",
     "meso:gadm_adm2":"Zhenjiang",
@@ -42,6 +44,7 @@
     "mps:longitude":119.487281,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Zhenjiang"
     ],
@@ -150,9 +153,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0436\u0435\u043d\u044c\u0446\u0437\u044f\u043d"
     ],
-    "name:und_x_variant":[
-        "\u9547\u6c5f\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u0698\u06cc\u0646\u062c\u06cc\u0627\u0646\u06af"
     ],
@@ -169,9 +169,9 @@
         "\u9547\u6c5f\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"3843",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Zhenjiang Shi",
@@ -205,7 +205,7 @@
         }
     ],
     "wof:id":1108732521,
-    "wof:lastmodified":1564234229,
+    "wof:lastmodified":1566688015,
     "wof:name":"Zhenjiang",
     "wof:parent_id":85669827,
     "wof:placetype":"county",

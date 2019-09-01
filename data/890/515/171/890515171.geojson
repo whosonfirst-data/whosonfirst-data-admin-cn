@@ -11,7 +11,7 @@
     "geom:longitude":114.438998,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":38.080444,
     "lbl:longitude":114.424263,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6cb3\u5317\u7701",
     "meso:dissme":"\u77f3\u5bb6\u5e84\u5e02\u6cb3\u5317\u7701",
     "meso:gadm_adm2":"Shijiazhuang",
@@ -46,6 +48,7 @@
     "mps:longitude":114.424263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Shijiazhuang"
     ],
@@ -241,7 +244,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0438\u0446\u0437\u044f\u0447\u0436\u0443\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shih-chia-chuang Ti-ch\u2019\u00fc"
     ],
     "name:urd_x_preferred":[
@@ -277,9 +280,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"14003",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Shijiazhuang Shi",
@@ -301,7 +304,7 @@
         "gn:id":1795266,
         "gp:id":26198255,
         "hasc:id":"CN.HB.SJ",
-        "qs:id":1086179
+        "qs_pg:id":1086179
     },
     "wof:country":"CN",
     "wof:created":1469055893,
@@ -316,7 +319,7 @@
         }
     ],
     "wof:id":890515171,
-    "wof:lastmodified":1564250059,
+    "wof:lastmodified":1566693800,
     "wof:name":"Shijiazhuang",
     "wof:parent_id":85669797,
     "wof:placetype":"county",

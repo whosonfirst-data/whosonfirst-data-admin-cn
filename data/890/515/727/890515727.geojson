@@ -11,9 +11,12 @@
     "geom:longitude":86.03333,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":572772,
+    "gn:population":572772,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"86.01333,44.28,86.05333,44.32",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
@@ -48,7 +51,7 @@
         "\u0634\u0649\u062e\u06d5\u0646\u0632\u06d5",
         "\u0428\u0438\u0445\u04d9\u043d\u0437\u04d9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shikhedzy"
     ],
     "name:zho_x_preferred":[
@@ -173,7 +176,7 @@
     "wof:concordances":{
         "gn:id":1529195,
         "gp:id":2143698,
-        "qs:id":1171579
+        "qs_pg:id":1171579
     },
     "wof:country":"CN",
     "wof:created":1469055928,
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":890515727,
-    "wof:lastmodified":1505343900,
+    "wof:lastmodified":1566693800,
     "wof:name":"\u77f3\u6cb3\u5b50",
     "wof:parent_id":1108732483,
     "wof:placetype":"locality",

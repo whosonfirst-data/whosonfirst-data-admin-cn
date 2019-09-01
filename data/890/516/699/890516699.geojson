@@ -11,8 +11,12 @@
     "geom:longitude":112.891902,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"112.791902,27.761842,112.991902,27.961842",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Xiangtan"
     ],
@@ -92,10 +96,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12686227,
-        "qs:id":112016,
-        "qs_pg:id":112017,
+        "qs_pg:id":112016,
         "wd:id":"Q1375015",
         "wk:page":"Xiangtan County"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":112017
     },
     "wof:country":"CN",
     "wof:created":1469055969,
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":890516699,
-    "wof:lastmodified":1563459290,
+    "wof:lastmodified":1566693633,
     "wof:name":"\u6e58\u6f6d\u53bf",
     "wof:parent_id":1108732467,
     "wof:placetype":"localadmin",

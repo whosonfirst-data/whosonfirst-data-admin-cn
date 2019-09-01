@@ -11,11 +11,15 @@
     "geom:longitude":118.93333,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"118.83333,39.33333,119.03333,39.53333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Lo-t\u2019ing Hsien"
     ],
     "name:zho_x_preferred":[
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1804141,
-        "qs:id":1062520
+        "qs_pg:id":1062520
     },
     "wof:country":"CN",
     "wof:created":1469055782,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890512709,
-    "wof:lastmodified":1505343889,
+    "wof:lastmodified":1566693736,
     "wof:name":"Leting Xian",
     "wof:parent_id":890516585,
     "wof:placetype":"localadmin",

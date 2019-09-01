@@ -11,17 +11,21 @@
     "geom:longitude":120.61988,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"120.51988,30.92374,120.71988,31.12374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "wujiang shi"
     ],
     "name:eng_x_variant":[
         "wujiang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wujiang Xian"
     ],
     "name:zho_x_preferred":[
@@ -45,7 +49,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1791194,
-        "qs:id":1031483
+        "qs_pg:id":1031483
     },
     "wof:country":"CN",
     "wof:created":1469055781,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":890512687,
-    "wof:lastmodified":1505343889,
+    "wof:lastmodified":1566693739,
     "wof:name":"Wujiang Shi",
     "wof:parent_id":890515879,
     "wof:placetype":"localadmin",

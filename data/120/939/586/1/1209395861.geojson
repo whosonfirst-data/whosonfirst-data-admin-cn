@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"113.51583,27.36694,113.55583,27.40694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -34,7 +38,7 @@
         "gn:id":1930146
     },
     "wof:country":"CN",
-    "wof:geomhash":"5684fdf86a47c9cdb97d931b3f46c2bf",
+    "wof:geomhash":"6110aab40a1871bbd6d5e2270ea20122",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209395861,
-    "wof:lastmodified":1536288304,
+    "wof:lastmodified":1566679416,
     "wof:name":"Shishangping",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     113.53583,
-    27.386940000000006,
+    27.38694000000001,
     113.53583,
-    27.386940000000006
+    27.38694000000001
 ],
   "geometry": {"coordinates":[113.53583,27.38694000000001],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"121.97307,41.16329,122.01307,41.20329",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0917\u094b\u091d\u093f\u092f\u093e"
     ],
@@ -51,9 +55,6 @@
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c1c\u0c4d\u0c1c\u0c3f\u0c15\u0c3e\u0c2f"
-    ],
-    "name:und_x_variant":[
-        "\u8c37\u5bb6"
     ],
     "name:zho_x_preferred":[
         "\u8c37\u5bb6"
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1276522381,
-    "wof:lastmodified":1564212076,
+    "wof:lastmodified":1566677361,
     "wof:name":"Gujia",
     "wof:parent_id":890516569,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":127.4,
     "gn:country":"CN",
     "gn:fcode":"PPLA3",
-    "gn:pop":55186,
+    "gn:population":55186,
     "iso:country":"CN",
+    "lbl:bbox":"127.38,46.06333,127.42,46.10333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u064a\u0627\u0646"
     ],
@@ -75,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pa-yen-su-su"
     ],
     "name:zho_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":2038421,
         "gp:id":2141220,
-        "qs:id":90646,
+        "qs_pg:id":90646,
         "wk:page":"Bayan"
     },
     "wof:country":"CN",
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":890515825,
-    "wof:lastmodified":1564250041,
+    "wof:lastmodified":1566693791,
     "wof:name":"Bayan",
     "wof:parent_id":890516235,
     "wof:placetype":"locality",

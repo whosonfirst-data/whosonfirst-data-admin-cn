@@ -9,15 +9,18 @@
     "geom:bbox":"112.19028,30.35028,112.19028,30.35028",
     "geom:latitude":30.35028,
     "geom:longitude":112.19028,
-    "gn:gn_country":"CN",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":177878,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
     "gn:population":177878,
     "iso:country":"CN",
+    "lbl:bbox":"112.17028,30.33028,112.21028,30.37028",
     "lbl:latitude":30.35028,
     "lbl:longitude":112.19028,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Jingtsjou"
@@ -169,7 +172,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0437\u0456\u043d\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chiang-ling-hsien"
     ],
     "name:urd_x_preferred":[
@@ -211,7 +214,7 @@
     "qs_pg:woe_adm0":23424781,
     "qs_pg:woe_id":2163868,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424781,
     "woe:name_adm0":"\u4e2d\u570b",
@@ -245,7 +248,7 @@
         }
     ],
     "wof:id":1125855101,
-    "wof:lastmodified":1563459957,
+    "wof:lastmodified":1566693806,
     "wof:name":"\u8346\u5dde\u9547",
     "wof:parent_id":1108732489,
     "wof:placetype":"locality",

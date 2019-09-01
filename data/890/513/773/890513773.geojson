@@ -11,7 +11,7 @@
     "geom:longitude":103.282091,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":35.620322,
     "lbl:longitude":103.224637,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u7518\u8083\u7701",
     "meso:dissme":"\u4e34\u590f\u56de\u65cf\u81ea\u6cbb\u5dde\u7518\u8083\u7701",
     "meso:gadm_adm2":"Linxia Hui",
@@ -46,6 +48,7 @@
     "mps:longitude":103.224637,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Linxia"
     ],
@@ -64,7 +67,7 @@
     "name:tur_x_preferred":[
         "Linxia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lin-hsia Hui Autonomous Chou"
     ],
     "name:vie_x_preferred":[
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":1803330,
         "gp:id":26198128,
-        "qs:id":354973
+        "qs_pg:id":354973
     },
     "wof:country":"CN",
     "wof:created":1469055835,
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":890513773,
-    "wof:lastmodified":1564249902,
+    "wof:lastmodified":1566693730,
     "wof:name":"Linxia",
     "wof:parent_id":85669711,
     "wof:placetype":"county",

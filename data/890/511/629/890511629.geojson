@@ -11,11 +11,15 @@
     "geom:longitude":106.65814,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":1800,
+    "gn:population":1800,
     "iso:country":"CN",
+    "lbl:bbox":"106.63814,32.14377,106.67814,32.18377",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Ch\u2019ang-ch\u2019ih-ch\u2019ang"
     ],
     "name:zho_x_preferred":[
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1815777,
         "gp:id":20258603,
-        "qs:id":563922
+        "qs_pg:id":563922
     },
     "wof:country":"CN",
     "wof:created":1469055738,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890511629,
-    "wof:lastmodified":1505343883,
+    "wof:lastmodified":1566693646,
     "wof:name":"Changchi",
     "wof:parent_id":1108732413,
     "wof:placetype":"locality",

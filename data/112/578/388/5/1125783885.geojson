@@ -9,15 +9,18 @@
     "geom:bbox":"124.39472,40.12917,124.39472,40.12917",
     "geom:latitude":40.12917,
     "geom:longitude":124.39472,
-    "gn:gn_country":"CN",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":631973,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
     "gn:population":631973,
     "iso:country":"CN",
+    "lbl:bbox":"124.37472,40.10917,124.41472,40.14917",
     "lbl:latitude":40.12917,
     "lbl:longitude":124.39472,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Dandong"
@@ -208,7 +211,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u043d\u044c\u0434\u0443\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Antung"
     ],
     "name:urd_x_preferred":[
@@ -250,7 +253,7 @@
     "qs_pg:woe_adm0":23424781,
     "qs_pg:woe_id":2147990,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424781,
     "woe:name_adm0":"\u4e2d\u570b",
@@ -284,7 +287,7 @@
         }
     ],
     "wof:id":1125783885,
-    "wof:lastmodified":1563459960,
+    "wof:lastmodified":1566693807,
     "wof:name":"\u4e39\u4e1c\u5e02",
     "wof:parent_id":890514725,
     "wof:placetype":"locality",

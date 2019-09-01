@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":34.559362,
     "lbl:longitude":110.090783,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":34.559362,
     "mps:longitude":110.090783,
     "mz:hierarchy_label":1,
@@ -159,7 +161,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0439\u043d\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Veynan"
     ],
     "name:urd_x_preferred":[
@@ -304,7 +306,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1118,
     "wof:belongsto":[
@@ -318,7 +320,7 @@
     "wof:concordances":{
         "gn:id":1791636,
         "gp:id":26198123,
-        "qs:id":941850,
+        "qs_pg:id":941850,
         "wd:id":"Q126995",
         "wk:page":"Weinan"
     },
@@ -335,7 +337,7 @@
         }
     ],
     "wof:id":102027085,
-    "wof:lastmodified":1563393158,
+    "wof:lastmodified":1566655645,
     "wof:name":"Weinan",
     "wof:parent_id":890511937,
     "wof:placetype":"locality",

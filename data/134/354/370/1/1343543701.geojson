@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"105.04941,33.16189,105.08941,33.20189",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Washi"
     ],
@@ -94,9 +98,6 @@
     "name:ukr_x_preferred":[
         "\u042f\u043f\u043e\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0430\u043f\u0456\u0440"
     ],
-    "name:und_x_variant":[
-        "\u74e6\u77f3"
-    ],
     "name:vie_x_preferred":[
         "Gi\u1ea5y washi"
     ],
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1343543701,
-    "wof:lastmodified":1564179841,
+    "wof:lastmodified":1566656673,
     "wof:name":"Washi",
     "wof:parent_id":890516335,
     "wof:placetype":"locality",

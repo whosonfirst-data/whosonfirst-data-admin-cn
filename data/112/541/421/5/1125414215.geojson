@@ -9,14 +9,18 @@
     "geom:bbox":"105.44049,28.87239,105.44049,28.87239",
     "geom:latitude":28.87239,
     "geom:longitude":105.44049,
-    "gn:gn_country":"CN",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"CN",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"105.34049,28.77239,105.54049,28.97239",
     "lbl:latitude":28.87239,
     "lbl:longitude":105.44049,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Lutsjou"
@@ -51,7 +55,7 @@
     "name:srp_x_preferred":[
         "\u041b\u0443\u045f\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lu-chou"
     ],
     "name:urd_x_preferred":[
@@ -87,7 +91,7 @@
     "qs_pg:woe_adm0":23424781,
     "qs_pg:woe_id":12687345,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424781,
     "woe:name_adm0":"\u4e2d\u570b",
     "woe:name_adm1":"\u56db\u5ddd\u7701",
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":1125414215,
-    "wof:lastmodified":1509390332,
+    "wof:lastmodified":1566693808,
     "wof:name":"\u6cf8\u5dde\u5e02",
     "wof:parent_id":890514155,
     "wof:placetype":"localadmin",

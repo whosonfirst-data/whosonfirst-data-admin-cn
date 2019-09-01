@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001465,
-    "geom:area_square_m":13887282.092046,
+    "geom:area_square_m":13887282.092055,
     "geom:bbox":"116.22260498,39.9100297006,116.279296875,39.9539642187",
     "geom:latitude":39.929433,
     "geom:longitude":116.249373,
@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.927017,
     "lbl:longitude":116.254095,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.926454,
     "mps:longitude":116.249827,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Tiejiafen"
-    ],
-    "name:unk_x_variant":[
         "Tiejiafen"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724397,
-        "qs:id":400522,
         "qs_pg:id":400522
     },
     "wof:country":"CN",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269289,
+    "wof:lastmodified":1566665037,
     "wof:name":"Tiejiafen",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

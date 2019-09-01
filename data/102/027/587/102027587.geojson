@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":23.397723,
     "lbl:longitude":110.077515,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":23.397723,
     "mps:longitude":110.077515,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gangbei Qu"
     ],
@@ -49,7 +52,7 @@
     "name:swe_x_preferred":[
         "Gangbei"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuei Hsien"
     ],
     "name:vie_x_preferred":[
@@ -76,7 +79,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669717,
         102191569,
@@ -88,7 +91,7 @@
     "wof:concordances":{
         "gn:id":1809466,
         "gp:id":2166488,
-        "qs:id":244481,
+        "qs_pg:id":244481,
         "wd:id":"Q1201963",
         "wk:page":"Gangbei District"
     },
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":102027587,
-    "wof:lastmodified":1563393235,
+    "wof:lastmodified":1566655671,
     "wof:name":"Gangbei Qu",
     "wof:parent_id":1108732501,
     "wof:placetype":"locality",

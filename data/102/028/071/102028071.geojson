@@ -14,10 +14,13 @@
     "iso:country":"CN",
     "lbl:latitude":36.840064,
     "lbl:longitude":119.404893,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":36.840064,
     "mps:longitude":119.404893,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Changyi"
     ],
@@ -36,7 +39,7 @@
     "name:swe_x_preferred":[
         "Changyi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u660c\u9091"
     ],
     "qs:a1":"*",
@@ -51,7 +54,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
         85669813,
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":7636842,
         "gp:id":2168363,
-        "qs:id":1154922
+        "qs_pg:id":1154922
     },
     "wof:country":"CN",
     "wof:geomhash":"622e6a4e57cf6c2cb038bee8408b8cbd",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":102028071,
-    "wof:lastmodified":1564178926,
+    "wof:lastmodified":1566655721,
     "wof:name":"Changyi",
     "wof:parent_id":890514755,
     "wof:placetype":"locality",

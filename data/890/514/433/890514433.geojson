@@ -11,8 +11,11 @@
     "geom:longitude":128.05,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":109636,
+    "gn:population":109636,
     "iso:country":"CN",
+    "lbl:bbox":"128.03,46.93,128.07,46.97",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.1,
@@ -130,7 +133,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043b\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u2019ieh-li-chen"
     ],
     "name:urd_x_preferred":[
@@ -261,7 +264,7 @@
     "wof:concordances":{
         "gn:id":2034440,
         "gp:id":2141213,
-        "qs:id":1033554,
+        "qs_pg:id":1033554,
         "wd:id":"Q1344820",
         "wk:page":"Tieli"
     },
@@ -279,7 +282,7 @@
         }
     ],
     "wof:id":890514433,
-    "wof:lastmodified":1563459498,
+    "wof:lastmodified":1566693689,
     "wof:name":"Tieli",
     "wof:parent_id":890515199,
     "wof:placetype":"locality",

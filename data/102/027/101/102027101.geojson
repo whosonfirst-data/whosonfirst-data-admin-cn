@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000289,
-    "geom:area_square_m":3125364.956789,
+    "geom:area_square_m":3125364.956792,
     "geom:bbox":"121.009622099,29.1383433527,121.030172902,29.1563840727",
     "geom:latitude":29.147364,
     "geom:longitude":121.019897,
     "iso:country":"CN",
     "lbl:latitude":29.147363,
     "lbl:longitude":121.019898,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":29.147363,
     "mps:longitude":121.019898,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "T\u2019ien-t\u2019ai-hsien"
     ],
     "name:zho_x_preferred":[
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669835,
         102191569,
@@ -51,7 +54,6 @@
     "wof:concordances":{
         "gn:id":1792889,
         "gp:id":2132612,
-        "qs:id":372088,
         "qs_pg:id":372088
     },
     "wof:country":"CN",
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":102027101,
-    "wof:lastmodified":1497294437,
+    "wof:lastmodified":1566655682,
     "wof:name":"Tiantai Chengguanzhen",
     "wof:parent_id":890515633,
     "wof:placetype":"locality",

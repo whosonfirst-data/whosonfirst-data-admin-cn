@@ -13,10 +13,13 @@
     "iso:country":"CN",
     "lbl:latitude":34.511083,
     "lbl:longitude":112.944946,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":34.511083,
     "mps:longitude":112.944946,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062f\u0646\u063a\u0641\u0646\u063a"
     ],
@@ -170,7 +173,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043d\u0444\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Teng-feng-hsien"
     ],
     "name:urd_x_preferred":[
@@ -208,7 +211,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":281,
     "wof:belongsto":[
@@ -222,7 +225,6 @@
     "wof:concordances":{
         "gn:id":1813016,
         "gp:id":12685980,
-        "qs:id":136820,
         "qs_pg:id":136820,
         "wd:id":"Q877609",
         "wk:page":"Dengfeng"
@@ -240,7 +242,7 @@
         }
     ],
     "wof:id":102027649,
-    "wof:lastmodified":1563393284,
+    "wof:lastmodified":1566655687,
     "wof:name":"Dengfeng",
     "wof:parent_id":890515627,
     "wof:placetype":"locality",

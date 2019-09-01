@@ -11,8 +11,12 @@
     "geom:longitude":119.02399,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"118.92399,33.500322,119.12399,33.700322",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Huaiyin Qu"
     ],
@@ -89,10 +93,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12685573,
-        "qs:id":262912,
-        "qs_pg:id":1306509,
+        "qs_pg:id":262912,
         "wd:id":"Q1197763",
         "wk:page":"Huaiyin District, Huai'an"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1306509
     },
     "wof:country":"CN",
     "wof:created":1469055993,
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":890517071,
-    "wof:lastmodified":1563459137,
+    "wof:lastmodified":1566693586,
     "wof:name":"\u6dee\u9634\u533a",
     "wof:parent_id":1108732465,
     "wof:placetype":"localadmin",

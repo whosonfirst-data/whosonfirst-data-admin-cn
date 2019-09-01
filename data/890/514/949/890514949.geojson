@@ -11,11 +11,14 @@
     "geom:longitude":120.42557,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"120.42057,30.47484,120.43057,30.48484",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Qingpu Qu"
     ],
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u0426\u0456\u043d\u043f\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zhujiajiao"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gn:id":7733731,
         "gp:id":2151844,
-        "qs:id":1015581,
+        "qs_pg:id":1015581,
         "wd:id":"Q662548",
         "wk:page":"Qingpu District, Shanghai"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":890514949,
-    "wof:lastmodified":1563459443,
+    "wof:lastmodified":1566693674,
     "wof:name":"\u6731\u5bb6\u89d2\u9547",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

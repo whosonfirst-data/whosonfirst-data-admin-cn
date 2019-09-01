@@ -11,7 +11,7 @@
     "geom:longitude":118.880857,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":43.333051,
     "lbl:longitude":118.915909,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5185\u8499\u53e4\u81ea\u6cbb\u533a",
     "meso:dissme":"\u8d64\u5cf0\u5e02\u5185\u8499\u53e4\u81ea\u6cbb\u533a",
     "meso:gadm_adm2":"Chifeng",
@@ -46,6 +48,7 @@
     "mps:longitude":118.915909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Chifeng"
     ],
@@ -130,7 +133,7 @@
     "name:tur_x_preferred":[
         "Chifeng"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ulanhad Shi"
     ],
     "name:urd_x_preferred":[
@@ -166,9 +169,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"90385",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Chifeng Shi",
@@ -190,7 +193,7 @@
         "gn:id":2038066,
         "gp:id":26198068,
         "hasc:id":"CN.NM.CF",
-        "qs:id":354943
+        "qs_pg:id":354943
     },
     "wof:country":"CN",
     "wof:created":1469055868,
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":890514597,
-    "wof:lastmodified":1564249786,
+    "wof:lastmodified":1566693679,
     "wof:name":"Chifeng",
     "wof:parent_id":85669847,
     "wof:placetype":"county",

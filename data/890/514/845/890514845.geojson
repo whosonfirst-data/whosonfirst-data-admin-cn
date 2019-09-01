@@ -11,7 +11,7 @@
     "geom:longitude":115.698428,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":34.325181,
     "lbl:longitude":115.760254,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6cb3\u5357\u7701",
     "meso:dissme":"\u5546\u4e18\u5e02\u6cb3\u5357\u7701",
     "meso:gadm_adm2":"Shangqiu",
@@ -46,6 +48,7 @@
     "mps:longitude":115.760254,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Shangqiu"
     ],
@@ -133,7 +136,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043d\u0446\u044e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shang-ch\u2019iu Shih"
     ],
     "name:urd_x_preferred":[
@@ -168,9 +171,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"10647",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Shangqiu Shi",
@@ -192,7 +195,7 @@
         "gn:id":1796132,
         "gp:id":26198103,
         "hasc:id":"CN.HE.SQ",
-        "qs:id":985556
+        "qs_pg:id":985556
     },
     "wof:country":"CN",
     "wof:created":1469055879,
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":890514845,
-    "wof:lastmodified":1564249752,
+    "wof:lastmodified":1566693661,
     "wof:name":"Shangqiu",
     "wof:parent_id":85669801,
     "wof:placetype":"county",

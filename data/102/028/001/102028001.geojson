@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000947,
-    "geom:area_square_m":9368554.426952,
+    "geom:area_square_m":9368554.426951,
     "geom:bbox":"111.461560592,36.7782772198,111.769637377,36.866661791",
     "geom:latitude":36.828346,
     "geom:longitude":111.637547,
@@ -14,10 +14,13 @@
     "iso:country":"CN",
     "lbl:latitude":36.857647,
     "lbl:longitude":111.472778,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":36.857647,
     "mps:longitude":111.472778,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u7075\u77f3"
     ],
@@ -33,7 +36,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669773,
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102028001,
-    "wof:lastmodified":1501273133,
+    "wof:lastmodified":1566655724,
     "wof:name":"Lingshi",
     "wof:parent_id":890513369,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":106.203105,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
         "Nanchong City"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":31.196056,
     "lbl:longitude":106.191655,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u56db\u5ddd\u7701",
     "meso:dissme":"\u5357\u5145\u5e02\u56db\u5ddd\u7701",
     "meso:gadm_adm2":"Nanchong",
@@ -45,6 +47,7 @@
     "mps:longitude":106.191655,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Nanchong"
     ],
@@ -129,7 +132,7 @@
     "name:tur_x_preferred":[
         "Nanchong"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nan-ch\u2019ung Ti-ch\u2019\u00fc"
     ],
     "name:urd_x_preferred":[
@@ -155,9 +158,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"12479",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Nanchong Shi",
@@ -178,7 +181,7 @@
     "wof:concordances":{
         "gn:id":1800145,
         "hasc:id":"CN.SC.NC",
-        "qs:id":1152049
+        "qs_pg:id":1152049
     },
     "wof:country":"CN",
     "wof:created":1469055748,
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":890511853,
-    "wof:lastmodified":1564249724,
+    "wof:lastmodified":1566693651,
     "wof:name":"Nanchong",
     "wof:parent_id":85669787,
     "wof:placetype":"county",

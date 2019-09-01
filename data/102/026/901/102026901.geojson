@@ -14,10 +14,13 @@
     "iso:country":"CN",
     "lbl:latitude":30.60955,
     "lbl:longitude":121.052856,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":30.60955,
     "mps:longitude":121.052856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zhapu"
     ],
@@ -36,7 +39,7 @@
     "name:swe_x_preferred":[
         "Zhapu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cha-p\u2019u-chen"
     ],
     "name:wuu_x_preferred":[
@@ -59,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":127,
     "wof:belongsto":[
         85669835,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":1784800,
         "gp:id":2131499,
-        "qs:id":208463,
         "qs_pg:id":208463,
         "wd:id":"Q1021805"
     },
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":102026901,
-    "wof:lastmodified":1563393425,
+    "wof:lastmodified":1566655736,
     "wof:name":"Zhapu",
     "wof:parent_id":890514635,
     "wof:placetype":"locality",

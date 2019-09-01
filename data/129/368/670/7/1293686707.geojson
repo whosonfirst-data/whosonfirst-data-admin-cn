@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"119.96585,32.81825,120.00585,32.85825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Guanyin"
     ],
@@ -103,9 +107,6 @@
     "name:ukr_x_preferred":[
         "\u0490\u0443\u0430\u043d\u044c\u0457\u043d\u044c"
     ],
-    "name:und_x_variant":[
-        "\u89c2\u97f3"
-    ],
     "name:vie_x_preferred":[
         "Quan \u00c2m"
     ],
@@ -143,7 +144,7 @@
         }
     ],
     "wof:id":1293686707,
-    "wof:lastmodified":1564196877,
+    "wof:lastmodified":1566668962,
     "wof:name":"Guanyin",
     "wof:parent_id":890516237,
     "wof:placetype":"locality",

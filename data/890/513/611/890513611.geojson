@@ -11,10 +11,14 @@
     "geom:longitude":119.76778,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":3560,
+    "gn:population":3560,
     "iso:country":"CN",
+    "lbl:bbox":"119.74778,26.32028,119.78778,26.36028",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cdo_x_preferred":[
         "Li\u00e8ng-g\u014fng"
     ],
@@ -63,7 +67,7 @@
     "name:swe_x_preferred":[
         "Lianjiang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kengyuan Zhen"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +103,7 @@
     "wof:concordances":{
         "gn:id":1804758,
         "gp:id":2139520,
-        "qs:id":562199,
+        "qs_pg:id":562199,
         "wd:id":"Q204827",
         "wk:page":"Lianjiang County"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890513611,
-    "wof:lastmodified":1563459560,
+    "wof:lastmodified":1566693706,
     "wof:name":"Kengyuan",
     "wof:parent_id":890516575,
     "wof:placetype":"locality",

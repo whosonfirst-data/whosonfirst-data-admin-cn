@@ -14,10 +14,13 @@
     "iso:country":"CN",
     "lbl:latitude":29.352735,
     "lbl:longitude":110.537777,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":29.352735,
     "mps:longitude":110.537777,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u062c\u064a\u0627"
     ],
@@ -201,7 +204,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":952,
     "wof:belongsto":[
         85669781,
@@ -230,7 +233,7 @@
         }
     ],
     "wof:id":102028015,
-    "wof:lastmodified":1563393384,
+    "wof:lastmodified":1566655720,
     "wof:name":"Zhangjiajie",
     "wof:parent_id":890513321,
     "wof:placetype":"locality",

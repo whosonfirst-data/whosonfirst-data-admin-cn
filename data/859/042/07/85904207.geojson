@@ -14,6 +14,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.930882,
     "lbl:longitude":116.421374,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.930801,
     "mps:longitude":116.421065,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Dongsi"
-    ],
-    "name:unk_x_variant":[
         "Dongsi"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -59,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -72,7 +70,6 @@
     "wof:concordances":{
         "gn:id":1812074,
         "gp:id":12906606,
-        "qs:id":1118861,
         "qs_pg:id":1118861
     },
     "wof:country":"CN",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497316902,
+    "wof:lastmodified":1566665023,
     "wof:name":"Dongsi",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

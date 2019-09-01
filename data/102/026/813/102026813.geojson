@@ -15,6 +15,8 @@
     "iso:country":"CN",
     "lbl:latitude":37.107765,
     "lbl:longitude":79.920044,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":37.107765,
     "mps:longitude":79.920044,
     "mz:hierarchy_label":1,
@@ -168,7 +170,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0442\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ho-t\u2019ien-chen"
     ],
     "name:urd_x_preferred":[
@@ -307,7 +309,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3268,
     "wof:belongsto":[
@@ -321,10 +323,12 @@
     "wof:concordances":{
         "gn:id":1281019,
         "gp:id":2143701,
-        "qs:id":370551,
-        "qs_pg:id":1129772,
+        "qs_pg:id":370551,
         "wd:id":"Q235389",
         "wk:page":"Hotan"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1129772
     },
     "wof:country":"CN",
     "wof:geomhash":"66d14281e69216819f25e6009b46e456",
@@ -339,7 +343,7 @@
         }
     ],
     "wof:id":102026813,
-    "wof:lastmodified":1563393463,
+    "wof:lastmodified":1566655750,
     "wof:megacity":0,
     "wof:name":"Hotan",
     "wof:parent_id":1108732387,

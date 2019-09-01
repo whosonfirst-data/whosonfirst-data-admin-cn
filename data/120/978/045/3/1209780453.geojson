@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"113.63611,41.93528,113.67611,41.97528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mod"
     ],
@@ -72,8 +76,7 @@
         "\u0e21\u0e47\u0e2d\u0e14"
     ],
     "name:und_x_variant":[
-        "Mao-tu-ts\u2019un",
-        "Mod"
+        "Mao-tu-ts\u2019un"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1209780453,
-    "wof:lastmodified":1564218598,
+    "wof:lastmodified":1566680929,
     "wof:name":"Mod",
     "wof:parent_id":1108732343,
     "wof:placetype":"locality",

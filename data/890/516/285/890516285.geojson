@@ -11,11 +11,15 @@
     "geom:longitude":81.24583,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"81.22583,43.86111,81.26583,43.90111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uig_x_preferred":[
         "\u01a2ulja"
     ],
@@ -24,7 +28,7 @@
         "\u063a\u06c7\u0644\u062c\u0627",
         "\u0492\u0443\u043b\u0497\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ningyuanhsien"
     ],
     "qs:name":"\u4f0a\u5b81\u5e02",
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":1529013,
         "gp:id":2143699,
-        "qs:id":190339
+        "qs_pg:id":190339
     },
     "wof:country":"CN",
     "wof:created":1469055951,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":890516285,
-    "wof:lastmodified":1505343901,
+    "wof:lastmodified":1566693630,
     "wof:name":"\u4f0a\u5b81\u5e02",
     "wof:parent_id":1108732355,
     "wof:placetype":"locality",

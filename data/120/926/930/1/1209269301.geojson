@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"110.24583,33.32222,110.28583,33.36222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -34,7 +38,7 @@
         "gn:id":1908347
     },
     "wof:country":"CN",
-    "wof:geomhash":"8bf434657cbb4bd0634cd51ad83dd015",
+    "wof:geomhash":"81d354c6d6cc46e6a61e6b5a9d8dac9e",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209269301,
-    "wof:lastmodified":1536292415,
+    "wof:lastmodified":1566683715,
     "wof:name":"Dawuchang",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     110.26583,
-    33.342220000000005,
+    33.34222,
     110.26583,
-    33.342220000000005
+    33.34222
 ],
   "geometry": {"coordinates":[110.26582999999999,33.34222],"type":"Point"}
 }

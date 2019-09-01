@@ -11,7 +11,7 @@
     "geom:longitude":115.530052,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":23.056178,
     "lbl:longitude":115.512322,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5e7f\u4e1c\u7701",
     "meso:dissme":"\u6c55\u5c3e\u5e02\u5e7f\u4e1c\u7701",
     "meso:gadm_adm2":"Shanwei",
@@ -46,6 +48,7 @@
     "mps:longitude":115.512322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0634\u0627\u0646\u0648\u064a"
     ],
@@ -136,7 +139,7 @@
     "name:tur_x_preferred":[
         "Shanwei"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shanwei Shi"
     ],
     "name:urd_x_preferred":[
@@ -169,9 +172,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"4586",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Shanwei Shi",
@@ -193,7 +196,7 @@
         "gn:id":6571356,
         "gp:id":26198170,
         "hasc:id":"CN.GD.SW",
-        "qs:id":355037
+        "qs_pg:id":355037
     },
     "wof:country":"CN",
     "wof:created":1469055933,
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":890515843,
-    "wof:lastmodified":1564249996,
+    "wof:lastmodified":1566693771,
     "wof:name":"Shanwei",
     "wof:parent_id":85669743,
     "wof:placetype":"county",

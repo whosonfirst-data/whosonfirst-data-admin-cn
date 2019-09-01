@@ -11,7 +11,7 @@
     "geom:longitude":103.061584,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":37.668696,
     "lbl:longitude":102.882922,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u7518\u8083\u7701",
     "meso:dissme":"\u6b66\u5a01\u5e02\u7518\u8083\u7701",
     "meso:gadm_adm2":"Wuwei",
@@ -46,6 +48,7 @@
     "mps:longitude":102.882922,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Wuwei"
     ],
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Wuwei"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wu-wei Ti-ch\u2019\u00fc"
     ],
     "name:zho_x_preferred":[
@@ -103,9 +106,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"33238",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Wuwei Shi",
@@ -127,7 +130,7 @@
         "gn:id":1790930,
         "gp:id":26198131,
         "hasc:id":"CN.GS.WW",
-        "qs:id":212439
+        "qs_pg:id":212439
     },
     "wof:country":"CN",
     "wof:created":1469055960,
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":890516467,
-    "wof:lastmodified":1564249682,
+    "wof:lastmodified":1566693632,
     "wof:name":"Wuwei",
     "wof:parent_id":85669711,
     "wof:placetype":"county",

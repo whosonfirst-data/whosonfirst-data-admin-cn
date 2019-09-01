@@ -25,6 +25,7 @@
     ],
     "lbl:latitude":31.783382,
     "lbl:longitude":117.189163,
+    "lbl:min_zoom":8.0,
     "meso:name_alt":"\u5b89\u5fbd|\u5b89\u5fbd",
     "meso:name_loc":"\u5b89\u5fbd\u7701",
     "mps:latitude":31.791112,
@@ -318,11 +319,7 @@
         "\u0410\u043d\u044c\u0445\u043e\u0439"
     ],
     "name:und_x_variant":[
-        "\u5b89\u5fbd|\u5b89\u5fbd",
-        "\u5b89\u5fbd\u7701"
-    ],
-    "name:unk_x_variant":[
-        "Anhui Sheng"
+        "\u5b89\u5fbd|\u5b89\u5fbd"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0646\u06c1\u0648\u0626\u06cc"
@@ -440,9 +437,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"140,455",
     "statoids:area_mi":"54,230",
     "statoids:as_of_date":"2010-11-01",
@@ -470,7 +467,7 @@
         "hasc:id":"CN.AH",
         "iso:id":"CN-AH",
         "loc:id":"n81066245",
-        "qs:id":1249010,
+        "qs_pg:id":1249010,
         "unlc:id":"CN-34",
         "wd:id":"Q40956",
         "wk:page":"Anhui"
@@ -497,11 +494,10 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1565664523,
+    "wof:lastmodified":1566665059,
     "wof:name":"Anhui",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":59500510,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-cn",

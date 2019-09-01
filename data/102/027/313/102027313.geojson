@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000518,
-    "geom:area_square_m":4913127.721237,
+    "geom:area_square_m":4913127.721245,
     "geom:bbox":"116.064346598,39.9217919473,116.087753067,39.9482334275",
     "geom:latitude":39.935013,
     "geom:longitude":116.07605,
@@ -13,11 +13,14 @@
     "iso:country":"CN",
     "lbl:latitude":39.935013,
     "lbl:longitude":116.07605,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":39.935013,
     "mps:longitude":116.07605,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":7.0,
+    "name:und_x_variant":[
         "Men-t\u2019ou-kou-ho-t\u2019an"
     ],
     "name:zho_x_preferred":[
@@ -40,7 +43,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85669727,
@@ -53,7 +56,7 @@
     "wof:concordances":{
         "gn:id":1800657,
         "gp:id":2151331,
-        "qs:id":8570
+        "qs_pg:id":8570
     },
     "wof:country":"CN",
     "wof:geomhash":"5b147313703ac27d5ca947cb982ce7c8",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":102027313,
-    "wof:lastmodified":1505338996,
+    "wof:lastmodified":1566655670,
     "wof:name":"Mentougou",
     "wof:parent_id":1108732371,
     "wof:placetype":"locality",

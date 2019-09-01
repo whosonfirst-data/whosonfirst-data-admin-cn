@@ -14,10 +14,13 @@
     "iso:country":"CN",
     "lbl:latitude":21.621698,
     "lbl:longitude":108.352446,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.621698,
     "mps:longitude":108.352446,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0646\u063a\u0634\u0646\u063a\u0627\u0646\u063a"
     ],
@@ -108,9 +111,6 @@
     "name:tur_x_preferred":[
         "Fangchenggang"
     ],
-    "name:unk_x_variant":[
-        "\u9632\u57ce\u6e2f\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u0641\u0627\u0646\u06af\u0686\u06cc\u0646\u06af\u06af\u0627\u0646\u06af"
     ],
@@ -150,9 +150,8 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":419,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85669717,
         102191569,
@@ -164,7 +163,7 @@
     "wof:concordances":{
         "gn:id":7909223,
         "gp:id":20254323,
-        "qs:id":904346,
+        "qs_pg:id":904346,
         "wd:id":"Q571712",
         "wk:page":"Fangchenggang"
     },
@@ -181,7 +180,7 @@
         }
     ],
     "wof:id":102028107,
-    "wof:lastmodified":1563393401,
+    "wof:lastmodified":1566655728,
     "wof:name":"Fangchenggang Shi",
     "wof:parent_id":890512639,
     "wof:placetype":"locality",

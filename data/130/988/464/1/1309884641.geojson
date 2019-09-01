@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"114.52083,36.43083,114.56083,36.47083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shangcheng"
     ],
@@ -48,8 +52,7 @@
         "Shangcheng"
     ],
     "name:und_x_variant":[
-        "Shang-ch\u2019eng-chen",
-        "Shangcheng"
+        "Shang-ch\u2019eng-chen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1309884641,
-    "wof:lastmodified":1564248988,
+    "wof:lastmodified":1566693380,
     "wof:name":"Shangcheng",
     "wof:parent_id":890511887,
     "wof:placetype":"locality",

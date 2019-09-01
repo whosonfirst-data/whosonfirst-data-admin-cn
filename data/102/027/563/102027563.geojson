@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":28.134972,
     "lbl:longitude":120.2948,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":28.134972,
     "mps:longitude":120.2948,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Qingtian"
     ],
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Qingtian"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qingtian Xian"
     ],
     "name:vie_x_preferred":[
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669835,
         102191569,
@@ -97,7 +100,6 @@
     "wof:concordances":{
         "gn:id":1808761,
         "gp:id":2130527,
-        "qs:id":846488,
         "qs_pg:id":846488,
         "wd:id":"Q1361329",
         "wk:page":"Qingtian County"
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":102027563,
-    "wof:lastmodified":1563393255,
+    "wof:lastmodified":1566655679,
     "wof:name":"Hecheng",
     "wof:parent_id":890516399,
     "wof:placetype":"locality",

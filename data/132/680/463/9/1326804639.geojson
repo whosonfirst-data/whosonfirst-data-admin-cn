@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"113.86389,40.85556,113.90389,40.89556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Xinghe"
     ],
@@ -55,12 +59,10 @@
         "Hsing-ho",
         "Hingho",
         "Hsing-ho-hsien",
-        "Xinghe",
         "Xinghe Chengguanzhen",
         "\u5174\u548c\u57ce\u5173\u9547",
         "Xinghe Xian",
-        "\u5174\u548c",
-        "\u5174\u548c\u53bf"
+        "\u5174\u548c"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u06af\u06c1\u06d2 \u06a9\u0627\u0624\u0646\u0679\u06cc"
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":1326804639,
-    "wof:lastmodified":1564169934,
+    "wof:lastmodified":1566648155,
     "wof:name":"Xinghe Chengguanzhen",
     "wof:parent_id":1108732343,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":113.42528,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"113.32528,23.00694,113.52528,23.20694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Huangpu Qu"
     ],
@@ -66,9 +70,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u0425\u0443\u0430\u043d\u043f\u0443"
     ],
-    "name:unk_x_variant":[
-        "Huangpu"
-    ],
     "name:urd_x_preferred":[
         "\u06c1\u0648\u0627\u0646\u06af\u067e\u0648 \u0636\u0644\u0639"
     ],
@@ -101,7 +102,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6571343,
-        "qs:id":1038368,
+        "qs_pg:id":1038368,
         "wk:page":"Huangpu District, Shanghai"
     },
     "wof:country":"CN",
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":890514447,
-    "wof:lastmodified":1564249749,
+    "wof:lastmodified":1566693660,
     "wof:name":"Huangpu Qu",
     "wof:parent_id":890513087,
     "wof:placetype":"localadmin",

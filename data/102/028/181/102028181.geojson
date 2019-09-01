@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000479,
-    "geom:area_square_m":5144858.310682,
+    "geom:area_square_m":5144858.310684,
     "geom:bbox":"105.705605572,29.6933436082,105.737265468,29.7113922297",
     "geom:latitude":29.702368,
     "geom:longitude":105.721436,
@@ -14,11 +14,14 @@
     "iso:country":"CN",
     "lbl:latitude":29.702368,
     "lbl:longitude":105.721436,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":29.702368,
     "mps:longitude":105.721436,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Tangxiang Jiedao"
     ],
     "name:zho_x_preferred":[
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669725,
         102191569,
@@ -54,7 +57,6 @@
     "wof:concordances":{
         "gn:id":8418585,
         "gp:id":2158540,
-        "qs:id":381734,
         "qs_pg:id":381734
     },
     "wof:country":"CN",
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":102028181,
-    "wof:lastmodified":1497295287,
+    "wof:lastmodified":1566655725,
     "wof:name":"Tangxiang",
     "wof:parent_id":890513063,
     "wof:placetype":"locality",

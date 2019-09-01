@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"116.56102,26.56754,116.60102,26.60754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bod_x_preferred":[
         "\u0f51\u0f42\u0f7a\u0f0b\u0f56\u0f64\u0f7a\u0f66\u0f0d"
     ],
@@ -76,9 +80,6 @@
     "name:tur_x_preferred":[
         "Ge\u015fe"
     ],
-    "name:und_x_variant":[
-        "\u5272\u7572"
-    ],
     "name:zho_x_preferred":[
         "\u5272\u7572"
     ],
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1344248437,
-    "wof:lastmodified":1564181991,
+    "wof:lastmodified":1566658395,
     "wof:name":"Geshe",
     "wof:parent_id":890516573,
     "wof:placetype":"locality",

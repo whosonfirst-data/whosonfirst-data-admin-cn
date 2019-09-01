@@ -13,10 +13,13 @@
     "iso:country":"CN",
     "lbl:latitude":22.776181,
     "lbl:longitude":114.428101,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":22.776181,
     "mps:longitude":114.428101,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:cym_x_preferred":[
         "Ardal Huiyang"
     ],
@@ -59,7 +62,7 @@
     "name:swe_x_preferred":[
         "Huiyang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tamshuih\u00fc"
     ],
     "name:vie_x_preferred":[
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85669743,
@@ -104,7 +107,6 @@
     "wof:concordances":{
         "gn:id":1813812,
         "gp:id":20253875,
-        "qs:id":136847,
         "qs_pg:id":136847,
         "wd:id":"Q614902",
         "wk:page":"Huiyang District"
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":102027665,
-    "wof:lastmodified":1563393329,
+    "wof:lastmodified":1566655700,
     "wof:name":"Danshui",
     "wof:parent_id":890516563,
     "wof:placetype":"locality",

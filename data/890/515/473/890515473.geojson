@@ -11,11 +11,15 @@
     "geom:longitude":120.505119,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":61902,
+    "gn:population":61902,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"120.485119,31.236119,120.525119,31.276119",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Mudu"
     ],
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "Mudu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mu-tu-chen"
     ],
     "name:wuu_x_preferred":[
@@ -73,12 +77,12 @@
     "wof:concordances":{
         "gn:id":1898359,
         "gp:id":2135563,
-        "qs:id":1129721,
+        "qs_pg:id":1129721,
         "wd:id":"Q6112395",
         "wk:page":"Mudu"
     },
     "wof:concordances_alt":{
-        "qs:id":566999
+        "qs_pg:id":566999
     },
     "wof:country":"CN",
     "wof:created":1469055908,
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":890515473,
-    "wof:lastmodified":1563459902,
+    "wof:lastmodified":1566693791,
     "wof:name":"Mudu",
     "wof:parent_id":890515879,
     "wof:placetype":"locality",

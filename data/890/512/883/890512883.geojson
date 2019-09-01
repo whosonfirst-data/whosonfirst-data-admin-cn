@@ -11,10 +11,14 @@
     "geom:longitude":99.95536,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"99.85536,26.66798,100.05536,26.86798",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yulong Naxizu Zizhixian"
     ],
@@ -54,9 +58,6 @@
     "name:swe_x_preferred":[
         "Yulong"
     ],
-    "name:unk_x_variant":[
-        "Yulong"
-    ],
     "name:urd_x_preferred":[
         "\u06cc\u0648\u0644\u0648\u0646\u06af \u0646\u0627\u06af\u0632\u06cc \u062e\u0648\u062f\u0645\u062e\u062a\u0627\u0631 \u06a9\u0627\u0624\u0646\u0679\u06cc"
     ],
@@ -91,7 +92,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6642883,
-        "qs:id":1046306,
+        "qs_pg:id":1046306,
         "wd:id":"Q1152610",
         "wk:page":"Yulong Naxi Autonomous County"
     },
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":890512883,
-    "wof:lastmodified":1563459760,
+    "wof:lastmodified":1566693752,
     "wof:name":"Yulong Naxizu Zizhixian",
     "wof:parent_id":890514701,
     "wof:placetype":"localadmin",

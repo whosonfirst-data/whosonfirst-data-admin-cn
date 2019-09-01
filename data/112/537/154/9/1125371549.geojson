@@ -9,15 +9,18 @@
     "geom:bbox":"120.59538,31.30408,120.59538,31.30408",
     "geom:latitude":31.30408,
     "geom:longitude":120.59538,
-    "gn:gn_country":"CN",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":1343091,
-    "gn:population":5345961,
+    "gn:country":"CN",
+    "gn:fcode":"PPLA2",
+    "gn:population":1343091,
     "iso:country":"CN",
+    "lbl:bbox":"120.49538,31.20408,120.69538,31.40408",
     "lbl:latitude":31.30408,
     "lbl:longitude":120.59538,
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":3.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Sutsjou"
@@ -148,7 +151,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wu-hsien"
     ],
     "name:urd_x_preferred":[
@@ -190,7 +193,7 @@
     "qs_pg:woe_adm0":23424781,
     "qs_pg:woe_id":20071126,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424781,
     "woe:name_adm0":"\u4e2d\u570b",
@@ -223,7 +226,7 @@
         }
     ],
     "wof:id":1125371549,
-    "wof:lastmodified":1509389331,
+    "wof:lastmodified":1566693804,
     "wof:name":"\u82cf\u5dde\u5e02",
     "wof:parent_id":890515879,
     "wof:placetype":"localadmin",

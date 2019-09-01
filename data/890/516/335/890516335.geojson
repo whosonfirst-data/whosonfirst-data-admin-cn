@@ -11,7 +11,7 @@
     "geom:longitude":105.220281,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":33.637824,
     "lbl:longitude":105.200776,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u7518\u8083\u7701",
     "meso:dissme":"\u9647\u5357\u5e02\u7518\u8083\u7701",
     "meso:gadm_adm2":"Longnan",
@@ -46,6 +48,7 @@
     "mps:longitude":105.200776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u063a\u0646\u0627\u0646"
     ],
@@ -124,7 +127,7 @@
     "name:tur_x_preferred":[
         "Longnan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wudu Diqu"
     ],
     "name:urd_x_preferred":[
@@ -157,9 +160,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"27915",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Wudu Xian",
@@ -181,7 +184,7 @@
         "gn:id":1802494,
         "gp:id":26198124,
         "hasc:id":"CN.GS.LN",
-        "qs:id":203467
+        "qs_pg:id":203467
     },
     "wof:country":"CN",
     "wof:created":1469055953,
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":890516335,
-    "wof:lastmodified":1564249664,
+    "wof:lastmodified":1566693623,
     "wof:name":"Longnan",
     "wof:parent_id":85669711,
     "wof:placetype":"county",

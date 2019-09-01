@@ -11,11 +11,15 @@
     "geom:longitude":113.8454,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"113.8254,22.75866,113.8654,22.79866",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Sung-kang"
     ],
     "name:zho_x_preferred":[
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1794050,
         "gp:id":2162232,
-        "qs:id":136434
+        "qs_pg:id":136434
     },
     "wof:country":"CN",
     "wof:created":1469055752,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890511923,
-    "wof:lastmodified":1505343885,
+    "wof:lastmodified":1566693648,
     "wof:name":"Songgang",
     "wof:parent_id":890514737,
     "wof:placetype":"locality",

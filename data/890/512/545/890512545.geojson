@@ -11,8 +11,11 @@
     "geom:longitude":126.28333,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":130710,
+    "gn:population":130710,
     "iso:country":"CN",
+    "lbl:bbox":"126.26333,45.33,126.30333,45.37",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Shuangcheng"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Schwang-tsch\u00f6ng-ting"
     ],
     "name:urd_x_preferred":[
@@ -176,7 +179,7 @@
     "wof:concordances":{
         "gn:id":2034834,
         "gp:id":2141177,
-        "qs:id":137669,
+        "qs_pg:id":137669,
         "wk:page":"Shuangcheng District"
     },
     "wof:country":"CN",
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":890512545,
-    "wof:lastmodified":1564249938,
+    "wof:lastmodified":1566693746,
     "wof:name":"Shuangcheng",
     "wof:parent_id":890516235,
     "wof:placetype":"locality",

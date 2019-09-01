@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":29.425245,
     "lbl:longitude":111.154175,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":29.425245,
     "mps:longitude":111.154175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lingyang"
     ],
@@ -25,7 +28,7 @@
     "name:jpn_x_preferred":[
         "\u96f6\u967d\u93ae"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tzeli"
     ],
     "name:wuu_x_preferred":[
@@ -55,7 +58,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669781,
         102191569,
@@ -67,7 +70,7 @@
     "wof:concordances":{
         "gn:id":1814735,
         "gp:id":12686160,
-        "qs:id":985017,
+        "qs_pg:id":985017,
         "wd:id":"Q14257924",
         "wk:page":"Lingyang, Cili"
     },
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":102027677,
-    "wof:lastmodified":1563393308,
+    "wof:lastmodified":1566655694,
     "wof:name":"Cili",
     "wof:parent_id":890513321,
     "wof:placetype":"locality",

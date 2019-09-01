@@ -11,10 +11,14 @@
     "geom:longitude":116.58059,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":296002,
+    "gn:population":296002,
     "iso:country":"CN",
+    "lbl:bbox":"116.48059,40.53036,116.68059,40.73036",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0627\u064a\u0631\u0648"
     ],
@@ -78,7 +82,7 @@
     "name:tur_x_preferred":[
         "Huairou"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Huai-jou Hsien"
     ],
     "name:urd_x_preferred":[
@@ -115,7 +119,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2036763,
-        "qs:id":1032025,
+        "qs_pg:id":1032025,
         "wd:id":"Q121911",
         "wk:page":"Huairou District"
     },
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":890514403,
-    "wof:lastmodified":1563459503,
+    "wof:lastmodified":1566693691,
     "wof:name":"Huairou Qu",
     "wof:parent_id":1108732371,
     "wof:placetype":"localadmin",

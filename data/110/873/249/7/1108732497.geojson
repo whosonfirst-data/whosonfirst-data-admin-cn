@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":31.979135,
     "lbl:longitude":111.757754,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6e56\u5317\u7701",
     "meso:dissme":"\u8944\u9633\u5e02\u6e56\u5317\u7701",
     "meso:gadm_adm2":"Xiangfan",
@@ -42,6 +44,7 @@
     "mps:longitude":111.757754,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Xiangyang"
     ],
@@ -138,9 +141,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u044f\u043d'\u044f\u043d"
     ],
-    "name:und_x_variant":[
-        "\u8944\u9633\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u06cc\u0627\u0646\u06af\u06cc\u0627\u0646\u06af"
     ],
@@ -154,9 +154,9 @@
         "\u8944\u9633\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"19625",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Xiangfan Shi",
@@ -190,7 +190,7 @@
         }
     ],
     "wof:id":1108732497,
-    "wof:lastmodified":1564234211,
+    "wof:lastmodified":1566687996,
     "wof:name":"Xiangyang",
     "wof:parent_id":85669777,
     "wof:placetype":"county",

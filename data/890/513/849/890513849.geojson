@@ -11,10 +11,14 @@
     "geom:longitude":114.01056,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"113.91056,34.61528,114.11056,34.81528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Zhongmou Xian"
     ],
@@ -54,7 +58,7 @@
     "name:swe_x_preferred":[
         "Zhongmou"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chung-mou Hsien"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +92,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1784348,
-        "qs:id":371922,
+        "qs_pg:id":371922,
         "wd:id":"Q197874",
         "wk:page":"Zhongmu County"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":890513849,
-    "wof:lastmodified":1563459629,
+    "wof:lastmodified":1566693722,
     "wof:name":"Zhongmou Xian",
     "wof:parent_id":890515627,
     "wof:placetype":"localadmin",

@@ -11,10 +11,12 @@
     "geom:longitude":114.34021,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":781129,
+    "gn:population":781129,
     "iso:country":"CN",
     "lbl:latitude":36.106814,
     "lbl:longitude":114.34021,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":36.106814,
     "mps:longitude":114.34021,
     "mz:hierarchy_label":1,
@@ -200,7 +202,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u044c\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chang-te"
     ],
     "name:urd_x_preferred":[
@@ -342,7 +344,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1375,
     "wof:belongsto":[
@@ -356,10 +358,12 @@
     "wof:concordances":{
         "gn:id":1916712,
         "gp:id":2172740,
-        "qs:id":136231,
-        "qs_pg:id":275378,
+        "qs_pg:id":136231,
         "wd:id":"Q324293",
         "wk:page":"Anyang"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":275378
     },
     "wof:country":"CN",
     "wof:geomhash":"2a1a6d029f803009a6ee1c87ca78f9e2",
@@ -374,7 +378,7 @@
         }
     ],
     "wof:id":102027815,
-    "wof:lastmodified":1563393292,
+    "wof:lastmodified":1566655689,
     "wof:name":"Anyang",
     "wof:parent_id":890513077,
     "wof:placetype":"locality",

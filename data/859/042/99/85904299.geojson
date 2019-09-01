@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003907,
-    "geom:area_square_m":37007668.859634,
+    "geom:area_square_m":37007668.859639,
     "geom:bbox":"116.156687012,39.9710841117,116.287536621,40.0481293584",
     "geom:latitude":40.004448,
     "geom:longitude":116.240392,
@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.9953,
     "lbl:longitude":116.268379,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.008387,
     "mps:longitude":116.266169,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Yiheyuan"
-    ],
-    "name:unk_x_variant":[
         "Yiheyuan"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12906651,
-        "qs:id":1061793,
         "qs_pg:id":1061793
     },
     "wof:country":"CN",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269154,
+    "wof:lastmodified":1566665024,
     "wof:name":"Yiheyuan",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

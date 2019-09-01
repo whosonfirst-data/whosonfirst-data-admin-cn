@@ -9,15 +9,18 @@
     "geom:bbox":"115.77028,33.87722,115.77028,33.87722",
     "geom:latitude":33.87722,
     "geom:longitude":115.77028,
-    "gn:gn_country":"CN",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":174140,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
     "gn:population":174140,
     "iso:country":"CN",
+    "lbl:bbox":"115.67028,33.77722,115.87028,33.97722",
     "lbl:latitude":33.87722,
     "lbl:longitude":115.77028,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cdo_x_preferred":[
         "B\u014fk-ci\u016d"
@@ -52,7 +55,7 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pochow"
     ],
     "name:urd_x_preferred":[
@@ -92,7 +95,7 @@
     "qs_pg:woe_adm0":23424781,
     "qs_pg:woe_id":12685309,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424781,
     "woe:name_adm0":"\u4e2d\u570b",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1125305573,
-    "wof:lastmodified":1509387796,
+    "wof:lastmodified":1566693805,
     "wof:name":"\u4eb3\u5dde\u5e02",
     "wof:parent_id":890515239,
     "wof:placetype":"localadmin",

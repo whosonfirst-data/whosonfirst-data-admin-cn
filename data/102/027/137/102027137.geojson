@@ -12,6 +12,8 @@
     "iso:country":"CN",
     "lbl:latitude":34.111805,
     "lbl:longitude":118.822632,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.111805,
     "mps:longitude":118.822632,
     "mz:hierarchy_label":1,
@@ -50,7 +52,7 @@
     "name:swe_x_preferred":[
         "Shuyang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mu-yang"
     ],
     "name:vie_x_preferred":[
@@ -180,7 +182,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669827,
         102191569,
@@ -192,7 +194,6 @@
     "wof:concordances":{
         "gn:id":1794314,
         "gp:id":2137104,
-        "qs:id":308848,
         "qs_pg:id":308848,
         "wd:id":"Q56810",
         "wk:page":"Shuyang County"
@@ -210,7 +211,7 @@
         }
     ],
     "wof:id":102027137,
-    "wof:lastmodified":1563393269,
+    "wof:lastmodified":1566655683,
     "wof:name":"Shuyang",
     "wof:parent_id":890512205,
     "wof:placetype":"locality",

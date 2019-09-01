@@ -13,10 +13,13 @@
     "iso:country":"CN",
     "lbl:latitude":22.760988,
     "lbl:longitude":112.958594,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":22.760988,
     "mps:longitude":112.958594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ceb_x_preferred":[
         "Shaping"
     ],
@@ -29,7 +32,7 @@
     "name:rus_x_preferred":[
         "\u0428\u0435\u0439\u043f\u0438\u043d\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hao-shan"
     ],
     "name:zho_x_preferred":[
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":150,
     "wof:belongsto":[
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":1795842,
         "gp:id":2161935,
-        "qs:id":136463,
         "qs_pg:id":136463
     },
     "wof:country":"CN",
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":102027167,
-    "wof:lastmodified":1564178899,
+    "wof:lastmodified":1566655635,
     "wof:name":"Shaping",
     "wof:parent_id":890514609,
     "wof:placetype":"locality",

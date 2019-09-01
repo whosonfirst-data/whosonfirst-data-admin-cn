@@ -11,11 +11,15 @@
     "geom:longitude":130.53333,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":66170,
+    "gn:population":66170,
     "iso:country":"CN",
+    "lbl:bbox":"130.51333,44.91333,130.55333,44.95333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Pa-mien-t\u2019ung-chen"
     ],
     "name:zho_x_preferred":[
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":2038482,
         "gp:id":2141219,
-        "qs:id":571618
+        "qs_pg:id":571618
     },
     "wof:country":"CN",
     "wof:created":1469055759,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890512133,
-    "wof:lastmodified":1505343886,
+    "wof:lastmodified":1566693735,
     "wof:name":"Bamiantong",
     "wof:parent_id":890515915,
     "wof:placetype":"locality",

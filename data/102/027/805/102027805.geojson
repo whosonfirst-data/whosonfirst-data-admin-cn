@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000269,
-    "geom:area_square_m":3130670.21474,
+    "geom:area_square_m":3130670.214735,
     "geom:bbox":"109.200055209,19.7318213884,109.219134301,19.7498864202",
     "geom:latitude":19.740854,
     "geom:longitude":109.209595,
     "iso:country":"CN",
     "lbl:latitude":19.740853,
     "lbl:longitude":109.209595,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.740853,
     "mps:longitude":109.209595,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "\u6d0b\u6d66"
     ],
     "qs:a1":"*",
@@ -31,7 +34,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         102191569,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":102027805,
-    "wof:lastmodified":1527637564,
+    "wof:lastmodified":1566655661,
     "wof:name":"Yangpu",
     "wof:parent_id":1108732359,
     "wof:placetype":"locality",

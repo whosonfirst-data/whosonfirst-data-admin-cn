@@ -9,15 +9,18 @@
     "geom:bbox":"111.66778,32.38583,111.66778,32.38583",
     "geom:latitude":32.38583,
     "geom:longitude":111.66778,
-    "gn:gn_country":"CN",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":253112,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
     "gn:population":253112,
     "iso:country":"CN",
+    "lbl:bbox":"111.64778,32.36583,111.68778,32.40583",
     "lbl:latitude":32.38583,
     "lbl:longitude":111.66778,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Laohekou"
@@ -25,7 +28,7 @@
     "name:pny_x_preferred":[
         "L\u01ceoh\u00e9k\u01d2u"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ho-k\u2019ou-chen"
     ],
     "name:zho_x_preferred":[
@@ -48,7 +51,7 @@
     "qs_pg:woe_adm0":23424781,
     "qs_pg:woe_id":2163878,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424781,
     "woe:name_adm0":"\u4e2d\u570b",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1125793039,
-    "wof:lastmodified":1509392451,
+    "wof:lastmodified":1566693808,
     "wof:name":"\u8001\u6cb3\u53e3",
     "wof:parent_id":1108732497,
     "wof:placetype":"locality",

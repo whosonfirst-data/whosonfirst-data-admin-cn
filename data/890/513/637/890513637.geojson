@@ -11,11 +11,15 @@
     "geom:longitude":109.22861,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":400,
+    "gn:population":400,
     "iso:country":"CN",
+    "lbl:bbox":"109.20861,27.26472,109.24861,27.30472",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Ho-t\u2019an-ch\u2019ang"
     ],
     "qs:name":"Hetan",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1808270,
         "gp:id":2141975,
-        "qs:id":562765
+        "qs_pg:id":562765
     },
     "wof:country":"CN",
     "wof:created":1469055830,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890513637,
-    "wof:lastmodified":1505343892,
+    "wof:lastmodified":1566693724,
     "wof:name":"Hetan",
     "wof:parent_id":890514349,
     "wof:placetype":"locality",

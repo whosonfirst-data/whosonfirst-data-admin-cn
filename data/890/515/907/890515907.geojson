@@ -11,7 +11,7 @@
     "geom:longitude":120.014549,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":41.41945,
     "lbl:longitude":119.792079,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u8fbd\u5b81\u7701",
     "meso:dissme":"\u671d\u9633\u5e02\u8fbd\u5b81\u7701",
     "meso:gadm_adm2":"Chaoyang",
@@ -46,6 +48,7 @@
     "mps:longitude":119.792079,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Chaoyang"
     ],
@@ -88,7 +91,7 @@
     "name:tur_x_preferred":[
         "Chaoyang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "chaoyang shi"
     ],
     "name:zho_x_preferred":[
@@ -112,9 +115,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"19698",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Chaoyang Shi",
@@ -136,7 +139,7 @@
         "gn:id":2038101,
         "gp:id":26198073,
         "hasc:id":"CN.LN.CY",
-        "qs:id":10284
+        "qs_pg:id":10284
     },
     "wof:country":"CN",
     "wof:created":1469055935,
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":890515907,
-    "wof:lastmodified":1564249977,
+    "wof:lastmodified":1566693763,
     "wof:name":"Chaoyang",
     "wof:parent_id":85669807,
     "wof:placetype":"county",

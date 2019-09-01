@@ -11,11 +11,15 @@
     "geom:longitude":113.26667,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":67139,
+    "gn:population":67139,
     "iso:country":"CN",
+    "lbl:bbox":"113.24667,30.06333,113.28667,30.10333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Fengkow"
     ],
     "name:zho_x_preferred":[
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1811305,
         "gp:id":2163926,
-        "qs:id":136751
+        "qs_pg:id":136751
     },
     "wof:country":"CN",
     "wof:created":1469055773,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890512501,
-    "wof:lastmodified":1505343888,
+    "wof:lastmodified":1566693748,
     "wof:name":"Fengkou",
     "wof:parent_id":1108732489,
     "wof:placetype":"locality",

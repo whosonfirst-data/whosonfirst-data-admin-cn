@@ -11,11 +11,15 @@
     "geom:longitude":116.96556,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":190537,
+    "gn:population":190537,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"116.94556,35.38056,116.98556,35.42056",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:jpn_x_preferred":[
         "\u9112\u57ce\u5e02"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0437\u043e\u0443\u0447\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tsou-hsien"
     ],
     "name:vie_x_preferred":[
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":1783633,
         "gp:id":2168323,
-        "qs:id":263389
+        "qs_pg:id":263389
     },
     "wof:country":"CN",
     "wof:created":1469055993,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":890517079,
-    "wof:lastmodified":1505343904,
+    "wof:lastmodified":1566693585,
     "wof:name":"\u90b9",
     "wof:parent_id":890515875,
     "wof:placetype":"locality",

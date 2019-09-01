@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"123.39417,42.48111,123.43417,42.52111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Faku"
     ],
@@ -38,8 +42,7 @@
     "name:und_x_variant":[
         "Fa-k\u2019u-hsien",
         "Fak\u2019umen",
-        "Fa-k\u2019u-chen",
-        "Faku"
+        "Fa-k\u2019u-chen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1276942777,
-    "wof:lastmodified":1564206472,
+    "wof:lastmodified":1566674363,
     "wof:name":"Faku",
     "wof:parent_id":1108732451,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":34.084512,
     "lbl:longitude":108.583374,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.084512,
     "mps:longitude":108.583374,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Ardal Huyi"
     ],
@@ -55,9 +58,6 @@
     "name:swe_x_preferred":[
         "Hu"
     ],
-    "name:unk_x_variant":[
-        "Hu"
-    ],
     "name:vie_x_preferred":[
         "H\u1ed9"
     ],
@@ -89,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669769,
         102191569,
@@ -101,7 +101,6 @@
     "wof:concordances":{
         "gn:id":1806561,
         "gp:id":2155489,
-        "qs:id":372213,
         "qs_pg:id":372213,
         "wd:id":"Q1339891",
         "wk:page":"Hu County"
@@ -119,7 +118,7 @@
         }
     ],
     "wof:id":102027499,
-    "wof:lastmodified":1563393180,
+    "wof:lastmodified":1566655652,
     "wof:name":"Ganting",
     "wof:parent_id":890515687,
     "wof:placetype":"locality",

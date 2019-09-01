@@ -9,15 +9,18 @@
     "geom:bbox":"113.9,30.91667,113.9,30.91667",
     "geom:latitude":30.91667,
     "geom:longitude":113.9,
-    "gn:gn_country":"CN",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":160437,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
     "gn:population":160437,
     "iso:country":"CN",
+    "lbl:bbox":"113.8,30.81667,114.0,31.01667",
     "lbl:latitude":30.91667,
     "lbl:longitude":113.9,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cdo_x_preferred":[
         "H\u00e1u-g\u0101ng"
@@ -52,7 +55,7 @@
     "name:uig_x_preferred":[
         "\u0634\u064a\u0627\u06cb\u06af\u06d5\u0646 \u0634\u06d5\u06be\u0649\u0631\u0649"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Siaokan"
     ],
     "name:urd_x_preferred":[
@@ -86,7 +89,7 @@
     "qs_pg:woe_adm0":23424781,
     "qs_pg:woe_id":12686309,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424781,
     "woe:name_adm0":"\u4e2d\u570b",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1125412159,
-    "wof:lastmodified":1509390287,
+    "wof:lastmodified":1566693808,
     "wof:name":"\u5b5d\u611f\u5e02",
     "wof:parent_id":1108732407,
     "wof:placetype":"localadmin",

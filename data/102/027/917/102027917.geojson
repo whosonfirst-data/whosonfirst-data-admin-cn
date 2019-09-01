@@ -13,10 +13,13 @@
     "iso:country":"CN",
     "lbl:latitude":41.68522,
     "lbl:longitude":122.107544,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":41.68522,
     "mps:longitude":122.107544,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Heishan"
     ],
@@ -26,7 +29,7 @@
     "name:sco_x_preferred":[
         "Heishan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chen-an"
     ],
     "qs:a1":"*",
@@ -43,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":65,
     "wof:belongsto":[
@@ -57,7 +60,6 @@
     "wof:concordances":{
         "gn:id":2036959,
         "gp:id":2148012,
-        "qs:id":137777,
         "qs_pg:id":137777
     },
     "wof:country":"CN",
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":102027917,
-    "wof:lastmodified":1564178921,
+    "wof:lastmodified":1566655713,
     "wof:name":"Heishan",
     "wof:parent_id":890514397,
     "wof:placetype":"locality",

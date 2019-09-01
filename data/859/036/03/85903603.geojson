@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000809,
-    "geom:area_square_m":7671086.081049,
+    "geom:area_square_m":7671086.08105,
     "geom:bbox":"116.276388911,39.9139496054,116.329462262,39.9371189258",
     "geom:latitude":39.926311,
     "geom:longitude":116.301958,
@@ -14,6 +14,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.926039,
     "lbl:longitude":116.305434,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.926206,
     "mps:longitude":116.301453,
     "mz:hierarchy_label":1,
@@ -28,9 +29,8 @@
     "name:eng_x_preferred":[
         "Ganjiakou"
     ],
-    "name:unk_x_variant":[
-        "Majiakou",
-        "Ganjiakou"
+    "name:und_x_variant":[
+        "Majiakou"
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u5bb6\u53e3"
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -76,7 +76,6 @@
     "wof:concordances":{
         "gn:id":8413445,
         "gp:id":2151407,
-        "qs:id":423510,
         "qs_pg:id":423510
     },
     "wof:country":"CN",
@@ -96,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497312283,
+    "wof:lastmodified":1566665016,
     "wof:name":"Ganjiakou",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

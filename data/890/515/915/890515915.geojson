@@ -11,7 +11,7 @@
     "geom:longitude":129.886063,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":44.748468,
     "lbl:longitude":129.781626,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u9ed1\u9f99\u6c5f\u7701",
     "meso:dissme":"\u7261\u4e39\u6c5f\u5e02\u9ed1\u9f99\u6c5f\u7701",
     "meso:gadm_adm2":"Mudanjiang",
@@ -46,6 +48,7 @@
     "mps:longitude":129.781626,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Mudanjiang"
     ],
@@ -154,7 +157,7 @@
     "name:uig_x_preferred":[
         "\u0645\u06c7\u062f\u06d5\u0646\u062c\u064a\u0627\u06ad \u0634\u06d5\u06be\u0649\u0631\u0649"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mu-tan-chiang Shih"
     ],
     "name:urd_x_preferred":[
@@ -187,9 +190,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"40581",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Mudanjiang Shi",
@@ -211,7 +214,7 @@
         "gn:id":2035713,
         "gp:id":26198059,
         "hasc:id":"CN.HL.MD",
-        "qs:id":1118953
+        "qs_pg:id":1118953
     },
     "wof:country":"CN",
     "wof:created":1469055935,
@@ -226,7 +229,7 @@
         }
     ],
     "wof:id":890515915,
-    "wof:lastmodified":1564250013,
+    "wof:lastmodified":1566693779,
     "wof:name":"Mudanjiang",
     "wof:parent_id":85669849,
     "wof:placetype":"county",

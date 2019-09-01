@@ -11,11 +11,15 @@
     "geom:longitude":110.28889,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":490,
+    "gn:population":490,
     "iso:country":"CN",
+    "lbl:bbox":"110.26889,27.48556,110.30889,27.52556",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Hsin-lu-ho"
     ],
     "qs:name":"Xinluhe",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1788735,
         "gp:id":2142557,
-        "qs:id":559678
+        "qs_pg:id":559678
     },
     "wof:country":"CN",
     "wof:created":1469055753,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890511965,
-    "wof:lastmodified":1505343885,
+    "wof:lastmodified":1566693643,
     "wof:name":"Xinluhe",
     "wof:parent_id":890514349,
     "wof:placetype":"locality",

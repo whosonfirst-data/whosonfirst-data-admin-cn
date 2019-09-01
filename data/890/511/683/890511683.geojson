@@ -11,11 +11,15 @@
     "geom:longitude":86.88333,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"86.86333,47.69667,86.90333,47.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Burqin"
     ],
@@ -69,7 +73,7 @@
         "\u0411\u0443\u0440\u0447\u0438\u043d",
         "\u0628\u06c7\u0631\u0686\u0649\u0646 \u0646\u0627\u06be\u0649\u064a\u0649\u0633\u0649"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pu-erh-ching-hsien"
     ],
     "name:urd_x_preferred":[
@@ -108,7 +112,7 @@
     "wof:concordances":{
         "gn:id":1529574,
         "gp:id":2143723,
-        "qs:id":266917,
+        "qs_pg:id":266917,
         "wd:id":"Q1016896",
         "wk:page":"Burqin County"
     },
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":890511683,
-    "wof:lastmodified":1563459356,
+    "wof:lastmodified":1566693650,
     "wof:name":"\u5e03\u5c14\u6d25",
     "wof:parent_id":1108732531,
     "wof:placetype":"locality",

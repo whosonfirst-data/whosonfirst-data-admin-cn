@@ -11,15 +11,18 @@
     "geom:longitude":105.89333,
     "gn:country":"CN",
     "gn:fcode":"PPLA3",
-    "gn:pop":74767,
+    "gn:population":74767,
     "iso:country":"CN",
+    "lbl:bbox":"105.87333,34.54861,105.91333,34.58861",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.0,
     "name:eng_x_preferred":[
         "Nandao"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u2019ien-shui"
     ],
     "ne:ADM0CAP":0.0,
@@ -131,7 +134,7 @@
     "wof:concordances":{
         "gn:id":1816751,
         "gp:id":2145616,
-        "qs:id":1033304,
+        "qs_pg:id":1033304,
         "wd:id":"Q6963191",
         "wk:page":"Nandao"
     },
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":890514425,
-    "wof:lastmodified":1563459399,
+    "wof:lastmodified":1566693661,
     "wof:name":"Beidao",
     "wof:parent_id":890516551,
     "wof:placetype":"locality",

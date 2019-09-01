@@ -11,7 +11,7 @@
     "geom:longitude":99.998487,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":30.664108,
     "lbl:longitude":100.172481,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u56db\u5ddd\u7701",
     "meso:dissme":"\u7518\u5b5c\u85cf\u65cf\u81ea\u6cbb\u5dde\u56db\u5ddd\u7701",
     "meso:gadm_adm2":"Garz\u00ea Tibetan",
@@ -46,6 +48,7 @@
     "mps:longitude":100.172481,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Ganzi"
     ],
@@ -61,7 +64,7 @@
     "name:swe_x_preferred":[
         "Ganzi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sikang Tibetan Autonomous District"
     ],
     "name:zho_x_preferred":[
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -98,7 +101,7 @@
     "wof:concordances":{
         "gn:id":1810269,
         "gp:id":26198324,
-        "qs:id":498874
+        "qs_pg:id":498874
     },
     "wof:country":"CN",
     "wof:created":1469055872,
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":890514703,
-    "wof:lastmodified":1564249787,
+    "wof:lastmodified":1566693680,
     "wof:name":"Ganzi",
     "wof:parent_id":85669787,
     "wof:placetype":"county",

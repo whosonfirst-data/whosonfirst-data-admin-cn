@@ -13,10 +13,13 @@
     "iso:country":"CN",
     "lbl:latitude":45.556372,
     "lbl:longitude":126.974487,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":45.556372,
     "mps:longitude":126.974487,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0623\u062a\u0634\u0646\u063a"
     ],
@@ -83,7 +86,7 @@
     "name:tgl_x_preferred":[
         "Acheng"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "A-shih-ko"
     ],
     "name:urd_x_preferred":[
@@ -122,7 +125,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85669849,
@@ -135,7 +138,7 @@
     "wof:concordances":{
         "gn:id":2038679,
         "gp:id":12685786,
-        "qs:id":246982,
+        "qs_pg:id":246982,
         "wd:id":"Q145263",
         "wk:page":"Acheng District"
     },
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":102027967,
-    "wof:lastmodified":1563393259,
+    "wof:lastmodified":1566655679,
     "wof:name":"Acheng",
     "wof:parent_id":890516235,
     "wof:placetype":"locality",

@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001025,
-    "geom:area_square_m":10910571.489255,
+    "geom:area_square_m":10910571.489252,
     "geom:bbox":"118.944041668,30.5958033216,118.997854599,30.6422037933",
     "geom:latitude":30.617359,
     "geom:longitude":118.971615,
     "iso:country":"CN",
     "lbl:latitude":30.633182,
     "lbl:longitude":118.976384,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":30.633182,
     "mps:longitude":118.976384,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ning-kuo"
     ],
     "qs:a1":"*",
@@ -33,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669739,
         102191569,
@@ -45,7 +48,6 @@
     "wof:concordances":{
         "gn:id":1808535,
         "gp:id":2127892,
-        "qs:id":136690,
         "qs_pg:id":136690
     },
     "wof:country":"CN",
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":102027559,
-    "wof:lastmodified":1497295042,
+    "wof:lastmodified":1566655629,
     "wof:name":"Helixi",
     "wof:parent_id":890515063,
     "wof:placetype":"locality",

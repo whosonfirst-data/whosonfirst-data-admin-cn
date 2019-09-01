@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":25.105497,
     "lbl:longitude":104.91394,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.105497,
     "mps:longitude":104.91394,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Xingyi"
     ],
@@ -43,7 +46,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":27,
     "wof:belongsto":[
         85669721,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102027991,
-    "wof:lastmodified":1564178896,
+    "wof:lastmodified":1566655628,
     "wof:name":"Xingyi",
     "wof:parent_id":1108732559,
     "wof:placetype":"locality",

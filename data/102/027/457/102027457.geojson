@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":35.491984,
     "lbl:longitude":112.527466,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.491984,
     "mps:longitude":112.527466,
     "mz:hierarchy_label":1,
@@ -162,7 +164,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0437\u0456\u043d\u044c\u0447\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chin-ch\u2019eng-hsien"
     ],
     "name:urd_x_preferred":[
@@ -303,7 +305,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":352,
     "wof:belongsto":[
@@ -318,7 +320,7 @@
         "fct:id":"06b58a6c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1805741,
         "gp:id":12686972,
-        "qs:id":1109387,
+        "qs_pg:id":1109387,
         "wd:id":"Q72990",
         "wk:page":"Jincheng"
     },
@@ -338,7 +340,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393330,
+    "wof:lastmodified":1566655700,
     "wof:name":"Jincheng",
     "wof:parent_id":890514749,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":117.19168,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"117.09168,39.01708,117.29168,39.21708",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Heping"
     ],
@@ -30,7 +34,7 @@
     "name:pol_x_preferred":[
         "Heping"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ho-p\u2019ing Ch\u2019\u00fc"
     ],
     "name:vie_x_preferred":[
@@ -59,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1808339,
-        "qs:id":355770,
+        "qs_pg:id":355770,
         "wk:page":"Heping District, Taichung"
     },
     "wof:country":"CN",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890513791,
-    "wof:lastmodified":1564249832,
+    "wof:lastmodified":1566693700,
     "wof:name":"Heping Qu",
     "wof:parent_id":890513813,
     "wof:placetype":"localadmin",

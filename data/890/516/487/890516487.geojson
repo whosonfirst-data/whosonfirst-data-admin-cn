@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":21.696846,
     "lbl:longitude":109.302675,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5e7f\u897f\u7701",
     "meso:dissme":"\u5317\u6d77\u5e02\u5e7f\u897f\u7701",
     "meso:gadm_adm2":"Beihai",
@@ -43,6 +45,7 @@
     "mps:longitude":109.302675,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Beihai"
     ],
@@ -154,9 +157,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0439\u0445\u0430\u0439"
     ],
-    "name:und_x_variant":[
-        "\u5317\u6d77\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0626\u06c1\u0627\u0626\u06cc"
     ],
@@ -186,9 +186,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"3337",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Beihai Shi",
@@ -209,7 +209,7 @@
     "wof:concordances":{
         "gp:id":26198179,
         "hasc:id":"CN.GX.BH",
-        "qs:id":212459
+        "qs_pg:id":212459
     },
     "wof:country":"CN",
     "wof:created":1469055960,
@@ -224,7 +224,7 @@
         }
     ],
     "wof:id":890516487,
-    "wof:lastmodified":1564249679,
+    "wof:lastmodified":1566693630,
     "wof:name":"Beihai",
     "wof:parent_id":85669717,
     "wof:placetype":"county",

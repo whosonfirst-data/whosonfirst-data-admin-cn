@@ -11,7 +11,7 @@
     "geom:longitude":115.032704,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":40.831417,
     "lbl:longitude":115.05248,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6cb3\u5317\u7701",
     "meso:dissme":"\u5f20\u5bb6\u53e3\u5e02\u6cb3\u5317\u7701",
     "meso:gadm_adm2":"Zhangjiakou",
@@ -46,6 +48,7 @@
     "mps:longitude":115.05248,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0646\u063a\u062c\u064a\u0627\u0643\u0648"
     ],
@@ -145,7 +148,7 @@
     "name:tur_x_preferred":[
         "Zhangjiakou"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chang-chia-k\u2019ou Shih"
     ],
     "name:urd_x_preferred":[
@@ -181,9 +184,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"36847",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Zhangjiakou Shi",
@@ -205,7 +208,7 @@
         "gn:id":2033194,
         "gp:id":26198252,
         "hasc:id":"CN.HB.ZJ",
-        "qs:id":212447
+        "qs_pg:id":212447
     },
     "wof:country":"CN",
     "wof:created":1469055960,
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":890516481,
-    "wof:lastmodified":1564249675,
+    "wof:lastmodified":1566693628,
     "wof:name":"Zhangjiakou",
     "wof:parent_id":85669797,
     "wof:placetype":"county",

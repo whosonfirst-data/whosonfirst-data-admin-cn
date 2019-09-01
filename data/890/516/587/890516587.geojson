@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":36.44356,
     "lbl:longitude":109.48807,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u9655\u897f\u7701",
     "meso:dissme":"\u5ef6\u5b89\u5e02\u9655\u897f\u7701",
     "meso:gadm_adm2":"Yan'an",
@@ -43,6 +45,7 @@
     "mps:longitude":109.48807,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u064a\u0627\u0646\u0627\u0646"
     ],
@@ -124,9 +127,6 @@
     "name:ukr_x_preferred":[
         "\u042f\u043d\u044c\u0430\u043d\u044c"
     ],
-    "name:und_x_variant":[
-        "\u5ef6\u5b89\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u06cc\u0646 \u0627\u0646"
     ],
@@ -156,9 +156,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"37037",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Yan'an Shi",
@@ -179,7 +179,7 @@
     "wof:concordances":{
         "gp:id":26198122,
         "hasc:id":"CN.SA.YA",
-        "qs:id":220001
+        "qs_pg:id":220001
     },
     "wof:country":"CN",
     "wof:created":1469055964,
@@ -194,7 +194,7 @@
         }
     ],
     "wof:id":890516587,
-    "wof:lastmodified":1564249655,
+    "wof:lastmodified":1566693618,
     "wof:name":"Yan'an",
     "wof:parent_id":85669769,
     "wof:placetype":"county",

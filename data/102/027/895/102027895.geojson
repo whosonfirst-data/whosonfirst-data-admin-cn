@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":45.348285,
     "lbl:longitude":130.841675,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.348285,
     "mps:longitude":130.841675,
     "mz:hierarchy_label":1,
@@ -168,7 +170,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0437\u0456\u0441\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chi-ning"
     ],
     "name:urd_x_preferred":[
@@ -310,7 +312,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2289,
     "wof:belongsto":[
@@ -324,7 +326,7 @@
     "wof:concordances":{
         "gn:id":2036389,
         "gp:id":2141170,
-        "qs:id":137759,
+        "qs_pg:id":137759,
         "wd:id":"Q28979",
         "wk:page":"Jixi"
     },
@@ -341,7 +343,7 @@
         }
     ],
     "wof:id":102027895,
-    "wof:lastmodified":1563393170,
+    "wof:lastmodified":1566655648,
     "wof:megacity":1,
     "wof:name":"Jixi",
     "wof:parent_id":1108732547,

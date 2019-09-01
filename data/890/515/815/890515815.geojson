@@ -11,8 +11,11 @@
     "geom:longitude":122.08333,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":165846,
+    "gn:population":165846,
     "iso:country":"CN",
+    "lbl:bbox":"122.06333,46.06333,122.10333,46.10333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.6,
@@ -130,7 +133,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u043b\u0430\u043d-\u0425\u043e\u0442\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Huai-yu\u00e4n-chen"
     ],
     "name:urd_x_preferred":[
@@ -257,7 +260,7 @@
     "wof:concordances":{
         "gn:id":2034312,
         "gp:id":2149768,
-        "qs:id":90523,
+        "qs_pg:id":90523,
         "wd:id":"Q1000383",
         "wk:page":"Ulan Hot"
     },
@@ -275,7 +278,7 @@
         }
     ],
     "wof:id":890515815,
-    "wof:lastmodified":1563459896,
+    "wof:lastmodified":1566693790,
     "wof:name":"Ulanhot",
     "wof:parent_id":1108732367,
     "wof:placetype":"locality",

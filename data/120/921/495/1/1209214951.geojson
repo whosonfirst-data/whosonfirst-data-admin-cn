@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"120.64352,31.48652,120.68352,31.52652",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Jiaozi"
     ],
@@ -88,9 +92,6 @@
     "name:ukr_x_preferred":[
         "\u0426\u0437\u044f\u043e\u0446\u0437\u0438"
     ],
-    "name:und_x_variant":[
-        "\u89d2\u5b57"
-    ],
     "name:vie_x_preferred":[
         "S\u1ee7i c\u1ea3o"
     ],
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1209214951,
-    "wof:lastmodified":1564224479,
+    "wof:lastmodified":1566683899,
     "wof:name":"Jiaozi",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",

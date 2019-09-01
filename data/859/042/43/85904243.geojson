@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.924315,
     "lbl:longitude":116.348362,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.923429,
     "mps:longitude":116.346937,
     "mz:hierarchy_label":1,
@@ -37,9 +38,6 @@
         "Fuchengmen"
     ],
     "name:swe_x_preferred":[
-        "Fuchengmen"
-    ],
-    "name:unk_x_variant":[
         "Fuchengmen"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":151,
     "wof:belongsto":[
         102191569,
@@ -84,7 +82,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12906625,
-        "qs:id":900659,
         "qs_pg:id":900659,
         "wd:id":"Q4567923"
     },
@@ -105,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563404346,
+    "wof:lastmodified":1566665023,
     "wof:name":"Fuchengmen",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

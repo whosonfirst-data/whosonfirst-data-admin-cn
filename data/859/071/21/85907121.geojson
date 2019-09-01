@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":21607119.672703,
+    "geom:area_square_m":0.0,
     "geom:bbox":"113.26276,23.146535,113.26276,23.146535",
     "geom:latitude":23.146535,
     "geom:longitude":113.26276,
     "gn:latitude":23.32049,
     "gn:longitude":112.94877,
     "iso:country":"CN",
+    "lbl:bbox":"113.25776,23.141535,113.26776,23.151535",
     "lbl:latitude":23.146535,
     "lbl:longitude":113.26276,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.157677,
     "mps:longitude":113.265025,
     "mz:hierarchy_label":0,
@@ -28,9 +30,8 @@
     "name:eng_x_preferred":[
         "Xiatangcun"
     ],
-    "name:unk_x_variant":[
-        "Xiangangcun",
-        "Xiatangcun"
+    "name:und_x_variant":[
+        "Xiangangcun"
     ],
     "name:zho_x_preferred":[
         "\u5148\u5c97\u6751"
@@ -65,20 +66,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85669743,
         102191569,
         85632695,
         102027597,
         136253041,
-        890513087
+        890513087,
+        85669743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6922465,
         "gp:id":22724612,
-        "qs:id":202788,
         "qs_pg:id":202788
     },
     "wof:country":"CN",
@@ -98,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936517,
+    "wof:lastmodified":1566665015,
     "wof:name":"Xiatangcun",
     "wof:parent_id":102027597,
     "wof:placetype":"neighbourhood",

@@ -12,14 +12,17 @@
     "iso:country":"CN",
     "lbl:latitude":42.330124,
     "lbl:longitude":101.244507,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.330124,
     "mps:longitude":101.244507,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mon_x_preferred":[
         "Dalain Hob"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pu-ho-lan-ta"
     ],
     "name:zho_x_preferred":[
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669847,
         102191569,
@@ -51,7 +54,6 @@
     "wof:concordances":{
         "gn:id":2037927,
         "gp:id":2149918,
-        "qs:id":137803,
         "qs_pg:id":137803
     },
     "wof:country":"CN",
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":102027941,
-    "wof:lastmodified":1497290453,
+    "wof:lastmodified":1566655664,
     "wof:name":"Dalain Hob",
     "wof:parent_id":1108732533,
     "wof:placetype":"locality",

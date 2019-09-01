@@ -11,11 +11,15 @@
     "geom:longitude":123.50639,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":93666,
+    "gn:population":93666,
     "iso:country":"CN",
+    "lbl:bbox":"123.48639,43.48639,123.52639,43.52639",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Chengkiatun"
     ],
     "qs:name":"Zhengjiatun",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":2033135,
         "gp:id":2138109,
-        "qs:id":571048
+        "qs_pg:id":571048
     },
     "wof:country":"CN",
     "wof:created":1469055832,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890513695,
-    "wof:lastmodified":1505343893,
+    "wof:lastmodified":1566693711,
     "wof:name":"Zhengjiatun",
     "wof:parent_id":890514217,
     "wof:placetype":"locality",

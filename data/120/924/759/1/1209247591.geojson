@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"119.78278,31.74944,119.82278,31.78944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -34,7 +38,7 @@
         "gn:id":1548326
     },
     "wof:country":"CN",
-    "wof:geomhash":"91220b56d25768566a821bf8e236c2c3",
+    "wof:geomhash":"49994b30ef5fac4b37b4962fc81440ad",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209247591,
-    "wof:lastmodified":1536293110,
+    "wof:lastmodified":1566680779,
     "wof:name":"Buyi",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     119.80278,
-    31.769440000000003,
+    31.76944,
     119.80278,
-    31.769440000000003
+    31.76944
 ],
   "geometry": {"coordinates":[119.80278,31.76944],"type":"Point"}
 }

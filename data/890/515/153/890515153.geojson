@@ -11,7 +11,7 @@
     "geom:longitude":120.156909,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":33.626192,
     "lbl:longitude":120.02163,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6c5f\u82cf\u7701",
     "meso:dissme":"\u76d0\u57ce\u5e02\u6c5f\u82cf\u7701",
     "meso:gadm_adm2":"Yancheng",
@@ -46,6 +48,7 @@
     "mps:longitude":120.02163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Yancheng"
     ],
@@ -145,7 +148,7 @@
     "name:tur_x_preferred":[
         "Yancheng"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yen-ch\u2019eng Hsien"
     ],
     "name:urd_x_preferred":[
@@ -181,9 +184,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"9044",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Yancheng Shi",
@@ -205,7 +208,7 @@
         "gn:id":1787743,
         "gp:id":26198092,
         "hasc:id":"CN.JS.YC",
-        "qs:id":1086170
+        "qs_pg:id":1086170
     },
     "wof:country":"CN",
     "wof:created":1469055892,
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":890515153,
-    "wof:lastmodified":1564250019,
+    "wof:lastmodified":1566693782,
     "wof:name":"Yancheng",
     "wof:parent_id":85669827,
     "wof:placetype":"county",

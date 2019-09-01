@@ -11,11 +11,15 @@
     "geom:longitude":116.18766,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"116.16766,39.89124,116.20766,39.93124",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u062c\u064a\u0646\u063a\u0634\u0627\u0646"
     ],
@@ -88,7 +92,7 @@
     "name:tur_x_preferred":[
         "Shijingshan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shi-ching-shan"
     ],
     "name:urd_x_preferred":[
@@ -130,7 +134,7 @@
     "wof:concordances":{
         "gn:id":1795254,
         "gp:id":2151339,
-        "qs:id":493214,
+        "qs_pg:id":493214,
         "wd:id":"Q393475",
         "wk:page":"Shijingshan District"
     },
@@ -148,7 +152,7 @@
         }
     ],
     "wof:id":890516073,
-    "wof:lastmodified":1563459272,
+    "wof:lastmodified":1566693628,
     "wof:name":"\u77f3\u666f\u5c71",
     "wof:parent_id":1108732371,
     "wof:placetype":"locality",

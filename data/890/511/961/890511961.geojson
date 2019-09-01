@@ -11,11 +11,15 @@
     "geom:longitude":106.58889,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":100,
+    "gn:population":100,
     "iso:country":"CN",
+    "lbl:bbox":"106.56889,28.65111,106.60889,28.69111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Tiaotai"
     ],
     "name:zho_x_preferred":[
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1552087,
         "gp:id":2147066,
-        "qs:id":557047
+        "qs_pg:id":557047
     },
     "wof:country":"CN",
     "wof:created":1469055753,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890511961,
-    "wof:lastmodified":1505343885,
+    "wof:lastmodified":1566693648,
     "wof:name":"Tiaotaigang",
     "wof:parent_id":890516473,
     "wof:placetype":"locality",

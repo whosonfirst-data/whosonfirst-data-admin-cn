@@ -14,10 +14,13 @@
     "iso:country":"CN",
     "lbl:latitude":29.616446,
     "lbl:longitude":94.938354,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":29.616446,
     "mps:longitude":94.938354,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bod_x_preferred":[
         "Tungdor"
     ],
@@ -36,7 +39,7 @@
     "name:swe_x_preferred":[
         "Tungdor"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mi-ling"
     ],
     "name:zho_x_preferred":[
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         85669747,
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":1279843,
         "gp:id":12686460,
-        "qs:id":370511,
         "qs_pg:id":370511,
         "wd:id":"Q7853033",
         "wk:page":"Tungdor"
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":102026791,
-    "wof:lastmodified":1563393426,
+    "wof:lastmodified":1566655737,
     "wof:name":"Tungdor",
     "wof:parent_id":890515951,
     "wof:placetype":"locality",

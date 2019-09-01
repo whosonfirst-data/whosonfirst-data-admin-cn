@@ -11,7 +11,7 @@
     "geom:longitude":102.61225,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
         "Aba Autonomous Prefecture"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":32.208848,
     "lbl:longitude":102.582859,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u56db\u5ddd\u7701",
     "meso:dissme":"\u963f\u575d\u85cf\u65cf\u7f8c\u65cf\u81ea\u6cbb\u5dde\u56db\u5ddd\u7701",
     "meso:gadm_adm2":"Ngawa Tibetan and Qiang",
@@ -45,6 +47,7 @@
     "mps:longitude":102.582859,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0629 \u0646\u063a\u0648\u0627"
     ],
@@ -139,7 +142,7 @@
         "Ngawa Stad"
     ],
     "name:tam_x_preferred":[
-        "\u0b99\u0bcd\u0b95\u0bbe\u0bb5\u0bbe  \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
+        "\u0b99\u0bcd\u0b95\u0bbe\u0bb5\u0bbe \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c17\u0c4d\u0c35\u0c2a\u0c1f\u0c4d\u0c1f\u0c23\u0c02"
@@ -153,7 +156,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0433\u0430\u0432\u0430-\u0422\u0430\u0443\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ngawa Zangzu Zizhizhou"
     ],
     "name:urd_x_preferred":[
@@ -180,9 +183,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"84242",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Weizhou Zhen",
@@ -203,7 +206,7 @@
     "wof:concordances":{
         "gn:id":1818175,
         "hasc:id":"CN.SC.AB",
-        "qs:id":1027740,
+        "qs_pg:id":1027740,
         "wd:id":"Q304182"
     },
     "wof:country":"CN",
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":1108794065,
-    "wof:lastmodified":1563445135,
+    "wof:lastmodified":1566688017,
     "wof:name":"Aba",
     "wof:parent_id":85669787,
     "wof:placetype":"county",

@@ -9,15 +9,18 @@
     "geom:bbox":"108.70261,34.33778,108.70261,34.33778",
     "geom:latitude":34.33778,
     "geom:longitude":108.70261,
-    "gn:gn_country":"CN",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":1034081,
+    "gn:country":"CN",
+    "gn:fcode":"PPLA3",
     "gn:population":1034081,
     "iso:country":"CN",
+    "lbl:bbox":"108.60261,34.23778,108.80261,34.43778",
     "lbl:latitude":34.33778,
     "lbl:longitude":108.70261,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":4.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u0438\u0435\u043d\u044f\u043d"
@@ -64,7 +67,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u044f\u043d\u044c\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Syanyan"
     ],
     "name:urd_x_preferred":[
@@ -100,7 +103,7 @@
     "qs_pg:woe_adm0":23424781,
     "qs_pg:woe_id":12687231,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424781,
     "woe:name_adm0":"\u4e2d\u570b",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1125377897,
-    "wof:lastmodified":1509389504,
+    "wof:lastmodified":1566693804,
     "wof:name":"\u54b8\u9633\u5e02",
     "wof:parent_id":890515689,
     "wof:placetype":"localadmin",

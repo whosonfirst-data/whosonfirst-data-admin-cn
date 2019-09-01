@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"109.4813,18.76229,109.5213,18.80229",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0648\u0632\u064a\u0634\u0627\u0646"
     ],
@@ -79,8 +83,7 @@
     "name:und_x_variant":[
         "\u51b2\u5c71",
         "Chongshan Zhen",
-        "\u51b2\u5c71\u9547",
-        "Wuzhishan Shi"
+        "\u51b2\u5c71\u9547"
     ],
     "name:urd_x_preferred":[
         "\u0648\u0648\u0698\u06cc\u0634\u0627\u0646 \u0634\u06c1\u0631"
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1310242199,
-    "wof:lastmodified":1564234235,
+    "wof:lastmodified":1566688020,
     "wof:name":"Chongshan",
     "wof:parent_id":1108732351,
     "wof:placetype":"locality",

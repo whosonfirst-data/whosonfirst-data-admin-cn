@@ -11,10 +11,14 @@
     "geom:longitude":114.8444,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"114.7444,23.87091,114.9444,24.07091",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dongyuan Xian"
     ],
@@ -54,9 +58,6 @@
     "name:swe_x_preferred":[
         "Dongyuan"
     ],
-    "name:unk_x_variant":[
-        "Dongyuan"
-    ],
     "name:vie_x_preferred":[
         "\u0110\u00f4ng Nguy\u00ean"
     ],
@@ -88,7 +89,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1917078,
-        "qs:id":1028260,
+        "qs_pg:id":1028260,
         "wd:id":"Q1241513",
         "wk:page":"Dongyuan County"
     },
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":890514211,
-    "wof:lastmodified":1563459392,
+    "wof:lastmodified":1566693660,
     "wof:name":"Dongyuan Xian",
     "wof:parent_id":890514179,
     "wof:placetype":"localadmin",

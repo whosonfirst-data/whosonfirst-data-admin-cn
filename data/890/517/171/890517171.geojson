@@ -11,10 +11,14 @@
     "geom:longitude":115.20361,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":145911,
+    "gn:population":145911,
     "iso:country":"CN",
+    "lbl:bbox":"115.18361,37.88278,115.22361,37.92278",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:eng_x_preferred":[
         "Xinji"
     ],
@@ -24,7 +28,7 @@
     "name:jpn_x_preferred":[
         "\u8f9b\u96c6\u93ae"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hsin-chi"
     ],
     "name:wuu_x_preferred":[
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":1788816,
         "gp:id":2171313,
-        "qs:id":559711,
+        "qs_pg:id":559711,
         "wd:id":"Q8044604",
         "wk:page":"Xinji"
     },
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":890517171,
-    "wof:lastmodified":1563459169,
+    "wof:lastmodified":1566693594,
     "wof:name":"Xinji",
     "wof:parent_id":890515171,
     "wof:placetype":"locality",

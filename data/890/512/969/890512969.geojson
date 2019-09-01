@@ -11,8 +11,11 @@
     "geom:longitude":126.08333,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":70472,
+    "gn:population":70472,
     "iso:country":"CN",
+    "lbl:bbox":"126.06333,47.56333,126.10333,47.60333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Baiquan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ta-p\u2019ao-tzu"
     ],
     "name:vie_x_preferred":[
@@ -177,7 +180,7 @@
     "wof:concordances":{
         "gn:id":2038541,
         "gp:id":2141182,
-        "qs:id":274147,
+        "qs_pg:id":274147,
         "wd:id":"Q649215",
         "wk:page":"Baiquan County"
     },
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":890512969,
-    "wof:lastmodified":1563459750,
+    "wof:lastmodified":1566693750,
     "wof:name":"Baiquan",
     "wof:parent_id":890516483,
     "wof:placetype":"locality",
