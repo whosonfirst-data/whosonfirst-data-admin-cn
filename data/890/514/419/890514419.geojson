@@ -11,11 +11,15 @@
     "geom:longitude":110.84056,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":2600,
+    "gn:population":2600,
     "iso:country":"CN",
+    "lbl:bbox":"110.82056,27.00194,110.86056,27.04194",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Huang-ch\u2019iao"
     ],
     "qs:name":"Huangqiao",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1807285,
         "gp:id":2142006,
-        "qs:id":1033237
+        "qs_pg:id":1033237
     },
     "wof:country":"CN",
     "wof:created":1469055860,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890514419,
-    "wof:lastmodified":1505343897,
+    "wof:lastmodified":1566693684,
     "wof:name":"Huangqiao",
     "wof:parent_id":890514309,
     "wof:placetype":"locality",

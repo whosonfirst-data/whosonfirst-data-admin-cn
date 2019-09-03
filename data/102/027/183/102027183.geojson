@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":27.034663,
     "lbl:longitude":117.097778,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":27.034663,
     "mps:longitude":117.097778,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shancheng"
     ],
@@ -25,7 +28,7 @@
     "name:jpn_x_preferred":[
         "\u6749\u57ce\u93ae"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taining"
     ],
     "name:wuu_x_preferred":[
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669735,
         102191569,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":1796340,
         "gp:id":2139861,
-        "qs:id":372109,
         "qs_pg:id":372109,
         "wd:id":"Q11095144"
     },
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":102027183,
-    "wof:lastmodified":1563393356,
+    "wof:lastmodified":1566655711,
     "wof:name":"Shancheng",
     "wof:parent_id":890516573,
     "wof:placetype":"locality",

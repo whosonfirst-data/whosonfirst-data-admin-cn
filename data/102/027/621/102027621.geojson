@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001571,
-    "geom:area_square_m":16549066.94889,
+    "geom:area_square_m":16549066.948878,
     "geom:bbox":"114.109957198,31.5554838967,114.229887575,31.5922266823",
     "geom:latitude":31.576925,
     "geom:longitude":114.157505,
     "iso:country":"CN",
     "lbl:latitude":31.572419,
     "lbl:longitude":114.128538,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.572419,
     "mps:longitude":114.128538,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ta-wu"
     ],
     "qs:a1":"*",
@@ -33,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669777,
         102191569,
@@ -45,7 +48,6 @@
     "wof:concordances":{
         "gn:id":1811686,
         "gp:id":2163021,
-        "qs:id":1031645,
         "qs_pg:id":1031645
     },
     "wof:country":"CN",
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":102027621,
-    "wof:lastmodified":1497296001,
+    "wof:lastmodified":1566655642,
     "wof:name":"Dawu Chengguanzhen",
     "wof:parent_id":1108732407,
     "wof:placetype":"locality",

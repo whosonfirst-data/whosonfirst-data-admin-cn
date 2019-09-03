@@ -11,11 +11,15 @@
     "geom:longitude":110.84607,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":166069,
+    "gn:population":166069,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"110.82607,21.91924,110.86607,21.95924",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Maoming"
     ],
@@ -130,9 +134,6 @@
     "name:tur_x_preferred":[
         "Maoming"
     ],
-    "name:unk_x_variant":[
-        "Mao-ming"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0648\u0645\u0646\u06af"
     ],
@@ -177,7 +178,7 @@
     "wof:concordances":{
         "gn:id":1810295,
         "gp:id":2161875,
-        "qs:id":1045568,
+        "qs_pg:id":1045568,
         "wd:id":"Q38927"
     },
     "wof:country":"CN",
@@ -194,7 +195,7 @@
         }
     ],
     "wof:id":890515963,
-    "wof:lastmodified":1563459819,
+    "wof:lastmodified":1566693766,
     "wof:name":"\u9ad8\u5dde",
     "wof:parent_id":1108732487,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":110.16056,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":1070,
+    "gn:population":1070,
     "iso:country":"CN",
+    "lbl:bbox":"110.14056,27.78194,110.18056,27.82194",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Hsiao-lung"
     ],
     "qs:name":"Xiaolongmen",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1790088,
         "gp:id":2142528,
-        "qs:id":559905
+        "qs_pg:id":559905
     },
     "wof:country":"CN",
     "wof:created":1469055985,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890516945,
-    "wof:lastmodified":1505343903,
+    "wof:lastmodified":1566693639,
     "wof:name":"Xiaolongmen",
     "wof:parent_id":890514349,
     "wof:placetype":"locality",

@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":34.353019,
     "lbl:longitude":107.286588,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u9655\u897f\u7701",
     "meso:dissme":"\u5b9d\u9e21\u5e02\u9655\u897f\u7701",
     "meso:gadm_adm2":"Baoji",
@@ -43,6 +45,7 @@
     "mps:longitude":107.286588,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0648\u062c\u0649"
     ],
@@ -130,9 +133,6 @@
     "name:tur_x_preferred":[
         "Baoji"
     ],
-    "name:und_x_variant":[
-        "\u5b9d\u9e21\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0648\u062c\u06cc"
     ],
@@ -159,9 +159,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"18172",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Baoji Shi",
@@ -182,7 +182,7 @@
     "wof:concordances":{
         "gp:id":26198118,
         "hasc:id":"CN.SA.BJ",
-        "qs:id":216000
+        "qs_pg:id":216000
     },
     "wof:country":"CN",
     "wof:created":1469055962,
@@ -197,7 +197,7 @@
         }
     ],
     "wof:id":890516525,
-    "wof:lastmodified":1564249698,
+    "wof:lastmodified":1566693639,
     "wof:name":"Baoji",
     "wof:parent_id":85669769,
     "wof:placetype":"county",

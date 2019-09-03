@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":32.088933,
     "lbl:longitude":86.448392,
+    "lbl:min_zoom":8.0,
     "meso:name_alt":"\u897f\u85cf\u81ea\u6cbb\u5340|\u897f\u85cf\u81ea\u6cbb\u533a",
     "meso:name_loc":"\u897f\u85cf\u81ea\u6cbb\u533a",
     "mps:latitude":32.116074,
@@ -195,9 +196,6 @@
     ],
     "name:und_x_variant":[
         "\u897f\u85cf\u81ea\u6cbb\u5340|\u897f\u85cf\u81ea\u6cbb\u533a",
-        "\u897f\u85cf\u81ea\u6cbb\u533a"
-    ],
-    "name:unk_x_variant":[
         "Xizang Zizhiqu"
     ],
     "name:vec_x_preferred":[
@@ -293,9 +291,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"1,178,577",
     "statoids:area_mi":"455,051",
     "statoids:as_of_date":"2010-11-01",
@@ -326,7 +324,7 @@
         "iso:id":"CN-XZ",
         "loc:id":"n79100917",
         "nyt:id":"51603260610445312001",
-        "qs:id":370497,
+        "qs_pg:id":370497,
         "unlc:id":"CN-54",
         "wd:id":"Q17269",
         "wk:page":"Tibet Autonomous Region"
@@ -353,7 +351,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1565664525,
+    "wof:lastmodified":1566665064,
     "wof:name":"Tibet",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

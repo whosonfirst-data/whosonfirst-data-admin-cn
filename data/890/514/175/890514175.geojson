@@ -11,10 +11,14 @@
     "geom:longitude":113.00672,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"112.98672,22.81594,113.02672,22.85594",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jiujiang"
     ],
@@ -30,7 +34,7 @@
     "name:swe_x_preferred":[
         "Jiujiang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chiu-chiang-hs\u00fc"
     ],
     "name:wuu_x_preferred":[
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":1805180,
         "gp:id":2161925,
-        "qs:id":1027653,
+        "qs_pg:id":1027653,
         "wd:id":"Q6203395",
         "wk:page":"Jiujiang"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890514175,
-    "wof:lastmodified":1563459443,
+    "wof:lastmodified":1566693674,
     "wof:name":"Jiujiang",
     "wof:parent_id":890513089,
     "wof:placetype":"locality",

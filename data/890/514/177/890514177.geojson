@@ -11,10 +11,14 @@
     "geom:longitude":121.23048,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"121.13048,30.74234,121.33048,30.94234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Jinshan"
     ],
@@ -39,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0437\u0456\u043d\u044c\u0448\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chin-shan Hsien"
     ],
     "name:vie_x_preferred":[
@@ -68,7 +72,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1805390,
-        "qs:id":1027657,
+        "qs_pg:id":1027657,
         "wk:page":"Jinshan District, New Taipei"
     },
     "wof:country":"CN",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":890514177,
-    "wof:lastmodified":1564249818,
+    "wof:lastmodified":1566693693,
     "wof:name":"Jinshan Qu",
     "wof:parent_id":890514815,
     "wof:placetype":"localadmin",

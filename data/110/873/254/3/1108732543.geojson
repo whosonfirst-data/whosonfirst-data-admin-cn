@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":31.720819,
     "lbl:longitude":118.288327,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5b89\u5fbd\u7701",
     "meso:dissme":"\u9a6c\u978d\u5c71\u5e02\u5b89\u5fbd\u7701",
     "meso:gadm_adm2":"Chaohu",
@@ -42,6 +44,7 @@
     "mps:longitude":118.288327,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Ma'anshan"
     ],
@@ -153,9 +156,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0430\u043d\u044c\u0448\u0430\u043d\u044c"
     ],
-    "name:und_x_variant":[
-        "\u9a6c\u978d\u5c71\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0622\u0646\u0634\u0627\u0646"
     ],
@@ -169,9 +169,9 @@
         "\u9a6c\u978d\u5c71\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"1686",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Ma'anshan Shi",
@@ -205,7 +205,7 @@
         }
     ],
     "wof:id":1108732543,
-    "wof:lastmodified":1564234221,
+    "wof:lastmodified":1566688007,
     "wof:name":"Ma'anshan",
     "wof:parent_id":85669739,
     "wof:placetype":"county",

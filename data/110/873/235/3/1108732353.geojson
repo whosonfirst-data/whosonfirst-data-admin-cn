@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":30.290786,
     "lbl:longitude":113.235162,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6e56\u5317\u7701",
     "meso:dissme":"\u4ed9\u6843\u5e02\u6e56\u5317\u7701",
     "meso:gadm_adm2":"Xiantao",
@@ -42,17 +44,15 @@
     "mps:longitude":113.235162,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Xiantao"
-    ],
-    "name:und_x_variant":[
-        "\u4ed9\u6843\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u4ed9\u6843\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85669777,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1108732353,
-    "wof:lastmodified":1555220446,
+    "wof:lastmodified":1566687985,
     "wof:name":"\u4ed9\u6843\u5e02",
     "wof:parent_id":85669777,
     "wof:placetype":"county",

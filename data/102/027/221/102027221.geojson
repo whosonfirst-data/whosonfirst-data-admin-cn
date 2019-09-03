@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000268,
-    "geom:area_square_m":3133377.551169,
+    "geom:area_square_m":3133377.551172,
     "geom:bbox":"110.452521426,19.2346990439,110.471550857,19.2527731364",
     "geom:latitude":19.243736,
     "geom:longitude":110.462036,
     "iso:country":"CN",
     "lbl:latitude":19.243736,
     "lbl:longitude":110.462036,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.243736,
     "mps:longitude":110.462036,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ch\u2019iung Hai"
     ],
     "name:zho_x_preferred":[
@@ -34,7 +37,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":102027221,
-    "wof:lastmodified":1506728862,
+    "wof:lastmodified":1566655642,
     "wof:name":"Qiong Hai",
     "wof:parent_id":1108732479,
     "wof:placetype":"locality",

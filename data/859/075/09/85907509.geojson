@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001375,
-    "geom:area_square_m":14545972.757654,
+    "geom:area_square_m":14545972.757652,
     "geom:bbox":"121.514282227,31.186958671,121.572012241,31.2348889853",
     "geom:latitude":31.212239,
     "geom:longitude":121.541794,
@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":31.214098,
     "lbl:longitude":121.548359,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.214535,
     "mps:longitude":121.544637,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Yanqiao Xiang"
-    ],
-    "name:unk_x_variant":[
         "Yanqiao Xiang"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726067,
-        "qs:id":899066,
         "qs_pg:id":899066
     },
     "wof:country":"CN",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269193,
+    "wof:lastmodified":1566665030,
     "wof:name":"Yanqiao Xiang",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

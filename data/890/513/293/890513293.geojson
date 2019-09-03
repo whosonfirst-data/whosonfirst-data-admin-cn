@@ -11,10 +11,14 @@
     "geom:longitude":118.56713,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":2640,
+    "gn:population":2640,
     "iso:country":"CN",
+    "lbl:bbox":"118.54713,26.88863,118.58713,26.92863",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Yushan"
     ],
@@ -30,7 +34,7 @@
     "name:nor_x_preferred":[
         "Yushan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Y\u00fc-shan-chieh"
     ],
     "qs:name":"Yushan",
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":1785625,
         "gp:id":2140225,
-        "qs:id":136249,
+        "qs_pg:id":136249,
         "wk:page":"Yushan"
     },
     "wof:country":"CN",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":890513293,
-    "wof:lastmodified":1564249855,
+    "wof:lastmodified":1566693709,
     "wof:name":"Yushan",
     "wof:parent_id":890516651,
     "wof:placetype":"locality",

@@ -26,6 +26,7 @@
     ],
     "lbl:latitude":30.996329,
     "lbl:longitude":112.534671,
+    "lbl:min_zoom":8.0,
     "meso:name_alt":"\u6e56\u5317",
     "meso:name_loc":"\u6e56\u5317\u7701",
     "mps:latitude":31.004267,
@@ -304,10 +305,6 @@
         "\u0425\u0443\u0431\u0435\u0439"
     ],
     "name:und_x_variant":[
-        "\u6e56\u5317",
-        "\u6e56\u5317\u7701"
-    ],
-    "name:unk_x_variant":[
         "Hu-pei Sheng"
     ],
     "name:urd_x_preferred":[
@@ -423,9 +420,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"185,673",
     "statoids:area_mi":"71,689",
     "statoids:as_of_date":"2010-11-01",
@@ -454,7 +451,7 @@
         "hasc:id":"CN.HU",
         "iso:id":"CN-HB",
         "loc:id":"n81018205",
-        "qs:id":372232,
+        "qs_pg:id":372232,
         "unlc:id":"CN-42",
         "wd:id":"Q46862",
         "wk:page":"Hubei"
@@ -481,11 +478,10 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1565664524,
+    "wof:lastmodified":1566665062,
     "wof:name":"Hubei",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":57237740,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-cn",

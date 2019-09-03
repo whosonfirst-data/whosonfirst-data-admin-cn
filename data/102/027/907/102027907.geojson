@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":46.7248,
     "lbl:longitude":122.91504,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.7248,
     "mps:longitude":122.91504,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Inder"
     ],
@@ -28,7 +31,7 @@
     "name:swe_x_preferred":[
         "Inder"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yin-te-erh"
     ],
     "name:zho_x_preferred":[
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
         85669847,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":2036602,
         "gp:id":2149793,
-        "qs:id":137771,
         "qs_pg:id":137771
     },
     "wof:country":"CN",
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":102027907,
-    "wof:lastmodified":1564178895,
+    "wof:lastmodified":1566655621,
     "wof:name":"Inder",
     "wof:parent_id":1108732367,
     "wof:placetype":"locality",

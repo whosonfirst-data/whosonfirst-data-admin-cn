@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"118.54417,24.68083,118.58417,24.72083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yonghe"
     ],
@@ -37,8 +41,7 @@
     ],
     "name:und_x_variant":[
         "Chuang-chai",
-        "Zhuangzhai",
-        "Yonghe"
+        "Zhuangzhai"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1243545857,
-    "wof:lastmodified":1564250667,
+    "wof:lastmodified":1566694017,
     "wof:name":"Yonghe",
     "wof:parent_id":890514127,
     "wof:placetype":"locality",

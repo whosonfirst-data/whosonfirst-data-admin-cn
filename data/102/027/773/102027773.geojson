@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":24.721885,
     "lbl:longitude":118.471069,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.721885,
     "mps:longitude":118.471069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Anhai"
     ],
@@ -34,7 +37,7 @@
     "name:swe_x_preferred":[
         "Anhai"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Anhai Zhen"
     ],
     "name:wuu_x_preferred":[
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":254,
     "wof:belongsto":[
         85669735,
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":1818070,
         "gp:id":2139976,
-        "qs:id":136961,
         "qs_pg:id":136961,
         "wd:id":"Q4764330",
         "wk:page":"Anhai"
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":102027773,
-    "wof:lastmodified":1563393359,
+    "wof:lastmodified":1566655712,
     "wof:name":"Anhai",
     "wof:parent_id":890514127,
     "wof:placetype":"locality",

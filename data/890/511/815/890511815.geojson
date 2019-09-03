@@ -11,14 +11,18 @@
     "geom:longitude":119.51806,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":66000,
+    "gn:population":66000,
     "iso:country":"CN",
+    "lbl:bbox":"119.49806,39.80222,119.53806,39.84222",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:rus_x_preferred":[
         "\u0411\u0435\u0439\u0434\u0430\u0439\u0445\u044d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pei-tai-ho Hai-pin"
     ],
     "qs:name":"Beidaihehaibin",
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1816753,
         "gp:id":2171329,
-        "qs:id":564037
+        "qs_pg:id":564037
     },
     "wof:country":"CN",
     "wof:created":1469055746,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890511815,
-    "wof:lastmodified":1505343884,
+    "wof:lastmodified":1566693650,
     "wof:name":"Beidaihehaibin",
     "wof:parent_id":890513075,
     "wof:placetype":"locality",

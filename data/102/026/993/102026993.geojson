@@ -15,6 +15,8 @@
     "iso:country":"CN",
     "lbl:latitude":35.308401,
     "lbl:longitude":113.922729,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":35.308401,
     "mps:longitude":113.922729,
     "mz:hierarchy_label":1,
@@ -179,7 +181,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043d\u044c\u0441\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sinsiang-hsien"
     ],
     "name:urd_x_preferred":[
@@ -318,7 +320,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":713,
     "wof:belongsto":[
@@ -332,7 +334,7 @@
     "wof:concordances":{
         "gn:id":1788572,
         "gp:id":12685966,
-        "qs:id":136313,
+        "qs_pg:id":136313,
         "wd:id":"Q404362",
         "wk:page":"Xinxiang"
     },
@@ -349,7 +351,7 @@
         }
     ],
     "wof:id":102026993,
-    "wof:lastmodified":1563393450,
+    "wof:lastmodified":1566655746,
     "wof:megacity":1,
     "wof:name":"Xinxiang",
     "wof:parent_id":890515625,

@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":35.421407,
     "lbl:longitude":119.52559,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.421407,
     "mps:longitude":119.52559,
     "mz:hierarchy_label":1,
@@ -168,9 +170,6 @@
     "name:ukr_x_preferred":[
         "\u0416\u0438\u0447\u0436\u0430\u043e"
     ],
-    "name:unk_x_variant":[
-        "Jih-chao"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0698\u0627\u0648"
     ],
@@ -309,7 +308,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1098,
     "wof:belongsto":[
@@ -324,7 +323,7 @@
         "fct:id":"06b93ae0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1797132,
         "gp:id":12687118,
-        "qs:id":1109400,
+        "qs_pg:id":1109400,
         "wd:id":"Q373101"
     },
     "wof:country":"CN",
@@ -343,7 +342,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393197,
+    "wof:lastmodified":1566655659,
     "wof:name":"Rizhao",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",

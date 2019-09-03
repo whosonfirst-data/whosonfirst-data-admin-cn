@@ -11,10 +11,14 @@
     "geom:longitude":115.35814,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"115.33814,30.88903,115.37814,30.92903",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0646\u063a\u0647\u0648"
     ],
@@ -48,7 +52,7 @@
     "name:tgl_x_preferred":[
         "Pinghu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u5e73\u6e56"
     ],
     "name:urd_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":1798790,
         "gp:id":12686284,
-        "qs:id":1027577,
+        "qs_pg:id":1027577,
         "wk:page":"Pinghu"
     },
     "wof:country":"CN",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":890512673,
-    "wof:lastmodified":1564249922,
+    "wof:lastmodified":1566693739,
     "wof:name":"Pinghu",
     "wof:parent_id":890514791,
     "wof:placetype":"locality",

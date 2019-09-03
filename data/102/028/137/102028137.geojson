@@ -14,10 +14,13 @@
     "iso:country":"CN",
     "lbl:latitude":35.572449,
     "lbl:longitude":118.67981,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.572449,
     "mps:longitude":118.67981,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yinan"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":21,
     "wof:belongsto":[
         85669813,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102028137,
-    "wof:lastmodified":1564178932,
+    "wof:lastmodified":1566655728,
     "wof:name":"Yinan",
     "wof:parent_id":1108732339,
     "wof:placetype":"locality",

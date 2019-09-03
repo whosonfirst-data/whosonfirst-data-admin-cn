@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000321,
-    "geom:area_square_m":3122063.768016,
+    "geom:area_square_m":3122063.768004,
     "geom:bbox":"117.492868191,38.0866472173,117.515676703,38.1046720236",
     "geom:latitude":38.09566,
     "geom:longitude":117.504272,
@@ -14,10 +14,13 @@
     "iso:country":"CN",
     "lbl:latitude":38.095659,
     "lbl:longitude":117.504272,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.095659,
     "mps:longitude":117.504272,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u6d77\u5174"
     ],
@@ -33,7 +36,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669797,
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102028061,
-    "wof:lastmodified":1501273244,
+    "wof:lastmodified":1566655732,
     "wof:name":"Haixing",
     "wof:parent_id":890513789,
     "wof:placetype":"locality",

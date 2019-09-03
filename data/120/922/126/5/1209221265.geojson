@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"115.16611,27.24944,115.20611,27.28944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -34,7 +38,7 @@
         "gn:id":1924748
     },
     "wof:country":"CN",
-    "wof:geomhash":"4b5ac0970e671fbb313ed342541713c4",
+    "wof:geomhash":"46578ae7a9b48010dadce90402d71532",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209221265,
-    "wof:lastmodified":1536293954,
+    "wof:lastmodified":1566681404,
     "wof:name":"Dianshitai",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     115.18611,
-    27.269440000000003,
+    27.26944,
     115.18611,
-    27.269440000000003
+    27.26944
 ],
   "geometry": {"coordinates":[115.18611,27.26944],"type":"Point"}
 }

@@ -11,7 +11,7 @@
     "geom:longitude":101.730386,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
         "Panzhihua City"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":26.831319,
     "lbl:longitude":101.767907,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u56db\u5ddd\u7701",
     "meso:dissme":"\u6500\u679d\u82b1\u5e02\u56db\u5ddd\u7701",
     "meso:gadm_adm2":"Panzhihua",
@@ -45,6 +47,7 @@
     "mps:longitude":101.767907,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u062a\u0634\u064a\u0647\u0648\u0627"
     ],
@@ -123,7 +126,7 @@
     "name:tur_x_preferred":[
         "Panzhihua"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tu-k\u2019ou Shih"
     ],
     "name:urd_x_preferred":[
@@ -149,9 +152,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"7440",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Panzhihua Shi",
@@ -172,7 +175,7 @@
     "wof:concordances":{
         "gn:id":1798997,
         "hasc:id":"CN.SC.PZ",
-        "qs:id":1031537
+        "qs_pg:id":1031537
     },
     "wof:country":"CN",
     "wof:created":1469055856,
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":890514321,
-    "wof:lastmodified":1564249822,
+    "wof:lastmodified":1566693695,
     "wof:name":"Panzhihua",
     "wof:parent_id":85669787,
     "wof:placetype":"county",

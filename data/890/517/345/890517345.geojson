@@ -11,11 +11,14 @@
     "geom:longitude":110.41667,
     "gn:country":"CN",
     "gn:fcode":"ISL",
-    "gn:pop":200000,
+    "gn:population":200000,
     "iso:country":"CN",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Donghai Dao"
     ],
@@ -34,7 +37,7 @@
     "name:swe_x_preferred":[
         "Donghai Dao"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tung-hai Tao"
     ],
     "name:zho_x_preferred":[
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":1812517,
         "gp:id":2162354,
-        "qs:id":563449,
+        "qs_pg:id":563449,
         "wd:id":"Q5287406",
         "wk:page":"Donghai Island"
     },
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":890517345,
-    "wof:lastmodified":1563459167,
+    "wof:lastmodified":1566693594,
     "wof:name":"Donghai Dao",
     "wof:parent_id":890514753,
     "wof:placetype":"locality",

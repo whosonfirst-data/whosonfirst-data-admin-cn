@@ -11,10 +11,14 @@
     "geom:longitude":109.22944,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":1164,
+    "gn:population":1164,
     "iso:country":"CN",
+    "lbl:bbox":"109.20944,26.40528,109.24944,26.44528",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "Ou-jang"
     ],
@@ -48,7 +52,7 @@
     "name:spa_x_preferred":[
         "Ouyang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hsin-hua-so"
     ],
     "name:vie_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":1950020,
         "gp:id":2147006,
-        "qs:id":137297,
+        "qs_pg:id":137297,
         "wd:id":"Q1927285",
         "wk:page":"Ouyang"
     },
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":890516137,
-    "wof:lastmodified":1563459267,
+    "wof:lastmodified":1566693626,
     "wof:name":"Ouyang",
     "wof:parent_id":1108794067,
     "wof:placetype":"locality",

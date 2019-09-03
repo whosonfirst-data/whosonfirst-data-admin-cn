@@ -25,6 +25,7 @@
     ],
     "lbl:latitude":30.738864,
     "lbl:longitude":102.695767,
+    "lbl:min_zoom":8.0,
     "meso:name_alt":"\u56db\u5ddd",
     "meso:name_loc":"\u56db\u5ddd\u7701",
     "mps:latitude":30.73746,
@@ -352,10 +353,6 @@
         "\u0421\u0438\u0447\u0443\u0430\u043d\u044c"
     ],
     "name:und_x_variant":[
-        "\u56db\u5ddd",
-        "\u56db\u5ddd\u7701"
-    ],
-    "name:unk_x_variant":[
         "S\u00fcchwan"
     ],
     "name:urd_x_preferred":[
@@ -471,9 +468,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"491,146",
     "statoids:area_mi":"189,633",
     "statoids:as_of_date":"2010-11-01",
@@ -504,7 +501,7 @@
         "iso:id":"CN-SC",
         "loc:id":"n81020323",
         "nyt:id":"N2943438798431491821",
-        "qs:id":189445,
+        "qs_pg:id":189445,
         "unlc:id":"CN-51",
         "wd:id":"Q19770",
         "wk:page":"Sichuan"
@@ -531,11 +528,10 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1565664514,
+    "wof:lastmodified":1566665044,
     "wof:name":"Sichuan",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":80418200,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-cn",

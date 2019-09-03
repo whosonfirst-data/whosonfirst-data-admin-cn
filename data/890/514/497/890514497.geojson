@@ -11,12 +11,15 @@
     "geom:longitude":113.41379,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"113.40879,23.32931,113.41879,23.33931",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "Dalongkou"
     ],
     "name:zho_x_preferred":[
@@ -45,7 +48,7 @@
     "wof:concordances":{
         "gn:id":7504502,
         "gp:id":22724609,
-        "qs:id":401029
+        "qs_pg:id":401029
     },
     "wof:country":"CN",
     "wof:created":1469055863,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890514497,
-    "wof:lastmodified":1505343897,
+    "wof:lastmodified":1566693667,
     "wof:name":"Dayongkou",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

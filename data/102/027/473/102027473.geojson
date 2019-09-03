@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":35.232159,
     "lbl:longitude":113.219604,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":35.232159,
     "mps:longitude":113.219604,
     "mz:hierarchy_label":1,
@@ -171,7 +173,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0437\u044f\u043e\u0446\u0437\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chiao-tso-shih"
     ],
     "name:urd_x_preferred":[
@@ -304,7 +306,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":570,
     "wof:belongsto":[
@@ -318,7 +320,6 @@
     "wof:concordances":{
         "gn:id":1805987,
         "gp:id":2172741,
-        "qs:id":1033214,
         "qs_pg:id":1033214,
         "wd:id":"Q404429",
         "wk:page":"Jiaozuo"
@@ -336,7 +337,7 @@
         }
     ],
     "wof:id":102027473,
-    "wof:lastmodified":1563393302,
+    "wof:lastmodified":1566655692,
     "wof:megacity":1,
     "wof:name":"Jiaozuo",
     "wof:parent_id":890515835,

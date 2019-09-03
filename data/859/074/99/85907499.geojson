@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002993,
-    "geom:area_square_m":31653380.609686,
+    "geom:area_square_m":31653380.609706,
     "geom:bbox":"121.331247559,31.1780557628,121.412658691,31.2533336293",
     "geom:latitude":31.212581,
     "geom:longitude":121.374995,
     "iso:country":"CN",
     "lbl:latitude":31.210467,
     "lbl:longitude":121.392193,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.208896,
     "mps:longitude":121.382388,
     "mz:hierarchy_label":1,
@@ -24,9 +25,6 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Zhoujiaqiaq"
-    ],
-    "name:unk_x_variant":[
         "Zhoujiaqiaq"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -85,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269171,
+    "wof:lastmodified":1566665028,
     "wof:name":"Zhoujiaqiaq",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

@@ -11,7 +11,7 @@
     "geom:longitude":111.950727,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":28.376327,
     "lbl:longitude":111.782721,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6e56\u5357\u7701",
     "meso:dissme":"\u76ca\u9633\u5e02\u6e56\u5357\u7701",
     "meso:gadm_adm2":"Yiyang",
@@ -46,6 +48,7 @@
     "mps:longitude":111.782721,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Yiyang"
     ],
@@ -139,7 +142,7 @@
     "name:ukr_x_preferred":[
         "\u0407\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "I-yang Chuan-ch\u2019\u00fc"
     ],
     "name:urd_x_preferred":[
@@ -172,9 +175,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"12398",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Yiyang Shi",
@@ -196,7 +199,7 @@
         "gn:id":1786419,
         "gp:id":26198208,
         "hasc:id":"CN.HN.YI",
-        "qs:id":212443
+        "qs_pg:id":212443
     },
     "wof:country":"CN",
     "wof:created":1469055960,
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":890516477,
-    "wof:lastmodified":1564249629,
+    "wof:lastmodified":1566693605,
     "wof:name":"Yiyang",
     "wof:parent_id":85669781,
     "wof:placetype":"county",

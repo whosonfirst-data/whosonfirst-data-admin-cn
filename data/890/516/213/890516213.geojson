@@ -11,9 +11,12 @@
     "geom:longitude":112.9,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":674189,
+    "gn:population":674189,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"112.88,27.83,112.92,27.87",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -182,7 +185,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u044f\u043d\u0442\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Siangtan"
     ],
     "name:urd_x_preferred":[
@@ -318,7 +321,7 @@
     "wof:concordances":{
         "gn:id":1790492,
         "gp:id":2142701,
-        "qs:id":277505,
+        "qs_pg:id":277505,
         "wd:id":"Q215755"
     },
     "wof:country":"CN",
@@ -335,7 +338,7 @@
         }
     ],
     "wof:id":890516213,
-    "wof:lastmodified":1563459289,
+    "wof:lastmodified":1566693632,
     "wof:name":"\u6e58\u6f6d",
     "wof:parent_id":1108732467,
     "wof:placetype":"locality",

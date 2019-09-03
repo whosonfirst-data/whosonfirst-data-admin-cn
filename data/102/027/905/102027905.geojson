@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":46.796299,
     "lbl:longitude":130.314331,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":46.796299,
     "mps:longitude":130.314331,
     "mz:hierarchy_label":1,
@@ -198,7 +200,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0437\u044f\u043c\u0443\u0441\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ch\u2019a-mu-ssu"
     ],
     "name:urd_x_preferred":[
@@ -339,7 +341,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1571,
     "wof:belongsto":[
@@ -354,7 +356,6 @@
         "fct:id":"06b4bc86-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2036581,
         "gp:id":2141175,
-        "qs:id":274133,
         "qs_pg:id":274133,
         "wd:id":"Q29003",
         "wk:page":"Jiamusi"
@@ -375,7 +376,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393266,
+    "wof:lastmodified":1566655681,
     "wof:megacity":1,
     "wof:name":"Jiamusi",
     "wof:parent_id":890514505,

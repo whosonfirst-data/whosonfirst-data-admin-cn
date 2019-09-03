@@ -11,7 +11,7 @@
     "geom:longitude":114.150103,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":32.954408,
     "lbl:longitude":114.23765,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6cb3\u5357\u7701",
     "meso:dissme":"\u9a7b\u9a6c\u5e97\u5e02\u6cb3\u5357\u7701",
     "meso:gadm_adm2":"Zhumadian",
@@ -46,6 +48,7 @@
     "mps:longitude":114.23765,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Zhumadian"
     ],
@@ -133,7 +136,7 @@
     "name:tur_x_preferred":[
         "Zhumadian"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chu-ma-tien Ti-ch\u2019\u00fc"
     ],
     "name:urd_x_preferred":[
@@ -166,9 +169,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"14676",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Zhumadian Shi",
@@ -190,7 +193,7 @@
         "gn:id":1783872,
         "gp:id":26198101,
         "hasc:id":"CN.HE.ZM",
-        "qs:id":985555
+        "qs_pg:id":985555
     },
     "wof:country":"CN",
     "wof:created":1469055879,
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":890514843,
-    "wof:lastmodified":1564249758,
+    "wof:lastmodified":1566693664,
     "wof:name":"Zhumadian",
     "wof:parent_id":85669801,
     "wof:placetype":"county",

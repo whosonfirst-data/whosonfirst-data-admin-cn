@@ -11,7 +11,7 @@
     "geom:longitude":108.558155,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
         "Qiandongnan Autonomous Prefecture"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":26.536036,
     "lbl:longitude":108.557626,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u8d35\u5dde\u7701",
     "meso:dissme":"\u9ed4\u4e1c\u5357\u82d7\u65cf\u4f97\u65cf\u8d35\u5dde\u7701",
     "meso:gadm_adm2":"Qiandongnan Miao and Dong",
@@ -45,13 +47,14 @@
     "mps:longitude":108.557626,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Qiandongnan Miaozu Dongzu"
     ],
     "name:pny_x_preferred":[
         "Qi\u00e1nd\u014dngn\u00e1n Mi\u00e1oz\u00fa D\u00f2ngz\u00fa Z\u00eczh\u00eczh\u014du"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Southeast Kweichow Miao-T\u2019ung Autonomous District"
     ],
     "name:wuu_x_preferred":[
@@ -72,9 +75,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"30322",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Kaili Shi",
@@ -95,7 +98,7 @@
     "wof:concordances":{
         "gn:id":1798360,
         "hasc:id":"CN.GZ.QD",
-        "qs:id":372154
+        "qs_pg:id":372154
     },
     "wof:country":"CN",
     "wof:created":1469055840,
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1108794067,
-    "wof:lastmodified":1554759635,
+    "wof:lastmodified":1566688016,
     "wof:name":"Qiandongnan",
     "wof:parent_id":85669781,
     "wof:placetype":"county",

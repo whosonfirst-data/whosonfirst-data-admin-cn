@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":24.257713,
     "lbl:longitude":106.426965,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5e7f\u897f\u7701",
     "meso:dissme":"\u767e\u8272\u5e02\u5e7f\u897f\u7701",
     "meso:gadm_adm2":"Baise",
@@ -43,6 +45,7 @@
     "mps:longitude":106.426965,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u0633"
     ],
@@ -127,9 +130,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0439\u0441\u0435"
     ],
-    "name:und_x_variant":[
-        "\u767e\u8272\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0626\u0633\u06cc"
     ],
@@ -159,9 +159,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"36201",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Baise Shi",
@@ -182,7 +182,7 @@
     "wof:concordances":{
         "gp:id":26198177,
         "hasc:id":"CN.GX.BS",
-        "qs:id":212458
+        "qs_pg:id":212458
     },
     "wof:country":"CN",
     "wof:created":1469055960,
@@ -197,7 +197,7 @@
         }
     ],
     "wof:id":890516485,
-    "wof:lastmodified":1564249623,
+    "wof:lastmodified":1566693602,
     "wof:name":"Baise",
     "wof:parent_id":85669717,
     "wof:placetype":"county",

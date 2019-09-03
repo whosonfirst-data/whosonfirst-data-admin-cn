@@ -11,7 +11,7 @@
     "geom:longitude":116.025913,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":28.632406,
     "lbl:longitude":116.015257,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6c5f\u897f\u7701",
     "meso:dissme":"\u5357\u660c\u5e02\u6c5f\u897f\u7701",
     "meso:gadm_adm2":"Nanchang",
@@ -46,6 +48,7 @@
     "mps:longitude":116.015257,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Nanchang"
     ],
@@ -244,7 +247,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043d\u044c\u0447\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nan-ch\u2019ang Shih"
     ],
     "name:urd_x_preferred":[
@@ -283,9 +286,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"7442",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Nanchang Shi",
@@ -307,7 +310,7 @@
         "gn:id":1800160,
         "gp:id":26198151,
         "hasc:id":"CN.JX.NC",
-        "qs:id":212440
+        "qs_pg:id":212440
     },
     "wof:country":"CN",
     "wof:created":1469055960,
@@ -322,7 +325,7 @@
         }
     ],
     "wof:id":890516469,
-    "wof:lastmodified":1564249683,
+    "wof:lastmodified":1566693633,
     "wof:name":"Nanchang",
     "wof:parent_id":85669823,
     "wof:placetype":"county",

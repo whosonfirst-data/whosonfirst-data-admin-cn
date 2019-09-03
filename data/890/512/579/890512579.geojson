@@ -11,10 +11,14 @@
     "geom:longitude":124.83788,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"124.73788,45.51143,124.93788,45.71143",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Zhaoyuan Xian"
     ],
@@ -54,7 +58,7 @@
     "name:swe_x_preferred":[
         "Zhaoyuan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chao-y\u00fcan Hsien"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +92,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2033148,
-        "qs:id":372706,
+        "qs_pg:id":372706,
         "wd:id":"Q197522",
         "wk:page":"Zhaoyuan County"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":890512579,
-    "wof:lastmodified":1563459799,
+    "wof:lastmodified":1566693760,
     "wof:name":"Zhaoyuan Xian",
     "wof:parent_id":890513007,
     "wof:placetype":"localadmin",

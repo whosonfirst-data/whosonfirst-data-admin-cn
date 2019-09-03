@@ -11,10 +11,14 @@
     "geom:longitude":121.18552,
     "gn:country":"CN",
     "gn:fcode":"PPLA3",
-    "gn:pop":73317,
+    "gn:population":73317,
     "iso:country":"CN",
+    "lbl:bbox":"121.16552,32.29737,121.20552,32.33737",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0631\u0648\u062f\u0648\u0646\u063a"
     ],
@@ -111,7 +115,7 @@
     "name:ukr_x_preferred":[
         "\u0416\u0443\u0434\u0443\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rudong Xian"
     ],
     "name:urd_x_preferred":[
@@ -146,7 +150,7 @@
     "wof:concordances":{
         "gn:id":1804979,
         "gp:id":2135220,
-        "qs:id":1243467,
+        "qs_pg:id":1243467,
         "wd:id":"Q610558",
         "wk:page":"Rudong County"
     },
@@ -164,7 +168,7 @@
         }
     ],
     "wof:id":890511881,
-    "wof:lastmodified":1563459336,
+    "wof:lastmodified":1566693645,
     "wof:name":"Juegang",
     "wof:parent_id":890515155,
     "wof:placetype":"locality",

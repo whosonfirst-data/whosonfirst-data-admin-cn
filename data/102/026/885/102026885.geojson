@@ -15,10 +15,13 @@
     "iso:country":"CN",
     "lbl:latitude":31.114091,
     "lbl:longitude":120.844116,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":31.114091,
     "mps:longitude":120.844116,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:cat_x_preferred":[
         "Zhouzhuang"
     ],
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0436\u043e\u0443\u0447\u0436\u0443\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chou-chuang-chen"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":962,
     "wof:belongsto":[
@@ -113,7 +116,6 @@
     "wof:concordances":{
         "gn:id":1784074,
         "gp:id":2137047,
-        "qs:id":371910,
         "qs_pg:id":371910,
         "wd:id":"Q61948",
         "wk:page":"Zhouzhuang"
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":102026885,
-    "wof:lastmodified":1563393461,
+    "wof:lastmodified":1566655750,
     "wof:name":"Zhouzhuang",
     "wof:parent_id":890515879,
     "wof:placetype":"locality",

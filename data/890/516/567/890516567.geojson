@@ -11,7 +11,7 @@
     "geom:longitude":103.824816,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":30.717055,
     "lbl:longitude":103.810709,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u56db\u5ddd\u7701",
     "meso:dissme":"\u6210\u90fd\u5e02\u56db\u5ddd\u7701",
     "meso:gadm_adm2":"Chengdu",
@@ -46,6 +48,7 @@
     "mps:longitude":103.810709,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Chengu"
     ],
@@ -64,7 +67,7 @@
     "name:swe_x_preferred":[
         "Chengu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ch\u2019eng-tu Shih"
     ],
     "name:wuu_x_preferred":[
@@ -93,9 +96,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"12346",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Chengdu Shi",
@@ -117,7 +120,7 @@
         "gn:id":1815285,
         "gp:id":26198200,
         "hasc:id":"CN.SC.CD",
-        "qs:id":219969,
+        "qs_pg:id":219969,
         "wd:id":"Q13818660"
     },
     "wof:country":"CN",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":890516567,
-    "wof:lastmodified":1563459174,
+    "wof:lastmodified":1566693596,
     "wof:name":"Chengdu",
     "wof:parent_id":85669787,
     "wof:placetype":"county",

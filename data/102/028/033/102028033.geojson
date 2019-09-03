@@ -14,10 +14,13 @@
     "iso:country":"CN",
     "lbl:latitude":28.405896,
     "lbl:longitude":118.053589,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":28.405896,
     "mps:longitude":118.053589,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Jiangxi"
     ],
@@ -228,9 +231,6 @@
     "name:ukr_x_preferred":[
         "\u0426\u0437\u044f\u043d\u0441\u0456"
     ],
-    "name:unk_x_variant":[
-        "\u5c06\u6eaa"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u06cc\u0627\u0646\u06af\u0634\u06cc"
     ],
@@ -270,7 +270,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669823,
         102191569,
@@ -296,7 +296,7 @@
         }
     ],
     "wof:id":102028033,
-    "wof:lastmodified":1564178937,
+    "wof:lastmodified":1566655732,
     "wof:name":"Jiangxi",
     "wof:parent_id":890515869,
     "wof:placetype":"locality",

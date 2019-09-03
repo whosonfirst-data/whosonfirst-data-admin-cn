@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":28.012744,
     "lbl:longitude":120.680436,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":28.012744,
     "mps:longitude":120.680436,
     "mz:hierarchy_label":1,
@@ -226,7 +228,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043d\u044c\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yung-chia"
     ],
     "name:urd_x_preferred":[
@@ -370,7 +372,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":9859,
     "wof:belongsto":[
@@ -384,7 +386,6 @@
     "wof:concordances":{
         "gn:id":1791388,
         "gp:id":2132582,
-        "qs:id":8528,
         "qs_pg:id":8528,
         "wd:id":"Q42635",
         "wk:page":"Wenzhou"
@@ -402,7 +403,7 @@
         }
     ],
     "wof:id":102027067,
-    "wof:lastmodified":1563393341,
+    "wof:lastmodified":1566655704,
     "wof:megacity":1,
     "wof:name":"Wenzhou",
     "wof:parent_id":890514289,

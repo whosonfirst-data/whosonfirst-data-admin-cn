@@ -25,6 +25,7 @@
     ],
     "lbl:latitude":37.586939,
     "lbl:longitude":112.248176,
+    "lbl:min_zoom":8.0,
     "meso:name_alt":"\u5c71\u897f",
     "meso:name_loc":"\u5c71\u897f\u7701",
     "mps:latitude":37.582869,
@@ -314,13 +315,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043d\u044c\u0441\u0456"
     ],
-    "name:und_x_variant":[
-        "\u5c71\u897f",
-        "\u5c71\u897f\u7701"
-    ],
-    "name:unk_x_variant":[
-        "Shanxi Sheng"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u0646\u0633\u06cc"
     ],
@@ -431,9 +425,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"149,708",
     "statoids:area_mi":"57,803",
     "statoids:as_of_date":"2010-11-01",
@@ -461,7 +455,7 @@
         "hasc:id":"CN.SX",
         "iso:id":"CN-SX",
         "loc:id":"n80131727",
-        "qs:id":422887,
+        "qs_pg:id":422887,
         "unlc:id":"CN-14",
         "wd:id":"Q46913",
         "wk:page":"Shanxi"
@@ -488,11 +482,10 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1565664514,
+    "wof:lastmodified":1566665044,
     "wof:name":"Shanxi",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":35712111,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-cn",

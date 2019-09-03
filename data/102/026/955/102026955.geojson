@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000957,
-    "geom:area_square_m":10863736.774284,
+    "geom:area_square_m":10863736.774285,
     "geom:bbox":"102.827757226,23.2070798876,103.388381153,23.3765005819",
     "geom:latitude":23.294542,
     "geom:longitude":103.116409,
@@ -14,11 +14,14 @@
     "iso:country":"CN",
     "lbl:latitude":23.362749,
     "lbl:longitude":103.375853,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":23.362749,
     "mps:longitude":103.375853,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Hung-ho"
     ],
     "qs:a1":"*",
@@ -35,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669791,
         102191569,
@@ -47,7 +50,6 @@
     "wof:concordances":{
         "gn:id":1786467,
         "gp:id":2160713,
-        "qs:id":136268,
         "qs_pg:id":136268
     },
     "wof:country":"CN",
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":102026955,
-    "wof:lastmodified":1497295042,
+    "wof:lastmodified":1566655737,
     "wof:name":"Yisa",
     "wof:parent_id":1108794063,
     "wof:placetype":"locality",

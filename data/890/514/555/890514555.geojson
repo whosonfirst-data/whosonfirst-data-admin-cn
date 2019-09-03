@@ -11,7 +11,7 @@
     "geom:longitude":99.673874,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":23.767483,
     "lbl:longitude":99.673915,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u4e91\u5357\u7701",
     "meso:dissme":"\u4e34\u6ca7\u5e02\u4e91\u5357\u7701",
     "meso:gadm_adm2":"Lincang",
@@ -46,6 +48,7 @@
     "mps:longitude":99.673915,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0646\u0643\u0627\u0646\u063a"
     ],
@@ -124,7 +127,7 @@
     "name:tur_x_preferred":[
         "Lincang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lin-ts\u2019ang Ti-ch\u2019\u00fc"
     ],
     "name:urd_x_preferred":[
@@ -154,9 +157,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"24469",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Fengxiang Zhen",
@@ -178,7 +181,7 @@
         "gn:id":1803589,
         "gp:id":26198322,
         "hasc:id":"CN.YN.LC",
-        "qs:id":31874
+        "qs_pg:id":31874
     },
     "wof:country":"CN",
     "wof:created":1469055865,
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":890514555,
-    "wof:lastmodified":1564249783,
+    "wof:lastmodified":1566693678,
     "wof:name":"Lincang",
     "wof:parent_id":85669791,
     "wof:placetype":"county",

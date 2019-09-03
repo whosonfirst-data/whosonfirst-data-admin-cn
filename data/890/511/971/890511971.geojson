@@ -11,10 +11,14 @@
     "geom:longitude":115.88833,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":3922,
+    "gn:population":3922,
     "iso:country":"CN",
+    "lbl:bbox":"115.86833,37.12278,115.90833,37.16278",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Laocheng"
     ],
@@ -33,7 +37,7 @@
     "name:swe_x_preferred":[
         "Laocheng"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wucheng"
     ],
     "name:urd_x_preferred":[
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":1791341,
         "gp:id":2168566,
-        "qs:id":560091,
+        "qs_pg:id":560091,
         "wk:page":"Laocheng District"
     },
     "wof:country":"CN",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":890511971,
-    "wof:lastmodified":1564249718,
+    "wof:lastmodified":1566693648,
     "wof:name":"Laocheng",
     "wof:parent_id":890516549,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"118.37337,26.79115,118.41337,26.83115",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Xinjiang"
     ],
@@ -256,9 +260,6 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e1b\u0e01\u0e04\u0e23\u0e2d\u0e07\u0e15\u0e19\u0e40\u0e2d\u0e07\u0e0b\u0e34\u0e19\u0e40\u0e08\u0e35\u0e22\u0e07\u0e2d\u0e38\u0e22\u0e01\u0e39\u0e23\u0e4c"
     ],
-    "name:und_x_variant":[
-        "\u65b0\u6d46"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0646\u06a9\u06cc\u0627\u0646\u06af"
     ],
@@ -308,7 +309,7 @@
         }
     ],
     "wof:id":1360205699,
-    "wof:lastmodified":1564244016,
+    "wof:lastmodified":1566691654,
     "wof:name":"Xinjiang",
     "wof:parent_id":890516651,
     "wof:placetype":"locality",

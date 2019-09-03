@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":25.308967,
     "lbl:longitude":105.464146,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u8d35\u5dde\u7701",
     "meso:dissme":"\u9ed4\u897f\u5357\u5e03\u4f9d\u65cf\u82d7\u65cf\u8d35\u5dde\u7701",
     "meso:gadm_adm2":"Qianxinan Buyei and Miao",
@@ -42,19 +44,17 @@
     "mps:longitude":105.464146,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Qianxi'nan Buyizu Miaozu"
-    ],
-    "name:und_x_variant":[
-        "\u9ed4\u897f\u5357\u5e03\u4f9d\u65cf\u82d7\u65cf"
     ],
     "name:zho_x_preferred":[
         "\u9ed4\u897f\u5357\u5e03\u4f9d\u65cf\u82d7\u65cf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"16805",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Xingyi Shi",
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1108732559,
-    "wof:lastmodified":1554759577,
+    "wof:lastmodified":1566688013,
     "wof:name":"Qianxinan",
     "wof:parent_id":85669721,
     "wof:placetype":"county",

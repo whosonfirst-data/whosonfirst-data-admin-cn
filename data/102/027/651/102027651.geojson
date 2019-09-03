@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000967,
-    "geom:area_square_m":10012312.835297,
+    "geom:area_square_m":10012312.835304,
     "geom:bbox":"120.701553407,32.9766140515,120.82185253,33.2614824672",
     "geom:latitude":33.16533,
     "geom:longitude":120.745734,
@@ -13,11 +13,14 @@
     "iso:country":"CN",
     "lbl:latitude":33.245651,
     "lbl:longitude":120.714574,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":33.245651,
     "mps:longitude":120.714574,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Dafeng"
     ],
     "qs:a1":"*",
@@ -34,7 +37,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569
@@ -43,7 +46,6 @@
     "wof:concordances":{
         "gn:id":1813088,
         "gp:id":12685556,
-        "qs:id":1243491,
         "qs_pg:id":1243491
     },
     "wof:country":"CN",
@@ -57,7 +59,7 @@
         }
     ],
     "wof:id":102027651,
-    "wof:lastmodified":1507590348,
+    "wof:lastmodified":1566655650,
     "wof:name":"Dazhong",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

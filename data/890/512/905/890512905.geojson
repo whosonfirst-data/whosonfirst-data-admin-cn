@@ -11,8 +11,11 @@
     "geom:longitude":125.36667,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":66147,
+    "gn:population":66147,
     "iso:country":"CN",
+    "lbl:bbox":"125.34667,41.24472,125.38667,41.28472",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -28,7 +31,7 @@
     "name:jpn_x_preferred":[
         "\u6853\u4ec1\u93ae"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chiu-huai-jen"
     ],
     "name:wuu_x_preferred":[
@@ -146,7 +149,7 @@
     "wof:concordances":{
         "gn:id":2036713,
         "gp:id":2148013,
-        "qs:id":274135,
+        "qs_pg:id":274135,
         "wd:id":"Q5926085",
         "wk:page":"Huanren"
     },
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":890512905,
-    "wof:lastmodified":1563459751,
+    "wof:lastmodified":1566693750,
     "wof:name":"Huanren",
     "wof:parent_id":890513783,
     "wof:placetype":"locality",

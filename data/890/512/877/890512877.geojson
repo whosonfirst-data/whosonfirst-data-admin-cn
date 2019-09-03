@@ -11,10 +11,14 @@
     "geom:longitude":119.51361,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":3360,
+    "gn:population":3360,
     "iso:country":"CN",
+    "lbl:bbox":"119.49361,26.21306,119.53361,26.25306",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Donghu"
     ],
@@ -24,7 +28,7 @@
     "name:fra_x_preferred":[
         "Donghu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tung-hu"
     ],
     "name:zho_x_preferred":[
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":1941830,
         "gp:id":20251346,
-        "qs:id":1033432,
+        "qs_pg:id":1033432,
         "wk:page":"Donghu"
     },
     "wof:country":"CN",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":890512877,
-    "wof:lastmodified":1564249951,
+    "wof:lastmodified":1566693751,
     "wof:name":"Donghu",
     "wof:parent_id":890516575,
     "wof:placetype":"locality",

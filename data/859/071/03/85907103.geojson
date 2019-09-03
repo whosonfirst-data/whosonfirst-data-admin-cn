@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11222795.820232,
+    "geom:area_square_m":0.0,
     "geom:bbox":"113.284484,23.140576,113.284484,23.140576",
     "geom:latitude":23.140576,
     "geom:longitude":113.284484,
     "iso:country":"CN",
+    "lbl:bbox":"113.279484,23.135576,113.289484,23.145576",
     "lbl:latitude":23.140576,
     "lbl:longitude":113.284484,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.164543,
     "mps:longitude":113.294323,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Tianshengcun"
-    ],
-    "name:unk_x_variant":[
         "Tianshengcun"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -58,14 +57,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85669743,
         102191569,
         85632695,
         102027597,
         136253041,
-        890513087
+        890513087,
+        85669743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936511,
+    "wof:lastmodified":1566665014,
     "wof:name":"Tianshengcun",
     "wof:parent_id":102027597,
     "wof:placetype":"neighbourhood",

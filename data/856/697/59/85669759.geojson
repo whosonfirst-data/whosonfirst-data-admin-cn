@@ -25,6 +25,7 @@
     ],
     "lbl:latitude":19.182455,
     "lbl:longitude":109.76199,
+    "lbl:min_zoom":8.0,
     "meso:name_alt":"\u6d77\u5357",
     "meso:name_loc":"\u6d77\u5357\u7701",
     "mps:latitude":19.157849,
@@ -332,13 +333,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0439\u043d\u0430\u043d\u044c"
     ],
-    "name:und_x_variant":[
-        "\u6d77\u5357",
-        "\u6d77\u5357\u7701"
-    ],
-    "name:unk_x_variant":[
-        "Hainan Sheng"
-    ],
     "name:urd_x_preferred":[
         "\u06c1\u0627\u0626\u0646\u0627\u0646"
     ],
@@ -499,9 +493,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"60,438",
     "statoids:area_mi":"23,335",
     "statoids:as_of_date":"2010-11-01",
@@ -527,7 +521,7 @@
         "hasc:id":"CN.HA",
         "iso:id":"CN-HI",
         "loc:id":"n88080551",
-        "qs:id":931674,
+        "qs_pg:id":931674,
         "wd:id":"Q42200",
         "wk:page":"Hainan"
     },
@@ -552,11 +546,10 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1565664511,
+    "wof:lastmodified":1566665039,
     "wof:name":"Hainan",
     "wof:parent_id":-1,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":8671518,
     "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-cn",

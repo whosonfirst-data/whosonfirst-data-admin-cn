@@ -14,10 +14,13 @@
     "iso:country":"CN",
     "lbl:latitude":35.299443,
     "lbl:longitude":113.877364,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.299443,
     "mps:longitude":113.877364,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Xinxiang"
     ],
@@ -168,7 +171,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043d\u044c\u0441\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Xinxiang Zhen"
     ],
     "name:urd_x_preferred":[
@@ -208,7 +211,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":713,
     "wof:belongsto":[
         85669801,
@@ -221,9 +224,11 @@
     "wof:concordances":{
         "gn:id":1788572,
         "gp:id":2172739,
-        "qs:id":1246267,
         "qs_pg:id":136313,
         "wd:id":"Q404362"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1246267
     },
     "wof:country":"CN",
     "wof:geomhash":"3bc68f7334651e9f9b0178e4af4bc638",
@@ -238,7 +243,7 @@
         }
     ],
     "wof:id":102028169,
-    "wof:lastmodified":1563393383,
+    "wof:lastmodified":1566655720,
     "wof:name":"Xinxiang",
     "wof:parent_id":890515625,
     "wof:placetype":"locality",

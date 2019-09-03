@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":29.910779,
     "lbl:longitude":118.058622,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5b89\u5fbd\u7701",
     "meso:dissme":"\u9ec4\u5c71\u5e02\u5b89\u5fbd\u7701",
     "meso:gadm_adm2":"Huangshan",
@@ -42,6 +44,7 @@
     "mps:longitude":118.058622,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062c\u0628\u0644 \u0647\u0648\u0627\u0646\u063a\u0634\u0627\u0646"
     ],
@@ -165,9 +168,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u0438 \u0425\u0443\u0430\u043d\u0448\u0430\u043d\u044c"
     ],
-    "name:und_x_variant":[
-        "\u9ec4\u5c71\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u06c1\u0648\u0627\u0646\u06af\u0634\u0627\u0646"
     ],
@@ -178,9 +178,9 @@
         "\u9ec4\u5c71\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"9807",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Huangshan Shi",
@@ -214,7 +214,7 @@
         }
     ],
     "wof:id":1108732553,
-    "wof:lastmodified":1564234227,
+    "wof:lastmodified":1566688014,
     "wof:name":"Huangshan",
     "wof:parent_id":85669739,
     "wof:placetype":"county",

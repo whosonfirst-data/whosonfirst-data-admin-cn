@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":34.63848,
     "lbl:longitude":108.402576,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u9655\u897f\u7701",
     "meso:dissme":"\u54b8\u9633\u5e02\u9655\u897f\u7701",
     "meso:gadm_adm2":"Xianyang",
@@ -43,6 +45,7 @@
     "mps:longitude":108.402576,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Xianyang"
     ],
@@ -145,9 +148,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u044f\u043d\u044c\u044f\u043d"
     ],
-    "name:und_x_variant":[
-        "\u54b8\u9633\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u06cc\u0627\u0646\u06cc\u0627\u0646\u06af"
     ],
@@ -174,9 +174,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"10196",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Xianyang Shi",
@@ -197,7 +197,7 @@
     "wof:concordances":{
         "gp:id":26198120,
         "hasc:id":"CN.SA.XY",
-        "qs:id":1154634
+        "qs_pg:id":1154634
     },
     "wof:country":"CN",
     "wof:created":1469055926,
@@ -212,7 +212,7 @@
         }
     ],
     "wof:id":890515689,
-    "wof:lastmodified":1564249990,
+    "wof:lastmodified":1566693769,
     "wof:name":"Xianyang",
     "wof:parent_id":85669769,
     "wof:placetype":"county",

@@ -11,12 +11,16 @@
     "geom:longitude":110.34917,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":54848,
+    "gn:population":54848,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"110.32917,22.68722,110.36917,22.72722",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Pei-liu"
     ],
     "qs:name":"\u9675\u57ce\u9547",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1803551,
         "gp:id":2166491,
-        "qs:id":136604
+        "qs_pg:id":136604
     },
     "wof:country":"CN",
     "wof:created":1469055770,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890512427,
-    "wof:lastmodified":1505343887,
+    "wof:lastmodified":1566693753,
     "wof:name":"\u9675\u57ce\u9547",
     "wof:parent_id":890514591,
     "wof:placetype":"locality",

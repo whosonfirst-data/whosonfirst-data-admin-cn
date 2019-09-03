@@ -11,11 +11,15 @@
     "geom:longitude":97.73333,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":84769,
+    "gn:population":84769,
     "iso:country":"CN",
+    "lbl:bbox":"97.71333,39.81333,97.75333,39.85333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Lao-ch\u00fcn-miao"
     ],
     "qs:name":"Laojunmiao",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1280757,
         "gp:id":2145274,
-        "qs:id":555593
+        "qs_pg:id":555593
     },
     "wof:country":"CN",
     "wof:created":1469055820,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890513535,
-    "wof:lastmodified":1505343892,
+    "wof:lastmodified":1566693702,
     "wof:name":"Laojunmiao",
     "wof:parent_id":890515159,
     "wof:placetype":"locality",

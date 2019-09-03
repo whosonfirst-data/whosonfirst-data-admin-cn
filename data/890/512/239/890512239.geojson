@@ -11,7 +11,7 @@
     "geom:longitude":114.883386,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
         "Xinyang City"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":32.071303,
     "lbl:longitude":114.99217,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6cb3\u5357\u7701",
     "meso:dissme":"\u4fe1\u9633\u5e02\u6cb3\u5357\u7701",
     "meso:gadm_adm2":"Xinyang",
@@ -45,6 +47,7 @@
     "mps:longitude":114.99217,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Xinyang"
     ],
@@ -144,7 +147,7 @@
     "name:uig_x_preferred":[
         "Shinyang shehiri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hsin-yang Shih"
     ],
     "name:urd_x_preferred":[
@@ -173,9 +176,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"19541",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Xinyang Shi",
@@ -196,7 +199,7 @@
     "wof:concordances":{
         "gn:id":1788527,
         "hasc:id":"CN.HE.XY",
-        "qs:id":276564
+        "qs_pg:id":276564
     },
     "wof:country":"CN",
     "wof:created":1469055763,
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":890512239,
-    "wof:lastmodified":1564249962,
+    "wof:lastmodified":1566693756,
     "wof:name":"Xinyang",
     "wof:parent_id":85669801,
     "wof:placetype":"county",

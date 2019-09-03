@@ -11,10 +11,14 @@
     "geom:longitude":106.08139,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":2064,
+    "gn:population":2064,
     "iso:country":"CN",
+    "lbl:bbox":"106.06139,28.59361,106.10139,28.63361",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Guandu"
     ],
@@ -27,7 +31,7 @@
     "name:por_x_preferred":[
         "Guandu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chiu-hsi-shui"
     ],
     "name:zho_x_preferred":[
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":1809964,
         "gp:id":2146460,
-        "qs:id":1033263,
+        "qs_pg:id":1033263,
         "wk:page":"Guandu"
     },
     "wof:country":"CN",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890512625,
-    "wof:lastmodified":1564249951,
+    "wof:lastmodified":1566693751,
     "wof:name":"Guandu",
     "wof:parent_id":890516473,
     "wof:placetype":"locality",

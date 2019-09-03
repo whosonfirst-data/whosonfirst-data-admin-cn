@@ -15,6 +15,8 @@
     "iso:country":"CN",
     "lbl:latitude":32.400831,
     "lbl:longitude":119.423274,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":32.400831,
     "mps:longitude":119.423274,
     "mz:hierarchy_label":1,
@@ -225,9 +227,6 @@
     "name:ukr_x_preferred":[
         "\u042f\u043d\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
-        "Chiang-tu"
-    ],
     "name:urd_x_preferred":[
         "\u06cc\u0627\u0646\u06af\u0698\u0648"
     ],
@@ -367,7 +366,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":6257,
     "wof:belongsto":[
@@ -382,10 +381,12 @@
         "fct:id":"06b9bbf0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1787227,
         "gp:id":2137092,
-        "qs:id":477370,
-        "qs_pg:id":1129726,
+        "qs_pg:id":477370,
         "wd:id":"Q57906",
         "wk:page":"Yangzhou"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1129726
     },
     "wof:country":"CN",
     "wof:geomhash":"c341c456496aba3e0e3511d9486a3b7e",
@@ -403,7 +404,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393452,
+    "wof:lastmodified":1566655746,
     "wof:name":"Yangzhou",
     "wof:parent_id":890516397,
     "wof:placetype":"locality",

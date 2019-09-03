@@ -11,10 +11,14 @@
     "geom:longitude":119.20509,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":6810,
+    "gn:population":6810,
     "iso:country":"CN",
+    "lbl:bbox":"119.18509,26.65019,119.22509,26.69019",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Shanyang"
     ],
@@ -36,7 +40,7 @@
     "name:swe_x_preferred":[
         "Shanyang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u6749\u6d0b"
     ],
     "qs:name":"Shanyang",
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":1795909,
         "gp:id":2140165,
-        "qs:id":560792,
+        "qs_pg:id":560792,
         "wk:page":"Shanyang"
     },
     "wof:country":"CN",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890512079,
-    "wof:lastmodified":1564249918,
+    "wof:lastmodified":1566693738,
     "wof:name":"Shanyang",
     "wof:parent_id":890516577,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":41.534874,
     "lbl:longitude":107.331791,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5185\u8499\u53e4\u81ea\u6cbb\u533a",
     "meso:dissme":"\u5df4\u5f66\u6dd6\u5c14\u5e02\u5185\u8499\u53e4\u81ea\u6cbb\u533a",
     "meso:gadm_adm2":"Baynnur",
@@ -42,19 +44,17 @@
     "mps:longitude":107.331791,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Bayannaoer"
-    ],
-    "name:und_x_variant":[
-        "\u5df4\u5f66\u6dd6\u5c14\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u5f66\u6dd6\u5c14\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"65821",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Linhe Shi",
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1108732415,
-    "wof:lastmodified":1554759566,
+    "wof:lastmodified":1566687991,
     "wof:name":"Bayannao'er",
     "wof:parent_id":85669847,
     "wof:placetype":"county",

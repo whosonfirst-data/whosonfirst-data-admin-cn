@@ -11,7 +11,7 @@
     "geom:longitude":87.779666,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":43.673751,
     "lbl:longitude":87.705749,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a",
     "meso:dissme":"\u4e4c\u9c81\u6728\u9f50\u5e02\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a",
     "meso:gadm_adm2":"\u00dcr\u00fcmqi",
@@ -46,13 +48,11 @@
     "mps:longitude":87.705749,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Wulumuqi"
     ],
     "name:und_x_variant":[
-        "\u4e4c\u9c81\u6728\u9f50\u5e02"
-    ],
-    "name:unk_x_variant":[
         "Wu-lu-mu-ch\u2019i Shih"
     ],
     "name:zho_x_preferred":[
@@ -73,9 +73,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"12000",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Wulumuqi Shi",
@@ -97,7 +97,7 @@
         "gn:id":1529101,
         "gp:id":26198317,
         "hasc:id":"CN.XJ.WL",
-        "qs:id":428053
+        "qs_pg:id":428053
     },
     "wof:country":"CN",
     "wof:created":1469055950,
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":890516251,
-    "wof:lastmodified":1554759517,
+    "wof:lastmodified":1566693612,
     "wof:name":"Wulumuqi",
     "wof:parent_id":85669753,
     "wof:placetype":"county",

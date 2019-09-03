@@ -11,11 +11,15 @@
     "geom:longitude":106.76431,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":1000,
+    "gn:population":1000,
     "iso:country":"CN",
+    "lbl:bbox":"106.74431,32.13444,106.78431,32.17444",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Ch\u2019ih-ch\u2019i-ch\u2019ang"
     ],
     "name:zho_x_preferred":[
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1899368,
         "gp:id":2157481,
-        "qs:id":567043
+        "qs_pg:id":567043
     },
     "wof:country":"CN",
     "wof:created":1469055831,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890513687,
-    "wof:lastmodified":1505343893,
+    "wof:lastmodified":1566693705,
     "wof:name":"Chixi",
     "wof:parent_id":1108732413,
     "wof:placetype":"locality",

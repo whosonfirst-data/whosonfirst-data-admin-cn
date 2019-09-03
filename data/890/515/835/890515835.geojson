@@ -11,7 +11,7 @@
     "geom:longitude":112.893426,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":35.050309,
     "lbl:longitude":112.893379,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6cb3\u5357\u7701",
     "meso:dissme":"\u7126\u4f5c\u5e02\u6cb3\u5357\u7701",
     "meso:gadm_adm2":"Jiaozuo",
@@ -46,6 +48,7 @@
     "mps:longitude":112.893379,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Jiaozuo"
     ],
@@ -139,7 +142,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0437\u044f\u043e\u0446\u0437\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chiao-tso Shih"
     ],
     "name:urd_x_preferred":[
@@ -175,9 +178,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"4082",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Jiaozuo Shi",
@@ -199,7 +202,7 @@
         "gn:id":1805986,
         "gp:id":26198371,
         "hasc:id":"CN.HE.JZ",
-        "qs:id":1184197
+        "qs_pg:id":1184197
     },
     "wof:country":"CN",
     "wof:created":1469055933,
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":890515835,
-    "wof:lastmodified":1564250001,
+    "wof:lastmodified":1566693773,
     "wof:name":"Jiaozuo",
     "wof:parent_id":85669801,
     "wof:placetype":"county",

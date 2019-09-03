@@ -11,14 +11,18 @@
     "geom:longitude":106.25035,
     "gn:country":"CN",
     "gn:fcode":"PPLA3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"106.23035,32.814,106.27035,32.854",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hanyuan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ch\u2019iang-chou"
     ],
     "qs:name":"Hanyuan",
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1799362,
         "gp:id":2157000,
-        "qs:id":136532,
+        "qs_pg:id":136532,
         "wk:page":"Hanyuan"
     },
     "wof:country":"CN",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890511925,
-    "wof:lastmodified":1564249719,
+    "wof:lastmodified":1566693648,
     "wof:name":"Hanyuan",
     "wof:parent_id":890515099,
     "wof:placetype":"locality",

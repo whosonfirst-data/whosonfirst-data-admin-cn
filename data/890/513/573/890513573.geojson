@@ -11,10 +11,14 @@
     "geom:longitude":119.88872,
     "gn:country":"CN",
     "gn:fcode":"PPLA3",
-    "gn:pop":3590000,
+    "gn:population":3590000,
     "iso:country":"CN",
+    "lbl:bbox":"119.86872,29.43679,119.90872,29.47679",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Puyang"
     ],
@@ -102,7 +106,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u2019u-yang-chen"
     ],
     "name:urd_x_preferred":[
@@ -137,7 +141,7 @@
     "wof:concordances":{
         "gn:id":1798425,
         "gp:id":2132608,
-        "qs:id":561195,
+        "qs_pg:id":561195,
         "wk:page":"Puyang"
     },
     "wof:country":"CN",
@@ -154,7 +158,7 @@
         }
     ],
     "wof:id":890513573,
-    "wof:lastmodified":1564249869,
+    "wof:lastmodified":1566693716,
     "wof:name":"Puyang",
     "wof:parent_id":890513337,
     "wof:placetype":"locality",

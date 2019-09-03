@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"117.49275,26.14966,117.53275,26.18966",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Zhuzhou"
     ],
@@ -124,9 +128,6 @@
     "name:tur_x_preferred":[
         "Zhuzhou"
     ],
-    "name:und_x_variant":[
-        "\u7af9\u5dde"
-    ],
     "name:urd_x_preferred":[
         "\u0698\u0648\u0698\u0648\u0648"
     ],
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":1327225143,
-    "wof:lastmodified":1564172220,
+    "wof:lastmodified":1566649992,
     "wof:name":"Zhuzhou",
     "wof:parent_id":890516573,
     "wof:placetype":"locality",

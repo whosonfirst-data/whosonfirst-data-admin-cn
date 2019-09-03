@@ -25,6 +25,7 @@
     ],
     "lbl:latitude":37.136541,
     "lbl:longitude":105.912433,
+    "lbl:min_zoom":8.0,
     "meso:name_alt":"\u5be7\u590f\u56de\u65cf\u81ea\u6cbb\u5340|\u5b81\u590f\u56de\u65cf\u81ea\u6cbb\u533a",
     "meso:name_loc":"\u5b81\u590f\u56de\u65cf\u81ea\u6cbb\u533a",
     "mps:latitude":37.182713,
@@ -313,9 +314,6 @@
     ],
     "name:und_x_variant":[
         "\u5be7\u590f\u56de\u65cf\u81ea\u6cbb\u5340|\u5b81\u590f\u56de\u65cf\u81ea\u6cbb\u533a",
-        "\u5b81\u590f\u56de\u65cf\u81ea\u6cbb\u533a"
-    ],
-    "name:unk_x_variant":[
         "Hui Autonomous Region of Ningxia"
     ],
     "name:urd_x_preferred":[
@@ -431,9 +429,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"52,188",
     "statoids:area_mi":"20,150",
     "statoids:as_of_date":"2010-11-01",
@@ -460,7 +458,7 @@
         "gp:id":12578010,
         "hasc:id":"CN.NX",
         "iso:id":"CN-NX",
-        "qs:id":1285870,
+        "qs_pg:id":1285870,
         "unlc:id":"CN-64",
         "wd:id":"Q57448",
         "wk:page":"Ningxia"
@@ -487,11 +485,10 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1565664524,
+    "wof:lastmodified":1566665061,
     "wof:name":"Ningxia Hui",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":6301350,
     "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-cn",

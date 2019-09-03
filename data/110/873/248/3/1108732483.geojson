@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":44.298001,
     "lbl:longitude":86.03431,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a",
     "meso:dissme":"\u77f3\u6cb3\u5b50\u5e02\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a",
     "meso:gadm_adm2":"Shihezi",
@@ -42,17 +44,15 @@
     "mps:longitude":86.03431,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Zizhiqu Zhixiaxian Jixingzheng Quhua"
-    ],
-    "name:und_x_variant":[
-        "\u77f3\u6cb3\u5b50\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u77f3\u6cb3\u5b50\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85669753,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1108732483,
-    "wof:lastmodified":1555220447,
+    "wof:lastmodified":1566687990,
     "wof:name":"Zizhiqu Zhixiaxian Jixingzheng Quhua",
     "wof:parent_id":85669753,
     "wof:placetype":"county",

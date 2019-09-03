@@ -11,8 +11,11 @@
     "geom:longitude":126.08333,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":64182,
+    "gn:population":64182,
     "iso:country":"CN",
+    "lbl:bbox":"126.06333,46.66333,126.10333,46.70333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Qinggang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ch\u2019ing-kang"
     ],
     "name:vie_x_preferred":[
@@ -177,7 +180,7 @@
     "wof:concordances":{
         "gn:id":2035325,
         "gp:id":2141208,
-        "qs:id":274123,
+        "qs_pg:id":274123,
         "wd:id":"Q1197347",
         "wk:page":"Qinggang County"
     },
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":890512957,
-    "wof:lastmodified":1563459740,
+    "wof:lastmodified":1566693747,
     "wof:name":"Qinggang",
     "wof:parent_id":890514509,
     "wof:placetype":"locality",

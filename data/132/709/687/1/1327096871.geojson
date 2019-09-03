@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"120.46412,40.26464,120.50412,40.30464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Shandong"
     ],
@@ -244,9 +248,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043d\u044c\u0434\u0443\u043d"
     ],
-    "name:und_x_variant":[
-        "\u5c71\u4e1c"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u0627\u0646\u0688\u0648\u0646\u06af"
     ],
@@ -302,7 +303,7 @@
         }
     ],
     "wof:id":1327096871,
-    "wof:lastmodified":1564168591,
+    "wof:lastmodified":1566647079,
     "wof:name":"Shandong",
     "wof:parent_id":890514399,
     "wof:placetype":"locality",

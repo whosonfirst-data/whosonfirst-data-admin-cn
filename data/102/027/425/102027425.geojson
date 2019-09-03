@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":34.786739,
     "lbl:longitude":114.32373,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":34.786739,
     "mps:longitude":114.32373,
     "mz:hierarchy_label":1,
@@ -216,7 +218,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0439\u0444\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u2019ai-feng-shih"
     ],
     "name:urd_x_preferred":[
@@ -359,7 +361,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2203,
     "wof:belongsto":[
@@ -374,7 +376,7 @@
         "fct:id":"06b4ca6e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1804879,
         "gp:id":2172737,
-        "qs:id":245503,
+        "qs_pg:id":245503,
         "wd:id":"Q208471",
         "wk:page":"Kaifeng"
     },
@@ -394,7 +396,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393144,
+    "wof:lastmodified":1566655641,
     "wof:megacity":1,
     "wof:name":"Kaifeng",
     "wof:parent_id":890515157,

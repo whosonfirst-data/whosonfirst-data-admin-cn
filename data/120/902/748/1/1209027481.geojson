@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"117.78917,27.49194,117.82917,27.53194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -34,7 +38,7 @@
         "gn:id":1922601
     },
     "wof:country":"CN",
-    "wof:geomhash":"d71cc2c69fd60f5b1562eb8290c8345f",
+    "wof:geomhash":"2fa0a266d61ccb29910e44d7d1d09a2d",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209027481,
-    "wof:lastmodified":1536299951,
+    "wof:lastmodified":1566682817,
     "wof:name":"Shangyuanqiao",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     117.80917,
-    27.511940000000006,
+    27.51194000000001,
     117.80917,
-    27.511940000000006
+    27.51194000000001
 ],
   "geometry": {"coordinates":[117.80916999999999,27.51194000000001],"type":"Point"}
 }

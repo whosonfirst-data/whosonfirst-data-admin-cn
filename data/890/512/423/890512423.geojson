@@ -11,12 +11,16 @@
     "geom:longitude":120.29722,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":78180,
+    "gn:population":78180,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"120.27722,30.4025,120.31722,30.4425",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Y\u00fc-hang Hsien"
     ],
     "qs:name":"\u4e34\u5e73\u9547",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1803374,
         "gp:id":2132601,
-        "qs:id":136602
+        "qs_pg:id":136602
     },
     "wof:country":"CN",
     "wof:created":1469055770,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890512423,
-    "wof:lastmodified":1505343887,
+    "wof:lastmodified":1566693740,
     "wof:name":"\u4e34\u5e73\u9547",
     "wof:parent_id":890516555,
     "wof:placetype":"locality",

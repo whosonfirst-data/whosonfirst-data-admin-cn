@@ -14,10 +14,13 @@
     "iso:country":"CN",
     "lbl:latitude":41.112468,
     "lbl:longitude":122.98773,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.112468,
     "mps:longitude":122.98773,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Ansjan"
     ],
@@ -207,9 +210,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u044c\u0448\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "\u978d\u5c71"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0646\u0634\u0627\u0646"
     ],
@@ -243,7 +243,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":3610,
     "wof:belongsto":[
         85669807,
@@ -271,7 +271,7 @@
         }
     ],
     "wof:id":102028087,
-    "wof:lastmodified":1563393406,
+    "wof:lastmodified":1566655729,
     "wof:name":"Anshan",
     "wof:parent_id":890514231,
     "wof:placetype":"locality",

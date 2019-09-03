@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.989786,
     "lbl:longitude":116.324193,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.985297,
     "mps:longitude":116.323539,
     "mz:hierarchy_label":1,
@@ -72,9 +73,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0436\u0443\u043d\u0433\u0443\u0430\u043d\u044c\u0446\u0443\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Zhongguancun"
-    ],
     "name:zho_x_preferred":[
         "\u4e2d\u5173\u6751"
     ],
@@ -104,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":870,
     "wof:belongsto":[
         102191569,
@@ -117,7 +115,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724376,
-        "qs:id":897014,
         "qs_pg:id":897014,
         "wd:id":"Q197834"
     },
@@ -138,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563404358,
+    "wof:lastmodified":1566665035,
     "wof:name":"Zhongguancun",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

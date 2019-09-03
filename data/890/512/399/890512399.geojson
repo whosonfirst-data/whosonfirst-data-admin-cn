@@ -11,10 +11,14 @@
     "geom:longitude":119.45194,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":3580,
+    "gn:population":3580,
     "iso:country":"CN",
+    "lbl:bbox":"119.43194,26.2175,119.47194,26.2575",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09a3\u09cd\u09a1\u09c1"
     ],
@@ -105,7 +109,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043d\u0434\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u2019an-tu"
     ],
     "name:zho_x_preferred":[
@@ -132,7 +136,7 @@
     "wof:concordances":{
         "gn:id":1799089,
         "gp:id":2139643,
-        "qs:id":136523,
+        "qs_pg:id":136523,
         "wd:id":"Q857071",
         "wk:page":"Pandu"
     },
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":890512399,
-    "wof:lastmodified":1563459685,
+    "wof:lastmodified":1566693736,
     "wof:name":"Pandu",
     "wof:parent_id":890516575,
     "wof:placetype":"locality",

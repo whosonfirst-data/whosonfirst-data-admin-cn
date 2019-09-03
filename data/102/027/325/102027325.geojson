@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000283,
-    "geom:area_square_m":3129101.265472,
+    "geom:area_square_m":3129101.265474,
     "geom:bbox":"116.00010209,26.4467921927,116.020161619,26.4648480625",
     "geom:latitude":26.45582,
     "geom:longitude":116.010132,
     "iso:country":"CN",
     "lbl:latitude":26.45582,
     "lbl:longitude":116.010132,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":26.45582,
     "mps:longitude":116.010132,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ning-tu"
     ],
     "qs:a1":"*",
@@ -33,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669823,
         102191569,
@@ -45,7 +48,6 @@
     "wof:concordances":{
         "gn:id":1800855,
         "gp:id":2133732,
-        "qs:id":1033163,
         "qs_pg:id":1033163
     },
     "wof:country":"CN",
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":102027325,
-    "wof:lastmodified":1497296103,
+    "wof:lastmodified":1566655671,
     "wof:name":"Meijiang",
     "wof:parent_id":890511835,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"121.29667,31.96639,121.33667,32.00639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -34,7 +38,7 @@
         "gn:id":1887563
     },
     "wof:country":"CN",
-    "wof:geomhash":"7771995959d55bf90dc2be81eba852d7",
+    "wof:geomhash":"99ba3c22e6d79c3beb776371de83fe1e",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209129739,
-    "wof:lastmodified":1536296841,
+    "wof:lastmodified":1566680763,
     "wof:name":"Dongnan Dadui",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     121.31667,
-    31.986390000000004,
+    31.98639,
     121.31667,
-    31.986390000000004
+    31.98639
 ],
   "geometry": {"coordinates":[121.31667,31.98639],"type":"Point"}
 }

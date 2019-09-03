@@ -11,7 +11,7 @@
     "geom:longitude":117.470681,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":28.446157,
     "lbl:longitude":117.842846,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6c5f\u897f\u7701",
     "meso:dissme":"\u4e0a\u9976\u5e02\u6c5f\u897f\u7701",
     "meso:gadm_adm2":"Shangrao",
@@ -46,6 +48,7 @@
     "mps:longitude":117.842846,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Shangrao"
     ],
@@ -136,7 +139,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043d\u0436\u0430\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shang-jao Chuan-ch\u2019\u00fc"
     ],
     "name:urd_x_preferred":[
@@ -169,9 +172,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"22816",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Shangrao Shi",
@@ -193,7 +196,7 @@
         "gn:id":1796129,
         "gp:id":26198281,
         "hasc:id":"CN.JX.SR",
-        "qs:id":890394
+        "qs_pg:id":890394
     },
     "wof:country":"CN",
     "wof:created":1469055934,
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":890515869,
-    "wof:lastmodified":1564250004,
+    "wof:lastmodified":1566693774,
     "wof:name":"Shangrao",
     "wof:parent_id":85669823,
     "wof:placetype":"county",

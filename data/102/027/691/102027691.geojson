@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":31.676034,
     "lbl:longitude":121.472316,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.676034,
     "mps:longitude":121.472316,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chengqiao"
     ],
@@ -25,7 +28,7 @@
     "name:jpn_x_preferred":[
         "\u57ce\u6a4b\u93ae"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chongming"
     ],
     "name:wuu_x_preferred":[
@@ -46,7 +49,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669831,
         102191569,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":102027691,
-    "wof:lastmodified":1563393328,
+    "wof:lastmodified":1566655699,
     "wof:name":"Chengqiao",
     "wof:parent_id":890514815,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":113.39083,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"113.29083,23.02,113.49083,23.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arz_x_preferred":[
         "\u062d\u0649 \u062a\u064a\u0627\u0646\u0647\u0649"
     ],
@@ -84,9 +88,6 @@
     "name:swe_x_preferred":[
         "Tianhe"
     ],
-    "name:unk_x_variant":[
-        "Tianhe"
-    ],
     "name:vie_x_preferred":[
         "Thi\u00ean H\u00e0"
     ],
@@ -118,7 +119,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6571342,
-        "qs:id":1038395,
+        "qs_pg:id":1038395,
         "wd:id":"Q917049",
         "wk:page":"Tianhe District"
     },
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":890517065,
-    "wof:lastmodified":1563459139,
+    "wof:lastmodified":1566693587,
     "wof:name":"Tianhe Qu",
     "wof:parent_id":890513087,
     "wof:placetype":"localadmin",

@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":32.040669,
     "lbl:longitude":112.146572,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":32.040669,
     "mps:longitude":112.146572,
     "mz:hierarchy_label":1,
@@ -184,7 +186,7 @@
     "name:ukr_x_variant":[
         "\u0421\u044f\u043d\u2019\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Siangfan"
     ],
     "name:urd_x_preferred":[
@@ -326,7 +328,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":804,
     "wof:belongsto":[
@@ -341,10 +343,12 @@
         "fct:id":"06b51a1e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1790587,
         "gp:id":2163871,
-        "qs:id":959183,
-        "qs_pg:id":1129938,
+        "qs_pg:id":959183,
         "wd:id":"Q71284",
         "wk:page":"Xiangyang"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1129938
     },
     "wof:country":"CN",
     "wof:geomhash":"9efafe51c5544814bd3ac52dceba9ae8",
@@ -362,7 +366,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393201,
+    "wof:lastmodified":1566655661,
     "wof:megacity":1,
     "wof:name":"Xiangyang",
     "wof:parent_id":1108732497,

@@ -11,10 +11,14 @@
     "geom:longitude":118.41278,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"118.31278,35.42917,118.51278,35.62917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yinan Xian"
     ],
@@ -60,7 +64,7 @@
     "name:tel_x_preferred":[
         "\u0c2f\u0c3f\u0c28\u0c28\u0c4d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "I-nan Hsien"
     ],
     "name:vie_x_preferred":[
@@ -94,7 +98,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1786662,
-        "qs:id":1031442,
+        "qs_pg:id":1031442,
         "wd:id":"Q1337609",
         "wk:page":"Yinan County"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":890514271,
-    "wof:lastmodified":1563459484,
+    "wof:lastmodified":1566693686,
     "wof:name":"Yinan Xian",
     "wof:parent_id":1108732339,
     "wof:placetype":"localadmin",

@@ -11,10 +11,14 @@
     "geom:longitude":118.854,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":66031,
+    "gn:population":66031,
     "iso:country":"CN",
+    "lbl:bbox":"118.834,32.01244,118.874,32.05244",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Xiaolingwei"
     ],
@@ -27,7 +31,7 @@
     "name:swe_x_preferred":[
         "Xiaolingwei"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hsiao-ling-wei"
     ],
     "name:wuu_x_preferred":[
@@ -55,7 +59,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1790100,
-        "qs:id":277504,
+        "qs_pg:id":277504,
         "wd:id":"Q8044278",
         "wk:page":"Xiaolingwei"
     },
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890513475,
-    "wof:lastmodified":1563459625,
+    "wof:lastmodified":1566693721,
     "wof:name":"Xiaolingwei",
     "wof:parent_id":890516425,
     "wof:placetype":"locality",

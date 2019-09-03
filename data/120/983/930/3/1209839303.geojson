@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"120.04667,33.43,120.08667,33.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Xinxing"
     ],
@@ -49,8 +53,7 @@
     ],
     "name:und_x_variant":[
         "Hsin-hsing",
-        "Hsin-hsing-ch\u2019ang",
-        "Xinxing"
+        "Hsin-hsing-ch\u2019ang"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1209839303,
-    "wof:lastmodified":1564217551,
+    "wof:lastmodified":1566680381,
     "wof:name":"Xinxing",
     "wof:parent_id":890515153,
     "wof:placetype":"locality",

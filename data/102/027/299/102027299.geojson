@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000555,
-    "geom:area_square_m":6258689.716176,
+    "geom:area_square_m":6258689.716173,
     "geom:bbox":"103.464875426,23.8617393122,103.506522719,24.3711381671",
     "geom:latitude":24.116899,
     "geom:longitude":103.485697,
@@ -13,11 +13,14 @@
     "iso:country":"CN",
     "lbl:latitude":24.362109,
     "lbl:longitude":103.474732,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":24.362109,
     "mps:longitude":103.474732,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Mi-lo"
     ],
     "name:zho_x_preferred":[
@@ -37,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85669791,
@@ -50,7 +53,6 @@
     "wof:concordances":{
         "gn:id":1800430,
         "gp:id":2160346,
-        "qs:id":294640,
         "qs_pg:id":294640
     },
     "wof:country":"CN",
@@ -66,7 +68,7 @@
         }
     ],
     "wof:id":102027299,
-    "wof:lastmodified":1505338996,
+    "wof:lastmodified":1566655705,
     "wof:name":"Miyang",
     "wof:parent_id":1108794063,
     "wof:placetype":"locality",

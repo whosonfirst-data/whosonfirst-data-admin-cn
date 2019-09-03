@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":42.903994,
     "lbl:longitude":129.477019,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":42.903994,
     "mps:longitude":129.477019,
     "mz:hierarchy_label":1,
@@ -148,7 +150,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u043d\u044c\u0446\u0437\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yang-chi-t'eng"
     ],
     "name:urd_x_preferred":[
@@ -280,7 +282,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2142,
     "wof:belongsto":[
@@ -294,7 +296,6 @@
     "wof:concordances":{
         "gn:id":2033467,
         "gp:id":2138130,
-        "qs:id":274122,
         "qs_pg:id":274122,
         "wd:id":"Q713362",
         "wk:page":"Yanji"
@@ -312,7 +313,7 @@
         }
     ],
     "wof:id":102027853,
-    "wof:lastmodified":1563393323,
+    "wof:lastmodified":1566655697,
     "wof:name":"Yanji",
     "wof:parent_id":1108732421,
     "wof:placetype":"locality",

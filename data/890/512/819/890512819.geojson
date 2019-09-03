@@ -11,8 +11,11 @@
     "geom:longitude":123.63333,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":265344,
+    "gn:population":265344,
     "iso:country":"CN",
+    "lbl:bbox":"123.61333,47.18417,123.65333,47.22417",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "Hulan Ergi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lung-chiang"
     ],
     "name:vie_x_preferred":[
@@ -182,7 +185,7 @@
     "wof:concordances":{
         "gn:id":2036670,
         "gp:id":2141229,
-        "qs:id":571405,
+        "qs_pg:id":571405,
         "wd:id":"Q34761",
         "wk:page":"Fularji District"
     },
@@ -200,7 +203,7 @@
         }
     ],
     "wof:id":890512819,
-    "wof:lastmodified":1563459701,
+    "wof:lastmodified":1566693739,
     "wof:name":"Hulan Ergi",
     "wof:parent_id":890516483,
     "wof:placetype":"locality",

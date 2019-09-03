@@ -13,10 +13,13 @@
     "iso:country":"CN",
     "lbl:latitude":23.246393,
     "lbl:longitude":108.825073,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":23.246393,
     "mps:longitude":108.825073,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:amh_x_preferred":[
         "\u120e\u12ad \u12f1\u12ad"
     ],
@@ -31,9 +34,6 @@
     ],
     "name:sco_x_preferred":[
         "Kinh D\u01b0\u01a1ng V\u01b0\u01a1ng"
-    ],
-    "name:unk_x_variant":[
-        "Lu-hs\u00fc"
     ],
     "name:vie_x_preferred":[
         "Kinh D\u01b0\u01a1ng V\u01b0\u01a1ng"
@@ -60,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85669717,
@@ -73,7 +73,6 @@
     "wof:concordances":{
         "gn:id":1816338,
         "gp:id":2166546,
-        "qs:id":136896,
         "qs_pg:id":136896
     },
     "wof:country":"CN",
@@ -89,7 +88,7 @@
         }
     ],
     "wof:id":102027739,
-    "wof:lastmodified":1505338999,
+    "wof:lastmodified":1566655627,
     "wof:name":"Luxu",
     "wof:parent_id":890515419,
     "wof:placetype":"locality",

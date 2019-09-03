@@ -25,6 +25,7 @@
     ],
     "lbl:latitude":39.264612,
     "lbl:longitude":117.34117,
+    "lbl:min_zoom":8.0,
     "meso:name_alt":"\u5929\u6d25|\u5929\u6d25",
     "meso:name_loc":"\u5929\u6d25\u5e02",
     "mps:latitude":39.224078,
@@ -406,11 +407,7 @@
         "\u0422\u044f\u043d\u044c\u0446\u0437\u0456\u043d\u044c"
     ],
     "name:und_x_variant":[
-        "\u5929\u6d25|\u5929\u6d25",
-        "\u5929\u6d25\u5e02"
-    ],
-    "name:unk_x_variant":[
-        "Tientsin"
+        "\u5929\u6d25|\u5929\u6d25"
     ],
     "name:urd_x_preferred":[
         "\u062a\u06cc\u0627\u0646\u062c\u0646"
@@ -536,9 +533,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"11,943",
     "statoids:area_mi":"4,611",
     "statoids:as_of_date":"2010-11-01",
@@ -565,7 +562,7 @@
         "gp:id":12578017,
         "hasc:id":"CN.TJ",
         "iso:id":"CN-TJ",
-        "qs:id":1115784,
+        "qs_pg:id":1115784,
         "unlc:id":"CN-12",
         "wd:id":"Q11736"
     },
@@ -591,11 +588,10 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1565664529,
+    "wof:lastmodified":1566665069,
     "wof:name":"Tianjin",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":12938224,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-cn",

@@ -11,11 +11,15 @@
     "geom:longitude":127.56667,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":56992,
+    "gn:population":56992,
     "iso:country":"CN",
+    "lbl:bbox":"127.54667,43.56333,127.58667,43.60333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Pai-shih-shan"
     ],
     "qs:name":"Baishishan",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":2038529,
         "gp:id":2138222,
-        "qs:id":137823
+        "qs_pg:id":137823
     },
     "wof:country":"CN",
     "wof:created":1469055744,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890511773,
-    "wof:lastmodified":1505343884,
+    "wof:lastmodified":1566693652,
     "wof:name":"Baishishan",
     "wof:parent_id":890516735,
     "wof:placetype":"locality",

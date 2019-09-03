@@ -26,6 +26,7 @@
     ],
     "lbl:latitude":23.76822,
     "lbl:longitude":112.80027,
+    "lbl:min_zoom":8.0,
     "meso:name_alt":"\u5ee3\u6771|\u5e7f\u4e1c",
     "meso:name_loc":"\u5e7f\u4e1c\u7701",
     "mps:latitude":23.792056,
@@ -309,11 +310,7 @@
         "\u0413\u0443\u0430\u043d\u0434\u0443\u043d"
     ],
     "name:und_x_variant":[
-        "\u5ee3\u6771|\u5e7f\u4e1c",
-        "\u5e7f\u4e1c\u7701"
-    ],
-    "name:unk_x_variant":[
-        "Guangdong Sheng"
+        "\u5ee3\u6771|\u5e7f\u4e1c"
     ],
     "name:urd_x_preferred":[
         "\u06af\u0648\u0627\u0646\u06af\u0688\u0648\u0646\u06af"
@@ -424,9 +421,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"178,341",
     "statoids:area_mi":"68,858",
     "statoids:as_of_date":"2010-11-01",
@@ -458,7 +455,7 @@
         "iso:id":"CN-GD",
         "loc:id":"n81018335",
         "nyt:id":"N59168527706025732091",
-        "qs:id":1027701,
+        "qs_pg:id":1027701,
         "unlc:id":"CN-44",
         "wd:id":"Q15175",
         "wk:page":"Guangdong"
@@ -485,11 +482,10 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1565664517,
+    "wof:lastmodified":1566665049,
     "wof:name":"Guangdong",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":104303132,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-cn",

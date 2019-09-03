@@ -11,11 +11,15 @@
     "geom:longitude":119.18861,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":56214,
+    "gn:population":56214,
     "iso:country":"CN",
+    "lbl:bbox":"119.16861,33.9975,119.20861,34.0375",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Kao-kou-chen"
     ],
     "qs:name":"Gaogou",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1810553,
         "gp:id":2137183,
-        "qs:id":563128
+        "qs_pg:id":563128
     },
     "wof:country":"CN",
     "wof:created":1469056004,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890517327,
-    "wof:lastmodified":1505343905,
+    "wof:lastmodified":1566693593,
     "wof:name":"Gaogou",
     "wof:parent_id":1108732465,
     "wof:placetype":"locality",

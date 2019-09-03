@@ -11,10 +11,14 @@
     "geom:longitude":97.23333,
     "gn:country":"CN",
     "gn:fcode":"PPLA2",
-    "gn:pop":86280,
+    "gn:population":86280,
     "iso:country":"CN",
+    "lbl:bbox":"97.21333,31.14667,97.25333,31.18667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ben_x_preferred":[
         "\u099b\u09be\u09ac-\u09ae\u09cd\u09a6\u09cb \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -99,7 +103,7 @@
     "name:tur_x_preferred":[
         "Qamdo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chamudo"
     ],
     "name:urd_x_preferred":[
@@ -138,7 +142,7 @@
     "wof:concordances":{
         "gn:id":1280281,
         "gp:id":2144804,
-        "qs:id":555591,
+        "qs_pg:id":555591,
         "wd:id":"Q1012419",
         "wk:page":"Chamdo"
     },
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":890517099,
-    "wof:lastmodified":1563459143,
+    "wof:lastmodified":1566693587,
     "wof:name":"Qamdo",
     "wof:parent_id":890514545,
     "wof:placetype":"locality",

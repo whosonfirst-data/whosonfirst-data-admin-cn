@@ -11,10 +11,14 @@
     "geom:longitude":113.55,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":265886,
+    "gn:population":265886,
     "iso:country":"CN",
+    "lbl:bbox":"113.53,30.93,113.57,30.97",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0629 \u064a\u0646\u063a\u062a\u0634\u064a\u0646\u063a"
     ],
@@ -129,7 +133,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043d\u0447\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ying-ch\u2019eng-hsien"
     ],
     "name:urd_x_preferred":[
@@ -172,7 +176,7 @@
     "wof:concordances":{
         "gn:id":1786640,
         "gp:id":12686318,
-        "qs:id":136284,
+        "qs_pg:id":136284,
         "wd:id":"Q1344777",
         "wk:page":"Yingcheng"
     },
@@ -190,7 +194,7 @@
         }
     ],
     "wof:id":890511933,
-    "wof:lastmodified":1563459351,
+    "wof:lastmodified":1566693649,
     "wof:name":"Yingcheng",
     "wof:parent_id":1108732407,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CN",
     "lbl:latitude":29.131877,
     "lbl:longitude":110.481711,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":29.131877,
     "mps:longitude":110.481711,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0632\u0627\u0646\u063a\u062c\u064a\u0627\u062c\u064a"
     ],
@@ -173,7 +176,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0436\u0430\u043d\u0446\u0437\u044f\u0446\u0437\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yung-ting-chen"
     ],
     "name:urd_x_preferred":[
@@ -220,7 +223,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":952,
     "wof:belongsto":[
@@ -234,7 +237,6 @@
     "wof:concordances":{
         "gn:id":1813171,
         "gp:id":2142725,
-        "qs:id":136823,
         "qs_pg:id":136823,
         "wd:id":"Q197379",
         "wk:page":"Zhangjiajie"
@@ -252,7 +254,7 @@
         }
     ],
     "wof:id":102027653,
-    "wof:lastmodified":1563393331,
+    "wof:lastmodified":1566655700,
     "wof:name":"Zhangjiajie",
     "wof:parent_id":890513321,
     "wof:placetype":"locality",

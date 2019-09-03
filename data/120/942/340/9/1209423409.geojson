@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"121.30556,28.93194,121.34556,28.97194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -34,7 +38,7 @@
         "gn:id":1897292
     },
     "wof:country":"CN",
-    "wof:geomhash":"78797d88f8c57e95484f94245f8f4702",
+    "wof:geomhash":"b14b17f44c53fce97978292017a4d81c",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209423409,
-    "wof:lastmodified":1536287456,
+    "wof:lastmodified":1566683671,
     "wof:name":"Baojia",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     121.32556,
-    28.951940000000004,
+    28.95194,
     121.32556,
-    28.951940000000004
+    28.95194
 ],
   "geometry": {"coordinates":[121.32556,28.95194],"type":"Point"}
 }

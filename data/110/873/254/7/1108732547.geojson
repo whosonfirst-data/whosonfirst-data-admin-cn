@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":45.551982,
     "lbl:longitude":132.700601,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u9ed1\u9f99\u6c5f\u7701",
     "meso:dissme":"\u9e21\u897f\u5e02\u9ed1\u9f99\u6c5f\u7701",
     "meso:gadm_adm2":"Jixi",
@@ -42,6 +44,7 @@
     "mps:longitude":132.700601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u0634\u0649"
     ],
@@ -132,9 +135,6 @@
     "name:tur_x_preferred":[
         "Jixi"
     ],
-    "name:und_x_variant":[
-        "\u9e21\u897f\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u06cc\u0634\u06cc"
     ],
@@ -151,9 +151,9 @@
         "\u9e21\u897f\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"22580",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Jixi Shi",
@@ -187,7 +187,7 @@
         }
     ],
     "wof:id":1108732547,
-    "wof:lastmodified":1564234219,
+    "wof:lastmodified":1566688006,
     "wof:name":"Jixi",
     "wof:parent_id":85669849,
     "wof:placetype":"county",

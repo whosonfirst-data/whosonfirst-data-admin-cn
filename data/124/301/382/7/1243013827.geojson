@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"103.27366,29.94118,103.31366,29.98118",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0632\u0648\u0646\u063a\u0634\u0627\u0646"
     ],
@@ -129,8 +133,7 @@
     ],
     "name:und_x_variant":[
         "Chung-shan-p\u2019ing",
-        "Zhongshanping",
-        "Zhongshan"
+        "Zhongshanping"
     ],
     "name:urd_x_preferred":[
         "\u0698\u0648\u0646\u06af\u0634\u0627\u0646"
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":1243013827,
-    "wof:lastmodified":1564251100,
+    "wof:lastmodified":1566694163,
     "wof:name":"Zhongshan",
     "wof:parent_id":890515003,
     "wof:placetype":"locality",

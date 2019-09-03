@@ -9,16 +9,20 @@
     "geom:bbox":"122.45139,30.72361,122.45139,30.72361",
     "geom:latitude":30.72361,
     "geom:longitude":122.45139,
-    "gn:gn_country":"CN",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"CN",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"122.43139,30.70361,122.47139,30.74361",
     "lbl:latitude":30.72361,
     "lbl:longitude":122.45139,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sheng-szu"
     ],
     "qs_pg:aaroncc":"CN",
@@ -33,7 +37,7 @@
     "qs_pg:qs_id":372326,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "wof:belongsto":[
         85669835,
         102191569,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1125881735,
-    "wof:lastmodified":1509398211,
+    "wof:lastmodified":1566693802,
     "wof:name":"Caiyuan",
     "wof:parent_id":890513083,
     "wof:placetype":"locality",

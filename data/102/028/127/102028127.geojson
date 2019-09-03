@@ -14,6 +14,8 @@
     "iso:country":"CN",
     "lbl:latitude":27.347374,
     "lbl:longitude":110.956421,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":27.347374,
     "mps:longitude":110.956421,
     "mz:hierarchy_label":1,
@@ -169,7 +171,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043e\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shaoyang Zhen"
     ],
     "name:urd_x_preferred":[
@@ -300,7 +302,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":697,
     "wof:belongsto":[
         85669781,
@@ -313,7 +315,7 @@
     "wof:concordances":{
         "gn:id":8262127,
         "gp:id":12686198,
-        "qs:id":381598,
+        "qs_pg:id":381598,
         "wd:id":"Q194531"
     },
     "wof:country":"CN",
@@ -329,7 +331,7 @@
         }
     ],
     "wof:id":102028127,
-    "wof:lastmodified":1563393396,
+    "wof:lastmodified":1566655725,
     "wof:name":"Shaoyang",
     "wof:parent_id":890514309,
     "wof:placetype":"locality",

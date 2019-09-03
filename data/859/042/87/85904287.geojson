@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000252,
-    "geom:area_square_m":2390950.348519,
+    "geom:area_square_m":2390950.34852,
     "geom:bbox":"116.29989624,39.9507923291,116.324332317,39.9665957364",
     "geom:latitude":39.957564,
     "geom:longitude":116.312382,
@@ -14,6 +14,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.955748,
     "lbl:longitude":116.312695,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.958096,
     "mps:longitude":116.312377,
     "mz:hierarchy_label":1,
@@ -28,9 +29,8 @@
     "name:eng_x_preferred":[
         "Weigongcun"
     ],
-    "name:unk_x_variant":[
-        "Kung-ts\u2019un-chen",
-        "Weigongcun"
+    "name:und_x_variant":[
+        "Kung-ts\u2019un-chen"
     ],
     "qs:gn_adm0_cc":"CN",
     "qs:gn_fcode":"PPL",
@@ -60,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":16,
     "wof:belongsto":[
         102191569,
@@ -74,7 +74,6 @@
     "wof:concordances":{
         "gn:id":1810145,
         "gp:id":12906646,
-        "qs:id":1123047,
         "qs_pg:id":1123047
     },
     "wof:country":"CN",
@@ -94,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527638849,
+    "wof:lastmodified":1566665022,
     "wof:name":"Weigongcun",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

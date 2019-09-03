@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000278,
-    "geom:area_square_m":3130977.341052,
+    "geom:area_square_m":3130977.341045,
     "geom:bbox":"116.659455237,24.3130391621,116.67916782,24.3311026739",
     "geom:latitude":24.322071,
     "geom:longitude":116.669312,
     "iso:country":"CN",
     "lbl:latitude":24.322071,
     "lbl:longitude":116.669311,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.322071,
     "mps:longitude":116.669311,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ta-pu-hsien"
     ],
     "name:zho_x_preferred":[
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669743,
         102191569,
@@ -54,7 +57,6 @@
     "wof:concordances":{
         "gn:id":1806715,
         "gp:id":12687597,
-        "qs:id":372218,
         "qs_pg:id":372218
     },
     "wof:country":"CN",
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":102027505,
-    "wof:lastmodified":1497294845,
+    "wof:lastmodified":1566655629,
     "wof:name":"Huliao",
     "wof:parent_id":890516561,
     "wof:placetype":"locality",

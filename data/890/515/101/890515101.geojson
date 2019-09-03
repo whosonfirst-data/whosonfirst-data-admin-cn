@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":32.625942,
     "lbl:longitude":108.837012,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u9655\u897f\u7701",
     "meso:dissme":"\u5b89\u5eb7\u5e02\u9655\u897f\u7701",
     "meso:gadm_adm2":"Ankang",
@@ -43,6 +45,7 @@
     "mps:longitude":108.837012,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0622\u0646\u0643\u0627\u0646\u063a"
     ],
@@ -130,9 +133,6 @@
     "name:tur_x_preferred":[
         "Ankang"
     ],
-    "name:und_x_variant":[
-        "\u5b89\u5eb7\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0646\u06a9\u0627\u0646\u06af"
     ],
@@ -159,9 +159,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"23529",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Ankang Shi",
@@ -182,7 +182,7 @@
     "wof:concordances":{
         "gp:id":26198116,
         "hasc:id":"CN.SA.AK",
-        "qs:id":1061985
+        "qs_pg:id":1061985
     },
     "wof:country":"CN",
     "wof:created":1469055890,
@@ -197,7 +197,7 @@
         }
     ],
     "wof:id":890515101,
-    "wof:lastmodified":1564250028,
+    "wof:lastmodified":1566693786,
     "wof:name":"Ankang",
     "wof:parent_id":85669769,
     "wof:placetype":"county",

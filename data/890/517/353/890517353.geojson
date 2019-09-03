@@ -11,11 +11,15 @@
     "geom:longitude":118.96433,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":9580,
+    "gn:population":9580,
     "iso:country":"CN",
+    "lbl:bbox":"118.94433,24.86616,118.98433,24.90616",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Ta-tso"
     ],
     "name:zho_x_preferred":[
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1813046,
         "gp:id":2140062,
-        "qs:id":563573
+        "qs_pg:id":563573
     },
     "wof:country":"CN",
     "wof:created":1469056005,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890517353,
-    "wof:lastmodified":1505343905,
+    "wof:lastmodified":1566693584,
     "wof:name":"Dazuo",
     "wof:parent_id":890514127,
     "wof:placetype":"locality",

@@ -11,8 +11,12 @@
     "geom:longitude":115.308551,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"115.208551,40.351388,115.408551,40.551388",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Huailai Xian"
     ],
@@ -83,10 +87,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12686040,
-        "qs:id":893412,
         "qs_pg:id":248398,
         "wd:id":"Q1197061",
         "wk:page":"Huailai County"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":893412
     },
     "wof:country":"CN",
     "wof:created":1469055886,
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":890515013,
-    "wof:lastmodified":1563459831,
+    "wof:lastmodified":1566693769,
     "wof:name":"\u6000\u6765\u53bf",
     "wof:parent_id":890516481,
     "wof:placetype":"localadmin",

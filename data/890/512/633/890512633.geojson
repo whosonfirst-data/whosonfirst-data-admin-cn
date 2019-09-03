@@ -11,10 +11,14 @@
     "geom:longitude":106.51139,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":200,
+    "gn:population":200,
     "iso:country":"CN",
+    "lbl:bbox":"106.49139,28.74028,106.53139,28.78028",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bug_x_preferred":[
         "Nibas"
     ],
@@ -87,7 +91,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u0431\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ni-pa"
     ],
     "name:uzb_x_preferred":[
@@ -119,7 +123,7 @@
     "wof:concordances":{
         "gn:id":1799431,
         "gp:id":2146350,
-        "qs:id":561381,
+        "qs_pg:id":561381,
         "wk:page":"Nibas"
     },
     "wof:country":"CN",
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":890512633,
-    "wof:lastmodified":1564249925,
+    "wof:lastmodified":1566693740,
     "wof:name":"Niba",
     "wof:parent_id":890516473,
     "wof:placetype":"locality",

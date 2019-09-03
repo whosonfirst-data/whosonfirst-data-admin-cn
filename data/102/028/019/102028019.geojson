@@ -13,10 +13,12 @@
     "gn:fcode":"PPL",
     "gn:latitude":34.8988,
     "gn:longitude":108.95056,
-    "gn:pop":223603,
+    "gn:population":223603,
     "iso:country":"CN",
     "lbl:latitude":35.065973,
     "lbl:longitude":109.066772,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.065973,
     "mps:longitude":109.066772,
     "mz:hierarchy_label":1,
@@ -154,7 +156,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u043d\u0447\u0443\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shilipu"
     ],
     "name:urd_x_preferred":[
@@ -294,7 +296,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":215,
     "wof:belongsto":[
@@ -308,10 +310,12 @@
     "wof:concordances":{
         "gn:id":7064006,
         "gp:id":2156957,
-        "qs:id":277540,
-        "qs_pg:id":904106,
+        "qs_pg:id":277540,
         "wd:id":"Q514608",
         "wk:page":"Tongchuan"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":904106
     },
     "wof:country":"CN",
     "wof:geomhash":"29bef8b85fca97af28127c7922283f2b",
@@ -326,7 +330,7 @@
         }
     ],
     "wof:id":102028019,
-    "wof:lastmodified":1563393411,
+    "wof:lastmodified":1566655731,
     "wof:name":"Tongchuan",
     "wof:parent_id":1108732515,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":100.52696,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"100.42696,38.88481,100.62696,39.08481",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Chang-i Hsien"
     ],
     "name:zho_x_preferred":[
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1785034,
         "gp:id":12686575,
-        "qs:id":248482
+        "qs_pg:id":248482
     },
     "wof:country":"CN",
     "wof:created":1469055982,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":890516895,
-    "wof:lastmodified":1505343903,
+    "wof:lastmodified":1566693609,
     "wof:name":"\u5f20\u6396\u5e02",
     "wof:parent_id":890515163,
     "wof:placetype":"localadmin",

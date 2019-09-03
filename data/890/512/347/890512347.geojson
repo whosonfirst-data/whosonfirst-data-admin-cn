@@ -11,11 +11,15 @@
     "geom:longitude":110.12884,
     "gn:country":"CN",
     "gn:fcode":"PPLA3",
-    "gn:pop":83267,
+    "gn:population":83267,
     "iso:country":"CN",
+    "lbl:bbox":"110.10884,20.33,110.14884,20.37",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Suwenyun"
     ],
     "name:zho_x_preferred":[
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":1787837,
         "gp:id":2161784,
-        "qs:id":136314
+        "qs_pg:id":136314
     },
     "wof:country":"CN",
     "wof:created":1469055767,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890512347,
-    "wof:lastmodified":1505343887,
+    "wof:lastmodified":1566693746,
     "wof:name":"Xucheng",
     "wof:parent_id":890514753,
     "wof:placetype":"locality",

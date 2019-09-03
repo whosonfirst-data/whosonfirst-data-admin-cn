@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000304,
-    "geom:area_square_m":3123633.508193,
+    "geom:area_square_m":3123633.508198,
     "geom:bbox":"106.496145464,33.8933203413,106.517770482,33.91135221",
     "geom:latitude":33.902336,
     "geom:longitude":106.506958,
     "iso:country":"CN",
     "lbl:latitude":33.902336,
     "lbl:longitude":106.506958,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":33.902336,
     "mps:longitude":106.506958,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Feng"
     ],
     "qs:a1":"*",
@@ -33,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669769,
         102191569,
@@ -45,7 +48,6 @@
     "wof:concordances":{
         "gn:id":1794593,
         "gp:id":2157165,
-        "qs:id":1027523,
         "qs_pg:id":1027523
     },
     "wof:country":"CN",
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":102027145,
-    "wof:lastmodified":1497295728,
+    "wof:lastmodified":1566655664,
     "wof:name":"Shuangshipu",
     "wof:parent_id":890516525,
     "wof:placetype":"locality",

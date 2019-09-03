@@ -11,10 +11,14 @@
     "geom:longitude":107.81646,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"107.79646,29.93552,107.83646,29.97552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Xingyi"
     ],
@@ -27,7 +31,7 @@
     "name:pol_x_preferred":[
         "Xingyi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Xingyi Zhen"
     ],
     "name:zho_x_preferred":[
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":8406218,
         "gp:id":12687293,
-        "qs:id":1246269,
+        "qs_pg:id":1246269,
         "wk:page":"Xingyi"
     },
     "wof:country":"CN",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":890512203,
-    "wof:lastmodified":1564249927,
+    "wof:lastmodified":1566693741,
     "wof:name":"Xingyi",
     "wof:parent_id":890513063,
     "wof:placetype":"locality",

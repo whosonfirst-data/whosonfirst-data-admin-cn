@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"110.04722,27.45139,110.08722,27.49139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -34,7 +38,7 @@
         "gn:id":1982716
     },
     "wof:country":"CN",
-    "wof:geomhash":"d757c84e89466eee595e2a3d674e238c",
+    "wof:geomhash":"325e45c3a2c56b02c14bd952dffbbbc8",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209087377,
-    "wof:lastmodified":1536298143,
+    "wof:lastmodified":1566679623,
     "wof:name":"Tianjiacun",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     110.06722,
-    27.471390000000003,
+    27.47139,
     110.06722,
-    27.471390000000003
+    27.47139
 ],
   "geometry": {"coordinates":[110.06722000000001,27.47139],"type":"Point"}
 }

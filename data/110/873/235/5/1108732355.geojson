@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":43.380821,
     "lbl:longitude":81.690125,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a",
     "meso:dissme":"\u4f0a\u7281\u54c8\u8428\u514b\u81ea\u6cbb\u5dde\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a",
     "meso:gadm_adm2":"Ili Kazakh",
@@ -42,6 +44,7 @@
     "mps:longitude":81.690125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Yili"
     ],
@@ -57,16 +60,13 @@
     "name:swe_x_preferred":[
         "Yili"
     ],
-    "name:und_x_variant":[
-        "\u4f0a\u7281\u54c8\u8428\u514b\u81ea\u6cbb\u5dde"
-    ],
     "name:zho_x_preferred":[
         "\u4f0a\u7281\u54c8\u8428\u514b\u81ea\u6cbb\u5dde"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"57185",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Yining Shi",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1108732355,
-    "wof:lastmodified":1564234193,
+    "wof:lastmodified":1566687985,
     "wof:name":"Yili",
     "wof:parent_id":85669753,
     "wof:placetype":"county",

@@ -11,10 +11,14 @@
     "geom:longitude":119.61694,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":8240,
+    "gn:population":8240,
     "iso:country":"CN",
+    "lbl:bbox":"119.59694,26.22194,119.63694,26.26194",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cdo_x_preferred":[
         "Li\u00e8ng-g\u014fng"
     ],
@@ -63,7 +67,7 @@
     "name:swe_x_preferred":[
         "Lianjiang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tung-tai"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +103,7 @@
     "wof:concordances":{
         "gn:id":1812613,
         "gp:id":2139308,
-        "qs:id":89412,
+        "qs_pg:id":89412,
         "wd:id":"Q204827",
         "wk:page":"Lianjiang County"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890512169,
-    "wof:lastmodified":1563459689,
+    "wof:lastmodified":1566693737,
     "wof:name":"Dongdai",
     "wof:parent_id":890516575,
     "wof:placetype":"locality",

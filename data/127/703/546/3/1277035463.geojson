@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"103.14667,26.06333,103.18667,26.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Xincun"
     ],
@@ -38,8 +42,7 @@
     "name:und_x_variant":[
         "Tung-ch\u2019uan-shih",
         "Hsin-ts\u2019un-chieh",
-        "Hsin-ts\u2019un",
-        "Xincun"
+        "Hsin-ts\u2019un"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1277035463,
-    "wof:lastmodified":1564209289,
+    "wof:lastmodified":1566675853,
     "wof:name":"Xincun",
     "wof:parent_id":890513777,
     "wof:placetype":"locality",

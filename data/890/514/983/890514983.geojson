@@ -11,11 +11,15 @@
     "geom:longitude":121.83778,
     "gn:country":"CN",
     "gn:fcode":"PPLA3",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"121.73778,29.81917,121.93778,30.01917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Ardal Beilun"
     ],
@@ -52,7 +56,7 @@
     "name:swe_x_preferred":[
         "Beilun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beilungang"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +100,7 @@
     "wof:concordances":{
         "gn:id":1816625,
         "gp:id":12685388,
-        "qs:id":885886,
+        "qs_pg:id":885886,
         "wd:id":"Q144879",
         "wk:page":"Beilun District"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890514983,
-    "wof:lastmodified":1563459429,
+    "wof:lastmodified":1566693669,
     "wof:name":"\u5317\u4ed1\u533a",
     "wof:parent_id":890516553,
     "wof:placetype":"localadmin",

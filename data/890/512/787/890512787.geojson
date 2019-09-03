@@ -11,11 +11,15 @@
     "geom:longitude":111.82752,
     "gn:country":"CN",
     "gn:fcode":"PPLA3",
-    "gn:pop":83604,
+    "gn:population":83604,
     "iso:country":"CN",
+    "lbl:bbox":"111.80752,31.76394,111.84752,31.80394",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Nan-chang"
     ],
     "qs:name":"Nanzhang Chengguanzhen",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1799574,
         "gp:id":2163879,
-        "qs:id":1033156
+        "qs_pg:id":1033156
     },
     "wof:country":"CN",
     "wof:created":1469055785,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890512787,
-    "wof:lastmodified":1505343890,
+    "wof:lastmodified":1566693760,
     "wof:name":"Nanzhang Chengguanzhen",
     "wof:parent_id":1108732497,
     "wof:placetype":"locality",

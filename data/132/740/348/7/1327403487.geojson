@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"110.01,22.435,110.05,22.475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Tai'an"
     ],
@@ -118,9 +122,6 @@
     "name:tur_x_preferred":[
         "Tai'an"
     ],
-    "name:und_x_variant":[
-        "Tai\u2019an"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u0626\u06cc\u0622\u0646"
     ],
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":1327403487,
-    "wof:lastmodified":1564172578,
+    "wof:lastmodified":1566650282,
     "wof:name":"Tai'an",
     "wof:parent_id":890514591,
     "wof:placetype":"locality",

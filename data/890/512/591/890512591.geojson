@@ -11,8 +11,11 @@
     "geom:longitude":126.26139,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":66315,
+    "gn:population":66315,
     "iso:country":"CN",
+    "lbl:bbox":"126.24139,42.6025,126.28139,42.6425",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Huinan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chiu-hui-nan"
     ],
     "name:vie_x_preferred":[
@@ -176,7 +179,7 @@
     "wof:concordances":{
         "gn:id":2036685,
         "gp:id":2138191,
-        "qs:id":274134,
+        "qs_pg:id":274134,
         "wd:id":"Q926818",
         "wk:page":"Huinan County"
     },
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":890512591,
-    "wof:lastmodified":1563459753,
+    "wof:lastmodified":1566693750,
     "wof:name":"Huinan",
     "wof:parent_id":890516249,
     "wof:placetype":"locality",

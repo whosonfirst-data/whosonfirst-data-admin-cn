@@ -11,10 +11,14 @@
     "geom:longitude":114.04989,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"114.02989,22.61636,114.06989,22.65636",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u5742\u7530"
     ],
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":7001367,
         "gp:id":2162334,
-        "qs:id":1153925
+        "qs_pg:id":1153925
     },
     "wof:country":"CN",
     "wof:created":1469055784,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890512765,
-    "wof:lastmodified":1505343889,
+    "wof:lastmodified":1566693735,
     "wof:name":"Bantian",
     "wof:parent_id":890514737,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":121.05193,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"121.03193,30.19502,121.07193,30.23502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Ardal Zhenhai"
     ],
@@ -58,9 +62,6 @@
     "name:swe_x_preferred":[
         "Zhenhai"
     ],
-    "name:unk_x_variant":[
-        "Zhenhai"
-    ],
     "name:urd_x_preferred":[
         "\u0698\u06cc\u0646\u06c1\u0627\u0626\u06cc \u0636\u0644\u0639"
     ],
@@ -100,7 +101,7 @@
     "wof:concordances":{
         "gn:id":7530008,
         "gp:id":2132593,
-        "qs:id":979718,
+        "qs_pg:id":979718,
         "wd:id":"Q197712",
         "wk:page":"Zhenhai District"
     },
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":890515669,
-    "wof:lastmodified":1563459845,
+    "wof:lastmodified":1566693773,
     "wof:name":"\u9547\u6d77\u533a",
     "wof:parent_id":890516553,
     "wof:placetype":"locality",

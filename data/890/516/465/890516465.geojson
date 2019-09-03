@@ -11,7 +11,7 @@
     "geom:longitude":104.624235,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":36.799368,
     "lbl:longitude":104.638871,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u7518\u8083\u7701",
     "meso:dissme":"\u767d\u94f6\u5e02\u7518\u8083\u7701",
     "meso:gadm_adm2":"Baiyin",
@@ -46,6 +48,7 @@
     "mps:longitude":104.638871,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cym_x_preferred":[
         "Ardal Baiyin"
     ],
@@ -97,7 +100,7 @@
     "name:swe_x_preferred":[
         "Baiyin"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pai-yin Shih"
     ],
     "name:vie_x_preferred":[
@@ -128,9 +131,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"21266",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Baiyin Shi",
@@ -152,7 +155,7 @@
         "gn:id":1817238,
         "gp:id":26198130,
         "hasc:id":"CN.GS.BY",
-        "qs:id":212438,
+        "qs_pg:id":212438,
         "wd:id":"Q804044"
     },
     "wof:country":"CN",
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":890516465,
-    "wof:lastmodified":1563459226,
+    "wof:lastmodified":1566693613,
     "wof:name":"Baiyin",
     "wof:parent_id":85669711,
     "wof:placetype":"county",

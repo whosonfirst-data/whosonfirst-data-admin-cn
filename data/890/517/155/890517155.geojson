@@ -11,11 +11,15 @@
     "geom:longitude":108.43611,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":390,
+    "gn:population":390,
     "iso:country":"CN",
+    "lbl:bbox":"108.41611,27.66111,108.45611,27.70111",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Yangliu"
     ],
     "qs:name":"Yangliushu",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1787436,
         "gp:id":2146619,
-        "qs:id":559479
+        "qs_pg:id":559479
     },
     "wof:country":"CN",
     "wof:created":1469055996,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890517155,
-    "wof:lastmodified":1505343904,
+    "wof:lastmodified":1566693591,
     "wof:name":"Yangliushu",
     "wof:parent_id":1108732513,
     "wof:placetype":"locality",

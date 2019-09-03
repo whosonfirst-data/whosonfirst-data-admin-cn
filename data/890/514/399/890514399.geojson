@@ -11,7 +11,7 @@
     "geom:longitude":120.194443,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
         "Huludao City"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":40.504659,
     "lbl:longitude":120.0564,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u8fbd\u5b81\u7701",
     "meso:dissme":"\u846b\u82a6\u5c9b\u5e02\u8fbd\u5b81\u7701",
     "meso:gadm_adm2":"Huludao",
@@ -45,6 +47,7 @@
     "mps:longitude":120.0564,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Huludao"
     ],
@@ -129,7 +132,7 @@
     "name:tur_x_preferred":[
         "Huludao"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chin-hsi Hsien"
     ],
     "name:urd_x_preferred":[
@@ -155,9 +158,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"10404",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Huludao Shi",
@@ -178,7 +181,7 @@
     "wof:concordances":{
         "gn:id":2036430,
         "hasc:id":"CN.LN.HL",
-        "qs:id":1032020
+        "qs_pg:id":1032020
     },
     "wof:country":"CN",
     "wof:created":1469055859,
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":890514399,
-    "wof:lastmodified":1564249746,
+    "wof:lastmodified":1566693659,
     "wof:name":"Huludao",
     "wof:parent_id":85669807,
     "wof:placetype":"county",

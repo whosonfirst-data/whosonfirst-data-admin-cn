@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":29.036961,
     "lbl:longitude":111.687012,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":29.036961,
     "mps:longitude":111.687012,
     "mz:hierarchy_label":1,
@@ -177,7 +179,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0430\u043d\u0434\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wuling"
     ],
     "name:urd_x_preferred":[
@@ -316,7 +318,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3859,
     "wof:belongsto":[
@@ -331,7 +333,7 @@
         "fct:id":"06b61f5e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1791121,
         "gp:id":20071152,
-        "qs:id":938027,
+        "qs_pg:id":938027,
         "wd:id":"Q416544",
         "wk:page":"Changde"
     },
@@ -351,7 +353,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393326,
+    "wof:lastmodified":1566655698,
     "wof:megacity":1,
     "wof:name":"Changde",
     "wof:parent_id":890515867,

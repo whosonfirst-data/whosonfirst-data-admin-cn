@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":31.332525,
     "lbl:longitude":121.261597,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.332525,
     "mps:longitude":121.261597,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Malu"
     ],
@@ -40,7 +43,7 @@
     "name:spa_x_preferred":[
         "Malu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ma-lu-chen"
     ],
     "name:zho_x_preferred":[
@@ -58,7 +61,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":784,
     "wof:belongsto":[
         85669831,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":102027333,
-    "wof:lastmodified":1563393269,
+    "wof:lastmodified":1566655682,
     "wof:name":"Malu",
     "wof:parent_id":890514815,
     "wof:placetype":"locality",

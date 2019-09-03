@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":41.269804,
     "lbl:longitude":123.171157,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":41.269804,
     "mps:longitude":123.171157,
     "mz:hierarchy_label":1,
@@ -180,7 +182,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u044f\u043e\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Liao-yang-shih"
     ],
     "name:urd_x_preferred":[
@@ -324,7 +326,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1167,
     "wof:belongsto":[
@@ -338,10 +340,12 @@
     "wof:concordances":{
         "gn:id":1783600,
         "gp:id":15016060,
-        "qs:id":204957,
-        "qs_pg:id":247564,
+        "qs_pg:id":204957,
         "wd:id":"Q75203",
         "wk:page":"Liaoyang"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":247564
     },
     "wof:country":"CN",
     "wof:geomhash":"cee853f9a73e457a207cdf3997469fdb",
@@ -356,7 +360,7 @@
         }
     ],
     "wof:id":102027891,
-    "wof:lastmodified":1563393322,
+    "wof:lastmodified":1566655697,
     "wof:megacity":1,
     "wof:name":"Liaoyang",
     "wof:parent_id":890514643,

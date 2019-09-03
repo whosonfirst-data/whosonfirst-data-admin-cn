@@ -11,10 +11,14 @@
     "geom:longitude":120.37098,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"120.35098,32.2303,120.39098,32.2703",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gaoming"
     ],
@@ -42,7 +46,7 @@
     "name:spa_x_preferred":[
         "Gaoming"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u9ad8\u660e"
     ],
     "name:vie_x_preferred":[
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":1548435,
         "gp:id":2134757,
-        "qs:id":276332,
+        "qs_pg:id":276332,
         "wk:page":"Gaoming District"
     },
     "wof:country":"CN",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":890512237,
-    "wof:lastmodified":1564249964,
+    "wof:lastmodified":1566693757,
     "wof:name":"Gaoming",
     "wof:parent_id":890515155,
     "wof:placetype":"locality",

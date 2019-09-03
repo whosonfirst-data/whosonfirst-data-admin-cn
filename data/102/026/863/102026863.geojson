@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00026,
-    "geom:area_square_m":2961649.372209,
+    "geom:area_square_m":2961649.372203,
     "geom:bbox":"114.110762886,22.6399199854,114.130204005,22.6585243772",
     "geom:latitude":22.649783,
     "geom:longitude":114.120122,
@@ -14,11 +14,14 @@
     "iso:country":"CN",
     "lbl:latitude":22.649498,
     "lbl:longitude":114.119335,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.649498,
     "mps:longitude":114.119335,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "\u9967\u5c4b\u58a9"
     ],
     "qs:a1":"*",
@@ -33,7 +36,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669743,
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102026863,
-    "wof:lastmodified":1501220779,
+    "wof:lastmodified":1566655752,
     "wof:name":"Tangwudun",
     "wof:parent_id":890514737,
     "wof:placetype":"locality",

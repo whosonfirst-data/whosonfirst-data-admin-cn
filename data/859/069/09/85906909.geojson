@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000255,
-    "geom:area_square_m":2422222.117741,
+    "geom:area_square_m":2422222.117737,
     "geom:bbox":"116.3671875,39.920269329,116.386413574,39.9366368827",
     "geom:latitude":39.927915,
     "geom:longitude":116.377282,
@@ -14,6 +14,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.927189,
     "lbl:longitude":116.381805,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.927641,
     "mps:longitude":116.377281,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Changqiao"
-    ],
-    "name:unk_x_variant":[
         "Changqiao"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -59,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -72,7 +70,6 @@
     "wof:concordances":{
         "gn:id":7869868,
         "gp:id":22724389,
-        "qs:id":223956,
         "qs_pg:id":223956
     },
     "wof:country":"CN",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497314551,
+    "wof:lastmodified":1566665037,
     "wof:name":"Changqiao",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

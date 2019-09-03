@@ -15,10 +15,13 @@
     "iso:country":"CN",
     "lbl:latitude":31.029397,
     "lbl:longitude":119.910211,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":31.029397,
     "mps:longitude":119.910211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Zhicheng"
     ],
@@ -31,7 +34,7 @@
     "name:swe_x_preferred":[
         "Zhicheng"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Changhing"
     ],
     "name:zho_x_preferred":[
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":109,
     "wof:belongsto":[
@@ -69,7 +72,6 @@
     "wof:concordances":{
         "gn:id":1784553,
         "gp:id":2132619,
-        "qs:id":136228,
         "qs_pg:id":136228
     },
     "wof:country":"CN",
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":102026895,
-    "wof:lastmodified":1564178943,
+    "wof:lastmodified":1566655740,
     "wof:name":"Zhicheng",
     "wof:parent_id":890516975,
     "wof:placetype":"locality",

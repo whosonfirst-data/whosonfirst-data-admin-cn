@@ -25,6 +25,7 @@
     ],
     "lbl:latitude":41.600618,
     "lbl:longitude":85.94488,
+    "lbl:min_zoom":8.0,
     "meso:name_alt":"\u65b0\u7586\u7dad\u543e\u723e\u81ea\u6cbb\u5340|\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a",
     "meso:name_loc":"\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a",
     "mps:latitude":41.600618,
@@ -380,11 +381,7 @@
         "\u0421\u0456\u043d\u044c\u0446\u0437\u044f\u043d-\u0423\u0439\u0433\u0443\u0440\u0441\u044c\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:und_x_variant":[
-        "\u65b0\u7586\u7dad\u543e\u723e\u81ea\u6cbb\u5340|\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a",
-        "\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a"
-    ],
-    "name:unk_x_variant":[
-        "\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a"
+        "\u65b0\u7586\u7dad\u543e\u723e\u81ea\u6cbb\u5340|\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0646\u06a9\u06cc\u0627\u0646\u06af"
@@ -497,9 +494,9 @@
         "quattroshapes",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"1,743,441",
     "statoids:area_mi":"673,146",
     "statoids:as_of_date":"2010-11-01",
@@ -527,7 +524,7 @@
         "hasc:id":"CN.XJ",
         "iso:id":"CN-XJ",
         "loc:id":"n81018776",
-        "qs:id":931671,
+        "qs_pg:id":931671,
         "unlc:id":"CN-65",
         "wd:id":"Q34800",
         "wk:page":"Xinjiang"
@@ -554,11 +551,10 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1565664520,
+    "wof:lastmodified":1566665055,
     "wof:name":"Xinjiang Uyghur",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":21813334,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-cn",

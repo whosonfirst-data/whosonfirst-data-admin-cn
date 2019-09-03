@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"111.29083,37.96611,111.33083,38.00611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fangshan"
     ],
@@ -53,8 +57,7 @@
     "name:und_x_variant":[
         "Chiu-fang-shan",
         "Fang-shan-hsien",
-        "Fang-shan-chen",
-        "Fangshan"
+        "Fang-shan-chen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1292968753,
-    "wof:lastmodified":1564198815,
+    "wof:lastmodified":1566670054,
     "wof:name":"Fangshan",
     "wof:parent_id":1108732379,
     "wof:placetype":"locality",

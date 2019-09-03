@@ -11,7 +11,7 @@
     "geom:longitude":122.215879,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":39.674399,
     "lbl:longitude":122.224429,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u8fbd\u5b81\u7701",
     "meso:dissme":"\u5927\u8fde\u5e02\u8fbd\u5b81\u7701",
     "meso:gadm_adm2":"Dalian",
@@ -46,6 +48,7 @@
     "mps:longitude":122.224429,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Dalian"
     ],
@@ -247,7 +250,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u043b\u044f\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "L\u00fc-ta Shih"
     ],
     "name:urd_x_preferred":[
@@ -286,9 +289,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"13331",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Dalian Shi",
@@ -310,7 +313,7 @@
         "gn:id":1814068,
         "gp:id":26198070,
         "hasc:id":"CN.LN.DL",
-        "qs:id":898920
+        "qs_pg:id":898920
     },
     "wof:country":"CN",
     "wof:created":1469055934,
@@ -325,7 +328,7 @@
         }
     ],
     "wof:id":890515891,
-    "wof:lastmodified":1564250047,
+    "wof:lastmodified":1566693793,
     "wof:name":"Dalian",
     "wof:parent_id":85669807,
     "wof:placetype":"county",

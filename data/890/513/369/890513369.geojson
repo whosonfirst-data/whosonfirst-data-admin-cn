@@ -11,7 +11,7 @@
     "geom:longitude":112.960148,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":37.427225,
     "lbl:longitude":113.053099,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5c71\u897f\u7701",
     "meso:dissme":"\u664b\u4e2d\u5e02\u5c71\u897f\u7701",
     "meso:gadm_adm2":"Jinzhong",
@@ -46,6 +48,7 @@
     "mps:longitude":113.053099,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u0646\u062a\u0634\u0648\u0646\u063a"
     ],
@@ -121,7 +124,7 @@
     "name:tur_x_preferred":[
         "Jinzhong"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chin-chung Chuan-ch\u2019\u00fc"
     ],
     "name:urd_x_preferred":[
@@ -157,9 +160,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"16419",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Jinzhong Shi",
@@ -181,7 +184,7 @@
         "gn:id":1805302,
         "gp:id":26198308,
         "hasc:id":"CN.SX.JZ",
-        "qs:id":1310341
+        "qs_pg:id":1310341
     },
     "wof:country":"CN",
     "wof:created":1469055813,
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":890513369,
-    "wof:lastmodified":1564249873,
+    "wof:lastmodified":1566693717,
     "wof:name":"Jinzhong",
     "wof:parent_id":85669773,
     "wof:placetype":"county",

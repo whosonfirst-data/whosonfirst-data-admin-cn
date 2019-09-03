@@ -13,10 +13,13 @@
     "iso:country":"CN",
     "lbl:latitude":28.212451,
     "lbl:longitude":113.373444,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":28.212451,
     "mps:longitude":113.373444,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":4.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0648\u064a\u0627\u0646\u063a"
     ],
@@ -152,7 +155,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u044e\u044f\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Liu-yang-hsien"
     ],
     "name:urd_x_preferred":[
@@ -193,7 +196,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2349,
     "wof:belongsto":[
@@ -207,7 +210,7 @@
     "wof:concordances":{
         "gn:id":1802875,
         "gp:id":2142731,
-        "qs:id":136589,
+        "qs_pg:id":136589,
         "wd:id":"Q1025444",
         "wk:page":"Liuyang"
     },
@@ -224,7 +227,7 @@
         }
     ],
     "wof:id":102027361,
-    "wof:lastmodified":1563393238,
+    "wof:lastmodified":1566655672,
     "wof:name":"Liuyang",
     "wof:parent_id":890513085,
     "wof:placetype":"locality",

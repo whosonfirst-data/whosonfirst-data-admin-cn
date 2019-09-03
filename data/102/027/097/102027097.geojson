@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000541,
-    "geom:area_square_m":5798289.617003,
+    "geom:area_square_m":5798289.617007,
     "geom:bbox":"119.515406705,29.9030749441,119.547092119,29.9306291165",
     "geom:latitude":29.916852,
     "geom:longitude":119.53125,
     "iso:country":"CN",
     "lbl:latitude":29.920854,
     "lbl:longitude":119.527779,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":29.920854,
     "mps:longitude":119.527779,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "T\u2019ung-lu-hsien-chih"
     ],
     "qs:a1":"*",
@@ -31,7 +34,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669835,
         102191569,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":102027097,
-    "wof:lastmodified":1501222193,
+    "wof:lastmodified":1566655656,
     "wof:name":"Tonglu",
     "wof:parent_id":890516555,
     "wof:placetype":"locality",

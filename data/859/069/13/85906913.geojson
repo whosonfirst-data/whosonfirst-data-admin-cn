@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.905334,
     "lbl:longitude":116.416089,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.905411,
     "mps:longitude":116.416043,
     "mz:hierarchy_label":1,
@@ -29,9 +30,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u5efa\u56fd\u9580"
-    ],
-    "name:unk_x_variant":[
-        "Jianguomen"
     ],
     "name:zho_x_preferred":[
         "\u5efa\u56fd\u95e8"
@@ -62,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":316,
     "wof:belongsto":[
         102191569,
@@ -75,7 +73,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724391,
-        "qs:id":1080115,
         "qs_pg:id":1080115,
         "wd:id":"Q3270485"
     },
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269289,
+    "wof:lastmodified":1566665038,
     "wof:name":"Jianguomen",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

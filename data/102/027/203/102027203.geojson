@@ -13,10 +13,13 @@
     "iso:country":"CN",
     "lbl:latitude":23.551868,
     "lbl:longitude":116.511527,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":23.551868,
     "mps:longitude":116.511527,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Jieyang"
     ],
@@ -138,7 +141,7 @@
     "name:tur_x_preferred":[
         "Jieyang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chieh-yang"
     ],
     "name:urd_x_preferred":[
@@ -183,7 +186,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":221,
     "wof:belongsto":[
@@ -198,7 +201,7 @@
         "fct:id":"06b9bd8a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1797121,
         "gp:id":12687627,
-        "qs:id":467799,
+        "qs_pg:id":467799,
         "wd:id":"Q26323",
         "wk:page":"Jieyang"
     },
@@ -218,7 +221,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393182,
+    "wof:lastmodified":1566655653,
     "wof:name":"Jieyang",
     "wof:parent_id":1108732429,
     "wof:placetype":"locality",

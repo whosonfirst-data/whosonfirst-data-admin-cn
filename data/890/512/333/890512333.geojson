@@ -11,10 +11,14 @@
     "geom:longitude":118.09049,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":1400,
+    "gn:population":1400,
     "iso:country":"CN",
+    "lbl:bbox":"118.07049,24.23823,118.11049,24.27823",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Zhenhai"
     ],
@@ -39,7 +43,7 @@
     "name:swe_x_preferred":[
         "Zhenhai"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chen-hai"
     ],
     "name:urd_x_preferred":[
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":1784648,
         "gp:id":2140269,
-        "qs:id":136229,
+        "qs_pg:id":136229,
         "wk:page":"Zhenhai District"
     },
     "wof:country":"CN",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":890512333,
-    "wof:lastmodified":1564249948,
+    "wof:lastmodified":1566693750,
     "wof:name":"Zhenhai",
     "wof:parent_id":890513339,
     "wof:placetype":"locality",

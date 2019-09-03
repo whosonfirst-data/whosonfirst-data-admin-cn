@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":43.096972,
     "lbl:longitude":128.919067,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.096972,
     "mps:longitude":128.919067,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Songjiang"
     ],
@@ -37,7 +40,7 @@
     "name:swe_x_preferred":[
         "Songjiang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Antu"
     ],
     "qs:a1":"*",
@@ -52,7 +55,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":173,
     "wof:belongsto":[
         85669843,
@@ -65,7 +68,7 @@
     "wof:concordances":{
         "gn:id":2034694,
         "gp:id":2137270,
-        "qs:id":137692
+        "qs_pg:id":137692
     },
     "wof:country":"CN",
     "wof:geomhash":"c8b2d1d6e2dc8ea25465cb8837954b8b",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":102027871,
-    "wof:lastmodified":1564178914,
+    "wof:lastmodified":1566655690,
     "wof:name":"Songjiang",
     "wof:parent_id":1108732421,
     "wof:placetype":"locality",

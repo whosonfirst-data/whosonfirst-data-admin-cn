@@ -13,10 +13,13 @@
     "iso:country":"CN",
     "lbl:latitude":33.866445,
     "lbl:longitude":115.779915,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":33.866445,
     "mps:longitude":115.779915,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u0634\u0648"
     ],
@@ -125,9 +128,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
-        "Pochow"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0698\u0648\u0648"
     ],
@@ -173,7 +173,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":609,
     "wof:belongsto":[
@@ -188,7 +188,7 @@
         "fct:id":"06b69b28-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1816234,
         "gp:id":12685309,
-        "qs:id":1232885,
+        "qs_pg:id":1232885,
         "wd:id":"Q360769",
         "wk:page":"Bozhou"
     },
@@ -208,7 +208,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393374,
+    "wof:lastmodified":1566655716,
     "wof:name":"Bozhou",
     "wof:parent_id":890515239,
     "wof:placetype":"locality",

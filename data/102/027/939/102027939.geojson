@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":40.124288,
     "lbl:longitude":124.387375,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":40.124288,
     "mps:longitude":124.387375,
     "mz:hierarchy_label":1,
@@ -210,7 +212,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u043d\u044c\u0434\u0443\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Antung"
     ],
     "name:urd_x_preferred":[
@@ -340,7 +342,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2546,
     "wof:belongsto":[
@@ -354,7 +356,7 @@
     "wof:concordances":{
         "gn:id":2037886,
         "gp:id":2147990,
-        "qs:id":274143,
+        "qs_pg:id":274143,
         "wd:id":"Q75110",
         "wk:page":"Dandong"
     },
@@ -371,7 +373,7 @@
         }
     ],
     "wof:id":102027939,
-    "wof:lastmodified":1563393113,
+    "wof:lastmodified":1566655630,
     "wof:megacity":1,
     "wof:name":"Dandong",
     "wof:parent_id":890514725,

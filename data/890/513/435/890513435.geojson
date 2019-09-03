@@ -11,11 +11,15 @@
     "geom:longitude":113.78311,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"113.68311,23.25278,113.88311,23.45278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Tseng-ch\u2019eng Hsien"
     ],
     "name:zho_x_preferred":[
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1785436,
-        "qs:id":276554
+        "qs_pg:id":276554
     },
     "wof:country":"CN",
     "wof:created":1469055816,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890513435,
-    "wof:lastmodified":1505343891,
+    "wof:lastmodified":1566693726,
     "wof:name":"Zengcheng Shi",
     "wof:parent_id":890513087,
     "wof:placetype":"localadmin",

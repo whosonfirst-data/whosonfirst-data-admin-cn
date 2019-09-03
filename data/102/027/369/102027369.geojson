@@ -12,6 +12,8 @@
     "iso:country":"CN",
     "lbl:latitude":24.332074,
     "lbl:longitude":109.420802,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.332074,
     "mps:longitude":109.420802,
     "mz:hierarchy_label":1,
@@ -203,7 +205,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u044e\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mapinghsien"
     ],
     "name:urd_x_preferred":[
@@ -344,7 +346,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1120,
     "wof:belongsto":[
         85669717,
@@ -357,7 +359,7 @@
     "wof:concordances":{
         "gn:id":1803300,
         "gp:id":26198175,
-        "qs:id":1077118,
+        "qs_pg:id":1077118,
         "wd:id":"Q38968"
     },
     "wof:country":"CN",
@@ -373,7 +375,7 @@
         }
     ],
     "wof:id":102027369,
-    "wof:lastmodified":1563393258,
+    "wof:lastmodified":1566655679,
     "wof:megacity":1,
     "wof:name":"Liuzhou",
     "wof:parent_id":890515127,

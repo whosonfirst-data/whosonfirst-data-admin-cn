@@ -11,11 +11,15 @@
     "geom:longitude":109.07111,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":1911,
+    "gn:population":1911,
     "iso:country":"CN",
+    "lbl:bbox":"109.05111,26.38167,109.09111,26.42167",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Aoshi Zhen"
     ],
     "qs:name":"Aoshi",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1817891,
         "gp:id":2147092,
-        "qs:id":136935
+        "qs_pg:id":136935
     },
     "wof:country":"CN",
     "wof:created":1469055744,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890511765,
-    "wof:lastmodified":1505343884,
+    "wof:lastmodified":1566693643,
     "wof:name":"Aoshi",
     "wof:parent_id":1108794067,
     "wof:placetype":"locality",

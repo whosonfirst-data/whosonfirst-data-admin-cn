@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":41.303596,
     "lbl:longitude":82.854716,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a",
     "meso:dissme":"\u963f\u514b\u82cf\u5730\u533a\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a",
     "meso:gadm_adm2":"Aksu",
@@ -42,19 +44,17 @@
     "mps:longitude":82.854716,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Akesu"
-    ],
-    "name:und_x_variant":[
-        "\u963f\u514b\u82cf\u5730\u533a"
     ],
     "name:zho_x_preferred":[
         "\u963f\u514b\u82cf\u5730\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"131343",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Akesu Shi",
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1108732529,
-    "wof:lastmodified":1554759577,
+    "wof:lastmodified":1566688015,
     "wof:name":"Akesu",
     "wof:parent_id":85669753,
     "wof:placetype":"county",

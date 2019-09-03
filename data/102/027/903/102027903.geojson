@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":43.814711,
     "lbl:longitude":127.348023,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":43.814711,
     "mps:longitude":127.348023,
     "mz:hierarchy_label":1,
@@ -132,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0437\u044f\u043e\u0445\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chiacho"
     ],
     "name:urd_x_preferred":[
@@ -268,7 +270,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":297,
     "wof:belongsto":[
@@ -282,7 +284,6 @@
     "wof:concordances":{
         "gn:id":2036536,
         "gp:id":2137611,
-        "qs:id":274132,
         "qs_pg:id":274132,
         "wd:id":"Q1014635",
         "wk:page":"Jiaohe, Jilin"
@@ -300,7 +301,7 @@
         }
     ],
     "wof:id":102027903,
-    "wof:lastmodified":1563393250,
+    "wof:lastmodified":1566655678,
     "wof:name":"Jiaohe",
     "wof:parent_id":890516735,
     "wof:placetype":"locality",

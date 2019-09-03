@@ -11,7 +11,7 @@
     "geom:longitude":111.135297,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":30.740539,
     "lbl:longitude":111.118274,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6e56\u5317\u7701",
     "meso:dissme":"\u5b9c\u660c\u5e02\u6e56\u5317\u7701",
     "meso:gadm_adm2":"Yichang",
@@ -46,6 +48,7 @@
     "mps:longitude":111.118274,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Yichang"
     ],
@@ -148,7 +151,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0447\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "I-ch\u2019ang Shih"
     ],
     "name:urd_x_preferred":[
@@ -188,9 +191,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"21084",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Yichang Shi",
@@ -212,7 +215,7 @@
         "gn:id":1786761,
         "gp:id":26198266,
         "hasc:id":"CN.HU.YC",
-        "qs:id":1287948
+        "qs_pg:id":1287948
     },
     "wof:country":"CN",
     "wof:created":1469055811,
@@ -227,7 +230,7 @@
         }
     ],
     "wof:id":890513331,
-    "wof:lastmodified":1564249829,
+    "wof:lastmodified":1566693699,
     "wof:name":"Yichang",
     "wof:parent_id":85669777,
     "wof:placetype":"county",

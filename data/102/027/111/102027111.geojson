@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":39.633127,
     "lbl:longitude":118.168129,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":39.633127,
     "mps:longitude":118.168129,
     "mz:hierarchy_label":1,
@@ -220,9 +222,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043d\u0448\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Tongshan"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u0646\u06af\u0634\u0627\u0646"
     ],
@@ -361,7 +360,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1900,
     "wof:belongsto":[
@@ -376,7 +375,6 @@
         "fct:id":"06b97172-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1793346,
         "gp:id":2171288,
-        "qs:id":8645,
         "qs_pg:id":8645,
         "wd:id":"Q58422"
     },
@@ -396,7 +394,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393212,
+    "wof:lastmodified":1566655665,
     "wof:megacity":1,
     "wof:name":"Tangshan",
     "wof:parent_id":890516585,

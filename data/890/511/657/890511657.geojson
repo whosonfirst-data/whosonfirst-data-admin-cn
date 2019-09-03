@@ -11,11 +11,15 @@
     "geom:longitude":117.19917,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":4702,
+    "gn:population":4702,
     "iso:country":"CN",
+    "lbl:bbox":"117.17917,39.785,117.21917,39.825",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kou-t\u2019ou"
     ],
     "qs:name":"Goutou",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1941718,
         "gp:id":2159892,
-        "qs:id":569644
+        "qs_pg:id":569644
     },
     "wof:country":"CN",
     "wof:created":1469055739,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890511657,
-    "wof:lastmodified":1505343883,
+    "wof:lastmodified":1566693647,
     "wof:name":"Goutou",
     "wof:parent_id":890513813,
     "wof:placetype":"locality",

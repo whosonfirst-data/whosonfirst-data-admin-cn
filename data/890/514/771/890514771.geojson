@@ -11,7 +11,7 @@
     "geom:longitude":121.981077,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":37.224967,
     "lbl:longitude":122.056063,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5c71\u4e1c\u7701",
     "meso:dissme":"\u5a01\u6d77\u5e02\u5c71\u4e1c\u7701",
     "meso:gadm_adm2":"Weihai",
@@ -46,6 +48,7 @@
     "mps:longitude":122.056063,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Weihai"
     ],
@@ -142,7 +145,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0439\u0445\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wei-hai Shih"
     ],
     "name:urd_x_preferred":[
@@ -181,9 +184,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"5436",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Weihai Shi",
@@ -205,7 +208,7 @@
         "gn:id":1791671,
         "gp:id":26198081,
         "hasc:id":"CN.SD.WH",
-        "qs:id":898921
+        "qs_pg:id":898921
     },
     "wof:country":"CN",
     "wof:created":1469055876,
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":890514771,
-    "wof:lastmodified":1564249774,
+    "wof:lastmodified":1566693672,
     "wof:name":"Weihai",
     "wof:parent_id":85669813,
     "wof:placetype":"county",

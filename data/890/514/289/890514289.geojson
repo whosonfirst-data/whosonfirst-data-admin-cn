@@ -11,7 +11,7 @@
     "geom:longitude":120.428794,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
         "Wenzhou City"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":27.734517,
     "lbl:longitude":120.365071,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6d59\u6c5f\u7701",
     "meso:dissme":"\u6e29\u5dde\u5e02\u6d59\u6c5f\u7701",
     "meso:gadm_adm2":"Wenzhou",
@@ -45,6 +47,7 @@
     "mps:longitude":120.365071,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Wenzhou"
     ],
@@ -180,7 +183,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043d\u044c\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wen-chou Shih"
     ],
     "name:urd_x_preferred":[
@@ -206,9 +209,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"11784",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Wenzhou Shi",
@@ -229,7 +232,7 @@
     "wof:concordances":{
         "gn:id":1791385,
         "hasc:id":"CN.ZJ.WZ",
-        "qs:id":1031493
+        "qs_pg:id":1031493
     },
     "wof:country":"CN",
     "wof:created":1469055855,
@@ -244,7 +247,7 @@
         }
     ],
     "wof:id":890514289,
-    "wof:lastmodified":1564249754,
+    "wof:lastmodified":1566693662,
     "wof:name":"Wenzhou",
     "wof:parent_id":85669835,
     "wof:placetype":"county",

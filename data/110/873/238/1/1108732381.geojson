@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":37.167766,
     "lbl:longitude":106.275499,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5b81\u590f\u56de\u65cf\u81ea\u6cbb\u533a",
     "meso:dissme":"\u5434\u5fe0\u5e02\u5b81\u590f\u56de\u65cf\u81ea\u6cbb\u533a",
     "meso:gadm_adm2":"Wuzhong",
@@ -42,6 +44,7 @@
     "mps:longitude":106.275499,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Wuzhong"
     ],
@@ -60,16 +63,13 @@
     "name:nor_x_preferred":[
         "Wuzhong"
     ],
-    "name:und_x_variant":[
-        "\u5434\u5fe0\u5e02"
-    ],
     "name:zho_x_preferred":[
         "\u5434\u5fe0\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"27426",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Wuzhong Shi",
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1108732381,
-    "wof:lastmodified":1564234216,
+    "wof:lastmodified":1566688000,
     "wof:name":"Wuzhong",
     "wof:parent_id":85669763,
     "wof:placetype":"county",

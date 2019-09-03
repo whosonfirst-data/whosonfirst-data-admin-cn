@@ -15,6 +15,8 @@
     "iso:country":"CN",
     "lbl:latitude":21.191661,
     "lbl:longitude":110.406792,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":21.191661,
     "mps:longitude":110.406792,
     "mz:hierarchy_label":1,
@@ -200,7 +202,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0436\u0430\u043d\u044c\u0446\u0437\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tsamkong"
     ],
     "name:urd_x_preferred":[
@@ -341,7 +343,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2290,
     "wof:belongsto":[
@@ -356,7 +358,6 @@
         "fct:id":"06b612d4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1784990,
         "gp:id":2161839,
-        "qs:id":8594,
         "qs_pg:id":8594,
         "wd:id":"Q59144"
     },
@@ -376,7 +377,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393474,
+    "wof:lastmodified":1566655753,
     "wof:megacity":1,
     "wof:name":"Zhanjiang",
     "wof:parent_id":890514753,

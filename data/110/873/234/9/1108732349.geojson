@@ -12,6 +12,8 @@
     "iso:country":"CN",
     "lbl:latitude":44.371138,
     "lbl:longitude":87.569117,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a",
     "meso:dissme":"\u4e94\u5bb6\u6e20\u5e02\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a",
     "meso:gadm_adm2":"Changji Hui",
@@ -36,17 +38,15 @@
     "mps:longitude":87.569117,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Zizhiqu Zhixiaxian Jixingzheng Quhua"
-    ],
-    "name:und_x_variant":[
-        "\u4e94\u5bb6\u6e20\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u4e94\u5bb6\u6e20\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85669753,
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":1108732349,
-    "wof:lastmodified":1555220445,
+    "wof:lastmodified":1566687988,
     "wof:name":"Zizhiqu Zhixiaxian Jixingzheng Quhua",
     "wof:parent_id":85669753,
     "wof:placetype":"county",

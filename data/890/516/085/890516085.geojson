@@ -11,11 +11,15 @@
     "geom:longitude":120.49083,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":3355,
+    "gn:population":3355,
     "iso:country":"CN",
+    "lbl:bbox":"120.47083,36.07778,120.51083,36.11778",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Shilaorencun"
     ],
     "name:zho_x_preferred":[
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1795226,
         "gp:id":2167885,
-        "qs:id":136453
+        "qs_pg:id":136453
     },
     "wof:country":"CN",
     "wof:created":1469055943,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890516085,
-    "wof:lastmodified":1505343901,
+    "wof:lastmodified":1566693607,
     "wof:name":"Shilaoren",
     "wof:parent_id":890514775,
     "wof:placetype":"locality",

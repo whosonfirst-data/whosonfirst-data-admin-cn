@@ -14,6 +14,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.914973,
     "lbl:longitude":116.347206,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.914476,
     "mps:longitude":116.345803,
     "mz:hierarchy_label":1,
@@ -28,9 +29,8 @@
     "name:eng_x_preferred":[
         "Xicheng"
     ],
-    "name:unk_x_variant":[
-        "Jiuxincheng",
-        "Xicheng"
+    "name:und_x_variant":[
+        "Jiuxincheng"
     ],
     "qs:gn_adm0_cc":"CN",
     "qs:gn_fcode":"PPL",
@@ -60,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -73,7 +73,6 @@
     "wof:concordances":{
         "gn:id":1789163,
         "gp:id":2151417,
-        "qs:id":317412,
         "qs_pg:id":317412
     },
     "wof:country":"CN",
@@ -93,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497311005,
+    "wof:lastmodified":1566665020,
     "wof:name":"Xicheng",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

@@ -11,12 +11,16 @@
     "geom:longitude":113.74446,
     "gn:country":"CN",
     "gn:fcode":"PPLA3",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"113.64446,24.99125,113.84446,25.19125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Yanfa"
     ],
     "name:zho_x_preferred":[
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":1797195,
         "gp:id":12687651,
-        "qs:id":1115153
+        "qs_pg:id":1115153
     },
     "wof:country":"CN",
     "wof:created":1469055946,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":890516171,
-    "wof:lastmodified":1505343901,
+    "wof:lastmodified":1566693642,
     "wof:name":"\u4ec1\u5316\u53bf",
     "wof:parent_id":890516559,
     "wof:placetype":"localadmin",

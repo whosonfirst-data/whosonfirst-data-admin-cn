@@ -15,10 +15,13 @@
     "iso:country":"CN",
     "lbl:latitude":22.933732,
     "lbl:longitude":112.04576,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":22.933732,
     "mps:longitude":112.04576,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "name:ara_x_preferred":[
         "\u064a\u0627\u0646\u0641\u0648"
     ],
@@ -127,7 +130,7 @@
     "name:tur_x_preferred":[
         "Yunfu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tung-an"
     ],
     "name:urd_x_preferred":[
@@ -167,7 +170,7 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":371,
     "wof:belongsto":[
@@ -181,7 +184,7 @@
     "wof:concordances":{
         "gn:id":1785725,
         "gp:id":26198349,
-        "qs:id":273712,
+        "qs_pg:id":273712,
         "wd:id":"Q59233",
         "wk:page":"Yunfu"
     },
@@ -198,7 +201,7 @@
         }
     ],
     "wof:id":102026933,
-    "wof:lastmodified":1563393455,
+    "wof:lastmodified":1566655748,
     "wof:name":"Yunfu",
     "wof:parent_id":890512761,
     "wof:placetype":"locality",

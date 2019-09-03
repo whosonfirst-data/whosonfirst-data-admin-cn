@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000369,
-    "geom:area_square_m":3503430.828221,
+    "geom:area_square_m":3503430.828218,
     "geom:bbox":"116.416625977,39.888665104,116.444091797,39.9097362273",
     "geom:latitude":39.90041,
     "geom:longitude":116.432631,
@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.903984,
     "lbl:longitude":116.428326,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.90077,
     "mps:longitude":116.433743,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Beijingzhan"
-    ],
-    "name:unk_x_variant":[
         "Beijingzhan"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12906600,
-        "qs:id":1084588,
         "qs_pg:id":1084588
     },
     "wof:country":"CN",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527268761,
+    "wof:lastmodified":1566665012,
     "wof:name":"Beijingzhan",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

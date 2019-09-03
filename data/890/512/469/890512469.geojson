@@ -11,10 +11,14 @@
     "geom:longitude":114.8,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":122563,
+    "gn:population":122563,
     "iso:country":"CN",
+    "lbl:bbox":"114.78,30.43,114.82,30.47",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:cym_x_preferred":[
         "Ardal Huangzhou"
     ],
@@ -48,7 +52,7 @@
     "name:swe_x_preferred":[
         "Huangzhou"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wongkong"
     ],
     "name:vie_x_preferred":[
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":1807112,
         "gp:id":2163169,
-        "qs:id":136672,
+        "qs_pg:id":136672,
         "wd:id":"Q927929",
         "wk:page":"Huangzhou District"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":890512469,
-    "wof:lastmodified":1563459775,
+    "wof:lastmodified":1566693754,
     "wof:name":"Huangzhou",
     "wof:parent_id":890514515,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":117.19583,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":2442,
+    "gn:population":2442,
     "iso:country":"CN",
+    "lbl:bbox":"117.17583,39.76444,117.21583,39.80444",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Guye Qu"
     ],
@@ -51,7 +55,7 @@
     "name:swe_x_preferred":[
         "Guye"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chao-ko-chuang"
     ],
     "name:vie_x_preferred":[
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":1784928,
         "gp:id":2159892,
-        "qs:id":136232,
+        "qs_pg:id":136232,
         "wd:id":"Q721517",
         "wk:page":"Guye District"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":890512339,
-    "wof:lastmodified":1563459684,
+    "wof:lastmodified":1566693736,
     "wof:name":"Zhaogezhuang",
     "wof:parent_id":890513813,
     "wof:placetype":"locality",

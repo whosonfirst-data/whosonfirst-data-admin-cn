@@ -11,7 +11,7 @@
     "geom:longitude":110.075685,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
         "Huaihua City"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":27.464388,
     "lbl:longitude":109.900044,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6e56\u5357\u7701",
     "meso:dissme":"\u6000\u5316\u5e02\u6e56\u5357\u7701",
     "meso:gadm_adm2":"Huaihua",
@@ -45,6 +47,7 @@
     "mps:longitude":109.900044,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0627\u064a\u0647\u0648\u0627"
     ],
@@ -126,7 +129,7 @@
     "name:tur_x_preferred":[
         "Huaihua"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Huaihua Diqu"
     ],
     "name:urd_x_preferred":[
@@ -152,9 +155,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"26888",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Huaihua Shi",
@@ -175,7 +178,7 @@
     "wof:concordances":{
         "gn:id":1807688,
         "hasc:id":"CN.HN.HH",
-        "qs:id":1031631
+        "qs_pg:id":1031631
     },
     "wof:country":"CN",
     "wof:created":1469055857,
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":890514349,
-    "wof:lastmodified":1564249777,
+    "wof:lastmodified":1566693673,
     "wof:name":"Huaihua",
     "wof:parent_id":85669781,
     "wof:placetype":"county",

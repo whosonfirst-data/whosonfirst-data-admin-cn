@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000202,
-    "geom:area_square_m":1920535.951601,
+    "geom:area_square_m":1920535.951603,
     "geom:bbox":"116.361694336,39.8805778415,116.378173828,39.9013137048",
     "geom:latitude":39.891743,
     "geom:longitude":116.368765,
@@ -15,6 +15,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.892516,
     "lbl:longitude":116.369906,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.89241,
     "mps:longitude":116.368098,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Chungshu"
-    ],
-    "name:unk_x_variant":[
         "Chungshu"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -60,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -74,7 +72,6 @@
     "wof:concordances":{
         "gn:id":1794591,
         "gp:id":22724379,
-        "qs:id":498485,
         "qs_pg:id":498485
     },
     "wof:country":"CN",
@@ -94,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505342943,
+    "wof:lastmodified":1566665034,
     "wof:name":"Chungshu",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

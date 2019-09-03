@@ -11,8 +11,11 @@
     "geom:longitude":126.93333,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":109881,
+    "gn:population":109881,
     "iso:country":"CN",
+    "lbl:bbox":"126.91333,47.43,126.95333,47.47",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -130,7 +133,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0439\u043b\u0443\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u2019ung-ken"
     ],
     "name:urd_x_preferred":[
@@ -261,7 +264,7 @@
     "wof:concordances":{
         "gn:id":2037069,
         "gp:id":2141191,
-        "qs:id":571463,
+        "qs_pg:id":571463,
         "wd:id":"Q1278514",
         "wk:page":"Hailun"
     },
@@ -279,7 +282,7 @@
         }
     ],
     "wof:id":890513709,
-    "wof:lastmodified":1563459538,
+    "wof:lastmodified":1566693701,
     "wof:name":"Hailun",
     "wof:parent_id":890514509,
     "wof:placetype":"locality",

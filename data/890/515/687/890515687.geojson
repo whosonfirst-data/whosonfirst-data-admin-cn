@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":34.052736,
     "lbl:longitude":108.786404,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u9655\u897f\u7701",
     "meso:dissme":"\u897f\u5b89\u5e02\u9655\u897f\u7701",
     "meso:gadm_adm2":"Xi'an",
@@ -43,6 +45,7 @@
     "mps:longitude":108.786404,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Xi'an"
     ],
@@ -292,9 +295,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u0430\u043d\u044c"
     ],
-    "name:und_x_variant":[
-        "\u897f\u5b89\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u06cc\u0627\u0646"
     ],
@@ -333,9 +333,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"9983",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Xi'an Shi",
@@ -356,7 +356,7 @@
     "wof:concordances":{
         "gp:id":26198119,
         "hasc:id":"CN.SA.XA",
-        "qs:id":1154631
+        "qs_pg:id":1154631
     },
     "wof:country":"CN",
     "wof:created":1469055926,
@@ -371,7 +371,7 @@
         }
     ],
     "wof:id":890515687,
-    "wof:lastmodified":1564249992,
+    "wof:lastmodified":1566693770,
     "wof:name":"Xi'an",
     "wof:parent_id":85669769,
     "wof:placetype":"county",

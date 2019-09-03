@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000161,
-    "geom:area_square_m":1522148.236154,
+    "geom:area_square_m":1522148.236159,
     "geom:bbox":"116.438598633,39.9223757546,116.457824709,39.9350129604",
     "geom:latitude":39.929174,
     "geom:longitude":116.448898,
@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.93164,
     "lbl:longitude":116.446575,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.928694,
     "mps:longitude":116.449859,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Gongrentiyuchang"
-    ],
-    "name:unk_x_variant":[
         "Gongrentiyuchang"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12906617,
-        "qs:id":1251316,
         "qs_pg:id":1251316
     },
     "wof:country":"CN",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269153,
+    "wof:lastmodified":1566665022,
     "wof:name":"Gongrentiyuchang",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

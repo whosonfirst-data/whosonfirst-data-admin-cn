@@ -11,11 +11,15 @@
     "geom:longitude":120.25167,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":89107,
+    "gn:population":89107,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"120.23167,33.74806,120.27167,33.78806",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Hede"
     ],
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Hede"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sheyang"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":1808744,
         "gp:id":2137114,
-        "qs:id":1299028,
+        "qs_pg:id":1299028,
         "wk:page":"Hede"
     },
     "wof:country":"CN",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":890516189,
-    "wof:lastmodified":1564249647,
+    "wof:lastmodified":1566693615,
     "wof:name":"Hede",
     "wof:parent_id":890515153,
     "wof:placetype":"locality",

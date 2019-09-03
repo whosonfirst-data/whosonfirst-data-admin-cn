@@ -11,10 +11,14 @@
     "geom:longitude":113.9318,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"113.9118,23.96374,113.9518,24.00374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Shatian"
     ],
@@ -195,9 +199,6 @@
     "name:swe_x_preferred":[
         "Shatian"
     ],
-    "name:unk_x_variant":[
-        "\u6c99\u7530"
-    ],
     "name:vec_x_preferred":[
         "Shatian"
     ],
@@ -242,7 +243,7 @@
     "wof:concordances":{
         "gn:id":1795802,
         "gp:id":2161638,
-        "qs:id":276578,
+        "qs_pg:id":276578,
         "wd:id":"Q7490645",
         "wk:page":"Shatian"
     },
@@ -260,7 +261,7 @@
         }
     ],
     "wof:id":890512241,
-    "wof:lastmodified":1563459759,
+    "wof:lastmodified":1566693751,
     "wof:name":"Shatian",
     "wof:parent_id":890516559,
     "wof:placetype":"locality",

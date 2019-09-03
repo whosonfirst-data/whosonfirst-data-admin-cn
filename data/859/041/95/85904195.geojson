@@ -14,6 +14,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.908804,
     "lbl:longitude":116.422301,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.909737,
     "mps:longitude":116.423467,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Dongdan"
-    ],
-    "name:unk_x_variant":[
         "Dongdan"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -59,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":52,
     "wof:belongsto":[
         102191569,
@@ -73,7 +71,6 @@
     "wof:concordances":{
         "gn:id":1912013,
         "gp:id":12906601,
-        "qs:id":218149,
         "qs_pg:id":218149
     },
     "wof:country":"CN",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527638353,
+    "wof:lastmodified":1566665012,
     "wof:name":"Dongdan",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

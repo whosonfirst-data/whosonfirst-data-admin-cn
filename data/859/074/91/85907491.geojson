@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000467,
-    "geom:area_square_m":4938716.327516,
+    "geom:area_square_m":4938716.327522,
     "geom:bbox":"121.467590332,31.2034049509,121.497802734,31.2299381684",
     "geom:latitude":31.217413,
     "geom:longitude":121.485077,
@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":31.220244,
     "lbl:longitude":121.48422,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.217117,
     "mps:longitude":121.485306,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Lao Ximen"
-    ],
-    "name:unk_x_variant":[
         "Lao Ximen"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726056,
-        "qs:id":1026442,
         "qs_pg:id":1026442
     },
     "wof:country":"CN",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269171,
+    "wof:lastmodified":1566665028,
     "wof:name":"Lao Ximen",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

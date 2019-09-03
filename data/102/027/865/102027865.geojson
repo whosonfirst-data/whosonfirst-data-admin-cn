@@ -13,10 +13,13 @@
     "iso:country":"CN",
     "lbl:latitude":44.922028,
     "lbl:longitude":127.161255,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":44.922028,
     "mps:longitude":127.161255,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Wuchang"
     ],
@@ -47,7 +50,7 @@
     "name:swe_x_preferred":[
         "Wuchang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Huan-hsi-ling"
     ],
     "name:wuu_x_preferred":[
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -88,7 +91,6 @@
     "wof:concordances":{
         "gn:id":2034141,
         "gp:id":2141215,
-        "qs:id":137685,
         "qs_pg:id":137685,
         "wd:id":"Q10881778"
     },
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":102027865,
-    "wof:lastmodified":1563393321,
+    "wof:lastmodified":1566655697,
     "wof:name":"Wuchang",
     "wof:parent_id":890516235,
     "wof:placetype":"locality",

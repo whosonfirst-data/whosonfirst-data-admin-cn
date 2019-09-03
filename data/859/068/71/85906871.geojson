@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000084,
-    "geom:area_square_m":793624.631654,
+    "geom:area_square_m":793624.631655,
     "geom:bbox":"116.35345459,39.9265884158,116.368005311,39.9360794334",
     "geom:latitude":39.930669,
     "geom:longitude":116.359374,
@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.930606,
     "lbl:longitude":116.360155,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.93095,
     "mps:longitude":116.358785,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Fusuijing"
-    ],
-    "name:unk_x_variant":[
         "Fusuijing"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724371,
-        "qs:id":1087552,
         "qs_pg:id":1087552
     },
     "wof:country":"CN",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269265,
+    "wof:lastmodified":1566665036,
     "wof:name":"Fusuijing",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

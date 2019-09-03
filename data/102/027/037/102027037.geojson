@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":22.274592,
     "lbl:longitude":113.559512,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":22.274592,
     "mps:longitude":113.559512,
     "mz:hierarchy_label":1,
@@ -219,7 +221,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0436\u0443\u0445\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Xiangzhou"
     ],
     "name:urd_x_preferred":[
@@ -361,7 +363,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2223,
     "wof:belongsto":[
@@ -376,7 +378,7 @@
         "fct:id":"06b6136a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1790437,
         "gp:id":12687683,
-        "qs:id":476831,
+        "qs_pg:id":476831,
         "wd:id":"Q59095",
         "wk:page":"Zhuhai"
     },
@@ -396,7 +398,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393196,
+    "wof:lastmodified":1566655659,
     "wof:megacity":1,
     "wof:name":"Zhuhai",
     "wof:parent_id":890516343,

@@ -11,10 +11,14 @@
     "geom:longitude":114.27342,
     "gn:country":"CN",
     "gn:fcode":"PPLA3",
-    "gn:pop":123144,
+    "gn:population":123144,
     "iso:country":"CN",
+    "lbl:bbox":"114.25342,23.14244,114.29342,23.18244",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:cat_x_preferred":[
         "Luoyang"
     ],
@@ -54,7 +58,7 @@
     "name:spa_x_preferred":[
         "Luoyang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Poklo"
     ],
     "name:wuu_x_preferred":[
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":1801799,
         "gp:id":2161524,
-        "qs:id":561713,
+        "qs_pg:id":561713,
         "wd:id":"Q14392355",
         "wk:page":"Luoyang"
     },
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":890513587,
-    "wof:lastmodified":1563459599,
+    "wof:lastmodified":1566693716,
     "wof:name":"Luoyang",
     "wof:parent_id":890516563,
     "wof:placetype":"locality",

@@ -12,14 +12,17 @@
     "iso:country":"CN",
     "lbl:latitude":34.011689,
     "lbl:longitude":105.298462,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.011689,
     "mps:longitude":105.298462,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hanyuan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Xihe"
     ],
     "qs:a1":"*",
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":20,
     "wof:belongsto":[
         85669711,
@@ -49,7 +52,6 @@
     "wof:concordances":{
         "gn:id":1808861,
         "gp:id":2145865,
-        "qs:id":372239,
         "qs_pg:id":372239
     },
     "wof:country":"CN",
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":102027569,
-    "wof:lastmodified":1564178895,
+    "wof:lastmodified":1566655621,
     "wof:name":"Hanyuan",
     "wof:parent_id":890516335,
     "wof:placetype":"locality",

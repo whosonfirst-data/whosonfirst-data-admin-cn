@@ -11,8 +11,11 @@
     "geom:longitude":110.76591,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":104168,
+    "gn:population":104168,
     "iso:country":"CN",
+    "lbl:bbox":"110.74591,21.43713,110.78591,21.47713",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -37,7 +40,7 @@
     "name:swe_x_preferred":[
         "Wuchuan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hai-lu"
     ],
     "ne:ADM0CAP":0.0,
@@ -152,7 +155,7 @@
     "wof:concordances":{
         "gn:id":1800829,
         "gp:id":2161864,
-        "qs:id":561590,
+        "qs_pg:id":561590,
         "wk:page":"Wuchuan"
     },
     "wof:country":"CN",
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":890513585,
-    "wof:lastmodified":1564249899,
+    "wof:lastmodified":1566693728,
     "wof:name":"Wuchuan",
     "wof:parent_id":890514753,
     "wof:placetype":"locality",

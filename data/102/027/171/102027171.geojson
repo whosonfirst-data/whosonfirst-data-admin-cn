@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":24.807888,
     "lbl:longitude":113.597372,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":24.807888,
     "mps:longitude":113.597372,
     "mz:hierarchy_label":1,
@@ -192,7 +194,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043e\u0433\u0443\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chao-kuan"
     ],
     "name:urd_x_preferred":[
@@ -335,7 +337,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":795,
     "wof:belongsto":[
@@ -350,9 +352,11 @@
         "fct:id":"06b60cee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1795874,
         "gp:id":2161852,
-        "qs:id":241455,
-        "qs_pg:id":1129922,
+        "qs_pg:id":241455,
         "wd:id":"Q59107"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1129922
     },
     "wof:country":"CN",
     "wof:geomhash":"26b4e22617fec1f8b0f8756ca67a7140",
@@ -370,7 +374,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393376,
+    "wof:lastmodified":1566655717,
     "wof:name":"Shaoguan",
     "wof:parent_id":890516559,
     "wof:placetype":"locality",

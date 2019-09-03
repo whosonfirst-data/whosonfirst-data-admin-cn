@@ -11,7 +11,7 @@
     "geom:longitude":119.132628,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":34.450364,
     "lbl:longitude":119.316599,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6c5f\u82cf\u7701",
     "meso:dissme":"\u8fde\u4e91\u6e2f\u5e02\u6c5f\u82cf\u7701",
     "meso:gadm_adm2":"Lianyungang",
@@ -46,6 +48,7 @@
     "mps:longitude":119.316599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Lianyungang"
     ],
@@ -136,7 +139,7 @@
     "name:uig_x_preferred":[
         "Lyeny\u00fcn'gang shehiri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lien-y\u00fcn-kang Shih"
     ],
     "name:urd_x_preferred":[
@@ -169,9 +172,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"7444",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Lianyungang Shi",
@@ -193,7 +196,7 @@
         "gn:id":1803847,
         "gp:id":26198091,
         "hasc:id":"CN.JS.LY",
-        "qs:id":898924
+        "qs_pg:id":898924
     },
     "wof:country":"CN",
     "wof:created":1469055876,
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":890514777,
-    "wof:lastmodified":1564249779,
+    "wof:lastmodified":1566693675,
     "wof:name":"Lianyungang",
     "wof:parent_id":85669827,
     "wof:placetype":"county",

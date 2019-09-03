@@ -11,11 +11,15 @@
     "geom:longitude":106.0736,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":400,
+    "gn:population":400,
     "iso:country":"CN",
+    "lbl:bbox":"106.0536,32.68918,106.0936,32.72918",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Zhuandoupu"
     ],
     "name:zho_x_preferred":[
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1899347,
         "gp:id":2158421,
-        "qs:id":567034
+        "qs_pg:id":567034
     },
     "wof:country":"CN",
     "wof:created":1469055739,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890511647,
-    "wof:lastmodified":1505343883,
+    "wof:lastmodified":1566693650,
     "wof:name":"Zhuandou",
     "wof:parent_id":890512741,
     "wof:placetype":"locality",

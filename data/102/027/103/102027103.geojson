@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":34.583475,
     "lbl:longitude":105.716965,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.583475,
     "mps:longitude":105.716965,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u0627\u0646\u0634\u0648\u064a"
     ],
@@ -166,7 +169,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u044f\u043d\u044c\u0448\u0443\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tyan\u2019shuy"
     ],
     "name:urd_x_preferred":[
@@ -217,7 +220,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":552,
     "wof:belongsto":[
         85669711,
@@ -231,10 +234,12 @@
         "fct:id":"06b540f2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1792890,
         "gp:id":2145609,
-        "qs:id":1197501,
         "qs_pg:id":1129790,
         "wd:id":"Q533157",
         "wk:page":"Tianshui"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1197501
     },
     "wof:country":"CN",
     "wof:geomhash":"e436716d3bac3d569a1d9bbbe9858aa5",
@@ -252,7 +257,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393103,
+    "wof:lastmodified":1566655624,
     "wof:name":"Tianshui",
     "wof:parent_id":890516551,
     "wof:placetype":"locality",

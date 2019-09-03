@@ -11,12 +11,16 @@
     "geom:longitude":112.7575,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":82883,
+    "gn:population":82883,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"112.7375,38.69528,112.7775,38.73528",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Yuanping"
     ],
     "qs:name":"\u539f \u5e73",
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":1786060,
         "gp:id":2154571,
-        "qs:id":1306334
+        "qs_pg:id":1306334
     },
     "wof:country":"CN",
     "wof:created":1469055883,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890514935,
-    "wof:lastmodified":1505343898,
+    "wof:lastmodified":1566693679,
     "wof:name":"\u539f \u5e73",
     "wof:parent_id":890513031,
     "wof:placetype":"locality",

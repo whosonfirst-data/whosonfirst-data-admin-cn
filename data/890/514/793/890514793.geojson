@@ -11,12 +11,15 @@
     "geom:longitude":121.42447,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"121.41947,31.1706,121.42947,31.1806",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "Ts\u2019ao-ho-ching"
     ],
     "qs:name":"\u6f15\u6cb3\u6cfe\u9547",
@@ -43,7 +46,7 @@
     "wof:concordances":{
         "gn:id":1816022,
         "gp:id":2151447,
-        "qs:id":909179
+        "qs_pg:id":909179
     },
     "wof:country":"CN",
     "wof:created":1469055877,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890514793,
-    "wof:lastmodified":1505343898,
+    "wof:lastmodified":1566693678,
     "wof:name":"\u6f15\u6cb3\u6cfe\u9547",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

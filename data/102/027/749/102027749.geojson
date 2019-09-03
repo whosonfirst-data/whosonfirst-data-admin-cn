@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000302,
-    "geom:area_square_m":3121978.133992,
+    "geom:area_square_m":3121978.133997,
     "geom:bbox":"119.306289852,33.2434570543,119.327743246,33.2614822813",
     "geom:latitude":33.25247,
     "geom:longitude":119.317017,
@@ -13,11 +13,14 @@
     "iso:country":"CN",
     "lbl:latitude":33.252469,
     "lbl:longitude":119.317017,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":33.252469,
     "mps:longitude":119.317017,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Pao-ying-ch\u2019eng"
     ],
     "qs:a0":"\u4e2d\u570b",
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85669827,
@@ -52,7 +55,6 @@
     "wof:concordances":{
         "gn:id":1816890,
         "gp:id":2137094,
-        "qs:id":136919,
         "qs_pg:id":136919
     },
     "wof:country":"CN",
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":102027749,
-    "wof:lastmodified":1505339000,
+    "wof:lastmodified":1566655667,
     "wof:name":"Baoying",
     "wof:parent_id":890516397,
     "wof:placetype":"locality",

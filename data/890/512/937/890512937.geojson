@@ -11,13 +11,16 @@
     "geom:longitude":116.08167,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":74459,
+    "gn:population":74459,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"116.06167,34.77528,116.10167,34.81528",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shan-hsien"
     ],
     "ne:ADM0CAP":0.0,
@@ -133,7 +136,7 @@
     "wof:concordances":{
         "gn:id":1795919,
         "gp:id":2167870,
-        "qs:id":946337
+        "qs_pg:id":946337
     },
     "wof:country":"CN",
     "wof:created":1469055794,
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":890512937,
-    "wof:lastmodified":1505343890,
+    "wof:lastmodified":1566693736,
     "wof:name":"\u5355\u57ce",
     "wof:parent_id":890516675,
     "wof:placetype":"locality",

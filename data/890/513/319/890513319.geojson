@@ -11,10 +11,14 @@
     "geom:longitude":124.86667,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":147977,
+    "gn:population":147977,
     "iso:country":"CN",
+    "lbl:bbox":"124.84667,46.44667,124.88667,46.48667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:ceb_x_preferred":[
         "Honggang Qu"
     ],
@@ -51,7 +55,7 @@
     "name:swe_x_preferred":[
         "Honggang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Honggang Jiedao"
     ],
     "name:vie_x_preferred":[
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":2036876,
         "gp:id":2140600,
-        "qs:id":137775,
+        "qs_pg:id":137775,
         "wd:id":"Q1332826",
         "wk:page":"Honggang District"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":890513319,
-    "wof:lastmodified":1563459667,
+    "wof:lastmodified":1566693731,
     "wof:name":"Honggang",
     "wof:parent_id":890513007,
     "wof:placetype":"locality",

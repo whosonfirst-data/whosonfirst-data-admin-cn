@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000306,
-    "geom:area_square_m":3124483.784584,
+    "geom:area_square_m":3124483.784583,
     "geom:bbox":"116.317853576,34.4114870705,116.33961716,34.4295224307",
     "geom:latitude":34.420505,
     "geom:longitude":116.328735,
@@ -14,11 +14,14 @@
     "iso:country":"CN",
     "lbl:latitude":34.420504,
     "lbl:longitude":116.328736,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.420504,
     "mps:longitude":116.328736,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "\u7800\u5c71"
     ],
     "qs:a1":"*",
@@ -33,7 +36,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669739,
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102028025,
-    "wof:lastmodified":1501273177,
+    "wof:lastmodified":1566655720,
     "wof:name":"Dangshan",
     "wof:parent_id":890514507,
     "wof:placetype":"locality",

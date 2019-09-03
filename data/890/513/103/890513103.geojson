@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":22.449495,
     "lbl:longitude":107.209352,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5e7f\u897f\u7701",
     "meso:dissme":"\u5d07\u5de6\u5e02\u5e7f\u897f\u7701",
     "meso:gadm_adm2":"Chongzuo",
@@ -43,6 +45,7 @@
     "mps:longitude":107.209352,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Chongzuo"
     ],
@@ -124,9 +127,6 @@
     "name:tur_x_preferred":[
         "Chongzuo"
     ],
-    "name:und_x_variant":[
-        "\u5d07\u5de6\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u0686\u0648\u0646\u06af\u0632\u0648\u0648"
     ],
@@ -153,7 +153,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85669717,
@@ -163,7 +163,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29281936,
-        "qs:id":1197557
+        "qs_pg:id":1197557
     },
     "wof:country":"CN",
     "wof:created":1469055801,
@@ -178,7 +178,7 @@
         }
     ],
     "wof:id":890513103,
-    "wof:lastmodified":1564249828,
+    "wof:lastmodified":1566693698,
     "wof:name":"Chongzuo",
     "wof:parent_id":85669717,
     "wof:placetype":"county",

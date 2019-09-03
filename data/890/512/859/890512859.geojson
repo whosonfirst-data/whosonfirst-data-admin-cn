@@ -11,10 +11,14 @@
     "geom:longitude":106.25784,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"106.15784,28.93188,106.35784,29.13188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Ardal Jiangjin"
     ],
@@ -66,7 +70,7 @@
     "name:tur_x_preferred":[
         "Jiangjin"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chiang-ching Hsien"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1806348,
-        "qs:id":1027663,
+        "qs_pg:id":1027663,
         "wd:id":"Q201723",
         "wk:page":"Jiangjin District"
     },
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":890512859,
-    "wof:lastmodified":1563459705,
+    "wof:lastmodified":1566693740,
     "wof:name":"Jiangjin Qu",
     "wof:parent_id":890513063,
     "wof:placetype":"localadmin",

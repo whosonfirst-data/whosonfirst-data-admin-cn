@@ -13,10 +13,13 @@
     "iso:country":"CN",
     "lbl:latitude":37.050793,
     "lbl:longitude":118.547974,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":37.050793,
     "mps:longitude":118.547974,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:bel_x_preferred":[
         "\u0421\u0456\u0448\u0443\u0439"
     ],
@@ -56,7 +59,7 @@
     "name:swe_x_preferred":[
         "Xishui"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kishui-hsien"
     ],
     "name:vie_x_preferred":[
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85669813,
@@ -103,7 +106,6 @@
     "wof:concordances":{
         "gn:id":1797793,
         "gp:id":2168477,
-        "qs:id":136497,
         "qs_pg:id":136497,
         "wd:id":"Q44026",
         "wk:page":"Xishui County, Hubei"
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":102027235,
-    "wof:lastmodified":1563393177,
+    "wof:lastmodified":1566655651,
     "wof:name":"Qingquan",
     "wof:parent_id":890514773,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"CN",
     "lbl:latitude":32.495863,
     "lbl:longitude":80.095825,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":32.495863,
     "mps:longitude":80.095825,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u0643\u0648\u0627\u0646\u0647\u064a"
     ],
@@ -120,7 +123,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0456\u043a\u0432\u0430\u043d\u0445\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ni-k\u2019o-li"
     ],
     "name:urd_x_preferred":[
@@ -156,7 +159,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":849,
     "wof:belongsto":[
         85669747,
@@ -169,7 +172,6 @@
     "wof:concordances":{
         "gn:id":1280003,
         "gp:id":2144795,
-        "qs:id":370533,
         "qs_pg:id":370533,
         "wd:id":"Q2279283",
         "wk:page":"Shiquanhe"
@@ -187,7 +189,7 @@
         }
     ],
     "wof:id":102026797,
-    "wof:lastmodified":1563393421,
+    "wof:lastmodified":1566655735,
     "wof:name":"Shiquanhe",
     "wof:parent_id":1108732537,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":131.16667,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":15183,
+    "gn:population":15183,
     "iso:country":"CN",
+    "lbl:bbox":"131.14667,44.38,131.18667,44.42",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u064a\u0641\u0646\u0647\u064a"
     ],
@@ -132,7 +136,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0439\u0444\u0435\u043d\u044c\u0445\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pogranichinaya"
     ],
     "name:urd_x_preferred":[
@@ -167,7 +171,7 @@
     "wof:concordances":{
         "gn:id":2034657,
         "gp:id":2141286,
-        "qs:id":571252,
+        "qs_pg:id":571252,
         "wd:id":"Q1024736",
         "wk:page":"Suifenhe"
     },
@@ -185,7 +189,7 @@
         }
     ],
     "wof:id":890512115,
-    "wof:lastmodified":1563459791,
+    "wof:lastmodified":1566693758,
     "wof:name":"Suifenhe",
     "wof:parent_id":890515915,
     "wof:placetype":"locality",

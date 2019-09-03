@@ -12,11 +12,14 @@
     "iso:country":"CN",
     "lbl:latitude":35.169318,
     "lbl:longitude":113.076782,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.169318,
     "mps:longitude":113.076782,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ch\u2019ing-hua-chen"
     ],
     "name:zho_x_preferred":[
@@ -39,7 +42,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669801,
         102191569,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":1797881,
         "gp:id":2172761,
-        "qs:id":270604
+        "qs_pg:id":270604
     },
     "wof:country":"CN",
     "wof:geomhash":"8761e4cd2803d56eceaaf0aaa32ce005",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":102027239,
-    "wof:lastmodified":1501222232,
+    "wof:lastmodified":1566655699,
     "wof:name":"Qinghua",
     "wof:parent_id":890515835,
     "wof:placetype":"locality",

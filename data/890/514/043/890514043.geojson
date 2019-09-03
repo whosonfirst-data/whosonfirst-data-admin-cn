@@ -11,11 +11,15 @@
     "geom:longitude":117.68293,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"117.58293,49.37192,117.78293,49.57192",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Man-chou-li Shih"
     ],
     "name:zho_x_preferred":[
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2035835,
-        "qs:id":372748
+        "qs_pg:id":372748
     },
     "wof:country":"CN",
     "wof:created":1469055845,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890514043,
-    "wof:lastmodified":1505343895,
+    "wof:lastmodified":1566693686,
     "wof:name":"Manzhouli Shi",
     "wof:parent_id":1108732385,
     "wof:placetype":"localadmin",

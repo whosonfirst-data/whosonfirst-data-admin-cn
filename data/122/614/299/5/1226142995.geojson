@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"119.84667,34.03,119.88667,34.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Erba"
     ],
@@ -50,8 +54,7 @@
     "name:und_x_variant":[
         "Hsiao-ho-shang-chuang",
         "Erh-chuang",
-        "Erh-pa",
-        "Erba"
+        "Erh-pa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1226142995,
-    "wof:lastmodified":1564275680,
+    "wof:lastmodified":1566703638,
     "wof:name":"Erba",
     "wof:parent_id":890515153,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"111.51781,35.83234,111.55781,35.87234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0646\u063a\u064a\u0627\u0646\u063a"
     ],
@@ -103,9 +107,6 @@
     "name:tur_x_preferred":[
         "Qingyang"
     ],
-    "name:und_x_variant":[
-        "\u9752\u6768"
-    ],
     "name:urd_x_preferred":[
         "\u0686\u0646\u06af\u06cc\u0627\u0646\u06af"
     ],
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":1293156519,
-    "wof:lastmodified":1564195033,
+    "wof:lastmodified":1566667928,
     "wof:name":"Qingyang",
     "wof:parent_id":1108732337,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"116.41306,33.86611,116.45306,33.90611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -34,7 +38,7 @@
         "gn:id":1807824
     },
     "wof:country":"CN",
-    "wof:geomhash":"f5d24c07b829ef029430068c71f42b8c",
+    "wof:geomhash":"0cdb55013535259027fd043ad1716463",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209209181,
-    "wof:lastmodified":1536294348,
+    "wof:lastmodified":1566683186,
     "wof:name":"Houling",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     116.43306,
-    33.886109999999995,
+    33.88611,
     116.43306,
-    33.886109999999995
+    33.88611
 ],
   "geometry": {"coordinates":[116.43306,33.88611],"type":"Point"}
 }

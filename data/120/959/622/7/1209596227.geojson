@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"110.74611,27.12639,110.78611,27.16639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -34,7 +38,7 @@
         "gn:id":1983364
     },
     "wof:country":"CN",
-    "wof:geomhash":"040db629ed3ebde335374da8cfe4cfb4",
+    "wof:geomhash":"13794e3ca0be3cbc8f222751c8f13aec",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209596227,
-    "wof:lastmodified":1536282315,
+    "wof:lastmodified":1566682017,
     "wof:name":"Laoyu",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     110.76611,
-    27.146390000000004,
+    27.14639,
     110.76611,
-    27.146390000000004
+    27.14639
 ],
   "geometry": {"coordinates":[110.76611,27.14639],"type":"Point"}
 }

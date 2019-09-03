@@ -11,7 +11,7 @@
     "geom:longitude":115.170442,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":39.005561,
     "lbl:longitude":115.257429,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6cb3\u5317\u7701",
     "meso:dissme":"\u4fdd\u5b9a\u5e02\u6cb3\u5317\u7701",
     "meso:gadm_adm2":"Baoding",
@@ -46,6 +48,7 @@
     "mps:longitude":115.257429,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Baoding"
     ],
@@ -175,7 +178,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043e\u0434\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pao-ting Shih"
     ],
     "name:urd_x_preferred":[
@@ -211,9 +214,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"22177",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Baoding Shi",
@@ -235,7 +238,7 @@
         "gn:id":1816969,
         "gp:id":26198364,
         "hasc:id":"CN.HB.BD",
-        "qs:id":1193883
+        "qs_pg:id":1193883
     },
     "wof:country":"CN",
     "wof:created":1469055800,
@@ -250,7 +253,7 @@
         }
     ],
     "wof:id":890513095,
-    "wof:lastmodified":1564249891,
+    "wof:lastmodified":1566693724,
     "wof:name":"Baoding",
     "wof:parent_id":85669797,
     "wof:placetype":"county",

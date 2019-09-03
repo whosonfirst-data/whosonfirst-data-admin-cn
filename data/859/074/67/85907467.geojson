@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000469,
-    "geom:area_square_m":4957341.781317,
+    "geom:area_square_m":4957341.781308,
     "geom:bbox":"121.402411056,31.2245457712,121.431884766,31.2470720427",
     "geom:latitude":31.235283,
     "geom:longitude":121.41775,
@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":31.232378,
     "lbl:longitude":121.421063,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.235738,
     "mps:longitude":121.417469,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Cao Jia Du"
-    ],
-    "name:unk_x_variant":[
         "Cao Jia Du"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -69,7 +67,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726045,
-        "qs:id":1296369,
         "qs_pg:id":1296369
     },
     "wof:country":"CN",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269171,
+    "wof:lastmodified":1566665027,
     "wof:name":"Cao Jia Du",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

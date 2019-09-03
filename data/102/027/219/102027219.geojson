@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000268,
-    "geom:area_square_m":3133352.20629,
+    "geom:area_square_m":3133352.206296,
     "geom:bbox":"110.430548207,19.2450712274,110.449578764,19.2631452326",
     "geom:latitude":19.254108,
     "geom:longitude":110.440063,
     "iso:country":"CN",
     "lbl:latitude":19.254108,
     "lbl:longitude":110.440063,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.254108,
     "mps:longitude":110.440063,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Qionghai"
     ],
@@ -23,7 +26,7 @@
         "Qionghai City",
         "Qionghai County"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ch\u2019iung-hai Hsien"
     ],
     "name:zho_x_preferred":[
@@ -51,7 +54,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -63,7 +66,7 @@
         "fct:id":"06b616e4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1797544,
         "gp:id":12687696,
-        "qs:id":1197541
+        "qs_pg:id":1197541
     },
     "wof:country":"CN",
     "wof:geomhash":"8eb8279ac0a5b7685238531b6e48992b",
@@ -80,7 +83,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1506728862,
+    "wof:lastmodified":1566655643,
     "wof:name":"Qionghai Shi",
     "wof:parent_id":1108732479,
     "wof:placetype":"locality",

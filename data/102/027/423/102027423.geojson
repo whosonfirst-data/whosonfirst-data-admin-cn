@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":26.576036,
     "lbl:longitude":107.977098,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":26.576036,
     "mps:longitude":107.977098,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u064a\u0644\u064a"
     ],
@@ -130,7 +133,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0439\u043b\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Miao-tsu-tzu-chih-ch\u2019\u00fc"
     ],
     "name:urd_x_preferred":[
@@ -163,7 +166,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669781,
         102191569,
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":102027423,
-    "wof:lastmodified":1563393165,
+    "wof:lastmodified":1566655646,
     "wof:name":"Kaili",
     "wof:parent_id":1108794067,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000488,
-    "geom:area_square_m":4624290.204083,
+    "geom:area_square_m":4624290.204085,
     "geom:bbox":"116.267144829,39.8864564889,116.293838143,39.9181628466",
     "geom:latitude":39.904329,
     "geom:longitude":116.281092,
@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.909056,
     "lbl:longitude":116.275208,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.905527,
     "mps:longitude":116.281295,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Wanshoulu"
-    ],
-    "name:unk_x_variant":[
         "Wanshoulu"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2151415,
-        "qs:id":1079785,
         "qs_pg:id":1079785
     },
     "wof:country":"CN",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527268880,
+    "wof:lastmodified":1566665018,
     "wof:name":"Wanshoulu",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

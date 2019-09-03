@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":36.578332,
     "lbl:longitude":100.494886,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":36.578332,
     "mps:longitude":100.494886,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Hainan"
     ],
@@ -301,7 +304,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669715,
         102191569,
@@ -327,7 +330,7 @@
         }
     ],
     "wof:id":102027995,
-    "wof:lastmodified":1564178911,
+    "wof:lastmodified":1566655673,
     "wof:name":"Hainan",
     "wof:parent_id":890515871,
     "wof:placetype":"locality",

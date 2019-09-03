@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"119.02562,32.03996,119.06562,32.07996",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Tangshan"
     ],
@@ -166,8 +170,7 @@
     "name:und_x_variant":[
         "Nan-t\u2019ang-chen",
         "T\u2019ang-shui",
-        "T\u2019ang-shui-chen",
-        "Tangshan"
+        "T\u2019ang-shui-chen"
     ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u0646\u06af\u0634\u0627\u0646"
@@ -212,7 +215,7 @@
         }
     ],
     "wof:id":1209720685,
-    "wof:lastmodified":1564225529,
+    "wof:lastmodified":1566684347,
     "wof:name":"Tangshan",
     "wof:parent_id":890516425,
     "wof:placetype":"locality",

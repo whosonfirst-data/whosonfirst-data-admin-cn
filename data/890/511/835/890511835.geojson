@@ -11,7 +11,7 @@
     "geom:longitude":115.273291,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":8900000,
+    "gn:population":8900000,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
         "Ganzhou City"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":25.576385,
     "lbl:longitude":115.293595,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6c5f\u897f\u7701",
     "meso:dissme":"\u8d63\u5dde\u5e02\u6c5f\u897f\u7701",
     "meso:gadm_adm2":"Ganzhou",
@@ -45,6 +47,7 @@
     "mps:longitude":115.293595,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Xingguo Xian"
     ],
@@ -81,7 +84,7 @@
     "name:swe_x_preferred":[
         "Xingguo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kan-chou Chuan-ch\u2019\u00fc"
     ],
     "name:vie_x_preferred":[
@@ -108,9 +111,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"39380",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Ganzhou Shi",
@@ -132,7 +135,7 @@
     "wof:concordances":{
         "gn:id":1810636,
         "hasc:id":"CN.JX.GZ",
-        "qs:id":244487,
+        "qs_pg:id":244487,
         "wd:id":"Q1356759",
         "wk:page":"Xingguo County"
     },
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":890511835,
-    "wof:lastmodified":1563459338,
+    "wof:lastmodified":1566693646,
     "wof:name":"Ganzhou",
     "wof:parent_id":85669823,
     "wof:placetype":"county",

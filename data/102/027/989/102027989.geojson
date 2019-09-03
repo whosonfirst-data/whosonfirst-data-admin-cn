@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002528,
-    "geom:area_square_m":28804502.968399,
+    "geom:area_square_m":28804502.968383,
     "geom:bbox":"113.220850212,22.8026040298,113.284274208,22.9218897201",
     "geom:latitude":22.843053,
     "geom:longitude":113.253443,
     "iso:country":"CN",
     "lbl:latitude":22.83547,
     "lbl:longitude":113.259859,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.83547,
     "mps:longitude":113.259859,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u987a\u5fb7"
     ],
@@ -36,7 +39,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669743,
         102191569,
@@ -48,7 +51,7 @@
     "wof:concordances":{
         "gn:id":6922213,
         "gp:id":12687659,
-        "qs:id":906531
+        "qs_pg:id":906531
     },
     "wof:country":"CN",
     "wof:geomhash":"cfcf9f52086d269d9cac05749849a1e5",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102027989,
-    "wof:lastmodified":1501273124,
+    "wof:lastmodified":1566655711,
     "wof:name":"Shunde",
     "wof:parent_id":890513089,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":106.01697,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":1000,
+    "gn:population":1000,
     "iso:country":"CN",
+    "lbl:bbox":"105.99697,32.02706,106.03697,32.06706",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Lung-ch\u2019ang"
     ],
     "name:zho_x_preferred":[
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1802347,
         "gp:id":2157861,
-        "qs:id":561809
+        "qs_pg:id":561809
     },
     "wof:country":"CN",
     "wof:created":1469055758,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890512091,
-    "wof:lastmodified":1505343886,
+    "wof:lastmodified":1566693740,
     "wof:name":"Longwang",
     "wof:parent_id":890512741,
     "wof:placetype":"locality",

@@ -11,9 +11,12 @@
     "geom:longitude":121.44278,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":470804,
+    "gn:population":470804,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"121.42278,28.66028,121.46278,28.70028",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.1,
@@ -56,7 +59,7 @@
     "name:swe_x_preferred":[
         "Jiaojiang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hai-men-chen"
     ],
     "name:vie_x_preferred":[
@@ -188,7 +191,7 @@
     "wof:concordances":{
         "gn:id":1809061,
         "gp:id":2132576,
-        "qs:id":136698,
+        "qs_pg:id":136698,
         "wd:id":"Q513077",
         "wk:page":"Jiaojiang District"
     },
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":890512951,
-    "wof:lastmodified":1563459751,
+    "wof:lastmodified":1566693750,
     "wof:name":"\u6912\u6c5f",
     "wof:parent_id":890515633,
     "wof:placetype":"locality",

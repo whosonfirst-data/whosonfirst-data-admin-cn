@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00029,
-    "geom:area_square_m":3127383.59995,
+    "geom:area_square_m":3127383.599953,
     "geom:bbox":"103.936858017,29.1958941824,103.957429136,29.2139425087",
     "geom:latitude":29.204918,
     "geom:longitude":103.947144,
@@ -14,11 +14,14 @@
     "iso:country":"CN",
     "lbl:latitude":29.204918,
     "lbl:longitude":103.947144,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":29.204918,
     "mps:longitude":103.947144,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Chien-wei"
     ],
     "name:zho_x_preferred":[
@@ -38,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669787,
         102191569,
@@ -50,7 +53,6 @@
     "wof:concordances":{
         "gn:id":1785803,
         "gp:id":2158480,
-        "qs:id":1152039,
         "qs_pg:id":1152039
     },
     "wof:country":"CN",
@@ -66,7 +68,7 @@
         }
     ],
     "wof:id":102026941,
-    "wof:lastmodified":1497290781,
+    "wof:lastmodified":1566655743,
     "wof:name":"Yujin",
     "wof:parent_id":890512711,
     "wof:placetype":"locality",

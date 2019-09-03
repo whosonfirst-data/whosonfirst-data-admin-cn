@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"108.31722,33.96139,108.35722,34.00139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -34,7 +38,7 @@
         "gn:id":1908684
     },
     "wof:country":"CN",
-    "wof:geomhash":"2590678b54a940db778f43bd19ff2d4d",
+    "wof:geomhash":"89f07716b9093b003f2e280714f76e9a",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209672071,
-    "wof:lastmodified":1536279885,
+    "wof:lastmodified":1566682258,
     "wof:name":"Liziping",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     108.33722,
-    33.981390000000005,
+    33.98139,
     108.33722,
-    33.981390000000005
+    33.98139
 ],
   "geometry": {"coordinates":[108.33722,33.98139],"type":"Point"}
 }

@@ -11,8 +11,11 @@
     "geom:longitude":113.85,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":372123,
+    "gn:population":372123,
     "iso:country":"CN",
+    "lbl:bbox":"113.83,27.59667,113.87,27.63667",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -157,7 +160,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u043d\u0441\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dingsiang"
     ],
     "name:urd_x_preferred":[
@@ -290,7 +293,7 @@
     "wof:concordances":{
         "gn:id":1798654,
         "gp:id":2133705,
-        "qs:id":561237,
+        "qs_pg:id":561237,
         "wd:id":"Q362865",
         "wk:page":"Pingxiang"
     },
@@ -308,7 +311,7 @@
         }
     ],
     "wof:id":890512887,
-    "wof:lastmodified":1563459698,
+    "wof:lastmodified":1566693738,
     "wof:name":"Pingxiang",
     "wof:parent_id":890514465,
     "wof:placetype":"locality",

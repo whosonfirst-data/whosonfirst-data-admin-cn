@@ -11,10 +11,14 @@
     "geom:longitude":119.30247,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"119.20247,26.99678,119.40247,27.19678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cdo_x_preferred":[
         "Ci\u016d-n\u00ecng"
     ],
@@ -60,7 +64,7 @@
     "name:swe_x_preferred":[
         "Zhouning"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chou-ning Hsien"
     ],
     "name:vie_x_preferred":[
@@ -94,7 +98,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1784118,
-        "qs:id":1243399,
+        "qs_pg:id":1243399,
         "wd:id":"Q198058",
         "wk:page":"Zhouning County"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":890512997,
-    "wof:lastmodified":1563459685,
+    "wof:lastmodified":1566693736,
     "wof:name":"Zhouning Xian",
     "wof:parent_id":890516577,
     "wof:placetype":"localadmin",

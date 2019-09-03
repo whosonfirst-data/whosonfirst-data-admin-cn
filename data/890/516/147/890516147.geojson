@@ -11,8 +11,11 @@
     "geom:longitude":125.83278,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":175115,
+    "gn:population":175115,
     "iso:country":"CN",
+    "lbl:bbox":"125.81278,44.1325,125.85278,44.1725",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "Jiutai"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chiu-t\u2019ai"
     ],
     "name:vie_x_preferred":[
@@ -182,7 +185,7 @@
     "wof:concordances":{
         "gn:id":2036401,
         "gp:id":2138141,
-        "qs:id":137761,
+        "qs_pg:id":137761,
         "wd:id":"Q1015907",
         "wk:page":"Jiutai District"
     },
@@ -200,7 +203,7 @@
         }
     ],
     "wof:id":890516147,
-    "wof:lastmodified":1563459321,
+    "wof:lastmodified":1566693641,
     "wof:name":"Jiutai",
     "wof:parent_id":890514235,
     "wof:placetype":"locality",

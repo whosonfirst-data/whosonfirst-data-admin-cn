@@ -11,7 +11,7 @@
     "geom:longitude":127.956715,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":45.525208,
     "lbl:longitude":127.923027,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u9ed1\u9f99\u6c5f\u7701",
     "meso:dissme":"\u54c8\u5c14\u6ee8\u5e02\u9ed1\u9f99\u6c5f\u7701",
     "meso:gadm_adm2":"Harbin",
@@ -46,10 +48,11 @@
     "mps:longitude":127.923027,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ha'erbin"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ha-erh-pin Shih"
     ],
     "name:zho_x_preferred":[
@@ -74,9 +77,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"53069",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Ha'erbin Shi",
@@ -98,7 +101,7 @@
         "gn:id":2037012,
         "gp:id":26198257,
         "hasc:id":"CN.HL.HB",
-        "qs:id":355168
+        "qs_pg:id":355168
     },
     "wof:country":"CN",
     "wof:created":1469055949,
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":890516235,
-    "wof:lastmodified":1554759517,
+    "wof:lastmodified":1566693609,
     "wof:name":"Ha'erbin",
     "wof:parent_id":85669849,
     "wof:placetype":"county",

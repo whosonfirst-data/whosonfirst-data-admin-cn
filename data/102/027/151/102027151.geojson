@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":24.731855,
     "lbl:longitude":118.624744,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.731855,
     "mps:longitude":118.624744,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u0634\u064a"
     ],
@@ -148,7 +151,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0456\u0448\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shih-shih"
     ],
     "name:urd_x_preferred":[
@@ -200,7 +203,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":69,
     "wof:belongsto":[
         85669735,
@@ -213,7 +216,6 @@
     "wof:concordances":{
         "gn:id":1795006,
         "gp:id":2139992,
-        "qs:id":8544,
         "qs_pg:id":8544,
         "wd:id":"Q1025430",
         "wk:page":"Shishi, Fujian"
@@ -231,7 +233,7 @@
         }
     ],
     "wof:id":102027151,
-    "wof:lastmodified":1563393126,
+    "wof:lastmodified":1566655635,
     "wof:name":"Shishi",
     "wof:parent_id":890514127,
     "wof:placetype":"locality",

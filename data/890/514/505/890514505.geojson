@@ -11,7 +11,7 @@
     "geom:longitude":132.231027,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":47.373404,
     "lbl:longitude":132.850686,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u9ed1\u9f99\u6c5f\u7701",
     "meso:dissme":"\u4f73\u6728\u65af\u5e02\u9ed1\u9f99\u6c5f\u7701",
     "meso:gadm_adm2":"Jiamusi",
@@ -46,6 +48,7 @@
     "mps:longitude":132.850686,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Jiamusi"
     ],
@@ -148,7 +151,7 @@
     "name:uig_x_preferred":[
         "\u062c\u064a\u0627\u0645\u06c7\u0633\u0649 \u0634\u06d5\u06be\u0649\u0631\u0649"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chia-mu-ssu Shih"
     ],
     "name:urd_x_preferred":[
@@ -181,9 +184,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"32704",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Jiamusi Shi",
@@ -205,7 +208,7 @@
         "gn:id":2036580,
         "gp:id":26198262,
         "hasc:id":"CN.HL.JM",
-        "qs:id":483549
+        "qs_pg:id":483549
     },
     "wof:country":"CN",
     "wof:created":1469055863,
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":890514505,
-    "wof:lastmodified":1564249738,
+    "wof:lastmodified":1566693656,
     "wof:name":"Jiamusi",
     "wof:parent_id":85669849,
     "wof:placetype":"county",

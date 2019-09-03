@@ -11,11 +11,15 @@
     "geom:longitude":114.12639,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"114.02639,22.45333,114.22639,22.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Luohu"
     ],
     "name:zho_x_preferred":[
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6571358,
-        "qs:id":379109
+        "qs_pg:id":379109
     },
     "wof:country":"CN",
     "wof:created":1469055846,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890514061,
-    "wof:lastmodified":1505343895,
+    "wof:lastmodified":1566693689,
     "wof:name":"Luohu Qu",
     "wof:parent_id":890514737,
     "wof:placetype":"localadmin",

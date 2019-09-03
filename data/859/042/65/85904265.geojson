@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.887551,
     "lbl:longitude":116.37859,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.887654,
     "mps:longitude":116.378194,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Luomashidajie"
-    ],
-    "name:unk_x_variant":[
         "Luomashidajie"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12906636,
-        "qs:id":430812,
         "qs_pg:id":430812
     },
     "wof:country":"CN",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269154,
+    "wof:lastmodified":1566665024,
     "wof:name":"Luomashidajie",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

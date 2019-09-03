@@ -11,12 +11,16 @@
     "geom:longitude":109.52739,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"109.50739,18.20535,109.54739,18.24535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Namlim"
     ],
     "qs:name":"\u6986\u6797\u9547",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":1785782,
         "gp:id":2162855,
-        "qs:id":317443
+        "qs_pg:id":317443
     },
     "wof:country":"CN",
     "wof:created":1469055833,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890513723,
-    "wof:lastmodified":1507590239,
+    "wof:lastmodified":1566693714,
     "wof:name":"\u6986\u6797\u9547",
     "wof:parent_id":1108732333,
     "wof:placetype":"locality",

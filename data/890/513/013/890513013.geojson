@@ -11,7 +11,7 @@
     "geom:longitude":103.63797,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":36.47199,
     "lbl:longitude":103.570844,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u7518\u8083\u7701",
     "meso:dissme":"\u5170\u5dde\u5e02\u7518\u8083\u7701",
     "meso:gadm_adm2":"Lanzhou",
@@ -46,6 +48,7 @@
     "mps:longitude":103.570844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Lanzhou"
     ],
@@ -235,7 +238,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u043d\u044c\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lan-chou Shih"
     ],
     "name:urd_x_preferred":[
@@ -277,9 +280,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"13580",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Lanzhou Shi",
@@ -301,7 +304,7 @@
         "gn:id":1804429,
         "gp:id":26198129,
         "hasc:id":"CN.GS.LZ",
-        "qs:id":203469
+        "qs_pg:id":203469
     },
     "wof:country":"CN",
     "wof:created":1469055797,
@@ -316,7 +319,7 @@
         }
     ],
     "wof:id":890513013,
-    "wof:lastmodified":1564249844,
+    "wof:lastmodified":1566693705,
     "wof:name":"Lanzhou",
     "wof:parent_id":85669711,
     "wof:placetype":"county",

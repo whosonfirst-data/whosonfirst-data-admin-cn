@@ -11,12 +11,16 @@
     "geom:longitude":116.18631,
     "gn:country":"CN",
     "gn:fcode":"PPLA3",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"116.08631,29.166,116.28631,29.366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Tu-ch\u2019ang-hsien-ch\u2019eng"
     ],
     "qs:name":"\u90fd\u660c\u53bf",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":1811931,
         "gp:id":12685473,
-        "qs:id":1019234
+        "qs_pg:id":1019234
     },
     "wof:country":"CN",
     "wof:created":1469055885,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890514985,
-    "wof:lastmodified":1505343898,
+    "wof:lastmodified":1566693674,
     "wof:name":"\u90fd\u660c\u53bf",
     "wof:parent_id":890516935,
     "wof:placetype":"localadmin",

@@ -11,7 +11,7 @@
     "geom:longitude":120.075362,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":31.351948,
     "lbl:longitude":119.842036,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6c5f\u82cf\u7701",
     "meso:dissme":"\u65e0\u9521\u5e02\u6c5f\u82cf\u7701",
     "meso:gadm_adm2":"Wuxi",
@@ -46,6 +48,7 @@
     "mps:longitude":119.842036,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Wuxi"
     ],
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "Wuxi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wu-hsi Shih"
     ],
     "name:wuu_x_preferred":[
@@ -86,9 +89,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"4635",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Wuxi Shi",
@@ -110,7 +113,7 @@
         "gn:id":1790902,
         "gp:id":26198275,
         "hasc:id":"CN.JS.WX",
-        "qs:id":890391,
+        "qs_pg:id":890391,
         "wd:id":"Q10878142"
     },
     "wof:country":"CN",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":890514733,
-    "wof:lastmodified":1563459452,
+    "wof:lastmodified":1566693677,
     "wof:name":"Wuxi",
     "wof:parent_id":85669827,
     "wof:placetype":"county",

@@ -11,17 +11,21 @@
     "geom:longitude":110.51083,
     "gn:country":"CN",
     "gn:fcode":"PPLA3",
-    "gn:pop":64704,
+    "gn:population":64704,
     "iso:country":"CN",
+    "lbl:bbox":"110.49083,40.52139,110.53083,40.56139",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:eng_x_preferred":[
         "Salaqi"
     ],
     "name:gan_x_preferred":[
         "\u8428\u62c9\u9f50\u9547"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tumd Youqi"
     ],
     "name:wuu_x_preferred":[
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2035196,
         "gp:id":2149298,
-        "qs:id":1033572,
+        "qs_pg:id":1033572,
         "wd:id":"Q14203457"
     },
     "wof:country":"CN",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890512651,
-    "wof:lastmodified":1563459708,
+    "wof:lastmodified":1566693741,
     "wof:name":"Salaqi",
     "wof:parent_id":890512867,
     "wof:placetype":"locality",

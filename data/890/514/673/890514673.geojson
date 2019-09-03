@@ -11,10 +11,14 @@
     "geom:longitude":109.55583,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":1950,
+    "gn:population":1950,
     "iso:country":"CN",
+    "lbl:bbox":"109.53583,26.50222,109.57583,26.54222",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Pukou"
     ],
@@ -39,7 +43,7 @@
     "name:swe_x_preferred":[
         "Pukou"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pukou Xiang"
     ],
     "name:urd_x_preferred":[
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":1798492,
         "gp:id":2142278,
-        "qs:id":561256,
+        "qs_pg:id":561256,
         "wk:page":"Pukou District"
     },
     "wof:country":"CN",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":890514673,
-    "wof:lastmodified":1564249756,
+    "wof:lastmodified":1566693663,
     "wof:name":"Pukou",
     "wof:parent_id":890514349,
     "wof:placetype":"locality",

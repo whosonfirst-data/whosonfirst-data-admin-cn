@@ -11,10 +11,14 @@
     "geom:longitude":121.37491,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":427890,
+    "gn:population":427890,
     "iso:country":"CN",
+    "lbl:bbox":"121.35491,28.56023,121.39491,28.60023",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:cym_x_preferred":[
         "Ardal Luqiao"
     ],
@@ -51,7 +55,7 @@
     "name:swe_x_preferred":[
         "Luqiao"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lu-ch\u2019iao-chen"
     ],
     "name:urd_x_preferred":[
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":1801757,
         "gp:id":2130130,
-        "qs:id":846441,
+        "qs_pg:id":846441,
         "wd:id":"Q1371456",
         "wk:page":"Luqiao District"
     },
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":890513741,
-    "wof:lastmodified":1563459600,
+    "wof:lastmodified":1566693716,
     "wof:name":"Luqiao",
     "wof:parent_id":890515633,
     "wof:placetype":"locality",

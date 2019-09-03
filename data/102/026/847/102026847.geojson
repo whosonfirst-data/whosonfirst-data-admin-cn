@@ -15,10 +15,13 @@
     "iso:country":"CN",
     "lbl:latitude":40.5472,
     "lbl:longitude":81.271362,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":40.5472,
     "mps:longitude":81.271362,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0622\u0631\u0627\u0644"
     ],
@@ -153,7 +156,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0430\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "A-la-erh"
     ],
     "name:urd_x_preferred":[
@@ -194,7 +197,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":203,
     "wof:belongsto":[
@@ -208,7 +211,6 @@
     "wof:concordances":{
         "gn:id":1529641,
         "gp:id":2143775,
-        "qs:id":1031937,
         "qs_pg:id":1031937,
         "wd:id":"Q625554",
         "wk:page":"Aral, Xinjiang"
@@ -226,7 +228,7 @@
         }
     ],
     "wof:id":102026847,
-    "wof:lastmodified":1563393462,
+    "wof:lastmodified":1566655750,
     "wof:name":"Aral",
     "wof:parent_id":1108732535,
     "wof:placetype":"locality",

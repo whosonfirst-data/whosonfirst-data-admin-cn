@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000641,
-    "geom:area_square_m":7255279.075134,
+    "geom:area_square_m":7255279.075125,
     "geom:bbox":"112.199046277,23.801444771,112.229664579,23.8295565516",
     "geom:latitude":23.816993,
     "geom:longitude":112.215978,
@@ -13,11 +13,14 @@
     "iso:country":"CN",
     "lbl:latitude":23.818118,
     "lbl:longitude":112.217801,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":23.818118,
     "mps:longitude":112.217801,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Waitsap-hsien"
     ],
     "name:zho_x_preferred":[
@@ -41,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85669743,
@@ -54,7 +57,6 @@
     "wof:concordances":{
         "gn:id":1807687,
         "gp:id":2161951,
-        "qs:id":136677,
         "qs_pg:id":136677
     },
     "wof:country":"CN",
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":102027533,
-    "wof:lastmodified":1505338997,
+    "wof:lastmodified":1566655626,
     "wof:name":"Huaicheng",
     "wof:parent_id":890514727,
     "wof:placetype":"locality",

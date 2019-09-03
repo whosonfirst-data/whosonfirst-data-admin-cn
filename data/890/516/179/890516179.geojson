@@ -11,11 +11,15 @@
     "geom:longitude":115.77528,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":74725,
+    "gn:population":74725,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"115.75528,36.09056,115.79528,36.13056",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Yanggu Xian"
     ],
@@ -55,7 +59,7 @@
     "name:swe_x_preferred":[
         "Yanggu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yang-ku"
     ],
     "name:urd_x_preferred":[
@@ -93,7 +97,7 @@
     "wof:concordances":{
         "gn:id":1787601,
         "gp:id":2168400,
-        "qs:id":1306651,
+        "qs_pg:id":1306651,
         "wd:id":"Q290059",
         "wk:page":"Yanggu County, Shandong"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":890516179,
-    "wof:lastmodified":1563459316,
+    "wof:lastmodified":1566693639,
     "wof:name":"\u9633\u8c37",
     "wof:parent_id":890515909,
     "wof:placetype":"locality",

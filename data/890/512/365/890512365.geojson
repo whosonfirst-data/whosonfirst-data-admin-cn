@@ -11,10 +11,14 @@
     "geom:longitude":116.24722,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":79070,
+    "gn:population":79070,
     "iso:country":"CN",
+    "lbl:bbox":"116.22722,31.9725,116.26722,32.0125",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Wuyang"
     ],
@@ -24,7 +28,7 @@
     "name:nor_x_preferred":[
         "Wuyang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wu-yang-chi"
     ],
     "qs:name":"Wuyang",
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1790885,
         "gp:id":2127473,
-        "qs:id":136390,
+        "qs_pg:id":136390,
         "wk:page":"Wuyang"
     },
     "wof:country":"CN",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":890512365,
-    "wof:lastmodified":1564249911,
+    "wof:lastmodified":1566693734,
     "wof:name":"Wuyang",
     "wof:parent_id":890513745,
     "wof:placetype":"locality",

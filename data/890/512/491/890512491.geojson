@@ -11,10 +11,14 @@
     "geom:longitude":119.75278,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":150793,
+    "gn:population":150793,
     "iso:country":"CN",
+    "lbl:bbox":"119.73278,36.36333,119.77278,36.40333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u063a\u0627\u0648\u0645\u064a"
     ],
@@ -138,7 +142,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043e\u043c\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kao-mi-hsien"
     ],
     "name:urd_x_preferred":[
@@ -173,7 +177,7 @@
     "wof:concordances":{
         "gn:id":1810458,
         "gp:id":2168335,
-        "qs:id":136727,
+        "qs_pg:id":136727,
         "wd:id":"Q651101",
         "wk:page":"Gaomi"
     },
@@ -191,7 +195,7 @@
         }
     ],
     "wof:id":890512491,
-    "wof:lastmodified":1563459721,
+    "wof:lastmodified":1566693744,
     "wof:name":"Gaomi",
     "wof:parent_id":890514755,
     "wof:placetype":"locality",

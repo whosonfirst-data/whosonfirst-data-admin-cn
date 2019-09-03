@@ -13,17 +13,20 @@
     "iso:country":"CN",
     "lbl:latitude":29.807284,
     "lbl:longitude":113.461304,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":29.807284,
     "mps:longitude":113.461304,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ceb_x_preferred":[
         "Xindi"
     ],
     "name:deu_x_preferred":[
         "Xindi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Honghu"
     ],
     "qs:a1":"*",
@@ -40,7 +43,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":53,
     "wof:belongsto":[
@@ -54,7 +57,6 @@
     "wof:concordances":{
         "gn:id":1789137,
         "gp:id":2163886,
-        "qs:id":372032,
         "qs_pg:id":372032
     },
     "wof:country":"CN",
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":102027013,
-    "wof:lastmodified":1564178901,
+    "wof:lastmodified":1566655642,
     "wof:name":"Xindi",
     "wof:parent_id":1108732489,
     "wof:placetype":"locality",

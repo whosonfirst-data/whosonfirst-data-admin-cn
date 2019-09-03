@@ -11,10 +11,14 @@
     "geom:longitude":85.18333,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":93697,
+    "gn:population":93697,
     "iso:country":"CN",
+    "lbl:bbox":"85.16333,45.61333,85.20333,45.65333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Baijiantan"
     ],
@@ -60,7 +64,7 @@
     "name:uig_x_preferred":[
         "\u062c\u06d5\u0631\u06d5\u0646\u0628\u06c7\u0644\u0627\u0642 \u0631\u0627\u064a\u0648\u0646\u0649"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pai-chien-t\u2019an"
     ],
     "name:urd_x_preferred":[
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":1529626,
         "gp:id":2143277,
-        "qs:id":556762,
+        "qs_pg:id":556762,
         "wd:id":"Q803765",
         "wk:page":"Baijiantan District"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":890517103,
-    "wof:lastmodified":1563459128,
+    "wof:lastmodified":1566693584,
     "wof:name":"Baijiantan",
     "wof:parent_id":890515397,
     "wof:placetype":"locality",

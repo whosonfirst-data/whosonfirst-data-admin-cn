@@ -11,11 +11,15 @@
     "geom:longitude":114.50583,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":125132,
+    "gn:population":125132,
     "iso:country":"CN",
+    "lbl:bbox":"114.48583,36.91833,114.52583,36.95833",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":7.0,
+    "name:und_x_variant":[
         "Shahhsien"
     ],
     "qs:name":"Shahecheng",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1796421,
         "gp:id":2171576,
-        "qs:id":136477
+        "qs_pg:id":136477
     },
     "wof:country":"CN",
     "wof:created":1469055943,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890516087,
-    "wof:lastmodified":1505343901,
+    "wof:lastmodified":1566693628,
     "wof:name":"Shahecheng",
     "wof:parent_id":890513015,
     "wof:placetype":"locality",

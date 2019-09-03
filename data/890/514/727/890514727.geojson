@@ -11,7 +11,7 @@
     "geom:longitude":112.205514,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":23.593318,
     "lbl:longitude":112.205429,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5e7f\u4e1c\u7701",
     "meso:dissme":"\u8087\u5e86\u5e02\u5e7f\u4e1c\u7701",
     "meso:gadm_adm2":"Zhaoqing",
@@ -46,6 +48,7 @@
     "mps:longitude":112.205429,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0632\u0627\u0648\u0634\u064a\u0646\u063a"
     ],
@@ -151,7 +154,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0436\u0430\u043e\u0446\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chao-ch\u2019ing Ti-ch\u2019\u00fc"
     ],
     "name:urd_x_preferred":[
@@ -184,9 +187,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"14780",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Zhaoqing Shi",
@@ -208,7 +211,7 @@
         "gn:id":1784852,
         "gp:id":26198243,
         "hasc:id":"CN.GD.ZQ",
-        "qs:id":890389
+        "qs_pg:id":890389
     },
     "wof:country":"CN",
     "wof:created":1469055874,
@@ -223,7 +226,7 @@
         }
     ],
     "wof:id":890514727,
-    "wof:lastmodified":1564249824,
+    "wof:lastmodified":1566693696,
     "wof:name":"Zhaoqing",
     "wof:parent_id":85669743,
     "wof:placetype":"county",

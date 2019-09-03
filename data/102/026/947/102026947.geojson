@@ -14,10 +14,13 @@
     "iso:country":"CN",
     "lbl:latitude":28.318889,
     "lbl:longitude":121.003418,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":28.318889,
     "mps:longitude":121.003418,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u064a\u0648\u064a\u0647\u062a\u0634\u064a\u0646\u063a"
     ],
@@ -129,7 +132,7 @@
     "name:ukr_x_preferred":[
         "\u042e\u0435\u0446\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lo-ch\u2019ing"
     ],
     "name:urd_x_preferred":[
@@ -168,7 +171,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":135,
     "wof:belongsto":[
         85669835,
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":102026947,
-    "wof:lastmodified":1563393443,
+    "wof:lastmodified":1566655743,
     "wof:name":"Yueqing",
     "wof:parent_id":890514289,
     "wof:placetype":"locality",

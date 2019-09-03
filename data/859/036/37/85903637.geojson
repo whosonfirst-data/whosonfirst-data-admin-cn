@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000538,
-    "geom:area_square_m":5683165.367518,
+    "geom:area_square_m":5683165.367528,
     "geom:bbox":"121.472489253,31.2398112122,121.497914863,31.2691608905",
     "geom:latitude":31.255693,
     "geom:longitude":121.485125,
@@ -14,6 +14,7 @@
     "iso:country":"CN",
     "lbl:latitude":31.247868,
     "lbl:longitude":121.484671,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.256218,
     "mps:longitude":121.4841,
     "mz:hierarchy_label":1,
@@ -37,9 +38,8 @@
         "Hung-k'ou",
         "Hung-k'ou-ch'\u00fc"
     ],
-    "name:unk_x_variant":[
-        "Shidongkou",
-        "Hongkou"
+    "name:und_x_variant":[
+        "Shidongkou"
     ],
     "qs:gn_adm0_cc":"CN",
     "qs:gn_fcode":"PPL",
@@ -69,19 +69,19 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85669831,
         102191569,
         85632695,
         102027181,
-        890514815
+        136253041,
+        890514815,
+        85669831
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7844082,
         "gp:id":2151542,
-        "qs:id":1306318,
         "qs_pg:id":1306318
     },
     "wof:country":"CN",
@@ -101,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497316292,
+    "wof:lastmodified":1566665019,
     "wof:name":"Hongkou",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

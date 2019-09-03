@@ -12,14 +12,17 @@
     "iso:country":"CN",
     "lbl:latitude":31.128199,
     "lbl:longitude":119.190673,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.128199,
     "mps:longitude":119.190673,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Jianping"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Langki-hsien"
     ],
     "name:zho_x_preferred":[
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669739,
         102191569,
@@ -59,7 +62,6 @@
     "wof:concordances":{
         "gn:id":1804499,
         "gp:id":20265952,
-        "qs:id":1031575,
         "qs_pg:id":1031575
     },
     "wof:country":"CN",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":102027401,
-    "wof:lastmodified":1564178903,
+    "wof:lastmodified":1566655647,
     "wof:name":"Jianping",
     "wof:parent_id":890515063,
     "wof:placetype":"locality",

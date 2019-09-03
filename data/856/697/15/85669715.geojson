@@ -25,6 +25,7 @@
     ],
     "lbl:latitude":35.500098,
     "lbl:longitude":94.679515,
+    "lbl:min_zoom":8.0,
     "meso:name_alt":"\u9752\u6d77\u7701",
     "meso:name_loc":"\u9752\u6d77\u7701",
     "mps:latitude":35.876747,
@@ -309,9 +310,6 @@
         "\u0426\u0456\u043d\u0445\u0430\u0439"
     ],
     "name:und_x_variant":[
-        "\u9752\u6d77\u7701"
-    ],
-    "name:unk_x_variant":[
         "Tsinghai Province"
     ],
     "name:urd_x_preferred":[
@@ -424,9 +422,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"720,459",
     "statoids:area_mi":"278,171",
     "statoids:as_of_date":"2010-11-01",
@@ -454,7 +452,7 @@
         "hasc:id":"CN.QH",
         "iso:id":"CN-QH",
         "loc:id":"n81015718",
-        "qs:id":1115219,
+        "qs_pg:id":1115219,
         "unlc:id":"CN-63",
         "wd:id":"Q45833",
         "wk:page":"Qinghai"
@@ -481,11 +479,10 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1565664525,
+    "wof:lastmodified":1566665063,
     "wof:name":"Qinghai",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":5626722,
     "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-cn",

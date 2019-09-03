@@ -11,8 +11,11 @@
     "geom:longitude":122.99111,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":80384,
+    "gn:population":80384,
     "iso:country":"CN",
+    "lbl:bbox":"122.97111,39.68083,123.01111,39.72083",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -124,7 +127,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0436\u0443\u0430\u043d\u0445\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chwangho"
     ],
     "name:urd_x_preferred":[
@@ -248,7 +251,7 @@
     "wof:concordances":{
         "gn:id":1784055,
         "gp:id":2148058,
-        "qs:id":558953,
+        "qs_pg:id":558953,
         "wd:id":"Q198159",
         "wk:page":"Zhuanghe"
     },
@@ -266,7 +269,7 @@
         }
     ],
     "wof:id":890512917,
-    "wof:lastmodified":1563459801,
+    "wof:lastmodified":1566693760,
     "wof:name":"Zhuanghe",
     "wof:parent_id":890515891,
     "wof:placetype":"locality",

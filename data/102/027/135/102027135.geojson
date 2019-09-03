@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":30.159377,
     "lbl:longitude":121.052857,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":30.159377,
     "mps:longitude":121.052857,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aar_x_preferred":[
         "Simen"
     ],
@@ -592,7 +595,7 @@
     "name:twi_x_preferred":[
         "Simen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ti-ssu-men-shih"
     ],
     "name:vec_x_preferred":[
@@ -651,7 +654,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":162,
     "wof:belongsto":[
         85669835,
@@ -664,7 +667,6 @@
     "wof:concordances":{
         "gn:id":1794204,
         "gp:id":2131171,
-        "qs:id":372100,
         "qs_pg:id":372100,
         "wd:id":"Q2287061"
     },
@@ -681,7 +683,7 @@
         }
     ],
     "wof:id":102027135,
-    "wof:lastmodified":1563393097,
+    "wof:lastmodified":1566655620,
     "wof:name":"Simen",
     "wof:parent_id":890516553,
     "wof:placetype":"locality",

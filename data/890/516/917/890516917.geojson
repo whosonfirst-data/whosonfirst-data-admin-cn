@@ -11,11 +11,15 @@
     "geom:longitude":110.32972,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":1030,
+    "gn:population":1030,
     "iso:country":"CN",
+    "lbl:bbox":"110.30972,27.73444,110.34972,27.77444",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Hsien-jen-wan"
     ],
     "qs:name":"Xianrenwan",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1790387,
         "gp:id":2142014,
-        "qs:id":136368
+        "qs_pg:id":136368
     },
     "wof:country":"CN",
     "wof:created":1469055984,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890516917,
-    "wof:lastmodified":1505343903,
+    "wof:lastmodified":1566693640,
     "wof:name":"Xianrenwan",
     "wof:parent_id":890514349,
     "wof:placetype":"locality",

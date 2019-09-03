@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"117.80657,26.76331,117.84657,26.80331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Fuzhou"
     ],
@@ -223,9 +227,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0443\u0447\u0436\u043e\u0443"
     ],
-    "name:und_x_variant":[
-        "\u4f0f\u6d32"
-    ],
     "name:urd_x_preferred":[
         "\u0641\u0648\u0698\u0648"
     ],
@@ -269,7 +270,7 @@
         }
     ],
     "wof:id":1276325351,
-    "wof:lastmodified":1564206957,
+    "wof:lastmodified":1566674619,
     "wof:name":"Fuzhou",
     "wof:parent_id":890516651,
     "wof:placetype":"locality",

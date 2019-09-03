@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"116.62111,26.50639,116.66111,26.54639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -34,7 +38,7 @@
         "gn:id":1922408
     },
     "wof:country":"CN",
-    "wof:geomhash":"0e026fd7bcbde90e45904f30b84705a0",
+    "wof:geomhash":"4837b5dabbf07b4ae07c3115c7b9c6e9",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209308195,
-    "wof:lastmodified":1536291120,
+    "wof:lastmodified":1566679579,
     "wof:name":"Wubei Nongchang",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     116.64111,
-    26.526390000000006,
+    26.52639000000001,
     116.64111,
-    26.526390000000006
+    26.52639000000001
 ],
   "geometry": {"coordinates":[116.64111,26.52639000000001],"type":"Point"}
 }

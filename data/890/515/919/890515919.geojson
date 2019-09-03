@@ -11,11 +11,14 @@
     "geom:longitude":114.39637,
     "gn:country":"CN",
     "gn:fcode":"SCHC",
-    "gn:pop":20000,
+    "gn:population":20000,
     "iso:country":"CN",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:ces_x_preferred":[
         "China University of Geosciences"
     ],
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":6620465,
         "gp:id":12512230,
-        "qs:id":105145,
+        "qs_pg:id":105145,
         "wd:id":"Q1074097",
         "wk:page":"China University of Geosciences"
     },
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890515919,
-    "wof:lastmodified":1563459932,
+    "wof:lastmodified":1566693798,
     "wof:name":"China University of Geosciences",
     "wof:parent_id":890516557,
     "wof:placetype":"locality",

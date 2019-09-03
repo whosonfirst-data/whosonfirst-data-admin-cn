@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":33.39847,
     "lbl:longitude":116.22498,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5b89\u5fbd\u7701",
     "meso:dissme":"\u4eb3\u5dde\u5e02\u5b89\u5fbd\u7701",
     "meso:gadm_adm2":"Bozhou",
@@ -43,6 +45,7 @@
     "mps:longitude":116.22498,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u0634\u0648"
     ],
@@ -130,9 +133,6 @@
     "name:tur_x_preferred":[
         "Bozhou"
     ],
-    "name:und_x_variant":[
-        "\u4eb3\u5dde\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0698\u0648\u0648"
     ],
@@ -162,9 +162,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"8374",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Bozhou Shi",
@@ -185,7 +185,7 @@
     "wof:concordances":{
         "gp:id":26198238,
         "hasc:id":"CN.AH.BZ",
-        "qs:id":1103979
+        "qs_pg:id":1103979
     },
     "wof:country":"CN",
     "wof:created":1469055896,
@@ -200,7 +200,7 @@
         }
     ],
     "wof:id":890515239,
-    "wof:lastmodified":1564250049,
+    "wof:lastmodified":1566693795,
     "wof:name":"Bozhou",
     "wof:parent_id":85669739,
     "wof:placetype":"county",

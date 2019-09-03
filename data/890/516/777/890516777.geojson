@@ -11,9 +11,12 @@
     "geom:longitude":126.28556,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":72528,
+    "gn:population":72528,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"126.26556,46.24222,126.30556,46.28222",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -53,7 +56,7 @@
     "name:swe_x_preferred":[
         "Lanxi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shuang-miao-tzu"
     ],
     "name:urd_x_preferred":[
@@ -184,7 +187,7 @@
     "wof:concordances":{
         "gn:id":2036226,
         "gp:id":2141200,
-        "qs:id":1306211,
+        "qs_pg:id":1306211,
         "wd:id":"Q379189",
         "wk:page":"Lanxi County"
     },
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":890516777,
-    "wof:lastmodified":1563459242,
+    "wof:lastmodified":1566693617,
     "wof:name":"\u5170\u897f",
     "wof:parent_id":890514509,
     "wof:placetype":"locality",

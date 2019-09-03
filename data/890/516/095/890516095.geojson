@@ -11,11 +11,15 @@
     "geom:longitude":109.48333,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":95227,
+    "gn:population":95227,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"109.46333,30.28,109.50333,30.32",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:eng_x_preferred":[
         "Enshi"
     ],
@@ -25,7 +29,7 @@
     "name:rus_x_preferred":[
         "\u042d\u043d\u044c\u0448\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shih-nan"
     ],
     "name:zho_x_preferred":[
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":1811720,
         "gp:id":2163874,
-        "qs:id":136770
+        "qs_pg:id":136770
     },
     "wof:country":"CN",
     "wof:created":1469055943,
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890516095,
-    "wof:lastmodified":1505343901,
+    "wof:lastmodified":1566693633,
     "wof:name":"\u6069\u65bd",
     "wof:parent_id":1108732427,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CN",
     "lbl:latitude":31.088858,
     "lbl:longitude":121.338171,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":31.088858,
     "mps:longitude":121.338171,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ceb_x_preferred":[
         "Songjiang"
     ],
@@ -38,7 +41,7 @@
     "name:swe_x_preferred":[
         "Songjiang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sung-chiang-hsien"
     ],
     "qs:a0":"\u4e2d\u570b",
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":173,
     "wof:belongsto":[
@@ -74,8 +77,10 @@
     "wof:concordances":{
         "gn:id":2034694,
         "gp:id":2151853,
-        "qs:id":810973,
         "qs_pg:id":137692
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":810973
     },
     "wof:country":"CN",
     "wof:geomhash":"e5d33be81af5fb277c946f4cb92d74cd",
@@ -90,7 +95,7 @@
         }
     ],
     "wof:id":102027133,
-    "wof:lastmodified":1564178897,
+    "wof:lastmodified":1566655632,
     "wof:name":"Songjiang",
     "wof:parent_id":890514815,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":119.472588,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":32.635097,
     "lbl:longitude":119.51718,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6c5f\u82cf\u7701",
     "meso:dissme":"\u626c\u5dde\u5e02\u6c5f\u82cf\u7701",
     "meso:gadm_adm2":"Yangzhou",
@@ -46,6 +48,7 @@
     "mps:longitude":119.51718,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Yangzhou"
     ],
@@ -166,7 +169,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u043d\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yang-chou Shih"
     ],
     "name:urd_x_preferred":[
@@ -202,9 +205,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"6638",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Yangzhou Shi",
@@ -226,7 +229,7 @@
         "gn:id":1787226,
         "gp:id":26198278,
         "hasc:id":"CN.JS.YZ",
-        "qs:id":890393
+        "qs_pg:id":890393
     },
     "wof:country":"CN",
     "wof:created":1469055955,
@@ -241,7 +244,7 @@
         }
     ],
     "wof:id":890516397,
-    "wof:lastmodified":1564249620,
+    "wof:lastmodified":1566693600,
     "wof:name":"Yangzhou",
     "wof:parent_id":85669827,
     "wof:placetype":"county",

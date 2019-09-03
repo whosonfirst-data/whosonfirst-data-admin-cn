@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000279,
-    "geom:area_square_m":3127707.368643,
+    "geom:area_square_m":3127707.368645,
     "geom:bbox":"103.036364527,24.9421736637,103.056164838,24.960225419",
     "geom:latitude":24.9512,
     "geom:longitude":103.046265,
     "iso:country":"CN",
     "lbl:latitude":24.951199,
     "lbl:longitude":103.046265,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.951199,
     "mps:longitude":103.046265,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Dongfeng"
     ],
     "qs:a1":"*",
@@ -33,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":211,
     "wof:belongsto":[
         85669791,
@@ -46,7 +49,6 @@
     "wof:concordances":{
         "gn:id":1804685,
         "gp:id":2160494,
-        "qs:id":903683,
         "qs_pg:id":903683
     },
     "wof:country":"CN",
@@ -62,7 +64,7 @@
         }
     ],
     "wof:id":102027419,
-    "wof:lastmodified":1527637568,
+    "wof:lastmodified":1566655684,
     "wof:name":"Kuangyuan",
     "wof:parent_id":890513777,
     "wof:placetype":"locality",

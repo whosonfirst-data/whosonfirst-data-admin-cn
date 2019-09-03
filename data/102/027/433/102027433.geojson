@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000292,
-    "geom:area_square_m":3121580.774014,
+    "geom:area_square_m":3121580.774013,
     "geom:bbox":"119.877924934,30.2358190262,119.898686275,30.2538445607",
     "geom:latitude":30.244832,
     "geom:longitude":119.888306,
     "iso:country":"CN",
     "lbl:latitude":30.244832,
     "lbl:longitude":119.888306,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":30.244832,
     "mps:longitude":119.888306,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Chiu-y\u00fc-hang"
     ],
     "qs:a1":"*",
@@ -33,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669835,
         102191569,
@@ -45,7 +48,6 @@
     "wof:concordances":{
         "gn:id":1805064,
         "gp:id":2130615,
-        "qs:id":1027649,
         "qs_pg:id":1027649
     },
     "wof:country":"CN",
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":102027433,
-    "wof:lastmodified":1497301035,
+    "wof:lastmodified":1566655699,
     "wof:name":"Yuhang",
     "wof:parent_id":890516555,
     "wof:placetype":"locality",

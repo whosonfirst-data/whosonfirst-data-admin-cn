@@ -11,11 +11,15 @@
     "geom:longitude":106.35889,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":974,
+    "gn:population":974,
     "iso:country":"CN",
+    "lbl:bbox":"106.33889,28.01889,106.37889,28.05889",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "San-ho"
     ],
     "name:zho_x_preferred":[
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1796829,
         "gp:id":2146143,
-        "qs:id":560942
+        "qs_pg:id":560942
     },
     "wof:country":"CN",
     "wof:created":1469055758,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890512085,
-    "wof:lastmodified":1505343886,
+    "wof:lastmodified":1566693740,
     "wof:name":"Sanhetu",
     "wof:parent_id":890516473,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000158,
-    "geom:area_square_m":1500275.753558,
+    "geom:area_square_m":1500275.75356,
     "geom:bbox":"116.298522949,39.9939556853,116.313073093,40.0097352946",
     "geom:latitude":40.001943,
     "geom:longitude":116.306018,
@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":40.001692,
     "lbl:longitude":116.305587,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.001515,
     "mps:longitude":116.307335,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Zhongguancon"
-    ],
-    "name:unk_x_variant":[
         "Zhongguancon"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2151421,
-        "qs:id":1129846,
         "qs_pg:id":1129846
     },
     "wof:country":"CN",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527268880,
+    "wof:lastmodified":1566665019,
     "wof:name":"Zhongguancon",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

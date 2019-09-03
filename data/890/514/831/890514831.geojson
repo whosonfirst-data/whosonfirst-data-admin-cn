@@ -11,8 +11,12 @@
     "geom:longitude":105.079421,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"104.979421,29.489132,105.179421,29.689132",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cdo_x_preferred":[
         "N\u00f4\u0324i-g\u0115\u0324ng"
     ],
@@ -58,7 +62,7 @@
     "name:srp_x_preferred":[
         "\u041d\u0435\u0458\u0452\u0430\u043d\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neikianghsien"
     ],
     "name:urd_x_preferred":[
@@ -98,8 +102,10 @@
     "wof:concordances":{
         "gn:id":1799491,
         "gp:id":12687365,
-        "qs:id":969479,
         "qs_pg:id":204446
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":969479
     },
     "wof:country":"CN",
     "wof:created":1469055879,
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":890514831,
-    "wof:lastmodified":1504301965,
+    "wof:lastmodified":1566693688,
     "wof:name":"\u5185\u6c5f\u5e02",
     "wof:parent_id":1108732369,
     "wof:placetype":"localadmin",

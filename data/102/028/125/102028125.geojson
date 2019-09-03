@@ -14,10 +14,13 @@
     "iso:country":"CN",
     "lbl:latitude":24.482149,
     "lbl:longitude":112.637329,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.482149,
     "mps:longitude":112.637329,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yangshan"
     ],
@@ -45,7 +48,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":126,
     "wof:belongsto":[
         85669743,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102028125,
-    "wof:lastmodified":1564178940,
+    "wof:lastmodified":1566655734,
     "wof:name":"Yangshan",
     "wof:parent_id":890513267,
     "wof:placetype":"locality",

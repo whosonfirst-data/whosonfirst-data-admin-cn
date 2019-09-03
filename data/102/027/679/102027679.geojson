@@ -13,10 +13,13 @@
     "iso:country":"CN",
     "lbl:latitude":32.874974,
     "lbl:longitude":117.559204,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":32.874974,
     "mps:longitude":117.559204,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Chuzhou"
     ],
@@ -198,7 +201,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0443\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ch\u2019u"
     ],
     "name:urd_x_preferred":[
@@ -245,7 +248,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":339,
     "wof:belongsto":[
@@ -260,7 +263,7 @@
         "fct:id":"06b6913c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1814757,
         "gp:id":12685312,
-        "qs:id":246074,
+        "qs_pg:id":246074,
         "wd:id":"Q114045",
         "wk:page":"Chuzhou"
     },
@@ -280,7 +283,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393305,
+    "wof:lastmodified":1566655692,
     "wof:name":"Chuzhou",
     "wof:parent_id":890513329,
     "wof:placetype":"locality",

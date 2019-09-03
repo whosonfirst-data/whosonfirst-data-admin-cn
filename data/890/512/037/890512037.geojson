@@ -11,10 +11,14 @@
     "geom:longitude":118.41667,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":41484,
+    "gn:population":41484,
     "iso:country":"CN",
+    "lbl:bbox":"118.39667,39.71333,118.43667,39.75333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Guye"
     ],
@@ -30,7 +34,7 @@
     "name:rus_x_preferred":[
         "\u0413\u044e\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ku-yeh"
     ],
     "name:zho_x_preferred":[
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":1809159,
         "gp:id":2171319,
-        "qs:id":562936,
+        "qs_pg:id":562936,
         "wk:page":"Guye"
     },
     "wof:country":"CN",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890512037,
-    "wof:lastmodified":1564249931,
+    "wof:lastmodified":1566693743,
     "wof:name":"Guye",
     "wof:parent_id":890516585,
     "wof:placetype":"locality",

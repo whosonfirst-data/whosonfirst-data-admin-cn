@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":21.668829,
     "lbl:longitude":110.912476,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.668829,
     "mps:longitude":110.912476,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Maoming"
     ],
@@ -130,7 +133,7 @@
     "name:tur_x_preferred":[
         "Maoming"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mao-ming Shih"
     ],
     "name:urd_x_preferred":[
@@ -166,7 +169,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669743,
         102191569,
@@ -179,7 +182,7 @@
         "fct:id":"06b425e6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1801179,
         "gp:id":26198172,
-        "qs:id":276588,
+        "qs_pg:id":276588,
         "wd:id":"Q38927"
     },
     "wof:country":"CN",
@@ -198,7 +201,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393346,
+    "wof:lastmodified":1566655707,
     "wof:name":"Maoming Shi",
     "wof:parent_id":1108732487,
     "wof:placetype":"locality",

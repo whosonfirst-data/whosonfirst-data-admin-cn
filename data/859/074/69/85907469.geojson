@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000918,
-    "geom:area_square_m":9712588.258308,
+    "geom:area_square_m":9712588.258307,
     "geom:bbox":"121.442276638,31.1841918936,121.482214959,31.2221970256",
     "geom:latitude":31.205177,
     "geom:longitude":121.463037,
@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":31.206739,
     "lbl:longitude":121.462198,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.206612,
     "mps:longitude":121.463041,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Da Pu Qiao"
-    ],
-    "name:unk_x_variant":[
         "Da Pu Qiao"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -69,7 +67,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726046,
-        "qs:id":1296363,
         "qs_pg:id":1296363
     },
     "wof:country":"CN",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269171,
+    "wof:lastmodified":1566665027,
     "wof:name":"Da Pu Qiao",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

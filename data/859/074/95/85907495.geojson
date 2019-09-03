@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001792,
-    "geom:area_square_m":18932298.48008,
+    "geom:area_square_m":18932298.480069,
     "geom:bbox":"121.406952451,31.2668132377,121.469174635,31.3190617706",
     "geom:latitude":31.290928,
     "geom:longitude":121.439052,
     "iso:country":"CN",
     "lbl:latitude":31.279366,
     "lbl:longitude":121.445908,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.292235,
     "mps:longitude":121.435988,
     "mz:hierarchy_label":1,
@@ -24,9 +25,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Pengpu Zhen"
-    ],
-    "name:unk_x_variant":[
         "Pengpu Zhen"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -54,7 +52,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -84,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269170,
+    "wof:lastmodified":1566665027,
     "wof:name":"Pengpu Zhen",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

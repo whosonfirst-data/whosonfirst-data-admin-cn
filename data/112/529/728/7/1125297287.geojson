@@ -9,15 +9,18 @@
     "geom:bbox":"119.43583,32.39722,119.43583,32.39722",
     "geom:latitude":32.39722,
     "geom:longitude":119.43583,
-    "gn:gn_country":"CN",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":539715,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
     "gn:population":539715,
     "iso:country":"CN",
+    "lbl:bbox":"119.33583,32.29722,119.53583,32.49722",
     "lbl:latitude":32.39722,
     "lbl:longitude":119.43583,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":5.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Yangtsjou"
@@ -85,7 +88,7 @@
     "name:uig_x_preferred":[
         "Yangjo shehiri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chiang-tu"
     ],
     "name:urd_x_preferred":[
@@ -124,7 +127,7 @@
     "qs_pg:woe_adm0":23424781,
     "qs_pg:woe_id":20071128,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424781,
     "woe:name_adm0":"\u4e2d\u570b",
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":1125297287,
-    "wof:lastmodified":1509387647,
+    "wof:lastmodified":1566693803,
     "wof:name":"\u626c\u5dde\u5e02",
     "wof:parent_id":890516397,
     "wof:placetype":"localadmin",

@@ -14,11 +14,14 @@
     "iso:country":"CN",
     "lbl:latitude":30.888083,
     "lbl:longitude":121.151734,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":30.888083,
     "mps:longitude":121.151734,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Jinshan"
     ],
     "qs:a1":"*",
@@ -35,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669831,
         102191569,
@@ -46,7 +49,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1783903,
-        "qs:id":846342,
         "qs_pg:id":846342
     },
     "wof:country":"CN",
@@ -62,7 +64,7 @@
         }
     ],
     "wof:id":102026881,
-    "wof:lastmodified":1497290455,
+    "wof:lastmodified":1566655739,
     "wof:name":"Zhujing",
     "wof:parent_id":890514815,
     "wof:placetype":"locality",

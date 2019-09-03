@@ -11,10 +11,14 @@
     "geom:longitude":121.36667,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":56176,
+    "gn:population":56176,
     "iso:country":"CN",
+    "lbl:bbox":"121.34667,41.14528,121.38667,41.18528",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0646\u063a\u0627\u064a"
     ],
@@ -120,7 +124,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043d\u0445\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ta-ling-ho-chen"
     ],
     "name:urd_x_preferred":[
@@ -152,7 +156,7 @@
     "wof:concordances":{
         "gn:id":2037913,
         "gp:id":2148031,
-        "qs:id":137802,
+        "qs_pg:id":137802,
         "wd:id":"Q1362450",
         "wk:page":"Linghai"
     },
@@ -170,7 +174,7 @@
         }
     ],
     "wof:id":890512567,
-    "wof:lastmodified":1563459676,
+    "wof:lastmodified":1566693734,
     "wof:name":"Linghai",
     "wof:parent_id":890514397,
     "wof:placetype":"locality",

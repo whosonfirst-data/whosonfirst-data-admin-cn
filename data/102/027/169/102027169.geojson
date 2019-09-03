@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":30.004954,
     "lbl:longitude":120.576414,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":30.004954,
     "mps:longitude":120.576414,
     "mz:hierarchy_label":1,
@@ -202,7 +204,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043e\u0441\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shao-hsing"
     ],
     "name:urd_x_preferred":[
@@ -345,7 +347,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2542,
     "wof:belongsto":[
@@ -359,7 +361,7 @@
     "wof:concordances":{
         "gn:id":1795855,
         "gp:id":12685434,
-        "qs:id":959148,
+        "qs_pg:id":959148,
         "wd:id":"Q42666"
     },
     "wof:country":"CN",
@@ -375,7 +377,7 @@
         }
     ],
     "wof:id":102027169,
-    "wof:lastmodified":1563393130,
+    "wof:lastmodified":1566655636,
     "wof:megacity":1,
     "wof:name":"Shaoxing",
     "wof:parent_id":890513785,

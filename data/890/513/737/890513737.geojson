@@ -11,12 +11,15 @@
     "geom:longitude":121.07322,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"121.06822,31.23194,121.07822,31.24194",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "Nanxiang"
     ],
     "qs:name":"\u5357\u7fd4\u9547",
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":7844582,
         "gp:id":2151860,
-        "qs:id":326945
+        "qs_pg:id":326945
     },
     "wof:country":"CN",
     "wof:created":1469055833,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890513737,
-    "wof:lastmodified":1505343893,
+    "wof:lastmodified":1566693699,
     "wof:name":"\u5357\u7fd4\u9547",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000316,
-    "geom:area_square_m":3122855.599028,
+    "geom:area_square_m":3122855.599024,
     "geom:bbox":"122.458862302,36.9364874755,122.481323272,36.9545157277",
     "geom:latitude":36.945502,
     "geom:longitude":122.470093,
     "iso:country":"CN",
     "lbl:latitude":36.945501,
     "lbl:longitude":122.470093,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":36.945501,
     "mps:longitude":122.470093,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Jung-ch\u2019eng Hsien"
     ],
     "qs:a0":"\u4e2d\u570b",
@@ -36,7 +39,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669813,
         102191569,
@@ -48,7 +51,7 @@
     "wof:concordances":{
         "gn:id":1795432,
         "gp:id":2168419,
-        "qs:id":952256
+        "qs_pg:id":952256
     },
     "wof:country":"CN",
     "wof:geomhash":"d37ee023dac4886ddcfecf6f379d20d2",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102027163,
-    "wof:lastmodified":1501222212,
+    "wof:lastmodified":1566655679,
     "wof:name":"Shidao",
     "wof:parent_id":890514771,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"121.11028,30.59667,121.15028,30.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -34,7 +38,7 @@
         "gn:id":1896601
     },
     "wof:country":"CN",
-    "wof:geomhash":"784bc69a81d51adba494cbdda15edc34",
+    "wof:geomhash":"5756e2fe808c54e2acfcc11a88a0b700",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209323157,
-    "wof:lastmodified":1536290621,
+    "wof:lastmodified":1566682071,
     "wof:name":"Gaodilang",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     121.13028,
-    30.616670000000006,
+    30.61667000000001,
     121.13028,
-    30.616670000000006
+    30.61667000000001
 ],
   "geometry": {"coordinates":[121.13028,30.61667000000001],"type":"Point"}
 }

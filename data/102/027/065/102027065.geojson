@@ -12,17 +12,20 @@
     "iso:country":"CN",
     "lbl:latitude":34.248135,
     "lbl:longitude":108.28125,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.248135,
     "mps:longitude":108.28125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Wugong"
     ],
     "name:spa_x_preferred":[
         "Wugong"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wu-kung-chan"
     ],
     "qs:a0":"\u4e2d\u570b",
@@ -42,7 +45,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":22,
     "wof:belongsto":[
         85669769,
@@ -55,7 +58,7 @@
     "wof:concordances":{
         "gn:id":1791265,
         "gp:id":2156535,
-        "qs:id":1170651
+        "qs_pg:id":1170651
     },
     "wof:country":"CN",
     "wof:geomhash":"2e82a41e065392c4386885e32dac69bd",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102027065,
-    "wof:lastmodified":1564178902,
+    "wof:lastmodified":1566655647,
     "wof:name":"Wugong",
     "wof:parent_id":890515689,
     "wof:placetype":"locality",

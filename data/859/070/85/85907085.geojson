@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9441491.259534,
+    "geom:area_square_m":0.0,
     "geom:bbox":"113.22273,23.113304,113.22273,23.113304",
     "geom:latitude":23.113304,
     "geom:longitude":113.22273,
     "gn:latitude":23.50488,
     "gn:longitude":113.07993,
     "iso:country":"CN",
+    "lbl:bbox":"113.21773,23.108304,113.22773,23.118304",
     "lbl:latitude":23.113304,
     "lbl:longitude":113.22273,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.112352,
     "mps:longitude":113.209173,
     "mz:hierarchy_label":0,
@@ -28,9 +30,8 @@
     "name:eng_x_preferred":[
         "Shiweitang"
     ],
-    "name:unk_x_variant":[
-        "Shiweiqiang",
-        "Shiweitang"
+    "name:und_x_variant":[
+        "Shiweiqiang"
     ],
     "name:zho_x_preferred":[
         "\u77f3\u56f4\u5899"
@@ -65,20 +66,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85669743,
         102191569,
         85632695,
         102027597,
         136253041,
-        890513087
+        890513087,
+        85669743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7007494,
         "gp:id":22724594,
-        "qs:id":483261,
         "qs_pg:id":483261
     },
     "wof:country":"CN",
@@ -98,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936505,
+    "wof:lastmodified":1566665014,
     "wof:name":"Shiweitang",
     "wof:parent_id":102027597,
     "wof:placetype":"neighbourhood",

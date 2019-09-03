@@ -11,16 +11,19 @@
     "geom:longitude":111.50861,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":92008,
+    "gn:population":92008,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"111.48861,32.52278,111.52861,32.56278",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
     "name:rus_x_preferred":[
         "\u0414\u0430\u043d\u044c\u0446\u0437\u044f\u043d\u043a\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shatoin"
     ],
     "ne:ADM0CAP":0.0,
@@ -136,7 +139,7 @@
     "wof:concordances":{
         "gn:id":1813828,
         "gp:id":2162981,
-        "qs:id":136832
+        "qs_pg:id":136832
     },
     "wof:country":"CN",
     "wof:created":1469055943,
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":890516103,
-    "wof:lastmodified":1505343901,
+    "wof:lastmodified":1566693596,
     "wof:name":"\u4e39\u6c5f\u53e3\u5e02",
     "wof:parent_id":890515173,
     "wof:placetype":"locality",

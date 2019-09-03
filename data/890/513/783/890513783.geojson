@@ -11,7 +11,7 @@
     "geom:longitude":124.570727,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":41.280901,
     "lbl:longitude":124.113445,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u8fbd\u5b81\u7701",
     "meso:dissme":"\u672c\u6eaa\u5e02\u8fbd\u5b81\u7701",
     "meso:gadm_adm2":"Benxi",
@@ -46,6 +48,7 @@
     "mps:longitude":124.113445,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Benxi"
     ],
@@ -160,7 +163,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043d\u044c\u0441\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pen-hsi Shih"
     ],
     "name:urd_x_preferred":[
@@ -199,9 +202,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"8202",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Benxi Shi",
@@ -223,7 +226,7 @@
         "gn:id":2038299,
         "gp:id":26198282,
         "hasc:id":"CN.LN.BX",
-        "qs:id":355216
+        "qs_pg:id":355216
     },
     "wof:country":"CN",
     "wof:created":1469055835,
@@ -238,7 +241,7 @@
         }
     ],
     "wof:id":890513783,
-    "wof:lastmodified":1564249866,
+    "wof:lastmodified":1566693714,
     "wof:name":"Benxi",
     "wof:parent_id":85669807,
     "wof:placetype":"county",

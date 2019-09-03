@@ -11,7 +11,7 @@
     "geom:longitude":117.392674,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":34.935784,
     "lbl:longitude":117.427271,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5c71\u4e1c\u7701",
     "meso:dissme":"\u67a3\u5e84\u5e02\u5c71\u4e1c\u7701",
     "meso:gadm_adm2":"Zaozhuang",
@@ -46,6 +48,7 @@
     "mps:longitude":117.427271,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Zaozhuang"
     ],
@@ -133,7 +136,7 @@
     "name:tur_x_preferred":[
         "Zaozhuang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tsao-chuang Shih"
     ],
     "name:urd_x_preferred":[
@@ -169,9 +172,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"4550",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Zaozhuang Shi",
@@ -193,7 +196,7 @@
         "gn:id":1785450,
         "gp:id":26198084,
         "hasc:id":"CN.SD.ZZ",
-        "qs:id":203459
+        "qs_pg:id":203459
     },
     "wof:country":"CN",
     "wof:created":1469055953,
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":890516327,
-    "wof:lastmodified":1564249694,
+    "wof:lastmodified":1566693637,
     "wof:name":"Zaozhuang",
     "wof:parent_id":85669813,
     "wof:placetype":"county",

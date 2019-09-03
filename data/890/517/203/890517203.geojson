@@ -11,11 +11,15 @@
     "geom:longitude":106.77152,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":1500,
+    "gn:population":1500,
     "iso:country":"CN",
+    "lbl:bbox":"106.75152,32.05672,106.79152,32.09672",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Hsia-liang-ho-k\u2019ou"
     ],
     "name:zho_x_preferred":[
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1790664,
         "gp:id":2158250,
-        "qs:id":560011
+        "qs_pg:id":560011
     },
     "wof:country":"CN",
     "wof:created":1469055998,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890517203,
-    "wof:lastmodified":1505343905,
+    "wof:lastmodified":1566693587,
     "wof:name":"Xialiang",
     "wof:parent_id":1108732413,
     "wof:placetype":"locality",

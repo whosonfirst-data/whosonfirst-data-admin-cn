@@ -11,10 +11,14 @@
     "geom:longitude":113.67306,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":191891,
+    "gn:population":191891,
     "iso:country":"CN",
+    "lbl:bbox":"113.65306,22.79898,113.69306,22.83898",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ceb_x_preferred":[
         "Humen"
     ],
@@ -54,7 +58,7 @@
     "name:swe_x_preferred":[
         "Humen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fumunchai"
     ],
     "name:vie_x_preferred":[
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":1806696,
         "gp:id":2161939,
-        "qs:id":1243471,
+        "qs_pg:id":1243471,
         "wd:id":"Q1637048",
         "wk:page":"Humen"
     },
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":890511883,
-    "wof:lastmodified":1563459352,
+    "wof:lastmodified":1566693649,
     "wof:name":"Humen",
     "wof:parent_id":890516401,
     "wof:placetype":"locality",

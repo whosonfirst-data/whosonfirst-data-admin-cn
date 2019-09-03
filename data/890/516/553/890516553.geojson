@@ -11,7 +11,7 @@
     "geom:longitude":121.473239,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":29.825028,
     "lbl:longitude":121.400087,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6d59\u6c5f\u7701",
     "meso:dissme":"\u5b81\u6ce2\u5e02\u6d59\u6c5f\u7701",
     "meso:gadm_adm2":"Ningbo",
@@ -46,6 +48,7 @@
     "mps:longitude":121.400087,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Ningbo"
     ],
@@ -193,7 +196,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043d\u0431\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ning-po Shih"
     ],
     "name:urd_x_preferred":[
@@ -229,9 +232,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"9409",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Ningbo Shi",
@@ -253,7 +256,7 @@
         "gn:id":1799395,
         "gp:id":26198144,
         "hasc:id":"CN.ZJ.NB",
-        "qs:id":219963
+        "qs_pg:id":219963
     },
     "wof:country":"CN",
     "wof:created":1469055963,
@@ -268,7 +271,7 @@
         }
     ],
     "wof:id":890516553,
-    "wof:lastmodified":1564249672,
+    "wof:lastmodified":1566693626,
     "wof:name":"Ningbo",
     "wof:parent_id":85669835,
     "wof:placetype":"county",

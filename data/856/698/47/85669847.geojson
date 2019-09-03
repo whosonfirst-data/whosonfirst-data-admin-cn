@@ -26,6 +26,7 @@
     ],
     "lbl:latitude":44.570414,
     "lbl:longitude":117.728454,
+    "lbl:min_zoom":8.0,
     "meso:name_alt":"\u5167\u8499\u53e4\u81ea\u6cbb\u5340|\u5185\u8499\u53e4\u81ea\u6cbb\u533a",
     "meso:name_loc":"\u5185\u8499\u53e4\u81ea\u6cbb\u533a",
     "mps:latitude":44.570209,
@@ -333,9 +334,6 @@
     ],
     "name:und_x_variant":[
         "\u5167\u8499\u53e4\u81ea\u6cbb\u5340|\u5185\u8499\u53e4\u81ea\u6cbb\u533a",
-        "\u5185\u8499\u53e4\u81ea\u6cbb\u533a"
-    ],
-    "name:unk_x_variant":[
         "Nei Mongol Zizhiqu"
     ],
     "name:urd_x_preferred":[
@@ -454,9 +452,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"1,181,104",
     "statoids:area_mi":"456,027",
     "statoids:as_of_date":"2010-11-01",
@@ -484,7 +482,7 @@
         "hasc:id":"CN.NM",
         "iso:id":"CN-NM",
         "loc:id":"n81018477",
-        "qs:id":1028384,
+        "qs_pg:id":1028384,
         "wd:id":"Q41079",
         "wk:page":"Inner Mongolia"
     },
@@ -510,11 +508,10 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1565664533,
+    "wof:lastmodified":1566665076,
     "wof:name":"Inner Mongolia",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":24706321,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-cn",

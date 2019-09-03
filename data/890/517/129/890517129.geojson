@@ -11,11 +11,15 @@
     "geom:longitude":106.31222,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":256,
+    "gn:population":256,
     "iso:country":"CN",
+    "lbl:bbox":"106.29222,28.22972,106.33222,28.26972",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Shang-ho-pa"
     ],
     "qs:name":"Heba",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1552061,
         "gp:id":2146926,
-        "qs:id":557043
+        "qs_pg:id":557043
     },
     "wof:country":"CN",
     "wof:created":1469055995,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890517129,
-    "wof:lastmodified":1505343904,
+    "wof:lastmodified":1566693589,
     "wof:name":"Heba",
     "wof:parent_id":890516473,
     "wof:placetype":"locality",

@@ -13,14 +13,17 @@
     "gn:fcode":"PPL",
     "gn:latitude":30.56938,
     "gn:longitude":119.19439,
-    "gn:pop":73706,
+    "gn:population":73706,
     "iso:country":"CN",
     "lbl:latitude":29.214518,
     "lbl:longitude":119.471286,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":29.214518,
     "mps:longitude":119.471286,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Lanxi"
     ],
@@ -39,7 +42,7 @@
     "name:rus_x_preferred":[
         "\u041b\u0430\u043d\u044c\u0441\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lan-ch\u2019i-hsien-ch\u2019eng"
     ],
     "qs:a1":"*",
@@ -58,7 +61,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":47,
     "wof:belongsto":[
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":1804442,
         "gp:id":2132586,
-        "qs:id":136625,
+        "qs_pg:id":136625,
         "wk:page":"Lanxi"
     },
     "wof:country":"CN",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":102028085,
-    "wof:lastmodified":1564178926,
+    "wof:lastmodified":1566655721,
     "wof:name":"Lanxi",
     "wof:parent_id":890513337,
     "wof:placetype":"locality",

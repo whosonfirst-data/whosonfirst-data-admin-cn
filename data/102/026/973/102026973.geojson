@@ -15,10 +15,13 @@
     "iso:country":"CN",
     "lbl:latitude":31.881945,
     "lbl:longitude":120.544866,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":31.881945,
     "mps:longitude":120.544866,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0646\u063a \u062c\u064a\u0627\u063a\u0627\u0646\u063a"
     ],
@@ -136,7 +139,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0436\u0430\u043d\u0446\u0437\u044f\u0433\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shazhou"
     ],
     "name:urd_x_preferred":[
@@ -179,7 +182,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1060,
     "wof:belongsto":[
@@ -193,7 +196,6 @@
     "wof:concordances":{
         "gn:id":1787331,
         "gp:id":2136919,
-        "qs:id":913028,
         "qs_pg:id":913028,
         "wd:id":"Q197377",
         "wk:page":"Zhangjiagang"
@@ -211,7 +213,7 @@
         }
     ],
     "wof:id":102026973,
-    "wof:lastmodified":1563393476,
+    "wof:lastmodified":1566655754,
     "wof:name":"Zhangjiagang",
     "wof:parent_id":890515879,
     "wof:placetype":"locality",

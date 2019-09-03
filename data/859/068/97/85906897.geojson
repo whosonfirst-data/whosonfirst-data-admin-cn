@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000134,
-    "geom:area_square_m":1275900.276213,
+    "geom:area_square_m":1275900.276211,
     "geom:bbox":"116.39465332,39.8732007248,116.408931761,39.8897314548",
     "geom:latitude":39.881581,
     "geom:longitude":116.401606,
@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.880095,
     "lbl:longitude":116.405279,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.882063,
     "mps:longitude":116.401713,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Tiantan"
-    ],
-    "name:unk_x_variant":[
         "Tiantan"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724384,
-        "qs:id":236900,
         "qs_pg:id":236900
     },
     "wof:country":"CN",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269265,
+    "wof:lastmodified":1566665035,
     "wof:name":"Tiantan",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

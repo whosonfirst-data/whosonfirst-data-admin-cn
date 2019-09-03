@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":42.005473,
     "lbl:longitude":123.091926,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u8fbd\u5b81\u7701",
     "meso:dissme":"\u6c88\u9633\u5e02\u8fbd\u5b81\u7701",
     "meso:gadm_adm2":"Shenyang",
@@ -42,6 +44,7 @@
     "mps:longitude":123.091926,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Shenyang"
     ],
@@ -273,9 +276,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u043d\u044c\u044f\u043d"
     ],
-    "name:und_x_variant":[
-        "\u6c88\u9633\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u06cc\u0646\u06cc\u0627\u0646\u06af"
     ],
@@ -304,9 +304,9 @@
         "\u6c88\u9633\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"12958",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Shenyang Shi",
@@ -340,7 +340,7 @@
         }
     ],
     "wof:id":1108732451,
-    "wof:lastmodified":1564234183,
+    "wof:lastmodified":1566687976,
     "wof:name":"Shenyang",
     "wof:parent_id":85669807,
     "wof:placetype":"county",

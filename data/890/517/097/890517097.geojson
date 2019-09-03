@@ -11,11 +11,15 @@
     "geom:longitude":113.02806,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"112.92806,34.35528,113.12806,34.55528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Teng-feng Hsien"
     ],
     "name:zho_x_preferred":[
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1813015,
-        "qs:id":244492
+        "qs_pg:id":244492
     },
     "wof:country":"CN",
     "wof:created":1469055994,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890517097,
-    "wof:lastmodified":1505343904,
+    "wof:lastmodified":1566693588,
     "wof:name":"Dengfeng Shi",
     "wof:parent_id":890515627,
     "wof:placetype":"localadmin",

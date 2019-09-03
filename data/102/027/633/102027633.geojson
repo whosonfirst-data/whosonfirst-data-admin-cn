@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":23.03644,
     "lbl:longitude":113.757398,
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":5.0,
     "mps:latitude":23.03644,
     "mps:longitude":113.757398,
     "mz:hierarchy_label":1,
@@ -234,9 +236,6 @@
     "name:ukr_x_variant":[
         "\u0414\u0443\u043d\u0433\u0443\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Tung-kuan"
-    ],
     "name:urd_x_preferred":[
         "\u0688\u0648\u0646\u06af\u0648\u0627\u0646"
     ],
@@ -382,7 +381,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2584,
     "wof:belongsto":[
@@ -396,7 +395,6 @@
     "wof:concordances":{
         "gn:id":1812545,
         "gp:id":2161842,
-        "qs:id":277605,
         "qs_pg:id":277605,
         "wd:id":"Q59218",
         "wk:page":"Dongguan"
@@ -414,7 +412,7 @@
         }
     ],
     "wof:id":102027633,
-    "wof:lastmodified":1563393168,
+    "wof:lastmodified":1566655647,
     "wof:megacity":1,
     "wof:name":"Dongguan",
     "wof:parent_id":890516401,

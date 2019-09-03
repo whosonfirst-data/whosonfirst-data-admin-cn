@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":23.207747,
     "lbl:longitude":116.389272,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5e7f\u4e1c\u7701",
     "meso:dissme":"\u6c55\u5934\u5e02\u5e7f\u4e1c\u7701",
     "meso:gadm_adm2":"Shantou",
@@ -42,6 +44,7 @@
     "mps:longitude":116.389272,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Shantou"
     ],
@@ -186,9 +189,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043d\u044c\u0442\u043e\u0443"
     ],
-    "name:und_x_variant":[
-        "\u6c55\u5934\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u0627\u0646\u062a\u0648"
     ],
@@ -202,9 +202,9 @@
         "\u6c55\u5934\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"2064",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Shantou Shi",
@@ -238,7 +238,7 @@
         }
     ],
     "wof:id":1108732449,
-    "wof:lastmodified":1564234188,
+    "wof:lastmodified":1566687981,
     "wof:name":"Shantou",
     "wof:parent_id":85669743,
     "wof:placetype":"county",

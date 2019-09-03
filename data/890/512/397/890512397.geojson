@@ -11,10 +11,14 @@
     "geom:longitude":117.16611,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":3217,
+    "gn:population":3217,
     "iso:country":"CN",
+    "lbl:bbox":"117.14611,39.78472,117.18611,39.82472",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0634\u064a\u0646\u063a"
     ],
@@ -75,7 +79,7 @@
     "name:tur_x_preferred":[
         "Daxing"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u2019ang-ko-chuang"
     ],
     "name:urd_x_preferred":[
@@ -110,7 +114,7 @@
     "wof:concordances":{
         "gn:id":1799086,
         "gp:id":2159892,
-        "qs:id":136522,
+        "qs_pg:id":136522,
         "wd:id":"Q393445",
         "wk:page":"Daxing District"
     },
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":890512397,
-    "wof:lastmodified":1563459687,
+    "wof:lastmodified":1566693736,
     "wof:name":"Panggezhuang",
     "wof:parent_id":890513813,
     "wof:placetype":"locality",

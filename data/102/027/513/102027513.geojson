@@ -13,10 +13,13 @@
     "iso:country":"CN",
     "lbl:latitude":22.524566,
     "lbl:longitude":113.037763,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":22.524566,
     "mps:longitude":113.037763,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:cym_x_preferred":[
         "Ardal Xinhui"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Xinhui"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Huicheng"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85669743,
@@ -123,7 +126,6 @@
     "wof:concordances":{
         "gn:id":1806882,
         "gp:id":2161871,
-        "qs:id":136664,
         "qs_pg:id":136664,
         "wd:id":"Q1023903",
         "wk:page":"Xinhui District"
@@ -141,7 +143,7 @@
         }
     ],
     "wof:id":102027513,
-    "wof:lastmodified":1563393356,
+    "wof:lastmodified":1566655710,
     "wof:name":"Xinhui",
     "wof:parent_id":890514609,
     "wof:placetype":"locality",

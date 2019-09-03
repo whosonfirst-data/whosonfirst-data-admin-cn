@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"111.76083,33.79417,111.80083,33.83417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -34,7 +38,7 @@
         "gn:id":1908808
     },
     "wof:country":"CN",
-    "wof:geomhash":"8c96e72fea5cd40751709074c9bf6f05",
+    "wof:geomhash":"46244c2ee2e4f70d6d5d16ccbccfc3e5",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209090685,
-    "wof:lastmodified":1536298045,
+    "wof:lastmodified":1566678556,
     "wof:name":"Lushiying",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     111.78083,
-    33.814170000000004,
+    33.81417,
     111.78083,
-    33.814170000000004
+    33.81417
 ],
   "geometry": {"coordinates":[111.78082999999999,33.81417],"type":"Point"}
 }

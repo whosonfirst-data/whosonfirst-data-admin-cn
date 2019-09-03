@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":36.257563,
     "lbl:longitude":111.670532,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":36.257563,
     "mps:longitude":111.670532,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hongtong"
     ],
@@ -49,7 +52,7 @@
     "name:swe_x_preferred":[
         "Hongdong"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hung-tung-hsien"
     ],
     "name:vie_x_preferred":[
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669773,
         102191569,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":1807981,
         "gp:id":2154563,
-        "qs:id":372234,
         "qs_pg:id":372234,
         "wd:id":"Q1197616",
         "wk:page":"Hongtong County"
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":102027541,
-    "wof:lastmodified":1563393358,
+    "wof:lastmodified":1566655712,
     "wof:name":"Dahuaishu",
     "wof:parent_id":1108732337,
     "wof:placetype":"locality",

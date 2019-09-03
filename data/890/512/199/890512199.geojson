@@ -11,10 +11,14 @@
     "geom:longitude":111.47176,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"111.45176,23.38445,111.49176,23.42445",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jiangchuan Xian"
     ],
@@ -36,7 +40,7 @@
     "name:swe_x_preferred":[
         "Jiangchuan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jiangchuan Zhen"
     ],
     "name:urd_x_preferred":[
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":1920326,
         "gp:id":2162029,
-        "qs:id":1243559,
+        "qs_pg:id":1243559,
         "wk:page":"Jiangchuan District"
     },
     "wof:country":"CN",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":890512199,
-    "wof:lastmodified":1564249947,
+    "wof:lastmodified":1566693750,
     "wof:name":"Jiangchuan",
     "wof:parent_id":890514727,
     "wof:placetype":"locality",

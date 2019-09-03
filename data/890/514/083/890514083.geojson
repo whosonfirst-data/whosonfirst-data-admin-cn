@@ -11,11 +11,14 @@
     "geom:longitude":110.53747,
     "gn:country":"CN",
     "gn:fcode":"PRK",
-    "gn:pop":1000,
+    "gn:population":1000,
     "iso:country":"CN",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "qs:name":"\u9f99\u6d77\u5929",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -32,7 +35,7 @@
     "wof:concordances":{
         "gn:id":7158936,
         "gp:id":2161309,
-        "qs:id":656855
+        "qs_pg:id":656855
     },
     "wof:country":"CN",
     "wof:created":1469055847,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":890514083,
-    "wof:lastmodified":1505343895,
+    "wof:lastmodified":1566693662,
     "wof:name":"\u9f99\u6d77\u5929",
     "wof:parent_id":890514753,
     "wof:placetype":"locality",

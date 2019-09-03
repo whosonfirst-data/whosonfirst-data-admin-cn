@@ -11,14 +11,18 @@
     "geom:longitude":122.04944,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":625040,
+    "gn:population":625040,
     "iso:country":"CN",
+    "lbl:bbox":"122.02944,41.16806,122.06944,41.20806",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:ceb_x_preferred":[
         "Panshan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shuang-t\u2019ai-tzu"
     ],
     "qs:name":"Panshan",
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":2035513,
         "gp:id":2148003,
-        "qs:id":571299,
+        "qs_pg:id":571299,
         "wk:page":"Panshan"
     },
     "wof:country":"CN",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890516971,
-    "wof:lastmodified":1564249653,
+    "wof:lastmodified":1566693617,
     "wof:name":"Panshan",
     "wof:parent_id":890516569,
     "wof:placetype":"locality",

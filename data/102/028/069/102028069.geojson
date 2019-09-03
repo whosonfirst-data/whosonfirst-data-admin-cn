@@ -14,6 +14,8 @@
     "iso:country":"CN",
     "lbl:latitude":25.118248,
     "lbl:longitude":99.159459,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.118248,
     "mps:longitude":99.159459,
     "mz:hierarchy_label":1,
@@ -160,7 +162,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043e\u0448\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pao-shan"
     ],
     "name:urd_x_preferred":[
@@ -294,7 +296,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":105,
     "wof:belongsto":[
         85669791,
@@ -323,7 +325,7 @@
         }
     ],
     "wof:id":102028069,
-    "wof:lastmodified":1563393415,
+    "wof:lastmodified":1566655732,
     "wof:name":"Baoshan",
     "wof:parent_id":890514251,
     "wof:placetype":"locality",

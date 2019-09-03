@@ -11,7 +11,7 @@
     "geom:longitude":118.132559,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":31.18649,
     "lbl:longitude":118.278648,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5b89\u5fbd\u7701",
     "meso:dissme":"\u829c\u6e56\u5e02\u5b89\u5fbd\u7701",
     "meso:gadm_adm2":"Wuhu",
@@ -46,6 +48,7 @@
     "mps:longitude":118.278648,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Wuhu"
     ],
@@ -160,7 +163,7 @@
     "name:tur_x_preferred":[
         "Wuhu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wu-hu Shih"
     ],
     "name:urd_x_preferred":[
@@ -196,9 +199,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"3317",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Wuhu Shi",
@@ -220,7 +223,7 @@
         "gn:id":1791227,
         "gp:id":26198332,
         "hasc:id":"CN.AH.WH",
-        "qs:id":1193845
+        "qs_pg:id":1193845
     },
     "wof:country":"CN",
     "wof:created":1469055800,
@@ -235,7 +238,7 @@
         }
     ],
     "wof:id":890513093,
-    "wof:lastmodified":1564249896,
+    "wof:lastmodified":1566693727,
     "wof:name":"Wuhu",
     "wof:parent_id":85669739,
     "wof:placetype":"county",

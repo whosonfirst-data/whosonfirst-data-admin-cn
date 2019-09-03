@@ -9,15 +9,18 @@
     "geom:bbox":"100.22072,26.86879,100.22072,26.86879",
     "geom:latitude":26.86879,
     "geom:longitude":100.22072,
-    "gn:gn_country":"CN",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1137600,
+    "gn:country":"CN",
+    "gn:fcode":"PPL",
     "gn:population":1137600,
     "iso:country":"CN",
+    "lbl:bbox":"100.20072,26.84879,100.24072,26.88879",
     "lbl:latitude":26.86879,
     "lbl:longitude":100.22072,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Lijiang"
@@ -187,7 +190,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0446\u0437\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ta-yen-chen"
     ],
     "name:urd_x_preferred":[
@@ -229,7 +232,7 @@
     "qs_pg:woe_adm0":23424781,
     "qs_pg:woe_id":2160697,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424781,
     "woe:name_adm0":"\u4e2d\u570b",
@@ -263,7 +266,7 @@
         }
     ],
     "wof:id":1125782293,
-    "wof:lastmodified":1563459958,
+    "wof:lastmodified":1566693807,
     "wof:name":"\u5927\u7814",
     "wof:parent_id":890514701,
     "wof:placetype":"locality",

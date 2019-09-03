@@ -11,7 +11,7 @@
     "geom:longitude":118.587212,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":37.604513,
     "lbl:longitude":118.636187,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5c71\u4e1c\u7701",
     "meso:dissme":"\u4e1c\u8425\u5e02\u5c71\u4e1c\u7701",
     "meso:gadm_adm2":"Dongying",
@@ -46,6 +48,7 @@
     "mps:longitude":118.636187,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Dongying Qu"
     ],
@@ -91,7 +94,7 @@
     "name:swe_x_preferred":[
         "Dongying"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dongying Shi"
     ],
     "name:vie_x_preferred":[
@@ -125,9 +128,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"7932",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Dongying Shi",
@@ -149,7 +152,7 @@
         "gn:id":1812099,
         "gp:id":26198082,
         "hasc:id":"CN.SD.DY",
-        "qs:id":898922,
+        "qs_pg:id":898922,
         "wd:id":"Q979215"
     },
     "wof:country":"CN",
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":890514773,
-    "wof:lastmodified":1563459516,
+    "wof:lastmodified":1566693694,
     "wof:name":"Dongying",
     "wof:parent_id":85669813,
     "wof:placetype":"county",

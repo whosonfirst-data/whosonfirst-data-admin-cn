@@ -11,7 +11,7 @@
     "geom:longitude":116.593991,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":30.558361,
     "lbl:longitude":116.414382,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5b89\u5fbd\u7701",
     "meso:dissme":"\u5b89\u5e86\u5e02\u5b89\u5fbd\u7701",
     "meso:gadm_adm2":"Anqing",
@@ -46,6 +48,7 @@
     "mps:longitude":116.414382,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Anqing"
     ],
@@ -166,7 +169,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u044c\u0446\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "An-ch\u2019ing Shih"
     ],
     "name:urd_x_preferred":[
@@ -202,9 +205,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"15327",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Anqing Shi",
@@ -226,7 +229,7 @@
         "gn:id":1817991,
         "gp:id":26198216,
         "hasc:id":"CN.AH.AQ",
-        "qs:id":1287937
+        "qs_pg:id":1287937
     },
     "wof:country":"CN",
     "wof:created":1469055948,
@@ -241,7 +244,7 @@
         }
     ],
     "wof:id":890516201,
-    "wof:lastmodified":1564249688,
+    "wof:lastmodified":1566693635,
     "wof:name":"Anqing",
     "wof:parent_id":85669739,
     "wof:placetype":"county",

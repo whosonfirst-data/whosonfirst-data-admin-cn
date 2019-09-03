@@ -11,17 +11,21 @@
     "geom:longitude":115.43346,
     "gn:country":"CN",
     "gn:fcode":"PPLA3",
-    "gn:pop":67370,
+    "gn:population":67370,
     "iso:country":"CN",
+    "lbl:bbox":"115.41346,30.2097,115.45346,30.2497",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Caohe"
     ],
     "name:swe_x_preferred":[
         "Caohe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qichun"
     ],
     "name:zho_x_preferred":[
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":1816026,
         "gp:id":2163923,
-        "qs:id":563966,
+        "qs_pg:id":563966,
         "wk:page":"Caohe"
     },
     "wof:country":"CN",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890514691,
-    "wof:lastmodified":1564249809,
+    "wof:lastmodified":1566693689,
     "wof:name":"Caohe",
     "wof:parent_id":890514791,
     "wof:placetype":"locality",

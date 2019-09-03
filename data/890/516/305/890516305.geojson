@@ -11,12 +11,16 @@
     "geom:longitude":116.10008,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"116.08008,39.86838,116.12008,39.90838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Shih-men-ying"
     ],
     "name:zho_x_preferred":[
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":1795105,
         "gp:id":2151340,
-        "qs:id":479299
+        "qs_pg:id":479299
     },
     "wof:country":"CN",
     "wof:created":1469055952,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":890516305,
-    "wof:lastmodified":1505343902,
+    "wof:lastmodified":1566693626,
     "wof:name":"\u77f3\u95e8\u8425",
     "wof:parent_id":1108732371,
     "wof:placetype":"locality",

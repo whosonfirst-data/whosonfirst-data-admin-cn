@@ -25,6 +25,7 @@
     ],
     "lbl:latitude":34.040526,
     "lbl:longitude":108.630496,
+    "lbl:min_zoom":8.0,
     "meso:name_alt":"\u965d\u897f|\u9655\u897f",
     "meso:name_loc":"\u9655\u897f\u7701",
     "mps:latitude":34.057356,
@@ -319,9 +320,6 @@
     ],
     "name:und_x_variant":[
         "\u965d\u897f|\u9655\u897f",
-        "\u9655\u897f\u7701"
-    ],
-    "name:unk_x_variant":[
         "Shaan-hsi Sheng"
     ],
     "name:urd_x_preferred":[
@@ -442,9 +440,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"204,846",
     "statoids:area_mi":"79,091",
     "statoids:as_of_date":"2010-11-01",
@@ -471,7 +469,7 @@
         "gp:id":12578015,
         "hasc:id":"CN.SA",
         "iso:id":"CN-SN",
-        "qs:id":851891,
+        "qs_pg:id":851891,
         "unlc:id":"CN-61",
         "wd:id":"Q47974"
     },
@@ -497,11 +495,10 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1565664513,
+    "wof:lastmodified":1566665041,
     "wof:name":"Shaanxi",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":37327378,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-cn",

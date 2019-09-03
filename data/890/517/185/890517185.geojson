@@ -11,11 +11,15 @@
     "geom:longitude":110.74806,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":2160,
+    "gn:population":2160,
     "iso:country":"CN",
+    "lbl:bbox":"110.72806,27.50139,110.76806,27.54139",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Hsiao-sha-chiang"
     ],
     "name:zho_x_preferred":[
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1790001,
         "gp:id":20272841,
-        "qs:id":559861
+        "qs_pg:id":559861
     },
     "wof:country":"CN",
     "wof:created":1469055998,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890517185,
-    "wof:lastmodified":1505343905,
+    "wof:lastmodified":1566693594,
     "wof:name":"Xiaoshajiang",
     "wof:parent_id":890514309,
     "wof:placetype":"locality",

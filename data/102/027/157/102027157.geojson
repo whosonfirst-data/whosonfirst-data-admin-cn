@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":29.587789,
     "lbl:longitude":111.384888,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":29.587789,
     "mps:longitude":111.384888,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shimen"
     ],
@@ -28,7 +31,7 @@
     "name:nor_x_preferred":[
         "Shimen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shih-men"
     ],
     "name:zho_x_preferred":[
@@ -58,7 +61,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":184,
     "wof:belongsto":[
         85669781,
@@ -71,7 +74,7 @@
     "wof:concordances":{
         "gn:id":1795139,
         "gp:id":12686217,
-        "qs:id":289849
+        "qs_pg:id":289849
     },
     "wof:country":"CN",
     "wof:geomhash":"2a4e2225b7ab67c335e8471b04bb3b78",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":102027157,
-    "wof:lastmodified":1564178895,
+    "wof:lastmodified":1566655627,
     "wof:name":"Shimen",
     "wof:parent_id":890515867,
     "wof:placetype":"locality",

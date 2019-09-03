@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0003,
-    "geom:area_square_m":2846068.76135,
+    "geom:area_square_m":2846068.761347,
     "geom:bbox":"116.331481934,39.8643807901,116.356201172,39.8858718811",
     "geom:latitude":39.876425,
     "geom:longitude":116.343592,
@@ -14,6 +14,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.879503,
     "lbl:longitude":116.347793,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.876554,
     "mps:longitude":116.342374,
     "mz:hierarchy_label":1,
@@ -28,9 +29,8 @@
     "name:eng_x_preferred":[
         "Baizhifang"
     ],
-    "name:unk_x_variant":[
-        "Naizifang",
-        "Baizhifang"
+    "name:und_x_variant":[
+        "Naizifang"
     ],
     "name:zho_x_preferred":[
         "\u5976\u5b50\u623f"
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -76,7 +76,6 @@
     "wof:concordances":{
         "gn:id":8389593,
         "gp:id":2150816,
-        "qs:id":190350,
         "qs_pg:id":190350
     },
     "wof:country":"CN",
@@ -96,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497312385,
+    "wof:lastmodified":1566665032,
     "wof:name":"Baizhifang",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

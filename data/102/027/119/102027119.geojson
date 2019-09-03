@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":37.514083,
     "lbl:longitude":112.780151,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.514083,
     "mps:longitude":112.780151,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mingxing"
     ],
@@ -25,7 +28,7 @@
     "name:jpn_x_preferred":[
         "\u660e\u661f\u93ae"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taigu"
     ],
     "name:wuu_x_preferred":[
@@ -53,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":123,
     "wof:belongsto":[
         85669773,
@@ -66,7 +69,6 @@
     "wof:concordances":{
         "gn:id":1793691,
         "gp:id":2154673,
-        "qs:id":1031503,
         "qs_pg:id":1031503,
         "wd:id":"Q11087928",
         "wk:page":"Mingxing, Shanxi"
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":102027119,
-    "wof:lastmodified":1563393232,
+    "wof:lastmodified":1566655671,
     "wof:name":"Mingxing",
     "wof:parent_id":890513369,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"117.27658,26.67192,117.31658,26.71192",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u092e\u094b\u0932\u0940"
     ],
@@ -51,9 +55,6 @@
     ],
     "name:pol_x_preferred":[
         "Moli"
-    ],
-    "name:und_x_variant":[
-        "\u6f20\u4fda"
     ],
     "name:zho_x_preferred":[
         "\u6f20\u4fda"
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1293385907,
-    "wof:lastmodified":1564191092,
+    "wof:lastmodified":1566665286,
     "wof:name":"Moli",
     "wof:parent_id":890516573,
     "wof:placetype":"locality",

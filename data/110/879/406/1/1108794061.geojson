@@ -11,7 +11,7 @@
     "geom:longitude":102.075971,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
         "Liangshan Autonomous Prefecture"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":28.013022,
     "lbl:longitude":102.42261,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u56db\u5ddd\u7701",
     "meso:dissme":"\u51c9\u5c71\u5f5d\u65cf\u81ea\u6cbb\u5dde\u56db\u5ddd\u7701",
     "meso:gadm_adm2":"Liangshan Yi",
@@ -45,6 +47,7 @@
     "mps:longitude":102.42261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Liangshan"
     ],
@@ -66,7 +69,7 @@
     "name:swe_x_preferred":[
         "Liangshan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Liangshan Yi Autonomous Chou"
     ],
     "name:zho_x_preferred":[
@@ -83,9 +86,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"60423",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Xichang Shi",
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":1803984,
         "hasc:id":"CN.SC.LI",
-        "qs:id":1031569
+        "qs_pg:id":1031569
     },
     "wof:country":"CN",
     "wof:created":1469055781,
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1108794061,
-    "wof:lastmodified":1564234231,
+    "wof:lastmodified":1566688016,
     "wof:name":"Liangshan",
     "wof:parent_id":85669787,
     "wof:placetype":"county",

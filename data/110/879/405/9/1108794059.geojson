@@ -11,7 +11,7 @@
     "geom:longitude":109.726591,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
         "Xiangxi Autonomous Prefecture"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":28.713224,
     "lbl:longitude":109.737852,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6e56\u5357\u7701",
     "meso:dissme":"\u6e58\u897f\u571f\u5bb6\u65cf\u82d7\u65cf\u81ea\u6cbb\u5dde\u6e56\u5357\u7701",
     "meso:gadm_adm2":"Xiangxi Tujia and Miao",
@@ -45,10 +47,11 @@
     "mps:longitude":109.737852,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Xiangxi Tujiazu Miaozu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hsiang-hsi Miao Autonomous District"
     ],
     "name:zho_x_preferred":[
@@ -65,9 +68,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"14998",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Jishou Shi",
@@ -88,7 +91,7 @@
     "wof:concordances":{
         "gn:id":1790468,
         "hasc:id":"CN.HN.XX",
-        "qs:id":1027507
+        "qs_pg:id":1027507
     },
     "wof:country":"CN",
     "wof:created":1469055780,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1108794059,
-    "wof:lastmodified":1554759635,
+    "wof:lastmodified":1566688018,
     "wof:name":"Xiangxi",
     "wof:parent_id":85669781,
     "wof:placetype":"county",

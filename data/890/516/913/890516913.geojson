@@ -11,10 +11,14 @@
     "geom:longitude":110.17887,
     "gn:country":"CN",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"110.07887,32.90097,110.27887,33.10097",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yunxi Xian"
     ],
@@ -48,7 +52,7 @@
     "name:swe_x_preferred":[
         "Yunxi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Y\u00fcn-hsi Hsien"
     ],
     "name:urd_x_preferred":[
@@ -85,7 +89,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1785659,
-        "qs:id":1031430,
+        "qs_pg:id":1031430,
         "wd:id":"Q1154509",
         "wk:page":"Yunxi County"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":890516913,
-    "wof:lastmodified":1563459243,
+    "wof:lastmodified":1566693618,
     "wof:name":"Yunxi Xian",
     "wof:parent_id":890515173,
     "wof:placetype":"localadmin",

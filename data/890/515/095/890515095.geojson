@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":36.589132,
     "lbl:longitude":117.966053,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5c71\u4e1c\u7701",
     "meso:dissme":"\u6dc4\u535a\u5e02\u5c71\u4e1c\u7701",
     "meso:gadm_adm2":"Zibo",
@@ -43,6 +45,7 @@
     "mps:longitude":117.966053,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Zibo"
     ],
@@ -151,9 +154,6 @@
     "name:uig_x_preferred":[
         "\u0632\u0649\u0628\u0648 \u0634\u06d5\u06be\u0649\u0631\u0649"
     ],
-    "name:und_x_variant":[
-        "\u6dc4\u535a\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u0632\u06cc\u0628\u0648"
     ],
@@ -183,9 +183,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"5937",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Zibo Shi",
@@ -206,7 +206,7 @@
     "wof:concordances":{
         "gp:id":26198111,
         "hasc:id":"CN.SD.ZB",
-        "qs:id":1061972
+        "qs_pg:id":1061972
     },
     "wof:country":"CN",
     "wof:created":1469055890,
@@ -221,7 +221,7 @@
         }
     ],
     "wof:id":890515095,
-    "wof:lastmodified":1564250046,
+    "wof:lastmodified":1566693793,
     "wof:name":"Zibo",
     "wof:parent_id":85669813,
     "wof:placetype":"county",

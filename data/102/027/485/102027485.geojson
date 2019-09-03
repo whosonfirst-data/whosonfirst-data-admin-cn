@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":23.619361,
     "lbl:longitude":102.826538,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":23.619361,
     "mps:longitude":102.826538,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Jianshui"
     ],
@@ -49,7 +52,7 @@
     "name:swe_x_preferred":[
         "Jianshui"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chien-shui"
     ],
     "name:urd_x_preferred":[
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669791,
         102191569,
@@ -97,7 +100,6 @@
     "wof:concordances":{
         "gn:id":1806146,
         "gp:id":2160708,
-        "qs:id":276606,
         "qs_pg:id":276606,
         "wd:id":"Q1201028",
         "wk:page":"Jianshui County"
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":102027485,
-    "wof:lastmodified":1563393136,
+    "wof:lastmodified":1566655638,
     "wof:name":"Lin\u2019an",
     "wof:parent_id":1108794063,
     "wof:placetype":"locality",

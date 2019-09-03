@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"109.45907,29.97452,109.49907,30.01452",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Zhushan"
     ],
@@ -42,11 +46,7 @@
     ],
     "name:und_x_variant":[
         "Suanen",
-        "Hs\u00fcan-en-hsien",
-        "S\u00fcan-en-hsien",
-        "I-en",
-        "Hs\u00fcan-en",
-        "Zhushan"
+        "I-en"
     ],
     "name:zho_x_preferred":[
         "\u73e0\u5c71"
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1344034569,
-    "wof:lastmodified":1564188313,
+    "wof:lastmodified":1566663325,
     "wof:name":"Zhushan",
     "wof:parent_id":1108732427,
     "wof:placetype":"locality",

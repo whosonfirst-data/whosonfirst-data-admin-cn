@@ -11,10 +11,14 @@
     "geom:longitude":115.9925,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":97026,
+    "gn:population":97026,
     "iso:country":"CN",
+    "lbl:bbox":"115.9725,39.67833,116.0125,39.71833",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Fangshan"
     ],
@@ -39,7 +43,7 @@
     "name:swe_x_preferred":[
         "Fangshan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ta-fang-shan"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":1811542,
         "gp:id":2151335,
-        "qs:id":136767,
+        "qs_pg:id":136767,
         "wk:page":"Fangshan"
     },
     "wof:country":"CN",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":890516093,
-    "wof:lastmodified":1564249691,
+    "wof:lastmodified":1566693636,
     "wof:name":"Fangshan",
     "wof:parent_id":1108732371,
     "wof:placetype":"locality",

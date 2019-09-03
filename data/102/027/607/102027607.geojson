@@ -12,6 +12,8 @@
     "iso:country":"CN",
     "lbl:latitude":25.854198,
     "lbl:longitude":114.923832,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":25.854198,
     "mps:longitude":114.923832,
     "mz:hierarchy_label":1,
@@ -185,7 +187,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043d\u044c\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kanchow"
     ],
     "name:urd_x_preferred":[
@@ -327,7 +329,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1531,
     "wof:belongsto":[
         85669823,
@@ -340,7 +342,6 @@
     "wof:concordances":{
         "gn:id":1810638,
         "gp:id":2133707,
-        "qs:id":136728,
         "qs_pg:id":136728,
         "wd:id":"Q363166",
         "wk:page":"Ganzhou"
@@ -358,7 +359,7 @@
         }
     ],
     "wof:id":102027607,
-    "wof:lastmodified":1563393338,
+    "wof:lastmodified":1566655702,
     "wof:name":"Ganzhou",
     "wof:parent_id":890511835,
     "wof:placetype":"locality",

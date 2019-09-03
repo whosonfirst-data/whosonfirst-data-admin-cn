@@ -15,10 +15,13 @@
     "iso:country":"CN",
     "lbl:latitude":37.418163,
     "lbl:longitude":120.415649,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":37.418163,
     "mps:longitude":120.415649,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:deu_x_preferred":[
         "Zhaoyuan"
     ],
@@ -64,7 +67,7 @@
     "name:swe_x_preferred":[
         "Zhaoyuan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chao-y\u00fcan"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":253,
     "wof:belongsto":[
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gn:id":1784953,
         "gp:id":2168405,
-        "qs:id":948732,
+        "qs_pg:id":948732,
         "wd:id":"Q197524",
         "wk:page":"Zhaoyuan, Shandong"
     },
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":102026909,
-    "wof:lastmodified":1563393422,
+    "wof:lastmodified":1566655735,
     "wof:name":"Zhaoyuan",
     "wof:parent_id":890516301,
     "wof:placetype":"locality",

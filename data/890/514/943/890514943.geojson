@@ -11,11 +11,14 @@
     "geom:longitude":121.42139,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"121.41639,31.42194,121.42639,31.43194",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Baoshan Qu"
     ],
@@ -67,7 +70,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u0411\u0430\u043e\u0448\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Y\u00fceh-p\u2019u-chen"
     ],
     "name:urd_x_preferred":[
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gn:id":1785916,
         "gp:id":2151814,
-        "qs:id":1015219,
+        "qs_pg:id":1015219,
         "wd:id":"Q661828",
         "wk:page":"Baoshan District, Shanghai"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":890514943,
-    "wof:lastmodified":1563459523,
+    "wof:lastmodified":1566693695,
     "wof:name":"\u6708\u6d66",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

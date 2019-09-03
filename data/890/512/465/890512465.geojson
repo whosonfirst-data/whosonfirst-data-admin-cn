@@ -11,11 +11,15 @@
     "geom:longitude":117.05516,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":2908,
+    "gn:population":2908,
     "iso:country":"CN",
+    "lbl:bbox":"117.03516,39.32284,117.07516,39.36284",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Huang-chuang"
     ],
     "name:zho_x_preferred":[
@@ -40,12 +44,12 @@
     "wof:concordances":{
         "gn:id":1807103,
         "gp:id":2159919,
-        "qs:id":136668
+        "qs_pg:id":136668
     },
     "wof:concordances_alt":{
         "gn:id":1807104,
         "gp:id":2159674,
-        "qs:id":136671
+        "qs_pg:id":136671
     },
     "wof:country":"CN",
     "wof:created":1469055772,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":890512465,
-    "wof:lastmodified":1534379257,
+    "wof:lastmodified":1566693744,
     "wof:name":"Huangzhuang",
     "wof:parent_id":890513813,
     "wof:placetype":"locality",

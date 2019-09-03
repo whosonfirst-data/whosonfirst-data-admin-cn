@@ -11,7 +11,7 @@
     "geom:longitude":116.771054,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":23.829646,
     "lbl:longitude":116.774486,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5e7f\u4e1c\u7701",
     "meso:dissme":"\u6f6e\u5dde\u5e02\u5e7f\u4e1c\u7701",
     "meso:gadm_adm2":"Chaozhou",
@@ -46,6 +48,7 @@
     "mps:longitude":116.774486,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Chaozhou"
     ],
@@ -163,7 +166,7 @@
     "name:tur_x_preferred":[
         "Chaozhou"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chaozhou Shi"
     ],
     "name:urd_x_preferred":[
@@ -199,9 +202,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"3097",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Chaozhou Shi",
@@ -223,7 +226,7 @@
         "gn:id":1815394,
         "gp:id":26198242,
         "hasc:id":"CN.GD.CZ",
-        "qs:id":219972
+        "qs_pg:id":219972
     },
     "wof:country":"CN",
     "wof:created":1469055798,
@@ -238,7 +241,7 @@
         }
     ],
     "wof:id":890513033,
-    "wof:lastmodified":1564249894,
+    "wof:lastmodified":1566693725,
     "wof:name":"Chaozhou",
     "wof:parent_id":85669743,
     "wof:placetype":"county",

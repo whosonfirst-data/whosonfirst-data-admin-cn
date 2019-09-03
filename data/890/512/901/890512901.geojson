@@ -11,8 +11,11 @@
     "geom:longitude":119.40111,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":91418,
+    "gn:population":91418,
     "iso:country":"CN",
+    "lbl:bbox":"119.38111,41.22,119.42111,41.26",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
@@ -118,7 +121,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u044c\u043d'\u044e\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T'a-kou"
     ],
     "name:urd_x_preferred":[
@@ -242,7 +245,7 @@
     "wof:concordances":{
         "gn:id":2036075,
         "gp:id":2148015,
-        "qs:id":274129,
+        "qs_pg:id":274129,
         "wd:id":"Q1333417",
         "wk:page":"Lingyuan"
     },
@@ -260,7 +263,7 @@
         }
     ],
     "wof:id":890512901,
-    "wof:lastmodified":1563459681,
+    "wof:lastmodified":1566693735,
     "wof:name":"Lingyuan",
     "wof:parent_id":890515907,
     "wof:placetype":"locality",

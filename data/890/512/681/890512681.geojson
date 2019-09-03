@@ -11,10 +11,14 @@
     "geom:longitude":120.4851,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"120.4651,30.72536,120.5051,30.76536",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Wuzhen"
     ],
@@ -63,7 +67,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0443\u0447\u0436\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u2019ung-hsiang"
     ],
     "name:wuu_x_preferred":[
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":1790848,
         "gp:id":2132723,
-        "qs:id":1031480,
+        "qs_pg:id":1031480,
         "wd:id":"Q1371343",
         "wk:page":"Wuzhen"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":890512681,
-    "wof:lastmodified":1563459691,
+    "wof:lastmodified":1566693737,
     "wof:name":"Wuzhen",
     "wof:parent_id":890514635,
     "wof:placetype":"locality",

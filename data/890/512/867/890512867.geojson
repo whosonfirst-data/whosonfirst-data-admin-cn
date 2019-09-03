@@ -11,7 +11,7 @@
     "geom:longitude":110.256539,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
         "Baotou City"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":41.912317,
     "lbl:longitude":110.181989,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5185\u8499\u53e4\u81ea\u6cbb\u533a",
     "meso:dissme":"\u5305\u5934\u5e02\u5185\u8499\u53e4\u81ea\u6cbb\u533a",
     "meso:gadm_adm2":"Baotou",
@@ -45,6 +47,7 @@
     "mps:longitude":110.181989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Baotou"
     ],
@@ -174,7 +177,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043e\u0442\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pao-t\u2019ou Shih"
     ],
     "name:urd_x_preferred":[
@@ -206,9 +209,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"27768",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Baotou Shi",
@@ -229,7 +232,7 @@
     "wof:concordances":{
         "gn:id":2038431,
         "hasc:id":"CN.NM.BT",
-        "qs:id":1028406
+        "qs_pg:id":1028406
     },
     "wof:country":"CN",
     "wof:created":1469055789,
@@ -244,7 +247,7 @@
         }
     ],
     "wof:id":890512867,
-    "wof:lastmodified":1564249930,
+    "wof:lastmodified":1566693742,
     "wof:name":"Baotou",
     "wof:parent_id":85669847,
     "wof:placetype":"county",

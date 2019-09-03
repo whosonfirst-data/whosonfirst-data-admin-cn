@@ -11,11 +11,15 @@
     "geom:longitude":113.45333,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"113.43333,23.09139,113.47333,23.13139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Huangpu Qu"
     ],
@@ -67,7 +71,7 @@
     "name:swe_x_preferred":[
         "Huangpu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Huangpuqu"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":1916870,
         "gp:id":2161844,
-        "qs:id":484893,
+        "qs_pg:id":484893,
         "wd:id":"Q1023890",
         "wk:page":"Huangpu District, Guangzhou"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":890513493,
-    "wof:lastmodified":1563459637,
+    "wof:lastmodified":1566693723,
     "wof:name":"\u9ec4\u57d4\u533a",
     "wof:parent_id":890513087,
     "wof:placetype":"locality",

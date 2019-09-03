@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":29.367827,
     "lbl:longitude":120.052673,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":29.367827,
     "mps:longitude":120.052673,
     "mz:hierarchy_label":1,
@@ -186,7 +188,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0437\u0456\u043d\u044c\u0445\u0443\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kinhwa-hsien"
     ],
     "name:urd_x_preferred":[
@@ -336,7 +338,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1128,
     "wof:belongsto":[
@@ -351,10 +353,12 @@
         "fct:id":"06b470f0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1805528,
         "gp:id":2132578,
-        "qs:id":136653,
-        "qs_pg:id":1129700,
+        "qs_pg:id":136653,
         "wd:id":"Q58210",
         "wk:page":"Jinhua"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1129700
     },
     "wof:country":"CN",
     "wof:geomhash":"6d5ed8b4cf471297570c691980dd94d9",
@@ -372,7 +376,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393308,
+    "wof:lastmodified":1566655693,
     "wof:name":"Jinhua",
     "wof:parent_id":890513337,
     "wof:placetype":"locality",

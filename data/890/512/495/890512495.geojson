@@ -11,11 +11,15 @@
     "geom:longitude":107.51667,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":91136,
+    "gn:population":91136,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"107.49667,26.24667,107.53667,26.28667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:eng_x_preferred":[
         "Duyun"
     ],
@@ -25,7 +29,7 @@
     "name:rus_x_preferred":[
         "\u0414\u0443\u044e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tu-y\u00fcn-hsien"
     ],
     "name:wuu_x_preferred":[
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":1811764,
         "gp:id":2146707,
-        "qs:id":136788
+        "qs_pg:id":136788
     },
     "wof:country":"CN",
     "wof:created":1469055773,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":890512495,
-    "wof:lastmodified":1505343888,
+    "wof:lastmodified":1566693757,
     "wof:name":"\u90fd\u5300\u5e02",
     "wof:parent_id":1108732557,
     "wof:placetype":"locality",

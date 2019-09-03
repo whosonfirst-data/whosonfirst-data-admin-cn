@@ -11,10 +11,14 @@
     "geom:longitude":81.28939,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":754,
+    "gn:population":754,
     "iso:country":"CN",
+    "lbl:bbox":"81.26939,30.91124,81.30939,30.95124",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0414\u0430\u0440\u0447\u0435\u043d"
     ],
@@ -46,9 +50,6 @@
     "name:swe_x_preferred":[
         "Darchen"
     ],
-    "name:unk_x_variant":[
-        "\u5854\u94a6"
-    ],
     "name:zho_x_preferred":[
         "\u5854\u94a6"
     ],
@@ -69,7 +70,7 @@
     "wof:concordances":{
         "gn:id":7536142,
         "gp:id":12686427,
-        "qs:id":692660,
+        "qs_pg:id":692660,
         "wd:id":"Q5222333",
         "wk:page":"Darchen"
     },
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":890516985,
-    "wof:lastmodified":1563459240,
+    "wof:lastmodified":1566693617,
     "wof:name":"Darchen",
     "wof:parent_id":1108732537,
     "wof:placetype":"locality",

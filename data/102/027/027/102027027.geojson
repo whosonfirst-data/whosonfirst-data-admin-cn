@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000587,
-    "geom:area_square_m":6254557.630353,
+    "geom:area_square_m":6254557.630359,
     "geom:bbox":"111.18770217,30.4633246056,111.351379417,30.6611134551",
     "geom:latitude":30.5623,
     "geom:longitude":111.269595,
     "iso:country":"CN",
     "lbl:latitude":30.652089,
     "lbl:longitude":111.340942,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":30.652089,
     "mps:longitude":111.340942,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Hsiao-hsi-t\u2019a"
     ],
     "qs:a1":"*",
@@ -33,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669777,
         102191569,
@@ -45,7 +48,6 @@
     "wof:concordances":{
         "gn:id":1789918,
         "gp:id":2163619,
-        "qs:id":903659,
         "qs_pg:id":903659
     },
     "wof:country":"CN",
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":102027027,
-    "wof:lastmodified":1497301728,
+    "wof:lastmodified":1566655688,
     "wof:name":"Xiaoxita",
     "wof:parent_id":890513331,
     "wof:placetype":"locality",

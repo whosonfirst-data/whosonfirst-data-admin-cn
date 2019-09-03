@@ -11,10 +11,14 @@
     "geom:longitude":117.83333,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":153596,
+    "gn:population":153596,
     "iso:country":"CN",
+    "lbl:bbox":"117.81333,36.46333,117.85333,36.50333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:ceb_x_preferred":[
         "Boshan Qu"
     ],
@@ -51,7 +55,7 @@
     "name:swe_x_preferred":[
         "Boshan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tzu-po-shih"
     ],
     "name:vie_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":1816265,
         "gp:id":2168330,
-        "qs:id":89502,
+        "qs_pg:id":89502,
         "wd:id":"Q894428",
         "wk:page":"Boshan District"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":890515803,
-    "wof:lastmodified":1563459846,
+    "wof:lastmodified":1566693773,
     "wof:name":"Boshan",
     "wof:parent_id":890515095,
     "wof:placetype":"locality",

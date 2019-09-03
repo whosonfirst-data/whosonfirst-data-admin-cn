@@ -11,10 +11,12 @@
     "geom:longitude":110.131433,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":148485,
+    "gn:population":148485,
     "iso:country":"CN",
     "lbl:latitude":22.649502,
     "lbl:longitude":110.165405,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":22.649502,
     "mps:longitude":110.165405,
     "mz:hierarchy_label":1,
@@ -161,7 +163,7 @@
     "name:ukr_x_preferred":[
         "\u042e\u0439\u043b\u0456\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Watlam"
     ],
     "name:urd_x_preferred":[
@@ -296,7 +298,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":174,
     "wof:belongsto":[
@@ -310,7 +312,7 @@
     "wof:concordances":{
         "gn:id":1785781,
         "gp:id":2166476,
-        "qs:id":136253,
+        "qs_pg:id":136253,
         "wd:id":"Q571918",
         "wk:page":"Yulin"
     },
@@ -327,7 +329,7 @@
         }
     ],
     "wof:id":102027829,
-    "wof:lastmodified":1563393134,
+    "wof:lastmodified":1566655638,
     "wof:name":"Yulin",
     "wof:parent_id":890514591,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":117.356595,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":31.840527,
     "lbl:longitude":117.452478,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5b89\u5fbd\u7701",
     "meso:dissme":"\u5408\u80a5\u5e02\u5b89\u5fbd\u7701",
     "meso:gadm_adm2":"Hefei",
@@ -46,6 +48,7 @@
     "mps:longitude":117.452478,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Hefei"
     ],
@@ -229,7 +232,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0435\u0444\u0435\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ho-fei Shih"
     ],
     "name:urd_x_preferred":[
@@ -268,9 +271,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"7266",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Hefei Shi",
@@ -292,7 +295,7 @@
         "gn:id":1808721,
         "gp:id":26198334,
         "hasc:id":"CN.AH.HF",
-        "qs:id":355324
+        "qs_pg:id":355324
     },
     "wof:country":"CN",
     "wof:created":1469055835,
@@ -307,7 +310,7 @@
         }
     ],
     "wof:id":890513787,
-    "wof:lastmodified":1564249904,
+    "wof:lastmodified":1566693731,
     "wof:name":"Hefei",
     "wof:parent_id":85669739,
     "wof:placetype":"county",

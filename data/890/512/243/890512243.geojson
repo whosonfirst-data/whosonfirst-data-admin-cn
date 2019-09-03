@@ -11,10 +11,14 @@
     "geom:longitude":113.46585,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":90422,
+    "gn:population":90422,
     "iso:country":"CN",
+    "lbl:bbox":"113.44585,31.66636,113.48585,31.70636",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Xihe"
     ],
@@ -30,7 +34,7 @@
     "name:swe_x_preferred":[
         "Xihe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hsi-ho"
     ],
     "qs:name":"Xihe",
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":1789462,
         "gp:id":2163675,
-        "qs:id":277493,
+        "qs_pg:id":277493,
         "wk:page":"Xihe"
     },
     "wof:country":"CN",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":890512243,
-    "wof:lastmodified":1564249923,
+    "wof:lastmodified":1566693739,
     "wof:name":"Xihe",
     "wof:parent_id":890514467,
     "wof:placetype":"locality",

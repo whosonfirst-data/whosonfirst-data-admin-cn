@@ -11,10 +11,14 @@
     "geom:longitude":119.01278,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":4000,
+    "gn:population":4000,
     "iso:country":"CN",
+    "lbl:bbox":"118.99278,26.93417,119.03278,26.97417",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Tangkou",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -31,7 +35,7 @@
     "wof:concordances":{
         "gn:id":1793380,
         "gp:id":2140180,
-        "qs:id":560413
+        "qs_pg:id":560413
     },
     "wof:country":"CN",
     "wof:created":1469055999,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890517221,
-    "wof:lastmodified":1505343905,
+    "wof:lastmodified":1566693586,
     "wof:name":"Tangkou",
     "wof:parent_id":890516577,
     "wof:placetype":"locality",

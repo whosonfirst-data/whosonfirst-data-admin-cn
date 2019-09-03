@@ -11,7 +11,7 @@
     "geom:longitude":120.141256,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":36.623442,
     "lbl:longitude":120.274295,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5c71\u4e1c\u7701",
     "meso:dissme":"\u9752\u5c9b\u5e02\u5c71\u4e1c\u7701",
     "meso:gadm_adm2":"Qingdao",
@@ -46,6 +48,7 @@
     "mps:longitude":120.274295,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Qingdao"
     ],
@@ -256,7 +259,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0456\u043d\u0434\u0430\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ch\u2019ing-tao Shih"
     ],
     "name:urd_x_preferred":[
@@ -301,9 +304,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"11024",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Qingdao Shi",
@@ -325,7 +328,7 @@
         "gn:id":1797926,
         "gp:id":26198083,
         "hasc:id":"CN.SD.QD",
-        "qs:id":898923
+        "qs_pg:id":898923
     },
     "wof:country":"CN",
     "wof:created":1469055876,
@@ -340,7 +343,7 @@
         }
     ],
     "wof:id":890514775,
-    "wof:lastmodified":1564249817,
+    "wof:lastmodified":1566693692,
     "wof:name":"Qingdao",
     "wof:parent_id":85669813,
     "wof:placetype":"county",

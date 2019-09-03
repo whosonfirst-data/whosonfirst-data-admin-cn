@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":33.756315,
     "lbl:longitude":113.032837,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":33.756315,
     "mps:longitude":113.032837,
     "mz:hierarchy_label":1,
@@ -177,7 +179,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u043d\u0434\u0456\u043d\u0448\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chu-ko-chen"
     ],
     "name:urd_x_preferred":[
@@ -310,7 +312,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":710,
     "wof:belongsto":[
@@ -324,7 +326,6 @@
     "wof:concordances":{
         "gn:id":1798827,
         "gp:id":20253303,
-        "qs:id":274062,
         "qs_pg:id":274062,
         "wd:id":"Q404116",
         "wk:page":"Pingdingshan"
@@ -342,7 +343,7 @@
         }
     ],
     "wof:id":102027261,
-    "wof:lastmodified":1563393173,
+    "wof:lastmodified":1566655650,
     "wof:megacity":1,
     "wof:name":"Pingdingshan",
     "wof:parent_id":890512655,

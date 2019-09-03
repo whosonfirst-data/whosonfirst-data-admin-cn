@@ -11,7 +11,7 @@
     "geom:longitude":117.397352,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":26.333109,
     "lbl:longitude":117.22492,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u798f\u5efa\u7701",
     "meso:dissme":"\u4e09\u660e\u5e02\u798f\u5efa\u7701",
     "meso:gadm_adm2":"Sanming",
@@ -46,6 +48,7 @@
     "mps:longitude":117.22492,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0645\u064a\u0646\u063a"
     ],
@@ -139,7 +142,7 @@
     "name:uig_x_preferred":[
         "Senming shehiri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sanming Shi"
     ],
     "name:urd_x_preferred":[
@@ -175,9 +178,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"22952",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Sanming Shi",
@@ -199,7 +202,7 @@
         "gn:id":1796662,
         "gp:id":26198339,
         "hasc:id":"CN.FJ.SM",
-        "qs:id":219973
+        "qs_pg:id":219973
     },
     "wof:country":"CN",
     "wof:created":1469055964,
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":890516573,
-    "wof:lastmodified":1564249656,
+    "wof:lastmodified":1566693618,
     "wof:name":"Sanming",
     "wof:parent_id":85669735,
     "wof:placetype":"county",

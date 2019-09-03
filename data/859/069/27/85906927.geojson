@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001609,
-    "geom:area_square_m":15272264.623821,
+    "geom:area_square_m":15272264.623815,
     "geom:bbox":"116.255563965,39.8343948115,116.313871558,39.8783703574",
     "geom:latitude":39.855406,
     "geom:longitude":116.280485,
@@ -14,6 +14,7 @@
     "iso:country":"CN",
     "lbl:latitude":39.862898,
     "lbl:longitude":116.288633,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.851963,
     "mps:longitude":116.279923,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Zhouzhuangzi"
-    ],
-    "name:unk_x_variant":[
         "Zhouzhuangzi"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -59,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -72,7 +70,6 @@
     "wof:concordances":{
         "gn:id":1912032,
         "gp:id":22724399,
-        "qs:id":1191383,
         "qs_pg:id":1191383
     },
     "wof:country":"CN",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497309985,
+    "wof:lastmodified":1566665036,
     "wof:name":"Zhouzhuangzi",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

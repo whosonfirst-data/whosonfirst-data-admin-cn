@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":30.539706,
     "lbl:longitude":114.328408,
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":5.0,
     "mps:latitude":30.539706,
     "mps:longitude":114.328408,
     "mz:hierarchy_label":1,
@@ -411,7 +413,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0445\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wu-han-shih"
     ],
     "name:urd_x_preferred":[
@@ -572,7 +574,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":8581,
     "wof:belongsto":[
@@ -587,7 +589,6 @@
         "fct:id":"06b5194c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1791247,
         "gp:id":2163866,
-        "qs:id":810993,
         "qs_pg:id":810993,
         "wd:id":"Q11746",
         "wk:page":"Wuhan"
@@ -608,7 +609,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393320,
+    "wof:lastmodified":1566655696,
     "wof:megacity":1,
     "wof:name":"Wuhan",
     "wof:parent_id":890516557,

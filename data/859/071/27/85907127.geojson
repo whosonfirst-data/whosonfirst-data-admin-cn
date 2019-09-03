@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8694959.558771,
+    "geom:area_square_m":0.0,
     "geom:bbox":"113.254138,23.126115,113.254138,23.126115",
     "geom:latitude":23.126115,
     "geom:longitude":113.254138,
     "gn:id":"",
     "iso:country":"CN",
+    "lbl:bbox":"113.249138,23.121115,113.259138,23.131115",
     "lbl:latitude":23.126115,
     "lbl:longitude":113.254138,
+    "lbl:max_zoom":18.0,
     "mps:latitude":23.125546,
     "mps:longitude":113.258981,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Xiangyangxincun"
-    ],
-    "name:unk_x_variant":[
         "Xiangyangxincun"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -60,19 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85669743,
         102191569,
         85632695,
         102027597,
         136253041,
-        890513087
+        890513087,
+        85669743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724617,
-        "qs:id":347023,
         "qs_pg:id":347023
     },
     "wof:country":"CN",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936519,
+    "wof:lastmodified":1566665015,
     "wof:name":"Xiangyangxincun",
     "wof:parent_id":102027597,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,12 @@
     "geom:longitude":111.225585,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"111.205585,26.985914,111.245585,27.025914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Shaoyang"
     ],
@@ -83,7 +87,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2142786,
-        "qs:id":1129768,
+        "qs_pg:id":1129768,
         "wd:id":"Q1337882",
         "wk:page":"Shaoyang County"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":890515507,
-    "wof:lastmodified":1563459880,
+    "wof:lastmodified":1566693784,
     "wof:name":"Tangdukou",
     "wof:parent_id":890514309,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CN",
     "lbl:latitude":29.986605,
     "lbl:longitude":122.214693,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":29.986605,
     "mps:longitude":122.214693,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0632\u0647\u0648\u0634\u0627\u0646"
     ],
@@ -164,7 +167,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0436\u043e\u0443\u0448\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zhoushan Shi"
     ],
     "name:urd_x_preferred":[
@@ -213,7 +216,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":6165,
     "wof:belongsto":[
@@ -228,7 +231,6 @@
         "fct:id":"06b47a78-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1886762,
         "gp:id":2132498,
-        "qs:id":921092,
         "qs_pg:id":921092,
         "wd:id":"Q58324"
     },
@@ -248,7 +250,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393233,
+    "wof:lastmodified":1566655671,
     "wof:name":"Zhoushan",
     "wof:parent_id":890513083,
     "wof:placetype":"locality",

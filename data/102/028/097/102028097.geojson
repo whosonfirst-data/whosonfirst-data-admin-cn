@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000292,
-    "geom:area_square_m":3124382.850337,
+    "geom:area_square_m":3124382.850347,
     "geom:bbox":"120.866700426,30.1218570771,120.887450051,30.1398935048",
     "geom:latitude":30.130875,
     "geom:longitude":120.877075,
@@ -14,11 +14,14 @@
     "iso:country":"CN",
     "lbl:latitude":30.130875,
     "lbl:longitude":120.877075,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":30.130875,
     "mps:longitude":120.877075,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "\u76d6\u5317"
     ],
     "qs:a1":"*",
@@ -35,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669835,
         102191569,
@@ -47,7 +50,6 @@
     "wof:concordances":{
         "gn:id":7735212,
         "gp:id":2131898,
-        "qs:id":279561,
         "qs_pg:id":279561
     },
     "wof:country":"CN",
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":102028097,
-    "wof:lastmodified":1497290869,
+    "wof:lastmodified":1566655723,
     "wof:name":"Gaibei",
     "wof:parent_id":890513785,
     "wof:placetype":"locality",

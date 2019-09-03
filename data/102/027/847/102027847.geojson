@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":40.978516,
     "lbl:longitude":115.283912,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":40.978516,
     "mps:longitude":115.283912,
     "mz:hierarchy_label":1,
@@ -188,7 +190,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0436\u0430\u043d\u0446\u0437\u044f\u043a\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chzhantseyakou"
     ],
     "name:urd_x_preferred":[
@@ -328,7 +330,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1380,
     "wof:belongsto":[
@@ -343,9 +345,11 @@
         "fct:id":"06b61f2c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2033196,
         "gp:id":2171688,
-        "qs:id":274120,
-        "qs_pg:id":1087010,
+        "qs_pg:id":274120,
         "wd:id":"Q58650"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1087010
     },
     "wof:country":"CN",
     "wof:geomhash":"615f252347429ca9fa329cd794bf1ceb",
@@ -363,7 +367,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393296,
+    "wof:lastmodified":1566655690,
     "wof:megacity":1,
     "wof:name":"Zhangjiakou",
     "wof:parent_id":890516481,

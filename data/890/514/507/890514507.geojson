@@ -11,7 +11,7 @@
     "geom:longitude":117.211421,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":33.7852,
     "lbl:longitude":117.280089,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u5b89\u5fbd\u7701",
     "meso:dissme":"\u5bbf\u5dde\u5e02\u5b89\u5fbd\u7701",
     "meso:gadm_adm2":"Suzhou",
@@ -46,6 +48,7 @@
     "mps:longitude":117.280089,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0632\u0647\u0648"
     ],
@@ -142,7 +145,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0447\u0436\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Su-hsien Chuan-ch\u2019\u00fc"
     ],
     "name:urd_x_preferred":[
@@ -176,9 +179,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"9787",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Suzhou Shi",
@@ -200,7 +203,7 @@
         "gn:id":1793752,
         "gp:id":26198330,
         "hasc:id":"CN.AH.SZ",
-        "qs:id":483550,
+        "qs_pg:id":483550,
         "wd:id":"Q10935365"
     },
     "wof:country":"CN",
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":890514507,
-    "wof:lastmodified":1563459461,
+    "wof:lastmodified":1566693680,
     "wof:name":"Suzhou",
     "wof:parent_id":85669739,
     "wof:placetype":"county",

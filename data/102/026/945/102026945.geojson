@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000286,
-    "geom:area_square_m":3122895.894404,
+    "geom:area_square_m":3122895.894409,
     "geom:bbox":"120.130845231,27.8640562684,120.1511373,27.8820886311",
     "geom:latitude":27.873073,
     "geom:longitude":120.140991,
@@ -14,13 +14,13 @@
     "iso:country":"CN",
     "lbl:latitude":27.873072,
     "lbl:longitude":120.140991,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":27.873072,
     "mps:longitude":120.140991,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
-        "Y\u00fc-hu-chen"
-    ],
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u7389\u58f6"
     ],
@@ -40,7 +40,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669835,
         102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":102026945,
-    "wof:lastmodified":1501222162,
+    "wof:lastmodified":1566655754,
     "wof:name":"Yuhu",
     "wof:parent_id":890514289,
     "wof:placetype":"locality",

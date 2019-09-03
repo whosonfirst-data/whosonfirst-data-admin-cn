@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001728,
-    "geom:area_square_m":16404789.214605,
+    "geom:area_square_m":16404789.214603,
     "geom:bbox":"116.386413574,39.8175224124,116.451345215,39.8690092369",
     "geom:latitude":39.845594,
     "geom:longitude":116.415956,
     "iso:country":"CN",
     "lbl:latitude":39.855539,
     "lbl:longitude":116.415222,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.846552,
     "mps:longitude":116.411039,
     "mz:hierarchy_label":1,
@@ -24,9 +25,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Muxiyuan"
-    ],
-    "name:unk_x_variant":[
         "Muxiyuan"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -54,7 +52,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -84,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269154,
+    "wof:lastmodified":1566665023,
     "wof:name":"Muxiyuan",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

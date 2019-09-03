@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":22.609686,
     "lbl:longitude":113.18374,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.609686,
     "mps:longitude":113.18374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Guzhen"
     ],
@@ -37,7 +40,7 @@
     "name:swe_x_preferred":[
         "Guzhen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ku-chen-hs\u00fc"
     ],
     "name:wuu_x_preferred":[
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":30,
     "wof:belongsto":[
         85669743,
@@ -76,7 +79,6 @@
     "wof:concordances":{
         "gn:id":1809140,
         "gp:id":2162454,
-        "qs:id":276616,
         "qs_pg:id":276616,
         "wd:id":"Q5622929"
     },
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":102027581,
-    "wof:lastmodified":1563393211,
+    "wof:lastmodified":1566655664,
     "wof:name":"Guzhen",
     "wof:parent_id":890516323,
     "wof:placetype":"locality",

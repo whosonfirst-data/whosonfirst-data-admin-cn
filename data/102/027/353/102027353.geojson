@@ -13,10 +13,13 @@
     "iso:country":"CN",
     "lbl:latitude":23.175714,
     "lbl:longitude":107.693482,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":23.175714,
     "mps:longitude":107.693482,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Long'an"
     ],
@@ -65,7 +68,7 @@
     "name:swe_x_preferred":[
         "Long'an"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lung-an Hsien"
     ],
     "name:vie_x_preferred":[
@@ -92,7 +95,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85669717,
@@ -105,7 +108,7 @@
     "wof:concordances":{
         "gn:id":1802705,
         "gp:id":12686622,
-        "qs:id":1027631,
+        "qs_pg:id":1027631,
         "wd:id":"Q1023898",
         "wk:page":"Long'an County"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":102027353,
-    "wof:lastmodified":1563393108,
+    "wof:lastmodified":1566655628,
     "wof:name":"Long\u2019an Xian",
     "wof:parent_id":890515419,
     "wof:placetype":"locality",

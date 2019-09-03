@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":19.59602,
     "lbl:longitude":110.758294,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":19.59602,
     "mps:longitude":110.758294,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u064a\u0646\u0634\u0627\u0646\u063a"
     ],
@@ -145,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043d\u044c\u0447\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mencheong"
     ],
     "name:urd_x_preferred":[
@@ -187,7 +190,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":830,
     "wof:belongsto":[
         102191569,
@@ -199,7 +202,6 @@
     "wof:concordances":{
         "gn:id":1791544,
         "gp:id":2162793,
-        "qs:id":372051,
         "qs_pg:id":372051,
         "wd:id":"Q997767",
         "wk:page":"Wenchang"
@@ -216,7 +218,7 @@
         }
     ],
     "wof:id":102027081,
-    "wof:lastmodified":1563393292,
+    "wof:lastmodified":1566655689,
     "wof:name":"Wencheng",
     "wof:parent_id":1108732433,
     "wof:placetype":"locality",

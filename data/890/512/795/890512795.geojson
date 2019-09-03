@@ -11,10 +11,14 @@
     "geom:longitude":116.28988,
     "gn:country":"CN",
     "gn:fcode":"PPLA3",
-    "gn:pop":125919,
+    "gn:population":125919,
     "iso:country":"CN",
+    "lbl:bbox":"116.26988,23.01845,116.30988,23.05845",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ceb_x_preferred":[
         "Huicheng Qu"
     ],
@@ -45,7 +49,7 @@
     "name:swe_x_preferred":[
         "Huicheng"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hweilai-hsien"
     ],
     "name:vie_x_preferred":[
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":1806881,
         "gp:id":2161862,
-        "qs:id":562607,
+        "qs_pg:id":562607,
         "wk:page":"Huicheng District"
     },
     "wof:country":"CN",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":890512795,
-    "wof:lastmodified":1564249949,
+    "wof:lastmodified":1566693750,
     "wof:name":"Huicheng",
     "wof:parent_id":1108732429,
     "wof:placetype":"locality",

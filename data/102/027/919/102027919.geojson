@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":50.243741,
     "lbl:longitude":127.49569,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":50.243741,
     "mps:longitude":127.49569,
     "mz:hierarchy_label":1,
@@ -171,7 +173,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0435\u0439\u0445\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sakhalyan"
     ],
     "name:urd_x_preferred":[
@@ -312,7 +314,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1384,
     "wof:belongsto":[
@@ -327,7 +329,6 @@
         "fct:id":"06b63c28-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2036973,
         "gp:id":2141192,
-        "qs:id":274136,
         "qs_pg:id":274136,
         "wd:id":"Q349983",
         "wk:page":"Heihe"
@@ -348,7 +349,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393360,
+    "wof:lastmodified":1566655713,
     "wof:name":"Heihe",
     "wof:parent_id":1108732555,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":30.184365,
     "lbl:longitude":109.659719,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6e56\u5317\u7701",
     "meso:dissme":"\u6069\u65bd\u571f\u5bb6\u65cf\u82d7\u65cf\u81ea\u6cbb\u5dde\u6e56\u5317\u7701",
     "meso:gadm_adm2":"Enshi Tujia and Miao",
@@ -42,6 +44,7 @@
     "mps:longitude":109.659719,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Enshi"
     ],
@@ -54,9 +57,6 @@
     "name:pol_x_preferred":[
         "Enshi"
     ],
-    "name:und_x_variant":[
-        "\u6069\u65bd\u571f\u5bb6\u65cf\u82d7\u65cf\u81ea\u6cbb\u5dde"
-    ],
     "name:vie_x_preferred":[
         "\u00c2n Thi"
     ],
@@ -64,7 +64,7 @@
         "\u6069\u65bd\u571f\u5bb6\u65cf\u82d7\u65cf\u81ea\u6cbb\u5dde"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85669777,
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1108732427,
-    "wof:lastmodified":1564234185,
+    "wof:lastmodified":1566687977,
     "wof:name":"Enshi",
     "wof:parent_id":85669777,
     "wof:placetype":"county",

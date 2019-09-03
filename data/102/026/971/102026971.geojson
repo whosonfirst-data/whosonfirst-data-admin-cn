@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001025,
-    "geom:area_square_m":11511602.976275,
+    "geom:area_square_m":11511602.976281,
     "geom:bbox":"110.463131235,24.7602474205,110.507633574,24.7932719316",
     "geom:latitude":24.775773,
     "geom:longitude":110.486374,
@@ -15,14 +15,17 @@
     "iso:country":"CN",
     "lbl:latitude":24.776263,
     "lbl:longitude":110.485952,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":24.776263,
     "mps:longitude":110.485952,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:rus_x_preferred":[
         "\u042f\u043d\u0448\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yangso"
     ],
     "qs:a1":"*",
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85669717,
@@ -52,7 +55,6 @@
     "wof:concordances":{
         "gn:id":1787323,
         "gp:id":2166549,
-        "qs:id":136305,
         "qs_pg:id":136305
     },
     "wof:country":"CN",
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":102026971,
-    "wof:lastmodified":1505338993,
+    "wof:lastmodified":1566655743,
     "wof:name":"Yangshuo",
     "wof:parent_id":1108732443,
     "wof:placetype":"locality",

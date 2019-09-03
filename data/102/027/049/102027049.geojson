@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":31.550428,
     "lbl:longitude":120.282065,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":31.550428,
     "mps:longitude":120.282065,
     "mz:hierarchy_label":1,
@@ -237,7 +239,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0441\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wu-hsi"
     ],
     "name:urd_x_preferred":[
@@ -384,7 +386,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3313,
     "wof:belongsto":[
@@ -399,7 +401,7 @@
         "fct:id":"06b49864-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1790923,
         "gp:id":12685614,
-        "qs:id":1208877,
+        "qs_pg:id":1208877,
         "wd:id":"Q42651",
         "wk:page":"Wuxi"
     },
@@ -419,7 +421,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393160,
+    "wof:lastmodified":1566655645,
     "wof:megacity":1,
     "wof:name":"Wuxi",
     "wof:parent_id":890514733,

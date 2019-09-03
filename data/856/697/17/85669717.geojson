@@ -25,6 +25,7 @@
     ],
     "lbl:latitude":23.619883,
     "lbl:longitude":108.846147,
+    "lbl:min_zoom":8.0,
     "meso:name_alt":"\u5ee3\u897f\u58ef\u65cf\u81ea\u6cbb\u5340|\u5e7f\u897f\u58ee\u65cf\u81ea\u6cbb\u533a",
     "meso:name_loc":"\u5e7f\u897f\u7701",
     "mps:latitude":23.607532,
@@ -323,9 +324,6 @@
     ],
     "name:und_x_variant":[
         "\u5ee3\u897f\u58ef\u65cf\u81ea\u6cbb\u5340|\u5e7f\u897f\u58ee\u65cf\u81ea\u6cbb\u533a",
-        "\u5e7f\u897f\u7701"
-    ],
-    "name:unk_x_variant":[
         "Kuang-hsi Sheng"
     ],
     "name:urd_x_preferred":[
@@ -446,9 +444,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-01",
+    "src:population_date":"2010-11-01",
     "statoids:area_km":"235,001",
     "statoids:area_mi":"90,734",
     "statoids:as_of_date":"2010-11-01",
@@ -475,7 +473,7 @@
         "gp:id":12578006,
         "hasc:id":"CN.GX",
         "iso:id":"CN-GX",
-        "qs:id":1156107,
+        "qs_pg:id":1156107,
         "unlc:id":"CN-45",
         "wd:id":"Q15176"
     },
@@ -501,11 +499,10 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1565664515,
+    "wof:lastmodified":1566665045,
     "wof:name":"Guangxi Zhuang",
     "wof:parent_id":85632695,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":46026629,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-cn",

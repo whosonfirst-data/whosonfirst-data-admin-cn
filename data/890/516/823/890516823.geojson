@@ -11,10 +11,14 @@
     "geom:longitude":127.47895,
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
-    "gn:pop":67672,
+    "gn:population":67672,
     "iso:country":"CN",
+    "lbl:bbox":"127.45895,42.1659,127.49895,42.2059",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Fusong Xian"
     ],
@@ -54,7 +58,7 @@
     "name:swe_x_preferred":[
         "Fusong"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sung-chiang-ho"
     ],
     "name:vie_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":2034691,
         "gp:id":2138150,
-        "qs:id":137691,
+        "qs_pg:id":137691,
         "wd:id":"Q1361258",
         "wk:page":"Fusong County"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":890516823,
-    "wof:lastmodified":1563459275,
+    "wof:lastmodified":1566693628,
     "wof:name":"Songjianghe",
     "wof:parent_id":890516621,
     "wof:placetype":"locality",

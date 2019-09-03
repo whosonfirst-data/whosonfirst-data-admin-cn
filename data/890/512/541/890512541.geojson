@@ -11,10 +11,14 @@
     "geom:longitude":120.68333,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":2233,
+    "gn:population":2233,
     "iso:country":"CN",
+    "lbl:bbox":"120.66333,36.13472,120.70333,36.17472",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Qingshan"
     ],
@@ -33,7 +37,7 @@
     "name:swe_x_preferred":[
         "Qingshan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qingshancun"
     ],
     "name:zho_x_preferred":[
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":1941584,
         "gp:id":12687092,
-        "qs:id":137280,
+        "qs_pg:id":137280,
         "wk:page":"Qingshan"
     },
     "wof:country":"CN",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890512541,
-    "wof:lastmodified":1564249971,
+    "wof:lastmodified":1566693759,
     "wof:name":"Qingshan",
     "wof:parent_id":890514775,
     "wof:placetype":"locality",

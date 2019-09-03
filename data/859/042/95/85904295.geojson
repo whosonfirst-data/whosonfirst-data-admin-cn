@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000399,
-    "geom:area_square_m":3781064.891158,
+    "geom:area_square_m":3781064.891159,
     "geom:bbox":"116.306762695,39.9599247535,116.33972168,39.9813293863",
     "geom:latitude":39.969658,
     "geom:longitude":116.321634,
     "iso:country":"CN",
     "lbl:latitude":39.9711,
     "lbl:longitude":116.321373,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.967121,
     "mps:longitude":116.323258,
     "mz:hierarchy_label":1,
@@ -24,9 +25,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Shuangyushu"
-    ],
-    "name:unk_x_variant":[
         "Shuangyushu"
     ],
     "qs:gn_adm0_cc":"CN",
@@ -54,7 +52,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -84,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269153,
+    "wof:lastmodified":1566665020,
     "wof:name":"Shuangyushu",
     "wof:parent_id":102027745,
     "wof:placetype":"neighbourhood",

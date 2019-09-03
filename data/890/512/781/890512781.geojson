@@ -11,10 +11,14 @@
     "geom:longitude":120.52889,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":1850,
+    "gn:population":1850,
     "iso:country":"CN",
+    "lbl:bbox":"120.50889,36.19972,120.54889,36.23972",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Laoshan Qu"
     ],
@@ -51,7 +55,7 @@
     "name:swe_x_preferred":[
         "Laoshan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beizhaike"
     ],
     "name:urd_x_preferred":[
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":1941563,
         "gp:id":20250338,
-        "qs:id":137279,
+        "qs_pg:id":137279,
         "wd:id":"Q181352",
         "wk:page":"Laoshan District"
     },
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":890512781,
-    "wof:lastmodified":1563459794,
+    "wof:lastmodified":1566693758,
     "wof:name":"Beizhai",
     "wof:parent_id":890514775,
     "wof:placetype":"locality",

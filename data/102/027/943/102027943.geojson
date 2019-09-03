@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":43.249208,
     "lbl:longitude":117.528938,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.249208,
     "mps:longitude":117.528938,
     "mz:hierarchy_label":1,
@@ -116,9 +118,6 @@
     ],
     "name:tur_x_preferred":[
         "Chifeng"
-    ],
-    "name:unk_x_variant":[
-        "Ulanhad"
     ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u0641\u06cc\u0646\u06af"
@@ -247,7 +246,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1692,
     "wof:belongsto":[
@@ -262,7 +261,6 @@
         "fct:id":"06b56fbe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2038067,
         "gp:id":12686819,
-        "qs:id":274145,
         "qs_pg:id":274145,
         "wk:page":"Chifeng"
     },
@@ -282,7 +280,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1564178922,
+    "wof:lastmodified":1566655716,
     "wof:megacity":1,
     "wof:name":"Chifeng",
     "wof:parent_id":890514597,

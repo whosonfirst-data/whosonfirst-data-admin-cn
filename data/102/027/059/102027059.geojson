@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":31.334406,
     "lbl:longitude":118.368775,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":31.334406,
     "mps:longitude":118.368775,
     "mz:hierarchy_label":1,
@@ -195,7 +197,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0443\u0445\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wu-hu-shih"
     ],
     "name:urd_x_preferred":[
@@ -338,7 +340,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1569,
     "wof:belongsto":[
@@ -353,10 +355,12 @@
         "fct:id":"06b46aa6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1791236,
         "gp:id":2127875,
-        "qs:id":959120,
-        "qs_pg:id":1129680,
+        "qs_pg:id":959120,
         "wd:id":"Q359990",
         "wk:page":"Wuhu"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1129680
     },
     "wof:country":"CN",
     "wof:geomhash":"c381470e5cc6836effecd1c2e80435d2",
@@ -374,7 +378,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393321,
+    "wof:lastmodified":1566655697,
     "wof:megacity":1,
     "wof:name":"Wuhu",
     "wof:parent_id":890513093,

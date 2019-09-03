@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":21.868939,
     "lbl:longitude":111.991508,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":21.868939,
     "mps:longitude":111.991508,
     "mz:hierarchy_label":1,
@@ -177,7 +179,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u043d\u0446\u0437\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chiang-ch\u2019eng-chen"
     ],
     "name:urd_x_preferred":[
@@ -318,7 +320,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":361,
     "wof:belongsto":[
@@ -333,7 +335,7 @@
         "fct:id":"06b6116c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1806408,
         "gp:id":12687673,
-        "qs:id":274064,
+        "qs_pg:id":274064,
         "wd:id":"Q59209",
         "wk:page":"Yangjiang"
     },
@@ -353,7 +355,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393307,
+    "wof:lastmodified":1566655693,
     "wof:name":"Yangjiang",
     "wof:parent_id":890516345,
     "wof:placetype":"locality",

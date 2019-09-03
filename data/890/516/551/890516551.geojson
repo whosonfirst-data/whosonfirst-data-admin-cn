@@ -11,7 +11,7 @@
     "geom:longitude":105.737075,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":34.608649,
     "lbl:longitude":105.843311,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u7518\u8083\u7701",
     "meso:dissme":"\u5929\u6c34\u5e02\u7518\u8083\u7701",
     "meso:gadm_adm2":"Tianshui",
@@ -46,6 +48,7 @@
     "mps:longitude":105.843311,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u0627\u0646\u0634\u0648\u064a"
     ],
@@ -142,7 +145,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u044f\u043d\u044c\u0448\u0443\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u2019ien-shui Shih"
     ],
     "name:urd_x_preferred":[
@@ -178,9 +181,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"14317",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Tianshui Shi",
@@ -202,7 +205,7 @@
         "gn:id":1792891,
         "gp:id":26198126,
         "hasc:id":"CN.GS.TS",
-        "qs:id":219134
+        "qs_pg:id":219134
     },
     "wof:country":"CN",
     "wof:created":1469055963,
@@ -217,7 +220,7 @@
         }
     ],
     "wof:id":890516551,
-    "wof:lastmodified":1564249607,
+    "wof:lastmodified":1566693595,
     "wof:name":"Tianshui",
     "wof:parent_id":85669711,
     "wof:placetype":"county",

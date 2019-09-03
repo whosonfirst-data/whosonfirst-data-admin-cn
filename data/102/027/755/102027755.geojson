@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":27.23021,
     "lbl:longitude":111.428833,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":27.23021,
     "mps:longitude":111.428833,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Shaoyang"
     ],
@@ -175,7 +178,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043e\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baoqing"
     ],
     "name:urd_x_preferred":[
@@ -217,7 +220,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":697,
     "wof:belongsto":[
         85669781,
@@ -246,7 +249,7 @@
         }
     ],
     "wof:id":102027755,
-    "wof:lastmodified":1563393101,
+    "wof:lastmodified":1566655624,
     "wof:name":"Shaoyang",
     "wof:parent_id":890514309,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"CN",
     "lbl:latitude":38.910638,
     "lbl:longitude":121.593039,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":38.910638,
     "mps:longitude":121.593039,
     "mz:hierarchy_label":1,
@@ -283,7 +285,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u043b\u044f\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dairen"
     ],
     "name:urd_x_preferred":[
@@ -427,10 +429,9 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":8561,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85669807,
         102191569,
@@ -446,7 +447,7 @@
         "gn:id":1814087,
         "gp:id":12686760,
         "nyt:id":"56399729913317129501",
-        "qs:id":839782,
+        "qs_pg:id":839782,
         "wd:id":"Q74881",
         "wk:page":"Dalian"
     },
@@ -466,7 +467,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563393179,
+    "wof:lastmodified":1566655651,
     "wof:megacity":1,
     "wof:name":"Dalian",
     "wof:parent_id":890515891,

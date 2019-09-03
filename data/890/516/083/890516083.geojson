@@ -11,11 +11,15 @@
     "geom:longitude":76.04,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"76.02,39.37139,76.06,39.41139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Shule"
     ],
@@ -63,7 +67,7 @@
         "\u064a\u06d0\u06ad\u0649\u0634\u06d5\u06be\u06d5\u0631",
         "\u0415\u04a3\u0438\u0448\u04d9\u04bb\u04d9\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Su-lo"
     ],
     "name:urd_x_preferred":[
@@ -105,7 +109,7 @@
     "wof:concordances":{
         "gn:id":1279987,
         "gp:id":2143709,
-        "qs:id":132597,
+        "qs_pg:id":132597,
         "wd:id":"Q1023123",
         "wk:page":"Shule County"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":890516083,
-    "wof:lastmodified":1563459200,
+    "wof:lastmodified":1566693605,
     "wof:name":"\u758f\u52d2",
     "wof:parent_id":1108732391,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004589,
-    "geom:area_square_m":48554256.585097,
+    "geom:area_square_m":48554256.585049,
     "geom:bbox":"121.347727051,31.1205503501,121.445250234,31.1963569499",
     "geom:latitude":31.157381,
     "geom:longitude":121.397115,
@@ -13,6 +13,7 @@
     "iso:country":"CN",
     "lbl:latitude":31.163857,
     "lbl:longitude":121.414401,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.162404,
     "mps:longitude":121.40117,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "name:eng_x_preferred":[
-        "Tianlin R.a."
-    ],
-    "name:unk_x_variant":[
         "Tianlin R.a."
     ],
     "qs:gn_adm0_cc":"CN",
@@ -56,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726063,
-        "qs:id":1087589,
         "qs_pg:id":1087589
     },
     "wof:country":"CN",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269193,
+    "wof:lastmodified":1566665030,
     "wof:name":"Tianlin R.a.",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

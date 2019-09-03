@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000654,
-    "geom:area_square_m":6241948.942469,
+    "geom:area_square_m":6241948.942472,
     "geom:bbox":"116.273171544,39.4229402015,116.318382695,39.4494452957",
     "geom:latitude":39.436193,
     "geom:longitude":116.295777,
@@ -14,10 +14,13 @@
     "iso:country":"CN",
     "lbl:latitude":39.440435,
     "lbl:longitude":116.306763,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.440435,
     "mps:longitude":116.306763,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "Gu\u2019an"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85669797,
         102191569,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102028053,
-    "wof:lastmodified":1501273244,
+    "wof:lastmodified":1566655722,
     "wof:name":"Gu\u2019an",
     "wof:parent_id":890516977,
     "wof:placetype":"locality",

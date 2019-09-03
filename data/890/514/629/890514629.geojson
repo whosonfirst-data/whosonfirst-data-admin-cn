@@ -11,11 +11,15 @@
     "geom:longitude":112.46861,
     "gn:country":"CN",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"112.44861,34.58778,112.48861,34.62778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"\u5173\u6797",
     "qs:name_adm0":"\u4e2d\u570b",
     "qs:name_adm1":"\u6cb3\u5357\u7701",
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":1809824,
         "gp:id":2172008,
-        "qs:id":479352
+        "qs_pg:id":479352
     },
     "wof:country":"CN",
     "wof:created":1469055869,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890514629,
-    "wof:lastmodified":1505343897,
+    "wof:lastmodified":1566693664,
     "wof:name":"\u5173\u6797",
     "wof:parent_id":890515631,
     "wof:placetype":"locality",

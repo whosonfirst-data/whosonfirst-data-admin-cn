@@ -11,7 +11,7 @@
     "geom:longitude":111.105778,
     "gn:country":"CN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
         "Sanmenxia City"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":34.258386,
     "lbl:longitude":110.884774,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u6cb3\u5357\u7701",
     "meso:dissme":"\u4e09\u95e8\u5ce1\u5e02\u6cb3\u5357\u7701",
     "meso:gadm_adm2":"Sanmenxia",
@@ -45,6 +47,7 @@
     "mps:longitude":110.884774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u0645\u0646\u0634\u064a\u0627"
     ],
@@ -129,7 +132,7 @@
     "name:tur_x_preferred":[
         "Sanmenxia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San-men-hsia Shih"
     ],
     "name:urd_x_preferred":[
@@ -152,9 +155,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-12-31",
+    "src:population_date":"1999-12-31",
     "statoids:area_km":"10509",
     "statoids:as_of_date":"1999-12-31",
     "statoids:capital":"Sanmenxia Shi",
@@ -175,7 +178,7 @@
     "wof:concordances":{
         "gn:id":1796667,
         "hasc:id":"CN.HE.SM",
-        "qs:id":903667
+        "qs_pg:id":903667
     },
     "wof:country":"CN",
     "wof:created":1469055990,
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":890517009,
-    "wof:lastmodified":1564249585,
+    "wof:lastmodified":1566693587,
     "wof:name":"Sanmenxia",
     "wof:parent_id":85669801,
     "wof:placetype":"county",

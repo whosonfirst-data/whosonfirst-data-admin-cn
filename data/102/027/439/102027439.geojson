@@ -12,10 +12,13 @@
     "iso:country":"CN",
     "lbl:latitude":35.599253,
     "lbl:longitude":110.967407,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.599253,
     "mps:longitude":110.967407,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "He Jifeng"
     ],
@@ -37,7 +40,7 @@
     "name:spa_x_preferred":[
         "He Jifeng"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chi-shan-hsien"
     ],
     "name:zho_x_preferred":[
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":511,
     "wof:belongsto":[
         85669773,
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":1805280,
         "gp:id":12686974,
-        "qs:id":1027655,
         "qs_pg:id":1027655,
         "wd:id":"Q5688822"
     },
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":102027439,
-    "wof:lastmodified":1563393170,
+    "wof:lastmodified":1566655648,
     "wof:name":"Jifeng",
     "wof:parent_id":890514745,
     "wof:placetype":"locality",
