@@ -1,0 +1,82 @@
+{
+  "id": 102550367,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1958-01-01",
+    "date:inception_upper":"1958-12-31",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"1958",
+    "geom:area":0.002233,
+    "geom:area_square_m":21125962.60417,
+    "geom:bbox":"116.55687,40.037334,116.621246,40.103874",
+    "geom:latitude":40.068088,
+    "geom:longitude":116.585113,
+    "iso:country":"CN",
+    "lbl:latitude":40.068469,
+    "lbl:longitude":116.586155,
+    "mps:latitude":40.068469,
+    "mps:longitude":116.586155,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":13.0,
+    "name:eng_x_variant":[
+        "BJS"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl_centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424781,
+        "county_id":26198240,
+        "localadmin_id":12686924,
+        "planet_id":1,
+        "state_id":12578011
+    },
+    "wof:belongsto":[
+        85669727,
+        102191569,
+        85632695,
+        102027745,
+        136253041,
+        1108732371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511989,
+        "iata:code":"PEK",
+        "icao:code":"ZBAA",
+        "wd:id":"Q32190"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"9b3ef9aacfcb992af177690d5c5ee27c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102550367,
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732371,
+            "empire_id":136253041,
+            "locality_id":102027745,
+            "region_id":85669727
+        }
+    ],
+    "wof:id":102550367,
+    "wof:lastmodified":1568759312,
+    "wof:name":"Beijing Capital Airport",
+    "wof:parent_id":102027745,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    116.55687,
+    40.037334,
+    116.621246,
+    40.103874
+],
+  "geometry": {"coordinates":[[[116.55687,40.072685],[116.563782,40.074509],[116.57006800000001,40.083275],[116.569405,40.093567],[116.57223500000001,40.096786],[116.58122299999999,40.086765],[116.58242799999999,40.100464],[116.591202,40.095997],[116.599098,40.103874],[116.59584,40.091991],[116.60214999999999,40.084572],[116.613998,40.086948],[116.61086299999999,40.081421],[116.61039,40.077],[116.621246,40.069794],[116.617065,40.067093],[116.612747,40.063293],[116.607285,40.064991],[116.59996,40.055965],[116.591278,40.046345],[116.59201,40.041695],[116.584335,40.037338],[116.57402,40.042259],[116.572411,40.041962],[116.563667,40.037334],[116.562836,40.038502],[116.56083700000001,40.052334],[116.558075,40.057838],[116.56613900000001,40.069202],[116.55687,40.072685]]],"type":"Polygon"}
+}

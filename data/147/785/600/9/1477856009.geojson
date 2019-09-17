@@ -1,0 +1,68 @@
+{
+  "id": 1477856009,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"2019-01-01",
+    "date:inception_upper":"2019-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"2019",
+    "geom:area":0.0,
+    "geom:bbox":"116.410103,39.51106,116.410103,39.51106",
+    "geom:latitude":39.51106,
+    "geom:longitude":116.410103,
+    "iso:country":"CN",
+    "lbl:latitude":39.51106,
+    "lbl:longitude":116.410103,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":13.0,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[],
+    "wof:belongsto":[
+        102550367,
+        85669727,
+        102191569,
+        85632695,
+        102027745,
+        136253041,
+        1108732371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "iata:code":"PKX",
+        "icao:code":"ZBAD",
+        "wd:id":"Q1139574"
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8530abf34e9b206e837632e3e50d9378",
+    "wof:hierarchy":[
+        {
+            "campus_id":102550367,
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732371,
+            "empire_id":136253041,
+            "locality_id":102027745,
+            "region_id":85669727
+        }
+    ],
+    "wof:id":1477856009,
+    "wof:lastmodified":1568758482,
+    "wof:name":"Beijing Daxing International Airport",
+    "wof:parent_id":102027745,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    116.410103,
+    39.51106,
+    116.410103,
+    39.51106
+],
+  "geometry": {"coordinates":[116.41010300000001,39.51106],"type":"Point"}
+}
