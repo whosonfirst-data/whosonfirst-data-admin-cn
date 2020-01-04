@@ -347,6 +347,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"wk",
+    "src:population_date":"2010-01-01",
     "wd:wordcount":1120,
     "wof:belongsto":[
         85669717,
@@ -360,7 +362,8 @@
         "gn:id":1803300,
         "gp:id":26198175,
         "qs_pg:id":1077118,
-        "wd:id":"Q38968"
+        "wd:id":"Q38968",
+        "wk:page":"Liuzhou"
     },
     "wof:country":"CN",
     "wof:geomhash":"3739846b8022f8f8a815b7b7afa8e367",
@@ -375,11 +378,13 @@
         }
     ],
     "wof:id":102027369,
-    "wof:lastmodified":1566655679,
+    "wof:lastmodified":1578087881,
     "wof:megacity":1,
     "wof:name":"Liuzhou",
     "wof:parent_id":890515127,
     "wof:placetype":"locality",
+    "wof:population":1436599,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:scale":6,
     "wof:superseded_by":[],
