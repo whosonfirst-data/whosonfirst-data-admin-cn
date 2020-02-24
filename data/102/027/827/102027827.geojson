@@ -322,6 +322,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -347,6 +348,10 @@
         "qs_pg:id":1317186
     },
     "wof:country":"CN",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f10eda4539497911e0664dba4026ee8d",
     "wof:hierarchy":[
         {
@@ -362,7 +367,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1566655637,
+    "wof:lastmodified":1582372133,
     "wof:name":"Yueyang",
     "wof:parent_id":890516479,
     "wof:placetype":"locality",

@@ -180,6 +180,7 @@
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -199,6 +200,10 @@
         "wk:page":"Shuyang County"
     },
     "wof:country":"CN",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"87285f09bbc83e3536ce169f41c45945",
     "wof:hierarchy":[
         {
@@ -211,7 +216,7 @@
         }
     ],
     "wof:id":102027137,
-    "wof:lastmodified":1566655683,
+    "wof:lastmodified":1582372139,
     "wof:name":"Shuyang",
     "wof:parent_id":890512205,
     "wof:placetype":"locality",

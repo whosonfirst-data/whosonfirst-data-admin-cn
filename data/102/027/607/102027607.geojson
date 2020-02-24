@@ -327,7 +327,8 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1531,
@@ -347,6 +348,10 @@
         "wk:page":"Ganzhou"
     },
     "wof:country":"CN",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"f10365bcc6bc369a06d2336b3165123d",
     "wof:hierarchy":[
         {
@@ -359,7 +364,7 @@
         }
     ],
     "wof:id":102027607,
-    "wof:lastmodified":1566655702,
+    "wof:lastmodified":1582372142,
     "wof:name":"Ganzhou",
     "wof:parent_id":890511835,
     "wof:placetype":"locality",

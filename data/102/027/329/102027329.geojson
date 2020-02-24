@@ -266,7 +266,8 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1271,
@@ -286,6 +287,10 @@
         "wk:page":"Maoming"
     },
     "wof:country":"CN",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"28a555d1d8615018c052fc821f86ebfb",
     "wof:hierarchy":[
         {
@@ -298,7 +303,7 @@
         }
     ],
     "wof:id":102027329,
-    "wof:lastmodified":1566655708,
+    "wof:lastmodified":1582372142,
     "wof:name":"Maoming",
     "wof:parent_id":1108732487,
     "wof:placetype":"locality",
