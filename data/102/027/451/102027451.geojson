@@ -315,7 +315,8 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -337,6 +338,10 @@
         "wk:page":"Jingmen"
     },
     "wof:country":"CN",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"8fbfc7e4351425396b17e5df4b1fda79",
     "wof:hierarchy":[
         {
@@ -352,7 +357,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1566655695,
+    "wof:lastmodified":1582372141,
     "wof:megacity":1,
     "wof:name":"Jingmen",
     "wof:parent_id":890514731,

@@ -270,7 +270,8 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":801,
@@ -289,6 +290,10 @@
         "wd:id":"Q1012465"
     },
     "wof:country":"CN",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"37851dbbd4e5bd17b4101429e6d3f3c1",
     "wof:hierarchy":[
         {
@@ -301,7 +306,7 @@
         }
     ],
     "wof:id":102026801,
-    "wof:lastmodified":1566655752,
+    "wof:lastmodified":1582372147,
     "wof:name":"Nyingchi",
     "wof:parent_id":890515951,
     "wof:placetype":"locality",

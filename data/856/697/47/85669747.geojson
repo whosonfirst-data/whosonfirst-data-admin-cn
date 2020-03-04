@@ -289,7 +289,7 @@
     "qs:type":"Autonomous Region",
     "src:geom":"meso",
     "src:geom_alt":[
-        "quattroshapes"
+        "meso"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -330,6 +330,9 @@
         "wk:page":"Tibet Autonomous Region"
     },
     "wof:country":"CN",
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"62070944d0e14876b13999ba1e1c64a9",
     "wof:hierarchy":[
         {
@@ -351,7 +354,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1566665064,
+    "wof:lastmodified":1582372981,
     "wof:name":"Tibet",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

@@ -294,6 +294,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -313,6 +314,10 @@
         "wd:id":"Q496576"
     },
     "wof:country":"CN",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5fc03d38889553ee0407d5a012c0a69d",
     "wof:hierarchy":[
         {
@@ -325,7 +330,7 @@
         }
     ],
     "wof:id":102028069,
-    "wof:lastmodified":1566655732,
+    "wof:lastmodified":1582372145,
     "wof:name":"Baoshan",
     "wof:parent_id":890514251,
     "wof:placetype":"locality",

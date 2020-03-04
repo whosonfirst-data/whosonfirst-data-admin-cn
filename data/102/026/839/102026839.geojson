@@ -334,6 +334,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -357,6 +358,10 @@
         "wk:page":"Dunhuang"
     },
     "wof:country":"CN",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d463a2ab48fdb13b5eacb8a79a356314",
     "wof:hierarchy":[
         {
@@ -369,7 +374,7 @@
         }
     ],
     "wof:id":102026839,
-    "wof:lastmodified":1566655752,
+    "wof:lastmodified":1582372147,
     "wof:name":"Dunhuang",
     "wof:parent_id":890515159,
     "wof:placetype":"locality",

@@ -319,6 +319,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -339,6 +340,10 @@
         "wk:page":"Karamay"
     },
     "wof:country":"CN",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4740b99eaafe00cd73a117d9fc4c4065",
     "wof:hierarchy":[
         {
@@ -351,7 +356,7 @@
         }
     ],
     "wof:id":102026829,
-    "wof:lastmodified":1566655738,
+    "wof:lastmodified":1582372145,
     "wof:name":"Karamay",
     "wof:parent_id":890515397,
     "wof:placetype":"locality",

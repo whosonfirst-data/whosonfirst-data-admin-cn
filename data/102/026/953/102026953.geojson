@@ -303,6 +303,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -324,6 +325,10 @@
         "wk:page":"Heyuan"
     },
     "wof:country":"CN",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"35281b4e3323a8a45ba212d0a54202ae",
     "wof:hierarchy":[
         {
@@ -336,7 +341,7 @@
         }
     ],
     "wof:id":102026953,
-    "wof:lastmodified":1566655736,
+    "wof:lastmodified":1582372145,
     "wof:name":"Heyuan",
     "wof:parent_id":890514179,
     "wof:placetype":"locality",

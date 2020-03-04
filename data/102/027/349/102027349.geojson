@@ -319,7 +319,8 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1057,
@@ -340,6 +341,10 @@
         "wk:page":"Longyan"
     },
     "wof:country":"CN",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"da623995a178089f93a4a7ece4586028",
     "wof:hierarchy":[
         {
@@ -355,7 +360,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1566655668,
+    "wof:lastmodified":1582372137,
     "wof:name":"Longyan",
     "wof:parent_id":890516203,
     "wof:placetype":"locality",
