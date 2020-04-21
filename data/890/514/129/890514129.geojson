@@ -28,8 +28,17 @@
     "name:cym_x_preferred":[
         "Ardal Putuo"
     ],
+    "name:deu_ch_x_preferred":[
+        "Putuo"
+    ],
     "name:deu_x_preferred":[
         "Putuo"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Putuo District"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Putuo District"
     ],
     "name:eng_x_preferred":[
         "Putuo District"
@@ -48,6 +57,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud478\ud248\uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Putuo"
     ],
     "name:nan_x_preferred":[
         "Ph\u00f3\u0358-t\u00f4-khu"
@@ -79,6 +91,9 @@
     "name:und_x_variant":[
         "P\u2019u-t\u2019o Ch\u2019\u00fc"
     ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u062a\u0648\u0648 \u0636\u0644\u0639\u060c \u0634\u0646\u06af\u06be\u0627\u0626\u06cc"
+    ],
     "name:vie_x_preferred":[
         "Ph\u1ed5 \u0110\u00e0"
     ],
@@ -86,6 +101,24 @@
         "\u666e\u9640\u533a"
     ],
     "name:yue_x_preferred":[
+        "\u666e\u9640\u5340"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u666e\u9640\u533a"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u666e\u9640\u5340"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u666e\u9640\u5340"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u666e\u9640\u533a"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u666e\u9640\u533a"
+    ],
+    "name:zho_tw_x_preferred":[
         "\u666e\u9640\u5340"
     ],
     "name:zho_x_preferred":[
@@ -101,11 +134,11 @@
     "src:population":"geonames",
     "wd:wordcount":1472,
     "wof:belongsto":[
-        85669831,
         102191569,
         85632695,
+        890514815,
         136253041,
-        890514815
+        85669831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -128,7 +161,7 @@
         }
     ],
     "wof:id":890514129,
-    "wof:lastmodified":1566693671,
+    "wof:lastmodified":1587428651,
     "wof:name":"Putuo Qu",
     "wof:parent_id":890514815,
     "wof:placetype":"localadmin",

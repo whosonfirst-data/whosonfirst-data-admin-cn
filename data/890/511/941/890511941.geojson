@@ -25,8 +25,17 @@
     "name:ces_x_preferred":[
         "Wan-\u010dou"
     ],
+    "name:deu_ch_x_preferred":[
+        "Wanzhou"
+    ],
     "name:deu_x_preferred":[
         "Wanzhou"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Wanzhou District"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Wanzhou District"
     ],
     "name:eng_x_historical":[
         "Wanxian County"
@@ -83,6 +92,9 @@
     "name:tur_x_preferred":[
         "Wanzhou"
     ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0646\u0698\u0624 \u0636\u0644\u0639"
+    ],
     "name:vie_x_preferred":[
         "V\u1ea1n Ch\u00e2u"
     ],
@@ -94,6 +106,24 @@
     ],
     "name:yue_x_preferred":[
         "\u842c\u5dde"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4e07\u5dde\u533a"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u842c\u5dde\u5340"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u842c\u5dde\u5340"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u4e07\u5dde\u533a"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u4e07\u5dde\u533a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u842c\u5dde\u5340"
     ],
     "name:zho_x_historical":[
         "W\u00e0nxi\u00e0n",
@@ -117,11 +147,11 @@
     "src:population":"geonames",
     "wd:wordcount":984,
     "wof:belongsto":[
-        85669725,
         102191569,
         85632695,
+        890513063,
         136253041,
-        890513063
+        85669725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -144,7 +174,7 @@
         }
     ],
     "wof:id":890511941,
-    "wof:lastmodified":1566693647,
+    "wof:lastmodified":1587428643,
     "wof:name":"Wanzhou Qu",
     "wof:parent_id":890513063,
     "wof:placetype":"localadmin",
