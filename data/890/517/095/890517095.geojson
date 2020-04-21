@@ -31,8 +31,17 @@
     "name:cym_x_preferred":[
         "Ardal Fengxian"
     ],
+    "name:deu_ch_x_preferred":[
+        "Fengxian"
+    ],
     "name:deu_x_preferred":[
         "Fengxian"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Fengxian District"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Fengxian District"
     ],
     "name:eng_x_preferred":[
         "Fengxian District"
@@ -76,6 +85,9 @@
     "name:und_x_variant":[
         "Feng-hsien Hsien"
     ],
+    "name:urd_x_preferred":[
+        "\u0641\u06cc\u0646\u06af\u0633\u06cc\u0627\u0646 \u0636\u0644\u0639"
+    ],
     "name:vie_x_preferred":[
         "Ph\u1ee5ng Hi\u1ec1n"
     ],
@@ -83,6 +95,24 @@
         "\u5949\u8d24\u533a"
     ],
     "name:yue_x_preferred":[
+        "\u5949\u8ce2\u5340"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5949\u8d24\u533a"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5949\u8ce2\u5340"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u5949\u8ce2\u5340"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u5949\u8d24\u533a"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u5949\u8d24\u533a"
+    ],
+    "name:zho_tw_x_preferred":[
         "\u5949\u8ce2\u5340"
     ],
     "name:zho_x_preferred":[
@@ -98,11 +128,11 @@
     "src:population":"geonames",
     "wd:wordcount":463,
     "wof:belongsto":[
-        85669831,
         102191569,
         85632695,
+        890514815,
         136253041,
-        890514815
+        85669831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +155,7 @@
         }
     ],
     "wof:id":890517095,
-    "wof:lastmodified":1566693592,
+    "wof:lastmodified":1587428639,
     "wof:name":"Fengxian Qu",
     "wof:parent_id":890514815,
     "wof:placetype":"localadmin",

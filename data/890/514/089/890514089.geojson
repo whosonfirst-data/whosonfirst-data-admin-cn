@@ -22,8 +22,17 @@
     "name:cym_x_preferred":[
         "Ardal Yangpu"
     ],
+    "name:deu_ch_x_preferred":[
+        "Yangpu"
+    ],
     "name:deu_x_preferred":[
         "Yangpu"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Yangpu District"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Yangpu District"
     ],
     "name:eng_x_preferred":[
         "Yangpu District"
@@ -85,6 +94,24 @@
     "name:yue_x_preferred":[
         "\u694a\u6d66\u5340"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u6768\u6d66\u533a"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u694a\u6d66\u5340"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u694a\u6d66\u5340"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u6768\u6d66\u533a"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u6768\u6d66\u533a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u694a\u6d66\u5340"
+    ],
     "name:zho_x_preferred":[
         "\u6768\u6d66\u533a"
     ],
@@ -98,11 +125,11 @@
     "src:population":"geonames",
     "wd:wordcount":1098,
     "wof:belongsto":[
-        85669831,
         102191569,
         85632695,
+        890514815,
         136253041,
-        890514815
+        85669831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +152,7 @@
         }
     ],
     "wof:id":890514089,
-    "wof:lastmodified":1566693684,
+    "wof:lastmodified":1587428652,
     "wof:name":"Yangpu Qu",
     "wof:parent_id":890514815,
     "wof:placetype":"localadmin",

@@ -55,7 +55,13 @@
     "name:che_x_preferred":[
         "\u0424\u0443\u0448\u0443\u043d\u044c"
     ],
+    "name:cym_x_preferred":[
+        "Fushun"
+    ],
     "name:dan_x_preferred":[
+        "Fushun"
+    ],
+    "name:deu_ch_x_preferred":[
         "Fushun"
     ],
     "name:deu_x_preferred":[
@@ -63,6 +69,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a6\u03bf\u03c5\u03c3\u03bf\u03cd\u03bd"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Fushun"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Fushun"
     ],
     "name:eng_x_preferred":[
         "Fushun"
@@ -157,6 +169,9 @@
     "name:pol_x_preferred":[
         "Fushun"
     ],
+    "name:por_br_x_preferred":[
+        "Fushun"
+    ],
     "name:por_x_preferred":[
         "Fushun"
     ],
@@ -202,6 +217,9 @@
     "name:urd_x_preferred":[
         "\u0641\u0648\u0634\u0648\u0646"
     ],
+    "name:uzb_x_preferred":[
+        "Fushun"
+    ],
     "name:vie_x_preferred":[
         "Ph\u1ee7 Thu\u1eadn"
     ],
@@ -213,6 +231,24 @@
     ],
     "name:yue_x_preferred":[
         "\u64ab\u9806"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u629a\u987a\u5e02"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u64ab\u9806\u5e02"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u64ab\u9806\u5e02"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u629a\u987a\u5e02"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u629a\u987a\u5e02"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u64ab\u9806\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u629a\u987a\u5e02"
@@ -245,11 +281,11 @@
     "woe:name_adm1":"\u8fbd\u5b81\u7701",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85669807,
         102191569,
         85632695,
+        890513011,
         136253041,
-        890513011
+        85669807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -272,7 +308,7 @@
         }
     ],
     "wof:id":1125822397,
-    "wof:lastmodified":1566693806,
+    "wof:lastmodified":1587428681,
     "wof:name":"\u629a\u987a",
     "wof:parent_id":890513011,
     "wof:placetype":"locality",

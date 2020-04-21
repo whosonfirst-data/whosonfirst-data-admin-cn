@@ -37,6 +37,9 @@
     "name:deu_x_preferred":[
         "Haidian"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03ca\u03bd\u03c4\u03af\u03b1\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Haidian District"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0647\u0627\u06cc\u062f\u06cc\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Haidian"
     ],
     "name:gan_x_preferred":[
         "\u6d77\u6dc0\u533a"
@@ -112,6 +118,24 @@
     "name:yue_x_preferred":[
         "\u6d77\u6fb1\u5340"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u6d77\u6dc0\u533a"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u6d77\u6dc0\u5340"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u6d77\u6dc0\u5340"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u6d77\u6dc0\u533a"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u6d77\u6dc0\u533a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6d77\u6dc0\u5340"
+    ],
     "name:zho_x_preferred":[
         "\u6d77\u6dc0\u533a"
     ],
@@ -126,11 +150,11 @@
     "src:population":"geonames",
     "wd:wordcount":1858,
     "wof:belongsto":[
-        85669727,
         102191569,
         85632695,
+        1108732371,
         136253041,
-        1108732371
+        85669727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -153,7 +177,7 @@
         }
     ],
     "wof:id":890514355,
-    "wof:lastmodified":1566693659,
+    "wof:lastmodified":1587428647,
     "wof:name":"Haidian Qu",
     "wof:parent_id":1108732371,
     "wof:placetype":"localadmin",
