@@ -11,6 +11,12 @@
     "geom:longitude":120.57643,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Wu County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:bbox":"120.47643,31.238096,120.67643,31.438096",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -18,6 +24,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
+        "Wu"
+    ],
+    "name:eng_x_variant":[
         "Wu County"
     ],
     "name:zho_x_preferred":[
@@ -60,8 +69,8 @@
         }
     ],
     "wof:id":890515839,
-    "wof:lastmodified":1601068500,
-    "wof:name":"Wu County",
+    "wof:lastmodified":1601337610,
+    "wof:name":"Wu",
     "wof:parent_id":890515879,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-cn",

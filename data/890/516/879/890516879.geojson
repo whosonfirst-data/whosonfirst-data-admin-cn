@@ -11,6 +11,12 @@
     "geom:longitude":107.150001,
     "gp:adm0":23424781,
     "iso:country":"CN",
+    "label:eng_x_preferred_longname":[
+        "Baoji County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:bbox":"107.050001,34.280901,107.250001,34.480901",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -18,6 +24,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
+        "Baoji"
+    ],
+    "name:eng_x_variant":[
         "Baoji County"
     ],
     "name:zho_x_preferred":[
@@ -60,8 +69,8 @@
         }
     ],
     "wof:id":890516879,
-    "wof:lastmodified":1601068501,
-    "wof:name":"Baoji County",
+    "wof:lastmodified":1601337610,
+    "wof:name":"Baoji",
     "wof:parent_id":890516525,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-cn",
