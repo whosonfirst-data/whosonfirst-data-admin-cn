@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"113.43,22.3556255,113.43,22.3556255",
+    "geom:bbox":"113.43,22.355625,113.43,22.355625",
     "geom:latitude":22.355625,
     "geom:longitude":113.43,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669743,
         102191569,
         85632695,
+        890516323,
         136253041,
-        890516323
+        85669743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055881,
-    "wof:geomhash":"f59e16a934a776dfd64926ad74e92493",
+    "wof:geomhash":"e6b62683f8bc322b76b21efab2397aaf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890514905,
-    "wof:lastmodified":1601068497,
+    "wof:lastmodified":1601423046,
     "wof:name":"Sanxiang",
     "wof:parent_id":890516323,
     "wof:placetype":"locality",
@@ -71,9 +71,9 @@
 },
   "bbox": [
     113.43,
-    22.3556255,
+    22.355625,
     113.43,
-    22.3556255
+    22.355625
 ],
-  "geometry": {"coordinates":[113.43000000000001,22.3556255],"type":"Point"}
+  "geometry": {"coordinates":[113.43000000000001,22.355625],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"124.0957285,39.854166,124.0957285,39.854166",
+    "geom:bbox":"124.095729,39.854166,124.095729,39.854166",
     "geom:latitude":39.854166,
     "geom:longitude":124.095729,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669807,
         102191569,
         85632695,
+        890514725,
         136253041,
-        890514725
+        85669807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055819,
-    "wof:geomhash":"f67cc99fb5804df0b54ad1d3d4fb1fac",
+    "wof:geomhash":"6c98571cf2637413e63935a749b37c0d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890513515,
-    "wof:lastmodified":1601068497,
+    "wof:lastmodified":1601422990,
     "wof:name":"Donggang",
     "wof:parent_id":890514725,
     "wof:placetype":"localadmin",
@@ -70,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.0957285,
+    124.095729,
     39.854166,
-    124.0957285,
+    124.095729,
     39.854166
 ],
-  "geometry": {"coordinates":[124.09572850000001,39.854166],"type":"Point"}
+  "geometry": {"coordinates":[124.09572900000001,39.854166],"type":"Point"}
 }

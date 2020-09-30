@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"119.5687195,31.992936,119.5687195,31.992936",
+    "geom:bbox":"119.56872,31.992936,119.56872,31.992936",
     "geom:latitude":31.992936,
     "geom:longitude":119.56872,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669827,
         102191569,
         85632695,
+        1108732521,
         136253041,
-        1108732521
+        85669827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055879,
-    "wof:geomhash":"b327d1de0b422f09a843cc409ab68857",
+    "wof:geomhash":"18196f67bc92d3bf106d8ab026920196",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890514827,
-    "wof:lastmodified":1601068498,
+    "wof:lastmodified":1601422987,
     "wof:name":"Danyang",
     "wof:parent_id":1108732521,
     "wof:placetype":"localadmin",
@@ -70,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    119.5687195,
+    119.56872,
     31.992936,
-    119.5687195,
+    119.56872,
     31.992936
 ],
-  "geometry": {"coordinates":[119.5687195,31.992936],"type":"Point"}
+  "geometry": {"coordinates":[119.56872,31.992936],"type":"Point"}
 }

@@ -11,12 +11,6 @@
     "geom:longitude":110.170555,
     "gp:adm0":23424781,
     "iso:country":"CN",
-    "label:eng_x_preferred_longname":[
-        "Xuwen County"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "county"
-    ],
     "lbl:bbox":"110.070555,20.231575,110.270555,20.431575",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -44,11 +38,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669743,
         102191569,
         85632695,
+        890514753,
         136253041,
-        890514753
+        85669743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +63,7 @@
         }
     ],
     "wof:id":890514947,
-    "wof:lastmodified":1601337610,
+    "wof:lastmodified":1601423071,
     "wof:name":"Xuwen",
     "wof:parent_id":890514753,
     "wof:placetype":"localadmin",

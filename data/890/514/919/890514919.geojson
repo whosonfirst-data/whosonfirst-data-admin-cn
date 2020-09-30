@@ -11,12 +11,6 @@
     "geom:longitude":82.927379,
     "gp:adm0":23424781,
     "iso:country":"CN",
-    "label:eng_x_preferred_longname":[
-        "Kuqa County"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "county"
-    ],
     "lbl:bbox":"82.827379,41.621618,83.027379,41.821618",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -44,11 +38,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669753,
         102191569,
         85632695,
+        1108732529,
         136253041,
-        1108732529
+        85669753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +63,7 @@
         }
     ],
     "wof:id":890514919,
-    "wof:lastmodified":1601337610,
+    "wof:lastmodified":1601423019,
     "wof:name":"Kuqa",
     "wof:parent_id":1108732529,
     "wof:placetype":"localadmin",

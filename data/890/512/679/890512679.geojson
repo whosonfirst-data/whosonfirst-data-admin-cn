@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.4243995,37.365608,120.4243995,37.365608",
+    "geom:bbox":"120.4244,37.365608,120.4244,37.365608",
     "geom:latitude":37.365608,
     "geom:longitude":120.4244,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669813,
         102191569,
         85632695,
+        890516301,
         136253041,
-        890516301
+        85669813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055780,
-    "wof:geomhash":"32b110cbde9674b725533ab4aed29f27",
+    "wof:geomhash":"eef11f511b6da6260cfe31cc62697837",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890512679,
-    "wof:lastmodified":1601068504,
+    "wof:lastmodified":1601423077,
     "wof:name":"Zhaoyuan",
     "wof:parent_id":890516301,
     "wof:placetype":"localadmin",
@@ -70,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.42439950000002,
+    120.4244,
     37.365608,
-    120.42439950000002,
+    120.4244,
     37.365608
 ],
-  "geometry": {"coordinates":[120.42439950000002,37.365608],"type":"Point"}
+  "geometry": {"coordinates":[120.42440000000001,37.365608],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"108.032598,30.2944745,108.032598,30.2944745",
+    "geom:bbox":"108.032598,30.294474,108.032598,30.294474",
     "geom:latitude":30.294474,
     "geom:longitude":108.032598,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669725,
         102191569,
         85632695,
+        890513063,
         136253041,
-        890513063
+        85669725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055954,
-    "wof:geomhash":"cb862866c88cd59148d4bef9bcd179f1",
+    "wof:geomhash":"486c2867a6f447f72426eab0a3193d65",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890516357,
-    "wof:lastmodified":1601068503,
+    "wof:lastmodified":1601423081,
     "wof:name":"Zhongzhou",
     "wof:parent_id":890513063,
     "wof:placetype":"locality",
@@ -71,9 +71,9 @@
 },
   "bbox": [
     108.032598,
-    30.2944745,
+    30.294474,
     108.032598,
-    30.2944745
+    30.294474
 ],
-  "geometry": {"coordinates":[108.03259799999999,30.2944745],"type":"Point"}
+  "geometry": {"coordinates":[108.03259799999999,30.294474],"type":"Point"}
 }

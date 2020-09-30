@@ -6,17 +6,11 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"116.7951675,24.808172,116.7951675,24.808172",
+    "geom:bbox":"116.795168,24.808172,116.795168,24.808172",
     "geom:latitude":24.808172,
     "geom:longitude":116.795168,
     "gp:adm0":23424781,
     "iso:country":"CN",
-    "label:eng_x_preferred_longname":[
-        "Yongding County"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "county"
-    ],
     "lbl:bbox":"116.6951675,24.708172,116.8951675,24.908172",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -44,11 +38,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669735,
         102191569,
         85632695,
+        890516203,
         136253041,
-        890516203
+        85669735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +51,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055948,
-    "wof:geomhash":"485b6554f606dc384ec7c44e0ec9a148",
+    "wof:geomhash":"b20da11118d725dea519efd31aeed0d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,7 +63,7 @@
         }
     ],
     "wof:id":890516211,
-    "wof:lastmodified":1601337610,
+    "wof:lastmodified":1601423074,
     "wof:name":"Yongding",
     "wof:parent_id":890516203,
     "wof:placetype":"localadmin",
@@ -79,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    116.7951675,
+    116.795168,
     24.808172,
-    116.7951675,
+    116.795168,
     24.808172
 ],
-  "geometry": {"coordinates":[116.79516750000001,24.808172],"type":"Point"}
+  "geometry": {"coordinates":[116.795168,24.808172],"type":"Point"}
 }

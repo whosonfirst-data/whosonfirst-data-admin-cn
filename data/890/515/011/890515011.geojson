@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"113.658714,34.7616045,113.658714,34.7616045",
+    "geom:bbox":"113.658714,34.761604,113.658714,34.761604",
     "geom:latitude":34.761604,
     "geom:longitude":113.658714,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669801,
         102191569,
         85632695,
+        890515627,
         136253041,
-        890515627
+        85669801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055886,
-    "wof:geomhash":"ba7974beae3debf5213403a2f8907dae",
+    "wof:geomhash":"4dfe2153ee9a343945f4054957b37785",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890515011,
-    "wof:lastmodified":1601068510,
+    "wof:lastmodified":1601423078,
     "wof:name":"Zhengzhou",
     "wof:parent_id":890515627,
     "wof:placetype":"localadmin",
@@ -71,9 +71,9 @@
 },
   "bbox": [
     113.658714,
-    34.7616045,
+    34.761604,
     113.658714,
-    34.7616045
+    34.761604
 ],
-  "geometry": {"coordinates":[113.658714,34.7616045],"type":"Point"}
+  "geometry": {"coordinates":[113.658714,34.761604],"type":"Point"}
 }

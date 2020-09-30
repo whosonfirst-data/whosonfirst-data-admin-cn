@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"118.00106,24.4744935,118.00106,24.4744935",
+    "geom:bbox":"118.00106,24.474494,118.00106,24.474494",
     "geom:latitude":24.474494,
     "geom:longitude":118.00106,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669735,
         102191569,
         85632695,
+        1108732375,
         136253041,
-        1108732375
+        85669735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055881,
-    "wof:geomhash":"97f291dd6babbcf539d21f75f222b427",
+    "wof:geomhash":"3ccc46dbe3a5396c671c21ab41954849",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890514895,
-    "wof:lastmodified":1601068505,
+    "wof:lastmodified":1601423053,
     "wof:name":"Songyu",
     "wof:parent_id":1108732375,
     "wof:placetype":"locality",
@@ -71,9 +71,9 @@
 },
   "bbox": [
     118.00106,
-    24.4744935,
+    24.474494,
     118.00106,
-    24.4744935
+    24.474494
 ],
-  "geometry": {"coordinates":[118.00106,24.4744935],"type":"Point"}
+  "geometry": {"coordinates":[118.00106,24.474494],"type":"Point"}
 }

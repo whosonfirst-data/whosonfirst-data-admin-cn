@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"119.101196,36.7139805,119.101196,36.7139805",
+    "geom:bbox":"119.101196,36.71398,119.101196,36.71398",
     "geom:latitude":36.71398,
     "geom:longitude":119.101196,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669813,
         102191569,
         85632695,
+        890514755,
         136253041,
-        890514755
+        85669813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055974,
-    "wof:geomhash":"b253755bb64bbe62d67eb93bb143f2d2",
+    "wof:geomhash":"1b077a6dc26ce2dca1e5e136893fe2c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890516773,
-    "wof:lastmodified":1601068507,
+    "wof:lastmodified":1601423062,
     "wof:name":"Weifang",
     "wof:parent_id":890514755,
     "wof:placetype":"localadmin",
@@ -71,9 +71,9 @@
 },
   "bbox": [
     119.101196,
-    36.7139805,
+    36.71398,
     119.101196,
-    36.7139805
+    36.71398
 ],
-  "geometry": {"coordinates":[119.101196,36.7139805],"type":"Point"}
+  "geometry": {"coordinates":[119.101196,36.71398],"type":"Point"}
 }

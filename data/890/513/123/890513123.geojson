@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"91.1200425,30.5391085,91.1200425,30.5391085",
+    "geom:bbox":"91.120042,30.539109,91.120042,30.539109",
     "geom:latitude":30.539109,
     "geom:longitude":91.120042,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669747,
         102191569,
         85632695,
+        890515877,
         136253041,
-        890515877
+        85669747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055802,
-    "wof:geomhash":"c14ebd29e5b3c67606ec18007ed6603c",
+    "wof:geomhash":"4340832a2a3e7ab1d8ed66a7294510f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890513123,
-    "wof:lastmodified":1601068503,
+    "wof:lastmodified":1601422987,
     "wof:name":"Dangxiong",
     "wof:parent_id":890515877,
     "wof:placetype":"locality",
@@ -70,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    91.1200425,
-    30.5391085,
-    91.1200425,
-    30.5391085
+    91.120042,
+    30.539109,
+    91.120042,
+    30.539109
 ],
-  "geometry": {"coordinates":[91.1200425,30.5391085],"type":"Point"}
+  "geometry": {"coordinates":[91.120042,30.539109],"type":"Point"}
 }

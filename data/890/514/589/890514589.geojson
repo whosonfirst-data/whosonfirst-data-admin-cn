@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"109.940185,27.5469365,109.940185,27.5469365",
+    "geom:bbox":"109.940185,27.546937,109.940185,27.546937",
     "geom:latitude":27.546937,
     "geom:longitude":109.940185,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669781,
         102191569,
         85632695,
+        890514349,
         136253041,
-        890514349
+        85669781
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055867,
-    "wof:geomhash":"58e4fec92db1915d81717f5154ecc9c9",
+    "wof:geomhash":"0e0f45a2a91c28a54d001efa70ef56f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890514589,
-    "wof:lastmodified":1601068503,
+    "wof:lastmodified":1601423005,
     "wof:name":"Huaihua",
     "wof:parent_id":890514349,
     "wof:placetype":"localadmin",
@@ -71,9 +71,9 @@
 },
   "bbox": [
     109.940185,
-    27.5469365,
+    27.546937,
     109.940185,
-    27.5469365
+    27.546937
 ],
-  "geometry": {"coordinates":[109.940185,27.5469365],"type":"Point"}
+  "geometry": {"coordinates":[109.940185,27.546937],"type":"Point"}
 }

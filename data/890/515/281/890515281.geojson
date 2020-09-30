@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"122.6264995,45.503833,122.6264995,45.503833",
+    "geom:bbox":"122.626499,45.503833,122.626499,45.503833",
     "geom:latitude":45.503833,
     "geom:longitude":122.626499,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669843,
         102191569,
         85632695,
+        890512869,
         136253041,
-        890512869
+        85669843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055900,
-    "wof:geomhash":"6320d8511c47aaf49827d7f68312182d",
+    "wof:geomhash":"ce37e6c7c675e517932abdda3c7b066b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890515281,
-    "wof:lastmodified":1601068506,
+    "wof:lastmodified":1601423056,
     "wof:name":"Taonan",
     "wof:parent_id":890512869,
     "wof:placetype":"localadmin",
@@ -70,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    122.6264995,
+    122.626499,
     45.503833,
-    122.6264995,
+    122.626499,
     45.503833
 ],
-  "geometry": {"coordinates":[122.62649949999999,45.503833],"type":"Point"}
+  "geometry": {"coordinates":[122.626499,45.503833],"type":"Point"}
 }

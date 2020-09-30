@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.2482235,30.2647385,121.2482235,30.2647385",
+    "geom:bbox":"121.248223,30.264738,121.248223,30.264738",
     "geom:latitude":30.264738,
     "geom:longitude":121.248223,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669835,
         102191569,
         85632695,
+        890516553,
         136253041,
-        890516553
+        85669835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +52,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055906,
-    "wof:geomhash":"faf0ab163116288f9da62aef7ca62fc8",
+    "wof:geomhash":"653f12758bfb1c43eb9927515df05863",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":890515429,
-    "wof:lastmodified":1601068503,
+    "wof:lastmodified":1601422975,
     "wof:name":"Andong",
     "wof:parent_id":890516553,
     "wof:placetype":"locality",
@@ -76,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    121.2482235,
-    30.2647385,
-    121.2482235,
-    30.2647385
+    121.248223,
+    30.264738,
+    121.248223,
+    30.264738
 ],
-  "geometry": {"coordinates":[121.24822349999999,30.2647385],"type":"Point"}
+  "geometry": {"coordinates":[121.248223,30.264738],"type":"Point"}
 }

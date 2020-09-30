@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.224789,30.3034615,120.224789,30.3034615",
+    "geom:bbox":"120.224789,30.303462,120.224789,30.303462",
     "geom:latitude":30.303462,
     "geom:longitude":120.224789,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669835,
         102191569,
         85632695,
+        890516555,
         136253041,
-        890516555
+        85669835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055878,
-    "wof:geomhash":"8b48f126e96a737f90aa7c48ade1ed0b",
+    "wof:geomhash":"374cdaee0711380bb6e56ad196fbf8ce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890514807,
-    "wof:lastmodified":1601068503,
+    "wof:lastmodified":1601423040,
     "wof:name":"Pengbu",
     "wof:parent_id":890516555,
     "wof:placetype":"locality",
@@ -71,9 +71,9 @@
 },
   "bbox": [
     120.224789,
-    30.3034615,
+    30.303462,
     120.224789,
-    30.3034615
+    30.303462
 ],
-  "geometry": {"coordinates":[120.224789,30.3034615],"type":"Point"}
+  "geometry": {"coordinates":[120.224789,30.303462],"type":"Point"}
 }

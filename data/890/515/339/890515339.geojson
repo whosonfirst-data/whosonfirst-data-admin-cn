@@ -11,12 +11,6 @@
     "geom:longitude":103.380575,
     "gp:adm0":23424781,
     "iso:country":"CN",
-    "label:eng_x_preferred_longname":[
-        "Mengzi County"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "county"
-    ],
     "lbl:bbox":"103.280575,23.269992,103.480575,23.469992",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -44,11 +38,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669791,
         102191569,
         85632695,
+        1108794063,
         136253041,
-        1108794063
+        85669791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +63,7 @@
         }
     ],
     "wof:id":890515339,
-    "wof:lastmodified":1601337610,
+    "wof:lastmodified":1601423027,
     "wof:name":"Mengzi",
     "wof:parent_id":1108794063,
     "wof:placetype":"localadmin",

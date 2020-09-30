@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"86.1347575,41.757867,86.1347575,41.757867",
+    "geom:bbox":"86.134758,41.757867,86.134758,41.757867",
     "geom:latitude":41.757867,
     "geom:longitude":86.134758,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669753,
         102191569,
         85632695,
+        1108732417,
         136253041,
-        1108732417
+        85669753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055805,
-    "wof:geomhash":"25e025f1c9142d43ec795f2ff0001b38",
+    "wof:geomhash":"b0fcf5c565561e87d7bc37538f88c919",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890513191,
-    "wof:lastmodified":1601068502,
+    "wof:lastmodified":1601423018,
     "wof:name":"Korla",
     "wof:parent_id":1108732417,
     "wof:placetype":"localadmin",
@@ -70,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    86.1347575,
+    86.134758,
     41.757867,
-    86.1347575,
+    86.134758,
     41.757867
 ],
-  "geometry": {"coordinates":[86.13475750000001,41.757867],"type":"Point"}
+  "geometry": {"coordinates":[86.13475800000001,41.757867],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.6580845,27.7816565,120.6580845,27.7816565",
+    "geom:bbox":"120.658084,27.781657,120.658084,27.781657",
     "geom:latitude":27.781657,
     "geom:longitude":120.658084,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669835,
         102191569,
         85632695,
+        890514289,
         136253041,
-        890514289
+        85669835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055928,
-    "wof:geomhash":"9052069609038383e17d3555f94980fb",
+    "wof:geomhash":"2854891355bb3e351d9956bbfc710e15",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890515711,
-    "wof:lastmodified":1601068508,
+    "wof:lastmodified":1601423044,
     "wof:name":"Ruian",
     "wof:parent_id":890514289,
     "wof:placetype":"localadmin",
@@ -70,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.65808449999999,
-    27.7816565,
-    120.65808449999999,
-    27.7816565
+    120.658084,
+    27.781657,
+    120.658084,
+    27.781657
 ],
-  "geometry": {"coordinates":[120.65808449999999,27.7816565],"type":"Point"}
+  "geometry": {"coordinates":[120.658084,27.781657],"type":"Point"}
 }

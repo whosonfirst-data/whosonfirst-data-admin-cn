@@ -11,12 +11,6 @@
     "geom:longitude":104.611816,
     "gp:adm0":23424781,
     "iso:country":"CN",
-    "label:eng_x_preferred_longname":[
-        "Yibin County"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "county"
-    ],
     "lbl:bbox":"104.511816,28.669163,104.711816,28.869163",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -44,11 +38,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669787,
         102191569,
         85632695,
+        890516537,
         136253041,
-        890516537
+        85669787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +63,7 @@
         }
     ],
     "wof:id":890513243,
-    "wof:lastmodified":1601337610,
+    "wof:lastmodified":1601423073,
     "wof:name":"Yibin",
     "wof:parent_id":890516537,
     "wof:placetype":"localadmin",

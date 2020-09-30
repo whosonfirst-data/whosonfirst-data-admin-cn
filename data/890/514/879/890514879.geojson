@@ -11,12 +11,6 @@
     "geom:longitude":115.174333,
     "gp:adm0":23424781,
     "iso:country":"CN",
-    "label:eng_x_preferred_longname":[
-        "Nanle County"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "county"
-    ],
     "lbl:bbox":"115.074333,36.012,115.274333,36.212",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -44,11 +38,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669801,
         102191569,
         85632695,
+        890514079,
         136253041,
-        890514079
+        85669801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +63,7 @@
         }
     ],
     "wof:id":890514879,
-    "wof:lastmodified":1601337610,
+    "wof:lastmodified":1601423033,
     "wof:name":"Nanle",
     "wof:parent_id":890514079,
     "wof:placetype":"localadmin",

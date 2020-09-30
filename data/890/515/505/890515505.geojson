@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"119.6689105,25.933655,119.6689105,25.933655",
+    "geom:bbox":"119.66891,25.933655,119.66891,25.933655",
     "geom:latitude":25.933655,
     "geom:longitude":119.66891,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669735,
         102191569,
         85632695,
+        890516575,
         136253041,
-        890516575
+        85669735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055909,
-    "wof:geomhash":"ef8350b3404f0fd3688c26883865a5c2",
+    "wof:geomhash":"49eef339cb44810edb3a59a8b4d259be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890515505,
-    "wof:lastmodified":1601068505,
+    "wof:lastmodified":1601423064,
     "wof:name":"Wuhang",
     "wof:parent_id":890516575,
     "wof:placetype":"locality",
@@ -70,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    119.66891049999998,
+    119.66891,
     25.933655,
-    119.66891049999998,
+    119.66891,
     25.933655
 ],
-  "geometry": {"coordinates":[119.66891049999998,25.933655],"type":"Point"}
+  "geometry": {"coordinates":[119.66891,25.933655],"type":"Point"}
 }

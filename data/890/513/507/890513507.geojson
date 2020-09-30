@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"111.1999735,34.784994,111.1999735,34.784994",
+    "geom:bbox":"111.199973,34.784994,111.199973,34.784994",
     "geom:latitude":34.784994,
     "geom:longitude":111.199973,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669801,
         102191569,
         85632695,
+        890517009,
         136253041,
-        890517009
+        85669801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055819,
-    "wof:geomhash":"20c490c9246ccbbf0815274c32e59d41",
+    "wof:geomhash":"fba4aa5ea3a73278acd11888008116dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890513507,
-    "wof:lastmodified":1601068497,
+    "wof:lastmodified":1601423046,
     "wof:name":"Sanmenxia",
     "wof:parent_id":890517009,
     "wof:placetype":"localadmin",
@@ -70,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.1999735,
+    111.199973,
     34.784994,
-    111.1999735,
+    111.199973,
     34.784994
 ],
-  "geometry": {"coordinates":[111.1999735,34.784994],"type":"Point"}
+  "geometry": {"coordinates":[111.199973,34.784994],"type":"Point"}
 }

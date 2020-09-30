@@ -11,12 +11,6 @@
     "geom:longitude":120.825748,
     "gp:adm0":23424781,
     "iso:country":"CN",
-    "label:eng_x_preferred_longname":[
-        "Sheng County"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "county"
-    ],
     "lbl:bbox":"120.725748,29.495923,120.925748,29.695923",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -44,11 +38,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669835,
         102191569,
         85632695,
+        890513785,
         136253041,
-        890513785
+        85669835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +63,7 @@
         }
     ],
     "wof:id":890515487,
-    "wof:lastmodified":1601337610,
+    "wof:lastmodified":1601423048,
     "wof:name":"Sheng",
     "wof:parent_id":890513785,
     "wof:placetype":"localadmin",

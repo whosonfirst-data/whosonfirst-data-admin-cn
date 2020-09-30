@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"117.7090865,39.027185,117.7090865,39.027185",
+    "geom:bbox":"117.709086,39.027185,117.709086,39.027185",
     "geom:latitude":39.027185,
     "geom:longitude":117.709086,
     "gp:adm0":23424781,
@@ -38,11 +38,11 @@
         "quattroshapes_pg"
     ],
     "wof:belongsto":[
-        85669817,
         102191569,
         85632695,
+        890513813,
         136253041,
-        890513813
+        85669817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +57,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"98c4d756c7d97acb222f7f5fe7a4a093",
+    "wof:geomhash":"b43695ee1e505baa4b112d6cabedc738",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":890513247,
-    "wof:lastmodified":1601068501,
+    "wof:lastmodified":1601423057,
     "wof:name":"Tianjin",
     "wof:parent_id":890513813,
     "wof:placetype":"localadmin",
@@ -79,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    117.7090865,
+    117.709086,
     39.027185,
-    117.7090865,
+    117.709086,
     39.027185
 ],
-  "geometry": {"coordinates":[117.7090865,39.027185],"type":"Point"}
+  "geometry": {"coordinates":[117.709086,39.027185],"type":"Point"}
 }

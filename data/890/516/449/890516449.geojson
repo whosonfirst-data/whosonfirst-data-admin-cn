@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"116.058807,43.9377085,116.058807,43.9377085",
+    "geom:bbox":"116.058807,43.937708,116.058807,43.937708",
     "geom:latitude":43.937708,
     "geom:longitude":116.058807,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669847,
         102191569,
         85632695,
+        1108732519,
         136253041,
-        1108732519
+        85669847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055959,
-    "wof:geomhash":"073c7e907d3f7240a5bc1d8b735aeff2",
+    "wof:geomhash":"f8de2ce57467f1aa92edfbab0c5d1929",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890516449,
-    "wof:lastmodified":1601068511,
+    "wof:lastmodified":1601423067,
     "wof:name":"Xilinhot",
     "wof:parent_id":1108732519,
     "wof:placetype":"localadmin",
@@ -71,9 +71,9 @@
 },
   "bbox": [
     116.058807,
-    43.9377085,
+    43.937708,
     116.058807,
-    43.9377085
+    43.937708
 ],
-  "geometry": {"coordinates":[116.058807,43.9377085],"type":"Point"}
+  "geometry": {"coordinates":[116.058807,43.937708],"type":"Point"}
 }

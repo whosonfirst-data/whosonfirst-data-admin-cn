@@ -11,12 +11,6 @@
     "geom:longitude":98.489513,
     "gp:adm0":23424781,
     "iso:country":"CN",
-    "label:eng_x_preferred_longname":[
-        "Tengchong County"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "county"
-    ],
     "lbl:bbox":"98.389513,24.927672,98.589513,25.127672",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -44,11 +38,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669791,
         102191569,
         85632695,
+        890514251,
         136253041,
-        890514251
+        85669791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +63,7 @@
         }
     ],
     "wof:id":890513417,
-    "wof:lastmodified":1601337610,
+    "wof:lastmodified":1601423057,
     "wof:name":"Tengchong",
     "wof:parent_id":890514251,
     "wof:placetype":"localadmin",

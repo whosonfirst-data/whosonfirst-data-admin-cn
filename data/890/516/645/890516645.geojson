@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"106.279146,38.4643285,106.279146,38.4643285",
+    "geom:bbox":"106.279146,38.464329,106.279146,38.464329",
     "geom:latitude":38.464329,
     "geom:longitude":106.279146,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669763,
         102191569,
         85632695,
+        1108732517,
         136253041,
-        1108732517
+        85669763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055966,
-    "wof:geomhash":"6ea62a9e710dcd320a6552abc0a4d25c",
+    "wof:geomhash":"6c64c0db82713e8d0d17c27038580def",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890516645,
-    "wof:lastmodified":1601068511,
+    "wof:lastmodified":1601423073,
     "wof:name":"Yinchuan",
     "wof:parent_id":1108732517,
     "wof:placetype":"locality",
@@ -71,9 +71,9 @@
 },
   "bbox": [
     106.279146,
-    38.4643285,
+    38.464329,
     106.279146,
-    38.4643285
+    38.464329
 ],
-  "geometry": {"coordinates":[106.279146,38.4643285],"type":"Point"}
+  "geometry": {"coordinates":[106.279146,38.464329],"type":"Point"}
 }

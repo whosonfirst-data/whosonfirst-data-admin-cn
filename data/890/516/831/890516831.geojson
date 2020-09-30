@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.158516,40.9110635,85.158516,40.9110635",
+    "geom:bbox":"85.158516,40.911063,85.158516,40.911063",
     "geom:latitude":40.911063,
     "geom:longitude":85.158516,
     "gp:adm0":23424856,
@@ -35,11 +35,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669753,
         102191569,
         85632695,
+        1108732417,
         136253041,
-        1108732417
+        85669753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055977,
-    "wof:geomhash":"3f79a23cdc24cada48a4baa09b6f220d",
+    "wof:geomhash":"b2d7bf4396289f5a85444b377c8e83dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890516831,
-    "wof:lastmodified":1601068506,
+    "wof:lastmodified":1601423047,
     "wof:name":"Sengendai",
     "wof:parent_id":1108732417,
     "wof:placetype":"localadmin",
@@ -71,9 +71,9 @@
 },
   "bbox": [
     85.158516,
-    40.9110635,
+    40.911063,
     85.158516,
-    40.9110635
+    40.911063
 ],
-  "geometry": {"coordinates":[85.15851600000001,40.9110635],"type":"Point"}
+  "geometry": {"coordinates":[85.15851600000001,40.911063],"type":"Point"}
 }

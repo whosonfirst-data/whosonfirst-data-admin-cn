@@ -11,12 +11,6 @@
     "geom:longitude":104.197802,
     "gp:adm0":23424781,
     "iso:country":"CN",
-    "label:eng_x_preferred_longname":[
-        "Weiyuan County"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "county"
-    ],
     "lbl:bbox":"104.097802,35.02963,104.297802,35.22963",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -44,11 +38,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669711,
         102191569,
         85632695,
+        890516337,
         136253041,
-        890516337
+        85669711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +63,7 @@
         }
     ],
     "wof:id":890513067,
-    "wof:lastmodified":1601337610,
+    "wof:lastmodified":1601423063,
     "wof:name":"Weiyuan",
     "wof:parent_id":890516337,
     "wof:placetype":"localadmin",

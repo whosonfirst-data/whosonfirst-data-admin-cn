@@ -11,12 +11,6 @@
     "geom:longitude":109.011154,
     "gp:adm0":23424781,
     "iso:country":"CN",
-    "label:eng_x_preferred_longname":[
-        "Gaoling County"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "county"
-    ],
     "lbl:bbox":"108.911154,34.217919,109.111154,34.417919",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -44,11 +38,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669769,
         102191569,
         85632695,
+        890515687,
         136253041,
-        890515687
+        85669769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +63,7 @@
         }
     ],
     "wof:id":890513221,
-    "wof:lastmodified":1601337611,
+    "wof:lastmodified":1601422997,
     "wof:name":"Gaoling",
     "wof:parent_id":890515687,
     "wof:placetype":"localadmin",

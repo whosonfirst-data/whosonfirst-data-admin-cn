@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.1906845,30.1934155,120.1906845,30.1934155",
+    "geom:bbox":"120.190685,30.193416,120.190685,30.193416",
     "geom:latitude":30.193416,
     "geom:longitude":120.190685,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669835,
         102191569,
         85632695,
+        890516555,
         136253041,
-        890516555
+        85669835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055889,
-    "wof:geomhash":"0220d0e16aca48513b91f428fcc6cd96",
+    "wof:geomhash":"53b42bf9790e0ef647d41932b3ec7da6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890515091,
-    "wof:lastmodified":1601068509,
+    "wof:lastmodified":1601423071,
     "wof:name":"Xixing",
     "wof:parent_id":890516555,
     "wof:placetype":"locality",
@@ -70,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.1906845,
-    30.1934155,
-    120.1906845,
-    30.1934155
+    120.190685,
+    30.193416,
+    120.190685,
+    30.193416
 ],
-  "geometry": {"coordinates":[120.1906845,30.1934155],"type":"Point"}
+  "geometry": {"coordinates":[120.190685,30.193416],"type":"Point"}
 }

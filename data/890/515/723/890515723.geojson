@@ -11,12 +11,6 @@
     "geom:longitude":112.175941,
     "gp:adm0":23424781,
     "iso:country":"CN",
-    "label:eng_x_preferred_longname":[
-        "Pingyao County"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "county"
-    ],
     "lbl:bbox":"112.075941,37.103808,112.275941,37.303808",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -44,11 +38,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669773,
         102191569,
         85632695,
+        890513369,
         136253041,
-        890513369
+        85669773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +63,7 @@
         }
     ],
     "wof:id":890515723,
-    "wof:lastmodified":1601337610,
+    "wof:lastmodified":1601423040,
     "wof:name":"Pingyao",
     "wof:parent_id":890513369,
     "wof:placetype":"localadmin",

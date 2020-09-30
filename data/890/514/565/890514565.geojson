@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"116.610528,23.1831805,116.610528,23.1831805",
+    "geom:bbox":"116.610528,23.18318,116.610528,23.18318",
     "geom:latitude":23.18318,
     "geom:longitude":116.610528,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669743,
         102191569,
         85632695,
+        1108732449,
         136253041,
-        1108732449
+        85669743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055866,
-    "wof:geomhash":"e258639df21a8476f98762fc061bea2d",
+    "wof:geomhash":"ee2e1f3df261389c044ebd93a3839fae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890514565,
-    "wof:lastmodified":1601068506,
+    "wof:lastmodified":1601423001,
     "wof:name":"Haimen",
     "wof:parent_id":1108732449,
     "wof:placetype":"locality",
@@ -71,9 +71,9 @@
 },
   "bbox": [
     116.610528,
-    23.1831805,
+    23.18318,
     116.610528,
-    23.1831805
+    23.18318
 ],
-  "geometry": {"coordinates":[116.610528,23.1831805],"type":"Point"}
+  "geometry": {"coordinates":[116.610528,23.18318],"type":"Point"}
 }

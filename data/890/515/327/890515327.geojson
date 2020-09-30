@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"103.60721,31.0019635,103.60721,31.0019635",
+    "geom:bbox":"103.60721,31.001963,103.60721,31.001963",
     "geom:latitude":31.001963,
     "geom:longitude":103.60721,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669787,
         102191569,
         85632695,
+        890516567,
         136253041,
-        890516567
+        85669787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055903,
-    "wof:geomhash":"093946a19ed79576a4b4194ff6298417",
+    "wof:geomhash":"148edd516a249d5e288ef3cafcaa5a33",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890515327,
-    "wof:lastmodified":1601068510,
+    "wof:lastmodified":1601422991,
     "wof:name":"Dujiangyan",
     "wof:parent_id":890516567,
     "wof:placetype":"localadmin",
@@ -71,9 +71,9 @@
 },
   "bbox": [
     103.60721,
-    31.0019635,
+    31.001963,
     103.60721,
-    31.0019635
+    31.001963
 ],
-  "geometry": {"coordinates":[103.60720999999999,31.0019635],"type":"Point"}
+  "geometry": {"coordinates":[103.60720999999999,31.001963],"type":"Point"}
 }

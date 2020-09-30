@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"103.791961,25.4900015,103.791961,25.4900015",
+    "geom:bbox":"103.791961,25.490002,103.791961,25.490002",
     "geom:latitude":25.490002,
     "geom:longitude":103.791961,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669791,
         102191569,
         85632695,
+        890515167,
         136253041,
-        890515167
+        85669791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055904,
-    "wof:geomhash":"fbf473769e4128d71e1b14b2f9461f7a",
+    "wof:geomhash":"396d8d825446b6d993df92bb7b0bf127",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890515373,
-    "wof:lastmodified":1601068504,
+    "wof:lastmodified":1601423042,
     "wof:name":"Qujing",
     "wof:parent_id":890515167,
     "wof:placetype":"localadmin",
@@ -71,9 +71,9 @@
 },
   "bbox": [
     103.791961,
-    25.4900015,
+    25.490002,
     103.791961,
-    25.4900015
+    25.490002
 ],
-  "geometry": {"coordinates":[103.791961,25.4900015],"type":"Point"}
+  "geometry": {"coordinates":[103.791961,25.490002],"type":"Point"}
 }

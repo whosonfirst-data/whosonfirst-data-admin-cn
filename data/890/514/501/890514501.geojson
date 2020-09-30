@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"113.24089,35.2360675,113.24089,35.2360675",
+    "geom:bbox":"113.24089,35.236067,113.24089,35.236067",
     "geom:latitude":35.236067,
     "geom:longitude":113.24089,
     "gp:adm0":23424781,
@@ -35,11 +35,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669801,
         102191569,
         85632695,
+        890515835,
         136253041,
-        890515835
+        85669801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055863,
-    "wof:geomhash":"4db6c0a36ad47d5beb6b061e49fc456e",
+    "wof:geomhash":"7fb89e33979293a4aac20e088d1f127b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890514501,
-    "wof:lastmodified":1601068507,
+    "wof:lastmodified":1601423010,
     "wof:name":"Jiaozuo",
     "wof:parent_id":890515835,
     "wof:placetype":"localadmin",
@@ -71,9 +71,9 @@
 },
   "bbox": [
     113.24089,
-    35.2360675,
+    35.236067,
     113.24089,
-    35.2360675
+    35.236067
 ],
-  "geometry": {"coordinates":[113.24088999999999,35.2360675],"type":"Point"}
+  "geometry": {"coordinates":[113.24088999999999,35.236067],"type":"Point"}
 }
