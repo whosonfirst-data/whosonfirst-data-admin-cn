@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.5635645,30.514203,120.5635645,30.514203",
+    "geom:bbox":"120.563564,30.514203,120.563564,30.514203",
     "geom:latitude":30.514203,
     "geom:longitude":120.563564,
     "gp:adm0":23424781,
@@ -17,6 +17,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Haining"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u5b81\u5e02"
+    ],
     "qs:name":"\u6d77\u5b81\u5e02",
     "qs:name_adm0":"\u4e2d\u570b",
     "qs:name_adm1":"\u6d59\u6c5f\u7701",
@@ -29,11 +35,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669835,
         102191569,
         85632695,
+        890514635,
         136253041,
-        890514635
+        85669835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055966,
-    "wof:geomhash":"d3c411a722ffc0dddf9db6b1d89353d0",
+    "wof:geomhash":"d6b121cda47bce7c1b22c4dba342b1c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,8 +60,8 @@
         }
     ],
     "wof:id":890516623,
-    "wof:lastmodified":1566693629,
-    "wof:name":"\u6d77\u5b81\u5e02",
+    "wof:lastmodified":1601423001,
+    "wof:name":"Haining",
     "wof:parent_id":890514635,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-cn",
@@ -64,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.56356449999998,
+    120.563564,
     30.514203,
-    120.56356449999998,
+    120.563564,
     30.514203
 ],
-  "geometry": {"coordinates":[120.56356449999998,30.514203],"type":"Point"}
+  "geometry": {"coordinates":[120.563564,30.514203],"type":"Point"}
 }

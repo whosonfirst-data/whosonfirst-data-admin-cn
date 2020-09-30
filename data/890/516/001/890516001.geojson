@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"103.6109635,30.999756,103.6109635,30.999756",
+    "geom:bbox":"103.610963,30.999756,103.610963,30.999756",
     "geom:latitude":30.999756,
     "geom:longitude":103.610963,
     "gp:adm0":23424781,
@@ -17,6 +17,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "View"
+    ],
+    "name:zho_x_preferred":[
+        "\u89c2"
+    ],
     "qs:name":"\u89c2",
     "qs:name_adm0":"\u4e2d\u570b",
     "qs:name_adm1":"\u56db\u5ddd\u7701",
@@ -29,11 +35,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669787,
         102191569,
         85632695,
+        890516567,
         136253041,
-        890516567
+        85669787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055939,
-    "wof:geomhash":"e2ba03f07093cd642091742e686954b8",
+    "wof:geomhash":"642cb9f22fdfbadf6743a0fa0723696b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,8 +60,8 @@
         }
     ],
     "wof:id":890516001,
-    "wof:lastmodified":1566693612,
-    "wof:name":"\u89c2",
+    "wof:lastmodified":1601423061,
+    "wof:name":"View",
     "wof:parent_id":890516567,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
@@ -64,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    103.6109635,
+    103.610963,
     30.999756,
-    103.6109635,
+    103.610963,
     30.999756
 ],
-  "geometry": {"coordinates":[103.6109635,30.999756],"type":"Point"}
+  "geometry": {"coordinates":[103.610963,30.999756],"type":"Point"}
 }

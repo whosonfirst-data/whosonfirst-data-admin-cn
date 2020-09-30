@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"86.1347575,41.757867,86.1347575,41.757867",
+    "geom:bbox":"86.134758,41.757867,86.134758,41.757867",
     "geom:latitude":41.757867,
     "geom:longitude":86.134758,
     "gp:adm0":23424781,
@@ -17,6 +17,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Korla"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e93\u5c14\u52d2\u5e02"
+    ],
     "qs:name":"\u5e93\u5c14\u52d2\u5e02",
     "qs:name_adm0":"\u4e2d\u570b",
     "qs:name_adm1":"\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a",
@@ -29,11 +35,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85669753,
         102191569,
         85632695,
+        1108732417,
         136253041,
-        1108732417
+        85669753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +48,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055805,
-    "wof:geomhash":"25e025f1c9142d43ec795f2ff0001b38",
+    "wof:geomhash":"b0fcf5c565561e87d7bc37538f88c919",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,8 +60,8 @@
         }
     ],
     "wof:id":890513191,
-    "wof:lastmodified":1566693717,
-    "wof:name":"\u5e93\u5c14\u52d2\u5e02",
+    "wof:lastmodified":1601423018,
+    "wof:name":"Korla",
     "wof:parent_id":1108732417,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-cn",
@@ -64,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    86.1347575,
+    86.134758,
     41.757867,
-    86.1347575,
+    86.134758,
     41.757867
 ],
-  "geometry": {"coordinates":[86.13475750000001,41.757867],"type":"Point"}
+  "geometry": {"coordinates":[86.13475800000001,41.757867],"type":"Point"}
 }
