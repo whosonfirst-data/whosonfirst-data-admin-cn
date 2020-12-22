@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"116.478065493,31.7522933715,116.478065493,31.7522933715",
+    "geom:bbox":"116.478065,31.752293,116.478065,31.752293",
     "geom:latitude":31.752293,
     "geom:longitude":116.478065,
     "iso:country":"CN",
@@ -133,17 +133,17 @@
     "reversegeo:longitude":116.478065,
     "src:geom":"naturalearth",
     "wof:belongsto":[
-        85669739,
         102191569,
         85632695,
+        890513745,
         136253041,
-        890513745
+        85669739
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499130942,
-    "wof:geomhash":"cb1e78d03af8c8a9475bf7f01e30d32f",
+    "wof:geomhash":"9438965d85a389d3cb7e44ed9290aaf5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -155,7 +155,8 @@
         }
     ],
     "wof:id":1141908617,
-    "wof:lastmodified":1566706035,
+    "wof:lastmodified":1608675974,
+    "wof:megacity":1,
     "wof:name":"Luan",
     "wof:parent_id":890513745,
     "wof:placetype":"locality",
@@ -165,10 +166,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    116.47806549297775,
-    31.75229337145186,
-    116.47806549297775,
-    31.75229337145186
+    116.478065,
+    31.752293,
+    116.478065,
+    31.752293
 ],
-  "geometry": {"coordinates":[116.47806549297775,31.75229337145186],"type":"Point"}
+  "geometry": {"coordinates":[116.478065,31.752293],"type":"Point"}
 }
