@@ -19,7 +19,7 @@
     "mps:longitude":121.483385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":2.1,
+    "mz:min_zoom":2.0,
     "name:ace_x_preferred":[
         "Shanghai"
     ],
@@ -612,6 +612,9 @@
         "\u4e0a\u6d77\u5e02"
     ],
     "name:zho_x_preferred":[
+        "\u4e0a\u6d77"
+    ],
+    "name:zho_x_variant":[
         "\u4e0a\u6d77\u5e02"
     ],
     "name:zul_x_preferred":[
@@ -653,6 +656,7 @@
         "dbp:id":"Shanghai",
         "fb:id":"en.shanghai",
         "gn:id":1796236,
+        "ne:id":1159151605,
         "nyt:id":"N12930380387917339601",
         "wd:id":"Q8686",
         "wk:page":"Shanghai"
@@ -670,7 +674,7 @@
         }
     ],
     "wof:id":102027181,
-    "wof:lastmodified":1587428570,
+    "wof:lastmodified":1608677558,
     "wof:megacity":1,
     "wof:name":"Shanghai",
     "wof:parent_id":890514815,

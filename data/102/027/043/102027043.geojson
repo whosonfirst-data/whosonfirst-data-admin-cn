@@ -18,7 +18,7 @@
     "mps:latitude":24.489945,
     "mps:longitude":118.103833,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":5.6,
     "name:afr_x_preferred":[
         "Xiamen"
@@ -66,16 +66,19 @@
         "Xiamen"
     ],
     "name:ell_x_preferred":[
+        "\u039e\u03b9\u03b1\u03bc\u03ad\u03bd"
+    ],
+    "name:ell_x_variant":[
         "\u03a3\u03b9\u03b1\u03bc\u03ad\u03bd"
     ],
     "name:eng_x_colloquial":[
         ""
     ],
     "name:eng_x_preferred":[
-        "Amoy"
+        "Xiamen"
     ],
     "name:eng_x_variant":[
-        "Xiamen"
+        "Amoy"
     ],
     "name:epo_x_preferred":[
         "Sjamen"
@@ -120,6 +123,9 @@
         "\u05e9\u05d9\u05d0\u05de\u05df"
     ],
     "name:hin_x_preferred":[
+        "\u0938\u093f\u0906\u092e\u0947\u0928"
+    ],
+    "name:hin_x_variant":[
         "\u0936\u093f\u092f\u093e\u092e\u0947\u0928"
     ],
     "name:hrv_x_preferred":[
@@ -282,10 +288,11 @@
         "\u0112-mn\u0302g-chh\u012b"
     ],
     "name:zho_x_preferred":[
-        "\u53a6\u95e8\u5e02"
+        "\u53a6\u95e8"
     ],
     "name:zho_x_variant":[
-        "\u5ec8\u9580\u5e02"
+        "\u5ec8\u9580\u5e02",
+        "\u53a6\u95e8\u5e02"
     ],
     "name:zho_yue_x_preferred":[
         "\u5ec8\u9580"
@@ -411,6 +418,7 @@
     "wof:concordances":{
         "gn:id":1790645,
         "gp:id":26198335,
+        "ne:id":1159149129,
         "qs_pg:id":136385,
         "wd:id":"Q68744",
         "wk:page":"Xiamen"
@@ -426,7 +434,7 @@
         }
     ],
     "wof:id":102027043,
-    "wof:lastmodified":1608675976,
+    "wof:lastmodified":1608678399,
     "wof:megacity":1,
     "wof:name":"Xiamen",
     "wof:parent_id":-1,

@@ -188,7 +188,6 @@
         "Hangzhou"
     ],
     "name:jpn_x_preferred":[
-        "\u676d\u5dde",
         "\u676d\u5dde\u5e02"
     ],
     "name:jpn_x_variant":[
@@ -216,7 +215,6 @@
         "Hangzhou"
     ],
     "name:kor_x_preferred":[
-        "\ud56d\uc800\uc6b0",
         "\ud56d\uc800\uc6b0 \uc2dc"
     ],
     "name:kor_x_variant":[
@@ -332,8 +330,10 @@
         "\u0425\u0430\u043d\u0433\u045f\u043e\u0443"
     ],
     "name:swe_x_preferred":[
-        "Hangchou",
         "Hangzhou"
+    ],
+    "name:swe_x_variant":[
+        "Hangchou"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbe\u0b99\u0bcd\u0b9a\u0bc2"
@@ -411,11 +411,11 @@
         "\u676d\u5dde\u5e02"
     ],
     "name:zho_x_preferred":[
-        "\u676d\u5dde\u5e02"
+        "\u676d\u5dde"
     ],
     "name:zho_x_variant":[
-        "\u676d\u5dde",
-        "\u676d\u5dde\u5e9c"
+        "\u676d\u5dde\u5e9c",
+        "\u676d\u5dde\u5e02"
     ],
     "name:zho_yue_x_preferred":[
         "\u676d\u5dde"
@@ -544,6 +544,7 @@
         "fct:id":"06b6c0d0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1808926,
         "gp:id":12685402,
+        "ne:id":1159151387,
         "qs_pg:id":839709,
         "wd:id":"Q4970",
         "wk:page":"Hangzhou"
@@ -564,7 +565,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1587428581,
+    "wof:lastmodified":1608677548,
     "wof:megacity":1,
     "wof:name":"Hangzhou",
     "wof:parent_id":890516555,

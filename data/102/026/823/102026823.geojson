@@ -95,10 +95,10 @@
         "\u00dcr\u00fcmqi"
     ],
     "name:ell_x_preferred":[
-        "\u039f\u03c5\u03c1\u03bf\u03cd\u03bc\u03c4\u03c3\u03b9"
+        "\u039f\u03c5\u03c1\u03bf\u03cd\u03bc\u03ba\u03b9"
     ],
     "name:ell_x_variant":[
-        "\u039f\u03c5\u03c1\u03bf\u03cd\u03bc\u03ba\u03b9"
+        "\u039f\u03c5\u03c1\u03bf\u03cd\u03bc\u03c4\u03c3\u03b9"
     ],
     "name:eng_ca_x_preferred":[
         "\u00dcr\u00fcmqi"
@@ -110,7 +110,7 @@
         ""
     ],
     "name:eng_x_preferred":[
-        "Urumqi"
+        "\u00dcr\u00fcmqi"
     ],
     "name:eng_x_variant":[
         "Dikhua",
@@ -134,7 +134,7 @@
         "Wu-lu-mu-ch'i-shih",
         "Wurumch'ih",
         "wulumuqi",
-        "\u00dcr\u00fcmqi"
+        "Urumqi"
     ],
     "name:epo_x_preferred":[
         "Urum\u0109io"
@@ -188,10 +188,10 @@
         "\u0548\u0582\u0580\u0578\u0582\u0574\u0579\u056b"
     ],
     "name:ind_x_preferred":[
-        "Urumqi"
+        "\u00dcr\u00fcmqi"
     ],
     "name:ind_x_variant":[
-        "\u00dcr\u00fcmqi"
+        "Urumqi"
     ],
     "name:isl_x_preferred":[
         "\u00dcr\u00fcmqi"
@@ -200,10 +200,10 @@
         "\u00dcr\u00fcmqi"
     ],
     "name:jpn_x_preferred":[
-        "\u30a6\u30eb\u30e0\u30c1"
+        "\u30a6\u30eb\u30e0\u30c1\u5e02"
     ],
     "name:jpn_x_variant":[
-        "\u30a6\u30eb\u30e0\u30c1\u5e02"
+        "\u30a6\u30eb\u30e0\u30c1"
     ],
     "name:kan_x_preferred":[
         "\u0caf\u0cc1\u0cb0\u0cc1\u200d\u0cae\u0ccd\u200c\u0c9a\u0cbf"
@@ -221,11 +221,11 @@
         "\u04ae\u0440\u04af\u043c\u0447\u04af"
     ],
     "name:kor_x_preferred":[
-        "\uc6b0\ub8e8\ubb34\uce58"
+        "\uc6b0\ub8e8\ubb34\uce58 \uc2dc"
     ],
     "name:kor_x_variant":[
-        "\uc6b0\ub8e8\ubb34\uce58 \uc2dc",
-        "\uc6b0\ub8e8\ubb34\uce58\uc2dc"
+        "\uc6b0\ub8e8\ubb34\uce58\uc2dc",
+        "\uc6b0\ub8e8\ubb34\uce58"
     ],
     "name:lad_x_preferred":[
         "\u00dcr\u00fcmqi"
@@ -297,10 +297,10 @@
         "\u00dcr\u00fcmqi"
     ],
     "name:por_x_preferred":[
-        "Urumqi"
+        "\u00dcr\u00fcmqi"
     ],
     "name:por_x_variant":[
-        "\u00dcr\u00fcmqi"
+        "Urumqi"
     ],
     "name:ron_x_preferred":[
         "Urumqi"
@@ -330,10 +330,10 @@
         "Urum\u010di"
     ],
     "name:spa_x_preferred":[
-        "\u00dcr\u00fcmqi"
+        "Urumchi"
     ],
     "name:spa_x_variant":[
-        "Urumchi"
+        "\u00dcr\u00fcmqi"
     ],
     "name:sqi_x_preferred":[
         "Urumqi"
@@ -345,10 +345,10 @@
         "Urumqi"
     ],
     "name:swe_x_preferred":[
-        "Urumchi"
+        "\u00dcr\u00fcmqi"
     ],
     "name:swe_x_variant":[
-        "\u00dcr\u00fcmqi"
+        "Urumchi"
     ],
     "name:tam_x_preferred":[
         "\u0b89\u0bb0\u0bc1\u0bae\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf"
@@ -426,11 +426,11 @@
         "\u70cf\u9b6f\u6728\u9f4a\u5e02"
     ],
     "name:zho_x_preferred":[
-        "\u4e4c\u9c81\u6728\u9f50\u5e02"
+        "\u4e4c\u9c81\u6728\u9f50"
     ],
     "name:zho_x_variant":[
-        "\u4e4c\u9c81\u6728\u9f50",
-        "\u00dcr\u00fcmqi"
+        "\u00dcr\u00fcmqi",
+        "\u4e4c\u9c81\u6728\u9f50\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -557,6 +557,7 @@
         "fct:id":"06b687be-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1529102,
         "gp:id":12686397,
+        "ne:id":1159151531,
         "nyt:id":"52270964500776659741",
         "qs_pg:id":1277090,
         "wd:id":"Q16959",
@@ -578,9 +579,9 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1587428590,
+    "wof:lastmodified":1608677554,
     "wof:megacity":1,
-    "wof:name":"Urunchi",
+    "wof:name":"\u00dcr\u00fcmqi",
     "wof:parent_id":890516251,
     "wof:placetype":"locality",
     "wof:population":3029372,

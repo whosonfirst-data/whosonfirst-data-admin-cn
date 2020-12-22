@@ -72,16 +72,16 @@
         "Guiyang"
     ],
     "name:ell_x_preferred":[
-        "\u0393\u03ba\u03bf\u03c5\u03b5\u03ca\u03b3\u03b9\u03ac\u03bd\u03b3\u03ba"
+        "\u039a\u03bf\u03c5\u03b5\u03ca\u03b3\u03b9\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03bf\u03c5\u03b5\u03ca\u03b3\u03b9\u03ac\u03bd\u03b3\u03ba"
+        "\u0393\u03ba\u03bf\u03c5\u03b5\u03ca\u03b3\u03b9\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_colloquial":[
         ""
     ],
     "name:eng_x_preferred":[
-        "Guiyang"
+        "Gui\u200byang"
     ],
     "name:eng_x_variant":[
         "Guiyang Shi",
@@ -90,7 +90,8 @@
         "Kuei-yang-shih",
         "Kweichu",
         "Kweiyang",
-        "Kweiyangfu"
+        "Kweiyangfu",
+        "Guiyang"
     ],
     "name:epo_x_preferred":[
         "G\u016dijango"
@@ -144,11 +145,11 @@
         "Guiyang"
     ],
     "name:jpn_x_preferred":[
-        "\u8cb4\u967d"
+        "\u8cb4\u967d\u5e02"
     ],
     "name:jpn_x_variant":[
         "\u30b3\u30a4\u30e4\u30f3",
-        "\u8cb4\u967d\u5e02"
+        "\u8cb4\u967d"
     ],
     "name:kan_x_preferred":[
         "\u0c97\u0cc1\u0caf\u0cbe\u0c82\u0c97\u0ccd"
@@ -160,11 +161,11 @@
         "Guiyang"
     ],
     "name:kor_x_preferred":[
-        "\uad6c\uc774\uc591"
+        "\uad6c\uc774\uc591 \uc2dc"
     ],
     "name:kor_x_variant":[
-        "\uad6c\uc774\uc591 \uc2dc",
-        "\uad6c\uc774\uc591\uc2dc"
+        "\uad6c\uc774\uc591\uc2dc",
+        "\uad6c\uc774\uc591"
     ],
     "name:lat_x_preferred":[
         "Queiyanga"
@@ -248,10 +249,10 @@
         "Guiyang"
     ],
     "name:swe_x_preferred":[
-        "Kweiyang"
+        "Guiyang"
     ],
     "name:swe_x_variant":[
-        "Guiyang"
+        "Kweiyang"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bc1\u0baf\u0bbf\u0baf\u0bbe\u0b99\u0bcd"
@@ -317,11 +318,12 @@
         "\u8cb4\u967d\u5e02"
     ],
     "name:zho_x_preferred":[
-        "\u8d35\u9633\u5e02"
+        "\u8cb4\u967d"
     ],
     "name:zho_x_variant":[
         "\u8d35\u9633",
-        "\u8cb4\u967d\u5e02"
+        "\u8cb4\u967d\u5e02",
+        "\u8d35\u9633\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -449,6 +451,7 @@
         "fct:id":"06b7c5de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1809461,
         "gp:id":2146703,
+        "ne:id":1159151325,
         "qs_pg:id":461282,
         "wd:id":"Q192271",
         "wk:page":"Guiyang"
@@ -472,9 +475,9 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1587428582,
+    "wof:lastmodified":1608677546,
     "wof:megacity":1,
-    "wof:name":"Guiyang",
+    "wof:name":"Gui\u200byang",
     "wof:parent_id":890516581,
     "wof:placetype":"locality",
     "wof:population":1171633,

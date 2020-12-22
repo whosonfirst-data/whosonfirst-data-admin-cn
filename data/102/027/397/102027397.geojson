@@ -150,7 +150,6 @@
         "Lanzhou"
     ],
     "name:jpn_x_preferred":[
-        "\u862d\u5dde",
         "\u862d\u5dde\u5e02"
     ],
     "name:jpn_x_variant":[
@@ -166,7 +165,6 @@
         "\u041b\u0430\u043d\u044c\u0447\u0436\u043e\u0443 \u0448\u0430\u0430\u0440\u044b"
     ],
     "name:kor_x_preferred":[
-        "\ub780\uc800\uc6b0",
         "\ub780\uc800\uc6b0 \uc2dc"
     ],
     "name:kor_x_variant":[
@@ -335,11 +333,12 @@
         "\u862d\u5dde\u5e02"
     ],
     "name:zho_x_preferred":[
-        "\u5170\u5dde\u5e02"
+        "\u862d\u5dde"
     ],
     "name:zho_x_variant":[
         "\u862d\u5dde\u5e02",
-        "\u5170\u5dde"
+        "\u5170\u5dde",
+        "\u5170\u5dde\u5e02"
     ],
     "name:zho_yue_x_preferred":[
         "\u862d\u5dde"
@@ -470,6 +469,7 @@
         "fct:id":"06b7ad4c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1804430,
         "gp:id":2145605,
+        "ne:id":1159151321,
         "qs_pg:id":221701,
         "wd:id":"Q183584",
         "wk:page":"Lanzhou"
@@ -496,7 +496,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1587428559,
+    "wof:lastmodified":1608677546,
     "wof:megacity":1,
     "wof:name":"Lanzhou",
     "wof:parent_id":890513013,

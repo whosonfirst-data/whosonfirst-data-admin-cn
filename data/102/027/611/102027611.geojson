@@ -207,7 +207,6 @@
         "Fuzhou"
     ],
     "name:kor_x_preferred":[
-        "\ud478\uc800\uc6b0",
         "\ud478\uc800\uc6b0 \uc2dc"
     ],
     "name:kor_x_variant":[
@@ -316,8 +315,10 @@
         "Fuzhou"
     ],
     "name:swe_x_preferred":[
-        "Fu-chou",
         "Fuzhou"
+    ],
+    "name:swe_x_variant":[
+        "Fu-chou"
     ],
     "name:tam_x_preferred":[
         "\u0b83\u0baa\u0bc2\u0b9c\u0bcb"
@@ -386,10 +387,10 @@
         "\u798f\u5dde\u5e02"
     ],
     "name:zho_x_preferred":[
-        "\u798f\u5dde\u5e02"
+        "\u798f\u5dde"
     ],
     "name:zho_x_variant":[
-        "\u798f\u5dde"
+        "\u798f\u5dde\u5e02"
     ],
     "name:zho_yue_x_preferred":[
         "\u798f\u5dde"
@@ -520,6 +521,7 @@
         "fct:id":"06b71fbc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1810821,
         "gp:id":2139963,
+        "ne:id":1159151329,
         "qs_pg:id":238316,
         "wd:id":"Q68481",
         "wk:page":"Fuzhou"
@@ -543,7 +545,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1587428565,
+    "wof:lastmodified":1608677546,
     "wof:megacity":1,
     "wof:name":"Fuzhou",
     "wof:parent_id":890516575,

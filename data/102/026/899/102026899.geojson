@@ -216,8 +216,10 @@
         "Zhengzhou"
     ],
     "name:jpn_x_preferred":[
-        "\u912d\u5dde",
         "\u912d\u5dde\u5e02"
+    ],
+    "name:jpn_x_variant":[
+        "\u912d\u5dde"
     ],
     "name:kab_x_preferred":[
         "Zhengzhou"
@@ -241,7 +243,6 @@
         "Zhengzhou"
     ],
     "name:kor_x_preferred":[
-        "\uc815\uc800\uc6b0",
         "\uc815\uc800\uc6b0 \uc2dc"
     ],
     "name:kor_x_variant":[
@@ -389,8 +390,10 @@
         "Zhengzhou"
     ],
     "name:swe_x_preferred":[
-        "Cheng-chou",
         "Zhengzhou"
+    ],
+    "name:swe_x_variant":[
+        "Cheng-chou"
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0b99\u0bcd\u0b9a\u0bb5\u0bc1"
@@ -468,10 +471,10 @@
         "\u912d\u5dde\u5e02"
     ],
     "name:zho_x_preferred":[
-        "\u90d1\u5dde\u5e02"
+        "\u90d1\u5dde"
     ],
     "name:zho_x_variant":[
-        "\u90d1\u5dde"
+        "\u90d1\u5dde\u5e02"
     ],
     "name:zho_yue_x_preferred":[
         "\u912d\u5dde"
@@ -603,6 +606,7 @@
         "gn:id":1784658,
         "gp:id":2172736,
         "loc:id":"n2008049243",
+        "ne:id":1159151375,
         "qs_pg:id":509307,
         "wd:id":"Q30340",
         "wk:page":"Zhengzhou"
@@ -626,7 +630,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1587428592,
+    "wof:lastmodified":1608677548,
     "wof:megacity":1,
     "wof:name":"Zhengzhou",
     "wof:parent_id":890515627,

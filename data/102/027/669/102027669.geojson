@@ -18,7 +18,7 @@
     "mps:latitude":38.910638,
     "mps:longitude":121.593039,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":5.1,
     "name:afr_x_preferred":[
         "Dalian"
@@ -132,10 +132,10 @@
         "Dalian"
     ],
     "name:hun_x_preferred":[
-        "Talien"
+        "Dalian"
     ],
     "name:hun_x_variant":[
-        "Dalian"
+        "Talien"
     ],
     "name:hye_x_preferred":[
         "\u0534\u0561\u056c\u0575\u0561\u0576"
@@ -310,12 +310,12 @@
         "T\u0101i-li\u00e2n-chh\u012b"
     ],
     "name:zho_x_preferred":[
-        "\u5927\u8fde\u5e02"
+        "\u5927\u8fde"
     ],
     "name:zho_x_variant":[
-        "\u5927\u8fde",
         "\u5927\u9023",
-        "\u5927\u9023\u5e02"
+        "\u5927\u9023\u5e02",
+        "\u5927\u8fde\u5e02"
     ],
     "name:zho_yue_x_preferred":[
         "\u5927\u9023"
@@ -446,6 +446,7 @@
         "fct:id":"06b642e0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1814087,
         "gp:id":12686760,
+        "ne:id":1159149913,
         "nyt:id":"56399729913317129501",
         "qs_pg:id":839782,
         "wd:id":"Q74881",
@@ -467,7 +468,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1608675978,
+    "wof:lastmodified":1608678401,
     "wof:megacity":1,
     "wof:name":"Dalian",
     "wof:parent_id":890515891,
