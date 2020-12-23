@@ -283,16 +283,17 @@
     "qs:pop_sr":"11",
     "src:population":"geonames",
     "wof:belongsto":[
-        85669849,
         102191569,
         85632695,
+        890515199,
         136253041,
-        890515199
+        85669849
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2033413,
         "gp:id":2141180,
+        "ne:id":1159147147,
         "qs_pg:id":919279,
         "wd:id":"Q349976"
     },
@@ -310,7 +311,8 @@
         }
     ],
     "wof:id":890516077,
-    "wof:lastmodified":1566693605,
+    "wof:lastmodified":1608688165,
+    "wof:megacity":1,
     "wof:name":"\u4f0a\u6625",
     "wof:parent_id":890515199,
     "wof:placetype":"locality",

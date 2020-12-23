@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"111.618052065,26.2323202269,111.618052065,26.2323202269",
+    "geom:bbox":"111.618052,26.23232,111.618052,26.23232",
     "geom:latitude":26.23232,
     "geom:longitude":111.618052,
     "iso:country":"CN",
@@ -17,7 +17,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u064a\u0648\u0646\u063a\u062a\u0634\u0648"
     ],
@@ -268,19 +268,21 @@
     "reversegeo:longitude":111.618052,
     "src:geom":"naturalearth",
     "wof:belongsto":[
-        85669781,
         102191569,
         85632695,
+        890515001,
         136253041,
-        890515001
+        85669781
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1786217,
+        "ne:id":1159147007,
         "wd:id":"Q266014"
     },
     "wof:country":"CN",
     "wof:created":1499130947,
-    "wof:geomhash":"9b9c38dcfd2b79be644f00c48a8ca195",
+    "wof:geomhash":"35d9f4eb3e0c5fe6252f34d0f36be769",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -292,7 +294,8 @@
         }
     ],
     "wof:id":1141908643,
-    "wof:lastmodified":1566706040,
+    "wof:lastmodified":1608688164,
+    "wof:megacity":1,
     "wof:name":"Yongzhou",
     "wof:parent_id":890515001,
     "wof:placetype":"locality",
@@ -302,10 +305,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.61805206522371,
-    26.23232022689831,
-    111.61805206522371,
-    26.23232022689831
+    111.618052,
+    26.23232,
+    111.618052,
+    26.23232
 ],
-  "geometry": {"coordinates":[111.61805206522371,26.23232022689831],"type":"Point"}
+  "geometry": {"coordinates":[111.61805200000001,26.23232],"type":"Point"}
 }
