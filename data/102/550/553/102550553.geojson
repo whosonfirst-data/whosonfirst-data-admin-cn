@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"89.3069444444,29.3516666667,89.3069444444,29.3516666667",
+    "geom:bbox":"89.306944,29.351667,89.306944,29.351667",
     "geom:latitude":29.351667,
     "geom:longitude":89.306944,
     "iso:country":"CN",
@@ -27,6 +27,10 @@
     ],
     "name:eng_x_preferred":[
         "Shigatse Peace Airport"
+    ],
+    "name:eng_x_variant":[
+        "RKZ",
+        "ZURK"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u06cc\u06af\u0627\u062a\u0633\u0647 \u067e\u06cc\u0633"
@@ -77,7 +81,7 @@
         "wd:id":"Q1083293"
     },
     "wof:country":"CN",
-    "wof:geomhash":"d5aa66381754789c3f5bac09fba60772",
+    "wof:geomhash":"8e82d018f76b140d8c7f0a243114a44d",
     "wof:hierarchy":[
         {
             "campus_id":102550553,
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":102550553,
-    "wof:lastmodified":1566655618,
+    "wof:lastmodified":1631753764,
     "wof:name":"Xigaze East Airport",
     "wof:parent_id":85669747,
     "wof:placetype":"campus",
@@ -98,10 +102,10 @@
     ]
 },
   "bbox": [
-    89.306944444444,
-    29.351666666667,
-    89.306944444444,
-    29.351666666667
+    89.306944,
+    29.351667,
+    89.306944,
+    29.351667
 ],
-  "geometry": {"coordinates":[89.306944444444,29.351666666667],"type":"Point"}
+  "geometry": {"coordinates":[89.306944,29.351667],"type":"Point"}
 }

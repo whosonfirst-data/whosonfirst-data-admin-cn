@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"115.73444444,32.88194444,115.73444444,32.88194444",
+    "geom:bbox":"115.734444,32.881944,115.734444,32.881944",
     "geom:latitude":32.881944,
     "geom:longitude":115.734444,
     "iso:country":"CN",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "Fuyang Xiguan Airport"
+    ],
+    "name:eng_x_variant":[
+        "FUG",
+        "ZSFY"
     ],
     "name:eus_x_preferred":[
         "Fuyang aireportua"
@@ -92,7 +96,7 @@
         "wd:id":"Q3267356"
     },
     "wof:country":"CN",
-    "wof:geomhash":"5a88266ee9cde68f7422d48d71745f9c",
+    "wof:geomhash":"2fe8779d2712962b80542351b2c549b1",
     "wof:hierarchy":[
         {
             "campus_id":102551053,
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":102551053,
-    "wof:lastmodified":1566655615,
+    "wof:lastmodified":1631753763,
     "wof:name":"Fuyang Airport",
     "wof:parent_id":85669739,
     "wof:placetype":"campus",
@@ -113,10 +117,10 @@
     ]
 },
   "bbox": [
-    115.73444444,
-    32.88194444,
-    115.73444444,
-    32.88194444
+    115.734444,
+    32.881944,
+    115.734444,
+    32.881944
 ],
-  "geometry": {"coordinates":[115.73444444,32.88194444],"type":"Point"}
+  "geometry": {"coordinates":[115.734444,32.881944],"type":"Point"}
 }

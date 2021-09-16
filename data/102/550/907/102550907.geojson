@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"90.9119444444,29.2977777778,90.9119444444,29.2977777778",
+    "geom:bbox":"90.911944,29.297778,90.911944,29.297778",
     "geom:latitude":29.297778,
     "geom:longitude":90.911944,
     "iso:country":"CN",
@@ -33,6 +33,10 @@
     ],
     "name:eng_x_preferred":[
         "Lhasa Gonggar Airport"
+    ],
+    "name:eng_x_variant":[
+        "LXA",
+        "ZULS"
     ],
     "name:eus_x_preferred":[
         "Lhasa Gonggar aireportua"
@@ -128,7 +132,7 @@
         "wd:id":"Q786209"
     },
     "wof:country":"CN",
-    "wof:geomhash":"20ca5e6f02f14aabb3d029b90ae3360a",
+    "wof:geomhash":"a0becc3311b22bc27614eed41a01da7d",
     "wof:hierarchy":[
         {
             "campus_id":102550907,
@@ -137,7 +141,7 @@
         }
     ],
     "wof:id":102550907,
-    "wof:lastmodified":1566655617,
+    "wof:lastmodified":1631753764,
     "wof:name":"Gonggar Airport",
     "wof:parent_id":85669747,
     "wof:placetype":"campus",
@@ -149,10 +153,10 @@
     ]
 },
   "bbox": [
-    90.911944444444,
-    29.297777777778,
-    90.911944444444,
-    29.297777777778
+    90.911944,
+    29.297778,
+    90.911944,
+    29.297778
 ],
-  "geometry": {"coordinates":[90.911944444444,29.297777777778],"type":"Point"}
+  "geometry": {"coordinates":[90.91194400000001,29.297778],"type":"Point"}
 }

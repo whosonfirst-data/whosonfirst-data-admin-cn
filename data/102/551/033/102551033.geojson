@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.865,37.0386111111,79.865,37.0386111111",
+    "geom:bbox":"79.865,37.038611,79.865,37.038611",
     "geom:latitude":37.038611,
     "geom:longitude":79.865,
     "iso:country":"CN",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Hotan Airport"
+    ],
+    "name:eng_x_variant":[
+        "HTN",
+        "ZWTN"
     ],
     "name:eus_x_preferred":[
         "Hotan aireportua"
@@ -89,7 +93,7 @@
         "wd:id":"Q2983967"
     },
     "wof:country":"CN",
-    "wof:geomhash":"477997d9b46108b920da8811e84dbcd8",
+    "wof:geomhash":"b77c55b1fa35775428e12090c89979d5",
     "wof:hierarchy":[
         {
             "campus_id":102551033,
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":102551033,
-    "wof:lastmodified":1566655617,
+    "wof:lastmodified":1631753763,
     "wof:name":"Hetian Airport",
     "wof:parent_id":85669753,
     "wof:placetype":"campus",
@@ -111,9 +115,9 @@
 },
   "bbox": [
     79.865,
-    37.038611111111,
+    37.038611,
     79.865,
-    37.038611111111
+    37.038611
 ],
-  "geometry": {"coordinates":[79.86499999999999,37.038611111111],"type":"Point"}
+  "geometry": {"coordinates":[79.86499999999999,37.038611],"type":"Point"}
 }

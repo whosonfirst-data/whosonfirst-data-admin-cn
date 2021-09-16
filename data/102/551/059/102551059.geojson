@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"114.776666667,25.8516666667,114.776666667,25.8516666667",
+    "geom:bbox":"114.776667,25.851667,114.776667,25.851667",
     "geom:latitude":25.851667,
     "geom:longitude":114.776667,
     "iso:country":"CN",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Ganzhou Huangjin Airport"
+    ],
+    "name:eng_x_variant":[
+        "KOW",
+        "ZSGZ"
     ],
     "name:eus_x_preferred":[
         "Ganzhou aireportua"
@@ -83,7 +87,7 @@
         "wd:id":"Q1937973"
     },
     "wof:country":"CN",
-    "wof:geomhash":"fdb9fba77a8ff70077ee9524a9f663bd",
+    "wof:geomhash":"8e66a85c6efca0b61c41fb6621425d8c",
     "wof:hierarchy":[
         {
             "campus_id":102551059,
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":102551059,
-    "wof:lastmodified":1566655616,
+    "wof:lastmodified":1631753763,
     "wof:name":"Ganzhou Airport",
     "wof:parent_id":85669823,
     "wof:placetype":"campus",
@@ -104,10 +108,10 @@
     ]
 },
   "bbox": [
-    114.77666666667,
-    25.851666666667,
-    114.77666666667,
-    25.851666666667
+    114.776667,
+    25.851667,
+    114.776667,
+    25.851667
 ],
-  "geometry": {"coordinates":[114.77666666667,25.851666666667],"type":"Point"}
+  "geometry": {"coordinates":[114.776667,25.851667],"type":"Point"}
 }
