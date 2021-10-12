@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"118.908333333,42.235,118.908333333,42.235",
+    "geom:bbox":"118.908333,42.235,118.908333,42.235",
     "geom:latitude":42.235,
     "geom:longitude":118.908333,
     "iso:country":"CN",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Chifeng Yulong Airport"
+    ],
+    "name:eng_x_variant":[
+        "CIF",
+        "ZBCF"
     ],
     "name:eus_x_preferred":[
         "Chifeng aireportua"
@@ -82,7 +86,7 @@
         "wd:id":"Q1708732"
     },
     "wof:country":"CN",
-    "wof:geomhash":"67891c005254ed07ca97b2b7848f56a2",
+    "wof:geomhash":"d81b49771ecaa90bd0d4354227273577",
     "wof:hierarchy":[
         {
             "campus_id":102550915,
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":102550915,
-    "wof:lastmodified":1566655618,
+    "wof:lastmodified":1631753764,
     "wof:name":"Chifeng Southwest Airport",
     "wof:parent_id":85669847,
     "wof:placetype":"campus",
@@ -103,10 +107,10 @@
     ]
 },
   "bbox": [
-    118.90833333333,
+    118.908333,
     42.235,
-    118.90833333333,
+    118.908333,
     42.235
 ],
-  "geometry": {"coordinates":[118.90833333333001,42.235],"type":"Point"}
+  "geometry": {"coordinates":[118.908333,42.235],"type":"Point"}
 }

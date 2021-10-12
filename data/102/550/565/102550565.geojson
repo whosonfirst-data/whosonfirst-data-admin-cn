@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"114.930277778,40.7386111111,114.930277778,40.7386111111",
+    "geom:bbox":"114.930278,40.738611,114.930278,40.738611",
     "geom:latitude":40.738611,
     "geom:longitude":114.930278,
     "iso:country":"CN",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Zhangjiakou Ningyuan Airport"
+    ],
+    "name:eng_x_variant":[
+        "ZQZ",
+        "ZBZJ"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0698\u0627\u0646\u06af\u062c\u06cc\u0627\u06a9\u0648"
@@ -77,7 +81,7 @@
         "wd:id":"Q8070469"
     },
     "wof:country":"CN",
-    "wof:geomhash":"0051c75d91d814758a9314a79fd18408",
+    "wof:geomhash":"a15aad5baeb5fc79f60e2732e76cafe4",
     "wof:hierarchy":[
         {
             "campus_id":102550565,
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":102550565,
-    "wof:lastmodified":1566655618,
+    "wof:lastmodified":1631753764,
     "wof:name":"Zhangjiakou Southeast Airport",
     "wof:parent_id":85669797,
     "wof:placetype":"campus",
@@ -98,10 +102,10 @@
     ]
 },
   "bbox": [
-    114.93027777778,
-    40.738611111111,
-    114.93027777778,
-    40.738611111111
+    114.930278,
+    40.738611,
+    114.930278,
+    40.738611
 ],
-  "geometry": {"coordinates":[114.93027777778001,40.738611111111],"type":"Point"}
+  "geometry": {"coordinates":[114.930278,40.738611],"type":"Point"}
 }

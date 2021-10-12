@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"130.465277778,46.8433333333,130.465277778,46.8433333333",
+    "geom:bbox":"130.465278,46.843333,130.465278,46.843333",
     "geom:latitude":46.843333,
     "geom:longitude":130.465278,
     "iso:country":"CN",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Jiamusi Dongjiao Airport"
+    ],
+    "name:eng_x_variant":[
+        "JMU",
+        "ZYJM"
     ],
     "name:eus_x_preferred":[
         "Jiamusi aireportua"
@@ -92,7 +96,7 @@
         "wd:id":"Q2661353"
     },
     "wof:country":"CN",
-    "wof:geomhash":"d93d98a4485977e254d1bfea170d5cc1",
+    "wof:geomhash":"ffc753bd7ea19b7362abafc0d6ce8881",
     "wof:hierarchy":[
         {
             "campus_id":102551035,
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":102551035,
-    "wof:lastmodified":1566655616,
+    "wof:lastmodified":1631753763,
     "wof:name":"Jiamusi East Airport",
     "wof:parent_id":85669849,
     "wof:placetype":"campus",
@@ -113,10 +117,10 @@
     ]
 },
   "bbox": [
-    130.46527777778,
-    46.843333333333,
-    130.46527777778,
-    46.843333333333
+    130.465278,
+    46.843333,
+    130.465278,
+    46.843333
 ],
-  "geometry": {"coordinates":[130.46527777777999,46.843333333333],"type":"Point"}
+  "geometry": {"coordinates":[130.46527800000001,46.843333],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"100.245833333,26.6791666667,100.245833333,26.6791666667",
+    "geom:bbox":"100.245833,26.679167,100.245833,26.679167",
     "geom:latitude":26.679167,
     "geom:longitude":100.245833,
     "iso:country":"CN",
@@ -27,6 +27,10 @@
     ],
     "name:eng_x_preferred":[
         "Lijiang Sanyi Airport"
+    ],
+    "name:eng_x_variant":[
+        "LJG",
+        "ZPLJ"
     ],
     "name:eus_x_preferred":[
         "Lijiang aireportua"
@@ -85,7 +89,7 @@
         "wd:id":"Q1431877"
     },
     "wof:country":"CN",
-    "wof:geomhash":"8233f7cf3b6ecb8be19ff2411d1c2a5a",
+    "wof:geomhash":"2dc26946bd6dc2e3e02470350c6dcc9a",
     "wof:hierarchy":[
         {
             "campus_id":102550829,
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":102550829,
-    "wof:lastmodified":1566655617,
+    "wof:lastmodified":1631753764,
     "wof:name":"Lijiang Airport",
     "wof:parent_id":85669791,
     "wof:placetype":"campus",
@@ -106,10 +110,10 @@
     ]
 },
   "bbox": [
-    100.24583333333,
-    26.679166666667,
-    100.24583333333,
-    26.679166666667
+    100.245833,
+    26.679167,
+    100.245833,
+    26.679167
 ],
-  "geometry": {"coordinates":[100.24583333333,26.679166666667],"type":"Point"}
+  "geometry": {"coordinates":[100.245833,26.679167],"type":"Point"}
 }
