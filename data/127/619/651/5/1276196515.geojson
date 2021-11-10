@@ -222,6 +222,9 @@
         "Mali"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05dc\u05d9\u05e9\u05d1\u05d5"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05d0\u05dc\u05d9"
     ],
     "name:hif_x_preferred":[
@@ -304,6 +307,9 @@
     ],
     "name:kon_x_preferred":[
         "Mali"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9d0\ub9ac"
     ],
     "name:kur_x_preferred":[
         "Mal\u00ee"
@@ -614,6 +620,12 @@
     "name:zha_x_preferred":[
         "Mali"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u9a6c\u91cc"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u99ac\u91cc"
+    ],
     "name:zho_x_preferred":[
         "Mali"
     ],
@@ -636,7 +648,7 @@
         "gn:id":8045651
     },
     "wof:country":"CN",
-    "wof:geomhash":"6d967e51a5fa593105c083df8662924e",
+    "wof:geomhash":"6a7111cc33882b7365d8f798c6908d19",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -648,7 +660,7 @@
         }
     ],
     "wof:id":1276196515,
-    "wof:lastmodified":1566673157,
+    "wof:lastmodified":1636503857,
     "wof:name":"Mali",
     "wof:parent_id":1108732507,
     "wof:placetype":"locality",
@@ -658,10 +670,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    87.50200000000002,
+    87.502,
     30.602,
-    87.50200000000002,
+    87.502,
     30.602
 ],
-  "geometry": {"coordinates":[87.50200000000002,30.602],"type":"Point"}
+  "geometry": {"coordinates":[87.502,30.602],"type":"Point"}
 }

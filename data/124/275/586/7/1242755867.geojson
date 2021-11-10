@@ -65,6 +65,12 @@
     "name:hak_x_preferred":[
         "M\u00f2i-ch\u00fb-s\u1e73"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05d9\u05d6'\u05d5\u05d0\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Meizhou"
+    ],
     "name:ind_x_preferred":[
         "Meizhou"
     ],
@@ -153,7 +159,7 @@
         "gn:id":1982639
     },
     "wof:country":"CN",
-    "wof:geomhash":"a91a010efbb7f95da3dc0917b5fc1d96",
+    "wof:geomhash":"42c0bb50f7faa85d1ec4d558f751b4ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":1242755867,
-    "wof:lastmodified":1566694666,
+    "wof:lastmodified":1636504373,
     "wof:name":"Meizhou",
     "wof:parent_id":890514349,
     "wof:placetype":"locality",
@@ -175,10 +181,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.11556000000002,
+    110.11556,
     27.77984,
-    110.11556000000002,
+    110.11556,
     27.77984
 ],
-  "geometry": {"coordinates":[110.11556000000002,27.77984],"type":"Point"}
+  "geometry": {"coordinates":[110.11556,27.77984],"type":"Point"}
 }

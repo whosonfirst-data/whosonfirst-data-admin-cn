@@ -42,6 +42,12 @@
     "name:fra_x_preferred":[
         "Wuwei"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05d5\u05d5\u05d9\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Wuwei"
+    ],
     "name:jpn_x_preferred":[
         "\u30a6\u30fc\u30a6\u30a7\u30a4"
     ],
@@ -75,7 +81,7 @@
         "gn:id":1790931
     },
     "wof:country":"CN",
-    "wof:geomhash":"9f579937e8c69a3bfb598d8a60916f87",
+    "wof:geomhash":"736a2ba0178b96fddaeb7218f2cd9320",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1209218335,
-    "wof:lastmodified":1566683877,
+    "wof:lastmodified":1636504046,
     "wof:name":"Wuwei",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -93,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    117.46193999999998,
+    117.46194,
     32.37278,
-    117.46193999999998,
+    117.46194,
     32.37278
 ],
-  "geometry": {"coordinates":[117.46193999999998,32.37278],"type":"Point"}
+  "geometry": {"coordinates":[117.46194,32.37278],"type":"Point"}
 }

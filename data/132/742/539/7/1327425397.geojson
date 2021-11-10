@@ -68,6 +68,9 @@
     "name:fra_x_preferred":[
         "Xianyang"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e1\u05d9\u05d0\u05e0\u05d9\u05d0\u05e0\u05d2"
+    ],
     "name:hun_x_preferred":[
         "Hszienjang"
     ],
@@ -156,7 +159,7 @@
         "gn:id":1790355
     },
     "wof:country":"CN",
-    "wof:geomhash":"408004c9d4165f02c053d1c9755705dc",
+    "wof:geomhash":"7d2a2f7d20dd1a958a15c8c1928a2a36",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":1327425397,
-    "wof:lastmodified":1566654781,
+    "wof:lastmodified":1636503568,
     "wof:name":"Xianyang",
     "wof:parent_id":890514127,
     "wof:placetype":"locality",
@@ -179,9 +182,9 @@
 },
   "bbox": [
     117.75365,
-    25.48107000000001,
+    25.48107,
     117.75365,
-    25.48107000000001
+    25.48107
 ],
-  "geometry": {"coordinates":[117.75364999999999,25.48107000000001],"type":"Point"}
+  "geometry": {"coordinates":[117.75364999999999,25.48107],"type":"Point"}
 }

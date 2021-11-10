@@ -36,6 +36,12 @@
     "name:deu_x_preferred":[
         "Nanyang"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e0\u05d9\u05d0\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Nanjang"
+    ],
     "name:mlg_x_preferred":[
         "Nanyang"
     ],
@@ -64,7 +70,7 @@
         "gn:id":1799625
     },
     "wof:country":"CN",
-    "wof:geomhash":"d9201094cd4f5a71743cc2adc7241da6",
+    "wof:geomhash":"9180ee6e59c2ed69288725889319c941",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":1293059037,
-    "wof:lastmodified":1566669863,
+    "wof:lastmodified":1636503799,
     "wof:name":"Nanyang",
     "wof:parent_id":1108732379,
     "wof:placetype":"locality",
@@ -86,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.50943999999998,
+    111.50944,
     37.16667,
-    111.50943999999998,
+    111.50944,
     37.16667
 ],
-  "geometry": {"coordinates":[111.50943999999998,37.16667],"type":"Point"}
+  "geometry": {"coordinates":[111.50944,37.16667],"type":"Point"}
 }

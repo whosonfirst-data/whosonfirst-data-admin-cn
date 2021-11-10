@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"104.030590372,34.4361784048,104.030590372,34.4361784048",
+    "geom:bbox":"104.03059,34.436178,104.03059,34.436178",
     "geom:latitude":34.436178,
     "geom:longitude":104.03059,
     "iso:country":"CN",
@@ -18,6 +18,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0646\u0643\u0633\u064a\u0627\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09bf\u09a8\u09bf\u0995\u09cd\u09b8\u09bf\u09df\u09be\u09a8"
+    ],
+    "name:deu_x_preferred":[
+        "Minxian"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03bd\u03be\u03b9\u03ac\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Min County"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0646\u0634\u06cc\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Xian de Min"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e0\u05e7\u05e1\u05d9\u05d0\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093f\u0928\u0915\u094d\u0938\u093f\u092f\u093e\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Minxian"
+    ],
+    "name:ind_x_preferred":[
+        "Minxian"
+    ],
+    "name:ita_x_preferred":[
+        "Minxian"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5cb7\u770c"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbfc\uc174"
+    ],
+    "name:nld_x_preferred":[
+        "Minxian"
+    ],
+    "name:pol_x_preferred":[
+        "Minxian"
+    ],
+    "name:por_x_preferred":[
+        "Minxian"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043d\u044c\u0441\u044f\u043d\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Minxian"
+    ],
+    "name:swe_x_preferred":[
+        "Minxian"
+    ],
+    "name:tur_x_preferred":[
+        "Minxian"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043d\u044c\u0441\u044f\u043d\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0646\u0632\u06cc\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Huy\u1ec7n M\u00e2n"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5cb7\u53bf"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5cb7\u7e23"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
     "ne:ADM0_A3":"CHN",
@@ -125,7 +203,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499130739,
-    "wof:geomhash":"456b09539bed534ccb82fccca6a0a25e",
+    "wof:geomhash":"faf0180883518a18116166a558fb8003",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +215,7 @@
         }
     ],
     "wof:id":1141907539,
-    "wof:lastmodified":1566706034,
+    "wof:lastmodified":1636504635,
     "wof:name":"Minxian",
     "wof:parent_id":890516337,
     "wof:placetype":"locality",
@@ -147,10 +225,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    104.03059037172284,
-    34.43617840477657,
-    104.03059037172284,
-    34.43617840477657
+    104.03059,
+    34.436178,
+    104.03059,
+    34.436178
 ],
-  "geometry": {"coordinates":[104.03059037172284,34.43617840477657],"type":"Point"}
+  "geometry": {"coordinates":[104.03059,34.436178],"type":"Point"}
 }

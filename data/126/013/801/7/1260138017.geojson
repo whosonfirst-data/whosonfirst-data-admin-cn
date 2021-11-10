@@ -71,6 +71,12 @@
     "name:fra_x_preferred":[
         "Zaozhuang"
     ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d0\u05d5\u05d6'\u05d5\u05d0\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Csaocsuang"
+    ],
     "name:ita_x_preferred":[
         "Zaozhuang"
     ],
@@ -144,7 +150,7 @@
         "gn:id":11451610
     },
     "wof:country":"CN",
-    "wof:geomhash":"85cceff0a2abcb8c40b27846bca03b78",
+    "wof:geomhash":"f5025a1ea7d9bf65b64175fea5889b8b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -156,7 +162,7 @@
         }
     ],
     "wof:id":1260138017,
-    "wof:lastmodified":1566686420,
+    "wof:lastmodified":1636504100,
     "wof:name":"Zaozhuang",
     "wof:parent_id":1108732337,
     "wof:placetype":"locality",
@@ -167,9 +173,9 @@
 },
   "bbox": [
     110.76603,
-    35.75875999999999,
+    35.75876,
     110.76603,
-    35.75875999999999
+    35.75876
 ],
-  "geometry": {"coordinates":[110.76603,35.75875999999999],"type":"Point"}
+  "geometry": {"coordinates":[110.76603,35.75876],"type":"Point"}
 }

@@ -71,6 +71,12 @@
     "name:hak_x_preferred":[
         "S\u00f2ng-tet-s\u1e73"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d0\u05e0\u05d2\u05d3\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Changde"
+    ],
     "name:ind_x_preferred":[
         "Changde"
     ],
@@ -157,7 +163,7 @@
         "gn:id":8506875
     },
     "wof:country":"CN",
-    "wof:geomhash":"9ae5196366a928b535976254de229ce1",
+    "wof:geomhash":"7d857339bfd674f285a91a605d70d552",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":1327319067,
-    "wof:lastmodified":1566647197,
+    "wof:lastmodified":1636503476,
     "wof:name":"Changde",
     "wof:parent_id":890514509,
     "wof:placetype":"locality",
@@ -179,10 +185,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    125.01588999999998,
+    125.01589,
     46.14172,
-    125.01588999999998,
+    125.01589,
     46.14172
 ],
-  "geometry": {"coordinates":[125.01588999999998,46.14172],"type":"Point"}
+  "geometry": {"coordinates":[125.01589,46.14172],"type":"Point"}
 }

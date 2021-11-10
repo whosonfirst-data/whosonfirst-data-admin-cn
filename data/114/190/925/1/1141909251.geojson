@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"99.1500097239,25.1199770294,99.1500097239,25.1199770294",
+    "geom:bbox":"99.15001,25.119977,99.15001,25.119977",
     "geom:latitude":25.119977,
     "geom:longitude":99.15001,
     "iso:country":"CN",
@@ -69,8 +69,14 @@
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0a93\u0ab6\u0aa8"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d5\u05e9\u05d0\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u093e\u0913\u0936\u093e\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Paosan"
     ],
     "name:ind_x_preferred":[
         "Baoshan"
@@ -121,6 +127,9 @@
         "Baoshan"
     ],
     "name:pol_x_preferred":[
+        "Baoshan"
+    ],
+    "name:por_x_preferred":[
         "Baoshan"
     ],
     "name:rus_x_preferred":[
@@ -283,7 +292,7 @@
     },
     "wof:country":"CN",
     "wof:created":1499131054,
-    "wof:geomhash":"11f1665f1ededa3ce97ee6c50e52782c",
+    "wof:geomhash":"27a4eeffeabe6d2a925e5f834a4cbfb1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -295,7 +304,7 @@
         }
     ],
     "wof:id":1141909251,
-    "wof:lastmodified":1566706036,
+    "wof:lastmodified":1636504638,
     "wof:name":"Baoshan",
     "wof:parent_id":890514251,
     "wof:placetype":"locality",
@@ -305,10 +314,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    99.15000972391692,
-    25.11997702941386,
-    99.15000972391692,
-    25.11997702941386
+    99.15001,
+    25.119977,
+    99.15001,
+    25.119977
 ],
-  "geometry": {"coordinates":[99.15000972391692,25.11997702941386],"type":"Point"}
+  "geometry": {"coordinates":[99.15000999999999,25.119977],"type":"Point"}
 }

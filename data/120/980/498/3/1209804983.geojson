@@ -29,6 +29,69 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u0646\u0634\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09be\u09a8\u099a\u09be"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ac\u03bd\u03c4\u03c3\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0646\u0686\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Nancha"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e0\u05e6'\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u093e\u0902\u091a\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Nancha"
+    ],
+    "name:ind_x_preferred":[
+        "Nancha"
+    ],
+    "name:ita_x_preferred":[
+        "Nancha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5357\u5c94"
+    ],
+    "name:kor_x_preferred":[
+        "\ub09c\ucc28"
+    ],
+    "name:nld_x_preferred":[
+        "Nancha"
+    ],
+    "name:pol_x_preferred":[
+        "Nancha"
+    ],
+    "name:por_x_preferred":[
+        "Nancha"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u043d\u044c\u0447\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Nancha"
+    ],
+    "name:tur_x_preferred":[
+        "Nancha"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u043d\u044c\u0447\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0646\u0686\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Nam X\u00f3a"
+    ],
     "name:zho_x_preferred":[
         "\u5357\u5c94"
     ],
@@ -45,7 +108,7 @@
         "gn:id":10405550
     },
     "wof:country":"CN",
-    "wof:geomhash":"fd2b138897cdbf58664e9d5e306d3b6f",
+    "wof:geomhash":"a5276955e39560adfc79374882480076",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +120,7 @@
         }
     ],
     "wof:id":1209804983,
-    "wof:lastmodified":1566683536,
+    "wof:lastmodified":1636504038,
     "wof:name":"Nancha",
     "wof:parent_id":890515631,
     "wof:placetype":"locality",
@@ -67,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.74741000000002,
+    111.74741,
     34.15534,
-    111.74741000000002,
+    111.74741,
     34.15534
 ],
-  "geometry": {"coordinates":[111.74741000000002,34.15534],"type":"Point"}
+  "geometry": {"coordinates":[111.74741,34.15534],"type":"Point"}
 }

@@ -20,6 +20,12 @@
     "name:eng_x_preferred":[
         "Fuxin"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e7\u05e1\u05d9\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Fuxin"
+    ],
     "name:zho_x_preferred":[
         "\u961c\u65b0\u9547"
     ],
@@ -35,11 +41,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85669807,
         102191569,
         85632695,
-        890514709,
         136253041,
-        85669807
+        890514709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":890515031,
-    "wof:lastmodified":1601422996,
+    "wof:lastmodified":1636504336,
     "wof:name":"Fuxin",
     "wof:parent_id":890514709,
     "wof:placetype":"locality",

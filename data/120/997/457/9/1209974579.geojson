@@ -60,6 +60,9 @@
     "name:fra_x_preferred":[
         "Hengshui"
     ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05e0\u05d2\u05e9\u05d5\u05d0\u05d9"
+    ],
     "name:ind_x_preferred":[
         "Hengshui"
     ],
@@ -142,7 +145,7 @@
         "gn:id":1808395
     },
     "wof:country":"CN",
-    "wof:geomhash":"0e9ae0d251d20e92e8c31cb44f3f98e7",
+    "wof:geomhash":"e194e647570e871da596d51250d37b78",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":1209974579,
-    "wof:lastmodified":1566679912,
+    "wof:lastmodified":1636503973,
     "wof:name":"Hengshui",
     "wof:parent_id":890514749,
     "wof:placetype":"locality",
@@ -164,10 +167,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    113.41306000000002,
+    113.41306,
     35.62528,
-    113.41306000000002,
+    113.41306,
     35.62528
 ],
-  "geometry": {"coordinates":[113.41306000000002,35.62528],"type":"Point"}
+  "geometry": {"coordinates":[113.41306,35.62528],"type":"Point"}
 }

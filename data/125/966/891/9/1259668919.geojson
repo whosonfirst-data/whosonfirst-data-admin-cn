@@ -35,7 +35,16 @@
     "name:deu_x_preferred":[
         "Linjiang"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0646\u062c\u06cc\u0627\u0646\u06af"
+    ],
     "name:fra_x_preferred":[
+        "Linjiang"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05e0\u05d2'\u05d9\u05d0\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
         "Linjiang"
     ],
     "name:ita_x_preferred":[
@@ -97,7 +106,7 @@
         "gn:id":8507931
     },
     "wof:country":"CN",
-    "wof:geomhash":"d92d7be2da2c4b883eeedf6705ec9fbd",
+    "wof:geomhash":"789d982b98f5fbe2c860a8dab8d89ace",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":1259668919,
-    "wof:lastmodified":1566699527,
+    "wof:lastmodified":1636504496,
     "wof:name":"Linjiang",
     "wof:parent_id":890514509,
     "wof:placetype":"locality",
@@ -120,9 +129,9 @@
 },
   "bbox": [
     126.46663,
-    46.44132000000001,
+    46.44132,
     126.46663,
-    46.44132000000001
+    46.44132
 ],
-  "geometry": {"coordinates":[126.46662999999999,46.44132000000001],"type":"Point"}
+  "geometry": {"coordinates":[126.46662999999999,46.44132],"type":"Point"}
 }

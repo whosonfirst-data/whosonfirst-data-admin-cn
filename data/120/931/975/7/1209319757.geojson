@@ -56,6 +56,12 @@
     "name:hak_x_preferred":[
         "S\u00ee-chh\u00f4ng-s\u1e73"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e1\u05d9\u05e6'\u05d0\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Hszicsang"
+    ],
     "name:ind_x_preferred":[
         "Xichang"
     ],
@@ -83,11 +89,17 @@
     "name:pol_x_preferred":[
         "Xichang"
     ],
+    "name:por_x_preferred":[
+        "Xichang"
+    ],
     "name:ron_x_preferred":[
         "Xichang"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u0447\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Xichang"
     ],
     "name:swe_x_preferred":[
         "Xichang"
@@ -116,7 +128,7 @@
         "gn:id":7332439
     },
     "wof:country":"CN",
-    "wof:geomhash":"831c8a5ca2c8828f4d736bcef506a2a4",
+    "wof:geomhash":"3109c1ac7c5db0142db2c27448963434",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -124,7 +136,7 @@
         }
     ],
     "wof:id":1209319757,
-    "wof:lastmodified":1566678739,
+    "wof:lastmodified":1636503951,
     "wof:name":"Xichang",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -134,10 +146,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.91306000000002,
+    120.91306,
     31.30805,
-    120.91306000000002,
+    120.91306,
     31.30805
 ],
-  "geometry": {"coordinates":[120.91306000000002,31.30805],"type":"Point"}
+  "geometry": {"coordinates":[120.91306,31.30805],"type":"Point"}
 }

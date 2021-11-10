@@ -54,6 +54,9 @@
         "Tana"
     ],
     "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05e0\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05d8\u05e0\u05d4"
     ],
     "name:hrv_x_preferred":[
@@ -62,11 +65,17 @@
     "name:hun_x_preferred":[
         "Tana"
     ],
+    "name:ind_x_preferred":[
+        "Tana"
+    ],
     "name:ita_x_preferred":[
         "Tana"
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10d0\u10dc\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\ub098"
     ],
     "name:lim_x_preferred":[
         "Tana"
@@ -107,8 +116,14 @@
     "name:und_x_variant":[
         "\u5854\u90a3"
     ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0646\u0627"
+    ],
     "name:uzb_x_preferred":[
         "Tana"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Tana"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -123,7 +138,7 @@
         "gn:id":7343312
     },
     "wof:country":"CN",
-    "wof:geomhash":"bd3b4d4fb4e43e5d44516f50a78f2e84",
+    "wof:geomhash":"520d0952f3fd379743f17aa49ace81b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +150,7 @@
         }
     ],
     "wof:id":1293472351,
-    "wof:lastmodified":1566668340,
+    "wof:lastmodified":1636503774,
     "wof:name":"Tana",
     "wof:parent_id":1108794071,
     "wof:placetype":"locality",
@@ -146,9 +161,9 @@
 },
   "bbox": [
     103.41396,
-    34.73034000000001,
+    34.73034,
     103.41396,
-    34.73034000000001
+    34.73034
 ],
-  "geometry": {"coordinates":[103.41396,34.73034000000001],"type":"Point"}
+  "geometry": {"coordinates":[103.41396,34.73034],"type":"Point"}
 }

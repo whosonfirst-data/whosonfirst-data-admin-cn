@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u062a\u0634\u0648"
+    ],
     "name:ast_x_preferred":[
         "Huzhou"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:deu_x_preferred":[
         "Huzhou"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03cd\u03c4\u03b6\u03bf\u03bf\u03c5"
     ],
     "name:eng_x_colloquial":[
         ""
@@ -85,6 +91,15 @@
     ],
     "name:hak_x_preferred":[
         "F\u00f9-ch\u00fb-s\u1e73"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05d6'\u05d5\u05d0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u0941\u091c\u093c\u094b\u0909"
+    ],
+    "name:hun_x_preferred":[
+        "Huzhou"
     ],
     "name:ind_x_preferred":[
         "Huzhou"
@@ -307,11 +322,11 @@
     "src:population":"geonames",
     "wd:wordcount":1831,
     "wof:belongsto":[
+        85669835,
         102191569,
         85632695,
-        890516975,
         136253041,
-        85669835
+        890516975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -342,7 +357,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1608688165,
+    "wof:lastmodified":1636503583,
     "wof:megacity":1,
     "wof:name":"Huzhou",
     "wof:parent_id":890516975,

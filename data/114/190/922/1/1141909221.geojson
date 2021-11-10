@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"98.2666011139,36.1665895783,98.2666011139,36.1665895783",
+    "geom:bbox":"98.266601,36.16659,98.266601,36.16659",
     "geom:latitude":36.16659,
     "geom:longitude":98.266601,
     "iso:country":"CN",
@@ -18,6 +18,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0644\u0627\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09c1\u09b2\u09be\u09a8"
+    ],
+    "name:deu_x_preferred":[
+        "Dulan"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03bf\u03c5\u03bb\u03ac\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Dulan"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Dulan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05dc\u05d0\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u0941\u0932\u093e\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Dulan"
+    ],
+    "name:ind_x_preferred":[
+        "Dulan"
+    ],
+    "name:ita_x_preferred":[
+        "Dulan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u90fd\u862d"
+    ],
+    "name:kor_x_preferred":[
+        "\ub458\ub780"
+    ],
+    "name:nld_x_preferred":[
+        "Dulan"
+    ],
+    "name:pol_x_preferred":[
+        "Dulan"
+    ],
+    "name:por_x_preferred":[
+        "Dulan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u043b\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Dulan"
+    ],
+    "name:swe_x_preferred":[
+        "Dulan"
+    ],
+    "name:tur_x_preferred":[
+        "Dulan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u043b\u0430\u043d\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0648\u0644\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 Lan"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u90fd\u5170"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u90fd\u862d"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
     "ne:ADM0_A3":"CHN",
@@ -125,7 +203,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499131045,
-    "wof:geomhash":"1b1958c3ba9bad0ba16a6248a17e5743",
+    "wof:geomhash":"cc2264e107db406d771a3d69e0fd3dcc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +215,7 @@
         }
     ],
     "wof:id":1141909221,
-    "wof:lastmodified":1566706036,
+    "wof:lastmodified":1636504637,
     "wof:name":"Dulan",
     "wof:parent_id":1108732461,
     "wof:placetype":"locality",
@@ -147,10 +225,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    98.26660111388742,
-    36.16658957828611,
-    98.26660111388742,
-    36.16658957828611
+    98.266601,
+    36.16659,
+    98.266601,
+    36.16659
 ],
-  "geometry": {"coordinates":[98.26660111388742,36.16658957828611],"type":"Point"}
+  "geometry": {"coordinates":[98.26660099999999,36.16659],"type":"Point"}
 }

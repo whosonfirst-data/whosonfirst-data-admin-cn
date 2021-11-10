@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.516654825,50.6516227408,121.516654825,50.6516227408",
+    "geom:bbox":"121.516655,50.651623,121.516655,50.651623",
     "geom:latitude":50.651623,
     "geom:longitude":121.516655,
     "iso:country":"CN",
@@ -18,11 +18,80 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u064a\u0648\u062a\u0634\u064a\u0644\u064a \u0647\u0627\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0993\u09df\u09be\u09a4\u09c1\u09b2\u09bf\u09b9\u09c7"
+    ],
+    "name:deu_x_preferred":[
+        "Yitulihe"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03c4\u03bf\u03c5\u03bb\u03af\u03c7\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Yitulihe"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u06cc\u062a\u0648\u0644\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Yitulihezhen"
+    ],
     "name:gan_x_preferred":[
         "\u4f0a\u56fe\u91cc\u6cb3\u9547"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d9\u05d8\u05d5\u05dc\u05d9\u05d7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092f\u0940\u0924\u0942\u0932\u093f\u0939\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Yitulihe"
+    ],
+    "name:ind_x_preferred":[
+        "Yitulihe"
+    ],
+    "name:ita_x_preferred":[
+        "Yitulihe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u7389\u6797"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\ud234\ub9ac\ud5e4"
+    ],
+    "name:nld_x_preferred":[
+        "Yitulihe"
+    ],
+    "name:pol_x_preferred":[
+        "Yitulihe"
+    ],
+    "name:por_x_preferred":[
+        "Yitulihe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0442\u0443\u043b\u0438\u0445\u044d"
+    ],
+    "name:spa_x_preferred":[
+        "Yitulihe"
+    ],
+    "name:swe_x_preferred":[
+        "Yitulihe"
+    ],
+    "name:tur_x_preferred":[
+        "Yitulihe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0442\u0443\u043b\u0456\u0445\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u06cc\u062a\u0648\u0644\u0627\u0626\u06cc\u06c1\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Y \u0110\u1ed3 L\u00ed H\u00e0"
     ],
     "name:wuu_x_preferred":[
         "\u4f0a\u56fe\u91cc\u6cb3\u9547"
@@ -139,7 +208,7 @@
     },
     "wof:country":"CN",
     "wof:created":1499130761,
-    "wof:geomhash":"eaa9597fcc13ab3103f5a805dea8e30f",
+    "wof:geomhash":"953d899f199015aa871c86be37599a52",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -151,7 +220,7 @@
         }
     ],
     "wof:id":1141907713,
-    "wof:lastmodified":1566706036,
+    "wof:lastmodified":1636504637,
     "wof:name":"Yitulihe",
     "wof:parent_id":1108732385,
     "wof:placetype":"locality",
@@ -161,10 +230,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    121.51665482491785,
-    50.65162274077892,
-    121.51665482491785,
-    50.65162274077892
+    121.516655,
+    50.651623,
+    121.516655,
+    50.651623
 ],
-  "geometry": {"coordinates":[121.51665482491785,50.65162274077892],"type":"Point"}
+  "geometry": {"coordinates":[121.516655,50.651623],"type":"Point"}
 }

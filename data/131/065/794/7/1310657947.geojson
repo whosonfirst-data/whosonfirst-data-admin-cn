@@ -72,6 +72,9 @@
     "name:fra_x_preferred":[
         "Xinyang"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e1\u05d9\u05e0\u05d9\u05d0\u05e0\u05d2"
+    ],
     "name:ind_x_preferred":[
         "Xinyang"
     ],
@@ -157,7 +160,7 @@
         "gn:id":8709858
     },
     "wof:country":"CN",
-    "wof:geomhash":"d80032cea023f1789edac7432af55dc6",
+    "wof:geomhash":"650c31f52c133815083c7a9c4cdd4a2c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":1310657947,
-    "wof:lastmodified":1566688693,
+    "wof:lastmodified":1636504155,
     "wof:name":"Xinyang",
     "wof:parent_id":890514775,
     "wof:placetype":"locality",
@@ -180,9 +183,9 @@
 },
   "bbox": [
     119.69289,
-    35.63269000000001,
+    35.63269,
     119.69289,
-    35.63269000000001
+    35.63269
 ],
-  "geometry": {"coordinates":[119.69289000000001,35.63269000000001],"type":"Point"}
+  "geometry": {"coordinates":[119.69289000000001,35.63269],"type":"Point"}
 }

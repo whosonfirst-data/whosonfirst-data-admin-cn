@@ -20,6 +20,12 @@
     "name:eng_x_preferred":[
         "Mianyang"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05d0\u05e0\u05d9\u05d0\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Mienjang"
+    ],
     "name:zho_x_preferred":[
         "\u7ef5\u9633\u5e02"
     ],
@@ -35,11 +41,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85669787,
         102191569,
         85632695,
-        890514157,
         136253041,
-        85669787
+        890514157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":890516751,
-    "wof:lastmodified":1601423027,
+    "wof:lastmodified":1636504291,
     "wof:name":"Mianyang",
     "wof:parent_id":890514157,
     "wof:placetype":"locality",

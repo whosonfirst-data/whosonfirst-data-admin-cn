@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"123.716675577,50.5666666861,123.716675577,50.5666666861",
+    "geom:bbox":"123.716676,50.566667,123.716676,50.566667",
     "geom:latitude":50.566667,
     "geom:longitude":123.716676,
     "iso:country":"CN",
@@ -18,6 +18,75 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0631\u0648\u0646\u062c\u0632\u0646 \u0632\u064a\u0632\u064a\u0643\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0993\u09b0\u09c7\u09a8\u0997\u09c7\u09a8 \u099c\u09bf\u099d\u09bf\u0995\u09bf"
+    ],
+    "name:deu_x_preferred":[
+        "Oroqenisches Autonomes Banner"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c1\u03bf\u03bd\u03c4\u03b6\u03ad\u03bd \u0396\u03b9\u03b6\u03b9\u03ba\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Orongen Zizhiqi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u0648\u0646\u06af\u0646 \u0632\u06cc\u0698\u06cc\u0642\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00e9gion autonome du Tibet"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8\u05d5\u05e0\u05d2\u05df \u05d6\u05d9\u05d6'\u05d9\u05e7\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0913\u0930\u094b\u0902\u0917\u0947\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Orongen Zizhiqi"
+    ],
+    "name:ind_x_preferred":[
+        "Orongen Zizhiqi"
+    ],
+    "name:ita_x_preferred":[
+        "Bandiera autonoma di Oroqen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30ed\u30c1\u30e7\u30f3\u81ea\u6cbb\u65d7"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\ub871\uac90 \uc9c0\uc988\uce58"
+    ],
+    "name:nld_x_preferred":[
+        "Orongen Zizhiqi"
+    ],
+    "name:pol_x_preferred":[
+        "Orongen Zizhiqi"
+    ],
+    "name:por_x_preferred":[
+        "Oroqen Zizhiqi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u043e\u0447\u043e\u043d\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u0445\u043e\u0448\u0443\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Orongen Zizhiqi"
+    ],
+    "name:tur_x_preferred":[
+        "Orongen Zizhiqi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u043e\u043d\u0433\u0435\u043d-\u0426\u0437\u0438\u0447\u0436\u0438\u0446\u0438"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0631\u0648\u0646\u06af\u0646 \u0632\u06cc\u0632\u06cc\u0642\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Khu t\u1ef1 tr\u1ecb Ng\u1ea1c Lu\u00e2n Xu\u00e2n"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
     "ne:ADM0_A3":"CHN",
@@ -125,7 +194,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499130609,
-    "wof:geomhash":"f0ab71dd0624f1d7cdb32ac226c2d126",
+    "wof:geomhash":"e308ed5452b048cf6569c3f608de83d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +206,7 @@
         }
     ],
     "wof:id":1141906559,
-    "wof:lastmodified":1566706039,
+    "wof:lastmodified":1636504642,
     "wof:name":"Orongen Zizhiqi",
     "wof:parent_id":1108732385,
     "wof:placetype":"locality",
@@ -147,10 +216,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    123.71667557687977,
-    50.5666666860912,
-    123.71667557687977,
-    50.5666666860912
+    123.716676,
+    50.566667,
+    123.716676,
+    50.566667
 ],
-  "geometry": {"coordinates":[123.71667557687977,50.5666666860912],"type":"Point"}
+  "geometry": {"coordinates":[123.71667600000001,50.566667],"type":"Point"}
 }

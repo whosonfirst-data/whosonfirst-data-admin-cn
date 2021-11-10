@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"118.350026407,34.3800061229,118.350026407,34.3800061229",
+    "geom:bbox":"118.350026,34.380006,118.350026,34.380006",
     "geom:latitude":34.380006,
     "geom:longitude":118.350026,
     "iso:country":"CN",
@@ -24,7 +24,16 @@
     "name:deu_x_preferred":[
         "Xinyi"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0646\u06cc"
+    ],
     "name:fra_x_preferred":[
+        "Xinyi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e1\u05d9\u05e0\u05d9\u05d9"
+    ],
+    "name:hun_x_preferred":[
         "Xinyi"
     ],
     "name:jpn_x_preferred":[
@@ -152,7 +161,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499130608,
-    "wof:geomhash":"7ae8e34fd4fd204db42da80d804dcb0c",
+    "wof:geomhash":"ea2daa03a9b17cf0d123639dd8792e9a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -164,7 +173,7 @@
         }
     ],
     "wof:id":1141906549,
-    "wof:lastmodified":1566706039,
+    "wof:lastmodified":1636504643,
     "wof:name":"Xinyi",
     "wof:parent_id":890516333,
     "wof:placetype":"locality",
@@ -174,10 +183,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    118.35002640693654,
-    34.38000612287527,
-    118.35002640693654,
-    34.38000612287527
+    118.350026,
+    34.380006,
+    118.350026,
+    34.380006
 ],
-  "geometry": {"coordinates":[118.35002640693654,34.38000612287527],"type":"Point"}
+  "geometry": {"coordinates":[118.350026,34.380006],"type":"Point"}
 }

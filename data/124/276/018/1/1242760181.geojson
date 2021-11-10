@@ -78,6 +78,9 @@
         "Dali"
     ],
     "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u0414\u0430\u043b\u0438"
+    ],
+    "name:rus_x_variant":[
         "\u0414\u0430\u043b\u0438"
     ],
     "name:spa_x_preferred":[
@@ -92,8 +95,23 @@
     "name:tgl_x_preferred":[
         "Dali"
     ],
+    "name:tur_x_preferred":[
+        "Dali"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0430\u043b\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u0627\u0644\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Dali"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5927\u91cc\u6eaa"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5927\u7406\u6cb3"
     ],
     "name:zho_x_preferred":[
         "\u5927\u674e"
@@ -111,7 +129,7 @@
         "gn:id":7347787
     },
     "wof:country":"CN",
-    "wof:geomhash":"037c22fac6753e69eda81dbf466ff921",
+    "wof:geomhash":"a5285bbda4c94dfd43a42e127ed68b69",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -123,7 +141,7 @@
         }
     ],
     "wof:id":1242760181,
-    "wof:lastmodified":1566696786,
+    "wof:lastmodified":1636504429,
     "wof:name":"Dali",
     "wof:parent_id":890516335,
     "wof:placetype":"locality",
@@ -133,10 +151,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    104.97856000000002,
+    104.97856,
     33.46276,
-    104.97856000000002,
+    104.97856,
     33.46276
 ],
-  "geometry": {"coordinates":[104.97856000000002,33.46276],"type":"Point"}
+  "geometry": {"coordinates":[104.97856,33.46276],"type":"Point"}
 }

@@ -68,6 +68,12 @@
     "name:fra_x_preferred":[
         "Pingdingshan"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05e0\u05d2\u05d3\u05d9\u05e0\u05d2\u05e9\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Pingdingshan"
+    ],
     "name:ind_x_preferred":[
         "Pingdingshan"
     ],
@@ -153,7 +159,7 @@
         "gn:id":11567500
     },
     "wof:country":"CN",
-    "wof:geomhash":"000fb4784c71131b3822820a1d1d5f32",
+    "wof:geomhash":"2dfe8e593e8414e782e9c2c3ef8ddb43",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":1327020421,
-    "wof:lastmodified":1566651165,
+    "wof:lastmodified":1636503522,
     "wof:name":"Pingdingshan",
     "wof:parent_id":1108732377,
     "wof:placetype":"locality",
@@ -175,10 +181,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    133.81028999999998,
+    133.81029,
     47.32349,
-    133.81028999999998,
+    133.81029,
     47.32349
 ],
-  "geometry": {"coordinates":[133.81028999999998,47.32349],"type":"Point"}
+  "geometry": {"coordinates":[133.81029000000001,47.32349],"type":"Point"}
 }

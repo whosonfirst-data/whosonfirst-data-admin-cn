@@ -23,6 +23,15 @@
     "name:eng_x_variant":[
         "Baoshan District"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d5\u05e9\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Paosan"
+    ],
+    "name:por_x_preferred":[
+        "Baoshan"
+    ],
     "name:zho_x_preferred":[
         "\u5b9d\u5c71\u533a"
     ],
@@ -38,11 +47,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85669831,
         102191569,
         85632695,
-        890514815,
         136253041,
-        85669831
+        890514815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":890515321,
-    "wof:lastmodified":1601422979,
+    "wof:lastmodified":1636504345,
     "wof:name":"Baoshan",
     "wof:parent_id":890514815,
     "wof:placetype":"localadmin",

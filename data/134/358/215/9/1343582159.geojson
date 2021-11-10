@@ -29,6 +29,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u064a\u0627\u0646\u063a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b6\u09c1\u0987\u09df\u09be\u0982"
+    ],
+    "name:deu_x_preferred":[
+        "Shuyang"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c5\u03b9\u03ac\u03bd\u03b3\u03ba"
+    ],
+    "name:eng_x_preferred":[
+        "Shuyang"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u06cc\u0627\u0646\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Shuyang"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d5\u05d9\u05d0\u05e0\u05d2"
+    ],
+    "name:hin_x_preferred":[
+        "\u0936\u0941\u092f\u093e\u0902\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Shuyang"
+    ],
+    "name:ind_x_preferred":[
+        "Shuyang"
+    ],
+    "name:ita_x_preferred":[
+        "Shuyang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e5\u30c4\u967d"
+    ],
+    "name:kor_x_preferred":[
+        "\uc288\uc591"
+    ],
+    "name:nld_x_preferred":[
+        "Shuyang"
+    ],
+    "name:pol_x_preferred":[
+        "Shuyang"
+    ],
+    "name:por_x_preferred":[
+        "Shuyang"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u044f\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Shuyang"
+    ],
+    "name:swe_x_preferred":[
+        "Shuyang"
+    ],
+    "name:tur_x_preferred":[
+        "Shuyang"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0443\u044f\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0648\u06cc\u0627\u0646\u06af"
+    ],
+    "name:vie_x_preferred":[
+        "Thu\u1eadt D\u01b0\u01a1ng"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6cad\u9633\u53bf"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6cad\u967d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669735,
@@ -42,7 +120,7 @@
         "gn:id":1909919
     },
     "wof:country":"CN",
-    "wof:geomhash":"4d99bf45adbf41560f85bf8c97361157",
+    "wof:geomhash":"f453ac6facb1907a7bb5b76e5de109b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +132,7 @@
         }
     ],
     "wof:id":1343582159,
-    "wof:lastmodified":1566661658,
+    "wof:lastmodified":1636503680,
     "wof:name":"Shuyang",
     "wof:parent_id":890516577,
     "wof:placetype":"locality",
@@ -65,9 +143,9 @@
 },
   "bbox": [
     119.21,
-    26.74167000000001,
+    26.74167,
     119.21,
-    26.74167000000001
+    26.74167
 ],
-  "geometry": {"coordinates":[119.20999999999999,26.74167000000001],"type":"Point"}
+  "geometry": {"coordinates":[119.20999999999999,26.74167],"type":"Point"}
 }

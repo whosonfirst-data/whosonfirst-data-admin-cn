@@ -38,6 +38,12 @@
     "name:fra_x_preferred":[
         "Huaiyin"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05d0\u05d9\u05d9\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Huaiyin"
+    ],
     "name:kor_x_preferred":[
         "\ud654\uc774\uc778\uad6c"
     ],
@@ -66,7 +72,7 @@
         "gn:id":10362472
     },
     "wof:country":"CN",
-    "wof:geomhash":"84b2ebc3e9a5505087353f8c3907a5b8",
+    "wof:geomhash":"4dbc820735cc14ee7475393cdfe426c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1260272477,
-    "wof:lastmodified":1566687094,
+    "wof:lastmodified":1636504113,
     "wof:name":"Huaiyin",
     "wof:parent_id":890515835,
     "wof:placetype":"locality",
@@ -89,9 +95,9 @@
 },
   "bbox": [
     112.35676,
-    35.04049000000001,
+    35.04049,
     112.35676,
-    35.04049000000001
+    35.04049
 ],
-  "geometry": {"coordinates":[112.35675999999999,35.04049000000001],"type":"Point"}
+  "geometry": {"coordinates":[112.35675999999999,35.04049],"type":"Point"}
 }

@@ -62,6 +62,12 @@
     "name:fra_x_preferred":[
         "Nanchong"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d0\u05e0\u05e6'\u05d5\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Nancsung"
+    ],
     "name:ind_x_preferred":[
         "Nanchong"
     ],
@@ -138,7 +144,7 @@
         "gn:id":10364948
     },
     "wof:country":"CN",
-    "wof:geomhash":"56c8582e5cf1c7e10e1312b800f3d238",
+    "wof:geomhash":"ae729559188802cf6e074ad95cd08dd2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -150,7 +156,7 @@
         }
     ],
     "wof:id":1310186039,
-    "wof:lastmodified":1566689799,
+    "wof:lastmodified":1636504183,
     "wof:name":"Nanchong",
     "wof:parent_id":890514309,
     "wof:placetype":"locality",
@@ -161,9 +167,9 @@
 },
   "bbox": [
     111.18215,
-    26.88112000000001,
+    26.88112,
     111.18215,
-    26.88112000000001
+    26.88112
 ],
-  "geometry": {"coordinates":[111.18214999999999,26.88112000000001],"type":"Point"}
+  "geometry": {"coordinates":[111.18214999999999,26.88112],"type":"Point"}
 }

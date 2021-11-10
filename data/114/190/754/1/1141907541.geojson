@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"101.424186156,36.045098286,101.424186156,36.045098286",
+    "geom:bbox":"101.424186,36.045098,101.424186,36.045098",
     "geom:latitude":36.045098,
     "geom:longitude":101.424186,
     "iso:country":"CN",
@@ -25,7 +25,43 @@
         "Gids"
     ],
     "name:kor_x_preferred":[
+        "\uac00\uc774\ub4dc"
+    ],
+    "name:kor_x_variant":[
         "\uae38\uc7a1\uc774"
+    ],
+    "name:nld_x_preferred":[
+        "Guide"
+    ],
+    "name:pol_x_preferred":[
+        "Guide"
+    ],
+    "name:por_x_preferred":[
+        "Guide"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0439\u0434\u044d"
+    ],
+    "name:swe_x_preferred":[
+        "Guide"
+    ],
+    "name:tur_x_preferred":[
+        "Guide"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u0439\u0434\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0627\u0626\u06cc\u0688"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u00fd \u0110\u1ee9c"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8d35\u5fb7"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8cb4\u5fb7"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -134,7 +170,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499130739,
-    "wof:geomhash":"32be307b36f75d8097296016ae7542eb",
+    "wof:geomhash":"d6834e373dded76203d2f5290fda07e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -146,7 +182,7 @@
         }
     ],
     "wof:id":1141907541,
-    "wof:lastmodified":1566706034,
+    "wof:lastmodified":1636504634,
     "wof:name":"Guide",
     "wof:parent_id":890515871,
     "wof:placetype":"locality",
@@ -156,10 +192,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    101.42418615621773,
-    36.04509828596792,
-    101.42418615621773,
-    36.04509828596792
+    101.424186,
+    36.045098,
+    101.424186,
+    36.045098
 ],
-  "geometry": {"coordinates":[101.42418615621773,36.04509828596792],"type":"Point"}
+  "geometry": {"coordinates":[101.42418600000001,36.045098],"type":"Point"}
 }

@@ -39,12 +39,21 @@
         "Wuyuan"
     ],
     "name:kor_x_preferred":[
+        "\uc6b0\uc704\uc548"
+    ],
+    "name:kor_x_variant":[
         "\uc6b0\uc704\uc548\ud604"
+    ],
+    "name:nld_x_preferred":[
+        "Wuyuan"
     ],
     "name:nor_x_preferred":[
         "Wuyuan"
     ],
     "name:pol_x_preferred":[
+        "Wuyuan"
+    ],
+    "name:por_x_preferred":[
         "Wuyuan"
     ],
     "name:rus_x_preferred":[
@@ -53,8 +62,26 @@
     "name:swe_x_preferred":[
         "Wuyuan"
     ],
+    "name:tur_x_preferred":[
+        "Wuyuan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0443\u044e\u0430\u043d\u044c"
+    ],
     "name:und_x_variant":[
         "\u5434\u539f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0648\u06cc\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "V\u1ee5 Nguy\u00ean"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5a7a\u6e90"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5a7a\u6e90"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +96,7 @@
         "gn:id":7518397
     },
     "wof:country":"CN",
-    "wof:geomhash":"1ae0bf9098e0775edea6438e864621b4",
+    "wof:geomhash":"4925a851a67b71d9c948ac50d23e26c0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +108,7 @@
         }
     ],
     "wof:id":1309988539,
-    "wof:lastmodified":1566692294,
+    "wof:lastmodified":1636504245,
     "wof:name":"Wuyuan",
     "wof:parent_id":890512845,
     "wof:placetype":"locality",
@@ -92,9 +119,9 @@
 },
   "bbox": [
     107.80348,
-    36.36004000000001,
+    36.36004,
     107.80348,
-    36.36004000000001
+    36.36004
 ],
-  "geometry": {"coordinates":[107.80347999999999,36.36004000000001],"type":"Point"}
+  "geometry": {"coordinates":[107.80347999999999,36.36004],"type":"Point"}
 }

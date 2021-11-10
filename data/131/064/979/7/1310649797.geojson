@@ -38,6 +38,9 @@
     "name:bel_x_preferred":[
         "\u041a\u0435\u043c\u0456"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09c7\u09ae\u09bf"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0435\u043c\u0438"
     ],
@@ -76,6 +79,12 @@
     ],
     "name:glg_x_preferred":[
         "Kemi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05de\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0947\u092e\u0940"
     ],
     "name:hun_x_preferred":[
         "Kemi"
@@ -149,6 +158,9 @@
     "name:vep_x_preferred":[
         "Kemi"
     ],
+    "name:vie_x_preferred":[
+        "Kemi"
+    ],
     "name:zho_x_preferred":[
         "\u514b\u7c73"
     ],
@@ -165,7 +177,7 @@
         "gn:id":6960522
     },
     "wof:country":"CN",
-    "wof:geomhash":"6874a36ae0066469f0017c3349e4b961",
+    "wof:geomhash":"0b4e6ecfdb797e9d9dbc75474fb5b06b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -177,7 +189,7 @@
         }
     ],
     "wof:id":1310649797,
-    "wof:lastmodified":1566689216,
+    "wof:lastmodified":1636504169,
     "wof:name":"Kemi",
     "wof:parent_id":1108794061,
     "wof:placetype":"locality",
@@ -188,9 +200,9 @@
 },
   "bbox": [
     100.61854,
-    28.54854000000001,
+    28.54854,
     100.61854,
-    28.54854000000001
+    28.54854
 ],
-  "geometry": {"coordinates":[100.61854,28.54854000000001],"type":"Point"}
+  "geometry": {"coordinates":[100.61854,28.54854],"type":"Point"}
 }

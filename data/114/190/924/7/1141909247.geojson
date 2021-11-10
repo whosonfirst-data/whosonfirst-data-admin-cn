@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"111.20999711,35.6199821157,111.20999711,35.6199821157",
+    "geom:bbox":"111.209997,35.619982,111.209997,35.619982",
     "geom:latitude":35.619982,
     "geom:longitude":111.209997,
     "iso:country":"CN",
@@ -40,9 +40,15 @@
         "Houma"
     ],
     "name:rus_x_preferred":[
+        "\u0425\u0443\u043c\u0430"
+    ],
+    "name:rus_x_variant":[
         "\u0425\u043e\u0443\u043c\u0430"
     ],
     "name:swe_x_preferred":[
+        "Houma"
+    ],
+    "name:vie_x_preferred":[
         "Houma"
     ],
     "ne:ADM0CAP":0.0,
@@ -152,7 +158,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499131054,
-    "wof:geomhash":"4b76db6a727ddc0ce1df37f2aec6edf8",
+    "wof:geomhash":"352e0408eed552522500f9591e38be1c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":1141909247,
-    "wof:lastmodified":1566706035,
+    "wof:lastmodified":1636504636,
     "wof:name":"Houma",
     "wof:parent_id":890514745,
     "wof:placetype":"locality",
@@ -174,10 +180,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.20999711003287,
-    35.61998211571881,
-    111.20999711003287,
-    35.61998211571881
+    111.209997,
+    35.619982,
+    111.209997,
+    35.619982
 ],
-  "geometry": {"coordinates":[111.20999711003287,35.61998211571881],"type":"Point"}
+  "geometry": {"coordinates":[111.209997,35.619982],"type":"Point"}
 }

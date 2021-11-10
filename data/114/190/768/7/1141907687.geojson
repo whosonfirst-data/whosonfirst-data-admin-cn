@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"100.978166869,22.7806882924,100.978166869,22.7806882924",
+    "geom:bbox":"100.978167,22.780688,100.978167,22.780688",
     "geom:latitude":22.780688,
     "geom:longitude":100.978167,
     "iso:country":"CN",
@@ -31,7 +31,22 @@
         "Sim\u00e3o"
     ],
     "name:ukr_x_preferred":[
+        "\u0421\u0456\u043c\u0430\u043e"
+    ],
+    "name:ukr_x_variant":[
         "\u0421\u0456\u043c\u0430\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0645\u0627\u0624"
+    ],
+    "name:vie_x_preferred":[
+        "T\u01b0 Mao"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u601d\u8305"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u601d\u8305"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -140,7 +155,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499130758,
-    "wof:geomhash":"13181f5d3812870ea73c23e9161fb203",
+    "wof:geomhash":"e96d322d1c53daba3fe936acd0429aff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -152,7 +167,7 @@
         }
     ],
     "wof:id":1141907687,
-    "wof:lastmodified":1566706038,
+    "wof:lastmodified":1636504640,
     "wof:name":"Simao",
     "wof:parent_id":890514995,
     "wof:placetype":"locality",
@@ -162,10 +177,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    100.97816686910664,
-    22.78068829242534,
-    100.97816686910664,
-    22.78068829242534
+    100.978167,
+    22.780688,
+    100.978167,
+    22.780688
 ],
-  "geometry": {"coordinates":[100.97816686910664,22.78068829242534],"type":"Point"}
+  "geometry": {"coordinates":[100.978167,22.780688],"type":"Point"}
 }

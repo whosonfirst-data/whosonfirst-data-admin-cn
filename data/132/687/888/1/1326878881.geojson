@@ -56,6 +56,12 @@
     "name:fra_x_preferred":[
         "Tianshui"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05d0\u05e0\u05e9\u05d5\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Tianshui"
+    ],
     "name:hye_x_preferred":[
         "\u054f\u0575\u0561\u0576\u0577\u0578\u0582\u0575"
     ],
@@ -153,7 +159,7 @@
         "gn:id":8400414
     },
     "wof:country":"CN",
-    "wof:geomhash":"c007275323bd775d8cd4f94cd212f8ff",
+    "wof:geomhash":"3f558b6a4d3dca41a3127f04d2792bce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":1326878881,
-    "wof:lastmodified":1566648401,
+    "wof:lastmodified":1636503490,
     "wof:name":"Tianshui",
     "wof:parent_id":890513063,
     "wof:placetype":"locality",
@@ -175,10 +181,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.58478999999998,
+    108.58479,
     31.57256,
-    108.58478999999998,
+    108.58479,
     31.57256
 ],
-  "geometry": {"coordinates":[108.58478999999998,31.57256],"type":"Point"}
+  "geometry": {"coordinates":[108.58479,31.57256],"type":"Point"}
 }

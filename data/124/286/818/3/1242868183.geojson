@@ -35,7 +35,19 @@
     "name:deu_x_preferred":[
         "Tumen"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03cd\u03bc\u03b5\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0645\u0646"
+    ],
     "name:fra_x_preferred":[
+        "Tumen"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05de\u05df"
+    ],
+    "name:hun_x_preferred":[
         "Tumen"
     ],
     "name:ita_x_preferred":[
@@ -59,6 +71,9 @@
     "name:swe_x_preferred":[
         "Tumen"
     ],
+    "name:urd_x_preferred":[
+        "\u0679\u06cc\u0648\u0645\u06cc\u0646"
+    ],
     "name:zho_x_preferred":[
         "\u571f\u95e8"
     ],
@@ -75,7 +90,7 @@
         "gn:id":10423530
     },
     "wof:country":"CN",
-    "wof:geomhash":"844efaa4c3a88f908e05e4b857b9e088",
+    "wof:geomhash":"c4ceb752da5d29cbc35f305ca349c924",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,7 +102,7 @@
         }
     ],
     "wof:id":1242868183,
-    "wof:lastmodified":1566694564,
+    "wof:lastmodified":1636504369,
     "wof:name":"Tumen",
     "wof:parent_id":890516339,
     "wof:placetype":"locality",
@@ -98,9 +113,9 @@
 },
   "bbox": [
     113.35076,
-    32.52444000000001,
+    32.52444,
     113.35076,
-    32.52444000000001
+    32.52444
 ],
-  "geometry": {"coordinates":[113.35075999999999,32.52444000000001],"type":"Point"}
+  "geometry": {"coordinates":[113.35075999999999,32.52444],"type":"Point"}
 }

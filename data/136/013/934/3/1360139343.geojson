@@ -93,6 +93,9 @@
         "Anshan"
     ],
     "name:jpn_x_preferred":[
+        "\u978d\u5c71"
+    ],
+    "name:jpn_x_variant":[
         "\u978d\u5c71\u5e02"
     ],
     "name:kaz_x_preferred":[
@@ -192,7 +195,7 @@
         "gn:id":11085714
     },
     "wof:country":"CN",
-    "wof:geomhash":"599756b6c576b9baf2a40efc2edb5c8f",
+    "wof:geomhash":"c74dc158d24bb29593efc74e27883d72",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":1360139343,
-    "wof:lastmodified":1566691290,
+    "wof:lastmodified":1636504221,
     "wof:name":"Anshan",
     "wof:parent_id":890515097,
     "wof:placetype":"locality",
@@ -215,9 +218,9 @@
 },
   "bbox": [
     110.80164,
-    39.25859000000001,
+    39.25859,
     110.80164,
-    39.25859000000001
+    39.25859
 ],
-  "geometry": {"coordinates":[110.80164000000001,39.25859000000001],"type":"Point"}
+  "geometry": {"coordinates":[110.80164000000001,39.25859],"type":"Point"}
 }

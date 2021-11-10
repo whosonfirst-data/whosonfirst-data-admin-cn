@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"97.2332791738,31.1666880483,97.2332791738,31.1666880483",
+    "geom:bbox":"97.233279,31.166688,97.233279,31.166688",
     "geom:latitude":31.166688,
     "geom:longitude":97.233279,
     "iso:country":"CN",
@@ -36,6 +36,9 @@
     "name:deu_x_preferred":[
         "Qamdo"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03bc\u03bd\u03c4\u03cc"
+    ],
     "name:eng_x_preferred":[
         "Chamdo"
     ],
@@ -57,8 +60,17 @@
     "name:hak_x_preferred":[
         "Tsh\u00f4ng-t\u00fb-s\u1e73"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05de\u05d3\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u091a\u092e\u0926\u094b \u0935\u093f\u092d\u093e\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Chamdo"
+    ],
+    "name:ind_x_preferred":[
+        "Chamdo"
     ],
     "name:ita_x_preferred":[
         "Prefettura di Qamdo"
@@ -90,6 +102,9 @@
     "name:pol_x_preferred":[
         "Qamdo"
     ],
+    "name:por_x_preferred":[
+        "Chamdo"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0430\u043c\u0434\u043e"
     ],
@@ -101,6 +116,9 @@
     ],
     "name:tur_x_preferred":[
         "Qamdo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u043c\u0434\u043e"
     ],
     "name:urd_x_preferred":[
         "\u0686\u0627\u0645\u062f\u0648"
@@ -226,7 +244,7 @@
     },
     "wof:country":"CN",
     "wof:created":1499130945,
-    "wof:geomhash":"a6185e72bd427cf81f0691bca107daeb",
+    "wof:geomhash":"9f640e4efb9064586d24028a3b4cddee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -238,7 +256,7 @@
         }
     ],
     "wof:id":1141908635,
-    "wof:lastmodified":1566706040,
+    "wof:lastmodified":1636504645,
     "wof:name":"Chamdo",
     "wof:parent_id":890514545,
     "wof:placetype":"locality",
@@ -248,10 +266,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    97.23327917377907,
-    31.16668804831812,
-    97.23327917377907,
-    31.16668804831812
+    97.233279,
+    31.166688,
+    97.233279,
+    31.166688
 ],
-  "geometry": {"coordinates":[97.23327917377907,31.16668804831812],"type":"Point"}
+  "geometry": {"coordinates":[97.233279,31.166688],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"107.149986531,34.3800061229,107.149986531,34.3800061229",
+    "geom:bbox":"107.149987,34.380006,107.149987,34.380006",
     "geom:latitude":34.380006,
     "geom:longitude":107.149987,
     "iso:country":"CN",
@@ -66,8 +66,14 @@
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0a93\u0a9c\u0ac0"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d5\u05d2'\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u093e\u0913\u091c\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Baoji"
     ],
     "name:hye_x_preferred":[
         "\u0532\u0578\u0561\u0581\u0566\u056b"
@@ -286,7 +292,7 @@
     },
     "wof:country":"CN",
     "wof:created":1499130947,
-    "wof:geomhash":"c9f2c2898125fd9048cfc73acd07a95d",
+    "wof:geomhash":"e8390985017bc6d40be248112a68221c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -298,7 +304,7 @@
         }
     ],
     "wof:id":1141908641,
-    "wof:lastmodified":1566706040,
+    "wof:lastmodified":1636504644,
     "wof:name":"Baoji",
     "wof:parent_id":890516525,
     "wof:placetype":"locality",
@@ -308,10 +314,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.1499865305895,
-    34.38000612287527,
-    107.1499865305895,
-    34.38000612287527
+    107.149987,
+    34.380006,
+    107.149987,
+    34.380006
 ],
-  "geometry": {"coordinates":[107.1499865305895,34.38000612287527],"type":"Point"}
+  "geometry": {"coordinates":[107.149987,34.380006],"type":"Point"}
 }

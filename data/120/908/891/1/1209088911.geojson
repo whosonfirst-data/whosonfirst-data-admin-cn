@@ -75,6 +75,9 @@
         "Fuyang"
     ],
     "name:jpn_x_preferred":[
+        "\u961c\u967d"
+    ],
+    "name:jpn_x_variant":[
         "\u961c\u967d\u5e02"
     ],
     "name:kik_x_preferred":[
@@ -102,6 +105,9 @@
         "\u0641\u0648\u06cc\u0627\u0646\u06af"
     ],
     "name:pol_x_preferred":[
+        "Fuyang"
+    ],
+    "name:por_x_preferred":[
         "Fuyang"
     ],
     "name:rus_x_preferred":[
@@ -146,7 +152,7 @@
         "gn:id":7367967
     },
     "wof:country":"CN",
-    "wof:geomhash":"ced4187bb760363754c2cd49ebf5385f",
+    "wof:geomhash":"b2f14fe89202425063b8e97227902371",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":1209088911,
-    "wof:lastmodified":1566679678,
+    "wof:lastmodified":1636503968,
     "wof:name":"Fuyang",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -165,9 +171,9 @@
 },
   "bbox": [
     107.3649,
-    34.93754000000001,
+    34.93754,
     107.3649,
-    34.93754000000001
+    34.93754
 ],
-  "geometry": {"coordinates":[107.36490000000001,34.93754000000001],"type":"Point"}
+  "geometry": {"coordinates":[107.36490000000001,34.93754],"type":"Point"}
 }

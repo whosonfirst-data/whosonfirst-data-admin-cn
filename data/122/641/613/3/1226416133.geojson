@@ -35,6 +35,9 @@
     "name:aym_x_preferred":[
         "Tarma"
     ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09be\u09b0\u09ae\u09be"
+    ],
     "name:bod_x_preferred":[
         "Tarma"
     ],
@@ -47,14 +50,35 @@
     "name:deu_x_preferred":[
         "Tarma"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03ac\u03c1\u03bc\u03b1"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0627\u0631\u0645\u0627"
     ],
     "name:fra_x_preferred":[
         "Tarma"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05e8\u05de\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u093e\u0930\u094d\u092e\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Tarma"
+    ],
+    "name:ind_x_preferred":[
+        "Tarma"
+    ],
     "name:ita_x_preferred":[
         "Tarma"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30eb\u30de"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\ub974\ub9c8"
     ],
     "name:lit_x_preferred":[
         "Tarma"
@@ -74,8 +98,23 @@
     "name:spa_x_preferred":[
         "Tarma"
     ],
+    "name:swe_x_preferred":[
+        "Tarma"
+    ],
+    "name:tur_x_preferred":[
+        "Tarma"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0440\u043c\u0430"
+    ],
     "name:und_x_variant":[
         "Ta\u2019erma Xiang"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0627\u0631\u0645\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Tarma"
     ],
     "name:war_x_preferred":[
         "Tarma"
@@ -103,7 +142,7 @@
         "gn:id":8056225
     },
     "wof:country":"CN",
-    "wof:geomhash":"213fa94c22b7fb1e34abb15dc7d6924d",
+    "wof:geomhash":"e3f701f3f82cff169dda70f0bd1169f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -115,7 +154,7 @@
         }
     ],
     "wof:id":1226416133,
-    "wof:lastmodified":1566704528,
+    "wof:lastmodified":1636504600,
     "wof:name":"Tarma",
     "wof:parent_id":1108732507,
     "wof:placetype":"locality",
@@ -125,10 +164,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    89.11003000000002,
+    89.11003,
     30.68177,
-    89.11003000000002,
+    89.11003,
     30.68177
 ],
-  "geometry": {"coordinates":[89.11003000000002,30.68177],"type":"Point"}
+  "geometry": {"coordinates":[89.11002999999999,30.68177],"type":"Point"}
 }

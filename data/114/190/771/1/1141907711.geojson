@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"119.183360554,43.9837093293,119.183360554,43.9837093293",
+    "geom:bbox":"119.183361,43.983709,119.183361,43.983709",
     "geom:latitude":43.983709,
     "geom:longitude":119.183361,
     "iso:country":"CN",
@@ -18,6 +18,39 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u064a\u0631\u0646 \u0632\u0648\u0648\u0643\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u0987\u09b0\u09bf\u09a8 \u099c\u09c1\u0993\u0995\u09bf"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03ca\u03c1\u03af\u03bd \u0396\u03bf\u03c5\u03cc\u03ba\u03b9"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06cc\u0631\u06cc\u0646 \u0632\u0648\u0642\u06cc"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d9\u05e8\u05d9\u05df \u05d6'\u05d5\u05d0\u05d5\u05e7\u05d5\u05d5\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093e\u0907\u0930\u093f\u0928 \u091c\u093c\u0941\u0913\u0915\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Bairin Zuoqi"
+    ],
+    "name:nld_x_preferred":[
+        "Bairin Zuoqi"
+    ],
+    "name:por_x_preferred":[
+        "Bairin Zuoqi"
+    ],
+    "name:tur_x_preferred":[
+        "Bairin Zuoqi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0439\u0440\u0456\u043d-\u0426\u0437\u043e\u0446\u0438"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
     "ne:ADM0_A3":"CHN",
@@ -125,7 +158,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499130761,
-    "wof:geomhash":"1d3c3c5af2976980394eab67b2a86d6a",
+    "wof:geomhash":"50e33e21de0ba45c8b322374ec08f935",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +170,7 @@
         }
     ],
     "wof:id":1141907711,
-    "wof:lastmodified":1566706036,
+    "wof:lastmodified":1636504637,
     "wof:name":"Bairin Zuoqi",
     "wof:parent_id":890514597,
     "wof:placetype":"locality",
@@ -147,10 +180,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    119.1833605540752,
-    43.98370932929396,
-    119.1833605540752,
-    43.98370932929396
+    119.183361,
+    43.983709,
+    119.183361,
+    43.983709
 ],
-  "geometry": {"coordinates":[119.18336055407519,43.98370932929396],"type":"Point"}
+  "geometry": {"coordinates":[119.183361,43.983709],"type":"Point"}
 }

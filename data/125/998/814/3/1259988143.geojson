@@ -29,13 +29,37 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062c\u064a\u0646\u0634\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Jinsha"
     ],
     "name:deu_x_preferred":[
+        "Jinsha-Fluss"
+    ],
+    "name:deu_x_variant":[
         "Jinsha"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03af\u03bd\u03c3\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u06cc\u0646\u0634\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Jinsha"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d9\u05e0\u05e9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093f\u0902\u0936\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Jinsha"
+    ],
+    "name:ind_x_preferred":[
         "Jinsha"
     ],
     "name:ita_x_preferred":[
@@ -44,12 +68,27 @@
     "name:nor_x_preferred":[
         "Jinsha"
     ],
+    "name:pol_x_preferred":[
+        "Jinsha"
+    ],
+    "name:por_x_preferred":[
+        "Jinsha"
+    ],
     "name:swe_x_preferred":[
         "Jinsha"
+    ],
+    "name:tur_x_preferred":[
+        "Jinsha"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0437\u0438\u043d\u044c\u0448\u0430"
     ],
     "name:und_x_variant":[
         "Chin-sha-ao",
         "Jinsha\u2019ao"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0646\u0634\u0627"
     ],
     "name:zho_x_preferred":[
         "\u91d1\u6c99"
@@ -70,7 +109,7 @@
         "gn:id":11209280
     },
     "wof:country":"CN",
-    "wof:geomhash":"105dbb6cbec135b716ef488e39ca6a40",
+    "wof:geomhash":"d60f7bf2aef705a261bf4573c4bfdc37",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,7 +121,7 @@
         }
     ],
     "wof:id":1259988143,
-    "wof:lastmodified":1566698154,
+    "wof:lastmodified":1636504464,
     "wof:name":"Jinsha",
     "wof:parent_id":890516553,
     "wof:placetype":"locality",
@@ -93,9 +132,9 @@
 },
   "bbox": [
     121.46135,
-    30.04769000000001,
+    30.04769,
     121.46135,
-    30.04769000000001
+    30.04769
 ],
-  "geometry": {"coordinates":[121.46135,30.04769000000001],"type":"Point"}
+  "geometry": {"coordinates":[121.46135,30.04769],"type":"Point"}
 }

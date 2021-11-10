@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"118.480044311,31.73040041,118.480044311,31.73040041",
+    "geom:bbox":"118.480044,31.7304,118.480044,31.7304",
     "geom:latitude":31.7304,
     "geom:longitude":118.480044,
     "iso:country":"CN",
@@ -18,6 +18,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05d0\u05e0\u05e9\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Maanshan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u99ac\u978d\u5c71"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
     "ne:ADM0_A3":"CHN",
@@ -125,7 +134,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499130741,
-    "wof:geomhash":"7322ce262e898e02b7ad6865c84eed58",
+    "wof:geomhash":"6c9496b4ddfebb56b309f9b5c0970c64",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +146,7 @@
         }
     ],
     "wof:id":1141907557,
-    "wof:lastmodified":1566706034,
+    "wof:lastmodified":1636504633,
     "wof:name":"Maanshan",
     "wof:parent_id":1108732543,
     "wof:placetype":"locality",
@@ -147,10 +156,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    118.4800443105828,
-    31.73040040997404,
-    118.4800443105828,
-    31.73040040997404
+    118.480044,
+    31.7304,
+    118.480044,
+    31.7304
 ],
-  "geometry": {"coordinates":[118.4800443105828,31.73040040997404],"type":"Point"}
+  "geometry": {"coordinates":[118.48004400000001,31.7304],"type":"Point"}
 }

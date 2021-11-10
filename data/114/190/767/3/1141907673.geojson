@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"113.105281941,36.1838753449,113.105281941,36.1838753449",
+    "geom:bbox":"113.105282,36.183875,113.105282,36.183875",
     "geom:latitude":36.183875,
     "geom:longitude":113.105282,
     "iso:country":"CN",
@@ -69,8 +69,14 @@
     "name:guj_x_preferred":[
         "\u0a9a\u0abe\u0a82\u0a97\u0a9d\u0ac0"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d0\u05e0\u05d2\u05d6'\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u091a\u093e\u0902\u0917\u094d\u091c\u093c\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Changzhi"
     ],
     "name:ind_x_preferred":[
         "Changzhi"
@@ -124,6 +130,9 @@
         "Changzhi"
     ],
     "name:pol_x_preferred":[
+        "Changzhi"
+    ],
+    "name:por_x_preferred":[
         "Changzhi"
     ],
     "name:rus_x_preferred":[
@@ -283,7 +292,7 @@
     },
     "wof:country":"CN",
     "wof:created":1499130756,
-    "wof:geomhash":"50afce1418f20ffbb72af0b861463055",
+    "wof:geomhash":"71b3a0b74ce57aad81b0388cbf6d4203",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -295,7 +304,7 @@
         }
     ],
     "wof:id":1141907673,
-    "wof:lastmodified":1566706037,
+    "wof:lastmodified":1636504639,
     "wof:name":"Changzhi",
     "wof:parent_id":1108732523,
     "wof:placetype":"locality",
@@ -305,10 +314,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    113.10528194076971,
-    36.18387534488784,
-    113.10528194076971,
-    36.18387534488784
+    113.105282,
+    36.183875,
+    113.105282,
+    36.183875
 ],
-  "geometry": {"coordinates":[113.10528194076971,36.18387534488784],"type":"Point"}
+  "geometry": {"coordinates":[113.105282,36.183875],"type":"Point"}
 }

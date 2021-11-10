@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"108.272191934,41.0896224152,108.272191934,41.0896224152",
+    "geom:bbox":"108.272192,41.089622,108.272192,41.089622",
     "geom:latitude":41.089622,
     "geom:longitude":108.272192,
     "iso:country":"CN",
@@ -28,7 +28,13 @@
         "Wuyuan"
     ],
     "name:kor_x_preferred":[
+        "\uc6b0\uc704\uc548"
+    ],
+    "name:kor_x_variant":[
         "\uc6b0\uc704\uc548\ud604"
+    ],
+    "name:nld_x_preferred":[
+        "Wuyuan"
     ],
     "name:nor_x_preferred":[
         "Wuyuan"
@@ -36,11 +42,32 @@
     "name:pol_x_preferred":[
         "Wuyuan"
     ],
+    "name:por_x_preferred":[
+        "Wuyuan"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u044e\u0430\u043d\u044c"
     ],
     "name:swe_x_preferred":[
         "Wuyuan"
+    ],
+    "name:tur_x_preferred":[
+        "Wuyuan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0443\u044e\u0430\u043d\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0648\u06cc\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "V\u1ee5 Nguy\u00ean"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5a7a\u6e90"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5a7a\u6e90"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -149,7 +176,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499130762,
-    "wof:geomhash":"3a94683a954c215319691659668ac37e",
+    "wof:geomhash":"dfda3fad84cd79783ccaf0339eb4f160",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -161,7 +188,7 @@
         }
     ],
     "wof:id":1141907719,
-    "wof:lastmodified":1566706036,
+    "wof:lastmodified":1636504637,
     "wof:name":"Wuyuan",
     "wof:parent_id":1108732415,
     "wof:placetype":"locality",
@@ -171,10 +198,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.2721919342398,
-    41.08962241521994,
-    108.2721919342398,
-    41.08962241521994
+    108.272192,
+    41.089622,
+    108.272192,
+    41.089622
 ],
-  "geometry": {"coordinates":[108.2721919342398,41.08962241521994],"type":"Point"}
+  "geometry": {"coordinates":[108.272192,41.089622],"type":"Point"}
 }

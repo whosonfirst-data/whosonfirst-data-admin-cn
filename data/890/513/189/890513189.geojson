@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Zhuzhou"
     ],
+    "name:heb_x_preferred":[
+        "\u05d6'\u05d5\u05d6'\u05d5\u05d0\u05d5"
+    ],
     "name:zho_x_preferred":[
         "\u682a\u6d32 \u5e02"
     ],
@@ -35,11 +38,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85669781,
         102191569,
         85632695,
-        890514759,
         136253041,
-        85669781
+        890514759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890513189,
-    "wof:lastmodified":1601423082,
+    "wof:lastmodified":1636504317,
     "wof:name":"Zhuzhou",
     "wof:parent_id":890514759,
     "wof:placetype":"localadmin",

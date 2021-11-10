@@ -68,6 +68,12 @@
     "name:fra_x_preferred":[
         "Sanya"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d9\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Sanya"
+    ],
     "name:ind_x_preferred":[
         "Sanya"
     ],
@@ -165,7 +171,7 @@
         "gn:id":6928991
     },
     "wof:country":"CN",
-    "wof:geomhash":"0049003efeed456a6c4517d96169df9c",
+    "wof:geomhash":"da73ebec58bed9986c1e635edcf8f75c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":1293238745,
-    "wof:lastmodified":1566667884,
+    "wof:lastmodified":1636503767,
     "wof:name":"Sanya",
     "wof:parent_id":890514727,
     "wof:placetype":"locality",
@@ -187,10 +193,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.58523999999998,
+    111.58524,
     23.53791,
-    111.58523999999998,
+    111.58524,
     23.53791
 ],
-  "geometry": {"coordinates":[111.58523999999998,23.53791],"type":"Point"}
+  "geometry": {"coordinates":[111.58524,23.53791],"type":"Point"}
 }

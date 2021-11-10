@@ -62,6 +62,12 @@
     "name:fra_x_preferred":[
         "Baishan"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d9\u05d9\u05e9\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Baishan"
+    ],
     "name:ind_x_preferred":[
         "Baishan"
     ],
@@ -90,6 +96,9 @@
         "Baishan"
     ],
     "name:pol_x_preferred":[
+        "Baishan"
+    ],
+    "name:por_x_preferred":[
         "Baishan"
     ],
     "name:rus_x_preferred":[
@@ -135,7 +144,7 @@
         "gn:id":1917440
     },
     "wof:country":"CN",
-    "wof:geomhash":"4338f3214c2d57fe11b80623460fae17",
+    "wof:geomhash":"a61e74feb33810361c722604d5c2b7f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -147,7 +156,7 @@
         }
     ],
     "wof:id":1226709829,
-    "wof:lastmodified":1566704671,
+    "wof:lastmodified":1636504605,
     "wof:name":"Baishan",
     "wof:parent_id":890516559,
     "wof:placetype":"locality",
@@ -158,9 +167,9 @@
 },
   "bbox": [
     113.47878,
-    25.13797000000001,
+    25.13797,
     113.47878,
-    25.13797000000001
+    25.13797
 ],
-  "geometry": {"coordinates":[113.47878,25.13797000000001],"type":"Point"}
+  "geometry": {"coordinates":[113.47878,25.13797],"type":"Point"}
 }

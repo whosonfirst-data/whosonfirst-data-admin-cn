@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Dunhuang"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05e0\u05d2\u05d7\u05d5\u05d0\u05e0\u05d2"
+    ],
     "name:zho_x_preferred":[
         "\u6566\u714c\u5e02"
     ],
@@ -35,11 +38,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85669711,
         102191569,
         85632695,
-        890515159,
         136253041,
-        85669711
+        890515159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890514577,
-    "wof:lastmodified":1601422991,
+    "wof:lastmodified":1636504312,
     "wof:name":"Dunhuang",
     "wof:parent_id":890515159,
     "wof:placetype":"localadmin",

@@ -68,6 +68,12 @@
     "name:fra_x_preferred":[
         "Xinxiang"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e1\u05d9\u05e0\u05e7\u05e1\u05d9\u05d0\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Xinxiang"
+    ],
     "name:ind_x_preferred":[
         "Xinxiang"
     ],
@@ -150,7 +156,7 @@
         "gn:id":11590674
     },
     "wof:country":"CN",
-    "wof:geomhash":"91f60ca8e561dc5fdd2681da0a5c37b0",
+    "wof:geomhash":"b4c5a371b465e43935a57285dbcfc20a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":1343546453,
-    "wof:lastmodified":1566656641,
+    "wof:lastmodified":1636503620,
     "wof:name":"Xinxiang",
     "wof:parent_id":890515199,
     "wof:placetype":"locality",
@@ -172,10 +178,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.81486999999998,
+    128.81487,
     46.95675,
-    128.81486999999998,
+    128.81487,
     46.95675
 ],
-  "geometry": {"coordinates":[128.81486999999998,46.95675],"type":"Point"}
+  "geometry": {"coordinates":[128.81487000000001,46.95675],"type":"Point"}
 }

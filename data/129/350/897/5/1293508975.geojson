@@ -35,10 +35,25 @@
     "name:deu_x_preferred":[
         "Linhai"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03bd\u03c7\u03ac\u03b9"
+    ],
     "name:est_x_preferred":[
         "Linhai"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0646\u0647\u0627\u06cc"
+    ],
     "name:fra_x_preferred":[
+        "Linhai"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05e0\u05d7\u05d0\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093f\u0902\u0939\u093e\u0907"
+    ],
+    "name:hun_x_preferred":[
         "Linhai"
     ],
     "name:ita_x_preferred":[
@@ -64,6 +79,15 @@
     ],
     "name:tgl_x_preferred":[
         "Linhai"
+    ],
+    "name:tur_x_preferred":[
+        "Linhai"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u043d\u044c\u0445\u0430\u0439"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0646\u0627\u0626\u06cc"
     ],
     "name:vie_x_preferred":[
         "L\u00e2m H\u1ea3i"
@@ -93,7 +117,7 @@
         "gn:id":8524660
     },
     "wof:country":"CN",
-    "wof:geomhash":"a156519f57835b569026859d226b12d7",
+    "wof:geomhash":"26d90b24c26237c1d970e07a59f3fa70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,7 +129,7 @@
         }
     ],
     "wof:id":1293508975,
-    "wof:lastmodified":1566668914,
+    "wof:lastmodified":1636503783,
     "wof:name":"Linhai",
     "wof:parent_id":890515199,
     "wof:placetype":"locality",
@@ -115,10 +139,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.29693999999998,
+    129.29694,
     47.27676,
-    129.29693999999998,
+    129.29694,
     47.27676
 ],
-  "geometry": {"coordinates":[129.29693999999998,47.27676],"type":"Point"}
+  "geometry": {"coordinates":[129.29694000000001,47.27676],"type":"Point"}
 }

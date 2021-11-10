@@ -53,8 +53,14 @@
     "name:fra_x_preferred":[
         "Tavoy"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05d5\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0921\u0935\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Dawei"
     ],
     "name:ita_x_preferred":[
         "Tavoy"
@@ -126,7 +132,7 @@
         "gn:id":7859798
     },
     "wof:country":"CN",
-    "wof:geomhash":"61328adaa42002781a09e711f5478449",
+    "wof:geomhash":"81e1645e9c55ce5da23303994208645d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +144,7 @@
         }
     ],
     "wof:id":1277136967,
-    "wof:lastmodified":1566675289,
+    "wof:lastmodified":1636503890,
     "wof:name":"Dawei",
     "wof:parent_id":890513267,
     "wof:placetype":"locality",
@@ -148,10 +154,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.53943999999998,
+    112.53944,
     24.83583,
-    112.53943999999998,
+    112.53944,
     24.83583
 ],
-  "geometry": {"coordinates":[112.53943999999998,24.83583],"type":"Point"}
+  "geometry": {"coordinates":[112.53944,24.83583],"type":"Point"}
 }

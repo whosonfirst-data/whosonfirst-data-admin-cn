@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u062f\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a1\u09be\u09a6\u09c1"
+    ],
     "name:ceb_x_preferred":[
         "Dadu"
     ],
@@ -38,7 +44,19 @@
     "name:deu_x_preferred":[
         "Dadu"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c4\u03bf\u03cd"
+    ],
     "name:fra_x_preferred":[
+        "Dadu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d0\u05d3\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u093e\u0926\u0942"
+    ],
+    "name:hun_x_preferred":[
         "Dadu"
     ],
     "name:ind_x_preferred":[
@@ -50,6 +68,9 @@
     "name:nor_x_preferred":[
         "Dadu"
     ],
+    "name:por_x_preferred":[
+        "Dadu"
+    ],
     "name:scn_x_preferred":[
         "Dadu"
     ],
@@ -58,6 +79,9 @@
     ],
     "name:und_x_variant":[
         "\u5927\u6e21"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0627\u062f\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -84,7 +108,7 @@
         }
     ],
     "wof:id":1226829037,
-    "wof:lastmodified":1566704013,
+    "wof:lastmodified":1636504590,
     "wof:name":"Dadu",
     "wof:parent_id":890516557,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"100.266582396,26.8000036814,100.266582396,26.8000036814",
+    "geom:bbox":"100.266582,26.800004,100.266582,26.800004",
     "geom:latitude":26.800004,
     "geom:longitude":100.266582,
     "iso:country":"CN",
@@ -94,6 +94,9 @@
         "Lijiang"
     ],
     "name:jpn_x_preferred":[
+        "\u9e97\u6c5f"
+    ],
+    "name:jpn_x_variant":[
         "\u9e97\u6c5f\u5e02"
     ],
     "name:kat_x_preferred":[
@@ -298,7 +301,7 @@
     },
     "wof:country":"CN",
     "wof:created":1499130948,
-    "wof:geomhash":"664c4590a15a21fe979206cb669742d8",
+    "wof:geomhash":"15fa058a19d9da19d8d2bb816dcfd25a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -310,7 +313,7 @@
         }
     ],
     "wof:id":1141908649,
-    "wof:lastmodified":1566706040,
+    "wof:lastmodified":1636504644,
     "wof:name":"Lijiang",
     "wof:parent_id":890514701,
     "wof:placetype":"locality",
@@ -320,10 +323,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    100.26658239644752,
-    26.8000036814388,
-    100.26658239644752,
-    26.8000036814388
+    100.266582,
+    26.800004,
+    100.266582,
+    26.800004
 ],
-  "geometry": {"coordinates":[100.26658239644752,26.8000036814388],"type":"Point"}
+  "geometry": {"coordinates":[100.266582,26.800004],"type":"Point"}
 }

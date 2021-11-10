@@ -44,6 +44,12 @@
     "name:fra_x_preferred":[
         "Baoshan"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d5\u05e9\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Paosan"
+    ],
     "name:mlg_x_preferred":[
         "Baoshan"
     ],
@@ -51,6 +57,9 @@
         "Baoshan"
     ],
     "name:nor_x_preferred":[
+        "Baoshan"
+    ],
+    "name:por_x_preferred":[
         "Baoshan"
     ],
     "name:rus_x_preferred":[
@@ -81,7 +90,7 @@
         "gn:id":11585725
     },
     "wof:country":"CN",
-    "wof:geomhash":"922644086df917c5551720055d82f6c0",
+    "wof:geomhash":"21a1d9d357ba93cb31184c90f9de8475",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1259669041,
-    "wof:lastmodified":1566699514,
+    "wof:lastmodified":1636504496,
     "wof:name":"Baoshan",
     "wof:parent_id":890516235,
     "wof:placetype":"locality",
@@ -103,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.88821000000002,
+    127.88821,
     44.35696,
-    127.88821000000002,
+    127.88821,
     44.35696
 ],
-  "geometry": {"coordinates":[127.88821000000002,44.35696],"type":"Point"}
+  "geometry": {"coordinates":[127.88821,44.35696],"type":"Point"}
 }

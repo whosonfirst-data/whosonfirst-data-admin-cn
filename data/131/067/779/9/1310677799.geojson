@@ -68,6 +68,9 @@
     "name:hak_x_preferred":[
         "L\u00fb-ch\u00fb-s\u1e73"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d6'\u05d5"
+    ],
     "name:ita_x_preferred":[
         "Luzhou"
     ],
@@ -140,7 +143,7 @@
         "gn:id":1794771
     },
     "wof:country":"CN",
-    "wof:geomhash":"a4adacd87b055125989729337e97a03a",
+    "wof:geomhash":"e8c44e8fde8a8c1e2bac3f902cbc75dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":1310677799,
-    "wof:lastmodified":1566690921,
+    "wof:lastmodified":1636504211,
     "wof:name":"Luzhou",
     "wof:parent_id":890516683,
     "wof:placetype":"locality",
@@ -163,9 +166,9 @@
 },
   "bbox": [
     115.0332,
-    29.79994000000001,
+    29.79994,
     115.0332,
-    29.79994000000001
+    29.79994
 ],
-  "geometry": {"coordinates":[115.03319999999999,29.79994000000001],"type":"Point"}
+  "geometry": {"coordinates":[115.03319999999999,29.79994],"type":"Point"}
 }

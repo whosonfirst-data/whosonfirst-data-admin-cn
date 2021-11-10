@@ -59,6 +59,12 @@
     "name:fra_x_preferred":[
         "Leshan"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e9\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Leshan"
+    ],
     "name:ind_x_preferred":[
         "Leshan"
     ],
@@ -132,7 +138,7 @@
         "gn:id":11567266
     },
     "wof:country":"CN",
-    "wof:geomhash":"87cb475d4bd7a9580c1c1f53111d4bcc",
+    "wof:geomhash":"cef449ec54762057dd9078f2180275a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -144,7 +150,7 @@
         }
     ],
     "wof:id":1225830391,
-    "wof:lastmodified":1566706004,
+    "wof:lastmodified":1636504633,
     "wof:name":"Leshan",
     "wof:parent_id":1108732377,
     "wof:placetype":"locality",
@@ -154,10 +160,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    134.13786000000002,
+    134.13786,
     47.38569,
-    134.13786000000002,
+    134.13786,
     47.38569
 ],
-  "geometry": {"coordinates":[134.13786000000002,47.38569],"type":"Point"}
+  "geometry": {"coordinates":[134.13785999999999,47.38569],"type":"Point"}
 }

@@ -44,6 +44,12 @@
     "name:fra_x_preferred":[
         "Yulin"
     ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d5\u05dc\u05d9\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "J\u00fclin"
+    ],
     "name:kor_x_preferred":[
         "\uc704\ub9b0\uc2dc"
     ],
@@ -54,6 +60,9 @@
         "Yulin"
     ],
     "name:pol_x_preferred":[
+        "Yulin"
+    ],
+    "name:por_x_preferred":[
         "Yulin"
     ],
     "name:rus_x_preferred":[
@@ -84,7 +93,7 @@
         "gn:id":7536778
     },
     "wof:country":"CN",
-    "wof:geomhash":"4dcd0549ebd9316ff7770089d55096b9",
+    "wof:geomhash":"cf79a83a068d5d78bb2550979a5e6f09",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":1360182809,
-    "wof:lastmodified":1566691717,
+    "wof:lastmodified":1636504229,
     "wof:name":"Yulin",
     "wof:parent_id":1108732421,
     "wof:placetype":"locality",
@@ -106,10 +115,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.38553000000002,
+    128.38553,
     42.49145,
-    128.38553000000002,
+    128.38553,
     42.49145
 ],
-  "geometry": {"coordinates":[128.38553000000002,42.49145],"type":"Point"}
+  "geometry": {"coordinates":[128.38552999999999,42.49145],"type":"Point"}
 }

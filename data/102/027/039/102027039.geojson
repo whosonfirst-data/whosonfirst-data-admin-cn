@@ -81,8 +81,14 @@
     "name:guj_x_preferred":[
         "\u0a9d\u0abf\u0aaf\u0abe\u0aa8\u0a97\u0abe\u0a82\u0a97"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e1\u05d9\u05d0\u05e0\u05d2\u05d9\u05d0\u05e0\u05d2"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u093f\u0923\u0917\u094d\u092f\u093e\u0902\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Xiangyang"
     ],
     "name:ind_x_preferred":[
         "Xiangfan"
@@ -332,11 +338,11 @@
     "src:population":"geonames",
     "wd:wordcount":804,
     "wof:belongsto":[
+        85669777,
         102191569,
         85632695,
-        1108732497,
         136253041,
-        85669777
+        1108732497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -370,7 +376,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1608688167,
+    "wof:lastmodified":1636503585,
     "wof:megacity":1,
     "wof:name":"Xiangyang",
     "wof:parent_id":1108732497,

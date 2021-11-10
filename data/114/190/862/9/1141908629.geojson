@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"92.050029662,31.4800022573,92.050029662,31.4800022573",
+    "geom:bbox":"92.05003,31.480002,92.05003,31.480002",
     "geom:latitude":31.480002,
     "geom:longitude":92.05003,
     "iso:country":"CN",
@@ -18,6 +18,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "Nagchu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d0\u05d2\u05e6'\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Nagchu"
+    ],
+    "name:por_x_preferred":[
+        "Nagqu"
+    ],
+    "name:spa_x_preferred":[
+        "Nagchu"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
     "ne:ADM0_A3":"CHN",
@@ -125,7 +140,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499130945,
-    "wof:geomhash":"1232ac0db21bf6a4ef31b6a29e705d2b",
+    "wof:geomhash":"542a20e0ef91e952bc0592f83257fe9b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +152,7 @@
         }
     ],
     "wof:id":1141908629,
-    "wof:lastmodified":1566706039,
+    "wof:lastmodified":1636504642,
     "wof:name":"Nagchu",
     "wof:parent_id":1108732507,
     "wof:placetype":"locality",
@@ -147,10 +162,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    92.05002966203955,
-    31.48000225730379,
-    92.05002966203955,
-    31.48000225730379
+    92.05003,
+    31.480002,
+    92.05003,
+    31.480002
 ],
-  "geometry": {"coordinates":[92.05002966203955,31.48000225730379],"type":"Point"}
+  "geometry": {"coordinates":[92.05003000000001,31.480002],"type":"Point"}
 }

@@ -80,6 +80,9 @@
     "name:hak_x_preferred":[
         "P\u00e2u-th\u00e8u-s\u1e73"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d5\u05d8\u05d5\u05d0\u05d5"
+    ],
     "name:hun_x_preferred":[
         "Paotou"
     ],
@@ -189,7 +192,7 @@
         "gn:id":7603765
     },
     "wof:country":"CN",
-    "wof:geomhash":"9e35d2a36d28f519d39917178c99799b",
+    "wof:geomhash":"fc6c3f4c67c64938dba2d220df562a16",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":1242929285,
-    "wof:lastmodified":1566694840,
+    "wof:lastmodified":1636504379,
     "wof:name":"Baotou",
     "wof:parent_id":890514745,
     "wof:placetype":"locality",
@@ -211,10 +214,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.20246000000002,
+    111.20246,
     35.43184,
-    111.20246000000002,
+    111.20246,
     35.43184
 ],
-  "geometry": {"coordinates":[111.20246000000002,35.43184],"type":"Point"}
+  "geometry": {"coordinates":[111.20246,35.43184],"type":"Point"}
 }

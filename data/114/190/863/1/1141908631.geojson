@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"94.4167069081,29.5332993764,94.4167069081,29.5332993764",
+    "geom:bbox":"94.416707,29.533299,94.416707,29.533299",
     "geom:latitude":29.533299,
     "geom:longitude":94.416707,
     "iso:country":"CN",
@@ -72,8 +72,14 @@
     "name:hak_x_preferred":[
         "L\u00ecm-ch\u1e73\u0302-s\u1e73"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05d9\u05e0\u05d2'\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0928\u094d\u092f\u093f\u0902\u0917\u091a\u0940 \u0935\u093f\u092d\u093e\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Nyingchi"
     ],
     "name:ind_x_preferred":[
         "Nyingchi"
@@ -274,7 +280,7 @@
     },
     "wof:country":"CN",
     "wof:created":1499130945,
-    "wof:geomhash":"30a5f8c07295d3452c7327f40c611f64",
+    "wof:geomhash":"59cbfe86bbe74f8abeccec9dc5cffd84",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -286,7 +292,7 @@
         }
     ],
     "wof:id":1141908631,
-    "wof:lastmodified":1566706040,
+    "wof:lastmodified":1636504645,
     "wof:name":"Nyingchi",
     "wof:parent_id":890515951,
     "wof:placetype":"locality",
@@ -296,10 +302,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    94.41670690814283,
-    29.53329937643662,
-    94.41670690814283,
-    29.53329937643662
+    94.416707,
+    29.533299,
+    94.416707,
+    29.533299
 ],
-  "geometry": {"coordinates":[94.41670690814283,29.53329937643662],"type":"Point"}
+  "geometry": {"coordinates":[94.416707,29.533299],"type":"Point"}
 }

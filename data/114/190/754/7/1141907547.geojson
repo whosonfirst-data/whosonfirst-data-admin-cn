@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"109.609112914,23.0965346466,109.609112914,23.0965346466",
+    "geom:bbox":"109.609113,23.096535,109.609113,23.096535",
     "geom:latitude":23.096535,
     "geom:longitude":109.609113,
     "iso:country":"CN",
@@ -53,6 +53,12 @@
     ],
     "name:hak_x_preferred":[
         "H\u00f2-chh\u1e73\u0300-s\u1e73"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d9\u05d9\u05e6'\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Hechi"
     ],
     "name:ita_x_preferred":[
         "Hechi"
@@ -221,7 +227,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499130740,
-    "wof:geomhash":"dfe1e16102c1240512c3d9848d746bd5",
+    "wof:geomhash":"687f649577137ebb6d686340794f1f66",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -233,7 +239,7 @@
         }
     ],
     "wof:id":1141907547,
-    "wof:lastmodified":1566706034,
+    "wof:lastmodified":1636504634,
     "wof:name":"Hechi",
     "wof:parent_id":1108732501,
     "wof:placetype":"locality",
@@ -243,10 +249,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.60911291406296,
-    23.09653464659317,
-    109.60911291406296,
-    23.09653464659317
+    109.609113,
+    23.096535,
+    109.609113,
+    23.096535
 ],
-  "geometry": {"coordinates":[109.60911291406296,23.09653464659317],"type":"Point"}
+  "geometry": {"coordinates":[109.60911299999999,23.096535],"type":"Point"}
 }

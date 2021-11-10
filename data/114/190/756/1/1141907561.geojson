@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"110.870017862,21.9204048858,110.870017862,21.9204048858",
+    "geom:bbox":"110.870018,21.920405,110.870018,21.920405",
     "geom:latitude":21.920405,
     "geom:longitude":110.870018,
     "iso:country":"CN",
@@ -45,6 +45,9 @@
     "name:deu_x_preferred":[
         "Maoming"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bf\u03bc\u03af\u03bd\u03b3\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Maoming"
     ],
@@ -68,6 +71,15 @@
     ],
     "name:hak_x_preferred":[
         "Meu-mi\u00e0ng-s\u1e73"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05d5\u05de\u05d9\u05e0\u05d2"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0913\u092e\u093f\u0902\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Maoming"
     ],
     "name:ind_x_preferred":[
         "Maoming"
@@ -259,7 +271,7 @@
     },
     "wof:country":"CN",
     "wof:created":1499130742,
-    "wof:geomhash":"a2b34dd1fa885639c177fc998c2224d3",
+    "wof:geomhash":"b7df8ab2aa447e03968b67c55c03c0c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -271,7 +283,7 @@
         }
     ],
     "wof:id":1141907561,
-    "wof:lastmodified":1566706037,
+    "wof:lastmodified":1636504640,
     "wof:name":"Maoming",
     "wof:parent_id":1108732487,
     "wof:placetype":"locality",
@@ -281,10 +293,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    110.87001786198459,
-    21.92040488584627,
-    110.87001786198459,
-    21.92040488584627
+    110.870018,
+    21.920405,
+    110.870018,
+    21.920405
 ],
-  "geometry": {"coordinates":[110.87001786198459,21.92040488584627],"type":"Point"}
+  "geometry": {"coordinates":[110.870018,21.920405],"type":"Point"}
 }

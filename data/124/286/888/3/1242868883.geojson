@@ -62,6 +62,12 @@
     "name:fra_x_preferred":[
         "Liaoyuan"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05d0\u05d5\u05d9\u05d5\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Liaoyuan"
+    ],
     "name:ita_x_preferred":[
         "Liaoyuan"
     ],
@@ -141,7 +147,7 @@
         "gn:id":8525993
     },
     "wof:country":"CN",
-    "wof:geomhash":"471961609b220bc36bff98e5498f22ee",
+    "wof:geomhash":"d4e5ccbeb18b69de217299b9b3317cb3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -153,7 +159,7 @@
         }
     ],
     "wof:id":1242868883,
-    "wof:lastmodified":1566694568,
+    "wof:lastmodified":1636504369,
     "wof:name":"Liaoyuan",
     "wof:parent_id":890515199,
     "wof:placetype":"locality",
@@ -163,10 +169,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    130.25946000000002,
+    130.25946,
     48.82972,
-    130.25946000000002,
+    130.25946,
     48.82972
 ],
-  "geometry": {"coordinates":[130.25946000000002,48.82972],"type":"Point"}
+  "geometry": {"coordinates":[130.25945999999999,48.82972],"type":"Point"}
 }

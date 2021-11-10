@@ -65,7 +65,13 @@
     "name:fra_x_preferred":[
         "Jingzhou"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d9\u05e0\u05d2\u05d6'\u05d5\u05d0\u05d5"
+    ],
     "name:hrv_x_preferred":[
+        "Jingzhou"
+    ],
+    "name:hun_x_preferred":[
         "Jingzhou"
     ],
     "name:ind_x_preferred":[
@@ -153,7 +159,7 @@
         "gn:id":10327790
     },
     "wof:country":"CN",
-    "wof:geomhash":"66593897a440825195ad65598cf862f8",
+    "wof:geomhash":"89a16bdb24faac360f05c1c926b4f1a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":1259661703,
-    "wof:lastmodified":1566699533,
+    "wof:lastmodified":1636504497,
     "wof:name":"Jingzhou",
     "wof:parent_id":1108732467,
     "wof:placetype":"locality",
@@ -176,9 +182,9 @@
 },
   "bbox": [
     112.7672,
-    27.80379000000001,
+    27.80379,
     112.7672,
-    27.80379000000001
+    27.80379
 ],
-  "geometry": {"coordinates":[112.7672,27.80379000000001],"type":"Point"}
+  "geometry": {"coordinates":[112.7672,27.80379],"type":"Point"}
 }

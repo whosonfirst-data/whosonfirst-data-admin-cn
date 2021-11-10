@@ -77,6 +77,9 @@
     "name:fra_x_preferred":[
         "Zhenjiang"
     ],
+    "name:heb_x_preferred":[
+        "\u05d6'\u05e0\u05d2'\u05d9\u05d0\u05e0\u05d2"
+    ],
     "name:ind_x_preferred":[
         "Zhenjiang"
     ],
@@ -165,7 +168,7 @@
         "gn:id":10222415
     },
     "wof:country":"CN",
-    "wof:geomhash":"bba8afd7e49fa58500559124e8ac6714",
+    "wof:geomhash":"c6deb184ea300c6c8435b4ff2d71c0e1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":1343632165,
-    "wof:lastmodified":1566657366,
+    "wof:lastmodified":1636503629,
     "wof:name":"Zhenjiang",
     "wof:parent_id":890514545,
     "wof:placetype":"locality",
@@ -188,9 +191,9 @@
 },
   "bbox": [
     98.39557,
-    29.40017000000001,
+    29.40017,
     98.39557,
-    29.40017000000001
+    29.40017
 ],
-  "geometry": {"coordinates":[98.39557000000001,29.40017000000001],"type":"Point"}
+  "geometry": {"coordinates":[98.39557000000001,29.40017],"type":"Point"}
 }

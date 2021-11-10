@@ -62,6 +62,9 @@
     "name:fra_x_preferred":[
         "Rizhao"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05d6'\u05d0\u05d5"
+    ],
     "name:ind_x_preferred":[
         "Rizhao"
     ],
@@ -93,6 +96,9 @@
         "Rizhao"
     ],
     "name:pol_x_preferred":[
+        "Rizhao"
+    ],
+    "name:por_x_preferred":[
         "Rizhao"
     ],
     "name:rus_x_preferred":[
@@ -144,7 +150,7 @@
         "gn:id":7536755
     },
     "wof:country":"CN",
-    "wof:geomhash":"a42375aab0e13e935addb33d7bff3e3e",
+    "wof:geomhash":"8b3fbcdf7a04fb264601f833b0123e0b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -156,7 +162,7 @@
         }
     ],
     "wof:id":1343583671,
-    "wof:lastmodified":1566661657,
+    "wof:lastmodified":1636503680,
     "wof:name":"Rizhao",
     "wof:parent_id":1108732421,
     "wof:placetype":"locality",
@@ -166,10 +172,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.72843999999998,
+    128.72844,
     43.1872,
-    128.72843999999998,
+    128.72844,
     43.1872
 ],
-  "geometry": {"coordinates":[128.72843999999998,43.1872],"type":"Point"}
+  "geometry": {"coordinates":[128.72844000000001,43.1872],"type":"Point"}
 }

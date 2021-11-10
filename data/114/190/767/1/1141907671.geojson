@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"112.420000772,39.3003776235,112.420000772,39.3003776235",
+    "geom:bbox":"112.420001,39.300378,112.420001,39.300378",
     "geom:latitude":39.300378,
     "geom:longitude":112.420001,
     "iso:country":"CN",
@@ -63,8 +63,14 @@
     "name:guj_x_preferred":[
         "\u0ab6\u0ac1\u0a9d\u0acb\u0a89"
     ],
+    "name:heb_x_preferred":[
+        "\u05d6'\u05d5\u05d6'\u05d5\u05d0\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0936\u0941\u0913\u091c\u093c\u094d\u0939\u094c"
+    ],
+    "name:hun_x_preferred":[
+        "Shuozhou"
     ],
     "name:ind_x_preferred":[
         "Shuozhou"
@@ -277,7 +283,7 @@
     },
     "wof:country":"CN",
     "wof:created":1499130756,
-    "wof:geomhash":"fef5d72471a42991aacab73bf5bafbd7",
+    "wof:geomhash":"704ad7ce0c01aa36d5fbe608ac661790",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -289,7 +295,7 @@
         }
     ],
     "wof:id":1141907671,
-    "wof:lastmodified":1566706037,
+    "wof:lastmodified":1636504639,
     "wof:name":"Shuozhou",
     "wof:parent_id":890513491,
     "wof:placetype":"locality",
@@ -299,10 +305,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    112.42000077214709,
-    39.30037762354613,
-    112.42000077214709,
-    39.30037762354613
+    112.420001,
+    39.300378,
+    112.420001,
+    39.300378
 ],
-  "geometry": {"coordinates":[112.42000077214709,39.30037762354613],"type":"Point"}
+  "geometry": {"coordinates":[112.420001,39.300378],"type":"Point"}
 }

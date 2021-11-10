@@ -62,6 +62,12 @@
     "name:fra_x_preferred":[
         "Laiwu"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05d9\u05d5\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Laiwu"
+    ],
     "name:ita_x_preferred":[
         "Laiwu"
     ],
@@ -135,7 +141,7 @@
         "gn:id":1923334
     },
     "wof:country":"CN",
-    "wof:geomhash":"5fc83dc76e8db9ba6105a43eb8be961b",
+    "wof:geomhash":"49f63e8a9da1239cfe40bb940dd22055",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -147,7 +153,7 @@
         }
     ],
     "wof:id":1344063355,
-    "wof:lastmodified":1566658754,
+    "wof:lastmodified":1636503646,
     "wof:name":"Laiwu",
     "wof:parent_id":890511835,
     "wof:placetype":"locality",
@@ -157,10 +163,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    115.43361000000002,
+    115.43361,
     25.53861,
-    115.43361000000002,
+    115.43361,
     25.53861
 ],
-  "geometry": {"coordinates":[115.43361000000002,25.53861],"type":"Point"}
+  "geometry": {"coordinates":[115.43361,25.53861],"type":"Point"}
 }

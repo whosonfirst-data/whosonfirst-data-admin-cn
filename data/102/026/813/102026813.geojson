@@ -55,6 +55,9 @@
     "name:deu_x_preferred":[
         "Hotan"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03cc\u03c4\u03b1\u03bd"
+    ],
     "name:eng_x_colloquial":[
         "City of Martyrs",
         "Shah\u012bd\u0101n-i Khotan"
@@ -91,6 +94,9 @@
     ],
     "name:hbs_x_preferred":[
         "Hotan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05d8\u05d0\u05df"
     ],
     "name:hin_x_preferred":[
         "\u0916\u093c\u094b\u0924\u093e\u0928"
@@ -343,11 +349,11 @@
     "src:population":"geonames",
     "wd:wordcount":3268,
     "wof:belongsto":[
+        85669753,
         102191569,
         85632695,
-        1108732387,
         136253041,
-        85669753
+        1108732387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -376,7 +382,7 @@
         }
     ],
     "wof:id":102026813,
-    "wof:lastmodified":1587428591,
+    "wof:lastmodified":1636503610,
     "wof:megacity":0,
     "wof:name":"Hotan",
     "wof:parent_id":1108732387,

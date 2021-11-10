@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"102.716717081,29.3500030711,102.716717081,29.3500030711",
+    "geom:bbox":"102.716717,29.350003,102.716717,29.350003",
     "geom:latitude":29.350003,
     "geom:longitude":102.716717,
     "iso:country":"CN",
@@ -27,11 +27,17 @@
     "name:dan_x_preferred":[
         "Fulin"
     ],
+    "name:deu_x_preferred":[
+        "Fulin"
+    ],
     "name:ell_x_preferred":[
         "\u03a6\u03bf\u03c5\u03bb\u03af\u03bd"
     ],
     "name:eng_x_preferred":[
         "Fulin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0648\u0644\u06cc\u0646"
     ],
     "name:fin_x_preferred":[
         "Fulin"
@@ -45,8 +51,14 @@
     "name:guj_x_preferred":[
         "\u0aab\u0ac1\u0ab2\u0ac0\u0aa8"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05dc\u05d9\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u092b\u0941\u0932\u093f\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Fulin"
     ],
     "name:ind_x_preferred":[
         "Fulin"
@@ -235,7 +247,7 @@
     },
     "wof:country":"CN",
     "wof:created":1499130948,
-    "wof:geomhash":"edd719443c681fd2701470776d77457e",
+    "wof:geomhash":"67f9362e907f35667509cb64f540472f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -247,7 +259,7 @@
         }
     ],
     "wof:id":1141908647,
-    "wof:lastmodified":1566706040,
+    "wof:lastmodified":1636504644,
     "wof:name":"Fulin",
     "wof:parent_id":1108732541,
     "wof:placetype":"locality",
@@ -257,10 +269,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    102.71671708070198,
-    29.35000307109743,
-    102.71671708070198,
-    29.35000307109743
+    102.716717,
+    29.350003,
+    102.716717,
+    29.350003
 ],
-  "geometry": {"coordinates":[102.71671708070198,29.35000307109743],"type":"Point"}
+  "geometry": {"coordinates":[102.716717,29.350003],"type":"Point"}
 }

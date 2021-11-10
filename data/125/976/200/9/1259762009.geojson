@@ -38,7 +38,16 @@
     "name:deu_x_preferred":[
         "Zhuanghe"
     ],
+    "name:fas_x_preferred":[
+        "\u0698\u0648\u0627\u0646\u06af\u0647"
+    ],
     "name:fra_x_preferred":[
+        "Zhuanghe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6'\u05d5\u05d0\u05e0\u05d2\u05d7\u05d4"
+    ],
+    "name:hun_x_preferred":[
         "Zhuanghe"
     ],
     "name:ita_x_preferred":[
@@ -93,7 +102,7 @@
         "gn:id":9937732
     },
     "wof:country":"CN",
-    "wof:geomhash":"eb2e26392a7fcd1df6424eca9b8b9e1f",
+    "wof:geomhash":"daafc9244bbaf2e7992d43f9cb0daa54",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":1259762009,
-    "wof:lastmodified":1566699295,
+    "wof:lastmodified":1636504490,
     "wof:name":"Zhuanghe",
     "wof:parent_id":890513075,
     "wof:placetype":"locality",
@@ -115,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    119.60356000000002,
+    119.60356,
     40.20117,
-    119.60356000000002,
+    119.60356,
     40.20117
 ],
-  "geometry": {"coordinates":[119.60356000000002,40.20117],"type":"Point"}
+  "geometry": {"coordinates":[119.60356,40.20117],"type":"Point"}
 }

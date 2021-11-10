@@ -35,7 +35,16 @@
     "name:deu_x_preferred":[
         "Xinyi"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0646\u06cc"
+    ],
     "name:fra_x_preferred":[
+        "Xinyi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e1\u05d9\u05e0\u05d9\u05d9"
+    ],
+    "name:hun_x_preferred":[
         "Xinyi"
     ],
     "name:jpn_x_preferred":[
@@ -72,7 +81,7 @@
         "gn:id":11147097
     },
     "wof:country":"CN",
-    "wof:geomhash":"e574594f5dbc43e19263b29d5e214b5e",
+    "wof:geomhash":"7989f103c36a06dfc400f87f05810437",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":1293591999,
-    "wof:lastmodified":1566668729,
+    "wof:lastmodified":1636503780,
     "wof:name":"Xinyi",
     "wof:parent_id":890514633,
     "wof:placetype":"locality",
@@ -95,9 +104,9 @@
 },
   "bbox": [
     118.42441,
-    28.80332000000001,
+    28.80332,
     118.42441,
-    28.80332000000001
+    28.80332
 ],
-  "geometry": {"coordinates":[118.42440999999999,28.80332000000001],"type":"Point"}
+  "geometry": {"coordinates":[118.42440999999999,28.80332],"type":"Point"}
 }

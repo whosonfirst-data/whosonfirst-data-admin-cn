@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Hanzhong"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05e0\u05d6'\u05d5\u05e0\u05d2"
+    ],
     "name:zho_x_preferred":[
         "\u6c49\u4e2d"
     ],
@@ -35,11 +38,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85669769,
         102191569,
         85632695,
-        890515099,
         136253041,
-        85669769
+        890515099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890514903,
-    "wof:lastmodified":1601423001,
+    "wof:lastmodified":1636504308,
     "wof:name":"Hanzhong",
     "wof:parent_id":890515099,
     "wof:placetype":"locality",

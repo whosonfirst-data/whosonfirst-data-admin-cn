@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"125.299989786,47.8803965445,125.299989786,47.8803965445",
+    "geom:bbox":"125.29999,47.880397,125.29999,47.880397",
     "geom:latitude":47.880397,
     "geom:longitude":125.29999,
     "iso:country":"CN",
@@ -18,11 +18,65 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u0627\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u0993\u0987\u09df\u09be\u09a8"
+    ],
     "name:deu_x_preferred":[
         "Yi\u2019an"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03ac\u03bd"
+    ],
+    "name:fra_x_preferred":[
+        "Jiyuan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d0\u05d9\u05d0\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u092f\u093f\u0906\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Yian"
+    ],
+    "name:ind_x_preferred":[
+        "Yian"
+    ],
+    "name:ita_x_preferred":[
+        "Yi'an"
+    ],
+    "name:kor_x_preferred":[
+        "\uc60c"
+    ],
+    "name:nld_x_preferred":[
+        "Yian"
+    ],
+    "name:pol_x_preferred":[
+        "Yian"
+    ],
+    "name:por_x_preferred":[
+        "Yi'an"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u0430\u043d\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Yian"
+    ],
+    "name:swe_x_preferred":[
+        "Yian"
+    ],
+    "name:tur_x_preferred":[
+        "Yian"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0430\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Y An"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -131,7 +185,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499130763,
-    "wof:geomhash":"52d99727729cbae70389eb1f9aaf71b2",
+    "wof:geomhash":"e6b8583d3cce0b94992838c9e8baeec9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -143,7 +197,7 @@
         }
     ],
     "wof:id":1141907725,
-    "wof:lastmodified":1566706041,
+    "wof:lastmodified":1636504646,
     "wof:name":"Yian",
     "wof:parent_id":890516483,
     "wof:placetype":"locality",
@@ -153,10 +207,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    125.29998978587048,
-    47.88039654447891,
-    125.29998978587048,
-    47.88039654447891
+    125.29999,
+    47.880397,
+    125.29999,
+    47.880397
 ],
-  "geometry": {"coordinates":[125.29998978587048,47.88039654447891],"type":"Point"}
+  "geometry": {"coordinates":[125.29998999999999,47.880397],"type":"Point"}
 }

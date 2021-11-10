@@ -62,6 +62,12 @@
     "name:fra_x_preferred":[
         "Baicheng"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d9\u05e6'\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Baicheng"
+    ],
     "name:ind_x_preferred":[
         "Baicheng"
     ],
@@ -150,7 +156,7 @@
         "gn:id":1788391
     },
     "wof:country":"CN",
-    "wof:geomhash":"344e7deeb65c4fb4fec5de331986cfa5",
+    "wof:geomhash":"4aed70af0ba7487f8b5256b8147952cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":1260165281,
-    "wof:lastmodified":1566687203,
+    "wof:lastmodified":1636504117,
     "wof:name":"Baicheng",
     "wof:parent_id":890514843,
     "wof:placetype":"locality",
@@ -173,9 +179,9 @@
 },
   "bbox": [
     114.01583,
-    33.38639000000001,
+    33.38639,
     114.01583,
-    33.38639000000001
+    33.38639
 ],
-  "geometry": {"coordinates":[114.01582999999999,33.38639000000001],"type":"Point"}
+  "geometry": {"coordinates":[114.01582999999999,33.38639],"type":"Point"}
 }

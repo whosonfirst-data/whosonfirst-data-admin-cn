@@ -86,8 +86,14 @@
     "name:guj_x_preferred":[
         "\u0ab9\u0ac1\u0a86\u0a87\u0aac\u0ac7\u0a87"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05d0\u05d9\u05d9\u05d1\u05d9\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0939\u0941\u0906\u0907\u092c\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Huaibei"
     ],
     "name:hye_x_preferred":[
         "\u0540\u0578\u0582\u0561\u0575\u0562\u0565\u0575"
@@ -327,11 +333,11 @@
     "src:population":"geonames",
     "wd:wordcount":699,
     "wof:belongsto":[
+        85669739,
         102191569,
         85632695,
-        1108732463,
         136253041,
-        85669739
+        1108732463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -362,7 +368,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1608688164,
+    "wof:lastmodified":1636503579,
     "wof:megacity":1,
     "wof:name":"Huaibei",
     "wof:parent_id":1108732463,

@@ -20,6 +20,12 @@
     "name:eng_x_preferred":[
         "Bengbu"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e0\u05d2\u05d1\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Bengbu"
+    ],
     "name:zho_x_preferred":[
         "\u868c\u57e0\u5e02"
     ],
@@ -35,11 +41,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85669739,
         102191569,
         85632695,
-        890515831,
         136253041,
-        85669739
+        890515831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":890514957,
-    "wof:lastmodified":1601422980,
+    "wof:lastmodified":1636504308,
     "wof:name":"Bengbu",
     "wof:parent_id":890515831,
     "wof:placetype":"localadmin",

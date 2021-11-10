@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"117.330036986,38.3704343862,117.330036986,38.3704343862",
+    "geom:bbox":"117.330037,38.370434,117.330037,38.370434",
     "geom:latitude":38.370434,
     "geom:longitude":117.330037,
     "iso:country":"CN",
@@ -31,6 +31,9 @@
         "Huanghua"
     ],
     "name:jpn_x_preferred":[
+        "\u9ec4\u9a4a"
+    ],
+    "name:jpn_x_variant":[
         "\u9ec4\u30ab\u5e02"
     ],
     "name:kik_x_preferred":[
@@ -173,7 +176,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499130759,
-    "wof:geomhash":"b9effdc734fd712bb0db9337bfb4f520",
+    "wof:geomhash":"40fa24d80e8edce07bea8468ec4f5d42",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":1141907693,
-    "wof:lastmodified":1566706038,
+    "wof:lastmodified":1636504640,
     "wof:name":"Huanghua",
     "wof:parent_id":890513789,
     "wof:placetype":"locality",
@@ -195,10 +198,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    117.33003698635946,
-    38.3704343862376,
-    117.33003698635946,
-    38.3704343862376
+    117.330037,
+    38.370434,
+    117.330037,
+    38.370434
 ],
-  "geometry": {"coordinates":[117.33003698635946,38.3704343862376],"type":"Point"}
+  "geometry": {"coordinates":[117.330037,38.370434],"type":"Point"}
 }

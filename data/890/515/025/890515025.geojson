@@ -20,6 +20,12 @@
     "name:eng_x_preferred":[
         "Nanchong"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d0\u05e0\u05e6'\u05d5\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Nancsung"
+    ],
     "name:zho_x_preferred":[
         "\u5357\u5145"
     ],
@@ -35,11 +41,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85669787,
         102191569,
         85632695,
-        890511853,
         136253041,
-        85669787
+        890511853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":890515025,
-    "wof:lastmodified":1601423033,
+    "wof:lastmodified":1636504334,
     "wof:name":"Nanchong",
     "wof:parent_id":890511853,
     "wof:placetype":"locality",

@@ -50,6 +50,9 @@
     "name:deu_x_preferred":[
         "Qamdo"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03bc\u03bd\u03c4\u03cc"
+    ],
     "name:eus_x_preferred":[
         "Qamdo prefektura"
     ],
@@ -65,8 +68,17 @@
     "name:hak_x_preferred":[
         "Chamdo-s\u1e73"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05de\u05d3\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u091a\u092e\u0926\u094b \u0935\u093f\u092d\u093e\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Chamdo"
+    ],
+    "name:ind_x_preferred":[
+        "Chamdo"
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e3\u30e0\u30c9\u5e02"
@@ -89,6 +101,9 @@
     "name:pol_x_preferred":[
         "Qamdo"
     ],
+    "name:por_x_preferred":[
+        "Chamdo"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0430\u043c\u0434\u043e"
     ],
@@ -100,6 +115,9 @@
     ],
     "name:tur_x_preferred":[
         "Qamdo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u043c\u0434\u043e"
     ],
     "name:urd_x_preferred":[
         "\u0686\u0627\u0645\u062f\u0648"
@@ -132,7 +150,7 @@
         "gn:id":8067062
     },
     "wof:country":"CN",
-    "wof:geomhash":"3d9503f0582d31052532547c49734564",
+    "wof:geomhash":"9dd2f3d94ae56b2b9ed27a906b7bef76",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":1360268483,
-    "wof:lastmodified":1566691999,
+    "wof:lastmodified":1636504235,
     "wof:name":"Chamdo",
     "wof:parent_id":890516395,
     "wof:placetype":"locality",
@@ -154,10 +172,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    86.00399999999998,
+    86.004,
     28.304,
-    86.00399999999998,
+    86.004,
     28.304
 ],
-  "geometry": {"coordinates":[86.00399999999998,28.304],"type":"Point"}
+  "geometry": {"coordinates":[86.004,28.304],"type":"Point"}
 }

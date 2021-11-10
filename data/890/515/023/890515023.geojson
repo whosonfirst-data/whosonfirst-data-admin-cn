@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Baotou"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d5\u05d8\u05d5\u05d0\u05d5"
+    ],
     "name:zho_x_preferred":[
         "\u5305\u5934\u5e02"
     ],
@@ -35,11 +38,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85669847,
         102191569,
         85632695,
-        890512867,
         136253041,
-        85669847
+        890512867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890515023,
-    "wof:lastmodified":1601422979,
+    "wof:lastmodified":1636504333,
     "wof:name":"Baotou",
     "wof:parent_id":890512867,
     "wof:placetype":"localadmin",

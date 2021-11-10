@@ -45,6 +45,9 @@
         "Mili"
     ],
     "name:rus_x_preferred":[
+        "\u0430\u0442\u043e\u043b\u043b \u041c\u0438\u043b\u0438"
+    ],
+    "name:rus_x_variant":[
         "\u041c\u0438\u043b\u043b\u0438"
     ],
     "name:spa_x_preferred":[
@@ -55,6 +58,24 @@
     ],
     "name:swe_x_preferred":[
         "Mili"
+    ],
+    "name:tur_x_preferred":[
+        "Mili"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043b\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0644\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Mili"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7c73\u5229\u73af\u7901"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5bc6\u91cc"
     ],
     "name:zho_x_preferred":[
         "\u89c5\u5229"
@@ -75,7 +96,7 @@
         "gn:id":6824835
     },
     "wof:country":"CN",
-    "wof:geomhash":"77183261b7804798a2f7e8eea70ba34f",
+    "wof:geomhash":"c11916f791116402164c4b0241053737",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,7 +108,7 @@
         }
     ],
     "wof:id":1343904923,
-    "wof:lastmodified":1566657705,
+    "wof:lastmodified":1636503634,
     "wof:name":"Mili",
     "wof:parent_id":1108794063,
     "wof:placetype":"locality",
@@ -98,9 +119,9 @@
 },
   "bbox": [
     103.19737,
-    24.13487000000001,
+    24.13487,
     103.19737,
-    24.13487000000001
+    24.13487
 ],
-  "geometry": {"coordinates":[103.19737000000001,24.13487000000001],"type":"Point"}
+  "geometry": {"coordinates":[103.19737000000001,24.13487],"type":"Point"}
 }

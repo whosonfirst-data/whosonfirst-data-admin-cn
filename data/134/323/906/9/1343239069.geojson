@@ -38,7 +38,16 @@
     "name:deu_x_preferred":[
         "Nangong"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0646\u06af\u0648\u0646\u06af"
+    ],
     "name:fra_x_preferred":[
+        "Nangong"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e0\u05d2\u05d5\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
         "Nangong"
     ],
     "name:ita_x_preferred":[
@@ -67,6 +76,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u043d\u044c\u0433\u0443\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Nangong"
     ],
     "name:swe_x_preferred":[
         "Nangong"
@@ -100,7 +112,7 @@
         "gn:id":7695070
     },
     "wof:country":"CN",
-    "wof:geomhash":"371016d2b4ff2ad1cbcc7f3a9b16ad14",
+    "wof:geomhash":"fdb96bde989dad68248ceaa5030bd057",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -112,7 +124,7 @@
         }
     ],
     "wof:id":1343239069,
-    "wof:lastmodified":1566659736,
+    "wof:lastmodified":1636503657,
     "wof:name":"Nangong",
     "wof:parent_id":1108732489,
     "wof:placetype":"locality",
@@ -122,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    111.86426000000002,
+    111.86426,
     30.26698,
-    111.86426000000002,
+    111.86426,
     30.26698
 ],
-  "geometry": {"coordinates":[111.86426000000002,30.26698],"type":"Point"}
+  "geometry": {"coordinates":[111.86426,30.26698],"type":"Point"}
 }

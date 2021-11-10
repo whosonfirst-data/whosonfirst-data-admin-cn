@@ -20,6 +20,12 @@
     "name:eng_x_preferred":[
         "Xinxiang"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e1\u05d9\u05e0\u05e7\u05e1\u05d9\u05d0\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Xinxiang"
+    ],
     "name:zho_x_preferred":[
         "\u65b0\u4e61"
     ],
@@ -35,11 +41,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85669801,
         102191569,
         85632695,
-        890515625,
         136253041,
-        85669801
+        890515625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":890515623,
-    "wof:lastmodified":1601423069,
+    "wof:lastmodified":1636504342,
     "wof:name":"Xinxiang",
     "wof:parent_id":890515625,
     "wof:placetype":"locality",

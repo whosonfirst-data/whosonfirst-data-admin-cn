@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"94.6620149322,40.1426776317,94.6620149322,40.1426776317",
+    "geom:bbox":"94.662015,40.142678,94.662015,40.142678",
     "geom:latitude":40.142678,
     "geom:longitude":94.662015,
     "iso:country":"CN",
@@ -59,6 +59,9 @@
     ],
     "name:fra_x_preferred":[
         "Dunhuang"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05e0\u05d2\u05d7\u05d5\u05d0\u05e0\u05d2"
     ],
     "name:hin_x_preferred":[
         "\u0926\u0942\u0928\u0939\u0941\u0906\u0902\u0917"
@@ -260,7 +263,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499131044,
-    "wof:geomhash":"3eb868c66993c0077db598af74e5e5a5",
+    "wof:geomhash":"241d71edf09f563b0376d657a672918f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -272,7 +275,7 @@
         }
     ],
     "wof:id":1141909219,
-    "wof:lastmodified":1566706041,
+    "wof:lastmodified":1636504646,
     "wof:name":"Dunhuang",
     "wof:parent_id":890515159,
     "wof:placetype":"locality",
@@ -282,10 +285,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    94.66201493223235,
-    40.14267763168738,
-    94.66201493223235,
-    40.14267763168738
+    94.662015,
+    40.142678,
+    94.662015,
+    40.142678
 ],
-  "geometry": {"coordinates":[94.66201493223235,40.14267763168738],"type":"Point"}
+  "geometry": {"coordinates":[94.662015,40.142678],"type":"Point"}
 }

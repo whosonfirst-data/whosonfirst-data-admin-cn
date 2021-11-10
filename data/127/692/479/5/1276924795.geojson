@@ -62,6 +62,12 @@
     "name:fra_x_preferred":[
         "Shiyan"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d9\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Shiyan"
+    ],
     "name:ita_x_preferred":[
         "Shiyan"
     ],
@@ -138,7 +144,7 @@
         "gn:id":8400235
     },
     "wof:country":"CN",
-    "wof:geomhash":"3267760cc09b1394b4c7ae02ab42fde6",
+    "wof:geomhash":"5369c2a211b0c4d9139c4662ddce6c9b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -150,7 +156,7 @@
         }
     ],
     "wof:id":1276924795,
-    "wof:lastmodified":1566674741,
+    "wof:lastmodified":1636503882,
     "wof:name":"Shiyan",
     "wof:parent_id":890513063,
     "wof:placetype":"locality",
@@ -161,9 +167,9 @@
 },
   "bbox": [
     108.11611,
-    31.26222000000001,
+    31.26222,
     108.11611,
-    31.26222000000001
+    31.26222
 ],
-  "geometry": {"coordinates":[108.11611000000001,31.26222000000001],"type":"Point"}
+  "geometry": {"coordinates":[108.11611000000001,31.26222],"type":"Point"}
 }

@@ -59,6 +59,12 @@
     "name:fra_x_preferred":[
         "Jincheng"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d9\u05e0\u05e6'\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Jincheng"
+    ],
     "name:ind_x_preferred":[
         "Jincheng"
     ],
@@ -132,7 +138,7 @@
         "gn:id":1924932
     },
     "wof:country":"CN",
-    "wof:geomhash":"40affdb97949f14ee485d3c08a1d3128",
+    "wof:geomhash":"30daeec5a0c7115e8833bb0a71d1a836",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -144,7 +150,7 @@
         }
     ],
     "wof:id":1343865443,
-    "wof:lastmodified":1566664528,
+    "wof:lastmodified":1636503719,
     "wof:name":"Jincheng",
     "wof:parent_id":890514607,
     "wof:placetype":"locality",
@@ -154,10 +160,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    115.24611000000002,
-    27.07472000000001,
-    115.24611000000002,
-    27.07472000000001
+    115.24611,
+    27.07472,
+    115.24611,
+    27.07472
 ],
-  "geometry": {"coordinates":[115.24611000000002,27.07472000000001],"type":"Point"}
+  "geometry": {"coordinates":[115.24611,27.07472],"type":"Point"}
 }

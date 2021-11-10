@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"113.53388627,41.5494393098,113.53388627,41.5494393098",
+    "geom:bbox":"113.533886,41.549439,113.533886,41.549439",
     "geom:latitude":41.549439,
     "geom:longitude":113.533886,
     "iso:country":"CN",
@@ -64,6 +64,9 @@
         "Xanadu"
     ],
     "name:ind_x_preferred":[
+        "Shangdu"
+    ],
+    "name:ind_x_variant":[
         "Xanadu"
     ],
     "name:ita_x_preferred":[
@@ -91,6 +94,9 @@
         "Xanadu"
     ],
     "name:por_x_preferred":[
+        "Xanadu"
+    ],
+    "name:por_x_variant":[
         "Shangdu"
     ],
     "name:rus_x_preferred":[
@@ -230,7 +236,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499130609,
-    "wof:geomhash":"d2b16fe5eb8583d2a73f2d02c0f9fe13",
+    "wof:geomhash":"bffea27588fbe70123e21e0b7071b454",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -242,7 +248,7 @@
         }
     ],
     "wof:id":1141906557,
-    "wof:lastmodified":1566706039,
+    "wof:lastmodified":1636504642,
     "wof:name":"Shangdu",
     "wof:parent_id":1108732343,
     "wof:placetype":"locality",
@@ -252,10 +258,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    113.53388627019842,
-    41.54943930975298,
-    113.53388627019842,
-    41.54943930975298
+    113.533886,
+    41.549439,
+    113.533886,
+    41.549439
 ],
-  "geometry": {"coordinates":[113.53388627019842,41.54943930975298],"type":"Point"}
+  "geometry": {"coordinates":[113.533886,41.549439],"type":"Point"}
 }

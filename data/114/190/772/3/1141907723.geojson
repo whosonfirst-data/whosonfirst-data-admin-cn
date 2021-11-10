@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"131.350008096,46.6704187206,131.350008096,46.6704187206",
+    "geom:bbox":"131.350008,46.670419,131.350008,46.670419",
     "geom:latitude":46.670419,
     "geom:longitude":131.350008,
     "iso:country":"CN",
@@ -63,8 +63,14 @@
     "name:guj_x_preferred":[
         "\u0ab6\u0ac1\u0a85\u0a82\u0a97\u0acd\u0aaf\u0abe\u0ab6\u0aa8"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d5\u05d0\u05e0\u05d2\u05d9\u05d0\u05e9\u05d5\u05d0\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u0936\u0941\u0906\u0902\u0917\u094d\u092f\u093e\u0936\u093e\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Shuangyashan"
     ],
     "name:ind_x_preferred":[
         "Shuangyashan"
@@ -286,7 +292,7 @@
     },
     "wof:country":"CN",
     "wof:created":1499130763,
-    "wof:geomhash":"27c8cf6d3db3df4b1a67b42fd2dcda40",
+    "wof:geomhash":"314c8f7a3f25d60b938de0329270f7b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -298,7 +304,7 @@
         }
     ],
     "wof:id":1141907723,
-    "wof:lastmodified":1566706041,
+    "wof:lastmodified":1636504646,
     "wof:name":"Shuangyashan",
     "wof:parent_id":1108732377,
     "wof:placetype":"locality",
@@ -308,10 +314,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    131.35000809644146,
-    46.67041872058076,
-    131.35000809644146,
-    46.67041872058076
+    131.350008,
+    46.670419,
+    131.350008,
+    46.670419
 ],
-  "geometry": {"coordinates":[131.35000809644146,46.67041872058076],"type":"Point"}
+  "geometry": {"coordinates":[131.350008,46.670419],"type":"Point"}
 }

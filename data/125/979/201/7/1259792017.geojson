@@ -32,10 +32,28 @@
     "name:aze_x_preferred":[
         "Zeya"
     ],
+    "name:ben_x_preferred":[
+        "\u099c\u09bf\u09af\u09bc\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Zeya"
     ],
     "name:dan_x_preferred":[
+        "Zeya"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03ad\u03b9\u03b1"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093c\u0947\u092f\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Zeya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bc\u30e4"
+    ],
+    "name:por_x_preferred":[
         "Zeya"
     ],
     "name:spa_x_preferred":[
@@ -46,6 +64,12 @@
     ],
     "name:und_x_variant":[
         "Tse-ya"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u06d2 \u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Zeya"
     ],
     "name:zho_x_preferred":[
         "\u6cfd\u96c5"
@@ -63,7 +87,7 @@
         "gn:id":1882828
     },
     "wof:country":"CN",
-    "wof:geomhash":"6091dc5a2ed556e9b9da32c37ebacf7c",
+    "wof:geomhash":"5fc571ff97379f680dd8f8a9def50f3f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,7 +99,7 @@
         }
     ],
     "wof:id":1259792017,
-    "wof:lastmodified":1566698931,
+    "wof:lastmodified":1636504482,
     "wof:name":"Zeya",
     "wof:parent_id":890514289,
     "wof:placetype":"locality",
@@ -86,9 +110,9 @@
 },
   "bbox": [
     120.41633,
-    28.03634000000001,
+    28.03634,
     120.41633,
-    28.03634000000001
+    28.03634
 ],
-  "geometry": {"coordinates":[120.41633,28.03634000000001],"type":"Point"}
+  "geometry": {"coordinates":[120.41633,28.03634],"type":"Point"}
 }

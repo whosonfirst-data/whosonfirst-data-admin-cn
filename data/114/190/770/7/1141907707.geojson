@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"118.033301553,43.5170711457,118.033301553,43.5170711457",
+    "geom:bbox":"118.033302,43.517071,118.033302,43.517071",
     "geom:latitude":43.517071,
     "geom:longitude":118.033302,
     "iso:country":"CN",
@@ -46,7 +46,16 @@
         "Linxi"
     ],
     "name:ukr_x_preferred":[
+        "\u041b\u0456\u043d\u044c\u0446\u0437\u0438"
+    ],
+    "name:ukr_x_variant":[
         "\u041b\u0456\u043d\u044c\u0441\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0632\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e2m T\u00e2y"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -155,7 +164,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499130760,
-    "wof:geomhash":"4cc3cc9c8ba0b7d1614c386bf9f31627",
+    "wof:geomhash":"452623d9a199eff94bb08426c9a9954a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -167,7 +176,7 @@
         }
     ],
     "wof:id":1141907707,
-    "wof:lastmodified":1566706037,
+    "wof:lastmodified":1636504638,
     "wof:name":"Linxi",
     "wof:parent_id":890514597,
     "wof:placetype":"locality",
@@ -177,10 +186,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    118.03330155341962,
-    43.51707114569842,
-    118.03330155341962,
-    43.51707114569842
+    118.033302,
+    43.517071,
+    118.033302,
+    43.517071
 ],
-  "geometry": {"coordinates":[118.03330155341962,43.51707114569842],"type":"Point"}
+  "geometry": {"coordinates":[118.03330200000001,43.517071],"type":"Point"}
 }

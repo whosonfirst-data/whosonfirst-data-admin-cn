@@ -65,6 +65,12 @@
     "name:fra_x_preferred":[
         "Puyang"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d9\u05d0\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Puyang"
+    ],
     "name:ita_x_preferred":[
         "Puyang"
     ],
@@ -147,7 +153,7 @@
         "gn:id":1915255
     },
     "wof:country":"CN",
-    "wof:geomhash":"2ac820e69dbb931214a21207eecb9366",
+    "wof:geomhash":"215eb49f687c4c5dad03e14f597c70ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -159,7 +165,7 @@
         }
     ],
     "wof:id":1259629655,
-    "wof:lastmodified":1566698293,
+    "wof:lastmodified":1636504468,
     "wof:name":"Puyang",
     "wof:parent_id":890514753,
     "wof:placetype":"locality",
@@ -170,9 +176,9 @@
 },
   "bbox": [
     110.12895,
-    21.50687000000001,
+    21.50687,
     110.12895,
-    21.50687000000001
+    21.50687
 ],
-  "geometry": {"coordinates":[110.12895,21.50687000000001],"type":"Point"}
+  "geometry": {"coordinates":[110.12895,21.50687],"type":"Point"}
 }

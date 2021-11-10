@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"117.03000362,25.180412617,117.03000362,25.180412617",
+    "geom:bbox":"117.030004,25.180413,117.030004,25.180413",
     "geom:latitude":25.180413,
     "geom:longitude":117.030004,
     "iso:country":"CN",
@@ -74,6 +74,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0932\u093e\u0902\u0917\u094d\u092f\u093e\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Longyan"
     ],
     "name:ind_x_preferred":[
         "Longyan"
@@ -304,7 +307,7 @@
     },
     "wof:country":"CN",
     "wof:created":1499130740,
-    "wof:geomhash":"446056f0b3c410c78022a1218eb5b107",
+    "wof:geomhash":"9aba59aaef64a3b75756055052f1a86a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -316,7 +319,7 @@
         }
     ],
     "wof:id":1141907551,
-    "wof:lastmodified":1566706034,
+    "wof:lastmodified":1636504633,
     "wof:name":"Longyan",
     "wof:parent_id":890516203,
     "wof:placetype":"locality",
@@ -326,10 +329,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    117.03000362047283,
-    25.1804126169792,
-    117.03000362047283,
-    25.1804126169792
+    117.030004,
+    25.180413,
+    117.030004,
+    25.180413
 ],
-  "geometry": {"coordinates":[117.03000362047283,25.1804126169792],"type":"Point"}
+  "geometry": {"coordinates":[117.03000400000001,25.180413],"type":"Point"}
 }

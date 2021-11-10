@@ -76,8 +76,14 @@
     "name:hak_x_preferred":[
         "S\u00een-y\u00ec-s\u1e73"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e1\u05d9\u05e0\u05d9\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u093f\u0928\u094d\u092f\u0942"
+    ],
+    "name:hun_x_preferred":[
+        "Xinyu"
     ],
     "name:ind_x_preferred":[
         "Xinyu"
@@ -306,11 +312,11 @@
     "src:population":"geonames",
     "wd:wordcount":400,
     "wof:belongsto":[
+        85669823,
         102191569,
         85632695,
-        890515379,
         136253041,
-        85669823
+        890515379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -338,7 +344,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1608688165,
+    "wof:lastmodified":1636503606,
     "wof:megacity":1,
     "wof:name":"Xinyu",
     "wof:parent_id":890515379,

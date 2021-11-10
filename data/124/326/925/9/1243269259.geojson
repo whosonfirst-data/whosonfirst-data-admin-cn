@@ -44,6 +44,12 @@
     "name:fra_x_preferred":[
         "Chaoyang"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d0\u05d5\u05d9\u05d0\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Chaoyang"
+    ],
     "name:mlg_x_preferred":[
         "Chaoyang"
     ],
@@ -84,7 +90,7 @@
         "gn:id":8265398
     },
     "wof:country":"CN",
-    "wof:geomhash":"e413519903305dbd1ead743ec80d643d",
+    "wof:geomhash":"6ae0d580b134390e6cbcd02b740e3abf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1243269259,
-    "wof:lastmodified":1566697674,
+    "wof:lastmodified":1636504453,
     "wof:name":"Chaoyang",
     "wof:parent_id":1108732521,
     "wof:placetype":"locality",
@@ -106,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    119.68916000000002,
+    119.68916,
     32.04089,
-    119.68916000000002,
+    119.68916,
     32.04089
 ],
-  "geometry": {"coordinates":[119.68916000000002,32.04089],"type":"Point"}
+  "geometry": {"coordinates":[119.68916,32.04089],"type":"Point"}
 }

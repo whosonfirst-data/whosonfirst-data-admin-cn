@@ -20,6 +20,12 @@
     "name:eng_x_preferred":[
         "Puyang"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d9\u05d0\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Puyang"
+    ],
     "name:zho_x_preferred":[
         "\u8386\u7530\u5e02"
     ],
@@ -35,11 +41,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85669735,
         102191569,
         85632695,
-        890516865,
         136253041,
-        85669735
+        890516865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":890513365,
-    "wof:lastmodified":1601423041,
+    "wof:lastmodified":1636504314,
     "wof:name":"Puyang",
     "wof:parent_id":890516865,
     "wof:placetype":"localadmin",

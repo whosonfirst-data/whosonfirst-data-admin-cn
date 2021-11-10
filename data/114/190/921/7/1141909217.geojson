@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"102.641011107,37.9280066112,102.641011107,37.9280066112",
+    "geom:bbox":"102.641011,37.928007,102.641011,37.928007",
     "geom:latitude":37.928007,
     "geom:longitude":102.641011,
     "iso:country":"CN",
@@ -69,8 +69,14 @@
     "name:guj_x_preferred":[
         "\u0ab5\u0ac1\u0ab5\u0ac7\u0a88"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05d5\u05d5\u05d9\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0935\u0942\u0935\u0947\u0907"
+    ],
+    "name:hun_x_preferred":[
+        "Wuwei"
     ],
     "name:hye_x_preferred":[
         "\u0548\u0582\u057e\u0565\u0575"
@@ -292,7 +298,7 @@
     },
     "wof:country":"CN",
     "wof:created":1499131044,
-    "wof:geomhash":"20fc3842bf33eec360aed6814e37ea14",
+    "wof:geomhash":"62df4bc605ce69c3a04454f25a998278",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -304,7 +310,7 @@
         }
     ],
     "wof:id":1141909217,
-    "wof:lastmodified":1566706041,
+    "wof:lastmodified":1636504646,
     "wof:name":"Wuwei",
     "wof:parent_id":890516467,
     "wof:placetype":"locality",
@@ -314,10 +320,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    102.64101110739443,
-    37.92800661117087,
-    102.64101110739443,
-    37.92800661117087
+    102.641011,
+    37.928007,
+    102.641011,
+    37.928007
 ],
-  "geometry": {"coordinates":[102.64101110739443,37.92800661117087],"type":"Point"}
+  "geometry": {"coordinates":[102.64101100000001,37.928007],"type":"Point"}
 }

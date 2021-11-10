@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"109.937775023,34.7952520946,109.937775023,34.7952520946",
+    "geom:bbox":"109.937775,34.795252,109.937775,34.795252",
     "geom:latitude":34.795252,
     "geom:longitude":109.937775,
     "iso:country":"CN",
@@ -67,6 +67,9 @@
         "Dali"
     ],
     "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u0414\u0430\u043b\u0438"
+    ],
+    "name:rus_x_variant":[
         "\u0414\u0430\u043b\u0438"
     ],
     "name:spa_x_preferred":[
@@ -81,8 +84,23 @@
     "name:tgl_x_preferred":[
         "Dali"
     ],
+    "name:tur_x_preferred":[
+        "Dali"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0430\u043b\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u0627\u0644\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Dali"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5927\u91cc\u6eaa"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5927\u7406\u6cb3"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -191,7 +209,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499130607,
-    "wof:geomhash":"f055bedc2e4b747cce873310e5640a81",
+    "wof:geomhash":"46c6f3a8b8005aa744d06406479d7cc2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -203,7 +221,7 @@
         }
     ],
     "wof:id":1141906535,
-    "wof:lastmodified":1566706039,
+    "wof:lastmodified":1636504643,
     "wof:name":"Dali",
     "wof:parent_id":890511937,
     "wof:placetype":"locality",
@@ -213,10 +231,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.93777502343914,
-    34.79525209455664,
-    109.93777502343914,
-    34.79525209455664
+    109.937775,
+    34.795252,
+    109.937775,
+    34.795252
 ],
-  "geometry": {"coordinates":[109.93777502343914,34.79525209455664],"type":"Point"}
+  "geometry": {"coordinates":[109.937775,34.795252],"type":"Point"}
 }

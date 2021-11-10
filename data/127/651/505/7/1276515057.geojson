@@ -59,6 +59,12 @@
     "name:fra_x_preferred":[
         "Luohe"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d0\u05d4\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Luohe"
+    ],
     "name:ita_x_preferred":[
         "Luohe"
     ],
@@ -87,6 +93,9 @@
         "Luohe"
     ],
     "name:pol_x_preferred":[
+        "Luohe"
+    ],
+    "name:por_x_preferred":[
         "Luohe"
     ],
     "name:rus_x_preferred":[
@@ -132,7 +141,7 @@
         "gn:id":11465082
     },
     "wof:country":"CN",
-    "wof:geomhash":"730abd3610620acebb5e6075604249d6",
+    "wof:geomhash":"215313922ecb17a7f53a5b4b6c6c054f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -144,7 +153,7 @@
         }
     ],
     "wof:id":1276515057,
-    "wof:lastmodified":1566674187,
+    "wof:lastmodified":1636503874,
     "wof:name":"Luohe",
     "wof:parent_id":890514749,
     "wof:placetype":"locality",
@@ -155,9 +164,9 @@
 },
   "bbox": [
     112.75583,
-    35.26779000000001,
+    35.26779,
     112.75583,
-    35.26779000000001
+    35.26779
 ],
-  "geometry": {"coordinates":[112.75583,35.26779000000001],"type":"Point"}
+  "geometry": {"coordinates":[112.75583,35.26779],"type":"Point"}
 }

@@ -50,6 +50,12 @@
     "name:fra_x_preferred":[
         "Yanji"
     ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d0\u05e0\u05d2'\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Yanji"
+    ],
     "name:ind_x_preferred":[
         "Yanji"
     ],
@@ -126,7 +132,7 @@
         "gn:id":8515000
     },
     "wof:country":"CN",
-    "wof:geomhash":"0412a47b871ee3d7b04fb8801f5ee8db",
+    "wof:geomhash":"b70ec96887a4787e18461aed6168fb0a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +144,7 @@
         }
     ],
     "wof:id":1209993397,
-    "wof:lastmodified":1566680067,
+    "wof:lastmodified":1636503976,
     "wof:name":"Yanji",
     "wof:parent_id":1108732407,
     "wof:placetype":"locality",
@@ -148,10 +154,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    113.56338999999998,
+    113.56339,
     30.70553,
-    113.56338999999998,
+    113.56339,
     30.70553
 ],
-  "geometry": {"coordinates":[113.56338999999998,30.70553],"type":"Point"}
+  "geometry": {"coordinates":[113.56339,30.70553],"type":"Point"}
 }

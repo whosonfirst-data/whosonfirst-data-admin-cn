@@ -38,7 +38,16 @@
     "name:deu_x_preferred":[
         "Pingdu"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0646\u06af\u062f\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Pingdu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05e0\u05d2\u05d3\u05d5"
+    ],
+    "name:hun_x_preferred":[
         "Pingdu"
     ],
     "name:ita_x_preferred":[
@@ -90,7 +99,7 @@
         "gn:id":7679514
     },
     "wof:country":"CN",
-    "wof:geomhash":"c92ee8e5efa4d20bc8b92cef97bb7eeb",
+    "wof:geomhash":"0293addf4dc8bca7eca215fbb44b9e08",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":1344265517,
-    "wof:lastmodified":1566662307,
+    "wof:lastmodified":1636503689,
     "wof:name":"Pingdu",
     "wof:parent_id":890516555,
     "wof:placetype":"locality",
@@ -112,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    119.38096000000002,
+    119.38096,
     30.27907,
-    119.38096000000002,
+    119.38096,
     30.27907
 ],
-  "geometry": {"coordinates":[119.38096000000002,30.27907],"type":"Point"}
+  "geometry": {"coordinates":[119.38096,30.27907],"type":"Point"}
 }

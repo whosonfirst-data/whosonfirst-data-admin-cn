@@ -38,7 +38,16 @@
     "name:deu_x_preferred":[
         "Helong"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0644\u0648\u0646\u06af"
+    ],
     "name:fra_x_preferred":[
+        "Helong"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05dc\u05d5\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
         "Helong"
     ],
     "name:ita_x_preferred":[
@@ -63,6 +72,9 @@
         "Helong"
     ],
     "name:pol_x_preferred":[
+        "Helong"
+    ],
+    "name:por_x_preferred":[
         "Helong"
     ],
     "name:rus_x_preferred":[
@@ -96,7 +108,7 @@
         "gn:id":7511600
     },
     "wof:country":"CN",
-    "wof:geomhash":"8ff7537833bed1aa0224856faa44795b",
+    "wof:geomhash":"4f03df5b250cd609aa49b5e4c9f12797",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":1243309967,
-    "wof:lastmodified":1566694080,
+    "wof:lastmodified":1636504354,
     "wof:name":"Helong",
     "wof:parent_id":890516559,
     "wof:placetype":"locality",
@@ -118,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    114.11433999999998,
+    114.11434,
     23.99815,
-    114.11433999999998,
+    114.11434,
     23.99815
 ],
-  "geometry": {"coordinates":[114.11433999999998,23.99815],"type":"Point"}
+  "geometry": {"coordinates":[114.11434,23.99815],"type":"Point"}
 }

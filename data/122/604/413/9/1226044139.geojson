@@ -54,7 +54,16 @@
         "Madang"
     ],
     "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05d9 \u05de\u05d3\u05d9\u05e8\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05d3\u05e0\u05d2"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0926\u093e\u0902\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Madang"
     ],
     "name:ind_x_preferred":[
         "Madang"
@@ -104,6 +113,9 @@
     "name:urd_x_preferred":[
         "\u0645\u0627\u062f\u0646\u06af"
     ],
+    "name:vie_x_preferred":[
+        "Madang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669823,
@@ -117,7 +129,7 @@
         "gn:id":1801564
     },
     "wof:country":"CN",
-    "wof:geomhash":"bd6f6925f8f3e8cc059691659d0e6c53",
+    "wof:geomhash":"4419b7bb7eec0f9ed3e522e56570a11a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,7 +141,7 @@
         }
     ],
     "wof:id":1226044139,
-    "wof:lastmodified":1566702256,
+    "wof:lastmodified":1636504563,
     "wof:name":"Madang",
     "wof:parent_id":890516935,
     "wof:placetype":"locality",
@@ -140,9 +152,9 @@
 },
   "bbox": [
     116.65443,
-    29.99064000000001,
+    29.99064,
     116.65443,
-    29.99064000000001
+    29.99064
 ],
-  "geometry": {"coordinates":[116.65443,29.99064000000001],"type":"Point"}
+  "geometry": {"coordinates":[116.65443,29.99064],"type":"Point"}
 }

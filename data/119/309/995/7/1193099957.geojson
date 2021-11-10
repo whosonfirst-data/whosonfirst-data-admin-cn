@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u062f\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a1\u09be\u09a6\u09c1"
+    ],
     "name:ceb_x_preferred":[
         "Dadu"
     ],
@@ -38,7 +44,19 @@
     "name:deu_x_preferred":[
         "Dadu"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c4\u03bf\u03cd"
+    ],
     "name:fra_x_preferred":[
+        "Dadu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d0\u05d3\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u093e\u0926\u0942"
+    ],
+    "name:hun_x_preferred":[
         "Dadu"
     ],
     "name:ind_x_preferred":[
@@ -50,11 +68,17 @@
     "name:nor_x_preferred":[
         "Dadu"
     ],
+    "name:por_x_preferred":[
+        "Dadu"
+    ],
     "name:scn_x_preferred":[
         "Dadu"
     ],
     "name:swe_x_preferred":[
         "Dadu"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0627\u062f\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +93,7 @@
         "gn:id":1550343
     },
     "wof:country":"CN",
-    "wof:geomhash":"9f2af12c4f5b26218048a08672f10413",
+    "wof:geomhash":"1e8255a1ef8eac48bcd84ee8d03c631a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +105,7 @@
         }
     ],
     "wof:id":1193099957,
-    "wof:lastmodified":1566684771,
+    "wof:lastmodified":1636504062,
     "wof:name":"Dadu",
     "wof:parent_id":890516473,
     "wof:placetype":"locality",
@@ -92,9 +116,9 @@
 },
   "bbox": [
     107.74,
-    27.66472000000001,
+    27.66472,
     107.74,
-    27.66472000000001
+    27.66472
 ],
-  "geometry": {"coordinates":[107.73999999999999,27.66472000000001],"type":"Point"}
+  "geometry": {"coordinates":[107.73999999999999,27.66472],"type":"Point"}
 }

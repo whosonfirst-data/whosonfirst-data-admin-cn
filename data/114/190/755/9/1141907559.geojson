@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"114.680017862,23.7304236033,114.680017862,23.7304236033",
+    "geom:bbox":"114.680018,23.730424,114.680018,23.730424",
     "geom:latitude":23.730424,
     "geom:longitude":114.680018,
     "iso:country":"CN",
@@ -74,6 +74,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0939\u0947\u092f\u0941\u0906\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Heyuan"
     ],
     "name:ind_x_preferred":[
         "Heyuan"
@@ -292,7 +295,7 @@
     },
     "wof:country":"CN",
     "wof:created":1499130741,
-    "wof:geomhash":"211e99303da627c3696d44340e628471",
+    "wof:geomhash":"1916c3ffc16bbc06feb27e51ea9848fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -304,7 +307,7 @@
         }
     ],
     "wof:id":1141907559,
-    "wof:lastmodified":1566706034,
+    "wof:lastmodified":1636504633,
     "wof:name":"Heyuan",
     "wof:parent_id":890514179,
     "wof:placetype":"locality",
@@ -314,10 +317,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    114.68001786199989,
-    23.73042360330146,
-    114.68001786199989,
-    23.73042360330146
+    114.680018,
+    23.730424,
+    114.680018,
+    23.730424
 ],
-  "geometry": {"coordinates":[114.68001786199989,23.73042360330146],"type":"Point"}
+  "geometry": {"coordinates":[114.680018,23.730424],"type":"Point"}
 }

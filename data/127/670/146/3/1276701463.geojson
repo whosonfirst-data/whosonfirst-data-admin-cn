@@ -77,6 +77,9 @@
     "name:heb_x_preferred":[
         "\u05d3\u05d0\u05d8\u05d5\u05e0\u05d2"
     ],
+    "name:hun_x_preferred":[
+        "Datong"
+    ],
     "name:ina_x_preferred":[
         "Datong"
     ],
@@ -177,7 +180,7 @@
         "gn:id":8399887
     },
     "wof:country":"CN",
-    "wof:geomhash":"31a37c89832671bf3391ce4dd7f874f5",
+    "wof:geomhash":"150261fe5f7ccfb1ace811957fd37cc4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":1276701463,
-    "wof:lastmodified":1566676944,
+    "wof:lastmodified":1636503918,
     "wof:name":"Datong",
     "wof:parent_id":890513063,
     "wof:placetype":"locality",
@@ -200,9 +203,9 @@
 },
   "bbox": [
     108.57329,
-    31.12127000000001,
+    31.12127,
     108.57329,
-    31.12127000000001
+    31.12127
 ],
-  "geometry": {"coordinates":[108.57329,31.12127000000001],"type":"Point"}
+  "geometry": {"coordinates":[108.57329,31.12127],"type":"Point"}
 }

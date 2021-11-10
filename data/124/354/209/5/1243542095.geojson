@@ -44,6 +44,12 @@
     "name:fra_x_preferred":[
         "Jieshou"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d9\u05d0\u05e0\u05e9\u05d5\u05d0\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Jieshou"
+    ],
     "name:ita_x_preferred":[
         "Jieshou"
     ],
@@ -80,6 +86,9 @@
     "name:pol_x_preferred":[
         "Jieshou"
     ],
+    "name:por_x_preferred":[
+        "Jieshou"
+    ],
     "name:spa_x_preferred":[
         "Ji\u00e8sh\u014fu Sh\u00ec"
     ],
@@ -114,7 +123,7 @@
         "gn:id":10411146
     },
     "wof:country":"CN",
-    "wof:geomhash":"e7e060002b1c7e3255eb17e63b7cff77",
+    "wof:geomhash":"0e9b6d785add402375f9e78ed7d7f6aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +135,7 @@
         }
     ],
     "wof:id":1243542095,
-    "wof:lastmodified":1566694011,
+    "wof:lastmodified":1636504352,
     "wof:name":"Jieshou",
     "wof:parent_id":890514349,
     "wof:placetype":"locality",
@@ -137,9 +146,9 @@
 },
   "bbox": [
     111.06642,
-    28.80652000000001,
+    28.80652,
     111.06642,
-    28.80652000000001
+    28.80652
 ],
-  "geometry": {"coordinates":[111.06641999999999,28.80652000000001],"type":"Point"}
+  "geometry": {"coordinates":[111.06641999999999,28.80652],"type":"Point"}
 }

@@ -20,6 +20,12 @@
     "name:eng_x_preferred":[
         "Taian"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05d9\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Taian"
+    ],
     "name:zho_x_preferred":[
         "\u6cf0\u5b89\u5e02"
     ],
@@ -35,11 +41,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85669813,
         102191569,
         85632695,
-        890515833,
         136253041,
-        85669813
+        890515833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":890516795,
-    "wof:lastmodified":1601423055,
+    "wof:lastmodified":1636504291,
     "wof:name":"Taian",
     "wof:parent_id":890515833,
     "wof:placetype":"localadmin",

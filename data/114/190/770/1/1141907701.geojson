@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"119.170028035,34.6004319448,119.170028035,34.6004319448",
+    "geom:bbox":"119.170028,34.600432,119.170028,34.600432",
     "geom:latitude":34.600432,
     "geom:longitude":119.170028,
     "iso:country":"CN",
@@ -78,8 +78,14 @@
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0aaf\u0abe\u0a82\u0aaf\u0ac1\u0a82\u0a97\u0a82\u0a97"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05d0\u05e0\u05d9\u05d5\u05d0\u05e0\u05d2\u05d0\u05e0\u05d2"
+    ],
     "name:hin_x_preferred":[
         "\u0932\u093f\u0906\u0902\u092f\u0919\u094d\u0917\u093e\u0919\u094d\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Lianyungang"
     ],
     "name:ind_x_preferred":[
         "Lianyungang"
@@ -298,7 +304,7 @@
     },
     "wof:country":"CN",
     "wof:created":1499130760,
-    "wof:geomhash":"b33a443022d58244c765553e4fc9536f",
+    "wof:geomhash":"ed67d7e983167915de02bc24d35f71cb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -310,7 +316,7 @@
         }
     ],
     "wof:id":1141907701,
-    "wof:lastmodified":1566706037,
+    "wof:lastmodified":1636504638,
     "wof:name":"Lianyungang",
     "wof:parent_id":890514777,
     "wof:placetype":"locality",
@@ -320,10 +326,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    119.17002803454398,
-    34.60043194481636,
-    119.17002803454398,
-    34.60043194481636
+    119.170028,
+    34.600432,
+    119.170028,
+    34.600432
 ],
-  "geometry": {"coordinates":[119.17002803454398,34.60043194481636],"type":"Point"}
+  "geometry": {"coordinates":[119.170028,34.600432],"type":"Point"}
 }

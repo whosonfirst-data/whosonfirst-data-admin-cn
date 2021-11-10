@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.3500109445,43.9000193472,81.3500109445,43.9000193472",
+    "geom:bbox":"81.350011,43.900019,81.350011,43.900019",
     "geom:latitude":43.900019,
     "geom:longitude":81.350011,
     "iso:country":"CN",
@@ -41,6 +41,12 @@
     ],
     "name:fra_x_preferred":[
         "Yining"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d9\u05e0\u05d9\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Jining"
     ],
     "name:ita_x_preferred":[
         "Yining"
@@ -224,7 +230,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499131053,
-    "wof:geomhash":"7ec895be68492365c5cc3f24d897189d",
+    "wof:geomhash":"244ff68d5c40c87fd053f90b6d6637cb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -236,7 +242,7 @@
         }
     ],
     "wof:id":1141909243,
-    "wof:lastmodified":1566706036,
+    "wof:lastmodified":1636504637,
     "wof:name":"Yining",
     "wof:parent_id":1108732355,
     "wof:placetype":"locality",
@@ -246,10 +252,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    81.35001094454879,
-    43.9000193471972,
-    81.35001094454879,
-    43.9000193471972
+    81.350011,
+    43.900019,
+    81.350011,
+    43.900019
 ],
-  "geometry": {"coordinates":[81.35001094454879,43.9000193471972],"type":"Point"}
+  "geometry": {"coordinates":[81.35001099999999,43.900019],"type":"Point"}
 }

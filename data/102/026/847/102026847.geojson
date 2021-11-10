@@ -26,6 +26,9 @@
         "\u0622\u0631\u0627\u0644"
     ],
     "name:ben_x_preferred":[
+        "\u0986\u09b0\u09be\u09b2"
+    ],
+    "name:ben_x_variant":[
         "\u0985\u09cd\u09af\u09be\u09b0\u09be\u09b2"
     ],
     "name:cdo_x_preferred":[
@@ -66,6 +69,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab0\u0acd\u0ab2"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d0\u05dc"
     ],
     "name:hin_x_preferred":[
         "\u0905\u0930\u093e\u0932"
@@ -201,11 +207,11 @@
     "src:population":"geonames",
     "wd:wordcount":203,
     "wof:belongsto":[
+        85669753,
         102191569,
         85632695,
-        1108732535,
         136253041,
-        85669753
+        1108732535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -231,7 +237,7 @@
         }
     ],
     "wof:id":102026847,
-    "wof:lastmodified":1587163111,
+    "wof:lastmodified":1636503610,
     "wof:name":"Aral",
     "wof:parent_id":1108732535,
     "wof:placetype":"locality",

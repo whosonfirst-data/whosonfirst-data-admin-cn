@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"98.4665889069,25.0333156525,98.4665889069,25.0333156525",
+    "geom:bbox":"98.466589,25.033316,98.466589,25.033316",
     "geom:latitude":25.033316,
     "geom:longitude":98.466589,
     "iso:country":"CN",
@@ -49,6 +49,9 @@
         "Tengchong"
     ],
     "name:urd_x_preferred":[
+        "\u0679\u06cc\u0646\u06af\u0686\u0648\u0646\u06af"
+    ],
+    "name:urd_x_variant":[
         "\u062a\u06cc\u0646\u06af\u0686\u0648\u0646\u06af"
     ],
     "name:vie_x_preferred":[
@@ -164,7 +167,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499130607,
-    "wof:geomhash":"b282fc7e8f89b51c3351372cb24b7a15",
+    "wof:geomhash":"ecf1c274533b1cea3129d86406e4a599",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":1141906541,
-    "wof:lastmodified":1566706040,
+    "wof:lastmodified":1636504643,
     "wof:name":"Tengchong",
     "wof:parent_id":890514251,
     "wof:placetype":"locality",
@@ -186,10 +189,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    98.46658890685688,
-    25.03331565246037,
-    98.46658890685688,
-    25.03331565246037
+    98.466589,
+    25.033316,
+    98.466589,
+    25.033316
 ],
-  "geometry": {"coordinates":[98.46658890685688,25.03331565246037],"type":"Point"}
+  "geometry": {"coordinates":[98.466589,25.033316],"type":"Point"}
 }

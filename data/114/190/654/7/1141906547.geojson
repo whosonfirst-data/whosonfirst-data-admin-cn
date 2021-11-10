@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"101.545574096,25.0364162384,101.545574096,25.0364162384",
+    "geom:bbox":"101.545574,25.036416,101.545574,25.036416",
     "geom:latitude":25.036416,
     "geom:longitude":101.545574,
     "iso:country":"CN",
@@ -19,6 +19,15 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Chuxiong"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u06a9\u0633\u06cc\u0648\u0646\u06af"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d5\u05e7\u05e1\u05d9\u05d0\u05d5\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
         "Chuxiong"
     ],
     "name:pol_x_preferred":[
@@ -134,7 +143,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499130608,
-    "wof:geomhash":"7b23fdc64919e61857a6affac6ee46a1",
+    "wof:geomhash":"0ba6256c015eca41e32e432cae2ba64b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -146,7 +155,7 @@
         }
     ],
     "wof:id":1141906547,
-    "wof:lastmodified":1566706039,
+    "wof:lastmodified":1636504643,
     "wof:name":"Chuxiong",
     "wof:parent_id":1108732445,
     "wof:placetype":"locality",
@@ -156,10 +165,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    101.54557409567133,
-    25.03641623839786,
-    101.54557409567133,
-    25.03641623839786
+    101.545574,
+    25.036416,
+    101.545574,
+    25.036416
 ],
-  "geometry": {"coordinates":[101.54557409567133,25.03641623839786],"type":"Point"}
+  "geometry": {"coordinates":[101.545574,25.036416],"type":"Point"}
 }

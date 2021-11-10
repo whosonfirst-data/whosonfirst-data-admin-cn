@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"94.8833450917,36.4166259959,94.8833450917,36.4166259959",
+    "geom:bbox":"94.883345,36.416626,94.883345,36.416626",
     "geom:latitude":36.416626,
     "geom:longitude":94.883345,
     "iso:country":"CN",
@@ -45,10 +45,16 @@
     "name:fra_x_preferred":[
         "Golmud"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05dc\u05de\u05d5\u05d3"
+    ],
     "name:hin_x_preferred":[
         "\u0917\u094b\u0932\u092e\u0941\u0926"
     ],
     "name:hrv_x_preferred":[
+        "Golmud"
+    ],
+    "name:hun_x_preferred":[
         "Golmud"
     ],
     "name:ind_x_preferred":[
@@ -82,6 +88,9 @@
         "Golmud"
     ],
     "name:pol_x_preferred":[
+        "Golmud"
+    ],
+    "name:por_x_preferred":[
         "Golmud"
     ],
     "name:rus_x_preferred":[
@@ -215,7 +224,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499131045,
-    "wof:geomhash":"b9df01adc62d85953d2992f153ced2f3",
+    "wof:geomhash":"4e89e7a85c48b7b3af916f8ccfb6ef6a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -227,7 +236,7 @@
         }
     ],
     "wof:id":1141909223,
-    "wof:lastmodified":1566706036,
+    "wof:lastmodified":1636504638,
     "wof:name":"Golmud",
     "wof:parent_id":1108732461,
     "wof:placetype":"locality",
@@ -237,10 +246,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    94.88334509173848,
-    36.41662599593042,
-    94.88334509173848,
-    36.41662599593042
+    94.883345,
+    36.416626,
+    94.883345,
+    36.416626
 ],
-  "geometry": {"coordinates":[94.88334509173848,36.41662599593042],"type":"Point"}
+  "geometry": {"coordinates":[94.88334500000001,36.416626],"type":"Point"}
 }

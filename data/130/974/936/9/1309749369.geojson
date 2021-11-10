@@ -71,6 +71,9 @@
     "name:fra_x_preferred":[
         "Wuhu"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05d4\u05d5"
+    ],
     "name:hye_x_preferred":[
         "\u054e\u0578\u0582\u0570\u0578\u0582"
     ],
@@ -170,7 +173,7 @@
         "gn:id":7639924
     },
     "wof:country":"CN",
-    "wof:geomhash":"d3289a409b04e792f90da0c721b71736",
+    "wof:geomhash":"62c6f32b2427fe2c6201dbda484e84e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":1309749369,
-    "wof:lastmodified":1566693274,
+    "wof:lastmodified":1636504272,
     "wof:name":"Wuhu",
     "wof:parent_id":1108732359,
     "wof:placetype":"locality",
@@ -192,9 +195,9 @@
 },
   "bbox": [
     108.99238,
-    19.46652000000001,
+    19.46652,
     108.99238,
-    19.46652000000001
+    19.46652
 ],
-  "geometry": {"coordinates":[108.99238,19.46652000000001],"type":"Point"}
+  "geometry": {"coordinates":[108.99238,19.46652],"type":"Point"}
 }

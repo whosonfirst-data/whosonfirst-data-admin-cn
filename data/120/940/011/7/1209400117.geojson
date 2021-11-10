@@ -65,6 +65,12 @@
     "name:fra_x_preferred":[
         "Xiangyang"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e1\u05d9\u05d0\u05e0\u05d2\u05d9\u05d0\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Xiangyang"
+    ],
     "name:ind_x_preferred":[
         "Xiangyang"
     ],
@@ -150,7 +156,7 @@
         "gn:id":8527332
     },
     "wof:country":"CN",
-    "wof:geomhash":"2b2b21345640e57e1916eb4b2819f4cb",
+    "wof:geomhash":"e3ceb89f4193929f72a6090e79dbe198",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1209400117,
-    "wof:lastmodified":1566680838,
+    "wof:lastmodified":1636503991,
     "wof:name":"Xiangyang",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
@@ -169,9 +175,9 @@
 },
   "bbox": [
     129.57977,
-    44.58799000000001,
+    44.58799,
     129.57977,
-    44.58799000000001
+    44.58799
 ],
-  "geometry": {"coordinates":[129.57977,44.58799000000001],"type":"Point"}
+  "geometry": {"coordinates":[129.57977,44.58799],"type":"Point"}
 }

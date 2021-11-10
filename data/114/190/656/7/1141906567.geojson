@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"123.800029662,47.1600529165,123.800029662,47.1600529165",
+    "geom:bbox":"123.80003,47.160053,123.80003,47.160053",
     "geom:latitude":47.160053,
     "geom:longitude":123.80003,
     "iso:country":"CN",
@@ -18,6 +18,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u062c\u0648\u0646\u0634\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0985\u09cd\u09af\u09be\u0982\u0986\u09a8\u09b6\u09bf"
+    ],
+    "name:deu_x_preferred":[
+        "Ang\u2019angxi"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03b3\u03ba\u03b1\u03bd\u03be\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Ang\u2019angxi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u06af\u0627\u0646\u06af\u0634\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Ang'angxi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05d2\u05e0\u05e7\u05e1\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0910\u0902\u0917\u093e\u0902\u0917\u094d\u091c\u093c\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Angangxi"
+    ],
+    "name:ind_x_preferred":[
+        "Angangxi"
+    ],
+    "name:ita_x_preferred":[
+        "Ang'angxi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6602\u6602\u6eaa\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\uc548\uac15\uc2dc"
+    ],
+    "name:nld_x_preferred":[
+        "Angangxi"
+    ],
+    "name:pol_x_preferred":[
+        "Angangxi"
+    ],
+    "name:por_x_preferred":[
+        "Ang'angxi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u044a\u0430\u043d\u0441\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Angangxi"
+    ],
+    "name:swe_x_preferred":[
+        "Ang'angxi"
+    ],
+    "name:tur_x_preferred":[
+        "Angangxi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u044c\u0430\u043d\u044c\u0441\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0646\u06af\u06cc\u0646\u06af\u0632\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Ngang Ngang Kh\u00ea"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6602\u6602\u6eaa\u533a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6602\u6602\u6eaa"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
     "ne:ADM0_A3":"CHN",
@@ -125,7 +203,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499130610,
-    "wof:geomhash":"0fc9da5fcde1ea3c011b8b8f3dcaf933",
+    "wof:geomhash":"6265f27c4e307333c39aa8f6bd5bc9e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +215,7 @@
         }
     ],
     "wof:id":1141906567,
-    "wof:lastmodified":1566706035,
+    "wof:lastmodified":1636504636,
     "wof:name":"Angangxi",
     "wof:parent_id":890516483,
     "wof:placetype":"locality",
@@ -147,10 +225,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    123.8000296621666,
-    47.16005291654631,
-    123.8000296621666,
-    47.16005291654631
+    123.80003,
+    47.160053,
+    123.80003,
+    47.160053
 ],
-  "geometry": {"coordinates":[123.80002966216659,47.16005291654631],"type":"Point"}
+  "geometry": {"coordinates":[123.80003000000001,47.160053],"type":"Point"}
 }

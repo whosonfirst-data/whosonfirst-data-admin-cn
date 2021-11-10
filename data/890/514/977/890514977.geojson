@@ -20,6 +20,12 @@
     "name:eng_x_preferred":[
         "Tieling"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05d0\u05dc\u05d9\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Tieling"
+    ],
     "name:zho_x_preferred":[
         "\u94c1\u5cad\u5e02"
     ],
@@ -35,11 +41,11 @@
     "qs:placetype":"LocalAdmin",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85669807,
         102191569,
         85632695,
-        890514741,
         136253041,
-        85669807
+        890514741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":890514977,
-    "wof:lastmodified":1601423058,
+    "wof:lastmodified":1636504305,
     "wof:name":"Tieling",
     "wof:parent_id":890514741,
     "wof:placetype":"localadmin",

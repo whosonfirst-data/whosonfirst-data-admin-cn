@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.8599259022,45.589942036,84.8599259022,45.589942036",
+    "geom:bbox":"84.859926,45.589942,84.859926,45.589942",
     "geom:latitude":45.589942,
     "geom:longitude":84.859926,
     "iso:country":"CN",
@@ -72,8 +72,14 @@
     "name:guj_x_preferred":[
         "\u0a95\u0ab0\u0aae\u0abe\u0aaf"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d0\u05de\u05d0\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u0930\u092e\u092f"
+    ],
+    "name:hun_x_preferred":[
+        "Karamay"
     ],
     "name:ind_x_preferred":[
         "Karamay"
@@ -292,7 +298,7 @@
     },
     "wof:country":"CN",
     "wof:created":1499130946,
-    "wof:geomhash":"00e31d1b3e0512ab1ccf671ae1edc5ef",
+    "wof:geomhash":"03a9e08014d7c526f052ef1d97ce36a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -304,7 +310,7 @@
         }
     ],
     "wof:id":1141908639,
-    "wof:lastmodified":1566706040,
+    "wof:lastmodified":1636504644,
     "wof:name":"Karamay",
     "wof:parent_id":890515397,
     "wof:placetype":"locality",
@@ -314,10 +320,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    84.8599259022451,
-    45.58994203600611,
-    84.8599259022451,
-    45.58994203600611
+    84.859926,
+    45.589942,
+    84.859926,
+    45.589942
 ],
-  "geometry": {"coordinates":[84.8599259022451,45.58994203600611],"type":"Point"}
+  "geometry": {"coordinates":[84.859926,45.589942],"type":"Point"}
 }

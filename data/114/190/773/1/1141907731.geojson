@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"129.465937052,44.3313366893,129.465937052,44.3313366893",
+    "geom:bbox":"129.465937,44.331337,129.465937,44.331337",
     "geom:latitude":44.331337,
     "geom:longitude":129.465937,
     "iso:country":"CN",
@@ -18,6 +18,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0646\u06af\u0627\u0646"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05e0\u05d2\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Ningan"
+    ],
+    "name:spa_x_preferred":[
+        "Ningan"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
     "ne:ADM0_A3":"CHN",
@@ -125,7 +137,7 @@
     "wof:concordances":{},
     "wof:country":"CN",
     "wof:created":1499130764,
-    "wof:geomhash":"fdb8d88b6367f0681d069bac216a92f2",
+    "wof:geomhash":"58d5c48b99ea3ceeea823eb78dd4b7f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +149,7 @@
         }
     ],
     "wof:id":1141907731,
-    "wof:lastmodified":1566706041,
+    "wof:lastmodified":1636504646,
     "wof:name":"Ningan",
     "wof:parent_id":890515915,
     "wof:placetype":"locality",
@@ -147,10 +159,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.46593705151213,
-    44.33133668932135,
-    129.46593705151213,
-    44.33133668932135
+    129.465937,
+    44.331337,
+    129.465937,
+    44.331337
 ],
-  "geometry": {"coordinates":[129.46593705151213,44.33133668932135],"type":"Point"}
+  "geometry": {"coordinates":[129.465937,44.331337],"type":"Point"}
 }

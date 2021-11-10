@@ -41,6 +41,9 @@
     "name:deu_x_preferred":[
         "Weifang"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03ad\u03b9\u03c6\u03b1\u03bd\u03b3\u03ba"
+    ],
     "name:eng_x_colloquial":[
         ""
     ],
@@ -70,6 +73,15 @@
     ],
     "name:gan_x_preferred":[
         "\u6f4d\u574a\u5e02"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05d9\u05e4\u05e0\u05d2"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093e\u0907\u092b\u093c\u0948\u0902\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Weifang"
     ],
     "name:ind_x_preferred":[
         "Weifang"
@@ -288,11 +300,11 @@
     "src:population":"geonames",
     "wd:wordcount":1169,
     "wof:belongsto":[
+        85669813,
         102191569,
         85632695,
-        890514755,
         136253041,
-        85669813
+        890514755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -323,7 +335,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1608688165,
+    "wof:lastmodified":1636503582,
     "wof:megacity":1,
     "wof:name":"Weifang",
     "wof:parent_id":890514755,
