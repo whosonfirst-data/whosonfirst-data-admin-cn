@@ -11,10 +11,14 @@
     "geom:longitude":129.129309,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
-        "Yanbianchao Autonomous Prefecture"
+        "Yanbian Korean Autonomous Prefecture"
     ],
     "label:eng_x_preferred_placetype":[
         "autonomous prefecture"
+    ],
+    "label:eng_x_variant_longname":[
+        "Yanbianchao Autonomous Prefecture",
+        "Yanbian Autonomous Prefecture"
     ],
     "lbl:latitude":42.862455,
     "lbl:longitude":128.681183,
@@ -46,7 +50,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
-        "Yanbian Chaoxianzu"
+        "Yanbian Chaoxianzu",
+        "Yanbianchao",
+        "Yanbian Korean"
     ],
     "name:fra_x_preferred":[
         "Yanbianchao"
@@ -70,9 +76,9 @@
     "statoids:type":"autonomous prefecture",
     "wof:belongsto":[
         102191569,
-        85669843,
         85632695,
-        136253041
+        136253041,
+        85669843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,8 +97,8 @@
         }
     ],
     "wof:id":1108732421,
-    "wof:lastmodified":1627522013,
-    "wof:name":"Yanbianchao",
+    "wof:lastmodified":1643670858,
+    "wof:name":"Yanbian",
     "wof:parent_id":85669843,
     "wof:placetype":"county",
     "wof:placetype_local":"autonomous prefecture",
