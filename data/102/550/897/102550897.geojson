@@ -1,0 +1,161 @@
+{
+  "id": 102550897,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "1989-04-16",
+    "date:inception_upper": "1989-04-16",
+    "edtf:cessation": "..",
+    "edtf:inception": "1989-04-16",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "123.483002,41.639801,123.483002,41.639801",
+    "geom:latitude": 41.639801,
+    "geom:longitude": 123.483002,
+    "iso:country": "CN",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 13,
+    "name:ara_x_preferred": [
+      "مطار شنيانغ الدولي"
+    ],
+    "name:ast_x_preferred": [
+      "Aeropuertu Internacional Taoxian"
+    ],
+    "name:ces_x_preferred": [
+      "mezinárodní letiště Šen-jang Tchao-sien"
+    ],
+    "name:dan_x_preferred": [
+      "Shenyang Taoxian International Airport"
+    ],
+    "name:deu_x_preferred": [
+      "Shenyang Taoxian International Airport"
+    ],
+    "name:eng_x_preferred": [
+      "Shenyang Taoxian International Airport"
+    ],
+    "name:eng_x_variant": [
+      "SHE",
+      "ZYTX"
+    ],
+    "name:eus_x_preferred": [
+      "Shenyang Taoxian nazioarteko aireportua"
+    ],
+    "name:fas_x_preferred": [
+      "فرودگاه بین‌المللی شنینگ تخین"
+    ],
+    "name:fin_x_preferred": [
+      "Shenyang Taoxianin kansainvälinen lentoasema"
+    ],
+    "name:fra_x_preferred": [
+      "aéroport international de Shenyang Taoxian"
+    ],
+    "name:ind_x_preferred": [
+      "Bandar Udara Internasional Taoxian Shenyang"
+    ],
+    "name:jpn_x_preferred": [
+      "瀋陽桃仙国際空港"
+    ],
+    "name:kor_x_preferred": [
+      "선양 타오셴 국제공항"
+    ],
+    "name:msa_x_preferred": [
+      "Lapangan Terbang Taoxian"
+    ],
+    "name:nld_x_preferred": [
+      "Shenyang Taoxian International Airport"
+    ],
+    "name:nob_x_preferred": [
+      "Shenyang Taoxian internasjonale lufthavn"
+    ],
+    "name:pol_x_preferred": [
+      "Port lotniczy Shenyang-Taoxian"
+    ],
+    "name:por_x_preferred": [
+      "Aeroporto Internacional de Shenyang Taoxian"
+    ],
+    "name:ron_x_preferred": [
+      "Aeroportul Internațional Shenyang Taoxian"
+    ],
+    "name:rus_x_preferred": [
+      "Шэньян"
+    ],
+    "name:spa_x_preferred": [
+      "Aeropuerto Internacional Taoxian"
+    ],
+    "name:swe_x_preferred": [
+      "Shenyang Taoxian International Airport"
+    ],
+    "name:tgk_x_preferred": [
+      "Фурудгоҳи бин‌алмилалӣ шнинг тхин"
+    ],
+    "name:tur_x_preferred": [
+      "Shenyang Taoxian Uluslararası Havalimanı"
+    ],
+    "name:vie_x_preferred": [
+      "Sân bay quốc tế Đào Tiên Thẩm Dương"
+    ],
+    "name:zho_x_preferred": [
+      "沈阳桃仙国际机场"
+    ],
+    "oa:elevation_ft": "198",
+    "oa:type": "large_airport",
+    "src:geom": "ourairports",
+    "src:geom_alt": [],
+    "woe:hierarchy": {
+      "country_id": 23424781,
+      "county_id": 26198228,
+      "localadmin_id": 12686791,
+      "planet_id": 1,
+      "state_id": 12578008
+    },
+    "wof:belongsto": [
+      85669807,
+      102191569,
+      85632695,
+      102027875,
+      136253041,
+      1108732451
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 12512041,
+      "iata:code": "SHE",
+      "icao:code": "ZYTX",
+      "oa:id": "27243",
+      "wd:id": "Q1144167",
+      "wk:page": "Shenyang_Taoxian_International_Airport"
+    },
+    "wof:country": "CN",
+    "wof:created": 1651703537,
+    "wof:geomhash": "44afa2c33cb9e330a43ed3eb3734a140",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102550897,
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732451,
+        "empire_id": 136253041,
+        "locality_id": 102027875,
+        "region_id": 85669807
+      }
+    ],
+    "wof:id": 102550897,
+    "wof:lastmodified": 1651703537,
+    "wof:name": "Dongta Airport",
+    "wof:parent_id": 102027875,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
+    ]
+  },
+  "bbox": [
+    123.483002,
+    41.639801,
+    123.483002,
+    41.639801
+  ],
+  "geometry": {"coordinates":[123.483002,41.639801],"type":"Point"}
+}
