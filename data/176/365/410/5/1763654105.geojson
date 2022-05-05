@@ -1,0 +1,56 @@
+{
+  "id": 1763654105,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2012-06-28",
+    "date:inception_upper": "2012-06-28",
+    "edtf:cessation": "..",
+    "edtf:inception": "2012-06-28",
+    "geom:area": 0,
+    "geom:bbox": "102.929167,25.101944,102.929167,25.101944",
+    "geom:latitude": 25.101944,
+    "geom:longitude": 102.929167,
+    "iso:country": "CN",
+    "mz:is_current": 1,
+    "src:geom": "wikidata",
+    "wof:belongsto": [
+      102191569,
+      85632695,
+      136253041,
+      85669791
+    ],
+    "wof:concordances": {
+      "iata:code": "KMG",
+      "icao:code": "ZPPP",
+      "wk:id": "Q1371636"
+    },
+    "wof:country": "CN",
+    "wof:created": 1651710298,
+    "wof:geomhash": "39c7259422959d0ab235b07ef2e0e590",
+    "wof:hierarchy": [
+      {
+        "campus_id": 1763654105,
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "empire_id": 136253041,
+        "region_id": 85669791
+      }
+    ],
+    "wof:id": 1763654105,
+    "wof:lastmodified": 1651710409,
+    "wof:name": "Kunming Changshui International Airport",
+    "wof:parent_id": -1,
+    "wof:placetype": "campus",
+    "wof:placetype_alt": "airport",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    102.929167,
+    25.101944,
+    102.929167,
+    25.101944
+  ],
+  "geometry": {"coordinates":[102.929167,25.101944],"type":"Point"}
+}
