@@ -1,0 +1,56 @@
+{
+  "id": 1763654111,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2008-07-01",
+    "date:inception_upper": "2008-07-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "2008-07",
+    "geom:area": 0,
+    "geom:bbox": "114.696667,38.280833,114.696667,38.280833",
+    "geom:latitude": 38.280833,
+    "geom:longitude": 114.696667,
+    "iso:country": "CN",
+    "mz:is_current": 1,
+    "src:geom": "wikidata",
+    "wof:belongsto": [
+      102191569,
+      85632695,
+      136253041,
+      85669797
+    ],
+    "wof:concordances": {
+      "iata:code": "SJW",
+      "icao:code": "ZBSJ",
+      "wk:id": "Q2421203"
+    },
+    "wof:country": "CN",
+    "wof:created": 1651710637,
+    "wof:geomhash": "7d084e6296bf9c11fefd92fa15e437b4",
+    "wof:hierarchy": [
+      {
+        "campus_id": 1763654111,
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "empire_id": 136253041,
+        "region_id": 85669797
+      }
+    ],
+    "wof:id": 1763654111,
+    "wof:lastmodified": 1651710745,
+    "wof:name": "Shijiazhuang Zhengding International Airport",
+    "wof:parent_id": -1,
+    "wof:placetype": "campus",
+    "wof:placetype_alt": "airport",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    114.696667,
+    38.280833,
+    114.696667,
+    38.280833
+  ],
+  "geometry": {"coordinates":[114.696667,38.280833],"type":"Point"}
+}
