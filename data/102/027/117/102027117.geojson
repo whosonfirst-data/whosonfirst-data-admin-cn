@@ -29,14 +29,23 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u064a \u064a\u0648\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0627\u0649 \u064a\u0648\u0627\u0646"
+    ],
     "name:ast_x_preferred":[
         "Taiyu\u00e1n"
     ],
     "name:bel_x_preferred":[
         "\u0422\u0430\u0439\u044e\u0430\u043d\u044c"
     ],
+    "name:bel_x_variant":[
+        "\u0422\u0430\u044e\u0430\u043d\u044c"
+    ],
     "name:ben_x_preferred":[
         "\u09a5\u09be\u0987\u0987\u0989\u09af\u09bc\u09be\u09a8"
+    ],
+    "name:ben_x_variant":[
+        "\u09a5\u09be\u0987-\u0987\u0989\u09af\u09bc\u09c7\u09a8"
     ],
     "name:bre_x_preferred":[
         "Taiyuan"
@@ -113,6 +122,9 @@
     "name:gan_x_preferred":[
         "\u592a\u539f\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Taiyuan"
+    ],
     "name:glg_x_preferred":[
         "Taiyuan"
     ],
@@ -143,6 +155,9 @@
     "name:ind_x_preferred":[
         "Taiyuan"
     ],
+    "name:isl_x_preferred":[
+        "Taiyuan"
+    ],
     "name:ita_x_preferred":[
         "Taiyuan"
     ],
@@ -169,6 +184,9 @@
     ],
     "name:kor_x_variant":[
         "\ud0c0\uc774\uc704\uc548\uc2dc"
+    ],
+    "name:kur_x_preferred":[
+        "Taiyuan"
     ],
     "name:lat_x_preferred":[
         "Taiyuenum"
@@ -215,6 +233,9 @@
     "name:oci_x_preferred":[
         "Taiyuan"
     ],
+    "name:oss_x_preferred":[
+        "\u0422\u0430\u0439\u044e\u0430\u043d\u044c"
+    ],
     "name:pan_x_preferred":[
         "\u0a24\u0a3e\u0a08\u0a2f\u0a42\u0a06\u0a28"
     ],
@@ -230,6 +251,9 @@
     "name:por_x_preferred":[
         "Taiyuan"
     ],
+    "name:por_x_variant":[
+        "Taiu\u00e3"
+    ],
     "name:que_x_preferred":[
         "Taiyuan"
     ],
@@ -240,6 +264,9 @@
         "Taiyuan"
     ],
     "name:rus_x_preferred":[
+        "\u0422\u0430\u0439\u044e\u0430\u043d\u044c"
+    ],
+    "name:sah_x_preferred":[
         "\u0422\u0430\u0439\u044e\u0430\u043d\u044c"
     ],
     "name:sco_x_preferred":[
@@ -290,6 +317,9 @@
     "name:uzb_x_preferred":[
         "Tayyuan"
     ],
+    "name:vec_x_preferred":[
+        "Taiyuan"
+    ],
     "name:vie_x_preferred":[
         "Th\u00e1i Nguy\u00ean"
     ],
@@ -298,6 +328,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u592a\u539f\u5e02"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e2\u10d0\u10d8\u10e3\u10d0\u10dc\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u592a\u539f"
@@ -450,11 +483,11 @@
     "src:population":"geonames",
     "wd:wordcount":4599,
     "wof:belongsto":[
+        85669773,
         102191569,
         85632695,
-        890513333,
         136253041,
-        85669773
+        890513333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -488,7 +521,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1608688185,
+    "wof:lastmodified":1690867199,
     "wof:megacity":1,
     "wof:name":"Taiyuan",
     "wof:parent_id":890513333,

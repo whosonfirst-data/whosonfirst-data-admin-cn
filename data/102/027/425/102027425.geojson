@@ -29,14 +29,26 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u064a\u0641\u0646\u063a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u064a\u0641\u0646\u062c"
+    ],
     "name:ast_x_preferred":[
         "Kaifeng"
+    ],
+    "name:aze_x_preferred":[
+        "Kayf\u0131n"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0430\u0439\u0444\u044d\u043d"
     ],
+    "name:bel_x_variant":[
+        "\u041a\u0430\u0439\u0444\u044d\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0987\u09ab\u09c7\u0982"
+    ],
+    "name:ben_x_variant":[
+        "\u0996\u09be\u0987\u09ab\u09c7\u0982"
     ],
     "name:cat_x_preferred":[
         "Kaifeng"
@@ -92,6 +104,9 @@
     "name:gan_x_preferred":[
         "\u5f00\u5c01\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Kaifeng"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0a88\u0aab\u0ac7\u0a82\u0a97"
     ],
@@ -104,8 +119,17 @@
     "name:hin_x_preferred":[
         "\u0915\u0948\u092b\u0947\u0902\u0917"
     ],
+    "name:hrv_x_preferred":[
+        "Kaifeng"
+    ],
     "name:hun_x_preferred":[
         "Kajfeng"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0575\u0586\u056b\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Kaifeng"
     ],
     "name:ind_x_preferred":[
         "Kaifeng"
@@ -134,6 +158,9 @@
     "name:kor_x_variant":[
         "\uce74\uc774\ud391\uc2dc"
     ],
+    "name:kur_x_preferred":[
+        "Kaifeng"
+    ],
     "name:lav_x_preferred":[
         "Kaifenga"
     ],
@@ -145,6 +172,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u0458\u0444\u0435\u043d\u0433"
+    ],
+    "name:mlg_x_preferred":[
+        "Kaifeng"
     ],
     "name:mon_x_preferred":[
         "\u041a\u0430\u0439\u0444\u044d\u043d"
@@ -191,6 +221,9 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dba\u0dd2\u0dc6\u0dd9\u0db1\u0dca\u0d9c\u0dca"
     ],
+    "name:slv_x_preferred":[
+        "Kajfeng"
+    ],
     "name:spa_x_preferred":[
         "Kaifeng"
     ],
@@ -205,6 +238,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c48\u0c2b\u0c46\u0c02\u0c17\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041a\u043e\u0439\u0444\u0435\u043d\u0433"
     ],
     "name:tha_x_preferred":[
         "\u0e44\u0e04\u0e40\u0e1f\u0e34\u0e07"
@@ -226,6 +262,9 @@
     ],
     "name:uzb_x_preferred":[
         "Kayfin"
+    ],
+    "name:vec_x_preferred":[
+        "Kaifeng"
     ],
     "name:vie_x_preferred":[
         "Khai Phong"
@@ -365,11 +404,11 @@
     "src:population":"geonames",
     "wd:wordcount":2203,
     "wof:belongsto":[
+        85669801,
         102191569,
         85632695,
-        890515157,
         136253041,
-        85669801
+        890515157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -397,7 +436,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1608688164,
+    "wof:lastmodified":1690867168,
     "wof:megacity":1,
     "wof:name":"Kaifeng",
     "wof:parent_id":890515157,

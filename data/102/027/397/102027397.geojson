@@ -44,6 +44,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09c7\u099e\u09cd\u099c\u09b9\u09cb"
     ],
+    "name:ben_x_variant":[
+        "\u09b2\u09be\u09a8\u099a\u09cc"
+    ],
     "name:bod_x_preferred":[
         "\u0f63\u0f53\u0f0b\u0f40\u0fb2\u0f7c\u0f60\u0f74\u0f0d"
     ],
@@ -122,6 +125,9 @@
     "name:gan_x_preferred":[
         "\u5170\u5dde\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Lanzhou"
+    ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac5\u0aa8\u0acd\u0a9d\u0ac2"
     ],
@@ -143,7 +149,13 @@
     "name:hun_x_preferred":[
         "Lancsou"
     ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561\u0576\u056a\u0578\u0578\u0582"
+    ],
     "name:ind_x_preferred":[
+        "Lanzhou"
+    ],
+    "name:isl_x_preferred":[
         "Lanzhou"
     ],
     "name:ita_x_preferred":[
@@ -159,6 +171,12 @@
     "name:kan_x_preferred":[
         "\u0cb2\u0cbe\u0ca8\u0ccd\u0c9d\u0ccc"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0\u10dc\u10ed\u10dd\u10e3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0430\u043d\u044c\u0447\u0436\u043e\u0443"
+    ],
     "name:kik_x_preferred":[
         "Lanzhou"
     ],
@@ -171,6 +189,9 @@
     ],
     "name:kor_x_variant":[
         "\ub780\uc800\uc6b0\uc2dc"
+    ],
+    "name:kur_x_preferred":[
+        "Lanzhou"
     ],
     "name:lat_x_preferred":[
         "Lanzhou"
@@ -190,6 +211,9 @@
     "name:mar_x_preferred":[
         "\u0932\u0945\u0928\u094d\u091d\u0942"
     ],
+    "name:mar_x_variant":[
+        "\u0932\u093e\u0928\u091a\u094c"
+    ],
     "name:mkd_x_preferred":[
         "\u041b\u0430\u043d\u045f\u043e\u0443"
     ],
@@ -208,6 +232,9 @@
     "name:nan_x_preferred":[
         "L\u00e2n-chiu-chh\u012b"
     ],
+    "name:nds_x_preferred":[
+        "Lanzhou"
+    ],
     "name:nld_x_preferred":[
         "Lanzhou"
     ],
@@ -222,6 +249,9 @@
     ],
     "name:oci_x_preferred":[
         "Lanzhou"
+    ],
+    "name:oss_x_preferred":[
+        "\u041b\u0430\u043d\u044c\u0447\u0436\u043e\u0443"
     ],
     "name:pam_x_preferred":[
         "Lanzhou"
@@ -255,6 +285,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dbd\u0db1\u0dca\u0dc3\u0dde"
+    ],
+    "name:slv_x_preferred":[
+        "Land\u017eov"
     ],
     "name:spa_x_preferred":[
         "Lanzhou"
@@ -295,6 +328,9 @@
     "name:uzb_x_preferred":[
         "Lanchjou"
     ],
+    "name:vec_x_preferred":[
+        "Lanzhou"
+    ],
     "name:vie_x_preferred":[
         "Lan Ch\u00e2u"
     ],
@@ -306,6 +342,9 @@
     ],
     "name:wuu_x_variant":[
         "\u5170\u5dde"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10da\u10d0\u10dc\u10ef\u10dd\u10e3"
     ],
     "name:yue_x_preferred":[
         "\u862d\u5dde"
@@ -459,11 +498,11 @@
     "src:population":"geonames",
     "wd:wordcount":4243,
     "wof:belongsto":[
+        85669711,
         102191569,
         85632695,
-        890513013,
         136253041,
-        85669711
+        890513013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -497,7 +536,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1608688184,
+    "wof:lastmodified":1690867161,
     "wof:megacity":1,
     "wof:name":"Lanzhou",
     "wof:parent_id":890513013,

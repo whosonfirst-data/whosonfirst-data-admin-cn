@@ -26,8 +26,17 @@
     "name:ara_x_preferred":[
         "\u0648\u064a\u0647\u0627\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Weihai"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u044d\u0439\u0445\u0430\u0439"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09c7\u09b9\u09be\u0987"
+    ],
+    "name:ben_x_variant":[
+        "\u0993\u09af\u09bc\u09c7\u0987-\u09b9\u09be\u0987"
     ],
     "name:cat_x_preferred":[
         "Weihai"
@@ -40,6 +49,9 @@
     ],
     "name:ces_x_preferred":[
         "Wej-chaj"
+    ],
+    "name:cym_x_preferred":[
+        "Weihai"
     ],
     "name:dan_x_preferred":[
         "Weihai"
@@ -73,14 +85,23 @@
     "name:gan_x_preferred":[
         "\u5a01\u6d77\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Weihai"
+    ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0a87\u0ab9\u0abe\u0a88"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05d9\u05d9\u05d4\u05d0\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u0935\u0948\u0939\u0948"
     ],
     "name:hun_x_preferred":[
         "Weihai"
+    ],
+    "name:hun_x_variant":[
+        "Vejhaj"
     ],
     "name:ind_x_preferred":[
         "Weihai"
@@ -112,8 +133,14 @@
     "name:lit_x_preferred":[
         "Veichai"
     ],
+    "name:lzh_x_preferred":[
+        "\u5a01\u6d77\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u0935\u0947\u0907\u0939\u093e\u0908"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0435\u0458\u0445\u0430\u0458"
     ],
     "name:mlg_x_preferred":[
         "Weihai"
@@ -172,6 +199,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e27\u0e22\u0e44\u0e2b\u0e48"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e27\u0e22\u0e4c\u0e44\u0e2b\u0e48"
+    ],
     "name:tur_x_preferred":[
         "Weihai"
     ],
@@ -183,6 +213,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u06cc\u06c1\u0627\u0626\u06cc"
+    ],
+    "name:vec_x_preferred":[
+        "Weihai"
     ],
     "name:vep_x_preferred":[
         "Veihai"
@@ -363,7 +396,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1636503592,
+    "wof:lastmodified":1690867211,
     "wof:name":"Weihai",
     "wof:parent_id":890514771,
     "wof:placetype":"locality",

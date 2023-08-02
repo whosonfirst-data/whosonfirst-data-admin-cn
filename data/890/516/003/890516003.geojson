@@ -38,6 +38,9 @@
     "name:kor_x_preferred":[
         "\uba4d\ub77c\ud604"
     ],
+    "name:mya_x_preferred":[
+        "\u1019\u102d\u102f\u1038\u101c\u102c\u1038\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
     "name:nan_x_preferred":[
         "B\u00e9ng-la\u030dp-ko\u0101n"
     ],
@@ -47,11 +50,23 @@
     "name:nob_x_preferred":[
         "Mengla"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u044d\u043d\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Mengla"
+    ],
     "name:swe_x_preferred":[
         "Mengla"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e34\u0e49\u0e07\u0e25\u0e48\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e25\u0e49\u0e32"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043d\u043b\u0430"
     ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0646\u06af\u0644\u0627 \u06a9\u0627\u0624\u0646\u0679\u06cc"
@@ -108,7 +123,7 @@
         }
     ],
     "wof:id":890516003,
-    "wof:lastmodified":1566693632,
+    "wof:lastmodified":1690867569,
     "wof:name":"\u52d0\u814a",
     "wof:parent_id":1108732499,
     "wof:placetype":"locality",

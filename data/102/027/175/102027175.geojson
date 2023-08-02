@@ -32,8 +32,14 @@
     "name:ast_x_preferred":[
         "Shantou"
     ],
+    "name:bel_x_preferred":[
+        "\u0428\u0430\u043d\u044c\u0442\u043e\u0443"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09a4\u09c1"
+    ],
+    "name:ben_x_variant":[
+        "\u09b6\u09be\u09a8\u09a5\u09cc"
     ],
     "name:bre_x_preferred":[
         "Shantou"
@@ -89,6 +95,9 @@
     "name:gan_x_preferred":[
         "\u6c55\u5934\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Shantou"
+    ],
     "name:glg_x_preferred":[
         "Shantou"
     ],
@@ -101,13 +110,25 @@
     "name:heb_x_preferred":[
         "\u05e9\u05e0\u05d8\u05d0\u05d5"
     ],
+    "name:heb_x_variant":[
+        "\u05e9\u05d0\u05e0\u05d8\u05d5\u05d0\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0936\u093e\u0902\u0924\u094b\u090a"
+    ],
+    "name:hrv_x_preferred":[
+        "Shantou"
     ],
     "name:hun_x_preferred":[
         "Santou"
     ],
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u0576\u057f\u0578\u0578\u0582"
+    ],
     "name:ind_x_preferred":[
+        "Shantou"
+    ],
+    "name:isl_x_preferred":[
         "Shantou"
     ],
     "name:ita_x_preferred":[
@@ -122,6 +143,9 @@
     "name:kan_x_preferred":[
         "\u0cb6\u0cbe\u0c82\u0c9f\u0ccb"
     ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10dc\u10e2\u10dd\u10e3"
+    ],
     "name:kik_x_preferred":[
         "Shantou"
     ],
@@ -131,17 +155,29 @@
     "name:kor_x_variant":[
         "\uc0b0\ud130\uc6b0\uc2dc"
     ],
+    "name:kur_x_preferred":[
+        "Shantou"
+    ],
     "name:lav_x_preferred":[
         "\u0160antou"
     ],
     "name:lit_x_preferred":[
         "\u0160antou"
     ],
+    "name:lzh_x_preferred":[
+        "\u6c55\u982d\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u0936\u093e\u0902\u0924\u094b\u092f"
     ],
+    "name:mar_x_variant":[
+        "\u0937\u093e\u0902\u0924\u094c"
+    ],
     "name:mlg_x_preferred":[
         "Shantou"
+    ],
+    "name:mon_x_preferred":[
+        "\u0428\u0430\u043d\u0442\u043e\u0443"
     ],
     "name:msa_x_preferred":[
         "Shantou"
@@ -230,6 +266,9 @@
     "name:urd_x_preferred":[
         "\u0634\u0627\u0646\u062a\u0648"
     ],
+    "name:vec_x_preferred":[
+        "Shantou"
+    ],
     "name:vie_x_preferred":[
         "S\u00e1n \u0110\u1ea7u"
     ],
@@ -241,6 +280,9 @@
     ],
     "name:yue_x_preferred":[
         "\u6c55\u982d"
+    ],
+    "name:zha_x_preferred":[
+        "Sandouz"
     ],
     "name:zho_min_nan_x_preferred":[
         "S\u00f2a\u207f-th\u00e2u-chh\u012b"
@@ -368,11 +410,11 @@
     "src:population":"geonames",
     "wd:wordcount":2841,
     "wof:belongsto":[
+        85669743,
         102191569,
         85632695,
-        1108732449,
         136253041,
-        85669743
+        1108732449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -401,7 +443,7 @@
         }
     ],
     "wof:id":102027175,
-    "wof:lastmodified":1608688177,
+    "wof:lastmodified":1690867196,
     "wof:megacity":1,
     "wof:name":"Shantou",
     "wof:parent_id":1108732449,

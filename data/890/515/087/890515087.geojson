@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.4138465,30.872362,120.4138465,30.872362",
+    "geom:bbox":"120.413847,30.872362,120.413847,30.872362",
     "geom:latitude":30.872362,
     "geom:longitude":120.413847,
     "gp:adm0":23424781,
@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Nanxun Qu"
     ],
+    "name:ces_x_preferred":[
+        "Nan-s\u00fcn"
+    ],
     "name:cym_x_preferred":[
         "Ardal Nanxun"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:eng_x_preferred":[
         "Nanxun District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0646\u0627\u0646\u06a9\u0633\u0648\u0646"
     ],
     "name:gan_x_preferred":[
         "\u5357\u6d54\u533a"
@@ -48,6 +54,12 @@
         "Nanxun"
     ],
     "name:nob_x_preferred":[
+        "Nanxun"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u043d\u044c\u0441\u044e\u043d\u044c"
+    ],
+    "name:spa_x_preferred":[
         "Nanxun"
     ],
     "name:swe_x_preferred":[
@@ -93,7 +105,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055889,
-    "wof:geomhash":"e522e8ecae4623e4d48926877c6e95f0",
+    "wof:geomhash":"b9ccd453deade8670894733158c40c06",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":890515087,
-    "wof:lastmodified":1566693788,
+    "wof:lastmodified":1690867729,
     "wof:name":"\u5357\u6d54\u9547",
     "wof:parent_id":890516975,
     "wof:placetype":"locality",
@@ -115,10 +127,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.4138465,
+    120.413847,
     30.872362,
-    120.4138465,
+    120.413847,
     30.872362
 ],
-  "geometry": {"coordinates":[120.41384650000001,30.872362],"type":"Point"}
+  "geometry": {"coordinates":[120.413847,30.872362],"type":"Point"}
 }

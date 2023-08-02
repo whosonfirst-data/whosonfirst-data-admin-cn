@@ -41,6 +41,9 @@
     "name:ben_x_preferred":[
         "\u09a8\u09be\u09a8\u09bf\u0982"
     ],
+    "name:ben_x_variant":[
+        "\u09a8\u09be\u09a8-\u09a8\u09bf\u0982"
+    ],
     "name:bod_x_preferred":[
         "\u0f53\u0f53\u0f0b\u0f49\u0f72\u0f44\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0d"
     ],
@@ -107,6 +110,9 @@
     "name:gan_x_preferred":[
         "\u5357\u5b81\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Nanning"
+    ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0aa8\u0aa8\u0abf\u0a82\u0a97"
     ],
@@ -116,6 +122,9 @@
     "name:heb_x_preferred":[
         "\u05e0\u05d0\u05e0\u05d9\u05e0\u05d2"
     ],
+    "name:heb_x_variant":[
+        "\u05e0\u05d0\u05df-\u05e0\u05d9\u05e0\u05d2"
+    ],
     "name:hin_x_preferred":[
         "\u0928\u093e\u0928\u0928\u0940\u0902\u0917"
     ],
@@ -124,6 +133,9 @@
     ],
     "name:hun_x_preferred":[
         "Nanning"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u0576\u0576\u056b\u0576"
     ],
     "name:ido_x_preferred":[
         "Nanning"
@@ -170,6 +182,9 @@
     "name:kor_x_variant":[
         "\ub09c\ub2dd\uc2dc"
     ],
+    "name:kur_x_preferred":[
+        "Nanning"
+    ],
     "name:lat_x_preferred":[
         "Nanning"
     ],
@@ -184,6 +199,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0928\u0945\u0928\u093f\u0902\u0917"
+    ],
+    "name:mar_x_variant":[
+        "\u0928\u093e\u0928\u094d\u0928\u093f\u0902\u0917"
     ],
     "name:mkd_x_preferred":[
         "\u041d\u0430\u043d\u043d\u0438\u043d\u0433"
@@ -223,6 +241,9 @@
     ],
     "name:nor_x_preferred":[
         "Nanning"
+    ],
+    "name:oss_x_preferred":[
+        "\u041d\u0430\u043d\u044c\u043d\u0438\u043d"
     ],
     "name:pnb_x_preferred":[
         "\u0646\u0627\u0646\u0646\u06cc\u0646\u06af"
@@ -296,6 +317,9 @@
     "name:uzb_x_preferred":[
         "Nannin"
     ],
+    "name:vec_x_preferred":[
+        "Nanning"
+    ],
     "name:vie_x_preferred":[
         "Nam Ninh"
     ],
@@ -304,6 +328,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u5357\u5b81\u5e02"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10dc\u10d0\u10dc\u10d8\u10dc\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u5357\u5be7"
@@ -330,7 +357,8 @@
         "\u5357\u5b81"
     ],
     "name:zho_x_variant":[
-        "\u5357\u5be7\u5e02"
+        "\u5357\u5be7\u5e02",
+        "\u5357\u5b81\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -447,11 +475,11 @@
     "src:population":"geonames",
     "wd:wordcount":1647,
     "wof:belongsto":[
+        85669717,
         102191569,
         85632695,
-        890515419,
         136253041,
-        85669717
+        890515419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -478,7 +506,7 @@
         }
     ],
     "wof:id":102027287,
-    "wof:lastmodified":1608688184,
+    "wof:lastmodified":1690867168,
     "wof:megacity":1,
     "wof:name":"Nanning",
     "wof:parent_id":890515419,

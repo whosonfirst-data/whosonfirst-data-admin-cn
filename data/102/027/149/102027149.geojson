@@ -25,8 +25,17 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0627\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Shiyan"
+    ],
+    "name:bel_x_preferred":[
+        "\u0428\u044b\u044f\u043d\u044c"
+    ],
     "name:ben_x_preferred":[
         "\u09b6\u09bf\u0987\u09af\u09bc\u09be\u09a8"
+    ],
+    "name:ben_x_variant":[
+        "\u09b6\u09bf-\u0987\u09af\u09bc\u09be\u09a8"
     ],
     "name:bul_x_preferred":[
         "\u0428\u044a\u0439\u0435\u043d"
@@ -42,6 +51,9 @@
     ],
     "name:ces_x_preferred":[
         "\u0160'-jen"
+    ],
+    "name:cym_x_preferred":[
+        "Shiyan"
     ],
     "name:dan_x_preferred":[
         "Shiyan"
@@ -75,17 +87,29 @@
     "name:gan_x_preferred":[
         "\u5341\u5830\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Shiyan"
+    ],
     "name:guj_x_preferred":[
         "\u0ab6\u0abf\u0aaf\u0abe\u0aa8"
     ],
+    "name:hak_x_preferred":[
+        "S\u1e73\u030dp-y\u00e9n-s\u1e73"
+    ],
     "name:heb_x_preferred":[
         "\u05e9\u05d9\u05d0\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05e9\u05d4-\u05d9\u05df"
     ],
     "name:hin_x_preferred":[
         "\u0936\u093f\u092f\u093e\u0928"
     ],
     "name:hun_x_preferred":[
         "Shiyan"
+    ],
+    "name:hun_x_variant":[
+        "Sijen"
     ],
     "name:ind_x_preferred":[
         "Shiyan"
@@ -99,6 +123,9 @@
     "name:kan_x_preferred":[
         "\u0cb6\u0cbf\u0caf\u0cbe\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d8\u10d8\u10d4\u10dc\u10d8"
+    ],
     "name:kik_x_preferred":[
         "Shiyan"
     ],
@@ -107,6 +134,9 @@
     ],
     "name:kor_x_variant":[
         "\uc2a4\uc60c\uc2dc"
+    ],
+    "name:kur_x_preferred":[
+        "Shiyan"
     ],
     "name:lav_x_preferred":[
         "\u0160ijana"
@@ -171,6 +201,9 @@
     "name:swe_x_preferred":[
         "Shiyan"
     ],
+    "name:szl_x_preferred":[
+        "Shiyan"
+    ],
     "name:tam_x_preferred":[
         "\u0bb7\u0bbf\u0baf\u0bbe\u0ba9\u0bcd"
     ],
@@ -191,6 +224,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0634\u06cc\u06cc\u0627\u0646"
+    ],
+    "name:vec_x_preferred":[
+        "Shiyan"
     ],
     "name:vie_x_preferred":[
         "Th\u1eadp Y\u1ec3n"
@@ -369,7 +405,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1636503601,
+    "wof:lastmodified":1690867245,
     "wof:name":"Shiyan",
     "wof:parent_id":890515173,
     "wof:placetype":"locality",

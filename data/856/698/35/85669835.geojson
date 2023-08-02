@@ -53,8 +53,14 @@
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0427\u0436\u044d\u0446\u0437\u044f\u043d"
     ],
+    "name:bel_x_variant":[
+        "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0427\u0436\u044d\u0446\u0437\u044f\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u099a\u09c7\u099a\u09bf\u09af\u09bc\u09be\u0982"
+    ],
+    "name:ben_x_variant":[
+        "\u099a\u099a\u09bf\u09af\u09bc\u09be\u0982"
     ],
     "name:bod_x_preferred":[
         "\u0f40\u0fb2\u0f7a\u0f0b\u0f45\u0f44\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
@@ -79,6 +85,12 @@
     ],
     "name:che_x_preferred":[
         "\u0427\u0436\u044d\u0446\u0437\u044f\u043d"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0698\u06ce\u062c\u06cc\u0627\u0646\u06af"
+    ],
+    "name:crh_x_preferred":[
+        "Zhejiang"
     ],
     "name:cym_x_preferred":[
         "Zhejiang"
@@ -134,6 +146,9 @@
     "name:gan_x_preferred":[
         "\u6d59\u6c5f"
     ],
+    "name:gan_x_variant":[
+        "\u6d59\u6c5f\u7701"
+    ],
     "name:gle_x_preferred":[
         "Zhejiang"
     ],
@@ -167,10 +182,19 @@
     "name:hye_x_preferred":[
         "\u0549\u056a\u0565\u0581\u0566\u0575\u0561\u0576"
     ],
+    "name:hyw_x_preferred":[
+        "\u0536\u0570\u0565\u0573\u056b\u0561\u0576\u056f"
+    ],
+    "name:ido_x_preferred":[
+        "Provinco Zhejiang"
+    ],
     "name:ina_x_preferred":[
         "Zhejiang"
     ],
     "name:ind_x_preferred":[
+        "Zhejiang"
+    ],
+    "name:isl_x_preferred":[
         "Zhejiang"
     ],
     "name:ita_x_preferred":[
@@ -196,14 +220,23 @@
         "\uc800\uc7a5\uc131",
         "\uc800\uc7a5 \uc131"
     ],
+    "name:kur_x_preferred":[
+        "Zhejiang"
+    ],
     "name:lat_x_preferred":[
         "Zhejiang"
+    ],
+    "name:lat_x_variant":[
+        "Cechiana"
     ],
     "name:lav_x_preferred":[
         "D\u017eedzjana"
     ],
     "name:lit_x_preferred":[
         "D\u017eedziangas"
+    ],
+    "name:lmo_x_preferred":[
+        "Zhejiang"
     ],
     "name:lzh_x_preferred":[
         "\u6d59\u6c5f\u7701"
@@ -217,11 +250,17 @@
     "name:mlg_x_preferred":[
         "Zhejiang"
     ],
+    "name:mni_x_preferred":[
+        "\uabd3\uabe6\uabd6\uabed\uabcc\uabe5\uabe1"
+    ],
     "name:mon_x_preferred":[
         "\u0416\u04e9\u0436\u044f\u043d"
     ],
     "name:msa_x_preferred":[
         "Zhejiang"
+    ],
+    "name:mya_x_preferred":[
+        "\u1000\u103b\u1032\u1037\u1000\u103b\u1014\u103a\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
     ],
     "name:nan_x_preferred":[
         "Chiat-kang-s\u00e9ng"
@@ -246,6 +285,9 @@
     ],
     "name:oci_x_preferred":[
         "Zhejiang"
+    ],
+    "name:oss_x_preferred":[
+        "\u0427\u0436\u044d\u0446\u0437\u044f\u043d"
     ],
     "name:pam_x_preferred":[
         "Zhejiang"
@@ -285,6 +327,12 @@
     ],
     "name:slv_x_preferred":[
         "\u017ded\u017eiang"
+    ],
+    "name:slv_x_variant":[
+        "D\u017eed\u017ejang"
+    ],
+    "name:snd_x_preferred":[
+        "\u062c\u062c\u064a\u0626\u0627\u0646\u06af \u0635\u0648\u0628\u0648"
     ],
     "name:spa_x_preferred":[
         "Zhejiang"
@@ -331,6 +379,9 @@
     "name:uzb_x_preferred":[
         "Chjetszyan"
     ],
+    "name:uzb_x_variant":[
+        "Zhejiang"
+    ],
     "name:vec_x_preferred":[
         "Zhejiang"
     ],
@@ -343,8 +394,14 @@
     "name:wuu_x_preferred":[
         "\u6d59\u6c5f\u7701"
     ],
+    "name:xmf_x_preferred":[
+        "\u10ef\u10d4\u10eb\u10d8\u10d0\u10dc\u10d8"
+    ],
     "name:yue_x_preferred":[
         "\u6d59\u6c5f"
+    ],
+    "name:yue_x_variant":[
+        "\u6d59\u6c5f\u7701"
     ],
     "name:zha_x_preferred":[
         "Cezgyangh"
@@ -511,7 +568,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1587428616,
+    "wof:lastmodified":1690867335,
     "wof:name":"Zhejiang",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

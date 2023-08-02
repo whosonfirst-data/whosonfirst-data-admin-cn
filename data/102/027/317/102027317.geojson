@@ -23,8 +23,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0648\u0632\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Meizhou"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u0987\u099d\u09c1"
+    ],
+    "name:ben_x_variant":[
+        "\u09ae\u09c7\u0987\u099a\u09cc"
     ],
     "name:cat_x_preferred":[
         "Meizhou"
@@ -76,6 +82,9 @@
     "name:gan_x_preferred":[
         "\u6885\u5dde\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Meizhou"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0a87\u0a9d\u0acb\u0a89"
     ],
@@ -85,11 +94,17 @@
     "name:heb_x_preferred":[
         "\u05de\u05d0\u05d9\u05d6'\u05d5\u05d0\u05d5"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05d9\u05d9\u05d2'\u05d5\u05d0\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0948\u0902\u091c\u093c\u0939\u094b\u0909"
     ],
     "name:hun_x_preferred":[
         "Meizhou"
+    ],
+    "name:hun_x_variant":[
+        "Mejcsou"
     ],
     "name:ind_x_preferred":[
         "Meizhou"
@@ -103,6 +118,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cc0\u0c9d\u0ccc"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10d8\u10ed\u10dd\u10e3"
+    ],
     "name:kaz_x_preferred":[
         "\u041c\u044d\u0439\u0447\u0436\u043e\u0443"
     ],
@@ -115,6 +133,9 @@
     "name:kor_x_variant":[
         "\uba54\uc774\uc800\uc6b0\uc2dc"
     ],
+    "name:kur_x_preferred":[
+        "Meizhou"
+    ],
     "name:lat_x_preferred":[
         "Meizhou"
     ],
@@ -123,6 +144,9 @@
     ],
     "name:lit_x_preferred":[
         "Meid\u017eou"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6885\u5dde\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u092e\u0947\u0907\u091d\u094b\u0909"
@@ -193,6 +217,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e2b\u0e21\u0e22\u0e42\u0e08\u0e27"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e2b\u0e21\u0e22\u0e4c\u0e42\u0e08\u0e27"
+    ],
     "name:tur_x_preferred":[
         "Meizhou"
     ],
@@ -201,6 +228,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0626\u06cc\u0698\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Meizhou"
     ],
     "name:vie_x_preferred":[
         "Mai Ch\u00e2u"
@@ -213,6 +243,9 @@
     ],
     "name:yue_x_preferred":[
         "\u6885\u5dde"
+    ],
+    "name:zha_x_preferred":[
+        "Meizcouh"
     ],
     "name:zho_min_nan_x_preferred":[
         "M\u00fbi-chiu-chh\u012b"
@@ -380,7 +413,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1636503600,
+    "wof:lastmodified":1690867240,
     "wof:name":"Meizhou",
     "wof:parent_id":890516561,
     "wof:placetype":"locality",

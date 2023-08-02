@@ -29,17 +29,26 @@
     "name:ara_x_preferred":[
         "\u0634\u0627\u0648\u0643\u0633\u064a\u0646\u062c"
     ],
+    "name:ast_x_preferred":[
+        "Shaoxing"
+    ],
     "name:bel_x_preferred":[
         "\u0428\u0430\u0430\u0441\u0456\u043d"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09be\u0993\u099c\u09bf\u0982"
     ],
+    "name:ben_x_variant":[
+        "\u09b6\u09be\u0993\u09b6\u09bf\u0982"
+    ],
     "name:cat_x_preferred":[
         "Shaoxing"
     ],
     "name:cdo_x_preferred":[
         "Si\u00eau-h\u012dng"
+    ],
+    "name:ceb_x_preferred":[
+        "Shaoxing"
     ],
     "name:ces_x_preferred":[
         "\u0160ao-sing"
@@ -83,6 +92,9 @@
     "name:gan_x_preferred":[
         "\u7ecd\u5174\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Shaoxing"
+    ],
     "name:guj_x_preferred":[
         "\u0ab6\u0abe\u0a93\u0a95\u0acd\u0ab8\u0abf\u0a82\u0a97"
     ],
@@ -110,6 +122,9 @@
     "name:kan_x_preferred":[
         "\u0cb6\u0cbe\u0c93\u0cb8\u0cbf\u0c82\u0c97\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10dd\u10e1\u10d8\u10dc\u10d8"
+    ],
     "name:kik_x_preferred":[
         "Shaoxing"
     ],
@@ -119,6 +134,9 @@
     "name:kor_x_variant":[
         "\uc18c\ud765",
         "\uc0ac\uc624\uc2f1\uc2dc"
+    ],
+    "name:lat_x_preferred":[
+        "Shaoxing"
     ],
     "name:lav_x_preferred":[
         "\u0160aosina"
@@ -159,6 +177,9 @@
     "name:oci_x_preferred":[
         "Shaoxing"
     ],
+    "name:oss_x_preferred":[
+        "\u0428\u0430\u043e\u0441\u0438\u043d"
+    ],
     "name:pol_x_preferred":[
         "Shaoxing"
     ],
@@ -195,6 +216,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e09\u0e32\u0e0b\u0e34\u0e07"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e0a\u0e48\u0e32\u0e0b\u0e34\u0e07"
+    ],
     "name:tur_x_preferred":[
         "Shaoxing"
     ],
@@ -209,6 +233,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0634\u0627\u0648\u0634\u0646\u06af"
+    ],
+    "name:vec_x_preferred":[
+        "Shaoxing"
     ],
     "name:vie_x_preferred":[
         "Thi\u1ec7u H\u01b0ng"
@@ -351,11 +378,11 @@
     "src:population":"geonames",
     "wd:wordcount":2542,
     "wof:belongsto":[
+        85669835,
         102191569,
         85632695,
-        890513785,
         136253041,
-        85669835
+        890513785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -378,7 +405,7 @@
         }
     ],
     "wof:id":102027169,
-    "wof:lastmodified":1608688165,
+    "wof:lastmodified":1690867163,
     "wof:megacity":1,
     "wof:name":"Shaoxing",
     "wof:parent_id":890513785,

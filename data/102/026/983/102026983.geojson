@@ -64,6 +64,9 @@
     "name:ell_x_preferred":[
         "\u039e\u03bf\u03c5\u03c4\u03c3\u03cc\u03bf\u03c5"
     ],
+    "name:ell_x_variant":[
+        "\u03a3\u03bf\u03c5\u03c4\u03b6\u03cc\u03bf\u03c5"
+    ],
     "name:eng_x_colloquial":[
         ""
     ],
@@ -94,14 +97,23 @@
     "name:gan_x_preferred":[
         "\u5f90\u5dde\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Xuzhou"
+    ],
     "name:guj_x_preferred":[
         "\u0a9d\u0ac2\u0a9d\u0ac2"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d5\u05d2'\u05d5\u05d0\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0941\u091c\u093c\u0939\u094b\u0909"
     ],
     "name:hun_x_preferred":[
         "Hsz\u00fccsou"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0575\u0578\u0582\u0575\u0579\u056a\u0578\u0578\u0582"
     ],
     "name:ind_x_preferred":[
         "Xuzhou"
@@ -124,6 +136,12 @@
     "name:kor_x_variant":[
         "\uc26c\uc800\uc6b0\uc2dc"
     ],
+    "name:kur_x_preferred":[
+        "Xuzhou"
+    ],
+    "name:lat_x_preferred":[
+        "Siucheum"
+    ],
     "name:lav_x_preferred":[
         "Siud\u017eou"
     ],
@@ -132,6 +150,9 @@
     ],
     "name:mar_x_preferred":[
         "\u091d\u0941\u091d\u0939\u094c"
+    ],
+    "name:mar_x_variant":[
+        "\u0936\u0941\u091a\u094c"
     ],
     "name:mon_x_preferred":[
         "\u0428\u044e\u0439\u0436\u043e\u0443"
@@ -156,6 +177,9 @@
     ],
     "name:oci_x_preferred":[
         "Xuzhou"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u044e\u0439\u0447\u0436\u043e\u0443"
     ],
     "name:pol_x_preferred":[
         "Xuzhou"
@@ -193,6 +217,9 @@
     "name:tha_x_preferred":[
         "\u0e0b\u0e39\u0e42\u0e08\u0e27"
     ],
+    "name:tha_x_variant":[
+        "\u0e2a\u0e3a\u0e27\u0e35\u0e42\u0e08\u0e27"
+    ],
     "name:tur_x_preferred":[
         "Xuzhou"
     ],
@@ -207,6 +234,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0634\u0648\u0698\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Xuzhou"
     ],
     "name:vie_x_preferred":[
         "T\u1eeb Ch\u00e2u"
@@ -340,11 +370,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85669827,
         102191569,
         85632695,
-        890516333,
         136253041,
-        85669827
+        890516333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -378,7 +408,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1608688168,
+    "wof:lastmodified":1690867264,
     "wof:megacity":1,
     "wof:name":"Tongshan",
     "wof:parent_id":890516333,

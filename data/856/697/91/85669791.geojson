@@ -52,6 +52,9 @@
     "name:ben_x_preferred":[
         "\u0987\u0989\u09a8\u09be\u09a8"
     ],
+    "name:ben_x_variant":[
+        "\u0987\u0989\u09a8\u09cd\u09a8\u09be\u09a8"
+    ],
     "name:bod_x_preferred":[
         "\u0f61\u0f74\u0f53\u0f0b\u0f53\u0f53\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
     ],
@@ -75,6 +78,12 @@
     ],
     "name:che_x_preferred":[
         "\u042e\u043d\u044c\u043d\u0430\u043d\u044c"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u06cc\u0648\u0646\u0627\u0646"
+    ],
+    "name:crh_x_preferred":[
+        "Y\u00fcnnan"
     ],
     "name:cym_x_preferred":[
         "Yunnan"
@@ -157,6 +166,12 @@
     "name:hye_x_preferred":[
         "\u0545\u0578\u0582\u0576\u0561\u0576"
     ],
+    "name:hyw_x_preferred":[
+        "\u0535\u0578\u0582\u0576\u0561\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Provinco Yunnan"
+    ],
     "name:ina_x_preferred":[
         "Yunnan"
     ],
@@ -182,6 +197,9 @@
     "name:kat_x_preferred":[
         "\u10d8\u10e3\u10dc\u10d0\u10dc\u10d8"
     ],
+    "name:khm_x_preferred":[
+        "\u1781\u17c1\u178f\u17d2\u178f\u1799\u17bc\u178e\u17b6\u1793"
+    ],
     "name:kon_x_preferred":[
         "Yunnan"
     ],
@@ -190,6 +208,9 @@
     ],
     "name:kor_x_variant":[
         "\uc708\ub09c\uc131"
+    ],
+    "name:kur_x_preferred":[
+        "Yunnan"
     ],
     "name:lat_x_preferred":[
         "Yunnan"
@@ -202,6 +223,9 @@
     ],
     "name:lit_x_preferred":[
         "Junanas"
+    ],
+    "name:lmo_x_preferred":[
+        "Yunnan"
     ],
     "name:ltz_x_preferred":[
         "Yunnan"
@@ -223,6 +247,9 @@
     ],
     "name:mlg_x_preferred":[
         "Yunnan"
+    ],
+    "name:mni_x_preferred":[
+        "\uabcc\uabe8\uabdf\uabc5\uabe5\uabdf"
     ],
     "name:mon_x_preferred":[
         "\u042e\u043d\u044c\u043d\u0430\u043d\u044c \u043c\u0443\u0436"
@@ -284,6 +311,9 @@
     "name:sco_x_preferred":[
         "Yunnan"
     ],
+    "name:shn_x_preferred":[
+        "\u101a\u1030\u1087\u107c\u1062\u107c\u103a\u1087\u104a \u1019\u102d\u1030\u1004\u103a\u1038"
+    ],
     "name:sin_x_preferred":[
         "\u0dba\u0dd4\u0db1\u0dcf\u0db1\u0dca"
     ],
@@ -293,11 +323,17 @@
     "name:slv_x_preferred":[
         "Yunnan"
     ],
+    "name:snd_x_preferred":[
+        "\u064a\u0648\u0646\u0627\u0646 \u0635\u0648\u0628\u0648"
+    ],
     "name:spa_x_preferred":[
         "Yunnan"
     ],
     "name:srp_x_preferred":[
         "\u0408\u0443\u043d\u0430\u043d"
+    ],
+    "name:sun_x_preferred":[
+        "Propinsi Yunnan"
     ],
     "name:swa_x_preferred":[
         "Yunnan"
@@ -522,7 +558,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1587428607,
+    "wof:lastmodified":1690867328,
     "wof:name":"Yunnan",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

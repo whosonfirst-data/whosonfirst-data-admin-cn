@@ -45,6 +45,9 @@
     "name:arg_x_variant":[
         "Xangai"
     ],
+    "name:ary_x_preferred":[
+        "\u0634\u0627\u0646\u06ad\u0647\u0627\u064a"
+    ],
     "name:arz_x_preferred":[
         "\u0634\u0627\u0646\u062c\u0647\u0627\u0649"
     ],
@@ -67,6 +70,9 @@
         "\u0428\u0430\u043d\u0445\u0430\u0439"
     ],
     "name:bam_x_preferred":[
+        "Shanghai"
+    ],
+    "name:ban_x_preferred":[
         "Shanghai"
     ],
     "name:bcl_x_preferred":[
@@ -102,6 +108,9 @@
     "name:cat_x_preferred":[
         "Xangai"
     ],
+    "name:cat_x_variant":[
+        "Shanghai"
+    ],
     "name:cdo_x_preferred":[
         "Si\u00f4ng-h\u0101i"
     ],
@@ -126,11 +135,17 @@
     "name:cor_x_preferred":[
         "Shanghai"
     ],
+    "name:crh_x_preferred":[
+        "\u015eanhay"
+    ],
     "name:cym_x_preferred":[
         "Shanghai"
     ],
     "name:cze_x_colloquial":[
         "Sanghaj"
+    ],
+    "name:dag_x_preferred":[
+        "Shanghai"
     ],
     "name:dan_x_preferred":[
         "Shanghai"
@@ -196,6 +211,9 @@
     "name:fra_x_preferred":[
         "Shanghai"
     ],
+    "name:fra_x_variant":[
+        "Shangha\u00ef"
+    ],
     "name:frp_x_preferred":[
         "Shanghai"
     ],
@@ -207,6 +225,9 @@
     ],
     "name:gan_x_preferred":[
         "\u4e0a\u6d77"
+    ],
+    "name:gan_x_variant":[
+        "\u4e0a\u6d77\u5e02"
     ],
     "name:gla_x_preferred":[
         "Shanghai"
@@ -221,6 +242,9 @@
         "Shanghai"
     ],
     "name:glv_x_preferred":[
+        "Shanghai"
+    ],
+    "name:gpe_x_preferred":[
         "Shanghai"
     ],
     "name:grn_x_preferred":[
@@ -261,6 +285,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0547\u0561\u0576\u0570\u0561\u0575"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0547\u0561\u0576\u056f\u0570\u0561\u0575"
     ],
     "name:ido_x_preferred":[
         "Shanghai"
@@ -319,6 +346,9 @@
     ],
     "name:kbp_x_preferred":[
         "Ca\u014bgay\u0269"
+    ],
+    "name:khm_x_preferred":[
+        "\u179f\u17ca\u17b6\u1784\u17a0\u17c3"
     ],
     "name:kik_x_preferred":[
         "Shanghai"
@@ -390,10 +420,16 @@
     "name:mhr_x_preferred":[
         "\u0428\u0430\u043d\u0445\u0430\u0439"
     ],
+    "name:min_x_preferred":[
+        "Shanghai"
+    ],
     "name:mkd_x_preferred":[
         "\u0428\u0430\u043d\u0433\u0430\u0458"
     ],
     "name:mlg_x_preferred":[
+        "Shanghai"
+    ],
+    "name:mlt_x_preferred":[
         "Shanghai"
     ],
     "name:mon_x_preferred":[
@@ -471,6 +507,9 @@
     "name:pan_x_preferred":[
         "\u0a38\u0a3c\u0a70\u0a18\u0a3e\u0a08"
     ],
+    "name:pap_x_preferred":[
+        "Shanghai"
+    ],
     "name:pms_x_preferred":[
         "Shanghai"
     ],
@@ -519,6 +558,9 @@
     "name:sgs_x_preferred":[
         "\u0160anchajos"
     ],
+    "name:shi_x_preferred":[
+        "Can\u0263hay"
+    ],
     "name:sin_x_preferred":[
         "\u0dc2\u0dd0\u0d82\u0dc4\u0dba\u0dd2"
     ],
@@ -537,6 +579,9 @@
     ],
     "name:sqi_x_preferred":[
         "Shangai"
+    ],
+    "name:srd_x_preferred":[
+        "Shanghai"
     ],
     "name:srp_x_preferred":[
         "\u0428\u0430\u043d\u0433\u0430\u0458"
@@ -570,6 +615,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e0b\u0e35\u0e48\u0e22\u0e07\u0e44\u0e2e\u0e49"
+    ],
+    "name:tpi_x_preferred":[
+        "Sianghai"
     ],
     "name:tsn_x_preferred":[
         "Shanghai"
@@ -628,6 +676,9 @@
     "name:wuu_x_preferred":[
         "\u4e0a\u6d77"
     ],
+    "name:wuu_x_variant":[
+        "\u4e0a\u6d77\u5e02"
+    ],
     "name:xal_x_preferred":[
         "\u0428\u0430\u043d\u0445\u0430\u0439"
     ],
@@ -639,6 +690,9 @@
     ],
     "name:yue_x_preferred":[
         "\u4e0a\u6d77"
+    ],
+    "name:yue_x_variant":[
+        "\u4e0a\u6d77\u5e02"
     ],
     "name:zha_x_preferred":[
         "Sanghaij"
@@ -768,9 +822,9 @@
     "wof:belongsto":[
         102191569,
         85632695,
-        890514815,
-        136253041,
         102027181,
+        136253041,
+        890514815,
         85669831
     ],
     "wof:breaches":[],
@@ -799,7 +853,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1587428594,
+    "wof:lastmodified":1690867317,
     "wof:name":"\u4e0a\u6d77\u5e02",
     "wof:parent_id":102027181,
     "wof:placetype":"neighbourhood",

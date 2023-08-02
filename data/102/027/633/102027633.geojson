@@ -32,8 +32,14 @@
     "name:ast_x_preferred":[
         "Dongguan"
     ],
+    "name:bel_x_preferred":[
+        "\u0414\u0443\u043d\u0433\u0443\u0430\u043d\u044c"
+    ],
     "name:ben_x_preferred":[
         "\u09a1\u0982\u0997\u09cb\u09af\u09bc\u09be\u09a8"
+    ],
+    "name:ben_x_variant":[
+        "\u09a4\u09c1\u0982\u0995\u09c1\u09af\u09bc\u09be\u09a8"
     ],
     "name:bre_x_preferred":[
         "Dongguan"
@@ -113,10 +119,19 @@
     "name:hin_x_preferred":[
         "\u0921\u094b\u0902\u0917\u094d\u0917\u0942\u0906\u0928"
     ],
+    "name:hrv_x_preferred":[
+        "Dongguan"
+    ],
     "name:hun_x_preferred":[
         "Tungkuan"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0582\u0576\u0563\u0578\u0582\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
+        "Dongguan"
+    ],
+    "name:isl_x_preferred":[
         "Dongguan"
     ],
     "name:ita_x_preferred":[
@@ -128,6 +143,9 @@
     "name:kan_x_preferred":[
         "\u0ca1\u0cca\u0c82\u0c97\u0ccd\u0c97\u0cc1\u0cb5\u0cbe\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10e3\u10dc\u10d2\u10d9\u10e3\u10d0\u10dc\u10d8"
+    ],
     "name:kik_x_preferred":[
         "Dongguan"
     ],
@@ -136,6 +154,9 @@
     ],
     "name:kor_x_variant":[
         "\ub465\uad00\uc2dc"
+    ],
+    "name:kur_x_preferred":[
+        "Dongguan"
     ],
     "name:lav_x_preferred":[
         "Donguana"
@@ -149,14 +170,26 @@
     "name:mar_x_preferred":[
         "\u0921\u094b\u0902\u0917\u0917\u0941\u0906\u0928"
     ],
+    "name:mar_x_variant":[
+        "\u0926\u094b\u0902\u0917\u0941\u0935\u093e\u0928"
+    ],
     "name:mkd_x_preferred":[
         "\u0414\u0443\u043d\u0433\u0433\u0443\u0430\u043d"
+    ],
+    "name:mlg_x_preferred":[
+        "Dongguan"
     ],
     "name:mon_x_preferred":[
         "\u0414\u0443\u043d\u0433\u0443\u0430\u043d\u044c"
     ],
+    "name:mri_x_preferred":[
+        "Dongguan"
+    ],
     "name:msa_x_preferred":[
         "Dongguan"
+    ],
+    "name:mya_x_preferred":[
+        "\u1012\u102f\u1036\u1002\u103d\u1019\u103a"
     ],
     "name:nan_x_preferred":[
         "Tong-k\u00f3an-chh\u012b"
@@ -175,6 +208,9 @@
     ],
     "name:oci_x_preferred":[
         "Dongguan"
+    ],
+    "name:oss_x_preferred":[
+        "\u0414\u0443\u043d\u0433\u0443\u0430\u043d\u044c"
     ],
     "name:pam_x_preferred":[
         "Dongguan"
@@ -242,6 +278,9 @@
     "name:urd_x_variant":[
         "\u0688\u0648\u0646\u06af\u06af\u0648\u0627\u0646"
     ],
+    "name:vec_x_preferred":[
+        "Dongguan"
+    ],
     "name:vie_x_preferred":[
         "\u0110\u00f4ng Ho\u1ea3n"
     ],
@@ -256,6 +295,9 @@
     ],
     "name:yue_x_preferred":[
         "\u6771\u839e"
+    ],
+    "name:zha_x_preferred":[
+        "Dunghgvanj"
     ],
     "name:zho_min_nan_x_preferred":[
         "Tong-k\u00f3an-chh\u012b"
@@ -385,11 +427,11 @@
     "src:population":"geonames",
     "wd:wordcount":2584,
     "wof:belongsto":[
+        85669743,
         102191569,
         85632695,
-        890516401,
         136253041,
-        85669743
+        890516401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -416,7 +458,7 @@
         }
     ],
     "wof:id":102027633,
-    "wof:lastmodified":1608688184,
+    "wof:lastmodified":1690867176,
     "wof:megacity":1,
     "wof:name":"Dongguan",
     "wof:parent_id":890516401,

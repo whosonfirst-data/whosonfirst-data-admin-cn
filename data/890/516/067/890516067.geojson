@@ -29,8 +29,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u0634\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Benxi"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u044d\u043d\u044c\u0441\u0456"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u0995\u09cd\u09b8\u09bf"
+    ],
+    "name:ben_x_variant":[
+        "\u09aa\u09c7\u09a8\u09b6\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u0411\u044a\u043d\u0441\u0438"
@@ -47,6 +56,9 @@
     "name:ces_x_preferred":[
         "Pen-si"
     ],
+    "name:cym_x_preferred":[
+        "Benxi"
+    ],
     "name:dan_x_preferred":[
         "Benxi"
     ],
@@ -55,6 +67,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b5\u03bd\u03be\u03af"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03b5\u03bd\u03c3\u03af"
     ],
     "name:eng_x_preferred":[
         "Benxi"
@@ -77,6 +92,9 @@
     "name:gan_x_preferred":[
         "\u672c\u6eaa\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Benxi"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0aa8\u0acd\u0a95\u0acd\u0ab8\u0ac0"
     ],
@@ -88,6 +106,9 @@
     ],
     "name:hun_x_preferred":[
         "Penszi"
+    ],
+    "name:hun_x_variant":[
+        "Penhszi"
     ],
     "name:hye_x_preferred":[
         "\u0532\u0565\u0576\u057d\u056b"
@@ -118,6 +139,9 @@
     ],
     "name:kor_x_variant":[
         "\ubc88\uc2dc\uc2dc"
+    ],
+    "name:kur_x_preferred":[
+        "Benxi"
     ],
     "name:lav_x_preferred":[
         "Bensi"
@@ -202,6 +226,9 @@
     ],
     "name:uzb_x_preferred":[
         "Bensi"
+    ],
+    "name:vec_x_preferred":[
+        "Benxi"
     ],
     "name:vie_x_preferred":[
         "B\u1ea3n Kh\u00ea"
@@ -326,11 +353,11 @@
     "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
+        85669807,
         102191569,
         85632695,
-        890513783,
         136253041,
-        85669807
+        890513783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -357,7 +384,7 @@
         }
     ],
     "wof:id":890516067,
-    "wof:lastmodified":1610158313,
+    "wof:lastmodified":1690867573,
     "wof:megacity":1,
     "wof:name":"\u672c\u6eaa",
     "wof:parent_id":890513783,

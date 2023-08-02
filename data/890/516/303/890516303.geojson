@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"110.690002,30.9642065,110.690002,30.9642065",
+    "geom:bbox":"110.690002,30.964206,110.690002,30.964206",
     "geom:latitude":30.964206,
     "geom:longitude":110.690002,
     "gp:adm0":23424781,
@@ -29,8 +29,14 @@
     "name:gan_x_preferred":[
         "\u79ed\u5f52\u53bf"
     ],
+    "name:ind_x_preferred":[
+        "County Zigui"
+    ],
     "name:jpn_x_preferred":[
         "\u30b7\u5e30\u770c"
+    ],
+    "name:jpn_x_variant":[
+        "\u79ed\u5e30\u770c"
     ],
     "name:kor_x_preferred":[
         "\ucbd4\uad6c\uc774\ud604"
@@ -50,11 +56,20 @@
     "name:pol_x_preferred":[
         "Zigui"
     ],
+    "name:rus_x_preferred":[
+        "\u0426\u0437\u044b\u0433\u0443\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Zigui"
+    ],
     "name:swe_x_preferred":[
         "Zigui"
     ],
     "name:ukr_x_preferred":[
         "\u0426\u0437\u0438\u0491\u0443\u0439"
+    ],
+    "name:ukr_x_variant":[
+        "\u0426\u0437\u0438\u0433\u0443\u0439"
     ],
     "name:vie_x_preferred":[
         "T\u1ef7 Quy"
@@ -96,7 +111,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055951,
-    "wof:geomhash":"0e8262dd7df004d3db59423e8faaa5dd",
+    "wof:geomhash":"2dd34191bcd8257d7b3ec27b7946cf72",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +123,7 @@
         }
     ],
     "wof:id":890516303,
-    "wof:lastmodified":1566693622,
+    "wof:lastmodified":1690867560,
     "wof:name":"\u79ed\u5f52\u53bf",
     "wof:parent_id":890513331,
     "wof:placetype":"localadmin",
@@ -119,9 +134,9 @@
 },
   "bbox": [
     110.690002,
-    30.9642065,
+    30.964206,
     110.690002,
-    30.9642065
+    30.964206
 ],
-  "geometry": {"coordinates":[110.69000200000001,30.9642065],"type":"Point"}
+  "geometry": {"coordinates":[110.69000200000001,30.964206],"type":"Point"}
 }

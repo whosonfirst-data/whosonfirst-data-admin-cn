@@ -23,8 +23,14 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0646\u063a\u0648\u0627\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Qingyuan"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0982\u0985\u09cd\u09af\u09be\u09a8"
+    ],
+    "name:ben_x_variant":[
+        "\u099b\u09bf\u0982\u0987\u0989\u09af\u09bc\u09c7\u09a8"
     ],
     "name:cat_x_preferred":[
         "Qingyuan"
@@ -68,17 +74,26 @@
     "name:gan_x_preferred":[
         "\u6e05\u8fdc\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Qingyuan"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0a82\u0a97\u0aaf\u0ac1\u0a86\u0aa8"
     ],
     "name:hak_x_preferred":[
         "Chh\u00een-y\u00e9n-s\u1e73"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d9\u05e0\u05d2\u05d9\u05d5\u05d0\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u093f\u0928\u0917\u094d\u092f\u0942\u0906\u0928"
     ],
     "name:hun_x_preferred":[
         "Qingyuan"
+    ],
+    "name:hun_x_variant":[
+        "Csingj\u00fcan"
     ],
     "name:ind_x_preferred":[
         "Qingyuan"
@@ -92,6 +107,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0cb5\u0cbf\u0c82\u0c97\u0ccd\u0caf\u0cc1\u0cb5\u0cbe\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10d8\u10dc\u10d2\u10d8\u10e3\u10d4\u10dc\u10d8"
+    ],
     "name:kik_x_preferred":[
         "Qingyuan"
     ],
@@ -101,6 +119,9 @@
     "name:kor_x_variant":[
         "\uce6d\uc704\uc548\uc2dc"
     ],
+    "name:kur_x_preferred":[
+        "Qingyuan"
+    ],
     "name:lat_x_preferred":[
         "Qingyuan"
     ],
@@ -109,6 +130,9 @@
     ],
     "name:lit_x_preferred":[
         "\u010cingjuanas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6e05\u9060\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u0915\u093f\u0902\u0917\u092f\u0941\u0906\u0928"
@@ -179,11 +203,17 @@
     "name:ukr_x_preferred":[
         "\u0426\u0456\u043d\u044c'\u044e\u0430\u043d\u044c"
     ],
+    "name:ukr_x_variant":[
+        "\u0426\u0456\u043d'\u044e\u0430\u043d\u044c"
+    ],
     "name:und_x_variant":[
         "Tsingy\u00fcan"
     ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u0646\u06af\u06cc\u0648\u0627\u0646"
+    ],
+    "name:vec_x_preferred":[
+        "Qingyuan"
     ],
     "name:vie_x_preferred":[
         "Thanh Vi\u1ec5n"
@@ -196,6 +226,9 @@
     ],
     "name:yue_x_preferred":[
         "\u6e05\u9060"
+    ],
+    "name:zha_x_preferred":[
+        "Cinghyienx"
     ],
     "name:zho_min_nan_x_preferred":[
         "Chheng-o\u00e1n-chh\u012b"
@@ -351,7 +384,7 @@
         }
     ],
     "wof:id":102027243,
-    "wof:lastmodified":1636503582,
+    "wof:lastmodified":1690867173,
     "wof:name":"Qingyuan",
     "wof:parent_id":890513267,
     "wof:placetype":"locality",

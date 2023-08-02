@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u0631 \u062a\u0634\u0627\u0646\u063a\u0634\u0627\u0646"
+    ],
     "name:deu_x_preferred":[
         "Changdao"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucc3d\ub2e4\uc624\ud604"
+    ],
+    "name:lzh_x_preferred":[
+        "\u9577\u5cf6\u7e23"
     ],
     "name:nan_x_preferred":[
         "Ti\u00f4ng-t\u00f3-ko\u0101n"
@@ -71,7 +77,8 @@
         "\u957f\u5c9b\u53bf"
     ],
     "name:zho_x_variant":[
-        "\u957f\u5c9b"
+        "\u957f\u5c9b",
+        "\u9577\u5cf6\u7e23"
     ],
     "qs:name":"Changdao Xian",
     "qs:photos_9r":0,
@@ -107,7 +114,7 @@
         }
     ],
     "wof:id":890514001,
-    "wof:lastmodified":1566693669,
+    "wof:lastmodified":1690867604,
     "wof:name":"Changdao Xian",
     "wof:parent_id":890516301,
     "wof:placetype":"localadmin",

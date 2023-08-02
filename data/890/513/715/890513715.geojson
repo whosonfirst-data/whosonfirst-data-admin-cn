@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"98.5938995,29.690334,98.5938995,29.690334",
+    "geom:bbox":"98.5939,29.690334,98.5939,29.690334",
     "geom:latitude":29.690334,
     "geom:longitude":98.5939,
     "gp:adm0":23424781,
@@ -62,8 +62,14 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u043a\u0430\u043c"
     ],
+    "name:spa_x_preferred":[
+        "Markam"
+    ],
     "name:swe_x_preferred":[
         "Markham"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0631\u06a9\u0627\u0645 \u06a9\u0627\u0624\u0646\u0679\u06cc"
     ],
     "name:vie_x_preferred":[
         "Markam"
@@ -102,7 +108,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055833,
-    "wof:geomhash":"9f0cc8223abc6100912d4d279b99d903",
+    "wof:geomhash":"840c0805d676f92801d4f269c1064378",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":890513715,
-    "wof:lastmodified":1566693714,
+    "wof:lastmodified":1690867646,
     "wof:name":"\u8292\u5eb7\u53bf",
     "wof:parent_id":890514545,
     "wof:placetype":"localadmin",
@@ -124,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    98.5938995,
+    98.5939,
     29.690334,
-    98.5938995,
+    98.5939,
     29.690334
 ],
-  "geometry": {"coordinates":[98.59389950000001,29.690334],"type":"Point"}
+  "geometry": {"coordinates":[98.5939,29.690334],"type":"Point"}
 }

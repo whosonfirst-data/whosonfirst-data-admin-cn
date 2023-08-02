@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"115.7940955,25.5356255,115.7940955,25.5356255",
+    "geom:bbox":"115.794095,25.535625,115.794095,25.535625",
     "geom:latitude":25.535625,
     "geom:longitude":115.794095,
     "gp:adm0":23424781,
@@ -32,6 +32,9 @@
     "name:gan_x_preferred":[
         "\u6703\u660c"
     ],
+    "name:hye_x_preferred":[
+        "\u0540\u0578\u0582\u056b\u0579\u0561\u0576\u056b \u0547\u0580\u057b\u0561\u0576"
+    ],
     "name:jpn_x_preferred":[
         "\u4f1a\u660c\u770c"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:nob_x_preferred":[
         "Huichang"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u044d\u0439\u0447\u0430\u043d"
     ],
     "name:swe_x_preferred":[
         "Huichang"
@@ -93,7 +99,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055940,
-    "wof:geomhash":"2218ae99216e53f123e405eaff86133e",
+    "wof:geomhash":"c93b15fa0d463da689813bd55daca574",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":890516039,
-    "wof:lastmodified":1566693613,
+    "wof:lastmodified":1690867552,
     "wof:name":"\u4f1a\u660c\u53bf",
     "wof:parent_id":890511835,
     "wof:placetype":"localadmin",
@@ -115,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    115.7940955,
-    25.5356255,
-    115.7940955,
-    25.5356255
+    115.794095,
+    25.535625,
+    115.794095,
+    25.535625
 ],
-  "geometry": {"coordinates":[115.7940955,25.5356255],"type":"Point"}
+  "geometry": {"coordinates":[115.794095,25.535625],"type":"Point"}
 }

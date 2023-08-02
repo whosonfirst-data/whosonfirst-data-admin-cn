@@ -35,6 +35,12 @@
     "name:ben_x_preferred":[
         "\u099c\u09be\u0993\u099d\u09c1\u09af\u09bc\u09be\u0982"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u0993\u099a\u09c1\u09af\u09bc\u09be\u0982"
+    ],
+    "name:cat_x_preferred":[
+        "Zaozhuang"
+    ],
     "name:cdo_x_preferred":[
         "C\u014d\u0324-c\u014fng"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:che_x_preferred":[
         "\u0426\u0437\u0430\u043e\u0447\u0436\u0443\u0430\u043d"
+    ],
+    "name:cym_x_preferred":[
+        "Zaozhuang"
     ],
     "name:dan_x_preferred":[
         "Zaozhuang"
@@ -77,11 +86,20 @@
     "name:gan_x_preferred":[
         "\u67a3\u5e84\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Zaozhuang"
+    ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abe\u0a93\u0a9d\u0ac1\u0a86\u0a82\u0a97"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d6\u05d0\u05d5\u05d2'\u05d5\u05d0\u05e0\u05d2"
+    ],
     "name:hin_x_preferred":[
         "\u091c\u093c\u0935\u091c\u093c\u0939\u0941\u0906\u0902\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Caocsuang"
     ],
     "name:ind_x_preferred":[
         "Zaozhuang"
@@ -175,6 +193,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0632\u0627\u0648\u0698\u0648\u0627\u0646\u06af"
+    ],
+    "name:vec_x_preferred":[
+        "Zaozhuang"
     ],
     "name:vie_x_preferred":[
         "T\u1ea3o Trang"
@@ -299,11 +320,11 @@
     "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
+        85669813,
         102191569,
         85632695,
-        890516327,
         136253041,
-        85669813
+        890516327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -330,7 +351,7 @@
         }
     ],
     "wof:id":890512925,
-    "wof:lastmodified":1610158321,
+    "wof:lastmodified":1690867687,
     "wof:megacity":1,
     "wof:name":"\u67a3\u5e84",
     "wof:parent_id":890516327,

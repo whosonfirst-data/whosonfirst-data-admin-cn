@@ -29,8 +29,17 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0647\u0648\u062a"
     ],
+    "name:ast_x_preferred":[
+        "Hohhot"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u0443\u0445-\u0425\u043e\u0442\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09b9\u09a4"
+    ],
+    "name:ben_x_variant":[
+        "\u09b9\u09cb\u09b9-\u09b9\u09a4"
     ],
     "name:bod_x_preferred":[
         "\u0f58\u0f41\u0f62\u0f0b\u0f66\u0f94\u0f7c\u0f53\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0d"
@@ -110,6 +119,9 @@
     "name:gan_x_preferred":[
         "\u547c\u548c\u6d69\u7279\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Hohhot"
+    ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acb\u0ab9\u0acb\u0aa4"
     ],
@@ -132,6 +144,9 @@
         "Hohhot"
     ],
     "name:ind_x_preferred":[
+        "Hohhot"
+    ],
+    "name:isl_x_preferred":[
         "Hohhot"
     ],
     "name:ita_x_preferred":[
@@ -164,6 +179,9 @@
     "name:kor_x_variant":[
         "\ud6c4\ud5c8\ud558\uc624\ud130 \uc2dc",
         "\ud6c4\ud5c8\ud558\uc624\ud130\uc2dc"
+    ],
+    "name:kur_x_preferred":[
+        "Huhhot"
     ],
     "name:lat_x_preferred":[
         "Huhehaote"
@@ -209,6 +227,9 @@
     ],
     "name:nor_x_preferred":[
         "Hohhot"
+    ],
+    "name:oss_x_preferred":[
+        "\u0425\u0443\u0445-\u0425\u043e\u0442\u043e"
     ],
     "name:pnb_x_preferred":[
         "\u06c1\u0648\u06c1\u0648\u0679"
@@ -262,6 +283,9 @@
     "name:tha_x_preferred":[
         "\u0e2e\u0e39\u0e2e\u0e2d\u0e15"
     ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e2e\u0e2e\u0e2d\u0e15"
+    ],
     "name:tur_x_preferred":[
         "Huhhot"
     ],
@@ -280,6 +304,9 @@
     "name:uzb_x_preferred":[
         "Xuxxoto"
     ],
+    "name:vec_x_preferred":[
+        "Hohhot"
+    ],
     "name:vie_x_preferred":[
         "Hohhot"
     ],
@@ -288,6 +315,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u547c\u548c\u6d69\u7279"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10f0\u10e3\u10f0-\u10f0\u10dd\u10e2\u10dd"
     ],
     "name:yue_x_preferred":[
         "\u547c\u548c\u6d69\u7279"
@@ -416,11 +446,11 @@
     "src:population":"geonames",
     "wd:wordcount":3830,
     "wof:belongsto":[
+        85669847,
         102191569,
         85632695,
-        890513779,
         136253041,
-        85669847
+        890513779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -454,7 +484,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1608688172,
+    "wof:lastmodified":1690867198,
     "wof:megacity":1,
     "wof:name":"Hohhot",
     "wof:parent_id":890513779,

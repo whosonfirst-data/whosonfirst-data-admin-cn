@@ -34,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u0633\u0627"
     ],
+    "name:arg_x_preferred":[
+        "Lhasa"
+    ],
     "name:ast_x_preferred":[
         "Lhasa"
     ],
@@ -170,6 +173,9 @@
     "name:hye_x_preferred":[
         "\u053c\u0570\u0561\u057d\u0561"
     ],
+    "name:ido_x_preferred":[
+        "Lhasa"
+    ],
     "name:ile_x_preferred":[
         "Lhasa"
     ],
@@ -187,6 +193,9 @@
     ],
     "name:jpn_x_variant":[
         "\u30e9\u30b5\u5e02"
+    ],
+    "name:kaa_x_preferred":[
+        "Lxasa"
     ],
     "name:kan_x_preferred":[
         "\u0cb2\u0ccd\u0cb9\u0cbe\u0cb8\u0cbe"
@@ -306,6 +315,9 @@
     "name:por_x_preferred":[
         "Lassa"
     ],
+    "name:roh_x_preferred":[
+        "Lhasa"
+    ],
     "name:ron_x_preferred":[
         "Lhasa"
     ],
@@ -351,6 +363,9 @@
     "name:tel_x_preferred":[
         "\u0c32\u0c3e\u0c38\u0c3e"
     ],
+    "name:tgk_x_preferred":[
+        "\u041b\u04b3\u0430\u0441\u0430"
+    ],
     "name:tgl_x_preferred":[
         "Lhasa"
     ],
@@ -374,6 +389,9 @@
     ],
     "name:uzb_x_preferred":[
         "Lxasa"
+    ],
+    "name:vec_x_preferred":[
+        "Lhasa"
     ],
     "name:vep_x_preferred":[
         "Lhas"
@@ -537,11 +555,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85669747,
         102191569,
         85632695,
-        890515877,
         136253041,
-        85669747
+        890515877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -577,7 +595,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1587428591,
+    "wof:lastmodified":1690867273,
     "wof:megacity":0,
     "wof:name":"Lhasa",
     "wof:parent_id":890515877,

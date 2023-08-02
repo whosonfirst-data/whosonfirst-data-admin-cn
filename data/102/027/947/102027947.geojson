@@ -50,6 +50,9 @@
     "name:ben_x_preferred":[
         "\u099a\u09cd\u09af\u09be\u0982\u099a\u09c1\u09a8"
     ],
+    "name:ben_x_variant":[
+        "\u099b\u09be\u0982\u099b\u09c1\u09a8"
+    ],
     "name:bos_x_preferred":[
         "\u010cang\u010dun"
     ],
@@ -68,11 +71,17 @@
     "name:cdo_x_preferred":[
         "Di\u00f2ng-ch\u016dng"
     ],
+    "name:ceb_x_preferred":[
+        "Changchun"
+    ],
     "name:ces_x_preferred":[
         "\u010cchang-\u010dchun"
     ],
     "name:che_x_preferred":[
         "\u0427\u0430\u043d\u0447\u0443\u043d\u044c"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0686\u0627\u0646\u06af\u0686\u0648\u0646"
     ],
     "name:cym_x_preferred":[
         "Changchun"
@@ -127,6 +136,9 @@
     ],
     "name:gan_x_preferred":[
         "\u957f\u6625\u5e02"
+    ],
+    "name:gle_x_preferred":[
+        "Changchun"
     ],
     "name:glg_x_preferred":[
         "Changchun"
@@ -198,6 +210,9 @@
         "\uc7a5\ucd98",
         "\ucc3d\ucd98\uc2dc"
     ],
+    "name:kur_x_preferred":[
+        "Changchun"
+    ],
     "name:lat_x_preferred":[
         "Changchun"
     ],
@@ -223,6 +238,9 @@
         "\u0427\u0430\u043d\u0433\u0447\u0443\u0435\u043d"
     ],
     "name:mlg_x_preferred":[
+        "Changchun"
+    ],
+    "name:mlt_x_preferred":[
         "Changchun"
     ],
     "name:mon_x_preferred":[
@@ -257,6 +275,9 @@
     ],
     "name:oci_x_preferred":[
         "Changchun"
+    ],
+    "name:oss_x_preferred":[
+        "\u0427\u0430\u043d\u0447\u0443\u043d\u044c"
     ],
     "name:pan_x_preferred":[
         "\u0a1a\u0a3e\u0a02\u0a17\u0a1a\u0a41\u0a28"
@@ -345,6 +366,9 @@
     "name:uzb_x_preferred":[
         "Changchun"
     ],
+    "name:vec_x_preferred":[
+        "Changchun"
+    ],
     "name:vie_x_preferred":[
         "Tr\u01b0\u1eddng Xu\u00e2n"
     ],
@@ -353,6 +377,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u957f\u6625\u5e02"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e9\u10d0\u10dc\u10e9\u10e3\u10dc\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u9577\u6625"
@@ -499,11 +526,11 @@
     "src:population":"geonames",
     "wd:wordcount":5718,
     "wof:belongsto":[
+        85669843,
         102191569,
         85632695,
-        890514235,
         136253041,
-        85669843
+        890514235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -530,7 +557,7 @@
         }
     ],
     "wof:id":102027947,
-    "wof:lastmodified":1608688185,
+    "wof:lastmodified":1690867194,
     "wof:megacity":1,
     "wof:name":"Changchun",
     "wof:parent_id":890514235,

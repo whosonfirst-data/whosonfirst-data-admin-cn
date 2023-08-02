@@ -223,6 +223,9 @@
         "\ud56d\uc8fc",
         "\ud56d\uc800\uc6b0\uc2dc"
     ],
+    "name:kur_x_preferred":[
+        "Hangzhou"
+    ],
     "name:lat_x_preferred":[
         "Hancheum"
     ],
@@ -250,8 +253,14 @@
     "name:mlg_x_preferred":[
         "Hangzhou"
     ],
+    "name:mlt_x_preferred":[
+        "Hangzhou"
+    ],
     "name:mon_x_preferred":[
         "\u0425\u0430\u043d\u0436\u043e\u0443"
+    ],
+    "name:mri_x_preferred":[
+        "Hangzhou"
     ],
     "name:msa_x_preferred":[
         "Hangzhou"
@@ -322,6 +331,9 @@
     "name:slv_x_preferred":[
         "Hang\u010dou"
     ],
+    "name:slv_x_variant":[
+        "Hangd\u017eov"
+    ],
     "name:spa_x_preferred":[
         "Hangzhou"
     ],
@@ -368,6 +380,9 @@
     "name:uzb_x_preferred":[
         "Xanchjou"
     ],
+    "name:vec_x_preferred":[
+        "Hangzhou"
+    ],
     "name:vep_x_preferred":[
         "Han\u010d\u017eou"
     ],
@@ -382,6 +397,9 @@
     ],
     "name:wuu_x_variant":[
         "\u676d\u5dde"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10f0\u10d0\u10dc\u10ef\u10dd\u10e3"
     ],
     "name:yue_x_preferred":[
         "\u676d\u5dde"
@@ -533,11 +551,11 @@
     "src:population":"geonames",
     "wd:wordcount":6650,
     "wof:belongsto":[
+        85669835,
         102191569,
         85632695,
-        890516555,
         136253041,
-        85669835
+        890516555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -565,7 +583,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1608688185,
+    "wof:lastmodified":1690867235,
     "wof:megacity":1,
     "wof:name":"Hangzhou",
     "wof:parent_id":890516555,

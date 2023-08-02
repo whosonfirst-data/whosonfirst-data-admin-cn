@@ -49,6 +49,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041b\u044f\u0430\u043d\u0456\u043d"
     ],
+    "name:bel_x_variant":[
+        "\u041b\u044f\u0430\u043d\u0456\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u09af\u09bc\u09be\u0993\u09a8\u09bf\u0982"
     ],
@@ -76,6 +79,12 @@
     "name:che_x_preferred":[
         "\u041b\u044f\u043e\u043d\u0438\u043d"
     ],
+    "name:ckb_x_preferred":[
+        "\u0644\u06cc\u0627\u06c6\u0646\u06cc\u0646\u06af"
+    ],
+    "name:crh_x_preferred":[
+        "Liaoning"
+    ],
     "name:cym_x_preferred":[
         "Liaoning"
     ],
@@ -92,7 +101,8 @@
         "\u039b\u03b9\u03b1\u03cc\u03bd\u03b9\u03bd\u03b3\u03ba"
     ],
     "name:ell_x_variant":[
-        "\u039b\u03b9\u03b1\u03b1\u03bd\u03af\u03bd\u03b3\u03ba"
+        "\u039b\u03b9\u03b1\u03b1\u03bd\u03af\u03bd\u03b3\u03ba",
+        "\u039b\u03b9\u03b1\u03bf\u03bd\u03af\u03bd\u03b3\u03ba"
     ],
     "name:eng_ca_x_preferred":[
         "Liaoning"
@@ -169,10 +179,19 @@
     "name:hye_x_preferred":[
         "\u053c\u0575\u0561\u0578\u0576\u056b\u0576"
     ],
+    "name:hyw_x_preferred":[
+        "\u053c\u056b\u0561\u0578\u0576\u056b\u0576\u056f"
+    ],
+    "name:ido_x_preferred":[
+        "Provinco Liaoning"
+    ],
     "name:ina_x_preferred":[
         "Liaoning"
     ],
     "name:ind_x_preferred":[
+        "Liaoning"
+    ],
+    "name:isl_x_preferred":[
         "Liaoning"
     ],
     "name:ita_x_preferred":[
@@ -198,6 +217,9 @@
     "name:kor_x_variant":[
         "\ub7b4\uc624\ub2dd\uc131"
     ],
+    "name:kur_x_preferred":[
+        "Liaoning"
+    ],
     "name:lat_x_preferred":[
         "Liaoning"
     ],
@@ -221,6 +243,9 @@
     ],
     "name:mlg_x_preferred":[
         "Liaoning"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc2\uabed\uabcc\uabe5\uabd1\uabe3\uabc5\uabe4\uabe1"
     ],
     "name:mon_x_preferred":[
         "\u041b\u044f\u043e\u043d\u0438\u043d"
@@ -270,6 +295,9 @@
     "name:por_x_preferred":[
         "Liaoning"
     ],
+    "name:por_x_variant":[
+        "Liaoningue"
+    ],
     "name:que_x_preferred":[
         "Liaoning pruwinsya"
     ],
@@ -290,6 +318,9 @@
     ],
     "name:slv_x_preferred":[
         "Liaoning"
+    ],
+    "name:snd_x_preferred":[
+        "\u0644\u0626\u0627\u0626\u0648\u0646\u0646\u06af \u0635\u0648\u0628\u0648"
     ],
     "name:spa_x_preferred":[
         "Liaoning"
@@ -526,7 +557,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1587428620,
+    "wof:lastmodified":1690867338,
     "wof:name":"Liaoning",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

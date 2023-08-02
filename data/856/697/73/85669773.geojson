@@ -58,6 +58,9 @@
     "name:ben_x_preferred":[
         "\u09b6\u09be\u09a8\u09b8\u09bf"
     ],
+    "name:ben_x_variant":[
+        "\u09b6\u09be\u09a8\u09b6\u09bf"
+    ],
     "name:bod_x_preferred":[
         "\u0f67\u0fb2\u0f53\u0f0b\u0f5e\u0f72\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
     ],
@@ -81,6 +84,12 @@
     ],
     "name:che_x_preferred":[
         "\u0428\u0430\u043d\u044c\u0441\u0438"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0634\u0627\u0646\u0633\u06cc"
+    ],
+    "name:crh_x_preferred":[
+        "\u015eansi"
     ],
     "name:cym_x_preferred":[
         "Shanxi"
@@ -169,11 +178,20 @@
     "name:hye_x_preferred":[
         "\u0547\u0561\u0576\u057d\u056b"
     ],
+    "name:hyw_x_preferred":[
+        "\u0547\u0561\u0576\u0584\u057d\u056b"
+    ],
+    "name:ido_x_preferred":[
+        "Provinco Shanxi"
+    ],
     "name:ina_x_preferred":[
         "Shanxi"
     ],
     "name:ind_x_preferred":[
         "Shanxi"
+    ],
+    "name:isl_x_preferred":[
+        "Shansi"
     ],
     "name:ita_x_preferred":[
         "Shanxi"
@@ -201,6 +219,9 @@
     "name:kor_x_variant":[
         "\uc0b0\uc2dc\uc131"
     ],
+    "name:kur_x_preferred":[
+        "Shanxi"
+    ],
     "name:lat_x_preferred":[
         "Xansia"
     ],
@@ -224,6 +245,9 @@
     ],
     "name:mlg_x_preferred":[
         "Shanxi"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc1\uabdf\uabc1\uabe4"
     ],
     "name:mon_x_preferred":[
         "\u0428\u0430\u043d\u044c\u0441\u0438 \u043c\u0443\u0436"
@@ -296,6 +320,9 @@
     ],
     "name:slv_x_preferred":[
         "Shanxi"
+    ],
+    "name:slv_x_variant":[
+        "\u0160an\u0161i"
     ],
     "name:spa_x_preferred":[
         "Shanxi"
@@ -524,7 +551,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1587428600,
+    "wof:lastmodified":1690867324,
     "wof:name":"Shanxi",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

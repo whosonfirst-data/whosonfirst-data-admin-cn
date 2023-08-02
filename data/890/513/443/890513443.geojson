@@ -34,8 +34,14 @@
     "name:gan_x_preferred":[
         "\u8354\u6ce2\u53bf"
     ],
+    "name:hyw_x_preferred":[
+        "\u053c\u056b\u057a\u0585 \u0554\u057d\u056b\u0561\u0576"
+    ],
     "name:jpn_x_preferred":[
         "\u8318\u6ce2\u770c"
+    ],
+    "name:jpn_x_variant":[
+        "\u8354\u6ce2\u770c"
     ],
     "name:kor_x_preferred":[
         "\ub9ac\ubcf4\ud604"
@@ -49,11 +55,17 @@
     "name:nob_x_preferred":[
         "Libo"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0431\u043e"
+    ],
     "name:swe_x_preferred":[
         "Libo"
     ],
     "name:und_x_variant":[
         "Li-po Hsien"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0628\u0648 \u06a9\u0627\u0624\u0646\u0679\u06cc"
     ],
     "name:vie_x_preferred":[
         "L\u1ec7 Ba"
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":890513443,
-    "wof:lastmodified":1566693721,
+    "wof:lastmodified":1690867655,
     "wof:name":"Libo Xian",
     "wof:parent_id":1108732557,
     "wof:placetype":"localadmin",

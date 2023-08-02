@@ -40,6 +40,9 @@
     "name:aze_x_preferred":[
         "Urum\u00e7i"
     ],
+    "name:bak_x_preferred":[
+        "\u04e8\u0440\u04e9\u043c\u0441\u04e9"
+    ],
     "name:bel_x_preferred":[
         "\u0423\u0440\u0443\u043c\u0447\u044b"
     ],
@@ -84,6 +87,12 @@
     ],
     "name:chv_x_preferred":[
         "\u0423\u0440\u0443\u043c\u0447\u0438"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u0648\u0631\u0648\u0645\u0686\u06cc"
+    ],
+    "name:crh_x_preferred":[
+        "\u00dcr\u00fcm\u00e7i"
     ],
     "name:cym_x_preferred":[
         "\u00dcr\u00fcmqi"
@@ -227,6 +236,9 @@
         "\uc6b0\ub8e8\ubb34\uce58 \uc2dc",
         "\uc6b0\ub8e8\ubb34\uce58\uc2dc"
     ],
+    "name:kur_x_preferred":[
+        "Urum\u00e7i"
+    ],
     "name:lad_x_preferred":[
         "\u00dcr\u00fcmqi"
     ],
@@ -301,6 +313,9 @@
     ],
     "name:por_x_variant":[
         "\u00dcr\u00fcmqi"
+    ],
+    "name:pus_x_preferred":[
+        "\u0627\u0648\u0631\u0648\u0645\u0686\u064a"
     ],
     "name:ron_x_preferred":[
         "Urumqi"
@@ -389,8 +404,14 @@
     "name:urd_x_preferred":[
         "\u0627\u0631\u0648\u0645\u0686\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u0631\u0645\u0686\u06cc"
+    ],
     "name:uzb_x_preferred":[
         "Urumchi"
+    ],
+    "name:vec_x_preferred":[
+        "\u00dcr\u00fcmqi"
     ],
     "name:vie_x_preferred":[
         "\u00dcr\u00fcmqi"
@@ -400,6 +421,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u70cf\u9b6f\u6728\u9f4a"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e3\u10e0\u10e3\u10db\u10e9\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u70cf\u9b6f\u6728\u9f4a"
@@ -544,11 +568,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85669753,
         102191569,
         85632695,
-        890516251,
         136253041,
-        85669753
+        890516251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -579,7 +603,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1608688189,
+    "wof:lastmodified":1690867272,
     "wof:megacity":1,
     "wof:name":"Urunchi",
     "wof:parent_id":890516251,

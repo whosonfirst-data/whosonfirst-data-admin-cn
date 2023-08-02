@@ -34,8 +34,14 @@
     "name:aze_x_preferred":[
         "\u00c7jentszyan"
     ],
+    "name:bel_x_preferred":[
+        "\u0427\u0436\u044d\u043d\u044c\u0446\u0437\u044f\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u099d\u09c7\u09a8\u099c\u09bf\u09af\u09bc\u09be\u0982"
+    ],
+    "name:ben_x_variant":[
+        "\u099a\u09c7\u09a8\u099a\u09bf\u09af\u09bc\u09be\u0982"
     ],
     "name:bod_x_preferred":[
         "\u0f40\u0fb2\u0f7a\u0f53\u0f0b\u0f45\u0f44\u0f0b\u0f0d"
@@ -54,6 +60,9 @@
     ],
     "name:ces_x_preferred":[
         "\u010cen-\u0165iang"
+    ],
+    "name:cym_x_preferred":[
+        "Zhenjiang"
     ],
     "name:dan_x_preferred":[
         "Zhenjiang"
@@ -91,11 +100,17 @@
     "name:gan_x_preferred":[
         "\u9547\u6c5f\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Zhenjiang"
+    ],
     "name:guj_x_preferred":[
         "\u0a9d\u0ac7\u0a82\u0a9c\u0abf\u0aaf\u0abe\u0a82\u0a97"
     ],
     "name:heb_x_preferred":[
         "\u05d6'\u05e0\u05d2'\u05d9\u05d0\u05e0\u05d2"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2'\u05e0\u05d2'\u05d9\u05d0\u05e0\u05d2"
     ],
     "name:hin_x_preferred":[
         "\u091c\u093c\u0939\u0947\u0928\u091c\u093f\u092f\u093e\u0902\u0917"
@@ -127,6 +142,12 @@
     "name:kor_x_variant":[
         "\uc804\uc7a5\uc2dc"
     ],
+    "name:kur_x_preferred":[
+        "Zhenjiang"
+    ],
+    "name:lat_x_preferred":[
+        "Zhenjiang"
+    ],
     "name:lav_x_preferred":[
         "\u017dendzianga"
     ],
@@ -138,6 +159,9 @@
     ],
     "name:mar_x_preferred":[
         "\u091d\u0947\u0902\u091c\u093f\u092f\u093e\u0902\u0917"
+    ],
+    "name:mlg_x_preferred":[
+        "Zhenjiang"
     ],
     "name:msa_x_preferred":[
         "Zhenjiang"
@@ -174,6 +198,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dd9\u0db1\u0dca\u0da2\u0dd2\u0dba\u0dd0\u0db1\u0dca\u0d9c\u0dca"
+    ],
+    "name:slv_x_preferred":[
+        "D\u017eend\u017ejang"
     ],
     "name:spa_x_preferred":[
         "Zhenjiang"
@@ -214,6 +241,9 @@
     "name:urd_x_preferred":[
         "\u0698\u06cc\u0646\u062c\u06cc\u0627\u0646\u06af"
     ],
+    "name:vec_x_preferred":[
+        "Zhenjiang"
+    ],
     "name:vie_x_preferred":[
         "Tr\u1ea5n Giang"
     ],
@@ -230,7 +260,8 @@
         "\u9547\u6c5f"
     ],
     "name:zho_x_variant":[
-        "\u9547\u6c5f\u5e02"
+        "\u9547\u6c5f\u5e02",
+        "\u93ae\u6c5f\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -373,7 +404,7 @@
         }
     ],
     "wof:id":102026897,
-    "wof:lastmodified":1636503611,
+    "wof:lastmodified":1690867275,
     "wof:megacity":1,
     "wof:name":"Zhenjiang",
     "wof:parent_id":1108732521,

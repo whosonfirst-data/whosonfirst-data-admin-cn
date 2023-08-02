@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0641\u0646\u063a\u062a\u0627\u064a"
     ],
+    "name:cdo_x_preferred":[
+        "H\u016dng-d\u00e0i-k\u1e73\u0306"
+    ],
     "name:ceb_x_preferred":[
         "Fengtai Qu"
     ],
@@ -48,6 +51,12 @@
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05d9\u05d2'\u05d9\u05e0\u05d2/\u05e8\u05d5\u05d1\u05e2 \u05e4\u05e0\u05d2\u05d8\u05d0\u05d9"
+    ],
+    "name:heb_x_variant":[
+        "\u05e8\u05d5\u05d1\u05e2 \u05e4\u05e0\u05d2\u05d8\u05d0\u05d9"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0565\u0576\u057f\u0561\u0575"
     ],
     "name:ind_x_preferred":[
         "Distrik Fengtai"
@@ -88,6 +97,9 @@
     "name:tur_x_preferred":[
         "Fengtai"
     ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0435\u043d\u0442\u0430\u0439"
+    ],
     "name:und_x_variant":[
         "Feng-t\u2019ai Ch\u2019\u00fc"
     ],
@@ -96,6 +108,9 @@
     ],
     "name:vie_x_preferred":[
         "Phong \u0110\u00e0i"
+    ],
+    "name:war_x_preferred":[
+        "Distrito han Fengtai"
     ],
     "name:wuu_x_preferred":[
         "\u8c50\u81fa\u5340"
@@ -135,11 +150,11 @@
     "src:population":"geonames",
     "wd:wordcount":861,
     "wof:belongsto":[
+        85669727,
         102191569,
         85632695,
-        1108732371,
         136253041,
-        85669727
+        1108732371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -162,7 +177,7 @@
         }
     ],
     "wof:id":890514371,
-    "wof:lastmodified":1587428651,
+    "wof:lastmodified":1690867607,
     "wof:name":"Fengtai Qu",
     "wof:parent_id":1108732371,
     "wof:placetype":"localadmin",

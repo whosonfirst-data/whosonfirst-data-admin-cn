@@ -56,6 +56,9 @@
     "name:ben_x_preferred":[
         "\u099b\u09cb\u0982\u099b\u09bf\u0982"
     ],
+    "name:ben_x_variant":[
+        "\u099b\u09c1\u0982\u099b\u09bf\u0982"
+    ],
     "name:bod_x_preferred":[
         "\u0f41\u0fb2\u0f74\u0f44\u0f0b\u0f46\u0f72\u0f53\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0d"
     ],
@@ -88,6 +91,9 @@
     ],
     "name:chy_x_preferred":[
         "Chongqing"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0686\u06c6\u0646\u06af\u0686\u06cc\u0646\u06af"
     ],
     "name:cor_x_preferred":[
         "Chongqing"
@@ -185,7 +191,16 @@
     "name:hye_x_preferred":[
         "\u0549\u0578\u0582\u0576\u0581\u056b\u0576"
     ],
+    "name:hyw_x_preferred":[
+        "\u0549\u0578\u0576\u056f\u0584\u056b\u0576\u056f"
+    ],
+    "name:ido_x_preferred":[
+        "Chongqing"
+    ],
     "name:ile_x_preferred":[
+        "Chongqing"
+    ],
+    "name:ina_x_preferred":[
         "Chongqing"
     ],
     "name:ind_x_preferred":[
@@ -223,6 +238,9 @@
     ],
     "name:kor_x_variant":[
         "\ucda9\uce6d\uc2dc"
+    ],
+    "name:kur_x_preferred":[
+        "Chongqing"
     ],
     "name:lat_x_preferred":[
         "Chungkina"
@@ -290,6 +308,9 @@
     "name:oci_x_preferred":[
         "Chongqing"
     ],
+    "name:oss_x_preferred":[
+        "\u0427\u0443\u043d\u0446\u0438\u043d"
+    ],
     "name:pam_x_preferred":[
         "Chongqing"
     ],
@@ -320,6 +341,9 @@
     "name:sah_x_preferred":[
         "\u0427\u0443\u043d\u0446\u0438\u043d"
     ],
+    "name:sat_x_preferred":[
+        "\u1c6a\u1c77\u1c69\u1c5d \u1c6a\u1c77\u1c64\u1c5d"
+    ],
     "name:sco_x_preferred":[
         "Chongqing"
     ],
@@ -333,7 +357,8 @@
         "Chongqing"
     ],
     "name:slv_x_variant":[
-        "\u010cunking"
+        "\u010cunking",
+        "\u010cong\u010ding"
     ],
     "name:spa_x_preferred":[
         "Chongqing"
@@ -351,6 +376,9 @@
         "Chongqing"
     ],
     "name:swe_x_preferred":[
+        "Chongqing"
+    ],
+    "name:szl_x_preferred":[
         "Chongqing"
     ],
     "name:tam_x_preferred":[
@@ -389,6 +417,9 @@
     "name:urd_x_preferred":[
         "\u0686\u0648\u0646\u06af \u06a9\u06cc\u0646\u06af"
     ],
+    "name:urd_x_variant":[
+        "\u0686\u06be\u0648\u0646\u06af \u0686\u06be\u0646\u06af"
+    ],
     "name:uzb_x_preferred":[
         "Chunsin"
     ],
@@ -412,6 +443,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10e9\u10e3\u10dc\u10ea\u10d8\u10dc\u10d8"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d8\u05e9\u05d5\u05e0\u05d2\u05d8\u05e9\u05d9\u05e0\u05d2"
     ],
     "name:yue_x_preferred":[
         "\u91cd\u6176"
@@ -546,11 +580,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85669725,
         102191569,
         85632695,
-        890513063,
         136253041,
-        85669725
+        890513063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -576,7 +610,7 @@
         }
     ],
     "wof:id":102027689,
-    "wof:lastmodified":1608688184,
+    "wof:lastmodified":1690867170,
     "wof:megacity":1,
     "wof:name":"Chongqing",
     "wof:parent_id":890513063,
