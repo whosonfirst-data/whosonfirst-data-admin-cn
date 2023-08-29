@@ -22,14 +22,26 @@
     "name:ceb_x_preferred":[
         "Yuxia"
     ],
+    "name:cym_x_preferred":[
+        "Yuxia"
+    ],
     "name:eng_x_preferred":[
         "Yuxia"
     ],
     "name:gan_x_preferred":[
         "\u4f59\u4e0b\u9547"
     ],
+    "name:gan_x_variant":[
+        "\u4f59\u4e0b\u8857\u9053"
+    ],
     "name:jpn_x_preferred":[
         "\u4f59\u4e0b\u93ae"
+    ],
+    "name:jpn_x_variant":[
+        "\u4f59\u4e0b\u8857\u9053"
+    ],
+    "name:mlg_x_preferred":[
+        "Yuxia"
     ],
     "name:nob_x_preferred":[
         "Yuxia"
@@ -43,12 +55,16 @@
     "name:wuu_x_preferred":[
         "\u4f59\u4e0b\u9547"
     ],
+    "name:wuu_x_variant":[
+        "\u4f59\u4e0b\u8857\u9053"
+    ],
     "name:zho_x_preferred":[
         "\u4f59\u4e0b"
     ],
     "name:zho_x_variant":[
         "\u4f59\u4e0b\u9547",
-        "\u5408\u6c34\u53bf"
+        "\u5408\u6c34\u53bf",
+        "\u4f59\u4e0b\u8857\u9053"
     ],
     "qs:name":"Yuxia",
     "qs:photos_9r":0,
@@ -85,7 +101,7 @@
         }
     ],
     "wof:id":890513291,
-    "wof:lastmodified":1566693725,
+    "wof:lastmodified":1690867660,
     "wof:name":"Yuxia",
     "wof:parent_id":890515687,
     "wof:placetype":"locality",

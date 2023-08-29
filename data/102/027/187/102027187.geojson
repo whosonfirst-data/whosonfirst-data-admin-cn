@@ -32,8 +32,14 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09bf\u09af\u09bc\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8-\u0987\u09af\u09bc\u09be"
+    ],
     "name:bod_x_preferred":[
         "\u0f66\u0f53\u0f0b\u0f61\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0d"
+    ],
+    "name:cat_x_preferred":[
+        "Sanya"
     ],
     "name:cdo_x_preferred":[
         "S\u0103ng-\u0101"
@@ -55,6 +61,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03ac\u03bd\u03b3\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03bd\u03b9\u03ac"
     ],
     "name:eng_x_preferred":[
         "Sanya"
@@ -83,11 +92,17 @@
     "name:heb_x_preferred":[
         "\u05e1\u05e0\u05d9\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05e1\u05d0\u05df-\u05d9\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u093e\u0928\u094d\u092f\u093e"
     ],
     "name:hun_x_preferred":[
         "Sanya"
+    ],
+    "name:hun_x_variant":[
+        "Szanja"
     ],
     "name:ind_x_preferred":[
         "Sanya"
@@ -112,6 +127,9 @@
     ],
     "name:kor_x_variant":[
         "\uc2fc\uc57c\uc2dc"
+    ],
+    "name:kur_x_preferred":[
+        "Sanya"
     ],
     "name:lav_x_preferred":[
         "Sanja"
@@ -142,6 +160,9 @@
     ],
     "name:nor_x_preferred":[
         "Sanya"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0430\u043d\u044c\u044f"
     ],
     "name:pam_x_preferred":[
         "Sanya"
@@ -203,6 +224,9 @@
     "name:vie_x_preferred":[
         "Tam \u00c1"
     ],
+    "name:vie_x_variant":[
+        "Tam"
+    ],
     "name:war_x_preferred":[
         "Sanya"
     ],
@@ -211,6 +235,9 @@
     ],
     "name:yue_x_preferred":[
         "\u4e09\u4e9e"
+    ],
+    "name:zha_x_preferred":[
+        "Sanhya"
     ],
     "name:zho_min_nan_x_preferred":[
         "Sam-a-chh\u012b"
@@ -368,7 +395,7 @@
         }
     ],
     "wof:id":102027187,
-    "wof:lastmodified":1642551808,
+    "wof:lastmodified":1690867188,
     "wof:name":"Sanya",
     "wof:parent_id":1108732333,
     "wof:placetype":"locality",

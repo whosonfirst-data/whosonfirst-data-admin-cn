@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0634\u0648\u0644"
+    ],
     "name:deu_x_preferred":[
         "Shule"
     ],
     "name:eng_x_preferred":[
         "Shule County"
+    ],
+    "name:epo_x_preferred":[
+        "Shule"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0634\u0648\u0644\u0647"
@@ -66,6 +72,9 @@
         "Y\u00e9ngisheher",
         "\u064a\u06d0\u06ad\u0649\u0634\u06d5\u06be\u06d5\u0631",
         "\u0415\u04a3\u0438\u0448\u04d9\u04bb\u04d9\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u043d\u0433\u0456\u0448\u0430\u0440"
     ],
     "name:und_x_variant":[
         "Su-lo"
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":890516083,
-    "wof:lastmodified":1566693605,
+    "wof:lastmodified":1690867547,
     "wof:name":"\u758f\u52d2",
     "wof:parent_id":1108732391,
     "wof:placetype":"locality",

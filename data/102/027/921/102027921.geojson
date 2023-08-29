@@ -132,6 +132,9 @@
     "name:gan_x_preferred":[
         "\u54c8\u5c14\u6ee8\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Harbin"
+    ],
     "name:glg_x_preferred":[
         "Harbin"
     ],
@@ -164,6 +167,12 @@
     ],
     "name:hye_x_variant":[
         "\u0540\u0561\u0580\u0562\u056b\u0576"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0540\u0561\u0580\u057a\u056b\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Harbin"
     ],
     "name:ind_x_preferred":[
         "Harbin"
@@ -208,6 +217,9 @@
     ],
     "name:kor_x_variant":[
         "\ud558\uc5bc\ube48\uc2dc"
+    ],
+    "name:kur_x_preferred":[
+        "Harbin"
     ],
     "name:lad_x_preferred":[
         "Harbin"
@@ -338,6 +350,9 @@
     "name:tel_x_preferred":[
         "\u0c39\u0c3e\u0c30\u0c4d\u0c2c\u0c3f\u0c28\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u04b2\u043e\u0440\u0431\u0438\u043d"
+    ],
     "name:tgl_x_preferred":[
         "Harbin"
     ],
@@ -373,6 +388,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u54c8\u5c14\u6ee8\u5e02"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10f0\u10d0\u10e0\u10d1\u10d8\u10dc\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u54c8\u723e\u6ff1"
@@ -524,11 +542,11 @@
     "src:population":"geonames",
     "wd:wordcount":10827,
     "wof:belongsto":[
+        85669849,
         102191569,
         85632695,
-        890516235,
         136253041,
-        85669849
+        890516235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -559,7 +577,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1608688185,
+    "wof:lastmodified":1690867241,
     "wof:megacity":1,
     "wof:name":"Harbin",
     "wof:parent_id":890516235,

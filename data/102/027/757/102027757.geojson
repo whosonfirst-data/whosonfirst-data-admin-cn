@@ -26,8 +26,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0648\u062f\u064a\u0646\u063a"
     ],
+    "name:ast_x_preferred":[
+        "Baoding"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0430\u0434\u044b\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0993\u09a1\u09bf\u0982"
+    ],
+    "name:ben_x_variant":[
+        "\u09aa\u09be\u0993\u09a4\u09bf\u0982"
     ],
     "name:bre_x_preferred":[
         "Baoding"
@@ -49,6 +58,9 @@
     ],
     "name:ces_x_preferred":[
         "Pao-ting"
+    ],
+    "name:cym_x_preferred":[
+        "Baoding"
     ],
     "name:dan_x_preferred":[
         "Baoding"
@@ -91,8 +103,14 @@
     "name:gan_x_preferred":[
         "\u4fdd\u5b9a\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Baoding"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0a93\u0aa1\u0abf\u0a82\u0a97"
+    ],
+    "name:hau_x_preferred":[
+        "Baoding"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d0\u05d5\u05d3\u05d9\u05e0\u05d2"
@@ -127,6 +145,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0cbe\u0ccb\u0ca1\u0cbf\u0c82\u0c97\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10dd\u10e2\u10d8\u10dc\u10d2\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u0411\u0430\u043e\u0434\u0438\u043d"
     ],
@@ -138,6 +159,9 @@
     ],
     "name:kor_x_variant":[
         "\ubc14\uc624\ub529\uc2dc"
+    ],
+    "name:kur_x_preferred":[
+        "Baoding"
     ],
     "name:lav_x_preferred":[
         "Baodina"
@@ -228,6 +252,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0648\u0688\u0646\u06af"
+    ],
+    "name:vec_x_preferred":[
+        "Baoding"
     ],
     "name:vie_x_preferred":[
         "B\u1ea3o \u0110\u1ecbnh"
@@ -368,11 +395,11 @@
     "src:population":"geonames",
     "wd:wordcount":1898,
     "wof:belongsto":[
+        85669797,
         102191569,
         85632695,
-        890513095,
         136253041,
-        85669797
+        890513095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -403,7 +430,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1608688162,
+    "wof:lastmodified":1690867208,
     "wof:megacity":1,
     "wof:name":"Baoding",
     "wof:parent_id":890513095,

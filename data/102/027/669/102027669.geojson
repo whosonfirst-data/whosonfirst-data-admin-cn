@@ -41,6 +41,9 @@
     "name:ben_x_preferred":[
         "\u09a1\u09be\u09b2\u09bf\u09af\u09bc\u09be\u09a8"
     ],
+    "name:ben_x_variant":[
+        "\u09a4\u09be\u09b2\u09bf\u09af\u09bc\u09c7\u09a8"
+    ],
     "name:bre_x_preferred":[
         "Dalian"
     ],
@@ -63,6 +66,9 @@
         "Ta-lien"
     ],
     "name:che_x_preferred":[
+        "\u0414\u0430\u043b\u044f\u043d\u044c"
+    ],
+    "name:chv_x_preferred":[
         "\u0414\u0430\u043b\u044f\u043d\u044c"
     ],
     "name:cor_x_preferred":[
@@ -113,6 +119,12 @@
     "name:gan_x_preferred":[
         "\u5927\u8fde\u5e02"
     ],
+    "name:gan_x_variant":[
+        "\u5927\u9023\u5e02"
+    ],
+    "name:gle_x_preferred":[
+        "Dalian"
+    ],
     "name:glg_x_preferred":[
         "Dalian"
     ],
@@ -143,6 +155,9 @@
     "name:ind_x_preferred":[
         "Dalian"
     ],
+    "name:isl_x_preferred":[
+        "Dalian"
+    ],
     "name:ita_x_preferred":[
         "Dalian"
     ],
@@ -171,17 +186,29 @@
         "\ub300\ub828",
         "\ub2e4\ub844\uc2dc"
     ],
+    "name:kur_x_preferred":[
+        "Dalian"
+    ],
+    "name:lat_x_preferred":[
+        "Ultima Sinarum"
+    ],
     "name:lav_x_preferred":[
         "Dalia\u0146a"
     ],
     "name:lit_x_preferred":[
         "Dalianas"
     ],
+    "name:lzh_x_preferred":[
+        "\u5927\u9023\u5e02"
+    ],
     "name:mal_x_preferred":[
         "\u0d21\u0d3e\u0d32\u0d3f\u0d2f\u0d7b"
     ],
     "name:mar_x_preferred":[
         "\u0921\u0947\u0932\u093f\u092f\u0928"
+    ],
+    "name:mar_x_variant":[
+        "\u0926\u093e\u0932\u093f\u092f\u093e\u0928"
     ],
     "name:mkd_x_preferred":[
         "\u0414\u0430\u0459\u0435\u043d"
@@ -194,6 +221,9 @@
     ],
     "name:mon_x_variant":[
         "\u0414\u0430\u043b\u044f\u043d\u044c"
+    ],
+    "name:mri_x_preferred":[
+        "Dalian"
     ],
     "name:msa_x_preferred":[
         "Dalian"
@@ -243,6 +273,9 @@
     "name:sah_x_preferred":[
         "\u0414\u0430\u043b\u044f\u043d\u044c"
     ],
+    "name:sat_x_preferred":[
+        "\u1c70\u1c5f\u1c5e\u1c64\u1c6d\u1c5f\u1c71"
+    ],
     "name:sco_x_preferred":[
         "Dalian"
     ],
@@ -251,6 +284,9 @@
     ],
     "name:slv_x_preferred":[
         "Dalian"
+    ],
+    "name:slv_x_variant":[
+        "Daljan"
     ],
     "name:spa_x_preferred":[
         "Dalian"
@@ -293,6 +329,9 @@
     ],
     "name:uzb_x_preferred":[
         "Dalyan"
+    ],
+    "name:vec_x_preferred":[
+        "Dalian"
     ],
     "name:vie_x_preferred":[
         "\u0110\u1ea1i Li\u00ean"
@@ -433,11 +472,11 @@
     "src:population":"geonames",
     "wd:wordcount":8561,
     "wof:belongsto":[
+        85669807,
         102191569,
         85632695,
-        890515891,
         136253041,
-        85669807
+        890515891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -468,7 +507,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1608688172,
+    "wof:lastmodified":1690867180,
     "wof:megacity":1,
     "wof:name":"Dalian",
     "wof:parent_id":890515891,

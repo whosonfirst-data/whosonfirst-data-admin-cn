@@ -26,8 +26,14 @@
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0629 \u062c\u064a\u0644\u064a\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Jilin City"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09b2\u09bf\u09a8 \u09b6\u09b9\u09b0"
+    ],
+    "name:ben_x_variant":[
+        "\u099a\u09bf\u09b2\u09bf\u09a8 \u09a8\u0997\u09b0\u09c0"
     ],
     "name:bul_x_preferred":[
         "\u0414\u0437\u0438\u043b\u0438\u043d"
@@ -49,6 +55,9 @@
     ],
     "name:chv_x_preferred":[
         "\u0413\u0438\u0440\u0438\u043d"
+    ],
+    "name:csb_x_preferred":[
+        "Jilin"
     ],
     "name:dan_x_preferred":[
         "Jilin"
@@ -102,6 +111,9 @@
     "name:gan_x_preferred":[
         "\u5409\u6797\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Cathair Jilin"
+    ],
     "name:guj_x_preferred":[
         "\u0a9c\u0abf\u0ab2\u0abf\u0aa8 \u0ab6\u0ab9\u0ac7\u0ab0"
     ],
@@ -116,6 +128,9 @@
     ],
     "name:hun_x_preferred":[
         "Csilin"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u056b\u0580\u056b\u0576"
     ],
     "name:ind_x_preferred":[
         "Kota Jilin"
@@ -133,6 +148,9 @@
     "name:kan_x_preferred":[
         "\u0c9c\u0cbf\u0cb2\u0cbf\u0ca8\u0ccd \u0ca8\u0c97\u0cb0"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10e0\u10d8\u10dc\u10d8"
+    ],
     "name:kik_x_preferred":[
         "Jilin City"
     ],
@@ -145,6 +163,9 @@
     "name:kor_x_variant":[
         "\uc9c0\ub9b0 \uc2dc",
         "\uc9c0\ub9b0\uc2dc"
+    ],
+    "name:kur_x_preferred":[
+        "Jilin"
     ],
     "name:lat_x_preferred":[
         "Jilin"
@@ -188,6 +209,9 @@
     "name:oci_x_preferred":[
         "Jilin"
     ],
+    "name:oss_x_preferred":[
+        "\u0426\u0437\u0438\u043b\u0438\u043d\u044c"
+    ],
     "name:pan_x_preferred":[
         "\u0a1c\u0a3f\u0a32\u0a3f\u0a28"
     ],
@@ -221,6 +245,9 @@
     "name:swe_x_variant":[
         "Jilin"
     ],
+    "name:szl_x_preferred":[
+        "Jilin"
+    ],
     "name:tam_x_preferred":[
         "\u0b9c\u0bc0\u0bb2\u0bbf\u0ba9\u0bcd \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
     ],
@@ -239,8 +266,17 @@
     "name:ukr_x_preferred":[
         "\u0413\u0456\u0440\u0456\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u0413\u0456\u0440\u0438\u043d"
+    ],
     "name:urd_x_preferred":[
         "\u062c\u06cc\u0644\u0646 \u0634\u06c1\u0631"
+    ],
+    "name:uzb_x_preferred":[
+        "Girin"
+    ],
+    "name:vec_x_preferred":[
+        "Jilin"
     ],
     "name:vie_x_preferred":[
         "C\u00e1t L\u00e2m"
@@ -372,11 +408,11 @@
     "src:population":"geonames",
     "wd:wordcount":1903,
     "wof:belongsto":[
+        85669843,
         102191569,
         85632695,
-        890516735,
         136253041,
-        85669843
+        890516735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -407,7 +443,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1608688168,
+    "wof:lastmodified":1690867157,
     "wof:megacity":1,
     "wof:name":"Jilin",
     "wof:parent_id":890516735,

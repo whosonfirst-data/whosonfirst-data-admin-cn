@@ -25,8 +25,14 @@
     "name:ara_x_variant":[
         "\u0633\u0627\u0646\u062c\u064a\u0627\u0646\u063a"
     ],
+    "name:ast_x_preferred":[
+        "Sanjiang"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8\u099c\u09bf\u09af\u09bc\u09be\u0982"
+    ],
+    "name:cym_x_preferred":[
+        "Sanjiang"
     ],
     "name:dan_x_preferred":[
         "Sanjiang"
@@ -107,7 +113,7 @@
         "\u0b9a\u0b9e\u0bcd\u0b9a\u0bbf\u0b99\u0bcd"
     ],
     "name:tam_x_variant":[
-        "\u0b9a\u0b9e\u0bcd\u0b9a\u0bbf\u0b99\u0bcd"
+        "\u0b9a\u0b9e\u0bcd\u0b9a\u0bbf\u0b99\u0bcd "
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c02\u0c1c\u0c3f \u0c06\u0c02\u0c17\u0c4d \u0c32\u0c40 \u0c05\u0c28\u0c4d\u0c28\u0c28\u0c4d \u0c15\u0c02\u0c1f\u0c4d\u0c30\u0c40"
@@ -128,7 +134,8 @@
         "\u0633\u0627\u0646\u062c\u06cc\u0627\u0646\u062c \u060c \u0644\u06cc\u0627\u0646\u0646\u0627\u0646 \u06a9\u0627\u0624\u0646\u0679\u06cc"
     ],
     "name:urd_x_variant":[
-        "\u0633\u0627\u0646\u062c\u06cc\u0627\u0646\u062c"
+        "\u0633\u0627\u0646\u062c\u06cc\u0627\u0646\u062c",
+        "\u0633\u0627\u0646\u062c\u06cc\u0627\u0646\u062c "
     ],
     "name:vie_x_preferred":[
         "Tam Giang"
@@ -162,11 +169,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":196,
     "wof:belongsto":[
+        85669743,
         102191569,
         85632695,
-        890513267,
         136253041,
-        85669743
+        890513267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -191,7 +198,7 @@
         }
     ],
     "wof:id":102027191,
-    "wof:lastmodified":1587163111,
+    "wof:lastmodified":1690867201,
     "wof:name":"Sanjiang",
     "wof:parent_id":890513267,
     "wof:placetype":"locality",

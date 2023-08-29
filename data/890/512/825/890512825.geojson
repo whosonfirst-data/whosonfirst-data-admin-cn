@@ -31,8 +31,14 @@
     "name:gan_x_preferred":[
         "\u79ed\u5f52\u53bf"
     ],
+    "name:ind_x_preferred":[
+        "County Zigui"
+    ],
     "name:jpn_x_preferred":[
         "\u30b7\u5e30\u770c"
+    ],
+    "name:jpn_x_variant":[
+        "\u79ed\u5e30\u770c"
     ],
     "name:kor_x_preferred":[
         "\ucbd4\uad6c\uc774\ud604"
@@ -52,11 +58,20 @@
     "name:pol_x_preferred":[
         "Zigui"
     ],
+    "name:rus_x_preferred":[
+        "\u0426\u0437\u044b\u0433\u0443\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Zigui"
+    ],
     "name:swe_x_preferred":[
         "Zigui"
     ],
     "name:ukr_x_preferred":[
         "\u0426\u0437\u0438\u0491\u0443\u0439"
+    ],
+    "name:ukr_x_variant":[
+        "\u0426\u0437\u0438\u0433\u0443\u0439"
     ],
     "name:und_x_variant":[
         "Tzu-kuei Hsien"
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":890512825,
-    "wof:lastmodified":1566693753,
+    "wof:lastmodified":1690867699,
     "wof:name":"Zigui Xian",
     "wof:parent_id":890513331,
     "wof:placetype":"localadmin",

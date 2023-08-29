@@ -85,6 +85,12 @@
     "name:che_x_preferred":[
         "\u0413\u0430\u043d\u044c\u0441\u0443"
     ],
+    "name:ckb_x_preferred":[
+        "\u06af\u0627\u0646\u0633\u0648"
+    ],
+    "name:crh_x_preferred":[
+        "Kansu"
+    ],
     "name:cym_x_preferred":[
         "Gansu"
     ],
@@ -178,10 +184,19 @@
     "name:hye_x_preferred":[
         "\u0533\u0561\u0576\u057d\u0578\u0582"
     ],
+    "name:hyw_x_preferred":[
+        "\u053f\u0561\u0576\u057d\u0578\u0582"
+    ],
+    "name:ido_x_preferred":[
+        "Provinco Gansu"
+    ],
     "name:ina_x_preferred":[
         "Gansu"
     ],
     "name:ind_x_preferred":[
+        "Gansu"
+    ],
+    "name:isl_x_preferred":[
         "Gansu"
     ],
     "name:ita_x_preferred":[
@@ -213,6 +228,9 @@
     "name:kor_x_variant":[
         "\uac04\uc464\uc131"
     ],
+    "name:kur_x_preferred":[
+        "Gansu"
+    ],
     "name:lat_x_preferred":[
         "Gansu"
     ],
@@ -233,6 +251,9 @@
     ],
     "name:mlg_x_preferred":[
         "Gansu"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd2\uabdf\uabc1\uabe8"
     ],
     "name:mon_x_preferred":[
         "\u0413\u0430\u043d\u044c\u0441\u04af"
@@ -263,6 +284,9 @@
     ],
     "name:oci_x_preferred":[
         "Gansu"
+    ],
+    "name:oss_x_preferred":[
+        "\u0413\u0430\u043d\u044c\u0441\u0443"
     ],
     "name:pam_x_preferred":[
         "Gansu"
@@ -299,6 +323,9 @@
     ],
     "name:slv_x_preferred":[
         "Gansu"
+    ],
+    "name:snd_x_preferred":[
+        "\u06af\u064a\u0646\u0633\u0648 \u0635\u0648\u0628\u0648"
     ],
     "name:spa_x_preferred":[
         "Gansu"
@@ -341,6 +368,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0490\u0430\u043d\u044c\u0441\u0443"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0430\u043d\u044c\u0441\u0443"
     ],
     "name:und_x_variant":[
         "\u7518\u8085|\u7518\u8083"
@@ -540,7 +570,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1587428599,
+    "wof:lastmodified":1690867323,
     "wof:name":"Gansu",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

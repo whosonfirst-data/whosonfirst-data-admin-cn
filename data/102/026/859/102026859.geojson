@@ -27,8 +27,17 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0627\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Lu'an"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09c1'\u0986\u09a8"
+    ],
+    "name:ben_x_variant":[
+        "\u09b2\u09c1-\u0986\u09a8"
+    ],
+    "name:cat_x_preferred":[
+        "Lu\u2019an"
     ],
     "name:cdo_x_preferred":[
         "L\u0115\u0324k-\u0103ng"
@@ -69,11 +78,17 @@
     "name:gan_x_preferred":[
         "\u516d\u5b89\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Lu'an"
+    ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac1\u0a85\u0aa8"
     ],
     "name:hin_x_preferred":[
         "\u0932\u0941\u0906\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Luan"
     ],
     "name:hye_x_preferred":[
         "\u053c\u0578\u0582\u0561\u0576"
@@ -98,6 +113,9 @@
     ],
     "name:kor_x_variant":[
         "\ub8e8\uc548\uc2dc"
+    ],
+    "name:kur_x_preferred":[
+        "Lu'an"
     ],
     "name:lav_x_preferred":[
         "Lujana"
@@ -174,6 +192,9 @@
     "name:urd_x_preferred":[
         "\u0644\u0648\u0622\u0646"
     ],
+    "name:vec_x_preferred":[
+        "Lu'an"
+    ],
     "name:vie_x_preferred":[
         "L\u1ee5c An"
     ],
@@ -209,11 +230,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85669739,
         102191569,
         85632695,
-        890513745,
         136253041,
-        85669739
+        890513745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -239,7 +260,7 @@
         }
     ],
     "wof:id":102026859,
-    "wof:lastmodified":1608688164,
+    "wof:lastmodified":1690867262,
     "wof:megacity":1,
     "wof:name":"Liu\u2018an",
     "wof:parent_id":890513745,

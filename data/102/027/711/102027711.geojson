@@ -25,6 +25,9 @@
     "name:ben_x_preferred":[
         "\u099a\u09cd\u09af\u09be\u0982\u09af\u09bc\u09c7\u0987"
     ],
+    "name:cym_x_preferred":[
+        "Changyi"
+    ],
     "name:dan_x_preferred":[
         "Changyi"
     ],
@@ -76,6 +79,9 @@
     "name:kor_x_variant":[
         "\ucc3d\uc774\uc2dc"
     ],
+    "name:kur_x_preferred":[
+        "Changyi"
+    ],
     "name:lav_x_preferred":[
         "\u010cangi"
     ],
@@ -114,6 +120,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0b99\u0bcd\u0baf\u0bbf"
+    ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bbe\u0b99\u0bcd\u0baf\u0bbf "
     ],
     "name:tel_x_preferred":[
         "\u0c1a\u0c3e\u0c02\u0c17\u0c4d\u0c2f\u0c3f"
@@ -169,11 +178,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1869,
     "wof:belongsto":[
+        85669813,
         102191569,
         85632695,
-        890514755,
         136253041,
-        85669813
+        890514755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -199,7 +208,7 @@
         }
     ],
     "wof:id":102027711,
-    "wof:lastmodified":1587163112,
+    "wof:lastmodified":1690867243,
     "wof:name":"Changyi",
     "wof:parent_id":890514755,
     "wof:placetype":"locality",

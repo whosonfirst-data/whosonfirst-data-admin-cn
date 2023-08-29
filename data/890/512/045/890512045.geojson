@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u062a\u0634\u0646\u063a"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0456\u0447\u044d\u043d"
+    ],
+    "name:cdo_x_preferred":[
+        "S\u0103\u0324-si\u00e0ng-k\u1e73\u0306"
+    ],
     "name:ceb_x_preferred":[
         "Xicheng Qu"
     ],
@@ -49,14 +55,23 @@
     "name:fas_x_preferred":[
         "\u0634\u06cc\u0686\u0646\u06af"
     ],
+    "name:fin_x_preferred":[
+        "Xicheng"
+    ],
     "name:gan_x_preferred":[
         "\u897f\u57ce\u533a"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05d9\u05d2'\u05d9\u05e0\u05d2/\u05e8\u05d5\u05d1\u05e2 \u05e7\u05e1\u05d9\u05e6'\u05e0\u05d2"
     ],
+    "name:heb_x_variant":[
+        "\u05e8\u05d5\u05d1\u05e2 \u05e9\u05d9\u05e6'\u05e0\u05d2"
+    ],
     "name:hun_x_preferred":[
         "Hszicseng"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Xicheng"
     ],
     "name:jpn_x_preferred":[
         "\u897f\u57ce\u533a"
@@ -78,6 +93,12 @@
     ],
     "name:mwl_x_preferred":[
         "Xicheng"
+    ],
+    "name:mya_x_preferred":[
+        "\u101b\u103e\u102e\u1038\u1001\u103b\u1014\u103a\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:myv_x_preferred":[
+        "\u0421\u0438\u0447\u044d\u043d"
     ],
     "name:nan_x_preferred":[
         "Sai-si\u00e2\u207f-khu"
@@ -114,6 +135,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u00e2y Th\u00e0nh"
+    ],
+    "name:war_x_preferred":[
+        "Distrito han Xicheng"
     ],
     "name:wuu_x_preferred":[
         "\u897f\u57ce\u5340"
@@ -155,11 +179,11 @@
     "src:population":"geonames",
     "wd:wordcount":964,
     "wof:belongsto":[
+        85669727,
         102191569,
         85632695,
-        1108732371,
         136253041,
-        85669727
+        1108732371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -182,7 +206,7 @@
         }
     ],
     "wof:id":890512045,
-    "wof:lastmodified":1587428661,
+    "wof:lastmodified":1690867695,
     "wof:name":"Xicheng Qu",
     "wof:parent_id":1108732371,
     "wof:placetype":"localadmin",

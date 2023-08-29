@@ -26,8 +26,17 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u0627\u0646\u063a\u0645\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Jiangmen"
+    ],
+    "name:bel_x_preferred":[
+        "\u0426\u0437\u044f\u043d\u043c\u044d\u043d\u044c"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09af\u09bc\u09be\u0982\u09ae\u09c7\u09a8"
+    ],
+    "name:ben_x_variant":[
+        "\u099a\u09bf\u09af\u09bc\u09be\u0982\u09ae\u09c7\u09a8"
     ],
     "name:bre_x_preferred":[
         "Jiangmen"
@@ -91,6 +100,9 @@
     "name:gan_x_preferred":[
         "\u6c5f\u95e8\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Jiangmen"
+    ],
     "name:guj_x_preferred":[
         "\u0a9c\u0abf\u0a86\u0a82\u0a97\u0aae\u0ac5\u0aa8"
     ],
@@ -106,6 +118,9 @@
     "name:hun_x_preferred":[
         "Jiangmen"
     ],
+    "name:hun_x_variant":[
+        "Csiangmen"
+    ],
     "name:ind_x_preferred":[
         "Jiangmen"
     ],
@@ -118,6 +133,9 @@
     "name:kan_x_preferred":[
         "\u0c9c\u0cbf\u0caf\u0cbe\u0c82\u0c97\u0ccd\u0cae\u0cc6\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10eb\u10d8\u10d0\u10dc\u10d2\u10db\u10d4\u10dc\u10d8"
+    ],
     "name:kik_x_preferred":[
         "Jiangmen"
     ],
@@ -127,14 +145,23 @@
     "name:kor_x_variant":[
         "\uc7a5\uba3c\uc2dc"
     ],
+    "name:kur_x_preferred":[
+        "Jiangmen"
+    ],
     "name:lav_x_preferred":[
         "Dziangmena"
     ],
     "name:lit_x_preferred":[
         "Dziangmenas"
     ],
+    "name:lzh_x_preferred":[
+        "\u6c5f\u9580\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u091c\u093f\u092f\u093e\u0902\u0917\u092e\u0928"
+    ],
+    "name:mlg_x_preferred":[
+        "Jiangmen"
     ],
     "name:msa_x_preferred":[
         "Jiangmen"
@@ -208,8 +235,14 @@
     "name:ukr_x_preferred":[
         "\u0426\u0437\u044f\u043d\u043c\u0438\u043d\u044c"
     ],
+    "name:ukr_x_variant":[
+        "\u0426\u0437\u044f\u043d\u043c\u0435\u043d\u044c"
+    ],
     "name:urd_x_preferred":[
         "\u062c\u06cc\u0627\u0646\u06af\u0645\u06cc\u0646"
+    ],
+    "name:vec_x_preferred":[
+        "Jiangmen"
     ],
     "name:vie_x_preferred":[
         "Giang M\u00f4n"
@@ -222,6 +255,9 @@
     ],
     "name:yue_x_preferred":[
         "\u6c5f\u9580"
+    ],
+    "name:zha_x_preferred":[
+        "Gyanghmwnz"
     ],
     "name:zho_min_nan_x_preferred":[
         "Kang-mn\u0302g-chh\u012b"
@@ -384,7 +420,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1636503595,
+    "wof:lastmodified":1690867220,
     "wof:name":"Jiangmen",
     "wof:parent_id":890514609,
     "wof:placetype":"locality",

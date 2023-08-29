@@ -29,8 +29,17 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0627\u064a\u0627\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Huai'an"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u0443\u0430\u044f\u043d\u044c"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09c1\u09af\u09bc\u09be\u0987\u09af\u09bc\u09be\u09a8"
+    ],
+    "name:ben_x_variant":[
+        "\u09b9\u09c1\u09af\u09bc\u09be\u0987-\u0986\u09a8"
     ],
     "name:bre_x_preferred":[
         "Huai'an"
@@ -40,6 +49,9 @@
     ],
     "name:cdo_x_preferred":[
         "Hu\u00e0i-\u0103ng"
+    ],
+    "name:ceb_x_preferred":[
+        "Huai'an"
     ],
     "name:ces_x_preferred":[
         "Chuaj-an"
@@ -74,17 +86,26 @@
     "name:gan_x_preferred":[
         "\u6dee\u5b89\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Huai'an"
+    ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac1\u0a86\u0aaf\u0aa8"
     ],
     "name:heb_x_preferred":[
         "\u05d4\u05d5\u05d0\u05d9\u05d9\u05df"
     ],
+    "name:heb_x_variant":[
+        "\u05d7\u05d5\u05d5\u05d0\u05d9\u05d0\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u0939\u0948\u092f\u093e\u0928"
     ],
     "name:hun_x_preferred":[
         "Huaiyin"
+    ],
+    "name:hun_x_variant":[
+        "Huajan"
     ],
     "name:hye_x_preferred":[
         "\u0540\u0578\u0582\u0561\u0575\u0561\u0576"
@@ -110,6 +131,9 @@
     "name:kor_x_variant":[
         "\ud654\uc774\uc548\uc2dc"
     ],
+    "name:kur_x_preferred":[
+        "Huai'an"
+    ],
     "name:lav_x_preferred":[
         "Huaijana"
     ],
@@ -118,6 +142,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0939\u0941\u0908\u0905\u0928"
+    ],
+    "name:mlg_x_preferred":[
+        "Huai'an"
     ],
     "name:msa_x_preferred":[
         "Huai'an"
@@ -170,6 +197,9 @@
     "name:tha_x_preferred":[
         "\u0e2b\u0e27\u0e32\u0e22\u0e2d\u0e31\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e2b\u0e3a\u0e27\u0e32\u0e22\u0e2d\u0e32\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Huai'an"
     ],
@@ -179,11 +209,17 @@
     "name:ukr_x_preferred":[
         "\u0425\u0443\u0430\u0439\u0430\u043d\u044c"
     ],
+    "name:ukr_x_variant":[
+        "\u0425\u0443\u0430\u0439'\u0430\u043d\u044c"
+    ],
     "name:und_x_variant":[
         "Ch\u2019ing-chiang"
     ],
     "name:urd_x_preferred":[
         "\u06c1\u0648\u0627\u0626\u06cc\u0622\u0646"
+    ],
+    "name:vec_x_preferred":[
+        "Huai'an"
     ],
     "name:vie_x_preferred":[
         "Ho\u00e0i An"
@@ -343,7 +379,7 @@
         }
     ],
     "wof:id":890516653,
-    "wof:lastmodified":1636504295,
+    "wof:lastmodified":1690867571,
     "wof:megacity":1,
     "wof:name":"Huaiyin",
     "wof:parent_id":1108732465,

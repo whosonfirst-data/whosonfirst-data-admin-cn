@@ -20,14 +20,26 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646\u063a\u064a\u0627\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0646\u062c\u064a\u0627\u0648"
+    ],
     "name:ast_x_preferred":[
         "Pingyao"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09bf\u0982\u0987\u09af\u09bc\u09be\u0993"
     ],
     "name:bul_x_preferred":[
         "\u041f\u0438\u043d\u044f\u043e"
     ],
+    "name:cat_x_preferred":[
+        "Pingyao"
+    ],
     "name:ces_x_preferred":[
         "Pching-jao"
+    ],
+    "name:cym_x_preferred":[
+        "Pingyao"
     ],
     "name:dan_x_preferred":[
         "Pingyao"
@@ -53,6 +65,9 @@
     "name:gan_x_preferred":[
         "\u53e4\u9676\u9547"
     ],
+    "name:gan_x_variant":[
+        "\u5e73\u9065\u53e4\u57ce"
+    ],
     "name:heb_x_preferred":[
         "\u05e4\u05d9\u05e0\u05d2\u05d9\u05d0\u05d5"
     ],
@@ -67,6 +82,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u53e4\u9676\u93ae"
+    ],
+    "name:jpn_x_variant":[
+        "\u5e73\u9065\u53e4\u57ce"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10d8\u10dc\u10d8\u10d0\u10dd"
@@ -109,6 +127,12 @@
     ],
     "name:wuu_x_preferred":[
         "\u5e73\u9065\u53bf"
+    ],
+    "name:wuu_x_variant":[
+        "\u5e73\u9065\u53e4\u57ce"
+    ],
+    "name:yue_x_preferred":[
+        "\u5e73\u9059\u53e4\u57ce"
     ],
     "name:zho_x_preferred":[
         "\u5e73\u9065\u53e4\u57ce"
@@ -153,7 +177,7 @@
         }
     ],
     "wof:id":890516441,
-    "wof:lastmodified":1566693607,
+    "wof:lastmodified":1690867549,
     "wof:name":"\u5e73\u9065",
     "wof:parent_id":890513369,
     "wof:placetype":"locality",

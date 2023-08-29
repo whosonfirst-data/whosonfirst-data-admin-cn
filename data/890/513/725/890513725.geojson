@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"109.5703505,31.0401035,109.5703505,31.0401035",
+    "geom:bbox":"109.570351,31.040104,109.570351,31.040104",
     "geom:latitude":31.040104,
     "geom:longitude":109.570351,
     "gp:adm0":23424781,
@@ -17,8 +17,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:cdo_x_preferred":[
+        "H\u00f4ng-ci\u00e9k-g\u00e2ing"
+    ],
     "name:ceb_x_preferred":[
         "Fengjie Xian"
+    ],
+    "name:ces_x_preferred":[
+        "Feng-\u0165ie"
     ],
     "name:deu_x_preferred":[
         "Fengjie"
@@ -34,6 +40,9 @@
     ],
     "name:gan_x_preferred":[
         "\u5949\u8282\u53bf"
+    ],
+    "name:ind_x_preferred":[
+        "County Fengjie"
     ],
     "name:jpn_x_preferred":[
         "\u5949\u7bc0\u770c"
@@ -61,6 +70,12 @@
     ],
     "name:swe_x_preferred":[
         "Fengjie"
+    ],
+    "name:tur_x_preferred":[
+        "Fengjie"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u06cc\u0646\u06af\u062c\u0626\u06cc \u06a9\u0627\u0624\u0646\u0679\u06cc"
     ],
     "name:vie_x_preferred":[
         "Ph\u1ee5ng Ti\u1ebft"
@@ -102,7 +117,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055833,
-    "wof:geomhash":"81231d6374e7eee155da26cc520adb23",
+    "wof:geomhash":"40cce58b13cfdafa6906340cad7b4a07",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -114,7 +129,7 @@
         }
     ],
     "wof:id":890513725,
-    "wof:lastmodified":1566693712,
+    "wof:lastmodified":1690867643,
     "wof:name":"\u5949\u8282\u53bf",
     "wof:parent_id":890513063,
     "wof:placetype":"localadmin",
@@ -124,10 +139,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    109.5703505,
-    31.0401035,
-    109.5703505,
-    31.0401035
+    109.570351,
+    31.040104,
+    109.570351,
+    31.040104
 ],
-  "geometry": {"coordinates":[109.5703505,31.0401035],"type":"Point"}
+  "geometry": {"coordinates":[109.570351,31.040104],"type":"Point"}
 }

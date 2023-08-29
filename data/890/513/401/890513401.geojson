@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"105.707751,29.7134035,105.707751,29.7134035",
+    "geom:bbox":"105.707751,29.713403,105.707751,29.713403",
     "geom:latitude":29.713403,
     "geom:longitude":105.707751,
     "gp:adm0":23424781,
@@ -17,6 +17,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:cdo_x_preferred":[
+        "D\u00e2i-c\u00e9\u0324\u1e73k-k\u1e73\u0306"
+    ],
     "name:ceb_x_preferred":[
         "Dazu Xian"
     ],
@@ -59,8 +62,17 @@
     "name:rus_x_preferred":[
         "\u0414\u0430\u0446\u0437\u0443"
     ],
+    "name:spa_x_preferred":[
+        "Dazu"
+    ],
     "name:swe_x_preferred":[
         "Dazu"
+    ],
+    "name:tur_x_preferred":[
+        "Dazu"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0627\u0632\u0648 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "\u0110\u1ea1i T\u00fac"
@@ -102,7 +114,7 @@
     },
     "wof:country":"CN",
     "wof:created":1469055815,
-    "wof:geomhash":"7920d81462c87e6553e32e403a3e3c39",
+    "wof:geomhash":"7c538af3b30f9677a3b82fd6eea4c774",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":890513401,
-    "wof:lastmodified":1566693707,
+    "wof:lastmodified":1690867639,
     "wof:name":"\u5927\u8db3\u53bf",
     "wof:parent_id":890513063,
     "wof:placetype":"localadmin",
@@ -125,9 +137,9 @@
 },
   "bbox": [
     105.707751,
-    29.7134035,
+    29.713403,
     105.707751,
-    29.7134035
+    29.713403
 ],
-  "geometry": {"coordinates":[105.707751,29.7134035],"type":"Point"}
+  "geometry": {"coordinates":[105.707751,29.713403],"type":"Point"}
 }

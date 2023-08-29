@@ -25,8 +25,14 @@
     "name:ara_x_preferred":[
         "\u0647\u064a\u0648\u0627\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Heyuan"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09c7\u0987\u0989\u09af\u09bc\u09be\u09a8"
+    ],
+    "name:ben_x_variant":[
+        "\u09b9-\u0987\u0989\u09af\u09bc\u09be\u09a8"
     ],
     "name:cat_x_preferred":[
         "Heyuan"
@@ -70,17 +76,26 @@
     "name:gan_x_preferred":[
         "\u6cb3\u6e90\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Heyuan"
+    ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac7\u0aaf\u0ac1\u0a86\u0aa8"
     ],
     "name:hak_x_preferred":[
         "H\u00f2-ngi\u00e8n-s\u1e73"
     ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d9\u05d5\u05d0\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u0939\u0947\u092f\u0941\u0906\u0928"
     ],
     "name:hun_x_preferred":[
         "Heyuan"
+    ],
+    "name:hun_x_variant":[
+        "Hoj\u00fcan"
     ],
     "name:ind_x_preferred":[
         "Heyuan"
@@ -94,6 +109,9 @@
     "name:kan_x_preferred":[
         "\u0cb9\u0cc7\u0caf\u0cc1\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d4\u10d8\u10e3\u10d4\u10dc\u10d8"
+    ],
     "name:kik_x_preferred":[
         "Heyuan"
     ],
@@ -103,14 +121,23 @@
     "name:kor_x_variant":[
         "\ud5c8\uc704\uc548\uc2dc"
     ],
+    "name:kur_x_preferred":[
+        "Heyuan"
+    ],
     "name:lav_x_preferred":[
         "Hejuana"
     ],
     "name:lit_x_preferred":[
         "Hejuanas"
     ],
+    "name:lzh_x_preferred":[
+        "\u6cb3\u6e90\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u0939\u0947\u092f\u0941\u0928"
+    ],
+    "name:mlg_x_preferred":[
+        "Heyuan"
     ],
     "name:msa_x_preferred":[
         "Heyuan"
@@ -181,6 +208,9 @@
     "name:urd_x_preferred":[
         "\u06c1\u06cc\u0626\u0648\u0627\u0646"
     ],
+    "name:vec_x_preferred":[
+        "Heyuan"
+    ],
     "name:vie_x_preferred":[
         "H\u00e0 Nguy\u00ean"
     ],
@@ -192,6 +222,9 @@
     ],
     "name:yue_x_preferred":[
         "\u6cb3\u6e90"
+    ],
+    "name:zha_x_preferred":[
+        "Hozyenz"
     ],
     "name:zho_min_nan_x_preferred":[
         "H\u00f4-go\u00e2n-chh\u012b"
@@ -344,7 +377,7 @@
         }
     ],
     "wof:id":102026953,
-    "wof:lastmodified":1636503605,
+    "wof:lastmodified":1690867258,
     "wof:name":"Heyuan",
     "wof:parent_id":890514179,
     "wof:placetype":"locality",

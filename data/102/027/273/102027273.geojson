@@ -26,6 +26,9 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0646\u063a\u0628\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u064a\u0646\u062c\u0628\u0648"
+    ],
     "name:ast_x_preferred":[
         "Ningb\u00f3"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u0982\u09ac\u09cb"
+    ],
+    "name:ben_x_variant":[
+        "\u09a8\u09bf\u0982\u09aa\u09cb"
     ],
     "name:bre_x_preferred":[
         "Ningbo"
@@ -104,6 +110,9 @@
     "name:gan_x_preferred":[
         "\u5b81\u6ce2\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Ningbo"
+    ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abf\u0a82\u0a97\u0acd\u0aac\u0acb"
     ],
@@ -122,10 +131,16 @@
     "name:hun_x_preferred":[
         "Ningbo"
     ],
+    "name:hun_x_variant":[
+        "Ningpo"
+    ],
     "name:hye_x_preferred":[
         "\u0546\u056b\u0576\u0562\u0578"
     ],
     "name:ind_x_preferred":[
+        "Ningbo"
+    ],
+    "name:isl_x_preferred":[
         "Ningbo"
     ],
     "name:ita_x_preferred":[
@@ -191,6 +206,9 @@
     "name:oci_x_preferred":[
         "Ningbo"
     ],
+    "name:oss_x_preferred":[
+        "\u041d\u0438\u043d\u0431\u043e"
+    ],
     "name:pnb_x_preferred":[
         "\u0646\u0646\u06af\u0628\u0648"
     ],
@@ -218,10 +236,16 @@
     "name:spa_x_preferred":[
         "Ningb\u00f3"
     ],
+    "name:spa_x_variant":[
+        "Ningbo"
+    ],
     "name:srp_x_preferred":[
         "\u041d\u0438\u043d\u0433\u0431\u043e"
     ],
     "name:swe_x_preferred":[
+        "Ningbo"
+    ],
+    "name:szl_x_preferred":[
         "Ningbo"
     ],
     "name:tam_x_preferred":[
@@ -247,6 +271,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0646\u0646\u06af\u0628\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Ningbo"
     ],
     "name:vie_x_preferred":[
         "Ninh Ba"
@@ -387,11 +414,11 @@
     "src:population":"geonames",
     "wd:wordcount":4774,
     "wof:belongsto":[
+        85669835,
         102191569,
         85632695,
-        890516553,
         136253041,
-        85669835
+        890516553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -419,7 +446,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1608688172,
+    "wof:lastmodified":1690867167,
     "wof:megacity":1,
     "wof:name":"Ningbo",
     "wof:parent_id":890516553,

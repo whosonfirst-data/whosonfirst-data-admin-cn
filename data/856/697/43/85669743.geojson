@@ -50,11 +50,23 @@
     "name:ast_x_preferred":[
         "Guangdong"
     ],
+    "name:aze_x_preferred":[
+        "Quandun \u0259yal\u0259ti"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0413\u0443\u0430\u043d\u0434\u0443\u043d"
     ],
+    "name:bel_x_variant":[
+        "\u0413\u0443\u0430\u043d\u0434\u0443\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09af\u09bc\u09be\u0982\u09a4\u09c1\u0999"
+    ],
+    "name:ben_x_variant":[
+        "\u0995\u09c1\u09af\u09bc\u09be\u0982\u09a4\u09c1\u0982"
+    ],
+    "name:bho_x_preferred":[
+        "\u0917\u0941\u0906\u0902\u0917\u094d\u0921\u094b\u0902\u0917"
     ],
     "name:bod_x_preferred":[
         "\u0f40\u0f7c\u0f44\u0f0b\u0f4f\u0f74\u0f44\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
@@ -85,6 +97,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u06af\u0648\u0627\u0646\u06af\u062f\u06c6\u0646\u06af"
+    ],
+    "name:crh_x_preferred":[
+        "Guangdong"
     ],
     "name:cym_x_preferred":[
         "Guangdong"
@@ -170,6 +185,12 @@
     "name:hye_x_preferred":[
         "\u0533\u0578\u0582\u0561\u0576\u0564\u0578\u0582\u0576"
     ],
+    "name:hyw_x_preferred":[
+        "\u053f\u0578\u0582\u0561\u0576\u056f\u057f\u0578\u0576\u056f"
+    ],
+    "name:ido_x_preferred":[
+        "Provinco Guangdong"
+    ],
     "name:ina_x_preferred":[
         "Guangdong"
     ],
@@ -198,6 +219,9 @@
     "name:kaz_x_preferred":[
         "\u0413\u0443\u0430\u043d\u0434\u0443\u043d"
     ],
+    "name:khm_x_preferred":[
+        "\u1780\u17d2\u179c\u17b6\u1784\u178f\u17bb\u1784"
+    ],
     "name:kon_x_preferred":[
         "Guangdong"
     ],
@@ -207,6 +231,9 @@
     "name:kor_x_variant":[
         "\uad11\ub465\uc131"
     ],
+    "name:kur_x_preferred":[
+        "Guangdong"
+    ],
     "name:lat_x_preferred":[
         "Quantunia"
     ],
@@ -215,6 +242,9 @@
     ],
     "name:lit_x_preferred":[
         "Guangdongas"
+    ],
+    "name:lmo_x_preferred":[
+        "Guangdong"
     ],
     "name:lzh_x_preferred":[
         "\u5ee3\u6771\u7701"
@@ -230,6 +260,12 @@
     ],
     "name:mlg_x_preferred":[
         "Guangdong"
+    ],
+    "name:mlt_x_preferred":[
+        "Guangdong"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd2\uabed\uabcb\uabe5\uabe1\uabd7\uabe3\uabe1"
     ],
     "name:mon_x_preferred":[
         "\u0413\u0443\u0430\u043d\u0434\u0443\u043d \u043c\u0443\u0436"
@@ -276,6 +312,9 @@
     "name:por_x_preferred":[
         "Guangdong"
     ],
+    "name:por_x_variant":[
+        "Cant\u00e3o"
+    ],
     "name:que_x_preferred":[
         "Guangdong pruwinsya"
     ],
@@ -297,14 +336,21 @@
     "name:slv_x_preferred":[
         "Guangdong"
     ],
+    "name:snd_x_preferred":[
+        "\u06af\u0648\u0626\u064a\u0646\u06af\u068a\u0627\u0646\u06af \u0635\u0648\u0628\u0648"
+    ],
     "name:spa_x_preferred":[
         "Guangdong"
     ],
     "name:spa_x_variant":[
-        "Provincia de Cant\u00f3n"
+        "Provincia de Cant\u00f3n",
+        "Cant\u00f3n"
     ],
     "name:srp_x_preferred":[
         "\u0413\u0443\u0430\u043d\u0433\u0434\u0443\u043d\u0433"
+    ],
+    "name:sun_x_preferred":[
+        "Propinsi Guangdong"
     ],
     "name:swa_x_preferred":[
         "Guangdong"
@@ -533,7 +579,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1636503724,
+    "wof:lastmodified":1690867327,
     "wof:name":"Guangdong",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

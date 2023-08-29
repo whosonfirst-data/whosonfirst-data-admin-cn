@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u062a\u0627\u064a\u0643\u0627\u0646\u063a"
     ],
+    "name:ast_x_preferred":[
+        "Taikang"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u0987\u0995\u09be\u0982"
     ],
@@ -32,6 +35,9 @@
         "D\u00f6rb\u00f6d"
     ],
     "name:ceb_x_preferred":[
+        "Taikang"
+    ],
+    "name:cym_x_preferred":[
         "Taikang"
     ],
     "name:dan_x_preferred":[
@@ -98,7 +104,7 @@
         "\u0da7\u0dcf\u0dba\u0dd2\u0d9a\u0dd0\u0db1\u0dca\u0d9c\u0dca"
     ],
     "name:sin_x_variant":[
-        "\u0da7\u0dcf\u0dba\u0dd2\u0d9a\u0dd0\u0db1\u0dca\u0d9c\u0dca"
+        "\u0da7\u0dcf\u0dba\u0dd2\u0d9a\u0dd0\u0db1\u0dca\u0d9c\u0dca "
     ],
     "name:swe_x_preferred":[
         "Taikang"
@@ -125,7 +131,8 @@
         "\u062a\u0627\u06cc\u06a9\u0627\u0646\u062c \u060c \u062f\u0648\u0631\u0628\u0648\u062f \u06a9\u0627\u0624\u0646\u0679\u06cc"
     ],
     "name:urd_x_variant":[
-        "\u062a\u0627\u06cc\u06a9\u0627\u0646\u062c"
+        "\u062a\u0627\u06cc\u06a9\u0627\u0646\u062c",
+        "\u062a\u0627\u06cc\u06a9\u0627\u0646\u062c "
     ],
     "name:vie_x_preferred":[
         "Th\u00e1i Khang Tr\u1ea5n"
@@ -139,7 +146,8 @@
     "name:zho_x_variant":[
         "\u6cf0\u5eb7\u9547",
         "\u675c\u5c14\u4f2f\u7279",
-        "\u675c\u5c14\u4f2f\u7279\u8499\u53e4\u65cf\u81ea\u6cbb\u53bf"
+        "\u675c\u5c14\u4f2f\u7279\u8499\u53e4\u65cf\u81ea\u6cbb\u53bf",
+        "\u675c\u5c14\u4f2f\u7279\u9547"
     ],
     "qs:name":"Taikang",
     "qs:photos_9r":0,
@@ -148,11 +156,11 @@
     "src:population":"geonames",
     "wd:wordcount":46,
     "wof:belongsto":[
+        85669849,
         102191569,
         85632695,
-        890513007,
         136253041,
-        85669849
+        890513007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -176,7 +184,7 @@
         }
     ],
     "wof:id":890513313,
-    "wof:lastmodified":1587163144,
+    "wof:lastmodified":1690867647,
     "wof:name":"Taikang",
     "wof:parent_id":890513007,
     "wof:placetype":"locality",

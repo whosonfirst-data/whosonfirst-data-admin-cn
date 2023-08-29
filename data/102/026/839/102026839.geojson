@@ -27,8 +27,17 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u0646\u0647\u0648\u0627\u0646\u063a"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0648\u0646\u0647\u0648\u0627\u0646\u062c"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u0443\u043d\u044c\u0445\u0443\u0430\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u09a1\u09cb\u09a8\u09b9\u09cb\u09af\u09bc\u09be\u0982"
+    ],
+    "name:ben_x_variant":[
+        "\u09a4\u09c1\u09a8\u09b9\u09cb\u09af\u09bc\u09be\u0982"
     ],
     "name:bod_x_preferred":[
         "\u0f4f\u0f74\u0f53\u0f0b\u0f67\u0f7c\u0f44\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0d"
@@ -51,6 +60,9 @@
     "name:ces_x_preferred":[
         "Tun-chuang"
     ],
+    "name:cym_x_preferred":[
+        "Dunhuang"
+    ],
     "name:dan_x_preferred":[
         "Dunhuang"
     ],
@@ -64,6 +76,9 @@
         "Dunhuang"
     ],
     "name:epo_x_preferred":[
+        "Dunhuang"
+    ],
+    "name:eus_x_preferred":[
         "Dunhuang"
     ],
     "name:fas_x_preferred":[
@@ -119,6 +134,9 @@
     ],
     "name:kor_x_variant":[
         "\ub454\ud669\uc2dc"
+    ],
+    "name:kur_x_preferred":[
+        "Dunhuang"
     ],
     "name:lav_x_preferred":[
         "Dun\u010duanga"
@@ -377,7 +395,7 @@
         }
     ],
     "wof:id":102026839,
-    "wof:lastmodified":1636503610,
+    "wof:lastmodified":1690867274,
     "wof:name":"Dunhuang",
     "wof:parent_id":890515159,
     "wof:placetype":"locality",

@@ -103,11 +103,17 @@
     "name:rus_x_variant":[
         "\u0412\u0430\u043d\u0446\u0438\u043d"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd0\u0db1\u0dca\u0d9c\u0dca\u0d9a\u0dd4\u0dba\u0dd2\u0db1\u0dca\u0d9c\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
     "name:spa_x_preferred":[
         "Wangqing"
     ],
     "name:swe_x_preferred":[
         "Wangqing"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bcd\u0b99\u0bcd \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c3e\u0c02\u0c17\u0c4d\u0c15\u0c3f\u0c02\u0c17\u0c4d \u0c15\u0c4c\u0c02\u0c1f\u0c40"
@@ -120,6 +126,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041e\u043a\u0440\u0443\u0433 \u0412\u0430\u043d\u0446\u0456\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0430\u043d\u0446\u0456\u043d"
     ],
     "name:und_x_variant":[
         "Ta-wang-kou"
@@ -273,7 +282,7 @@
         }
     ],
     "wof:id":890513699,
-    "wof:lastmodified":1636504320,
+    "wof:lastmodified":1690867659,
     "wof:name":"Wangqing",
     "wof:parent_id":1108732421,
     "wof:placetype":"locality",

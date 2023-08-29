@@ -22,6 +22,9 @@
     "name:ast_x_preferred":[
         "Changning"
     ],
+    "name:cdo_x_preferred":[
+        "Di\u00f2ng-n\u00ecng-k\u1e73\u0306"
+    ],
     "name:ceb_x_preferred":[
         "Changning Qu"
     ],
@@ -46,11 +49,17 @@
     "name:heb_x_preferred":[
         "\u05e9\u05d0\u05e0\u05d2\u05d7\u05d0\u05d9/\u05e6'\u05d0\u05e0\u05d2\u05e0\u05d9\u05e0\u05d2"
     ],
+    "name:hye_x_preferred":[
+        "\u0549\u0561\u0576\u056b\u0576"
+    ],
     "name:jpn_x_preferred":[
         "\u9577\u5be7\u533a"
     ],
     "name:kor_x_preferred":[
         "\ucc3d\ub2dd\uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "\u010cangningas"
     ],
     "name:nan_x_preferred":[
         "Ti\u00f4ng-l\u00eang-khu"
@@ -79,8 +88,14 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u0427\u0430\u043d\u043d\u0456\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u0427\u0430\u043d\u043d\u0456\u043d"
+    ],
     "name:und_x_variant":[
         "Ch\u2019ang-ning Shih-ch\u2019\u00fc"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0627\u0646\u06af\u0646\u06cc\u0646\u06af \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Tr\u01b0\u1eddng Ninh"
@@ -95,7 +110,8 @@
         "\u957f\u5b81\u533a"
     ],
     "name:zho_x_variant":[
-        "\u957f\u5b81"
+        "\u957f\u5b81",
+        "\u9577\u5be7\u5340"
     ],
     "qs:name":"Changning Qu",
     "qs:photos_9r":0,
@@ -131,7 +147,7 @@
         }
     ],
     "wof:id":890514199,
-    "wof:lastmodified":1566693682,
+    "wof:lastmodified":1690867615,
     "wof:name":"Changning Qu",
     "wof:parent_id":890514815,
     "wof:placetype":"localadmin",

@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ast_x_preferred":[
+        "Wuzhen"
+    ],
+    "name:cym_x_preferred":[
+        "Wuzhen"
+    ],
     "name:deu_x_preferred":[
         "Wuzhen"
     ],
@@ -36,6 +42,9 @@
     ],
     "name:gan_x_preferred":[
         "\u4e4c\u9547\u9547"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5-\u05d6'\u05d0\u05df"
     ],
     "name:ita_x_preferred":[
         "Wuzhen"
@@ -58,6 +67,9 @@
     "name:rus_x_preferred":[
         "\u0412\u0443\u0447\u0436\u0435\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0423\u0447\u0436\u044d\u043d\u044c"
+    ],
     "name:spa_x_preferred":[
         "Wuzhen"
     ],
@@ -67,8 +79,14 @@
     "name:ukr_x_preferred":[
         "\u0412\u0443\u0447\u0436\u0435\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u0423\u0447\u0436\u0435\u043d\u044c"
+    ],
     "name:und_x_variant":[
         "T\u2019ung-hsiang"
+    ],
+    "name:vie_x_preferred":[
+        "\u00d4 Tr\u1ea5n"
     ],
     "name:wuu_x_preferred":[
         "\u4e4c\u9547"
@@ -114,7 +132,7 @@
         }
     ],
     "wof:id":890512681,
-    "wof:lastmodified":1566693737,
+    "wof:lastmodified":1690867674,
     "wof:name":"Wuzhen",
     "wof:parent_id":890514635,
     "wof:placetype":"locality",

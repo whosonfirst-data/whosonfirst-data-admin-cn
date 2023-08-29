@@ -29,11 +29,17 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0634\u0648\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Fushun"
+    ],
     "name:bel_x_preferred":[
         "\u0424\u0443\u0448\u0443\u043d\u044c"
     ],
     "name:ben_x_preferred":[
         "\u09ab\u09c1\u09b8\u09c7\u09a8"
+    ],
+    "name:ben_x_variant":[
+        "\u09ab\u09c1\u09b6\u09c1\u09a8"
     ],
     "name:bre_x_preferred":[
         "Fushun"
@@ -55,6 +61,9 @@
     ],
     "name:che_x_preferred":[
         "\u0424\u0443\u0448\u0443\u043d\u044c"
+    ],
+    "name:cym_x_preferred":[
+        "Fushun"
     ],
     "name:dan_x_preferred":[
         "Fushun"
@@ -89,6 +98,9 @@
     "name:gan_x_preferred":[
         "\u629a\u987a\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Fushun"
+    ],
     "name:guj_x_preferred":[
         "\u0aab\u0ac1\u0ab6\u0aa8"
     ],
@@ -100,6 +112,9 @@
     ],
     "name:hun_x_preferred":[
         "Fusun"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0578\u0582\u0577\u0578\u0582\u0576"
     ],
     "name:ind_x_preferred":[
         "Fushun"
@@ -113,6 +128,9 @@
     "name:kan_x_preferred":[
         "\u0cab\u0cc1\u0cb6\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10e3\u10e8\u10e3\u10dc\u10d8"
+    ],
     "name:kik_x_preferred":[
         "Fushun"
     ],
@@ -121,6 +139,9 @@
     ],
     "name:kor_x_variant":[
         "\ud478\uc21c\uc2dc"
+    ],
+    "name:kur_x_preferred":[
+        "Fushun"
     ],
     "name:lav_x_preferred":[
         "Fu\u0161una"
@@ -157,6 +178,9 @@
     ],
     "name:oci_x_preferred":[
         "Fushun"
+    ],
+    "name:oss_x_preferred":[
+        "\u0424\u0443\u0448\u0443\u043d\u044c"
     ],
     "name:pan_x_preferred":[
         "\u0a2b\u0a3c\u0a41\u0a38\u0a3c\u0a41\u0a28"
@@ -197,6 +221,9 @@
     "name:tha_x_preferred":[
         "\u0e1f\u0e39\u0e0b\u0e38\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e1d\u0e39\u0e48\u0e0a\u0e38\u0e48\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Fushun"
     ],
@@ -208,6 +235,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0641\u0648\u0634\u0648\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Fushun"
+    ],
+    "name:vec_x_preferred":[
+        "Fushun"
     ],
     "name:vie_x_preferred":[
         "Ph\u1ee7 Thu\u1eadn"
@@ -343,11 +376,11 @@
     "src:population":"geonames",
     "wd:wordcount":1998,
     "wof:belongsto":[
+        85669807,
         102191569,
         85632695,
-        890513011,
         136253041,
-        85669807
+        890513011
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -371,7 +404,7 @@
         }
     ],
     "wof:id":102027929,
-    "wof:lastmodified":1608688165,
+    "wof:lastmodified":1690867236,
     "wof:megacity":1,
     "wof:name":"Fushun",
     "wof:parent_id":890513011,

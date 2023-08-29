@@ -79,6 +79,9 @@
     "name:che_x_preferred":[
         "\u0426\u0438\u043d\u0445\u0430\u0439"
     ],
+    "name:crh_x_preferred":[
+        "\u00c7inghay"
+    ],
     "name:cym_x_preferred":[
         "Qinghai"
     ],
@@ -93,6 +96,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b9\u03bd\u03b3\u03ba\u03c7\u03ac\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c3\u03b9\u03bd\u03b3\u03ba\u03c7\u03ac\u03b9"
     ],
     "name:eng_ca_x_preferred":[
         "Qinghai"
@@ -169,10 +175,19 @@
     "name:hye_x_preferred":[
         "\u0551\u056b\u0576\u0570\u0561\u0575"
     ],
+    "name:hyw_x_preferred":[
+        "\u0554\u056b\u0576\u056f\u0570\u0561\u0575"
+    ],
+    "name:ido_x_preferred":[
+        "Provinco Qinghai"
+    ],
     "name:ina_x_preferred":[
         "Qinghai"
     ],
     "name:ind_x_preferred":[
+        "Qinghai"
+    ],
+    "name:isl_x_preferred":[
         "Qinghai"
     ],
     "name:ita_x_preferred":[
@@ -201,6 +216,9 @@
     "name:kor_x_variant":[
         "\uce6d\ud558\uc774\uc131"
     ],
+    "name:kur_x_preferred":[
+        "Qinghai"
+    ],
     "name:lat_x_preferred":[
         "Qinghai"
     ],
@@ -221,6 +239,9 @@
     ],
     "name:mlg_x_preferred":[
         "Qinghai"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc0\uabe4\uabe1\uabcd\uabe5\uabe2"
     ],
     "name:mon_x_preferred":[
         "\u0425\u04e9\u0445\u043d\u0443\u0443\u0440"
@@ -249,11 +270,17 @@
     "name:oci_x_preferred":[
         "Qinghai"
     ],
+    "name:oss_x_preferred":[
+        "\u0426\u0438\u043d\u0445\u0430\u0439"
+    ],
     "name:pam_x_preferred":[
         "Qinghai"
     ],
     "name:pnb_x_preferred":[
         "\u0686\u0646\u06af\u06c1\u0627\u06d3"
+    ],
+    "name:pnb_x_variant":[
+        "\u0635\u0648\u0628\u06c1 \u0686\u0646\u06af\u06be\u0627\u0626\u06cc"
     ],
     "name:pol_x_preferred":[
         "Qinghai"
@@ -284,6 +311,12 @@
     ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dd2\u0db1\u0dca\u0d9c\u0dca\u0dc4\u0dba\u0dd2"
+    ],
+    "name:slv_x_preferred":[
+        "\u010cinghaj"
+    ],
+    "name:snd_x_preferred":[
+        "\u0686\u0646\u06af\u06be\u0627\u0626\u064a \u0635\u0648\u0628\u0648"
     ],
     "name:spa_x_preferred":[
         "Qinghai"
@@ -344,6 +377,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u9752\u6d77\u7701"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10ea\u10d8\u10dc\u10ee\u10d0\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u9752\u6d77"
@@ -512,7 +548,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1587428613,
+    "wof:lastmodified":1690867333,
     "wof:name":"Qinghai",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

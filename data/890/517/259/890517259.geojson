@@ -29,12 +29,18 @@
         "\u09b2\u09cb\u099a\u09c7\u0982"
     ],
     "name:ben_x_variant":[
-        "\u09b2\u09cb\u099a\u09c7\u0982"
+        "\u09b2\u09cb\u099a\u09c7\u0982 "
     ],
     "name:bod_x_preferred":[
         "\u0f51\u0f62\u0f0b\u0f58\u0f51\u0f7c\u0f0d"
     ],
+    "name:bod_x_variant":[
+        "\u0f58\u0f51\u0f7c\u0f0b\u0f41\u0fb2\u0f72\u0f53\u0f0b\u0f62\u0fa1\u0f63\u0f0d"
+    ],
     "name:dan_x_preferred":[
+        "Lucheng"
+    ],
+    "name:deu_x_preferred":[
         "Lucheng"
     ],
     "name:ell_x_preferred":[
@@ -125,7 +131,7 @@
         "\u0bb2\u0bc2\u0b9a\u0bc7\u0b99\u0bcd"
     ],
     "name:tam_x_variant":[
-        "\u0bb2\u0bc2\u0b9a\u0bc7\u0b99\u0bcd"
+        "\u0bb2\u0bc2\u0b9a\u0bc7\u0b99\u0bcd "
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c42\u0c1a\u0c46\u0c02\u0c17\u0c4d"
@@ -146,7 +152,8 @@
         "\u0644\u0648\u0686\u06cc\u0646\u062c \u060c \u06a9\u0627\u0646\u062c\u062f\u06cc\u0646\u062c"
     ],
     "name:urd_x_variant":[
-        "\u0644\u0648\u0686\u06cc\u0646\u062c"
+        "\u0644\u0648\u0686\u06cc\u0646\u062c",
+        "\u0644\u0648\u0686\u06cc\u0646\u062c "
     ],
     "name:vie_x_preferred":[
         "L\u00f4 Th\u00e0nh"
@@ -157,6 +164,9 @@
     "name:zho_x_preferred":[
         "\u7089\u57ce\u9547"
     ],
+    "name:zho_x_variant":[
+        "\u7089\u57ce\u8857\u9053"
+    ],
     "qs:name":"Kangding",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -164,11 +174,11 @@
     "src:population":"geonames",
     "wd:wordcount":1161,
     "wof:belongsto":[
+        85669787,
         102191569,
         85632695,
-        890514703,
         136253041,
-        85669787
+        890514703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -192,7 +202,7 @@
         }
     ],
     "wof:id":890517259,
-    "wof:lastmodified":1587163144,
+    "wof:lastmodified":1690867535,
     "wof:name":"Kangding",
     "wof:parent_id":890514703,
     "wof:placetype":"locality",

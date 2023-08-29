@@ -2,6 +2,8 @@
   "id": 102550339,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"1997-08-28",
+    "date:inception_upper":"1997-08-28",
     "edtf:cessation":"..",
     "edtf:inception":"1997-08-28",
     "geom:area":0.0,
@@ -15,6 +17,9 @@
     "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u062a\u0634\u0646\u063a\u062a\u0634\u0648 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u062a\u0634\u0646\u062c \u0627\u0644\u062f\u0648\u0644\u0649"
     ],
     "name:ces_x_preferred":[
         "mezin\u00e1rodn\u00ed leti\u0161t\u011b \u010ceng-\u010dou Sin-\u010deng"
@@ -37,6 +42,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0698\u0646\u06af\u0698\u0648 \u0633\u06cc\u0646\u200c\u0698\u0646\u06af"
+    ],
+    "name:fin_x_preferred":[
+        "Zhengzhou Xinzhengin kansainv\u00e4linen lentoasema"
     ],
     "name:fra_x_preferred":[
         "a\u00e9roport international de Zhengzhou Xinzheng"
@@ -80,8 +88,17 @@
     "name:tha_x_preferred":[
         "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e19\u0e32\u0e19\u0e32\u0e0a\u0e32\u0e15\u0e34\u0e40\u0e08\u0e34\u0e49\u0e07\u0e42\u0e08\u0e27\u0e0b\u0e34\u0e19\u0e40\u0e08\u0e34\u0e49\u0e07"
     ],
+    "name:tur_x_preferred":[
+        "Zhengzhou Xinzheng Uluslararas\u0131 Havaliman\u0131"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf T\u00e2n Tr\u1ecbnh Tr\u1ecbnh Ch\u00e2u"
+    ],
+    "name:wuu_x_preferred":[
+        "\u90d1\u5dde\u65b0\u90d1\u56fd\u9645\u673a\u573a"
+    ],
+    "name:yue_x_preferred":[
+        "\u912d\u5dde\u65b0\u912d\u570b\u969b\u6a5f\u5834"
     ],
     "name:zho_x_preferred":[
         "\u90d1\u5dde\u65b0\u90d1\u56fd\u9645\u673a\u573a"
@@ -126,7 +143,7 @@
         }
     ],
     "wof:id":102550339,
-    "wof:lastmodified":1566655288,
+    "wof:lastmodified":1690867148,
     "wof:name":"Zhengzhou Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

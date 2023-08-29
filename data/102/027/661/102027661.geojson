@@ -28,6 +28,15 @@
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09a8\u09bf\u09af\u09bc\u09be\u0982"
     ],
+    "name:ben_x_variant":[
+        "\u09a4\u09be\u09a8\u09bf\u09af\u09bc\u09be\u0982 "
+    ],
+    "name:cat_x_preferred":[
+        "Danyang"
+    ],
+    "name:cym_x_preferred":[
+        "Danyang"
+    ],
     "name:dan_x_preferred":[
         "Danyang"
     ],
@@ -55,6 +64,9 @@
     "name:guj_x_preferred":[
         "\u0aa1\u0ac7\u0aa8\u0a86\u0a82\u0a97"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d0\u05df-\u05d9\u05d0\u05e0\u05d2"
+    ],
     "name:hin_x_preferred":[
         "\u0926\u093e\u0902\u092f\u093e\u0902\u0917"
     ],
@@ -78,6 +90,9 @@
     ],
     "name:kor_x_variant":[
         "\ub2e8\uc591\uc2dc"
+    ],
+    "name:kur_x_preferred":[
+        "Danyang"
     ],
     "name:lav_x_preferred":[
         "Danjanga"
@@ -124,6 +139,9 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0bbe\u0ba9\u0bcd\u0baf\u0bbe\u0b99\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b9f\u0bbe\u0ba9\u0bcd\u0baf\u0bbe\u0b99\u0bcd "
+    ],
     "name:tel_x_preferred":[
         "\u0c21\u0c28\u0c4d\u0c2f\u0c3e\u0c02\u0c17\u0c4d"
     ],
@@ -144,6 +162,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062f\u0627\u0646\u06cc\u0627\u0646\u062c"
+    ],
+    "name:urd_x_variant":[
+        "\u062f\u0627\u0646\u06cc\u0627\u0646\u062c "
     ],
     "name:vie_x_preferred":[
         "\u0110an D\u01b0\u01a1ng"
@@ -181,11 +202,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":709,
     "wof:belongsto":[
+        85669827,
         102191569,
         85632695,
-        1108732521,
         136253041,
-        85669827
+        1108732521
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -207,7 +228,7 @@
         }
     ],
     "wof:id":102027661,
-    "wof:lastmodified":1587163111,
+    "wof:lastmodified":1690867186,
     "wof:name":"Danyang",
     "wof:parent_id":1108732521,
     "wof:placetype":"locality",

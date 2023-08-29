@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0646\u063a\u0634\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Changshu"
+    ],
     "name:ben_x_preferred":[
         "\u099b\u09cd\u09af\u09be\u0982\u09b8\u09c1"
+    ],
+    "name:cat_x_preferred":[
+        "Changshu"
     ],
     "name:ces_x_preferred":[
         "\u010cchang-\u0161u"
@@ -55,6 +61,9 @@
     "name:gan_x_preferred":[
         "\u5e38\u719f\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Changshu"
+    ],
     "name:guj_x_preferred":[
         "\u0a9a\u0abe\u0a82\u0a97\u0acd\u0ab6\u0ac1\u0a82"
     ],
@@ -63,6 +72,9 @@
     ],
     "name:hin_x_preferred":[
         "\u091a\u093e\u0902\u0917\u094d\u0936\u0942"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0561\u0576\u0577\u0578\u0582"
     ],
     "name:ind_x_preferred":[
         "Changshu"
@@ -82,6 +94,9 @@
     "name:kor_x_preferred":[
         "\ucc3d\uc218\uc2dc"
     ],
+    "name:kur_x_preferred":[
+        "Changshu"
+    ],
     "name:lav_x_preferred":[
         "\u010cang\u0161u"
     ],
@@ -90,6 +105,9 @@
     ],
     "name:mar_x_preferred":[
         "\u091a\u093e\u0902\u0917\u0936\u0941"
+    ],
+    "name:mlg_x_preferred":[
+        "Changshu"
     ],
     "name:msa_x_preferred":[
         "Changshu"
@@ -114,6 +132,9 @@
     ],
     "name:slv_x_preferred":[
         "Changshu"
+    ],
+    "name:slv_x_variant":[
+        "\u010cang\u0161u"
     ],
     "name:spa_x_preferred":[
         "Changshu"
@@ -144,6 +165,9 @@
     ],
     "name:vie_x_preferred":[
         "Tr\u01b0\u1eddng Th\u1ee5c"
+    ],
+    "name:vie_x_variant":[
+        "Th\u01b0\u1eddng Th\u1ee5c"
     ],
     "name:war_x_preferred":[
         "Changshu"
@@ -182,11 +206,11 @@
     "src:population":"geonames",
     "wd:wordcount":1202,
     "wof:belongsto":[
+        85669827,
         102191569,
         85632695,
-        890515879,
         136253041,
-        85669827
+        890515879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -210,7 +234,7 @@
         }
     ],
     "wof:id":890515939,
-    "wof:lastmodified":1587428662,
+    "wof:lastmodified":1690867712,
     "wof:name":"Changshu City",
     "wof:parent_id":890515879,
     "wof:placetype":"locality",

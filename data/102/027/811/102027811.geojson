@@ -23,8 +23,17 @@
     "name:ara_x_preferred":[
         "\u0632\u0648\u0646\u063a\u0634\u0627\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Zhongshan"
+    ],
+    "name:bel_x_preferred":[
+        "\u0427\u0436\u0443\u043d\u0448\u0430\u043d\u044c"
+    ],
     "name:ben_x_preferred":[
         "\u099d\u0982\u09b8\u09be\u09a8"
+    ],
+    "name:ben_x_variant":[
+        "\u099a\u09c1\u0982\u09b6\u09be\u09a8"
     ],
     "name:cat_x_preferred":[
         "Zhongshan"
@@ -80,11 +89,20 @@
     "name:gan_x_preferred":[
         "\u4e2d\u5c71\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Zhongshan"
+    ],
+    "name:glg_x_preferred":[
+        "Zhongshan"
+    ],
     "name:guj_x_preferred":[
         "\u0a9d\u0acb\u0a82\u0a97\u0ab6\u0abe\u0aa8"
     ],
     "name:hak_x_preferred":[
         "Ch\u00fbng-s\u00e2n-s\u1e73"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d5\u05e0\u05d2\u05e9\u05d0\u05df"
     ],
     "name:hin_x_preferred":[
         "\u091c\u093c\u094d\u0939\u094b\u0902\u0917\u0936\u093e\u0928"
@@ -94,6 +112,9 @@
     ],
     "name:hun_x_preferred":[
         "Csungsan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u056a\u0578\u0582\u0576\u0577\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Zhongshan"
@@ -116,6 +137,9 @@
     "name:kor_x_variant":[
         "\uc911\uc0b0\uc2dc"
     ],
+    "name:kur_x_preferred":[
+        "Zhongshan"
+    ],
     "name:lav_x_preferred":[
         "\u017dong\u0161ana"
     ],
@@ -124,6 +148,9 @@
     ],
     "name:lit_x_preferred":[
         "D\u017eong\u0161anas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u4e2d\u5c71\u5e02"
     ],
     "name:mar_x_preferred":[
         "\u091d\u094b\u0902\u0917\u0936\u093e\u0928"
@@ -212,6 +239,9 @@
     "name:urd_x_preferred":[
         "\u0698\u0648\u0646\u06af\u0634\u0627\u0646"
     ],
+    "name:vec_x_preferred":[
+        "Zhongshan"
+    ],
     "name:vie_x_preferred":[
         "Trung S\u01a1n"
     ],
@@ -223,6 +253,9 @@
     ],
     "name:yue_x_preferred":[
         "\u4e2d\u5c71"
+    ],
+    "name:zha_x_preferred":[
+        "Cunghsanh"
     ],
     "name:zho_cn_x_preferred":[
         "\u4e2d\u5c71\u5e02"
@@ -272,11 +305,11 @@
     "src:population":"geonames",
     "wd:wordcount":2391,
     "wof:belongsto":[
+        85669743,
         102191569,
         85632695,
-        890516323,
         136253041,
-        85669743
+        890516323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -305,7 +338,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1587428561,
+    "wof:lastmodified":1690867166,
     "wof:name":"Zhongshan",
     "wof:parent_id":890516323,
     "wof:placetype":"locality",

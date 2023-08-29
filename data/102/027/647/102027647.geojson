@@ -26,6 +26,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u0982\u09b2\u09be\u0987"
     ],
+    "name:cym_x_preferred":[
+        "Penglai"
+    ],
     "name:dan_x_preferred":[
         "Penglai"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:eng_x_preferred":[
         "Penglai"
+    ],
+    "name:eng_x_variant":[
+        "Penglai District"
     ],
     "name:fas_x_preferred":[
         "\u067e\u06cc\u0646\u06af\u0644\u0627\u06cc"
@@ -62,11 +68,17 @@
     "name:ind_x_preferred":[
         "Penglai"
     ],
+    "name:ind_x_variant":[
+        "Distrik Penglai"
+    ],
     "name:ita_x_preferred":[
         "Penglai"
     ],
     "name:jpn_x_preferred":[
         "\u84ec\u83b1\u5e02"
+    ],
+    "name:jpn_x_variant":[
+        "\u84ec\u840a\u533a"
     ],
     "name:kan_x_preferred":[
         "\u0caa\u0cc6\u0c82\u0c97\u0ccd\u0c97\u0ccd\u0cb2\u0cc8"
@@ -78,7 +90,8 @@
         "\ud391\ub77c\uc774 \uc2dc"
     ],
     "name:kor_x_variant":[
-        "\ud391\ub77c\uc774\uc2dc"
+        "\ud391\ub77c\uc774\uc2dc",
+        "\ud391\ub77c\uc774\uad6c"
     ],
     "name:lav_x_preferred":[
         "Penglai"
@@ -164,7 +177,8 @@
     "name:zho_x_variant":[
         "\u767b\u5dde",
         "\u84ec\u83b1",
-        "\u767b\u5dde\u8857\u9053"
+        "\u767b\u5dde\u8857\u9053",
+        "\u84ec\u83b1\u533a"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -214,7 +228,7 @@
         }
     ],
     "wof:id":102027647,
-    "wof:lastmodified":1636503594,
+    "wof:lastmodified":1690867216,
     "wof:name":"Dengzhou",
     "wof:parent_id":890516301,
     "wof:placetype":"locality",

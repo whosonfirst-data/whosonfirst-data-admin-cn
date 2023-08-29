@@ -56,6 +56,9 @@
     "name:ben_x_preferred":[
         "\u09b9\u09cd\u09af\u09aa\u09c7\u0987"
     ],
+    "name:ben_x_variant":[
+        "\u09b9\u09aa\u09c7\u0987"
+    ],
     "name:bod_x_preferred":[
         "\u0f67\u0f60\u0f7c\u0f0b\u0f54\u0f7a\u0f0b\u0f5e\u0f72\u0f44\u0f0b\u0f46\u0f7a\u0f53\u0f0d"
     ],
@@ -79,6 +82,12 @@
     ],
     "name:che_x_preferred":[
         "\u0425\u044d\u0431\u044d\u0439"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06be\u06ce\u0628\u06ce\u06cc"
+    ],
+    "name:crh_x_preferred":[
+        "Hebei"
     ],
     "name:cym_x_preferred":[
         "Hebei"
@@ -167,10 +176,19 @@
     "name:hye_x_preferred":[
         "\u0540\u0565\u0562\u0565\u0575"
     ],
+    "name:hyw_x_preferred":[
+        "\u0540\u0568\u057a\u0567\u0575"
+    ],
+    "name:ido_x_preferred":[
+        "Provinco Hebei"
+    ],
     "name:ina_x_preferred":[
         "Hebei"
     ],
     "name:ind_x_preferred":[
+        "Hebei"
+    ],
+    "name:isl_x_preferred":[
         "Hebei"
     ],
     "name:ita_x_preferred":[
@@ -199,6 +217,9 @@
     "name:kor_x_variant":[
         "\ud5c8\ubca0\uc774\uc131"
     ],
+    "name:kur_x_preferred":[
+        "Hebei"
+    ],
     "name:lat_x_preferred":[
         "Hebei"
     ],
@@ -226,6 +247,9 @@
     "name:mlg_x_preferred":[
         "Hebei"
     ],
+    "name:mni_x_preferred":[
+        "\uabcd\uabe6\uabd5\uabe9"
+    ],
     "name:mon_x_preferred":[
         "\u0425\u044d\u0431\u044d\u0439"
     ],
@@ -234,6 +258,9 @@
     ],
     "name:nan_x_preferred":[
         "H\u00f4-pak-s\u00e9ng"
+    ],
+    "name:nep_x_preferred":[
+        "\u0939\u0947\u0935\u0947\u0908"
     ],
     "name:nld_x_preferred":[
         "Hebei"
@@ -288,6 +315,9 @@
     ],
     "name:slv_x_preferred":[
         "Hebei"
+    ],
+    "name:snd_x_preferred":[
+        "\u06be\u064a\u0628\u0626\u064a \u0635\u0648\u0628\u0648"
     ],
     "name:spa_x_preferred":[
         "Hebei"
@@ -348,6 +378,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u6cb3\u5317\u7701"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10f0\u10d4\u10d1\u10d4\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u6cb3\u5317"
@@ -520,7 +553,7 @@
         "bod",
         "kor"
     ],
-    "wof:lastmodified":1587428610,
+    "wof:lastmodified":1690867331,
     "wof:name":"Hebei",
     "wof:parent_id":85632695,
     "wof:placetype":"region",

@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u0646\u062c\u064a\u0646\u063a"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0627\u0646\u062c\u064a\u0646\u062c"
+    ],
     "name:ast_x_preferred":[
         "Nank\u00edn"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u09a8\u099c\u09bf\u0982"
+    ],
+    "name:ben_x_variant":[
+        "\u09a8\u09be\u09a8\u099a\u09bf\u0982"
     ],
     "name:bos_x_preferred":[
         "Nanjing"
@@ -88,6 +94,9 @@
     ],
     "name:chy_x_preferred":[
         "Nanjing"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0646\u0627\u0646\u062c\u06cc\u0646\u06af"
     ],
     "name:cor_x_preferred":[
         "Nanjing"
@@ -144,6 +153,9 @@
         "Nanjing"
     ],
     "name:glg_x_preferred":[
+        "Nanjing"
+    ],
+    "name:glv_x_preferred":[
         "Nanjing"
     ],
     "name:guj_x_preferred":[
@@ -226,6 +238,9 @@
         "\ub09c\uc9d5",
         "\ub09c\uc9d5\uc2dc"
     ],
+    "name:kur_x_preferred":[
+        "Nanjing"
+    ],
     "name:lat_x_preferred":[
         "Nanchinum"
     ],
@@ -246,6 +261,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041d\u0430\u043d\u0453\u0438\u043d\u0433"
+    ],
+    "name:mkd_x_variant":[
+        "\u041d\u0430\u043d\u045f\u0458\u0438\u043d\u0433"
     ],
     "name:mlg_x_preferred":[
         "Nanjing"
@@ -359,6 +377,9 @@
     "name:swe_x_preferred":[
         "Nanjing"
     ],
+    "name:szl_x_preferred":[
+        "Nankin"
+    ],
     "name:tam_x_preferred":[
         "\u0ba8\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0b99\u0bcd"
     ],
@@ -398,6 +419,9 @@
     "name:uzb_x_preferred":[
         "Nankin"
     ],
+    "name:vec_x_preferred":[
+        "Nanchino"
+    ],
     "name:vep_x_preferred":[
         "Nankin"
     ],
@@ -412,6 +436,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u5357\u4eac\u5e02"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10dc\u10d0\u10dc\u10d9\u10d8\u10dc\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u5357\u4eac"
@@ -558,11 +585,11 @@
     "src:population":"geonames",
     "wd:wordcount":12044,
     "wof:belongsto":[
+        85669827,
         102191569,
         85632695,
-        890516425,
         136253041,
-        85669827
+        890516425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -589,7 +616,7 @@
         }
     ],
     "wof:id":102027291,
-    "wof:lastmodified":1608688185,
+    "wof:lastmodified":1690867229,
     "wof:megacity":1,
     "wof:name":"Nanjing",
     "wof:parent_id":890516425,

@@ -54,6 +54,9 @@
     "name:hin_x_preferred":[
         "\u092f\u094b\u0902\u0917\u091c\u0940"
     ],
+    "name:hye_x_preferred":[
+        "\u0545\u0578\u0582\u0576\u0571\u056b"
+    ],
     "name:ind_x_preferred":[
         "Yongji"
     ],
@@ -114,6 +117,9 @@
     "name:tam_x_preferred":[
         "\u0baf\u0bcb\u0b99\u0bcd\u0b9c\u0bbf"
     ],
+    "name:tam_x_variant":[
+        "\u0baf\u0bcb\u0b99\u0bcd\u0b9c\u0bbf "
+    ],
     "name:tel_x_preferred":[
         "\u0c2f\u0c4b\u0c02\u0c17\u0c4d\u0c1c\u0c3f"
     ],
@@ -131,6 +137,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06cc\u0648\u0646\u062c\u062c\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u06cc\u0648\u0646\u062c\u062c\u06cc "
     ],
     "name:vie_x_preferred":[
         "V\u0129nh T\u1ebf"
@@ -164,11 +173,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":42,
     "wof:belongsto":[
+        85669773,
         102191569,
         85632695,
-        890514745,
         136253041,
-        85669773
+        890514745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -191,7 +200,7 @@
         }
     ],
     "wof:id":102026903,
-    "wof:lastmodified":1587163111,
+    "wof:lastmodified":1690867267,
     "wof:name":"Yongji",
     "wof:parent_id":890514745,
     "wof:placetype":"locality",

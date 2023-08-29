@@ -26,8 +26,17 @@
     "name:ara_x_preferred":[
         "\u0632\u0648\u0647\u0627\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Zhuhai"
+    ],
+    "name:bel_x_preferred":[
+        "\u0427\u0436\u0443\u0445\u0430\u0439"
+    ],
     "name:ben_x_preferred":[
         "\u099d\u09c1\u09b9\u09be\u0987"
+    ],
+    "name:ben_x_variant":[
+        "\u099a\u09c1\u09b9\u09be\u0987"
     ],
     "name:bre_x_preferred":[
         "Zhuhai"
@@ -89,6 +98,9 @@
     "name:gan_x_preferred":[
         "\u73e0\u6d77\u5e02"
     ],
+    "name:gle_x_preferred":[
+        "Zhuhai"
+    ],
     "name:guj_x_preferred":[
         "\u0a9d\u0ac1\u0ab9\u0abe\u0a87"
     ],
@@ -98,11 +110,17 @@
     "name:heb_x_preferred":[
         "\u05d6\u05d5\u05d4\u05d0\u05d9"
     ],
+    "name:heb_x_variant":[
+        "\u05d2'\u05d5\u05d4\u05d0\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u091c\u093c\u0939\u094d\u0939\u093e\u0908"
     ],
     "name:hun_x_preferred":[
         "Csuhaj"
+    ],
+    "name:ido_x_preferred":[
+        "Zhuhai"
     ],
     "name:ind_x_preferred":[
         "Zhuhai"
@@ -119,6 +137,9 @@
     "name:kan_x_preferred":[
         "\u0c9d\u0cc1\u0cb9\u0cc8"
     ],
+    "name:kat_x_preferred":[
+        "\u10ed\u10e3\u10ee\u10d0\u10d8"
+    ],
     "name:kik_x_preferred":[
         "Zhuhai"
     ],
@@ -127,6 +148,9 @@
     ],
     "name:kor_x_variant":[
         "\uc8fc\ud558\uc774\uc2dc"
+    ],
+    "name:kur_x_preferred":[
+        "Zhuhai"
     ],
     "name:lav_x_preferred":[
         "\u017du\u010dai"
@@ -140,11 +164,17 @@
     "name:mar_x_preferred":[
         "\u091d\u0941\u0939\u093e\u0908"
     ],
+    "name:mar_x_variant":[
+        "\u091d\u0942\u0939\u0948"
+    ],
     "name:mkd_x_preferred":[
         "\u040f\u0443\u0445\u0430\u0458"
     ],
     "name:mlg_x_preferred":[
         "Zhuhai"
+    ],
+    "name:mon_x_preferred":[
+        "\u0416\u0443\u0445\u0430\u0439"
     ],
     "name:msa_x_preferred":[
         "Zhuhai"
@@ -227,6 +257,9 @@
     "name:urd_x_preferred":[
         "\u0698\u0648\u06c1\u0648\u0626\u06cc"
     ],
+    "name:vec_x_preferred":[
+        "Zhuhai"
+    ],
     "name:vie_x_preferred":[
         "Ch\u00e2u H\u1ea3i"
     ],
@@ -241,6 +274,9 @@
     ],
     "name:yue_x_preferred":[
         "\u73e0\u6d77"
+    ],
+    "name:zha_x_preferred":[
+        "Cuhhaij"
     ],
     "name:zho_min_nan_x_preferred":[
         "Chu-h\u00e1i-chh\u012b"
@@ -367,11 +403,11 @@
     "src:population":"geonames",
     "wd:wordcount":2223,
     "wof:belongsto":[
+        85669743,
         102191569,
         85632695,
-        890516343,
         136253041,
-        85669743
+        890516343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -399,7 +435,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1608688167,
+    "wof:lastmodified":1690867186,
     "wof:megacity":1,
     "wof:name":"Zhuhai",
     "wof:parent_id":890516343,

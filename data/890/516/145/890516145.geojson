@@ -29,14 +29,26 @@
     "name:eng_x_preferred":[
         "Nancha"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0646\u0627\u0646\u0686\u0627"
+    ],
     "name:gan_x_preferred":[
         "\u5357\u5c94\u533a"
+    ],
+    "name:gan_x_variant":[
+        "\u5357\u5c94\u53bf"
     ],
     "name:jpn_x_preferred":[
         "\u5357\u5c94\u533a"
     ],
+    "name:jpn_x_variant":[
+        "\u5357\u5c94\u770c"
+    ],
     "name:kor_x_preferred":[
         "\ub09c\ucc28\uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ub09c\ucc28\ud604"
     ],
     "name:nan_x_preferred":[
         "L\u00e2m-chha-khu"
@@ -56,11 +68,17 @@
     "name:und_x_variant":[
         "Nan-ch\u2019a-t\u2019un"
     ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0646\u0686\u0627 \u0636\u0644\u0639"
+    ],
     "name:vie_x_preferred":[
         "Nam Xo\u00e1"
     ],
     "name:wuu_x_preferred":[
         "\u5357\u5c94\u533a"
+    ],
+    "name:wuu_x_variant":[
+        "\u5357\u5c94\u53bf"
     ],
     "name:zho_x_preferred":[
         "\u8054\u5408"
@@ -68,7 +86,8 @@
     "name:zho_x_variant":[
         "\u8054\u5408\u8857\u9053",
         "\u5357\u5c94",
-        "\u5357\u5c94\u533a"
+        "\u5357\u5c94\u533a",
+        "\u5357\u5c94\u53bf"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -202,7 +221,7 @@
         }
     ],
     "wof:id":890516145,
-    "wof:lastmodified":1566693614,
+    "wof:lastmodified":1690867553,
     "wof:name":"\u5357\u5c94\u533a",
     "wof:parent_id":890515199,
     "wof:placetype":"locality",
