@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.125921,
-    "geom:area_square_m":23218528831.850113,
+    "geom:area_square_m":23218528428.067581,
     "geom:bbox":"98.594937,26.874256,100.308755,29.245",
     "geom:latitude":27.958167,
     "geom:longitude":99.439981,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
-        "Diqing Autonomous Prefecture"
+        "Diqing Zangzu Autonomous Prefecture"
     ],
     "label:eng_x_preferred_placetype":[
         "autonomous prefecture"
@@ -75,10 +75,12 @@
         136253041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"CN.YN.DQ"
+    },
     "wof:country":"CN",
     "wof:created":1478824356,
-    "wof:geomhash":"615560528e7d7135c9079ed4b92d6f74",
+    "wof:geomhash":"4681c2c8b7f4b3be6da2c78643fceafa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1108732505,
-    "wof:lastmodified":1627522007,
+    "wof:lastmodified":1694493389,
     "wof:name":"Diqing",
     "wof:parent_id":85669791,
     "wof:placetype":"county",

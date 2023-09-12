@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":49.264825,
-    "geom:area_square_m":469826392745.868652,
+    "geom:area_square_m":469826392745.84967,
     "geom:bbox":"82.4675,35.639969,93.866934,43.558755",
     "geom:latitude":39.495642,
     "geom:longitude":87.471116,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
-        "Bayinguoleng Autonomous Prefecture"
+        "Bayinguoleng Menggu Autonomous Prefecture"
     ],
     "label:eng_x_preferred_placetype":[
         "autonomous prefecture"
@@ -75,10 +75,12 @@
         136253041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"CN.XJ.BY"
+    },
     "wof:country":"CN",
     "wof:created":1478824213,
-    "wof:geomhash":"a3bcfb7145951beec9badbb8f474e38f",
+    "wof:geomhash":"f413d353c5a93c37bae91d42227e97c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1108732417,
-    "wof:lastmodified":1627522005,
+    "wof:lastmodified":1694493387,
     "wof:name":"Bayinguoleng",
     "wof:parent_id":85669753,
     "wof:placetype":"county",

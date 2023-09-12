@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.547352,
-    "geom:area_square_m":28463745340.506058,
+    "geom:area_square_m":28463745621.388741,
     "geom:bbox":"100.725594,24.222717,102.479925,26.502933",
     "geom:latitude":25.352088,
     "geom:longitude":101.568642,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
-        "Chuxiong Autonomous Prefecture"
+        "Chuxiong Yizu Autonomous Prefecture"
     ],
     "label:eng_x_preferred_placetype":[
         "autonomous prefecture"
@@ -93,10 +93,12 @@
         136253041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"CN.YN.CX"
+    },
     "wof:country":"CN",
     "wof:created":1478824265,
-    "wof:geomhash":"5132dbfb378d0be954422b1d13c18860",
+    "wof:geomhash":"1dfd0679a8397846ceced1833687914e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":1108732445,
-    "wof:lastmodified":1636504133,
+    "wof:lastmodified":1694493394,
     "wof:name":"Chuxiong",
     "wof:parent_id":85669791,
     "wof:placetype":"county",

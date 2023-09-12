@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.802916,
-    "geom:area_square_m":18256516306.253616,
+    "geom:area_square_m":18256515749.018005,
     "geom:bbox":"100.687167,34.068143,102.447119,36.16382",
     "geom:latitude":35.02032,
     "geom:longitude":101.627248,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
-        "Huangnan Autonomous Prefecture"
+        "Huangnan Zangzu Autonomous Prefecture"
     ],
     "label:eng_x_preferred_placetype":[
         "autonomous prefecture"
@@ -75,10 +75,12 @@
         136253041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"CN.QH.HU"
+    },
     "wof:country":"CN",
     "wof:created":1478824424,
-    "wof:geomhash":"88be65a921944d05fe545bd2a85024f2",
+    "wof:geomhash":"65bacba38f6d19b948a27910cb11ac72",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1108732551,
-    "wof:lastmodified":1627522008,
+    "wof:lastmodified":1694493390,
     "wof:name":"Huangnan",
     "wof:parent_id":85669715,
     "wof:placetype":"county",

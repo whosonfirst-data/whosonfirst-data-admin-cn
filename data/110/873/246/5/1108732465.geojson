@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.967388,
-    "geom:area_square_m":9991436481.833767,
+    "geom:area_square_m":9991436481.833538,
     "geom:bbox":"118.212846883,32.7191882758,119.638365799,34.0946128421",
     "geom:latitude":33.35449,
     "geom:longitude":118.96243,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
-        "Huai'an City"
+        "Huaiyin City"
     ],
     "label:eng_x_preferred_placetype":[
         "city"
@@ -168,10 +168,12 @@
         136253041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"CN.JS.HY"
+    },
     "wof:country":"CN",
     "wof:created":1478824295,
-    "wof:geomhash":"ad5cfff448ec157e65332d972526a4d4",
+    "wof:geomhash":"68f033fcd26d2ce82a4bcb4ec7e099b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,7 +184,7 @@
         }
     ],
     "wof:id":1108732465,
-    "wof:lastmodified":1566687993,
+    "wof:lastmodified":1694493371,
     "wof:name":"Huai'an",
     "wof:parent_id":85669827,
     "wof:placetype":"county",

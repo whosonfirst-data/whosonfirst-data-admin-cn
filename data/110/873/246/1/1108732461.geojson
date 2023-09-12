@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":31.104637,
-    "geom:area_square_m":308350919356.372437,
+    "geom:area_square_m":308350921673.685181,
     "geom:bbox":"89.641502,32.726155,99.781166,39.219434",
     "geom:latitude":36.680545,
     "geom:longitude":94.5758,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
-        "Haixi Mengguzu Autonomous Prefecture"
+        "Haixi Mengguzu Zangzu Autonomous Prefecture"
     ],
     "label:eng_x_preferred_placetype":[
         "autonomous prefecture"
@@ -75,10 +75,12 @@
         136253041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"CN.QH.HX"
+    },
     "wof:country":"CN",
     "wof:created":1478824288,
-    "wof:geomhash":"bc8c039365235c2b4ac11f2d1aa637f6",
+    "wof:geomhash":"6aedaac981d3b0cd5071b38827a6fbad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1108732461,
-    "wof:lastmodified":1627522008,
+    "wof:lastmodified":1694493390,
     "wof:name":"Haixi Mengguzu",
     "wof:parent_id":85669715,
     "wof:placetype":"county",

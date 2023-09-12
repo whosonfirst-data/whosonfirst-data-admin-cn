@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":31.463643,
-    "geom:area_square_m":251769272771.990479,
+    "geom:area_square_m":251769271989.885193,
     "geom:bbox":"115.520151,47.094996,126.05652,53.334386",
     "geom:latitude":49.661048,
     "geom:longitude":121.199148,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
-        "Hulunbei'er League"
+        "Hulunbeier League"
     ],
     "label:eng_x_preferred_placetype":[
         "league"
@@ -75,10 +75,12 @@
         136253041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"CN.NM.HL"
+    },
     "wof:country":"CN",
     "wof:created":1478824165,
-    "wof:geomhash":"fd7e86e021b6f8ae52233d588c86d9ba",
+    "wof:geomhash":"4b8f58e7fcb1b6282584411fdda8ddbc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1108732385,
-    "wof:lastmodified":1627522009,
+    "wof:lastmodified":1694493391,
     "wof:name":"Hulunbei'er",
     "wof:parent_id":85669847,
     "wof:placetype":"county",
