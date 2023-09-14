@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.995613,
-    "geom:area_square_m":11197071267.705881,
+    "geom:area_square_m":11197070586.033308,
     "geom:bbox":"97.527469,23.842724,98.726085,25.338248",
     "geom:latitude":24.558697,
     "geom:longitude":98.085091,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
-        "Dehong Autonomous Prefecture"
+        "Dehong Daizu Jingpozu Autonomous Prefecture"
     ],
     "label:eng_x_preferred_placetype":[
         "autonomous prefecture"
@@ -75,10 +75,12 @@
         136253041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"CN.YN.DH"
+    },
     "wof:country":"CN",
     "wof:created":1478824222,
-    "wof:geomhash":"02764800dbbca346257aee56c891afe7",
+    "wof:geomhash":"269f5bcccea5f0ee016994ba1104a8f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1108732423,
-    "wof:lastmodified":1627522006,
+    "wof:lastmodified":1694493388,
     "wof:name":"Dehong",
     "wof:parent_id":85669791,
     "wof:placetype":"county",

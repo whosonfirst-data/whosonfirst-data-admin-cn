@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.994358,
-    "geom:area_square_m":64825278775.703217,
+    "geom:area_square_m":64825277635.566895,
     "geom:bbox":"105.194181,40.170766,109.896356,42.463955",
     "geom:latitude":41.446764,
     "geom:longitude":107.566608,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
-        "Bayannao'er League"
+        "Bayannaoer League"
     ],
     "label:eng_x_preferred_placetype":[
         "league"
@@ -75,10 +75,12 @@
         136253041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"CN.NM.BY"
+    },
     "wof:country":"CN",
     "wof:created":1478824211,
-    "wof:geomhash":"38bfa22bf1054d0bc5d41a4036a410e9",
+    "wof:geomhash":"a7ababb141f95bd09bc36d7aa7e8562c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1108732415,
-    "wof:lastmodified":1627522005,
+    "wof:lastmodified":1694493387,
     "wof:name":"Bayannao'er",
     "wof:parent_id":85669847,
     "wof:placetype":"county",

@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.55066,
-    "geom:area_square_m":28412052102.562576,
+    "geom:area_square_m":28412050994.858582,
     "geom:bbox":"98.865821,24.66584,101.038998,26.695656",
     "geom:latitude":25.727221,
     "geom:longitude":100.037533,
     "iso:country":"CN",
     "label:eng_x_preferred_longname":[
-        "Dali Autonomous Prefecture"
+        "Dali Baizu Autonomous Prefecture"
     ],
     "label:eng_x_preferred_placetype":[
         "autonomous prefecture"
@@ -156,10 +156,12 @@
         136253041
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"CN.YN.DL"
+    },
     "wof:country":"CN",
     "wof:created":1478824190,
-    "wof:geomhash":"7eb71d7ef0e0cfb08f8c0936001f382f",
+    "wof:geomhash":"e63f3addd5b40d7445b10c763ea9a8a9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -170,7 +172,7 @@
         }
     ],
     "wof:id":1108732403,
-    "wof:lastmodified":1636504136,
+    "wof:lastmodified":1694493395,
     "wof:name":"Dali",
     "wof:parent_id":85669791,
     "wof:placetype":"county",
