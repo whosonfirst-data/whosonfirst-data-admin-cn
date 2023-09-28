@@ -187,8 +187,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.HL.HH"
+        "hasc:id":"CN.HL.HH",
+        "meso:local_id":"73844038"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824430,
     "wof:geomhash":"172bfa934e2b2f5a7734e9d2ab05f737",
@@ -202,7 +207,7 @@
         }
     ],
     "wof:id":1108732555,
-    "wof:lastmodified":1694493396,
+    "wof:lastmodified":1695886126,
     "wof:name":"Heihe",
     "wof:parent_id":85669849,
     "wof:placetype":"county",

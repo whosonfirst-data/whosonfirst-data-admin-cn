@@ -179,8 +179,13 @@
     "wof:concordances":{
         "gp:id":26198161,
         "hasc:id":"CN.HN.YZ",
+        "meso:local_id":"73843873",
         "qs_pg:id":890439
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055885,
     "wof:geom_alt":[
@@ -197,7 +202,7 @@
         }
     ],
     "wof:id":890515001,
-    "wof:lastmodified":1694493407,
+    "wof:lastmodified":1695886154,
     "wof:name":"Yongzhou",
     "wof:parent_id":85669781,
     "wof:placetype":"county",

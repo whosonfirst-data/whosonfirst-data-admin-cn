@@ -92,8 +92,13 @@
     "wof:concordances":{
         "gp:id":26198318,
         "hasc:id":"CN.XZ.CD",
+        "meso:local_id":"73843847",
         "qs_pg:id":423120
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055865,
     "wof:geom_alt":[
@@ -110,7 +115,7 @@
         }
     ],
     "wof:id":890514545,
-    "wof:lastmodified":1694493388,
+    "wof:lastmodified":1695886493,
     "wof:name":"Changdu",
     "wof:parent_id":85669747,
     "wof:placetype":"county",

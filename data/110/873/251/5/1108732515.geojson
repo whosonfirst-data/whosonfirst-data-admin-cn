@@ -157,8 +157,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.SA.TC"
+        "hasc:id":"CN.SA.TC",
+        "meso:local_id":"73844001"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824371,
     "wof:geomhash":"775b47ad5a6055a8de821bb05da8d37a",
@@ -172,7 +177,7 @@
         }
     ],
     "wof:id":1108732515,
-    "wof:lastmodified":1694493395,
+    "wof:lastmodified":1695886120,
     "wof:name":"Tongchuan",
     "wof:parent_id":85669769,
     "wof:placetype":"county",

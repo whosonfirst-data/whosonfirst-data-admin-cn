@@ -76,8 +76,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.YN.DQ"
+        "hasc:id":"CN.YN.DQ",
+        "meso:local_id":"73843981"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824356,
     "wof:geomhash":"4681c2c8b7f4b3be6da2c78643fceafa",
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":1108732505,
-    "wof:lastmodified":1694493389,
+    "wof:lastmodified":1695886497,
     "wof:name":"Diqing",
     "wof:parent_id":85669791,
     "wof:placetype":"county",

@@ -76,8 +76,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.QH.GL"
+        "hasc:id":"CN.QH.GL",
+        "meso:local_id":"73843861"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824259,
     "wof:geomhash":"9ae322b3bc6a648480e1a9e0a28bfce7",
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":1108732441,
-    "wof:lastmodified":1694493389,
+    "wof:lastmodified":1695886496,
     "wof:name":"Guoluo",
     "wof:parent_id":85669715,
     "wof:placetype":"county",

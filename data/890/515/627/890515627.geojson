@@ -430,8 +430,13 @@
         "gn:id":1784657,
         "gp:id":26198373,
         "hasc:id":"CN.HE.ZZ",
+        "meso:local_id":"73843990",
         "qs_pg:id":61251
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055924,
     "wof:geom_alt":[
@@ -448,7 +453,7 @@
         }
     ],
     "wof:id":890515627,
-    "wof:lastmodified":1694493385,
+    "wof:lastmodified":1695886062,
     "wof:name":"Zhengzhou",
     "wof:parent_id":85669801,
     "wof:placetype":"county",

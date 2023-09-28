@@ -205,8 +205,13 @@
     "wof:concordances":{
         "gn:id":2036425,
         "hasc:id":"CN.LN.JZ",
+        "meso:local_id":"73844005",
         "qs_pg:id":1032019
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055859,
     "wof:geom_alt":[
@@ -223,7 +228,7 @@
         }
     ],
     "wof:id":890514397,
-    "wof:lastmodified":1694493400,
+    "wof:lastmodified":1695886137,
     "wof:name":"Jinzhou",
     "wof:parent_id":85669807,
     "wof:placetype":"county",

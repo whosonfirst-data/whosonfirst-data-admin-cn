@@ -191,8 +191,13 @@
     "wof:concordances":{
         "gp:id":26198116,
         "hasc:id":"CN.SA.AK",
+        "meso:local_id":"73843786",
         "qs_pg:id":1061985
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055890,
     "wof:geom_alt":[
@@ -209,7 +214,7 @@
         }
     ],
     "wof:id":890515101,
-    "wof:lastmodified":1694493408,
+    "wof:lastmodified":1695886156,
     "wof:name":"Ankang",
     "wof:parent_id":85669769,
     "wof:placetype":"county",

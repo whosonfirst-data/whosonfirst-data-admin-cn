@@ -76,8 +76,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.NM.WL"
+        "hasc:id":"CN.NM.WL",
+        "meso:local_id":"73843704"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824108,
     "wof:geomhash":"3633bae53843487c831f192b51a88d88",
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":1108732343,
-    "wof:lastmodified":1694493393,
+    "wof:lastmodified":1695886505,
     "wof:name":"Wulanchabu",
     "wof:parent_id":85669847,
     "wof:placetype":"county",

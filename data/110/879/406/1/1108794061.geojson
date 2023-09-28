@@ -109,8 +109,13 @@
     "wof:concordances":{
         "gn:id":1803984,
         "hasc:id":"CN.SC.LI",
+        "meso:local_id":"73843731",
         "qs_pg:id":1031569
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055781,
     "wof:geomhash":"4a664b81f07ee50aead046d4825467f2",
@@ -124,7 +129,7 @@
         }
     ],
     "wof:id":1108794061,
-    "wof:lastmodified":1694493374,
+    "wof:lastmodified":1695886615,
     "wof:name":"Liangshan",
     "wof:parent_id":85669787,
     "wof:placetype":"county",

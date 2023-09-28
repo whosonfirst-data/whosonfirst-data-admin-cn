@@ -188,8 +188,13 @@
     "wof:concordances":{
         "gp:id":26198118,
         "hasc:id":"CN.SA.BJ",
+        "meso:local_id":"73843794",
         "qs_pg:id":216000
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055962,
     "wof:geom_alt":[
@@ -206,7 +211,7 @@
         }
     ],
     "wof:id":890516525,
-    "wof:lastmodified":1694493400,
+    "wof:lastmodified":1695886135,
     "wof:name":"Baoji",
     "wof:parent_id":85669769,
     "wof:placetype":"county",

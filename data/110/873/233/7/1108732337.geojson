@@ -175,8 +175,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.SX.LF"
+        "hasc:id":"CN.SX.LF",
+        "meso:local_id":"73843697"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824099,
     "wof:geomhash":"7c72f3e2c7e3d8583f913f8774cdbb36",
@@ -190,7 +195,7 @@
         }
     ],
     "wof:id":1108732337,
-    "wof:lastmodified":1694493394,
+    "wof:lastmodified":1695886120,
     "wof:name":"Linfen",
     "wof:parent_id":85669773,
     "wof:placetype":"county",

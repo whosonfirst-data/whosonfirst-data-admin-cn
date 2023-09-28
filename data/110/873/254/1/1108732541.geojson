@@ -163,8 +163,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.SC.YA"
+        "hasc:id":"CN.SC.YA",
+        "meso:local_id":"73844024"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824412,
     "wof:geomhash":"c7e1019526d0d398c1c3be8c1b3651d3",
@@ -178,7 +183,7 @@
         }
     ],
     "wof:id":1108732541,
-    "wof:lastmodified":1694493373,
+    "wof:lastmodified":1695886613,
     "wof:name":"Ya'an",
     "wof:parent_id":85669787,
     "wof:placetype":"county",

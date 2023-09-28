@@ -190,8 +190,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.AH.MA"
+        "hasc:id":"CN.AH.MA",
+        "meso:local_id":"73844028"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824415,
     "wof:geomhash":"0315eca2767481f3c6cd0035d014b0a1",
@@ -205,7 +210,7 @@
         }
     ],
     "wof:id":1108732543,
-    "wof:lastmodified":1694493373,
+    "wof:lastmodified":1695886614,
     "wof:name":"Ma'anshan",
     "wof:parent_id":85669739,
     "wof:placetype":"county",

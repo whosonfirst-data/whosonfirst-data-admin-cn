@@ -190,8 +190,13 @@
     "wof:concordances":{
         "gn:id":1784839,
         "hasc:id":"CN.YN.ZT",
+        "meso:local_id":"73843848",
         "qs_pg:id":1031432
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055854,
     "wof:geom_alt":[
@@ -208,7 +213,7 @@
         }
     ],
     "wof:id":890514257,
-    "wof:lastmodified":1694493378,
+    "wof:lastmodified":1695886048,
     "wof:name":"Zhaotong",
     "wof:parent_id":85669791,
     "wof:placetype":"county",

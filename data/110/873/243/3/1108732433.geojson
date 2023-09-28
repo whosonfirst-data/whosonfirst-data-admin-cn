@@ -59,7 +59,10 @@
         85669759
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"73843838"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"CN",
     "wof:created":1478824248,
     "wof:geomhash":"63442f7accd5df3bada829f992976eec",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108732433,
-    "wof:lastmodified":1694639688,
+    "wof:lastmodified":1695886605,
     "wof:name":"Wenchang",
     "wof:parent_id":85669759,
     "wof:placetype":"county",

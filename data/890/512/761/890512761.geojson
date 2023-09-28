@@ -181,8 +181,13 @@
     "wof:concordances":{
         "gn:id":1785723,
         "hasc:id":"CN.GD.YF",
+        "meso:local_id":"73843710",
         "qs_pg:id":1152037
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055784,
     "wof:geom_alt":[
@@ -199,7 +204,7 @@
         }
     ],
     "wof:id":890512761,
-    "wof:lastmodified":1694493384,
+    "wof:lastmodified":1695886060,
     "wof:name":"Yunfu",
     "wof:parent_id":85669743,
     "wof:placetype":"county",

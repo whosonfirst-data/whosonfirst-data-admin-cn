@@ -85,8 +85,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.GS.JY"
+        "hasc:id":"CN.GS.JY",
+        "meso:local_id":"73843766"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824178,
     "wof:geomhash":"06dbf7a95d55efa2b04a651876172a36",
@@ -100,7 +105,7 @@
         }
     ],
     "wof:id":1108732393,
-    "wof:lastmodified":1694493395,
+    "wof:lastmodified":1695886123,
     "wof:name":"Jiayuguan",
     "wof:parent_id":85669711,
     "wof:placetype":"county",

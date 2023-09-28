@@ -187,8 +187,13 @@
     "wof:concordances":{
         "gn:id":1793878,
         "hasc:id":"CN.HU.SZ",
+        "meso:local_id":"73844023",
         "qs_pg:id":1062511
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055862,
     "wof:geom_alt":[
@@ -205,7 +210,7 @@
         }
     ],
     "wof:id":890514467,
-    "wof:lastmodified":1694493379,
+    "wof:lastmodified":1695886049,
     "wof:name":"Suizhou",
     "wof:parent_id":85669777,
     "wof:placetype":"county",

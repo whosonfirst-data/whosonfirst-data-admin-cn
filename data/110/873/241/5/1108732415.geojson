@@ -76,8 +76,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.NM.BY"
+        "hasc:id":"CN.NM.BY",
+        "meso:local_id":"73843803"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824211,
     "wof:geomhash":"a7ababb141f95bd09bc36d7aa7e8562c",
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":1108732415,
-    "wof:lastmodified":1694493387,
+    "wof:lastmodified":1695886491,
     "wof:name":"Bayannao'er",
     "wof:parent_id":85669847,
     "wof:placetype":"county",

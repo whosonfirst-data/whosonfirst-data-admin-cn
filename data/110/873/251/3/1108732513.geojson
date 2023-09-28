@@ -137,8 +137,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"CN.GZ.TR",
+        "meso:local_id":"73844000",
         "wd:id":"Q1130793"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824368,
     "wof:geomhash":"25fa6c1ab7509fdccca1db3e8d7e6f3f",
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1108732513,
-    "wof:lastmodified":1694493394,
+    "wof:lastmodified":1695886119,
     "wof:name":"Tongren",
     "wof:parent_id":85669721,
     "wof:placetype":"county",

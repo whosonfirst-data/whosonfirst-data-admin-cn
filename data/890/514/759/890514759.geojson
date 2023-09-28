@@ -203,8 +203,13 @@
     "wof:concordances":{
         "gp:id":26198214,
         "hasc:id":"CN.HN.ZZ",
+        "meso:local_id":"73843864",
         "qs_pg:id":896597
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055876,
     "wof:geom_alt":[
@@ -221,7 +226,7 @@
         }
     ],
     "wof:id":890514759,
-    "wof:lastmodified":1694493403,
+    "wof:lastmodified":1695886144,
     "wof:name":"Zhuzhou",
     "wof:parent_id":85669781,
     "wof:placetype":"county",

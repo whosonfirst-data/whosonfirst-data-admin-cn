@@ -244,8 +244,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.FJ.XM"
+        "hasc:id":"CN.FJ.XM",
+        "meso:local_id":"73843744"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824152,
     "wof:geomhash":"7d097340b5fa43e251fc269bdbec6bfd",
@@ -259,7 +264,7 @@
         }
     ],
     "wof:id":1108732375,
-    "wof:lastmodified":1694493374,
+    "wof:lastmodified":1695886615,
     "wof:name":"Xiamen",
     "wof:parent_id":85669735,
     "wof:placetype":"county",

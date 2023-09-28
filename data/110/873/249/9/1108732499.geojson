@@ -76,8 +76,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.YN.XS"
+        "hasc:id":"CN.YN.XS",
+        "meso:local_id":"73843966"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824347,
     "wof:geomhash":"b02eb46cd47cf4562a8adf5fa20e2ade",
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":1108732499,
-    "wof:lastmodified":1694493393,
+    "wof:lastmodified":1695886506,
     "wof:name":"Xishuangbanna",
     "wof:parent_id":85669791,
     "wof:placetype":"county",

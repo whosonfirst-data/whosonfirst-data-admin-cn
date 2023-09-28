@@ -149,8 +149,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"CN.HL.DX",
+        "meso:local_id":"73843771",
         "wd:id":"Q984457"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824187,
     "wof:geomhash":"574f3b4795915e1332ebf16540f6bbb1",
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1108732399,
-    "wof:lastmodified":1694493373,
+    "wof:lastmodified":1695886613,
     "wof:name":"Daxing'anling",
     "wof:parent_id":85669849,
     "wof:placetype":"county",

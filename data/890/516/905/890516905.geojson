@@ -187,8 +187,13 @@
     "wof:concordances":{
         "gn:id":1815056,
         "hasc:id":"CN.HN.CZ",
+        "meso:local_id":"73843991",
         "qs_pg:id":1027710
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055983,
     "wof:geom_alt":[
@@ -205,7 +210,7 @@
         }
     ],
     "wof:id":890516905,
-    "wof:lastmodified":1694493398,
+    "wof:lastmodified":1695886131,
     "wof:name":"Chenzhou",
     "wof:parent_id":85669781,
     "wof:placetype":"county",

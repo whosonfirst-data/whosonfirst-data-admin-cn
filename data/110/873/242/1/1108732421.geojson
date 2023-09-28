@@ -82,8 +82,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.JL.YB"
+        "hasc:id":"CN.JL.YB",
+        "meso:local_id":"73843815"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824219,
     "wof:geomhash":"18d40556f78d317f77127a7754cad395",
@@ -97,7 +102,7 @@
         }
     ],
     "wof:id":1108732421,
-    "wof:lastmodified":1694493408,
+    "wof:lastmodified":1695886539,
     "wof:name":"Yanbian",
     "wof:parent_id":85669843,
     "wof:placetype":"county",

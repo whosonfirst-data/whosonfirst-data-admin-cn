@@ -172,8 +172,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.GX.GG"
+        "hasc:id":"CN.GX.GG",
+        "meso:local_id":"73843970"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824350,
     "wof:geomhash":"45318c7abea249ee0a4baa803bb70f64",
@@ -187,7 +192,7 @@
         }
     ],
     "wof:id":1108732501,
-    "wof:lastmodified":1694493370,
+    "wof:lastmodified":1695886606,
     "wof:name":"Guigang",
     "wof:parent_id":85669717,
     "wof:placetype":"county",

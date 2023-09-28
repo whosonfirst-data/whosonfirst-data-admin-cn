@@ -212,8 +212,13 @@
     "wof:concordances":{
         "gp:id":26198179,
         "hasc:id":"CN.GX.BH",
+        "meso:local_id":"73843734",
         "qs_pg:id":212459
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055960,
     "wof:geom_alt":[
@@ -230,7 +235,7 @@
         }
     ],
     "wof:id":890516487,
-    "wof:lastmodified":1694493399,
+    "wof:lastmodified":1695886132,
     "wof:name":"Beihai",
     "wof:parent_id":85669717,
     "wof:placetype":"county",

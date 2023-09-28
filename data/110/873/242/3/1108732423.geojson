@@ -76,8 +76,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.YN.DH"
+        "hasc:id":"CN.YN.DH",
+        "meso:local_id":"73843821"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824222,
     "wof:geomhash":"269f5bcccea5f0ee016994ba1104a8f9",
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":1108732423,
-    "wof:lastmodified":1694493388,
+    "wof:lastmodified":1695886494,
     "wof:name":"Dehong",
     "wof:parent_id":85669791,
     "wof:placetype":"county",

@@ -169,8 +169,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.HU.XG"
+        "hasc:id":"CN.HU.XG",
+        "meso:local_id":"73843782"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824196,
     "wof:geomhash":"928f2624677c8372d6c4a2f99c37addc",
@@ -184,7 +189,7 @@
         }
     ],
     "wof:id":1108732407,
-    "wof:lastmodified":1694493395,
+    "wof:lastmodified":1695886122,
     "wof:name":"Xiaogan",
     "wof:parent_id":85669777,
     "wof:placetype":"county",

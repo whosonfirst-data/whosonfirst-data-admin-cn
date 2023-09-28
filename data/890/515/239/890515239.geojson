@@ -185,8 +185,13 @@
     "wof:concordances":{
         "gp:id":26198238,
         "hasc:id":"CN.AH.BZ",
+        "meso:local_id":"73843713",
         "qs_pg:id":1103979
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055896,
     "wof:geom_alt":[
@@ -203,7 +208,7 @@
         }
     ],
     "wof:id":890515239,
-    "wof:lastmodified":1694493386,
+    "wof:lastmodified":1695886066,
     "wof:name":"Bozhou",
     "wof:parent_id":85669739,
     "wof:placetype":"county",

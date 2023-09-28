@@ -202,8 +202,13 @@
     "wof:concordances":{
         "gn:id":1798826,
         "hasc:id":"CN.HE.PD",
+        "meso:local_id":"73843808",
         "qs_pg:id":1027579
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055779,
     "wof:geom_alt":[
@@ -220,7 +225,7 @@
         }
     ],
     "wof:id":890512655,
-    "wof:lastmodified":1694493406,
+    "wof:lastmodified":1695886151,
     "wof:name":"Pingdingshan",
     "wof:parent_id":85669801,
     "wof:placetype":"county",

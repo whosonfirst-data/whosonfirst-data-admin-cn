@@ -325,8 +325,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.LN.SY"
+        "hasc:id":"CN.LN.SY",
+        "meso:local_id":"73843879"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824275,
     "wof:geomhash":"f60bd2a6de1004fc0c7e8fbed9c2a15e",
@@ -340,7 +345,7 @@
         }
     ],
     "wof:id":1108732451,
-    "wof:lastmodified":1694493369,
+    "wof:lastmodified":1695886605,
     "wof:name":"Shenyang",
     "wof:parent_id":85669807,
     "wof:placetype":"county",

@@ -176,8 +176,13 @@
     "wof:concordances":{
         "gp:id":26198352,
         "hasc:id":"CN.GX.HZ",
+        "meso:local_id":"73843972",
         "qs_pg:id":1086440
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055894,
     "wof:geom_alt":[
@@ -194,7 +199,7 @@
         }
     ],
     "wof:id":890515189,
-    "wof:lastmodified":1694493385,
+    "wof:lastmodified":1695886063,
     "wof:name":"Hezhou",
     "wof:parent_id":85669717,
     "wof:placetype":"county",

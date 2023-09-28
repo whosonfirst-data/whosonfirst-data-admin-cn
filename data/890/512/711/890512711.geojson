@@ -181,8 +181,13 @@
     "wof:concordances":{
         "gn:id":1804151,
         "hasc:id":"CN.SC.LS",
+        "meso:local_id":"73843708",
         "qs_pg:id":1062522
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055782,
     "wof:geom_alt":[
@@ -199,7 +204,7 @@
         }
     ],
     "wof:id":890512711,
-    "wof:lastmodified":1694493406,
+    "wof:lastmodified":1695886151,
     "wof:name":"Leshan",
     "wof:parent_id":85669787,
     "wof:placetype":"county",

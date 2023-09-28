@@ -202,8 +202,13 @@
     "wof:concordances":{
         "gn:id":1788527,
         "hasc:id":"CN.HE.XY",
+        "meso:local_id":"73843722",
         "qs_pg:id":276564
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055763,
     "wof:geom_alt":[
@@ -220,7 +225,7 @@
         }
     ],
     "wof:id":890512239,
-    "wof:lastmodified":1694493405,
+    "wof:lastmodified":1695886151,
     "wof:name":"Xinyang",
     "wof:parent_id":85669801,
     "wof:placetype":"county",

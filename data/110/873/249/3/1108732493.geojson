@@ -169,8 +169,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.SD.LW"
+        "hasc:id":"CN.SD.LW",
+        "meso:local_id":"73843956"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824336,
     "wof:geomhash":"f9efe2a2dd5fbddf3cc7f502e83426db",
@@ -184,7 +189,7 @@
         }
     ],
     "wof:id":1108732493,
-    "wof:lastmodified":1694493395,
+    "wof:lastmodified":1695886122,
     "wof:name":"Laiwu",
     "wof:parent_id":85669813,
     "wof:placetype":"county",

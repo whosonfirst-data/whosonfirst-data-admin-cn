@@ -76,8 +76,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.GZ.QX"
+        "hasc:id":"CN.GZ.QX",
+        "meso:local_id":"73844041"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824437,
     "wof:geomhash":"9f042d551f946deba214e4b510975051",
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":1108732559,
-    "wof:lastmodified":1694493392,
+    "wof:lastmodified":1695886503,
     "wof:name":"Qianxinan",
     "wof:parent_id":85669721,
     "wof:placetype":"county",

@@ -187,8 +187,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.HN.XT"
+        "hasc:id":"CN.HN.XT",
+        "meso:local_id":"73843904"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824298,
     "wof:geomhash":"2adee2837034ff0ba3527ff0a2b0cff2",
@@ -202,7 +207,7 @@
         }
     ],
     "wof:id":1108732467,
-    "wof:lastmodified":1694493395,
+    "wof:lastmodified":1695886121,
     "wof:name":"Xiangtan",
     "wof:parent_id":85669781,
     "wof:placetype":"county",

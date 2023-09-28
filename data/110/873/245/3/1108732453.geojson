@@ -172,8 +172,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.GX.HC"
+        "hasc:id":"CN.GX.HC",
+        "meso:local_id":"73843881"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824279,
     "wof:geomhash":"c9b77651993615941ca72f148607a1e2",
@@ -187,7 +192,7 @@
         }
     ],
     "wof:id":1108732453,
-    "wof:lastmodified":1694493394,
+    "wof:lastmodified":1695886118,
     "wof:name":"Hechi",
     "wof:parent_id":85669717,
     "wof:placetype":"county",

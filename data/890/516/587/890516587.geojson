@@ -179,8 +179,13 @@
     "wof:concordances":{
         "gp:id":26198122,
         "hasc:id":"CN.SA.YA",
+        "meso:local_id":"73843814",
         "qs_pg:id":220001
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055964,
     "wof:geom_alt":[
@@ -197,7 +202,7 @@
         }
     ],
     "wof:id":890516587,
-    "wof:lastmodified":1694493377,
+    "wof:lastmodified":1695886042,
     "wof:name":"Yan'an",
     "wof:parent_id":85669769,
     "wof:placetype":"county",

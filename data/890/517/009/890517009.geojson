@@ -178,8 +178,13 @@
     "wof:concordances":{
         "gn:id":1796667,
         "hasc:id":"CN.HE.SM",
+        "meso:local_id":"73843688",
         "qs_pg:id":903667
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055990,
     "wof:geom_alt":[
@@ -196,7 +201,7 @@
         }
     ],
     "wof:id":890517009,
-    "wof:lastmodified":1694493374,
+    "wof:lastmodified":1695886036,
     "wof:name":"Sanmenxia",
     "wof:parent_id":85669801,
     "wof:placetype":"county",

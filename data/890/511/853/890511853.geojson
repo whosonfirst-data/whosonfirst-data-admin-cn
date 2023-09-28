@@ -187,8 +187,13 @@
     "wof:concordances":{
         "gn:id":1800145,
         "hasc:id":"CN.SC.NC",
+        "meso:local_id":"73843737",
         "qs_pg:id":1152049
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055748,
     "wof:geom_alt":[
@@ -205,7 +210,7 @@
         }
     ],
     "wof:id":890511853,
-    "wof:lastmodified":1694493400,
+    "wof:lastmodified":1695886135,
     "wof:name":"Nanchong",
     "wof:parent_id":85669787,
     "wof:placetype":"county",

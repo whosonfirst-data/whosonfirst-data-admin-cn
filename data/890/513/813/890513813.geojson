@@ -416,8 +416,13 @@
     "wof:concordances":{
         "gp:id":26198311,
         "hasc:id":"CN.TJ.TJ",
+        "meso:local_id":"73843777",
         "qs_pg:id":358262
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055836,
     "wof:geom_alt":[
@@ -434,7 +439,7 @@
         }
     ],
     "wof:id":890513813,
-    "wof:lastmodified":1694493382,
+    "wof:lastmodified":1695886057,
     "wof:name":"Tianjin",
     "wof:parent_id":85669817,
     "wof:placetype":"county",

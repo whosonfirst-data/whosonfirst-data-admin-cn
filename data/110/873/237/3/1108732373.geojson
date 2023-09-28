@@ -76,8 +76,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.XJ.BT"
+        "hasc:id":"CN.XJ.BT",
+        "meso:local_id":"73843743"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824148,
     "wof:geomhash":"e257494cc168006fa3d265bf457d0bd3",
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":1108732373,
-    "wof:lastmodified":1694493388,
+    "wof:lastmodified":1695886493,
     "wof:name":"Bo'ertala",
     "wof:parent_id":85669753,
     "wof:placetype":"county",

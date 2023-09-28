@@ -166,8 +166,13 @@
     "wof:concordances":{
         "gn:id":1810686,
         "hasc:id":"CN.GS.GN",
+        "meso:local_id":"73843925",
         "qs_pg:id":244488
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055994,
     "wof:geomhash":"0362883f93612be08d6057087ada600f",
@@ -181,7 +186,7 @@
         }
     ],
     "wof:id":1108794071,
-    "wof:lastmodified":1694493396,
+    "wof:lastmodified":1695886126,
     "wof:name":"Gannan",
     "wof:parent_id":85669711,
     "wof:placetype":"county",

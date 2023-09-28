@@ -100,8 +100,13 @@
     "wof:concordances":{
         "gn:id":2034711,
         "hasc:id":"CN.JL.SP",
+        "meso:local_id":"73843767",
         "qs_pg:id":1028372
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055853,
     "wof:geom_alt":[
@@ -118,7 +123,7 @@
         }
     ],
     "wof:id":890514217,
-    "wof:lastmodified":1694493401,
+    "wof:lastmodified":1695886138,
     "wof:name":"Siping",
     "wof:parent_id":85669843,
     "wof:placetype":"county",
