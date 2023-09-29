@@ -98,9 +98,14 @@
     "wof:concordances":{
         "gn:id":1801637,
         "hasc:id":"CN.SC.LZ",
+        "meso:local_id":"73843886",
         "qs_pg:id":1027626,
         "wk:page":"Luzhou District"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055849,
     "wof:geom_alt":[
@@ -117,7 +122,7 @@
         }
     ],
     "wof:id":890514155,
-    "wof:lastmodified":1694493402,
+    "wof:lastmodified":1695886142,
     "wof:name":"Luzhou",
     "wof:parent_id":85669787,
     "wof:placetype":"county",

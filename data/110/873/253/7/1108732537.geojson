@@ -167,8 +167,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"CN.XZ.AL",
+        "meso:local_id":"73844020",
         "wd:id":"Q577713"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824405,
     "wof:geomhash":"39e2f97dee5310ddd52fa36f3d8de144",
@@ -182,7 +187,7 @@
         }
     ],
     "wof:id":1108732537,
-    "wof:lastmodified":1694493372,
+    "wof:lastmodified":1695886612,
     "wof:name":"Ali",
     "wof:parent_id":85669747,
     "wof:placetype":"county",

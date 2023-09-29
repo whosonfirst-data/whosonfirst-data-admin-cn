@@ -328,8 +328,13 @@
     "wof:concordances":{
         "gn:id":2038176,
         "hasc:id":"CN.JL.CC",
+        "meso:local_id":"73844007",
         "qs_pg:id":1028420
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055853,
     "wof:geom_alt":[
@@ -346,7 +351,7 @@
         }
     ],
     "wof:id":890514235,
-    "wof:lastmodified":1694493378,
+    "wof:lastmodified":1695886047,
     "wof:name":"Changchun",
     "wof:parent_id":85669843,
     "wof:placetype":"county",

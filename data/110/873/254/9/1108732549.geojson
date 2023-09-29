@@ -172,8 +172,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.HE.HB"
+        "hasc:id":"CN.HE.HB",
+        "meso:local_id":"73844031"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824421,
     "wof:geomhash":"183578114b4c45892c831aed91a8ac12",
@@ -187,7 +192,7 @@
         }
     ],
     "wof:id":1108732549,
-    "wof:lastmodified":1694493395,
+    "wof:lastmodified":1695886123,
     "wof:name":"Hebi",
     "wof:parent_id":85669801,
     "wof:placetype":"county",

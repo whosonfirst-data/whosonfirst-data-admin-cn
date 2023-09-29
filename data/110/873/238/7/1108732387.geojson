@@ -170,8 +170,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"CN.XJ.HT",
+        "meso:local_id":"73843756",
         "wd:id":"Q989885"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824168,
     "wof:geomhash":"b18b7f08e692211a84c71866a4b6bd16",
@@ -185,7 +190,7 @@
         }
     ],
     "wof:id":1108732387,
-    "wof:lastmodified":1694493372,
+    "wof:lastmodified":1695886611,
     "wof:name":"Hetian",
     "wof:parent_id":85669753,
     "wof:placetype":"county",

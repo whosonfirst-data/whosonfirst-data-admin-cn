@@ -169,8 +169,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.GZ.LP"
+        "hasc:id":"CN.GZ.LP",
+        "meso:local_id":"73843727"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824135,
     "wof:geomhash":"5007b6fa9e43e133c1a463b5bf295664",
@@ -184,7 +189,7 @@
         }
     ],
     "wof:id":1108732363,
-    "wof:lastmodified":1694493395,
+    "wof:lastmodified":1695886122,
     "wof:name":"Liupanshui",
     "wof:parent_id":85669721,
     "wof:placetype":"county",

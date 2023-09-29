@@ -172,8 +172,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.GX.QZ"
+        "hasc:id":"CN.GX.QZ",
+        "meso:local_id":"73843998"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824366,
     "wof:geomhash":"b8ee890055bd89f845613473066865f0",
@@ -187,7 +192,7 @@
         }
     ],
     "wof:id":1108732511,
-    "wof:lastmodified":1694493394,
+    "wof:lastmodified":1695886119,
     "wof:name":"Qinzhou",
     "wof:parent_id":85669717,
     "wof:placetype":"county",

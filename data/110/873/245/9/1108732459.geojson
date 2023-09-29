@@ -243,8 +243,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.HA.HK"
+        "hasc:id":"CN.HA.HK",
+        "meso:local_id":"73843893"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"CN",
     "wof:created":1478824286,
     "wof:geomhash":"9a3c822e0aa14adc3f7e4e721b83751d",
@@ -257,7 +259,7 @@
         }
     ],
     "wof:id":1108732459,
-    "wof:lastmodified":1694493369,
+    "wof:lastmodified":1695886605,
     "wof:name":"Haikou",
     "wof:parent_id":85669759,
     "wof:placetype":"county",

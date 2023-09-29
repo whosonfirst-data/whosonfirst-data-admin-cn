@@ -94,8 +94,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.YN.CX"
+        "hasc:id":"CN.YN.CX",
+        "meso:local_id":"73843868"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824265,
     "wof:geomhash":"1dfd0679a8397846ceced1833687914e",
@@ -109,7 +114,7 @@
         }
     ],
     "wof:id":1108732445,
-    "wof:lastmodified":1694493394,
+    "wof:lastmodified":1695886119,
     "wof:name":"Chuxiong",
     "wof:parent_id":85669791,
     "wof:placetype":"county",

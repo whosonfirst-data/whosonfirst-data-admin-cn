@@ -76,8 +76,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.XJ.BY"
+        "hasc:id":"CN.XJ.BY",
+        "meso:local_id":"73843804"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824213,
     "wof:geomhash":"f413d353c5a93c37bae91d42227e97c7",
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":1108732417,
-    "wof:lastmodified":1694493387,
+    "wof:lastmodified":1695886491,
     "wof:name":"Bayinguoleng",
     "wof:parent_id":85669753,
     "wof:placetype":"county",

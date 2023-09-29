@@ -76,8 +76,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.QH.HX"
+        "hasc:id":"CN.QH.HX",
+        "meso:local_id":"73843894"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824288,
     "wof:geomhash":"6aedaac981d3b0cd5071b38827a6fbad",
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":1108732461,
-    "wof:lastmodified":1694493390,
+    "wof:lastmodified":1695886497,
     "wof:name":"Haixi Mengguzu",
     "wof:parent_id":85669715,
     "wof:placetype":"county",

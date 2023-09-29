@@ -154,8 +154,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.SC.BZ"
+        "hasc:id":"CN.SC.BZ",
+        "meso:local_id":"73843802"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824208,
     "wof:geomhash":"70b6442ccb4e137c6674cfce76bbd036",
@@ -169,7 +174,7 @@
         }
     ],
     "wof:id":1108732413,
-    "wof:lastmodified":1694493371,
+    "wof:lastmodified":1695886609,
     "wof:name":"Bazhong",
     "wof:parent_id":85669787,
     "wof:placetype":"county",

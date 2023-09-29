@@ -151,8 +151,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.QH.HD"
+        "hasc:id":"CN.QH.HD",
+        "meso:local_id":"73843890"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824283,
     "wof:geomhash":"d9ed93397daced508f41dde4e2e42271",
@@ -166,7 +171,7 @@
         }
     ],
     "wof:id":1108732457,
-    "wof:lastmodified":1694493369,
+    "wof:lastmodified":1695886605,
     "wof:name":"Haidong",
     "wof:parent_id":85669715,
     "wof:placetype":"county",

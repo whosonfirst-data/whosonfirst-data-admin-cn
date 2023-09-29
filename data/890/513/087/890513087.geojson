@@ -445,8 +445,13 @@
         "gn:id":1809857,
         "gp:id":26198245,
         "hasc:id":"CN.GD.GZ",
+        "meso:local_id":"73843811",
         "qs_pg:id":1193760
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055800,
     "wof:geom_alt":[
@@ -463,7 +468,7 @@
         }
     ],
     "wof:id":890513087,
-    "wof:lastmodified":1694493382,
+    "wof:lastmodified":1695886056,
     "wof:name":"Guangzhou",
     "wof:parent_id":85669743,
     "wof:placetype":"county",

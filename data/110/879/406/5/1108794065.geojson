@@ -206,9 +206,14 @@
     "wof:concordances":{
         "gn:id":1818175,
         "hasc:id":"CN.SC.AB",
+        "meso:local_id":"73844017",
         "qs_pg:id":1027740,
         "wd:id":"Q304182"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055852,
     "wof:geomhash":"b8d3565deb116ac6951d0c20da91368d",
@@ -222,7 +227,7 @@
         }
     ],
     "wof:id":1108794065,
-    "wof:lastmodified":1694493374,
+    "wof:lastmodified":1695886616,
     "wof:name":"Aba",
     "wof:parent_id":85669787,
     "wof:placetype":"county",

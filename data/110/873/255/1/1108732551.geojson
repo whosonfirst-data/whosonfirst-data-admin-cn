@@ -76,8 +76,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.QH.HU"
+        "hasc:id":"CN.QH.HU",
+        "meso:local_id":"73844035"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824424,
     "wof:geomhash":"65bacba38f6d19b948a27910cb11ac72",
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":1108732551,
-    "wof:lastmodified":1694493390,
+    "wof:lastmodified":1695886498,
     "wof:name":"Huangnan",
     "wof:parent_id":85669715,
     "wof:placetype":"county",

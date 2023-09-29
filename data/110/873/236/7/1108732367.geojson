@@ -88,8 +88,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.NM.XG"
+        "hasc:id":"CN.NM.XG",
+        "meso:local_id":"73843729"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824138,
     "wof:geomhash":"614cbe735fefc31efa77cd646d599d24",
@@ -103,7 +108,7 @@
         }
     ],
     "wof:id":1108732367,
-    "wof:lastmodified":1694493372,
+    "wof:lastmodified":1695886611,
     "wof:name":"Xing'an",
     "wof:parent_id":85669847,
     "wof:placetype":"county",

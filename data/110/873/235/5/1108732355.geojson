@@ -85,8 +85,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.XJ.YL"
+        "hasc:id":"CN.XJ.YL",
+        "meso:local_id":"73843716"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824122,
     "wof:geomhash":"3e7082f7e5cd2df028954d9b9502b741",
@@ -100,7 +105,7 @@
         }
     ],
     "wof:id":1108732355,
-    "wof:lastmodified":1694493370,
+    "wof:lastmodified":1695886608,
     "wof:name":"Yili",
     "wof:parent_id":85669753,
     "wof:placetype":"county",

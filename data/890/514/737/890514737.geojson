@@ -406,8 +406,13 @@
         "gn:id":1795563,
         "gp:id":26198346,
         "hasc:id":"CN.GD.SZ",
+        "meso:local_id":"73843899",
         "qs_pg:id":891428
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055875,
     "wof:geom_alt":[
@@ -424,7 +429,7 @@
         }
     ],
     "wof:id":890514737,
-    "wof:lastmodified":1694493378,
+    "wof:lastmodified":1695886046,
     "wof:name":"Shenzhen",
     "wof:parent_id":85669743,
     "wof:placetype":"county",

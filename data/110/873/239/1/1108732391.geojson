@@ -185,8 +185,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"CN.XJ.KS",
+        "meso:local_id":"73843764",
         "wd:id":"Q739890"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824174,
     "wof:geomhash":"9bbf9239135246ba3656f7aa654e77b2",
@@ -200,7 +205,7 @@
         }
     ],
     "wof:id":1108732391,
-    "wof:lastmodified":1694493373,
+    "wof:lastmodified":1695886614,
     "wof:name":"Kashi",
     "wof:parent_id":85669753,
     "wof:placetype":"county",

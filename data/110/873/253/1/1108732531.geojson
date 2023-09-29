@@ -76,8 +76,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.XJ.AL"
+        "hasc:id":"CN.XJ.AL",
+        "meso:local_id":"73844016"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824395,
     "wof:geomhash":"81d2a5ea11f654630e8cff1e472afe52",
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":1108732531,
-    "wof:lastmodified":1694493388,
+    "wof:lastmodified":1695886492,
     "wof:name":"Aletai",
     "wof:parent_id":85669753,
     "wof:placetype":"county",

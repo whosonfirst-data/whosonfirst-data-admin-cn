@@ -193,8 +193,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.AH.HB"
+        "hasc:id":"CN.AH.HB",
+        "meso:local_id":"73843896"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824291,
     "wof:geomhash":"7ca104406e1cbd57550cbd1ae0b53807",
@@ -208,7 +213,7 @@
         }
     ],
     "wof:id":1108732463,
-    "wof:lastmodified":1694493395,
+    "wof:lastmodified":1695886121,
     "wof:name":"Huaibei",
     "wof:parent_id":85669739,
     "wof:placetype":"county",

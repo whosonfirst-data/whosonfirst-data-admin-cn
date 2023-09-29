@@ -166,8 +166,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.SX.YQ"
+        "hasc:id":"CN.SX.YQ",
+        "meso:local_id":"73844014"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824388,
     "wof:geomhash":"55c445d205ed695cf9bd070fbd3e4e49",
@@ -181,7 +186,7 @@
         }
     ],
     "wof:id":1108732525,
-    "wof:lastmodified":1694493396,
+    "wof:lastmodified":1695886126,
     "wof:name":"Yangquan",
     "wof:parent_id":85669773,
     "wof:placetype":"county",

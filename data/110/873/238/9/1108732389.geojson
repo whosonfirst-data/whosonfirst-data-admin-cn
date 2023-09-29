@@ -163,8 +163,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.XJ.HM"
+        "hasc:id":"CN.XJ.HM",
+        "meso:local_id":"73843759"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824171,
     "wof:geomhash":"5b9c5d569d03c8b5e1096c861de55226",
@@ -178,7 +183,7 @@
         }
     ],
     "wof:id":1108732389,
-    "wof:lastmodified":1694493395,
+    "wof:lastmodified":1695886123,
     "wof:name":"Hami",
     "wof:parent_id":85669753,
     "wof:placetype":"county",

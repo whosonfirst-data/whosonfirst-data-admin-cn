@@ -137,8 +137,13 @@
     "wof:concordances":{
         "gp:id":26198248,
         "hasc:id":"CN.GX.YL",
+        "meso:local_id":"73843919",
         "qs_pg:id":358199
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055867,
     "wof:geom_alt":[
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":890514591,
-    "wof:lastmodified":1694493403,
+    "wof:lastmodified":1695886143,
     "wof:name":"Yulin",
     "wof:parent_id":85669717,
     "wof:placetype":"county",

@@ -197,9 +197,14 @@
     "wof:concordances":{
         "gp:id":26198320,
         "hasc:id":"CN.XZ.RK",
+        "meso:local_id":"73843842",
         "qs_pg:id":889904,
         "wd:id":"Q116656"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055955,
     "wof:geom_alt":[
@@ -216,7 +221,7 @@
         }
     ],
     "wof:id":890516395,
-    "wof:lastmodified":1694493376,
+    "wof:lastmodified":1695886040,
     "wof:name":"Rikaze",
     "wof:parent_id":85669747,
     "wof:placetype":"county",

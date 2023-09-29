@@ -176,8 +176,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"CN.XZ.NQ",
+        "meso:local_id":"73843987",
         "wd:id":"Q1012460"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824361,
     "wof:geomhash":"50b53a6f4c87b225359dba2539827d34",
@@ -191,7 +196,7 @@
         }
     ],
     "wof:id":1108732507,
-    "wof:lastmodified":1694493370,
+    "wof:lastmodified":1695886607,
     "wof:name":"Naqu",
     "wof:parent_id":85669747,
     "wof:placetype":"county",

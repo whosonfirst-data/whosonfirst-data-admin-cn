@@ -611,8 +611,13 @@
     "wof:concordances":{
         "gp:id":26198093,
         "hasc:id":"CN.SH.SH",
+        "meso:local_id":"73843689",
         "qs_pg:id":959230
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055878,
     "wof:geom_alt":[
@@ -629,7 +634,7 @@
         }
     ],
     "wof:id":890514815,
-    "wof:lastmodified":1694493379,
+    "wof:lastmodified":1695886050,
     "wof:name":"Shanghai",
     "wof:parent_id":85669831,
     "wof:placetype":"county",

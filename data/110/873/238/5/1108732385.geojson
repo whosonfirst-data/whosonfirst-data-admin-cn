@@ -76,8 +76,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.NM.HL"
+        "hasc:id":"CN.NM.HL",
+        "meso:local_id":"73843754"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824165,
     "wof:geomhash":"4b8f58e7fcb1b6282584411fdda8ddbc",
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":1108732385,
-    "wof:lastmodified":1694493391,
+    "wof:lastmodified":1695886500,
     "wof:name":"Hulunbei'er",
     "wof:parent_id":85669847,
     "wof:placetype":"county",

@@ -166,8 +166,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.HL.SY"
+        "hasc:id":"CN.HL.SY",
+        "meso:local_id":"73843745"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824155,
     "wof:geomhash":"12578423684614733d0650aca69c72e6",
@@ -181,7 +186,7 @@
         }
     ],
     "wof:id":1108732377,
-    "wof:lastmodified":1694493396,
+    "wof:lastmodified":1695886125,
     "wof:name":"Shuangyashan",
     "wof:parent_id":85669849,
     "wof:placetype":"county",

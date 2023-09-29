@@ -157,8 +157,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.YN.DL"
+        "hasc:id":"CN.YN.DL",
+        "meso:local_id":"73843774"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824190,
     "wof:geomhash":"e63f3addd5b40d7445b10c763ea9a8a9",
@@ -172,7 +177,7 @@
         }
     ],
     "wof:id":1108732403,
-    "wof:lastmodified":1694493395,
+    "wof:lastmodified":1695886122,
     "wof:name":"Dali",
     "wof:parent_id":85669791,
     "wof:placetype":"county",

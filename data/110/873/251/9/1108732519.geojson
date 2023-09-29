@@ -76,8 +76,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.NM.XL"
+        "hasc:id":"CN.NM.XL",
+        "meso:local_id":"73844004"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824379,
     "wof:geomhash":"cd35b54482c8c8d13d6961ec8ee47e9f",
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":1108732519,
-    "wof:lastmodified":1694493393,
+    "wof:lastmodified":1695886506,
     "wof:name":"Xilinguole",
     "wof:parent_id":85669847,
     "wof:placetype":"county",

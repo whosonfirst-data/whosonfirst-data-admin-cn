@@ -169,8 +169,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.GD.JY"
+        "hasc:id":"CN.GD.JY",
+        "meso:local_id":"73843835"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824242,
     "wof:geomhash":"5fa18e5615225d56e245c6461f90b144",
@@ -184,7 +189,7 @@
         }
     ],
     "wof:id":1108732429,
-    "wof:lastmodified":1694493369,
+    "wof:lastmodified":1695886605,
     "wof:name":"Jieyang",
     "wof:parent_id":85669743,
     "wof:placetype":"county",

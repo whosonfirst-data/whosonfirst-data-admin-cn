@@ -223,8 +223,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.GD.ST"
+        "hasc:id":"CN.GD.ST",
+        "meso:local_id":"73843875"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824271,
     "wof:geomhash":"89730df8678ae2b418f5075285eea57b",
@@ -238,7 +243,7 @@
         }
     ],
     "wof:id":1108732449,
-    "wof:lastmodified":1694493370,
+    "wof:lastmodified":1695886606,
     "wof:name":"Shantou",
     "wof:parent_id":85669743,
     "wof:placetype":"county",

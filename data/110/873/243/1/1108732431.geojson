@@ -103,8 +103,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.YN.WS"
+        "hasc:id":"CN.YN.WS",
+        "meso:local_id":"73843837"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824244,
     "wof:geomhash":"e7295715fc1f046a5a26e4b4c9d6e8ae",
@@ -118,7 +123,7 @@
         }
     ],
     "wof:id":1108732431,
-    "wof:lastmodified":1694493394,
+    "wof:lastmodified":1695886118,
     "wof:name":"Wenshan",
     "wof:parent_id":85669791,
     "wof:placetype":"county",

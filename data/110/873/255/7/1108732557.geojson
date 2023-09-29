@@ -76,8 +76,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.GZ.QN"
+        "hasc:id":"CN.GZ.QN",
+        "meso:local_id":"73844040"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824434,
     "wof:geomhash":"5b99659a18a469e92fadb17b93eea577",
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":1108732557,
-    "wof:lastmodified":1694493392,
+    "wof:lastmodified":1695886503,
     "wof:name":"Qiannan",
     "wof:parent_id":85669721,
     "wof:placetype":"county",

@@ -131,8 +131,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"CN.HU.JZ",
+        "meso:local_id":"73843953",
         "wd:id":"Q1198838"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824333,
     "wof:geomhash":"9904a92751374d263e8ffaba99620087",
@@ -146,7 +151,7 @@
         }
     ],
     "wof:id":1108732489,
-    "wof:lastmodified":1694493395,
+    "wof:lastmodified":1695886121,
     "wof:name":"Jingzhou",
     "wof:parent_id":85669777,
     "wof:placetype":"county",

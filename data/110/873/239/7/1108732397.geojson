@@ -157,8 +157,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.XJ.TC"
+        "hasc:id":"CN.XJ.TC",
+        "meso:local_id":"73843770"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824184,
     "wof:geomhash":"c7f51a5864349e0c8322cc99337abbca",
@@ -172,7 +177,7 @@
         }
     ],
     "wof:id":1108732397,
-    "wof:lastmodified":1694493396,
+    "wof:lastmodified":1695886123,
     "wof:name":"Tacheng",
     "wof:parent_id":85669753,
     "wof:placetype":"county",

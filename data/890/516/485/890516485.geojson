@@ -182,8 +182,13 @@
     "wof:concordances":{
         "gp:id":26198177,
         "hasc:id":"CN.GX.BS",
+        "meso:local_id":"73843931",
         "qs_pg:id":212458
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055960,
     "wof:geom_alt":[
@@ -200,7 +205,7 @@
         }
     ],
     "wof:id":890516485,
-    "wof:lastmodified":1694493375,
+    "wof:lastmodified":1695886038,
     "wof:name":"Baise",
     "wof:parent_id":85669717,
     "wof:placetype":"county",

@@ -178,8 +178,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.SD.LY"
+        "hasc:id":"CN.SD.LY",
+        "meso:local_id":"73843698"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824101,
     "wof:geomhash":"bd34118d1a112609215f9c01fe2ed636",
@@ -193,7 +198,7 @@
         }
     ],
     "wof:id":1108732339,
-    "wof:lastmodified":1694493394,
+    "wof:lastmodified":1695886120,
     "wof:name":"Linyi",
     "wof:parent_id":85669813,
     "wof:placetype":"county",

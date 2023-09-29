@@ -82,8 +82,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.YN.NJ"
+        "hasc:id":"CN.YN.NJ",
+        "meso:local_id":"73843826"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824235,
     "wof:geomhash":"8d84ed71597ef263ede8b89fcf228d31",
@@ -97,7 +102,7 @@
         }
     ],
     "wof:id":1108732425,
-    "wof:lastmodified":1694493392,
+    "wof:lastmodified":1695886502,
     "wof:name":"Nujiang",
     "wof:parent_id":85669791,
     "wof:placetype":"county",

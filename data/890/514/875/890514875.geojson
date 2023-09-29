@@ -199,8 +199,13 @@
     "wof:concordances":{
         "gn:id":2036985,
         "hasc:id":"CN.HL.HG",
+        "meso:local_id":"73844032",
         "qs_pg:id":846712
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055880,
     "wof:geom_alt":[
@@ -217,7 +222,7 @@
         }
     ],
     "wof:id":890514875,
-    "wof:lastmodified":1694493401,
+    "wof:lastmodified":1695886139,
     "wof:name":"Hegang",
     "wof:parent_id":85669849,
     "wof:placetype":"county",

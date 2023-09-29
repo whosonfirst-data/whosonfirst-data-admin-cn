@@ -178,8 +178,13 @@
     "wof:concordances":{
         "gn:id":1807688,
         "hasc:id":"CN.HN.HH",
+        "meso:local_id":"73843825",
         "qs_pg:id":1031631
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1469055857,
     "wof:geom_alt":[
@@ -196,7 +201,7 @@
         }
     ],
     "wof:id":890514349,
-    "wof:lastmodified":1694493379,
+    "wof:lastmodified":1695886048,
     "wof:name":"Huaihua",
     "wof:parent_id":85669781,
     "wof:placetype":"county",

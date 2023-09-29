@@ -199,8 +199,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.AH.HS"
+        "hasc:id":"CN.AH.HS",
+        "meso:local_id":"73844036"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824427,
     "wof:geomhash":"31d4618d2a5737e220c6e0f862a1ab58",
@@ -214,7 +219,7 @@
         }
     ],
     "wof:id":1108732553,
-    "wof:lastmodified":1694493374,
+    "wof:lastmodified":1695886615,
     "wof:name":"Huangshan",
     "wof:parent_id":85669739,
     "wof:placetype":"county",

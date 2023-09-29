@@ -172,8 +172,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.JL.LY"
+        "hasc:id":"CN.JL.LY",
+        "meso:local_id":"73843976"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824353,
     "wof:geomhash":"9f8cf6aac5c846e1bda4cbac8e5dd0e1",
@@ -187,7 +192,7 @@
         }
     ],
     "wof:id":1108732503,
-    "wof:lastmodified":1694493394,
+    "wof:lastmodified":1695886119,
     "wof:name":"Liaoyuan",
     "wof:parent_id":85669843,
     "wof:placetype":"county",

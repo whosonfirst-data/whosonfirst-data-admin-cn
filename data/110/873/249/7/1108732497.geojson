@@ -181,8 +181,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.HU.XF"
+        "hasc:id":"CN.HU.XF",
+        "meso:local_id":"73843965"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824344,
     "wof:geomhash":"1354d662ea6649d83e840a4334d778fb",
@@ -196,7 +201,7 @@
         }
     ],
     "wof:id":1108732497,
-    "wof:lastmodified":1694493395,
+    "wof:lastmodified":1695886122,
     "wof:name":"Xiangyang",
     "wof:parent_id":85669777,
     "wof:placetype":"county",

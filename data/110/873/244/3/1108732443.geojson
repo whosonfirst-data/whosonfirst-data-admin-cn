@@ -229,8 +229,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.GX.GL"
+        "hasc:id":"CN.GX.GL",
+        "meso:local_id":"73843865"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824262,
     "wof:geomhash":"d3ec051172116f8eb52aa151eaf1014a",
@@ -244,7 +249,7 @@
         }
     ],
     "wof:id":1108732443,
-    "wof:lastmodified":1694493370,
+    "wof:lastmodified":1695886606,
     "wof:name":"Guilin",
     "wof:parent_id":85669717,
     "wof:placetype":"county",

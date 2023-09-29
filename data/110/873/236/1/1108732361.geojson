@@ -76,8 +76,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.XJ.KZ"
+        "hasc:id":"CN.XJ.KZ",
+        "meso:local_id":"73843724"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824131,
     "wof:geomhash":"9b931bc471a8d7349e9ebafb0a84b03d",
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":1108732361,
-    "wof:lastmodified":1694493390,
+    "wof:lastmodified":1695886498,
     "wof:name":"Kezilesu",
     "wof:parent_id":85669753,
     "wof:placetype":"county",

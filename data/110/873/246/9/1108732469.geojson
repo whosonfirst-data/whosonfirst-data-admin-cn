@@ -166,8 +166,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"CN.SD.BS"
+        "hasc:id":"CN.SD.BS",
+        "meso:local_id":"73843908"
     },
+    "wof:concordances_official":"meso:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"CN",
     "wof:created":1478824302,
     "wof:geomhash":"9207512cbf575ead35678c9e5f3123e5",
@@ -181,7 +186,7 @@
         }
     ],
     "wof:id":1108732469,
-    "wof:lastmodified":1694493371,
+    "wof:lastmodified":1695886609,
     "wof:name":"Binzhou",
     "wof:parent_id":85669813,
     "wof:placetype":"county",
