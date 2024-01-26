@@ -9,6 +9,9 @@
     "geom:bbox":"112.307052,22.185338,112.307052,22.185338",
     "geom:latitude":22.185338,
     "geom:longitude":112.307052,
+    "gn:country":"CN",
+    "gn:fcode":"PPLA4",
+    "gn:population":110921,
     "gp:adm0":23424781,
     "iso:country":"CN",
     "lbl:bbox":"112.287052,22.165338,112.327052,22.205338",
@@ -20,7 +23,19 @@
     "name:eng_x_preferred":[
         "Encheng"
     ],
+    "name:mlg_x_preferred":[
+        "Encheng"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043d\u044c\u043f\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Yan-ping-hsien"
+    ],
     "name:zho_x_preferred":[
+        "\u6069\u57ce\u9547"
+    ],
+    "name:zho_x_variant":[
         "\u6069\u57ce\u9547"
     ],
     "qs:name":"\u6069\u57ce\u9547",
@@ -34,17 +49,29 @@
     "qs:photos_sr":5,
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":52,
     "wof:belongsto":[
+        85669743,
         102191569,
         85632695,
-        890514609,
         136253041,
-        85669743
+        890514609
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1811729,
         "gp:id":2162027,
-        "qs_pg:id":900459
+        "qs_pg:id":900459,
+        "wk:page":"Encheng"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2162027
+        ],
+        "qs_pg:id":[
+            563335
+        ]
     },
     "wof:country":"CN",
     "wof:created":1469055877,
@@ -60,13 +87,17 @@
         }
     ],
     "wof:id":890514785,
-    "wof:lastmodified":1601422992,
+    "wof:lastmodified":1706239397,
     "wof:name":"Encheng",
     "wof:parent_id":890514609,
     "wof:placetype":"locality",
+    "wof:population":110921,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890517341
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u7ad6\u65d7\u5cad"
     ],
+    "name:zho_x_preferred":[
+        "\u7ad6\u65d7\u5cad"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669813,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9116528
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9121139
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"ab950046b79a2789e4a81600bdf659d1",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1259740585,
-    "wof:lastmodified":1566700247,
+    "wof:lastmodified":1706239450,
     "wof:name":"Shuqiling",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310372659
+    ],
     "wof:tags":[]
 },
   "bbox": [

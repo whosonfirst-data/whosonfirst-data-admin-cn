@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":10313539
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10312352
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"20c19545fe6838b1f9b7319177823bc4",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1293647755,
-    "wof:lastmodified":1566666954,
+    "wof:lastmodified":1706239467,
     "wof:name":"Xizhazicun",
     "wof:parent_id":1108732371,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343520035
+    ],
     "wof:tags":[]
 },
   "bbox": [

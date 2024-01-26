@@ -59,6 +59,11 @@
     "wof:concordances":{
         "gn:id":1917893
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1980800
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"63dbf57487d144376b992bccbf2ee297",
     "wof:hierarchy":[
@@ -72,13 +77,15 @@
         }
     ],
     "wof:id":1309705827,
-    "wof:lastmodified":1566692673,
+    "wof:lastmodified":1706239470,
     "wof:name":"Xikou",
     "wof:parent_id":890513339,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326726301
+    ],
     "wof:tags":[]
 },
   "bbox": [

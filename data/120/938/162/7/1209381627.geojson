@@ -40,8 +40,13 @@
     "wof:concordances":{
         "gn:id":11117066
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11123036
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"0d7b60eefbe114582acdd9d3edbf047b",
+    "wof:geomhash":"1261db393f0b808c2ba886d88b077509",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -49,20 +54,22 @@
         }
     ],
     "wof:id":1209381627,
-    "wof:lastmodified":1566678793,
+    "wof:lastmodified":1706239408,
     "wof:name":"Yilaowan Wudui",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226011639
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    107.71793999999998,
+    107.71794,
     37.82591,
-    107.71793999999998,
+    107.71794,
     37.82591
 ],
-  "geometry": {"coordinates":[107.71793999999998,37.82591],"type":"Point"}
+  "geometry": {"coordinates":[107.71794,37.82591],"type":"Point"}
 }

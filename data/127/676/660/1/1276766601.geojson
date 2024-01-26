@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1555833
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10440966
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"3dfe714b19acf651bdff54b94417b6f0",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1276766601,
-    "wof:lastmodified":1566676091,
+    "wof:lastmodified":1706239461,
     "wof:name":"Taoyuancun",
     "wof:parent_id":890513745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276876465
+    ],
     "wof:tags":[]
 },
   "bbox": [

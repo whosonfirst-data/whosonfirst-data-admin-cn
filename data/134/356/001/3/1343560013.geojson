@@ -52,6 +52,11 @@
     "wof:concordances":{
         "gn:id":2038010
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11019855
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"9a375a616ff6379254f5a10f52565c3d",
     "wof:hierarchy":[
@@ -65,13 +70,15 @@
         }
     ],
     "wof:id":1343560013,
-    "wof:lastmodified":1566661442,
+    "wof:lastmodified":1706239479,
     "wof:name":"Dachuancun",
     "wof:parent_id":1108732421,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343880787
+    ],
     "wof:tags":[]
 },
   "bbox": [

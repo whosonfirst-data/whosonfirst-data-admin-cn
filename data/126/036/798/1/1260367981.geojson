@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "\u73e0\u673a\u5854"
+    ],
     "name:zho_x_preferred":[
         "\u73e0\u7391\u5854"
     ],
@@ -44,6 +47,11 @@
     "wof:concordances":{
         "gn:id":7059367
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1927997
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"eb3490bd80f41ed488edd66eaf642bbb",
     "wof:hierarchy":[
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1260367981,
-    "wof:lastmodified":1566686736,
+    "wof:lastmodified":1706239455,
     "wof:name":"Zhujita",
     "wof:parent_id":890513321,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310392973
+    ],
     "wof:tags":[]
 },
   "bbox": [

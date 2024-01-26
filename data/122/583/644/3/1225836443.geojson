@@ -77,6 +77,9 @@
     "name:zho_x_preferred":[
         "\u6ea7\u9633\u5e02"
     ],
+    "name:zho_x_variant":[
+        "\u6ea7\u9633\u5e02"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669735,
@@ -88,6 +91,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6672317
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1894143
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"9161da1c31f2da0da935ff1323e8aa8c",
@@ -102,13 +110,15 @@
         }
     ],
     "wof:id":1225836443,
-    "wof:lastmodified":1566705990,
+    "wof:lastmodified":1706239418,
     "wof:name":"Liyang",
     "wof:parent_id":890516577,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343755457
+    ],
     "wof:tags":[]
 },
   "bbox": [

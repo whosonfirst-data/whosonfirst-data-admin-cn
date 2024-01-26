@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":8243965
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1917098
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"2f5fa50e7f8bb44dd3634449397ccb19",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209260969,
-    "wof:lastmodified":1566683724,
+    "wof:lastmodified":1706239405,
     "wof:name":"Danzhukeng",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276922309
+    ],
     "wof:tags":[]
 },
   "bbox": [

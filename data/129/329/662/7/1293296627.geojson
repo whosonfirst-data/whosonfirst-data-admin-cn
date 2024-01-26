@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":10799638
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1554599
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"1de17e9a694397868b49c769a6c87767",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1293296627,
-    "wof:lastmodified":1566670783,
+    "wof:lastmodified":1706239465,
     "wof:name":"Banpucun",
     "wof:parent_id":890513323,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309813093
+    ],
     "wof:tags":[]
 },
   "bbox": [

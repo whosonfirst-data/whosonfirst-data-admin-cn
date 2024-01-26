@@ -10,7 +10,9 @@
     "geom:latitude":30.737747,
     "geom:longitude":120.758583,
     "gn:population":466101,
+    "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"120.725067,30.741308,120.765067,30.781308",
     "lbl:latitude":30.767806,
     "lbl:longitude":120.743944,
     "lbl:max_zoom":13.0,
@@ -326,7 +328,18 @@
     "qs:loc":"Jiaxing",
     "qs:loc_alt":"\u5609\u5174\u5e02",
     "qs:loc_lc":"1805953",
+    "qs:name":"\u5609\u5174\u5e02",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u6d59\u6c5f\u7701",
+    "qs:photos":1227,
+    "qs:photos_1k":249,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1227,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
     "src:geom":"quattroshapes",
@@ -337,11 +350,11 @@
     "src:population":"geonames",
     "wd:wordcount":807,
     "wof:belongsto":[
+        85669835,
         102191569,
         85632695,
-        890514635,
         136253041,
-        85669835
+        890514635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -351,6 +364,14 @@
         "qs_pg:id":1033213,
         "wd:id":"Q58178",
         "wk:page":"Jiaxing"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2132577
+        ],
+        "qs_pg:id":[
+            1129699
+        ]
     },
     "wof:country":"CN",
     "wof:geom_alt":[
@@ -368,7 +389,7 @@
         }
     ],
     "wof:id":102027471,
-    "wof:lastmodified":1608688165,
+    "wof:lastmodified":1706239394,
     "wof:megacity":1,
     "wof:name":"Jiaxing",
     "wof:parent_id":890514635,
@@ -378,7 +399,9 @@
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:scale":6,
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890515455
+    ],
     "wof:tags":[]
 },
   "bbox": [

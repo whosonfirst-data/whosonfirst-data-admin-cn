@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":11194893
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11194874
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"5beb4aa3e99029ccd54f1ced67a50733",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1226409099,
-    "wof:lastmodified":1566704206,
+    "wof:lastmodified":1706239428,
     "wof:name":"Donggou",
     "wof:parent_id":890516587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259836243
+    ],
     "wof:tags":[]
 },
   "bbox": [

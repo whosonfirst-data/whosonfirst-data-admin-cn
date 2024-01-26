@@ -12,6 +12,7 @@
     "gn:latitude":45.58473,
     "gn:longitude":84.88724,
     "iso:country":"CN",
+    "lbl:bbox":"84.8399259022,45.569942036,84.8799259022,45.609942036",
     "lbl:latitude":46.13417,
     "lbl:longitude":85.726319,
     "lbl:max_zoom":18.0,
@@ -308,6 +309,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.0,
     "qs:a0":"\u4e2d\u570b",
     "qs:a1":"*\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a",
     "qs:a1r":"*",
@@ -323,6 +325,8 @@
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
+    "reversegeo:latitude":45.589942,
+    "reversegeo:longitude":84.859926,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
@@ -345,6 +349,11 @@
         "wd:id":"Q658240",
         "wk:page":"Karamay"
     },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q658240"
+        ]
+    },
     "wof:country":"CN",
     "wof:geom_alt":[
         "naturalearth",
@@ -362,13 +371,15 @@
         }
     ],
     "wof:id":102026829,
-    "wof:lastmodified":1636503607,
+    "wof:lastmodified":1706239392,
     "wof:name":"Karamay",
     "wof:parent_id":890515397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141908639
+    ],
     "wof:tags":[]
 },
   "bbox": [

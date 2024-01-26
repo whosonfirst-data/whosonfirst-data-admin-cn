@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":10915336
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10915337
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"72ca6413f203a4d4f651af2c1616e6c4",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1193014027,
-    "wof:lastmodified":1566684896,
+    "wof:lastmodified":1706239398,
     "wof:name":"Wujiayao",
     "wof:parent_id":890514235,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309801865
+    ],
     "wof:tags":[]
 },
   "bbox": [

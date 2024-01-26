@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7446127
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7368766
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"dab6ec0df8461f859cd13b1ef2537b33",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1242831085,
-    "wof:lastmodified":1566696635,
+    "wof:lastmodified":1706239436,
     "wof:name":"Nanchawan",
     "wof:parent_id":890516525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260046697
+    ],
     "wof:tags":[]
 },
   "bbox": [

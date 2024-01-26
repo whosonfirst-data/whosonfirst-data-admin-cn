@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":10263651
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10263649
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"a0ca6ab3106a668b9feb1dd44cb11d07",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1327117709,
-    "wof:lastmodified":1566654989,
+    "wof:lastmodified":1706239477,
     "wof:name":"Wenlangcun",
     "wof:parent_id":890515951,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327204859
+    ],
     "wof:tags":[]
 },
   "bbox": [

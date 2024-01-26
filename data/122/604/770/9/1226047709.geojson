@@ -29,6 +29,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Ch\u2019en-y\u00fc-tzu-chi",
+        "Chenwei",
+        "Chenxu"
+    ],
     "name:zho_x_preferred":[
         "\u9648\u5729"
     ],
@@ -44,6 +49,11 @@
     "wof:concordances":{
         "gn:id":11093644
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1898034
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"7510fcacdbc60f293051730ff3538fca",
     "wof:hierarchy":[
@@ -57,13 +67,15 @@
         }
     ],
     "wof:id":1226047709,
-    "wof:lastmodified":1566702273,
+    "wof:lastmodified":1706239421,
     "wof:name":"Chenxu",
     "wof:parent_id":890512205,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243554685
+    ],
     "wof:tags":[]
 },
   "bbox": [

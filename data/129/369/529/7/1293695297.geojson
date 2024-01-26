@@ -41,6 +41,9 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u043d\u044a\u044e\u0430\u043d\u044c"
     ],
+    "name:und_x_variant":[
+        "\u6c64\u6e90"
+    ],
     "name:zho_x_preferred":[
         "\u6c64\u6e90"
     ],
@@ -56,6 +59,11 @@
     "wof:concordances":{
         "gn:id":7069035
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6969896
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"b5d07a0a535493e72ef103c1095b639e",
     "wof:hierarchy":[
@@ -69,13 +77,15 @@
         }
     ],
     "wof:id":1293695297,
-    "wof:lastmodified":1566669263,
+    "wof:lastmodified":1706239467,
     "wof:name":"Tangyuan",
     "wof:parent_id":890516399,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310710395
+    ],
     "wof:tags":[]
 },
   "bbox": [

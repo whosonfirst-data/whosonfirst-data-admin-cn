@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":9943536
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9943550
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"1547fc2ceb303719c13faab09d84b6b2",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1209888299,
-    "wof:lastmodified":1566684131,
+    "wof:lastmodified":1706239415,
     "wof:name":"Shangli",
     "wof:parent_id":890515127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243153741
+    ],
     "wof:tags":[]
 },
   "bbox": [

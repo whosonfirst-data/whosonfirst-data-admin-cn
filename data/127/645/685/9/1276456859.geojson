@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1793313
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10441753
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"72a20a411c0896a2e3f6ef3bdb3c058d",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1276456859,
-    "wof:lastmodified":1566673261,
+    "wof:lastmodified":1706239459,
     "wof:name":"Tangxicun",
     "wof:parent_id":890513787,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343275355
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -44,6 +44,13 @@
     "name:swe_x_preferred":[
         "Nanda"
     ],
+    "name:und_x_variant":[
+        "Nandacun",
+        "\u5357\u8fbe\u6751",
+        "Mugua",
+        "\u6728\u74dc",
+        "\u5357\u8fbe"
+    ],
     "name:zho_x_preferred":[
         "\u5357\u8fbe"
     ],
@@ -58,6 +65,11 @@
     "wof:concordances":{
         "gn:id":7583832
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1915757
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"781a3d8c4fc8dc78a3113ee2bb7f5592",
     "wof:hierarchy":[
@@ -70,13 +82,15 @@
         }
     ],
     "wof:id":1226177813,
-    "wof:lastmodified":1566701260,
+    "wof:lastmodified":1706239424,
     "wof:name":"Nanda",
     "wof:parent_id":1108732481,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293819313
+    ],
     "wof:tags":[]
 },
   "bbox": [

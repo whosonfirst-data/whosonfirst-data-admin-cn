@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u5510\u5bb6\u5ddd"
     ],
+    "name:zho_x_preferred":[
+        "\u5510\u5bb6\u5ddd"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669711,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7446290
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7517168
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"da8ac8085890b79d21ce4819adddeae1",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1260150779,
-    "wof:lastmodified":1566686257,
+    "wof:lastmodified":1706239454,
     "wof:name":"Tangjiachuan",
     "wof:parent_id":890516337,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293866383
+    ],
     "wof:tags":[]
 },
   "bbox": [

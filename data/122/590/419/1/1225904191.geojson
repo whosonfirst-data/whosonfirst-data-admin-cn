@@ -91,6 +91,11 @@
     "wof:concordances":{
         "gn:id":1813151
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1917489
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"8a21b6edbaace08a55be17334dcbebfe",
     "wof:hierarchy":[
@@ -104,13 +109,15 @@
         }
     ],
     "wof:id":1225904191,
-    "wof:lastmodified":1566703303,
+    "wof:lastmodified":1706239419,
     "wof:name":"Dayuan",
     "wof:parent_id":890516559,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243213747
+    ],
     "wof:tags":[]
 },
   "bbox": [

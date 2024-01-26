@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":2035943
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11505195
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"425709ef18b38c1334a7f44deee64b6a",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1226308341,
-    "wof:lastmodified":1566705051,
+    "wof:lastmodified":1706239426,
     "wof:name":"Longzhuagoucun",
     "wof:parent_id":890514725,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259348311
+    ],
     "wof:tags":[]
 },
   "bbox": [

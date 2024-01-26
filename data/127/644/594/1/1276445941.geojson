@@ -47,8 +47,13 @@
     "wof:concordances":{
         "gn:id":1557377
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10414250
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"dfa976833bf30746c4bdf150e87c9b3d",
+    "wof:geomhash":"1e5f7757ee240eba9b341e289d1cf739",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,20 +65,22 @@
         }
     ],
     "wof:id":1276445941,
-    "wof:lastmodified":1566672822,
+    "wof:lastmodified":1706239458,
     "wof:name":"Honggoucun",
     "wof:parent_id":890516677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293787825
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    116.04413999999998,
+    116.04414,
     32.84321,
-    116.04413999999998,
+    116.04414,
     32.84321
 ],
-  "geometry": {"coordinates":[116.04413999999998,32.84321],"type":"Point"}
+  "geometry": {"coordinates":[116.04414,32.84321],"type":"Point"}
 }

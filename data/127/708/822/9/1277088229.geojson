@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1557212
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10414275
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"e31a416b356fd611ba8292975afcf9c7",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1277088229,
-    "wof:lastmodified":1566672302,
+    "wof:lastmodified":1706239463,
     "wof:name":"Matangcun",
     "wof:parent_id":890516677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310314553
+    ],
     "wof:tags":[]
 },
   "bbox": [

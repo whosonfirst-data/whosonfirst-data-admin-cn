@@ -29,6 +29,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Xiadongxie",
+        "Xiadongjie"
+    ],
     "name:zho_x_preferred":[
         "\u4e0b\u6d1e\u8857"
     ],
@@ -44,6 +48,11 @@
     "wof:concordances":{
         "gn:id":7059250
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7060985
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"299b6c356bef41f09b42a32a655e109f",
     "wof:hierarchy":[
@@ -57,13 +66,15 @@
         }
     ],
     "wof:id":1225823087,
-    "wof:lastmodified":1566705749,
+    "wof:lastmodified":1706239418,
     "wof:name":"Xiadongjie",
     "wof:parent_id":890513321,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343348911
+    ],
     "wof:tags":[]
 },
   "bbox": [

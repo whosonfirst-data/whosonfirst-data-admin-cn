@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1554733
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10649796
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"89a8db5dd78e3fafe9dad703fb1c055c",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1242887605,
-    "wof:lastmodified":1566694540,
+    "wof:lastmodified":1706239437,
     "wof:name":"Penglingcun",
     "wof:parent_id":890516201,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259392141
+    ],
     "wof:tags":[]
 },
   "bbox": [

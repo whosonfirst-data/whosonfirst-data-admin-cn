@@ -50,6 +50,10 @@
     "name:swe_x_preferred":[
         "Hengshan"
     ],
+    "name:und_x_variant":[
+        "Heng-shan-fan",
+        "\u6a2a\u5c71"
+    ],
     "name:zho_x_preferred":[
         "\u6a2a\u5c71"
     ],
@@ -65,6 +69,11 @@
     "wof:concordances":{
         "gn:id":7651454
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1808419
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"0c11a38f02a30efbffb7966ee88e7ceb",
     "wof:hierarchy":[
@@ -78,13 +87,15 @@
         }
     ],
     "wof:id":1310019151,
-    "wof:lastmodified":1566689443,
+    "wof:lastmodified":1706239472,
     "wof:name":"Hengshan",
     "wof:parent_id":890513323,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326943649
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -35,6 +35,9 @@
     "name:zho_x_preferred":[
         "\u5b5f\u5729"
     ],
+    "name:zho_x_variant":[
+        "\u5b5f\u5729"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669827,
@@ -46,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1548050
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8036008
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"ac9ede6a32a920b337f12da1745bdfe6",
@@ -60,13 +68,15 @@
         }
     ],
     "wof:id":1226651129,
-    "wof:lastmodified":1566705367,
+    "wof:lastmodified":1706239430,
     "wof:name":"Mengxu",
     "wof:parent_id":890515153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276985675
+    ],
     "wof:tags":[]
 },
   "bbox": [

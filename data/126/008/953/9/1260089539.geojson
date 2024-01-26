@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:zho_x_preferred":[
+        "\u67a3\u6797\u5c97\u6751"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669739,
@@ -41,8 +44,13 @@
     "wof:concordances":{
         "gn:id":10443186
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10418041
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"c92e37c30f936cb78e919556abe341b2",
+    "wof:geomhash":"75b3744a8fd5caf331bc845e45a54218",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,20 +62,22 @@
         }
     ],
     "wof:id":1260089539,
-    "wof:lastmodified":1566686817,
+    "wof:lastmodified":1706239453,
     "wof:name":"Zaolingangcun",
     "wof:parent_id":890513745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293793257
+    ],
     "wof:tags":[]
 },
   "bbox": [
     116.31822,
-    32.07024000000001,
+    32.07024,
     116.31822,
-    32.07024000000001
+    32.07024
 ],
-  "geometry": {"coordinates":[116.31822,32.07024000000001],"type":"Point"}
+  "geometry": {"coordinates":[116.31822,32.07024],"type":"Point"}
 }

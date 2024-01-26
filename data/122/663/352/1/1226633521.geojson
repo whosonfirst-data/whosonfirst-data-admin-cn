@@ -53,8 +53,13 @@
     "wof:concordances":{
         "gn:id":1988745
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1988741
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"249b8e3ae7d79aad59c2b1af786c9619",
+    "wof:geomhash":"9d0b3c195ebc5321d1e2ac0666b63f36",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,20 +71,22 @@
         }
     ],
     "wof:id":1226633521,
-    "wof:lastmodified":1566704937,
+    "wof:lastmodified":1706239430,
     "wof:name":"Maoping",
     "wof:parent_id":890516409,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326911189
+    ],
     "wof:tags":[]
 },
   "bbox": [
     111.62598,
-    27.69672000000001,
+    27.69672,
     111.62598,
-    27.69672000000001
+    27.69672
 ],
-  "geometry": {"coordinates":[111.62598,27.69672000000001],"type":"Point"}
+  "geometry": {"coordinates":[111.62598,27.69672],"type":"Point"}
 }

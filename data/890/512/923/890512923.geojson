@@ -9,10 +9,23 @@
     "geom:bbox":"115.541019,34.318466,115.786641,34.524186",
     "geom:latitude":34.423993,
     "geom:longitude":115.650885,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Shangqiu",
     "gn:country":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":52,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1796134,
+    "gn:latitude":34.4143,
+    "gn:longitude":115.65613,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Shangqiu",
     "gn:population":181218,
+    "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"115.63613,34.3943,115.67613,34.4343",
     "lbl:latitude":34.408737,
     "lbl:longitude":115.665859,
     "lbl:max_zoom":14.0,
@@ -131,6 +144,9 @@
         "Shangqiu"
     ],
     "name:nob_x_preferred":[
+        "Shangqiu"
+    ],
+    "name:nor_x_preferred":[
         "Shangqiu"
     ],
     "name:pam_x_preferred":[
@@ -309,6 +325,11 @@
         "wd:id":"Q404817",
         "wk:page":"Shangqiu"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1796134
+        ]
+    },
     "wof:country":"CN",
     "wof:created":1469055793,
     "wof:geom_alt":[
@@ -326,7 +347,7 @@
         }
     ],
     "wof:id":890512923,
-    "wof:lastmodified":1636504326,
+    "wof:lastmodified":1706239397,
     "wof:megacity":1,
     "wof:name":"Shangqiu",
     "wof:parent_id":890514845,
@@ -335,7 +356,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243063397
+    ],
     "wof:tags":[]
 },
   "bbox": [

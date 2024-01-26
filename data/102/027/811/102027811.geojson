@@ -9,8 +9,21 @@
     "geom:bbox":"113.308765,22.468004,113.427073,22.587537",
     "geom:latitude":22.521353,
     "geom:longitude":113.36835,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Zhongshan",
+    "gn:country_code":"CN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":6986104,
+    "gn:latitude":22.52306,
+    "gn:longitude":113.37912,
+    "gn:modification_date":"2013-12-15",
+    "gn:name":"Zhongshan",
     "gn:population":3121275,
+    "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"113.35912,22.50306,113.39912,22.54306",
     "lbl:latitude":22.522484,
     "lbl:longitude":113.388011,
     "lbl:max_zoom":13.0,
@@ -102,6 +115,9 @@
         "Zhongshan"
     ],
     "name:jpn_x_preferred":[
+        "\u4e2d\u5c71\u5e02"
+    ],
+    "name:jpn_x_variant":[
         "\u4e2d\u5c71\u5e02"
     ],
     "name:kan_x_preferred":[
@@ -209,6 +225,9 @@
     "name:ukr_x_preferred":[
         "\u0427\u0436\u0443\u043d\u0448\u0430\u043d\u044c"
     ],
+    "name:und_x_variant":[
+        "Zhongshan Shi"
+    ],
     "name:urd_x_preferred":[
         "\u0698\u0648\u0646\u06af\u0634\u0627\u0646"
     ],
@@ -272,11 +291,11 @@
     "src:population":"geonames",
     "wd:wordcount":2391,
     "wof:belongsto":[
+        85669743,
         102191569,
         85632695,
-        890516323,
         136253041,
-        85669743
+        890516323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -284,7 +303,13 @@
         "gn:id":1915223,
         "gp:id":12687682,
         "qs_pg:id":1031892,
-        "wd:id":"Q59223"
+        "wd:id":"Q59223",
+        "wk:page":"Zhongshan"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6986104
+        ]
     },
     "wof:country":"CN",
     "wof:geom_alt":[
@@ -305,7 +330,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1587428561,
+    "wof:lastmodified":1706239396,
     "wof:name":"Zhongshan",
     "wof:parent_id":890516323,
     "wof:placetype":"locality",
@@ -313,7 +338,9 @@
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327493303
+    ],
     "wof:tags":[]
 },
   "bbox": [

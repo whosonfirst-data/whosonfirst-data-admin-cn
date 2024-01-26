@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u9a6c\u5bb6\u69fd"
     ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u5bb6\u69fd"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669781,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1927963
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7007109
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"ae1977e367013f1d96bcdd6b4d3b89aa",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1309883671,
-    "wof:lastmodified":1566693401,
+    "wof:lastmodified":1706239471,
     "wof:name":"Majiacao",
     "wof:parent_id":1108794059,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310582037
+    ],
     "wof:tags":[]
 },
   "bbox": [

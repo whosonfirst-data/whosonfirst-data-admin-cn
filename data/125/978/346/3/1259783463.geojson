@@ -45,8 +45,13 @@
     "wof:concordances":{
         "gn:id":1784937
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1898382
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"f30d8e683889151d972c986c12972690",
+    "wof:geomhash":"a83282220a9e078fc26a9cf5ac1380dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +63,22 @@
         }
     ],
     "wof:id":1259783463,
-    "wof:lastmodified":1566699030,
+    "wof:lastmodified":1706239450,
     "wof:name":"Zhaofeng",
     "wof:parent_id":890515879,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276682539
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    120.72556000000002,
+    120.72556,
     31.90278,
-    120.72556000000002,
+    120.72556,
     31.90278
 ],
-  "geometry": {"coordinates":[120.72556000000002,31.90278],"type":"Point"}
+  "geometry": {"coordinates":[120.72556,31.90278],"type":"Point"}
 }

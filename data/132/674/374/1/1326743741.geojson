@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Mapeng"
+    ],
     "name:zho_x_preferred":[
         "\u9a6c\u68da\u6751"
     ],
@@ -44,6 +47,11 @@
     "wof:concordances":{
         "gn:id":10415330
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1557211
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"c30f482020a46d2e64ad95ebe620850d",
     "wof:hierarchy":[
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1326743741,
-    "wof:lastmodified":1566648264,
+    "wof:lastmodified":1706239476,
     "wof:name":"Mapengcun",
     "wof:parent_id":890516677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343961773
+    ],
     "wof:tags":[]
 },
   "bbox": [

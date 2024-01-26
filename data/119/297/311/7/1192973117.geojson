@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1800765
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11195138
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"d3b6b260aea9ff6d77bd20c249705c26",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1192973117,
-    "wof:lastmodified":1566685682,
+    "wof:lastmodified":1706239398,
     "wof:name":"Mengchangzhencun",
     "wof:parent_id":890516587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226397167
+    ],
     "wof:tags":[]
 },
   "bbox": [

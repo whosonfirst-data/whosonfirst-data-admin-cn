@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":10414130
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10443172
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"be68c2eb3ba2a07c987e1f567173d4fc",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1226152515,
-    "wof:lastmodified":1566704459,
+    "wof:lastmodified":1706239424,
     "wof:name":"Huangzhuyuancun",
     "wof:parent_id":890513745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277087735
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -52,6 +52,11 @@
     "wof:concordances":{
         "gn:id":1557843
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10358550
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"5f3bf3124e8d26a7d47688aca849d29b",
     "wof:hierarchy":[
@@ -65,13 +70,15 @@
         }
     ],
     "wof:id":1226355825,
-    "wof:lastmodified":1566702363,
+    "wof:lastmodified":1706239427,
     "wof:name":"Changchuncun",
     "wof:parent_id":890516677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310318563
+    ],
     "wof:tags":[]
 },
   "bbox": [

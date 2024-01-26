@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "\u817e\u5bb6\u5e84\u5b50"
+    ],
     "name:zho_x_preferred":[
         "\u6ed5\u5bb6\u5e84\u5b50"
     ],
@@ -44,6 +47,11 @@
     "wof:concordances":{
         "gn:id":9121176
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9116437
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"8443ee1bd18fb8d9df1b58e91068656f",
     "wof:hierarchy":[
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1260035179,
-    "wof:lastmodified":1566687521,
+    "wof:lastmodified":1706239453,
     "wof:name":"Tengjia Zhuangzi",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360040621
+    ],
     "wof:tags":[]
 },
   "bbox": [

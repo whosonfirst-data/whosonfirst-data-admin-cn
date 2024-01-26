@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u5f20\u5409"
     ],
+    "name:zho_x_preferred":[
+        "\u5f20\u5409"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669801,
@@ -44,8 +47,13 @@
     "wof:concordances":{
         "gn:id":9192321
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9181596
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"90e2b1bba356a3e412eaccaac241449f",
+    "wof:geomhash":"73ec2345a9514ecc6f46b05a54cb0a40",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +65,22 @@
         }
     ],
     "wof:id":1260165259,
-    "wof:lastmodified":1566687234,
+    "wof:lastmodified":1706239454,
     "wof:name":"Zhangji",
     "wof:parent_id":890514079,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293573491
+    ],
     "wof:tags":[]
 },
   "bbox": [
     115.31087,
-    35.99802000000001,
+    35.99802,
     115.31087,
-    35.99802000000001
+    35.99802
 ],
-  "geometry": {"coordinates":[115.31086999999999,35.99802000000001],"type":"Point"}
+  "geometry": {"coordinates":[115.31086999999999,35.99802],"type":"Point"}
 }

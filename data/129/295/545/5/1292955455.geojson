@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1785072
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11123192
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"527f19d1f18cb5cb703cdaf2516694fb",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1292955455,
-    "wof:lastmodified":1566667116,
+    "wof:lastmodified":1706239463,
     "wof:name":"Zhangtaizicun",
     "wof:parent_id":890516587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292967553
+    ],
     "wof:tags":[]
 },
   "bbox": [

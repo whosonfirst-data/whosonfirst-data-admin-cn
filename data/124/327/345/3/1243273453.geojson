@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Wanwei"
+    ],
     "name:zho_x_preferred":[
         "\u4e07\u5729\u6751"
     ],
@@ -44,6 +47,11 @@
     "wof:concordances":{
         "gn:id":10358577
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1556840
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"685fd305ff9e6712a3d7a967c14338da",
     "wof:hierarchy":[
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1243273453,
-    "wof:lastmodified":1566697351,
+    "wof:lastmodified":1706239442,
     "wof:name":"Wanxucun",
     "wof:parent_id":890515831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327240999
+    ],
     "wof:tags":[]
 },
   "bbox": [

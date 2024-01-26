@@ -33,6 +33,9 @@
         "\u540e\u6797\u8fc7",
         "Houlinguo"
     ],
+    "name:zho_x_preferred":[
+        "\u540e\u6797\u8fc7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669735,
@@ -44,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1980396
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6734712
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"51df476a6b28f6b4c1a13a399e38757e",
@@ -58,13 +66,15 @@
         }
     ],
     "wof:id":1293313481,
-    "wof:lastmodified":1566665646,
+    "wof:lastmodified":1706239465,
     "wof:name":"Houlinguo",
     "wof:parent_id":890514127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327225213
+    ],
     "wof:tags":[]
 },
   "bbox": [

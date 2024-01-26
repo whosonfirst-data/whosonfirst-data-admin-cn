@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u524d\u900a\u5cf0"
     ],
+    "name:zho_x_preferred":[
+        "\u524d\u900a\u5cf0"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669813,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9115898
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9120761
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"956ecf83733bc1940603d36da06cd575",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1259738527,
-    "wof:lastmodified":1566700202,
+    "wof:lastmodified":1706239449,
     "wof:name":"Qianxunfeng",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326597171
+    ],
     "wof:tags":[]
 },
   "bbox": [

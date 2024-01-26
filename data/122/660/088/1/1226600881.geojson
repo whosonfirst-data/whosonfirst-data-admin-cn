@@ -53,6 +53,11 @@
     "wof:concordances":{
         "gn:id":7524996
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1807877
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"19a318e9c4333e68414628b141f70407",
     "wof:hierarchy":[
@@ -66,13 +71,15 @@
         }
     ],
     "wof:id":1226600881,
-    "wof:lastmodified":1566702210,
+    "wof:lastmodified":1706239430,
     "wof:name":"Hougang",
     "wof:parent_id":890514815,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293250619
+    ],
     "wof:tags":[]
 },
   "bbox": [

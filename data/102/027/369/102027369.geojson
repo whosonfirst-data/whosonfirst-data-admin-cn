@@ -9,7 +9,9 @@
     "geom:bbox":"109.375524,24.262976,109.560029,24.391153",
     "geom:latitude":24.328912,
     "geom:longitude":109.443553,
+    "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"109.368637,24.29597,109.408637,24.33597",
     "lbl:latitude":24.332074,
     "lbl:longitude":109.420802,
     "lbl:max_zoom":18.0,
@@ -344,7 +346,18 @@
     "qs:loc":"Liuzhou",
     "qs:loc_alt":"\u67f3\u5dde\u5e02",
     "qs:loc_lc":"1803300",
+    "qs:name":"\u67f3\u5dde\u5e02",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u5e7f\u897f\u7701",
+    "qs:photos":480,
+    "qs:photos_1k":97,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":480,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "qs:type":"County",
     "src:geom":"quattroshapes",
@@ -369,6 +382,14 @@
         "wd:id":"Q38968",
         "wk:page":"Liuzhou"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2165890
+        ],
+        "qs_pg:id":[
+            1079786
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"ff9d33da3ebf8002a05c298d6a98f078",
     "wof:hierarchy":[
@@ -382,7 +403,7 @@
         }
     ],
     "wof:id":102027369,
-    "wof:lastmodified":1636503590,
+    "wof:lastmodified":1706239394,
     "wof:megacity":1,
     "wof:name":"Liuzhou",
     "wof:parent_id":890515127,
@@ -392,7 +413,9 @@
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:scale":6,
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890515111
+    ],
     "wof:tags":[]
 },
   "bbox": [

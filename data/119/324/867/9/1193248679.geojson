@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1801326
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7517783
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"85ca5bc818c64f40fc51d83540658df0",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1193248679,
-    "wof:lastmodified":1566684938,
+    "wof:lastmodified":1706239400,
     "wof:name":"Maluwan",
     "wof:parent_id":890516337,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360157645
+    ],
     "wof:tags":[]
 },
   "bbox": [

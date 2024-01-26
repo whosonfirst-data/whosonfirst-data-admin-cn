@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"119.14416,35.51026,119.14416,35.51026",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u8303\u5bb6\u697c"
@@ -45,7 +47,7 @@
         "gn:id":9116513
     },
     "wof:country":"CN",
-    "wof:geomhash":"3e2cac22bfbce537b0e28b20426821d3",
+    "wof:geomhash":"c58547b8b82f68f6229aec8aa93fefeb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +59,22 @@
         }
     ],
     "wof:id":1343719365,
-    "wof:lastmodified":1566659934,
+    "wof:lastmodified":1706239417,
     "wof:name":"Fanjialou",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1225812567
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     119.14416,
-    35.51025999999999,
+    35.51026,
     119.14416,
-    35.51025999999999
+    35.51026
 ],
-  "geometry": {"coordinates":[119.14416,35.51025999999999],"type":"Point"}
+  "geometry": {"coordinates":[119.14416,35.51026],"type":"Point"}
 }

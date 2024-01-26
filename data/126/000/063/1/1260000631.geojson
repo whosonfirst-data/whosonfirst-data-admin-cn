@@ -53,6 +53,11 @@
     "wof:concordances":{
         "gn:id":1794789
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1922258
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"8727d891a35b0a8bb79dbb0846dfbeca",
     "wof:hierarchy":[
@@ -66,13 +71,15 @@
         }
     ],
     "wof:id":1260000631,
-    "wof:lastmodified":1566686700,
+    "wof:lastmodified":1706239452,
     "wof:name":"Shoushan",
     "wof:parent_id":890516575,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327125763
+    ],
     "wof:tags":[]
 },
   "bbox": [

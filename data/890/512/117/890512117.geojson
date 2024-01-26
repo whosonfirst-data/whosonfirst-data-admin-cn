@@ -12,6 +12,7 @@
     "gn:country":"CN",
     "gn:fcode":"PPL",
     "gn:population":57356,
+    "gp:adm0":23424781,
     "iso:country":"CN",
     "lbl:bbox":"121.725,42.03889,121.765,42.07889",
     "lbl:max_zoom":14.0,
@@ -203,8 +204,15 @@
         "\u961c\u65b0\u5e02"
     ],
     "qs:name":"Fuxin",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u8fbd\u5b81\u7701",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
     "qs:photos_9r":0,
+    "qs:photos_all":3,
     "qs:photos_sr":0,
+    "qs:placetype":"Town",
     "qs:pop_sr":"8",
     "src:population":"geonames",
     "wd:wordcount":546,
@@ -223,6 +231,14 @@
         "wd:id":"Q34750",
         "wk:page":"Fuxin"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2148033
+        ],
+        "qs_pg:id":[
+            1024585
+        ]
+    },
     "wof:country":"CN",
     "wof:created":1469055759,
     "wof:geomhash":"d79a29d699840399224cbafcbd5969e4",
@@ -237,7 +253,7 @@
         }
     ],
     "wof:id":890512117,
-    "wof:lastmodified":1636504327,
+    "wof:lastmodified":1706239396,
     "wof:name":"Fuxin",
     "wof:parent_id":890514709,
     "wof:placetype":"locality",
@@ -245,7 +261,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890515031
+    ],
     "wof:tags":[]
 },
   "bbox": [

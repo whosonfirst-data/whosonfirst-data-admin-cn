@@ -29,8 +29,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Chengqian"
+    ],
+    "name:swe_x_preferred":[
+        "Chengqian"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019eng-ch\u2019ien",
+        "Qianbiaocun"
+    ],
     "name:zho_x_preferred":[
         "\u524d\u6807\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u57ce\u524d\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -42,7 +55,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":9117426
+        "gn:id":9117426,
+        "wk:page":"Chengqian"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1815218
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"4705ea7fd2a085cc72bf7f498753f3ae",
@@ -57,13 +76,15 @@
         }
     ],
     "wof:id":1293940749,
-    "wof:lastmodified":1566669629,
+    "wof:lastmodified":1706239469,
     "wof:name":"Qianbiaocun",
     "wof:parent_id":890515875,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327291081
+    ],
     "wof:tags":[]
 },
   "bbox": [

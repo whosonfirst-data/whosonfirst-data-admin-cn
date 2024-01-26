@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1558015
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10358830
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"aaa6ac7ffef1ddbe379b52e8db248ca5",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1343971407,
-    "wof:lastmodified":1566657347,
+    "wof:lastmodified":1706239480,
     "wof:name":"Jianglaojiacun",
     "wof:parent_id":890515239,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344160635
+    ],
     "wof:tags":[]
 },
   "bbox": [

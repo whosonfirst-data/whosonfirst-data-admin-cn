@@ -9,6 +9,19 @@
     "geom:bbox":"120.183803,30.478632,120.183803,30.478632",
     "geom:latitude":30.478632,
     "geom:longitude":120.183803,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tangqi",
+    "gn:country_code":"CN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":1793359,
+    "gn:latitude":30.47832,
+    "gn:longitude":120.18105,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tangqi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
     "gp:adm0":23424781,
     "iso:country":"CN",
     "lbl:bbox":"120.163803,30.458632,120.203803,30.498632",
@@ -19,6 +32,17 @@
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tangqi"
+    ],
+    "name:und_x_variant":[
+        "T\u2019ang-ch\u2019i-chen",
+        "Tangxi Zhen",
+        "T\u2019ang-ch\u2019i",
+        "T\u2019ang-hsi",
+        "Tangqi",
+        "Tangxi",
+        "\u5858\u6816",
+        "Tangqi Zhen",
+        "\u5858\u6816\u9547"
     ],
     "name:zho_x_preferred":[
         "\u5510\u65d7"
@@ -35,14 +59,15 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85669835,
         102191569,
         85632695,
-        890516555,
         136253041,
-        85669835
+        890516555
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1793359,
         "gp:id":2132640,
         "qs_pg:id":1061777
     },
@@ -60,13 +85,15 @@
         }
     ],
     "wof:id":890515093,
-    "wof:lastmodified":1601423056,
+    "wof:lastmodified":1706239397,
     "wof:name":"Tangqi",
     "wof:parent_id":890516555,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242690097
+    ],
     "wof:tags":[]
 },
   "bbox": [

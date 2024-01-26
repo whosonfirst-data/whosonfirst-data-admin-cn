@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":1549028
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8274413
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"03d8a35914424803a67d4280c1c4f7b3",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1276657291,
-    "wof:lastmodified":1566678052,
+    "wof:lastmodified":1706239460,
     "wof:name":"Dongwangmiao",
     "wof:parent_id":890516425,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343785763
+    ],
     "wof:tags":[]
 },
   "bbox": [

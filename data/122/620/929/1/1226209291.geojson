@@ -47,8 +47,13 @@
     "wof:concordances":{
         "gn:id":1792604
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1910008
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"36404fd29ba264a203939bcca907b8fc",
+    "wof:geomhash":"f300997a9b2645852639b2b41d6485e0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,20 +65,22 @@
         }
     ],
     "wof:id":1226209291,
-    "wof:lastmodified":1566701720,
+    "wof:lastmodified":1706239424,
     "wof:name":"Tongqianhekou",
     "wof:parent_id":890515101,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293738643
+    ],
     "wof:tags":[]
 },
   "bbox": [
     109.20917,
-    32.28805999999999,
+    32.28806,
     109.20917,
-    32.28805999999999
+    32.28806
 ],
-  "geometry": {"coordinates":[109.20917,32.28805999999999],"type":"Point"}
+  "geometry": {"coordinates":[109.20917,32.28806],"type":"Point"}
 }

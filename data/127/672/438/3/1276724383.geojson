@@ -47,8 +47,13 @@
     "wof:concordances":{
         "gn:id":2053833
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11508979
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"7fadc1a916fcc11ef9468edc79014cda",
+    "wof:geomhash":"aa6b8ddfb57392d77f74dcb32aeb5a50",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,20 +65,22 @@
         }
     ],
     "wof:id":1276724383,
-    "wof:lastmodified":1566672509,
+    "wof:lastmodified":1706239460,
     "wof:name":"Gujiazicun",
     "wof:parent_id":890515907,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309768423
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    120.77606000000002,
+    120.77606,
     41.62551,
-    120.77606000000002,
+    120.77606,
     41.62551
 ],
-  "geometry": {"coordinates":[120.77606000000002,41.62551],"type":"Point"}
+  "geometry": {"coordinates":[120.77606,41.62551],"type":"Point"}
 }

@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":9116797
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9131997
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"132ddf8a26509bed68cdafd3485f0431",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1242667103,
-    "wof:lastmodified":1566694885,
+    "wof:lastmodified":1706239434,
     "wof:name":"Zhaihanping",
     "wof:parent_id":890514079,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276328705
+    ],
     "wof:tags":[]
 },
   "bbox": [

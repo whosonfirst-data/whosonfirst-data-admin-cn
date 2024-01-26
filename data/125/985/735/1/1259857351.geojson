@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":10324517
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10324519
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"80b169a27ac1533180f20d821572f44a",
+    "wof:geomhash":"4fb8948016dd20e02aca7e59669c2c9d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +62,22 @@
         }
     ],
     "wof:id":1259857351,
-    "wof:lastmodified":1566699136,
+    "wof:lastmodified":1706239451,
     "wof:name":"Yangjialing",
     "wof:parent_id":890515867,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326911417
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    112.08771000000002,
+    112.08771,
     28.70819,
-    112.08771000000002,
+    112.08771,
     28.70819
 ],
-  "geometry": {"coordinates":[112.08771000000002,28.70819],"type":"Point"}
+  "geometry": {"coordinates":[112.08771,28.70819],"type":"Point"}
 }

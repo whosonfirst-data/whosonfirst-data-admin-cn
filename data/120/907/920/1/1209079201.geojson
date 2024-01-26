@@ -53,8 +53,13 @@
     "wof:concordances":{
         "gn:id":7373335
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10452245
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"cbadeb8bd1b3e9ec4dbe780154e2148f",
+    "wof:geomhash":"88ebfcffcd8d304d7f46150cadb999d9",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -62,20 +67,22 @@
         }
     ],
     "wof:id":1209079201,
-    "wof:lastmodified":1566678939,
+    "wof:lastmodified":1706239402,
     "wof:name":"Maji",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259962397
+    ],
     "wof:tags":[]
 },
   "bbox": [
     105.24088,
-    33.74619000000001,
+    33.74619,
     105.24088,
-    33.74619000000001
+    33.74619
 ],
-  "geometry": {"coordinates":[105.24088,33.74619000000001],"type":"Point"}
+  "geometry": {"coordinates":[105.24088,33.74619],"type":"Point"}
 }

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"117.45123,24.39657,117.45123,24.39657",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u4e1c\u57d4"
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":1276755623,
-    "wof:lastmodified":1566672608,
+    "wof:lastmodified":1706239408,
     "wof:name":"Dongpu",
     "wof:parent_id":890513339,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209406309
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

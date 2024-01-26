@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":8507338
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8507362
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"3098bd3ea39f74f8c342b260f1bad731",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1276627801,
-    "wof:lastmodified":1566677895,
+    "wof:lastmodified":1706239460,
     "wof:name":"Liuhaoqiao",
     "wof:parent_id":890515159,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293753831
+    ],
     "wof:tags":[]
 },
   "bbox": [

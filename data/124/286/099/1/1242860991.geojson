@@ -33,6 +33,9 @@
         "\u85e4\u5e97",
         "Tengzidian"
     ],
+    "name:zho_x_preferred":[
+        "\u85e4\u5e97"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669777,
@@ -44,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1793031
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7661910
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"4ab78489d1ddc2ae33198443c5df33f4",
@@ -58,13 +66,15 @@
         }
     ],
     "wof:id":1242860991,
-    "wof:lastmodified":1566694570,
+    "wof:lastmodified":1706239436,
     "wof:name":"Tengdian",
     "wof:parent_id":1108732489,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360062193
+    ],
     "wof:tags":[]
 },
   "bbox": [

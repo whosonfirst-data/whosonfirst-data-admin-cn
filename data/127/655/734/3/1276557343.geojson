@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1558029
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10359017
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"1ff4893ea35d0897dcd3d4c8b120a22a",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1276557343,
-    "wof:lastmodified":1566677222,
+    "wof:lastmodified":1706239459,
     "wof:name":"Shimiaocun",
     "wof:parent_id":890515239,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326934099
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":1553409
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10811140
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"7511ad660eec7eac8a953b3e74f7ca96",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1225948069,
-    "wof:lastmodified":1566700737,
+    "wof:lastmodified":1706239420,
     "wof:name":"Shankengcun",
     "wof:parent_id":1108732553,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327043923
+    ],
     "wof:tags":[]
 },
   "bbox": [

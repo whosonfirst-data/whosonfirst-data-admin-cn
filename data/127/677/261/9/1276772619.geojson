@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1554815
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10650741
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"0c153f58272bad43d01d71882d352106",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1276772619,
-    "wof:lastmodified":1566677146,
+    "wof:lastmodified":1706239461,
     "wof:name":"Liusicun",
     "wof:parent_id":890516201,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276887041
+    ],
     "wof:tags":[]
 },
   "bbox": [

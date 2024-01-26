@@ -29,6 +29,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Niaobei",
+        "Wubei"
+    ],
     "name:zho_x_preferred":[
         "\u4e4c\u676f"
     ],
@@ -44,6 +48,11 @@
     "wof:concordances":{
         "gn:id":8579560
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6672018
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"0f44e59a0fe4318fd073f53467f40426",
     "wof:hierarchy":[
@@ -57,13 +66,15 @@
         }
     ],
     "wof:id":1193269469,
-    "wof:lastmodified":1566686066,
+    "wof:lastmodified":1706239401,
     "wof:name":"Wubei",
     "wof:parent_id":890516577,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209436027
+    ],
     "wof:tags":[]
 },
   "bbox": [

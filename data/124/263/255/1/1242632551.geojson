@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u8f66\u6c9f"
     ],
+    "name:zho_x_preferred":[
+        "\u8f66\u6c9f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669813,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9116718
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9121408
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"36b3d5cd87469f74aab7bade6afbdcb7",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1242632551,
-    "wof:lastmodified":1566697254,
+    "wof:lastmodified":1706239434,
     "wof:name":"Chegou",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343317341
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"119.00434,25.23203,119.00434,25.23203",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tung-ch\u2019in",
@@ -47,7 +49,7 @@
         "gn:id":1907553
     },
     "wof:country":"CN",
-    "wof:geomhash":"2aa8ca9dafef4bffab797af977bbd3b7",
+    "wof:geomhash":"8a90345a3f77143102e26d163b4998f6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,20 +61,22 @@
         }
     ],
     "wof:id":1327325159,
-    "wof:lastmodified":1566651450,
+    "wof:lastmodified":1706239477,
     "wof:name":"Dongqin",
     "wof:parent_id":890516865,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1327021267
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    119.00433999999998,
+    119.00434,
     25.23203,
-    119.00433999999998,
+    119.00434,
     25.23203
 ],
-  "geometry": {"coordinates":[119.00433999999998,25.23203],"type":"Point"}
+  "geometry": {"coordinates":[119.00434,25.23203],"type":"Point"}
 }

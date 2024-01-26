@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":1812279
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10415993
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"4cad155a6e8487d5b5b0388e88b50d6a",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1243185809,
-    "wof:lastmodified":1566697301,
+    "wof:lastmodified":1706239441,
     "wof:name":"Dongshancun",
     "wof:parent_id":890516233,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243467637
+    ],
     "wof:tags":[]
 },
   "bbox": [

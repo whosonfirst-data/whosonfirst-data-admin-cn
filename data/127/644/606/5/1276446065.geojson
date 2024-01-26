@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1556849
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10358746
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"7a4f7c040ff1f7fb66497a7785d1c836",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1276446065,
-    "wof:lastmodified":1566672885,
+    "wof:lastmodified":1706239458,
     "wof:name":"Huangdiancun",
     "wof:parent_id":890515831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360294869
+    ],
     "wof:tags":[]
 },
   "bbox": [

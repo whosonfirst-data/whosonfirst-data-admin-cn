@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"112.76544,22.24161,112.76544,22.24161",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u9e45\u7ffc"
@@ -45,7 +47,7 @@
         "gn:id":6854415
     },
     "wof:country":"CN",
-    "wof:geomhash":"0d72966a07fdeb0e507cc82faa87ed3f",
+    "wof:geomhash":"3e001846b872d5c6bb713eddfef5b6c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +59,22 @@
         }
     ],
     "wof:id":1259629835,
-    "wof:lastmodified":1566698300,
+    "wof:lastmodified":1706239436,
     "wof:name":"Eyi",
     "wof:parent_id":890514609,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1242820711
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    112.76543999999998,
+    112.76544,
     22.24161,
-    112.76543999999998,
+    112.76544,
     22.24161
 ],
-  "geometry": {"coordinates":[112.76543999999998,22.24161],"type":"Point"}
+  "geometry": {"coordinates":[112.76544,22.24161],"type":"Point"}
 }

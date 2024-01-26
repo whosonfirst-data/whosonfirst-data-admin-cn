@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u5c0f\u82b1\u5d16"
     ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u82b1\u5d16"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669813,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9116518
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9122700
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"3712d77197f34103a5579b62f2a8d612",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1226804459,
-    "wof:lastmodified":1566701524,
+    "wof:lastmodified":1706239432,
     "wof:name":"Xiaohuaya",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243409371
+    ],
     "wof:tags":[]
 },
   "bbox": [

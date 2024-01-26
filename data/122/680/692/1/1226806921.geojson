@@ -48,8 +48,13 @@
     "wof:concordances":{
         "gn:id":1800136
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7603798
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"0e94d25d4cde6fea45630dd14e4da660",
+    "wof:geomhash":"10000bcdae6d5fcf2a1d77b6bcac76ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,20 +66,22 @@
         }
     ],
     "wof:id":1226806921,
-    "wof:lastmodified":1566701506,
+    "wof:lastmodified":1706239432,
     "wof:name":"Nancun",
     "wof:parent_id":890514745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243127953
+    ],
     "wof:tags":[]
 },
   "bbox": [
     111.26187,
-    35.50924000000001,
+    35.50924,
     111.26187,
-    35.50924000000001
+    35.50924
 ],
-  "geometry": {"coordinates":[111.26187,35.50924000000001],"type":"Point"}
+  "geometry": {"coordinates":[111.26187,35.50924],"type":"Point"}
 }

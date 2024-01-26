@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Daqin"
+    ],
     "name:zho_x_preferred":[
         "\u5927\u79e6\u6751"
     ],
@@ -44,6 +47,11 @@
     "wof:concordances":{
         "gn:id":10360461
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1554240
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"87d46a53b9f4633308f62464f904f7d9",
     "wof:hierarchy":[
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1310214435,
-    "wof:lastmodified":1566690316,
+    "wof:lastmodified":1706239473,
     "wof:name":"Daqincun",
     "wof:parent_id":890514507,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310505269
+    ],
     "wof:tags":[]
 },
   "bbox": [

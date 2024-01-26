@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7446142
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7368772
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"9da93857fe2c63c6d24d3b6ed081df06",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1293546191,
-    "wof:lastmodified":1566665833,
+    "wof:lastmodified":1706239466,
     "wof:name":"Yangjiayuan",
     "wof:parent_id":890516525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343616235
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -12,7 +12,9 @@
     "gn:latitude":38.46806,
     "gn:longitude":106.27306,
     "gn:population":475101,
+    "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"106.259146,38.4443285,106.299146,38.4843285",
     "lbl:latitude":38.471266,
     "lbl:longitude":106.27192,
     "lbl:max_zoom":13.0,
@@ -363,7 +365,18 @@
     "qs:loc":"Yinchuan",
     "qs:loc_alt":"\u94f6\u5ddd",
     "qs:loc_lc":"1786657",
+    "qs:name":"\u94f6\u5ddd",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u5b81\u590f\u56de\u65cf\u81ea\u6cbb\u533a",
+    "qs:photos":608,
+    "qs:photos_1k":123,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":608,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
     "src:geom":"quattroshapes",
@@ -374,11 +387,11 @@
     "src:population":"geonames",
     "wd:wordcount":1581,
     "wof:belongsto":[
+        85669763,
         102191569,
         85632695,
-        1108732517,
         136253041,
-        85669763
+        1108732517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -388,6 +401,14 @@
         "qs_pg:id":136281,
         "wd:id":"Q211243",
         "wk:page":"Yinchuan"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2150551
+        ],
+        "qs_pg:id":[
+            221704
+        ]
     },
     "wof:country":"CN",
     "wof:geom_alt":[
@@ -405,7 +426,7 @@
         }
     ],
     "wof:id":102026957,
-    "wof:lastmodified":1608688177,
+    "wof:lastmodified":1706239393,
     "wof:megacity":1,
     "wof:name":"Yinchuan",
     "wof:parent_id":1108732517,
@@ -415,7 +436,9 @@
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:scale":3,
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890516645
+    ],
     "wof:tags":[]
 },
   "bbox": [

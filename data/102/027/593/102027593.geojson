@@ -10,7 +10,9 @@
     "geom:latitude":25.268788,
     "geom:longitude":110.307704,
     "gn:population":649352,
+    "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"110.262135,25.2591,110.302135,25.2991",
     "lbl:latitude":25.274504,
     "lbl:longitude":110.302684,
     "lbl:max_zoom":13.0,
@@ -370,7 +372,18 @@
     "qs:loc":"Guilin",
     "qs:loc_alt":"\u6842\u6797\u5e02",
     "qs:loc_lc":"1809498",
+    "qs:name":"\u6842\u6797",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u5e7f\u897f\u7701",
+    "qs:photos":4996,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4996,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
@@ -379,11 +392,11 @@
     "src:population":"geonames",
     "wd:wordcount":1792,
     "wof:belongsto":[
+        85669717,
         102191569,
         85632695,
-        1108732443,
         136253041,
-        85669717
+        1108732443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -395,6 +408,14 @@
         "nyt:id":"56427572758257624861",
         "qs_pg:id":886204,
         "wd:id":"Q189633"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2166474
+        ],
+        "qs_pg:id":[
+            210348
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"b965cead32e78a5e7de4e719e8e85a1f",
@@ -409,7 +430,7 @@
         }
     ],
     "wof:id":102027593,
-    "wof:lastmodified":1608688177,
+    "wof:lastmodified":1706239395,
     "wof:megacity":1,
     "wof:name":"Guilin",
     "wof:parent_id":1108732443,
@@ -419,7 +440,9 @@
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:scale":3,
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890516459
+    ],
     "wof:tags":[]
 },
   "bbox": [

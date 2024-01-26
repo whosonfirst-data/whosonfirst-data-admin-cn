@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":7059538
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7060992
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"5c977cbedcc3383d0162447c923364a4",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1259363805,
-    "wof:lastmodified":1566697937,
+    "wof:lastmodified":1706239447,
     "wof:name":"Fengxianggang",
     "wof:parent_id":890513321,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309693245
+    ],
     "wof:tags":[]
 },
   "bbox": [

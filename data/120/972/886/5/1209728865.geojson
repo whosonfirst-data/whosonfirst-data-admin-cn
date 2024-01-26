@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1557659
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10358468
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"7f328a8fa51862f22ecc2ebc1bd6a995",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1209728865,
-    "wof:lastmodified":1566684303,
+    "wof:lastmodified":1706239413,
     "wof:name":"Wangyuecun",
     "wof:parent_id":890515239,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360299333
+    ],
     "wof:tags":[]
 },
   "bbox": [

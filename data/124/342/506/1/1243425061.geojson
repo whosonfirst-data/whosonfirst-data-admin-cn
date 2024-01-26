@@ -32,6 +32,12 @@
     "name:bod_x_preferred":[
         "\u0f60\u0f7c\u0f44\u0f0b\u0f58\u0f42\u0f7c"
     ],
+    "name:und_x_variant":[
+        "Wengguo"
+    ],
+    "name:zho_x_preferred":[
+        "\u7fc1\u679c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669747,
@@ -43,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6559610
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8538454
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"3ce647af80c4494cae59bf629c16f08e",
@@ -57,13 +68,15 @@
         }
     ],
     "wof:id":1243425061,
-    "wof:lastmodified":1566697484,
+    "wof:lastmodified":1706239445,
     "wof:name":"Onggo",
     "wof:parent_id":1108794057,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344227803
+    ],
     "wof:tags":[]
 },
   "bbox": [

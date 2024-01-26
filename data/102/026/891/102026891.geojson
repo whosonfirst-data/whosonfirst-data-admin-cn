@@ -12,7 +12,9 @@
     "gn:latitude":24.355,
     "gn:longitude":102.54222,
     "gn:population":103829,
+    "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"102.515572,24.323968,102.555572,24.363968",
     "lbl:latitude":24.342092,
     "lbl:longitude":102.491455,
     "lbl:max_zoom":14.0,
@@ -303,7 +305,18 @@
     "qs:loc":"Yuxi",
     "qs:loc_alt":"\u7389\u6eaa",
     "qs:loc_lc":"1784185",
+    "qs:name":"\u7389\u6eaa",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u4e91\u5357\u7701",
+    "qs:photos":268,
+    "qs:photos_1k":54,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":268,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
     "src:geom":"quattroshapes",
@@ -326,6 +339,14 @@
         "wd:id":"Q496496",
         "wk:page":"Yuxi"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2160720
+        ],
+        "qs_pg:id":[
+            1120293
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"0768908d68c1647f83d75faba611e915",
     "wof:hierarchy":[
@@ -339,7 +360,7 @@
         }
     ],
     "wof:id":102026891,
-    "wof:lastmodified":1636503610,
+    "wof:lastmodified":1706239392,
     "wof:name":"Yuxi",
     "wof:parent_id":890512033,
     "wof:placetype":"locality",
@@ -347,7 +368,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890515409
+    ],
     "wof:tags":[]
 },
   "bbox": [

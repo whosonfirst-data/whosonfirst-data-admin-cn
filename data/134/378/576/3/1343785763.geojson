@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"118.86085,32.57086,118.86085,32.57086",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u4e1c\u738b\u5e99"
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":1343785763,
-    "wof:lastmodified":1566660462,
+    "wof:lastmodified":1706239460,
     "wof:name":"Dongwangmiao",
     "wof:parent_id":890516425,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276657291
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

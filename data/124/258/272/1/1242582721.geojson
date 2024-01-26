@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":1549348
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1549320
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"f0a36f82d192365bf95a7c4f3a6a8e80",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1242582721,
-    "wof:lastmodified":1566695131,
+    "wof:lastmodified":1706239433,
     "wof:name":"Jiuzhuji",
     "wof:parent_id":890516333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360189873
+    ],
     "wof:tags":[]
 },
   "bbox": [

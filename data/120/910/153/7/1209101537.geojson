@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":1894929
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9130870
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"ba1bb0d7dbc0b58e847e6b0d2d515158",
     "wof:hierarchy":[
@@ -53,13 +58,15 @@
         }
     ],
     "wof:id":1209101537,
-    "wof:lastmodified":1566684090,
+    "wof:lastmodified":1706239403,
     "wof:name":"Dachai",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225928163
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -49,8 +49,13 @@
     "wof:concordances":{
         "gn:id":1791997
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11150443
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"a8dc1373a7df3cacada03dd54a54ae03",
+    "wof:geomhash":"9bb354fb9348d3af7136d43d7b2eb787",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +67,22 @@
         }
     ],
     "wof:id":1226096821,
-    "wof:lastmodified":1566705725,
+    "wof:lastmodified":1706239422,
     "wof:name":"Wangwan",
     "wof:parent_id":890516587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326686707
+    ],
     "wof:tags":[]
 },
   "bbox": [
     108.51762,
-    36.69394000000001,
+    36.69394,
     108.51762,
-    36.69394000000001
+    36.69394
 ],
-  "geometry": {"coordinates":[108.51761999999999,36.69394000000001],"type":"Point"}
+  "geometry": {"coordinates":[108.51761999999999,36.69394],"type":"Point"}
 }

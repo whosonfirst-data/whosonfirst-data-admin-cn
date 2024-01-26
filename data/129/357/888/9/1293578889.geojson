@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":9120397
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9116741
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"54d8cab3adea4b5edbb486359dae208f",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1293578889,
-    "wof:lastmodified":1566668998,
+    "wof:lastmodified":1706239466,
     "wof:name":"Li'an",
     "wof:parent_id":890514079,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343251429
+    ],
     "wof:tags":[]
 },
   "bbox": [

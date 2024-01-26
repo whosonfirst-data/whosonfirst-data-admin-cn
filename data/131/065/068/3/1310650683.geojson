@@ -99,6 +99,10 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0441\u0456"
     ],
+    "name:und_x_variant":[
+        "Ma-ssu",
+        "\u9a6c\u5636"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0633\u06cc"
     ],
@@ -126,6 +130,11 @@
     "wof:concordances":{
         "gn:id":7009558
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1801044
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"1b5c9b4f8f1de340ff1252c380e9bf49",
     "wof:hierarchy":[
@@ -139,13 +148,15 @@
         }
     ],
     "wof:id":1310650683,
-    "wof:lastmodified":1636504156,
+    "wof:lastmodified":1706239475,
     "wof:name":"Masi",
     "wof:parent_id":890516563,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343621499
+    ],
     "wof:tags":[]
 },
   "bbox": [

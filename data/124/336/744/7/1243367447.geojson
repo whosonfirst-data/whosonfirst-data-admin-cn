@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1555225
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10442031
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"eddb9f910d7e17cce0d4ffad87f9f183",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1243367447,
-    "wof:lastmodified":1566693908,
+    "wof:lastmodified":1706239444,
     "wof:name":"Xiaoxingcun",
     "wof:parent_id":890513787,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276876549
+    ],
     "wof:tags":[]
 },
   "bbox": [

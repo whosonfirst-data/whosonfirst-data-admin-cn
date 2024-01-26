@@ -74,6 +74,11 @@
     "wof:concordances":{
         "gn:id":1887524
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7324737
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"bd86d2aae19cdd39947e1e4cf815e655",
     "wof:hierarchy":[
@@ -87,13 +92,15 @@
         }
     ],
     "wof:id":1293200779,
-    "wof:lastmodified":1566670433,
+    "wof:lastmodified":1706239464,
     "wof:name":"Dongxing",
     "wof:parent_id":890515155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293594287
+    ],
     "wof:tags":[]
 },
   "bbox": [

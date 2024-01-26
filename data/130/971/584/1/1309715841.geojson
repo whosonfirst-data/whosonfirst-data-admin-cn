@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1557222
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10415755
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"e51cf1e9e1ef0c4b95d4e753fb2d76bd",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1309715841,
-    "wof:lastmodified":1566692829,
+    "wof:lastmodified":1706239470,
     "wof:name":"Jiagangcun",
     "wof:parent_id":890516677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310009693
+    ],
     "wof:tags":[]
 },
   "bbox": [

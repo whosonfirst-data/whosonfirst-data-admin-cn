@@ -29,7 +29,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Boqin",
+        "Boqincun"
+    ],
     "name:zho_x_preferred":[
+        "\u4f2f\u52e4\u6751"
+    ],
+    "name:zho_x_variant":[
         "\u4f2f\u52e4\u6751"
     ],
     "src:geom":"geonames",
@@ -44,6 +51,11 @@
     "wof:concordances":{
         "gn:id":8227036
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1548816
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"4a1ead8154c6a1e048abab21905aae0c",
     "wof:hierarchy":[
@@ -57,13 +69,15 @@
         }
     ],
     "wof:id":1343561245,
-    "wof:lastmodified":1566661505,
+    "wof:lastmodified":1706239479,
     "wof:name":"Boqincun",
     "wof:parent_id":890516397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343561263
+    ],
     "wof:tags":[]
 },
   "bbox": [

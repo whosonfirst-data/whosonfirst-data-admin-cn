@@ -29,6 +29,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Ta-wang-tien",
+        "Dawang",
+        "Dawangcun"
+    ],
     "name:zho_x_preferred":[
         "\u5927\u738b\u6751"
     ],
@@ -44,6 +49,11 @@
     "wof:concordances":{
         "gn:id":10359587
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1558070
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"c9b85cb036aa2e6da2b52240b416ba82",
     "wof:hierarchy":[
@@ -57,13 +67,15 @@
         }
     ],
     "wof:id":1309918957,
-    "wof:lastmodified":1566692314,
+    "wof:lastmodified":1706239471,
     "wof:name":"Dawangcun",
     "wof:parent_id":890515239,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326539399
+    ],
     "wof:tags":[]
 },
   "bbox": [

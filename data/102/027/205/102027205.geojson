@@ -9,8 +9,23 @@
     "geom:bbox":"119.36095,35.348687,119.58071,35.456254",
     "geom:latitude":35.403653,
     "geom:longitude":119.494067,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"1797131",
+    "gn:admin3_code":"6573975.0",
+    "gn:asciiname":"Rizhao",
+    "gn:country_code":"CN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":9072919,
+    "gn:latitude":35.39579,
+    "gn:longitude":119.53217,
+    "gn:modification_date":"2016-03-29",
+    "gn:name":"Rizhao",
     "gn:population":246387,
+    "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
+    "lbl:bbox":"119.51217,35.37579,119.55217,35.41579",
     "lbl:latitude":35.421407,
     "lbl:longitude":119.52559,
     "lbl:max_zoom":13.0,
@@ -176,6 +191,9 @@
     "name:ukr_x_preferred":[
         "\u0416\u0438\u0447\u0436\u0430\u043e"
     ],
+    "name:und_x_variant":[
+        "Rizhao Shi"
+    ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0698\u0627\u0648"
     ],
@@ -330,7 +348,13 @@
         "gn:id":1797132,
         "gp:id":12687118,
         "qs_pg:id":1109400,
-        "wd:id":"Q373101"
+        "wd:id":"Q373101",
+        "wk:page":"Rizhao"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9072919
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"2662af728285003a10f49f69e2e6aae0",
@@ -348,7 +372,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1636503585,
+    "wof:lastmodified":1706239393,
     "wof:name":"Rizhao",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",
@@ -356,7 +380,9 @@
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276192671
+    ],
     "wof:tags":[]
 },
   "bbox": [

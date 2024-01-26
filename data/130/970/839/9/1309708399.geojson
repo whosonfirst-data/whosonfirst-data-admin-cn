@@ -62,6 +62,11 @@
     "wof:concordances":{
         "gn:id":1921768
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1979026
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"bae2a55402757ed8aed1f3b5babe646d",
     "wof:hierarchy":[
@@ -75,13 +80,15 @@
         }
     ],
     "wof:id":1309708399,
-    "wof:lastmodified":1566692672,
+    "wof:lastmodified":1706239470,
     "wof:name":"Nanling",
     "wof:parent_id":890516575,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343783069
+    ],
     "wof:tags":[]
 },
   "bbox": [

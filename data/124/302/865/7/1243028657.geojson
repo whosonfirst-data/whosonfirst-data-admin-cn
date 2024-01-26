@@ -35,6 +35,9 @@
         "Wailuo",
         "\u5916\u7f57"
     ],
+    "name:zho_x_preferred":[
+        "\u5916\u7f57"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669743,
@@ -46,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1792234
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6787299
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"3fa9efe7b154c4cb41db70d911e058ef",
@@ -60,13 +68,15 @@
         }
     ],
     "wof:id":1243028657,
-    "wof:lastmodified":1566696510,
+    "wof:lastmodified":1706239439,
     "wof:name":"Wailuo",
     "wof:parent_id":890514753,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326780735
+    ],
     "wof:tags":[]
 },
   "bbox": [

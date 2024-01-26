@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"116.73688,32.24152,116.73688,32.24152",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u4fdd\u4e49\u519c\u573a"
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":1310318641,
-    "wof:lastmodified":1566689095,
+    "wof:lastmodified":1706239444,
     "wof:name":"Baoyi Nongchang",
     "wof:parent_id":890513745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1243367373
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

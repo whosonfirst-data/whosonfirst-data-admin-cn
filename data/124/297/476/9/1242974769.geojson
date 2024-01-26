@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1558167
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10359708
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"692ccd72f18f965cd4045940fb7ce57d",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1242974769,
-    "wof:lastmodified":1566697159,
+    "wof:lastmodified":1706239438,
     "wof:name":"Hulaocun",
     "wof:parent_id":890516677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327445293
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"120.52967,36.21944,120.52967,36.21944",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Beizhai Jiedao"
@@ -51,7 +53,7 @@
         "gn:id":1912380
     },
     "wof:country":"CN",
-    "wof:geomhash":"7668ed8614cdab99c5b24677e2283692",
+    "wof:geomhash":"088eeaf95ef60fe5be8e406449e9b22c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +65,22 @@
         }
     ],
     "wof:id":1293347699,
-    "wof:lastmodified":1566669710,
+    "wof:lastmodified":1706239397,
     "wof:name":"Beizhai",
     "wof:parent_id":890514775,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890512781
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     120.52967,
-    36.21944000000001,
+    36.21944,
     120.52967,
-    36.21944000000001
+    36.21944
 ],
-  "geometry": {"coordinates":[120.52967,36.21944000000001],"type":"Point"}
+  "geometry": {"coordinates":[120.52967,36.21944],"type":"Point"}
 }

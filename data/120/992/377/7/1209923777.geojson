@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Lizhai"
+    ],
     "name:zho_x_preferred":[
         "\u674e\u5be8\u6751"
     ],
@@ -44,6 +47,11 @@
     "wof:concordances":{
         "gn:id":10358166
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1557632
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"caff8e032266941ee9e4c32982fa6cc2",
     "wof:hierarchy":[
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1209923777,
-    "wof:lastmodified":1566681914,
+    "wof:lastmodified":1706239415,
     "wof:name":"Lizhaicun",
     "wof:parent_id":890515239,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343472209
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":6922263
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1913763
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"0228fef16615c2bada91cb1bc8e0a9b5",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1276184681,
-    "wof:lastmodified":1566673741,
+    "wof:lastmodified":1706239456,
     "wof:name":"Xinxu",
     "wof:parent_id":890513089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326676361
+    ],
     "wof:tags":[]
 },
   "bbox": [

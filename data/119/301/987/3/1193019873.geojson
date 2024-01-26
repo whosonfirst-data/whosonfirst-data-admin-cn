@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1558412
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10361228
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"601c11a1e5eb3418994027edeb2e7b11",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1193019873,
-    "wof:lastmodified":1566684900,
+    "wof:lastmodified":1706239398,
     "wof:name":"Yuanloucun",
     "wof:parent_id":890514507,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209109919
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1558051
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10359277
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"d3b2913984b3161524f86f8037b382c5",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1310208697,
-    "wof:lastmodified":1566689675,
+    "wof:lastmodified":1706239473,
     "wof:name":"Chenglaojiacun",
     "wof:parent_id":890515239,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327138251
+    ],
     "wof:tags":[]
 },
   "bbox": [

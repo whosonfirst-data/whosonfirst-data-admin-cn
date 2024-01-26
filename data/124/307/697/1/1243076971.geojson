@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1557760
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10358787
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"80e989aebda4c899f7152dc7c6854d40",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1243076971,
-    "wof:lastmodified":1566693845,
+    "wof:lastmodified":1706239439,
     "wof:name":"Mujicun",
     "wof:parent_id":890515239,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310604821
+    ],
     "wof:tags":[]
 },
   "bbox": [

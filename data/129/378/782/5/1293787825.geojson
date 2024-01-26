@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"116.04414,32.84321,116.04414,32.84321",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u6d2a\u6c9f\u6751"
@@ -45,7 +47,7 @@
         "gn:id":10414250
     },
     "wof:country":"CN",
-    "wof:geomhash":"dfa976833bf30746c4bdf150e87c9b3d",
+    "wof:geomhash":"1e5f7757ee240eba9b341e289d1cf739",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +59,22 @@
         }
     ],
     "wof:id":1293787825,
-    "wof:lastmodified":1566668431,
+    "wof:lastmodified":1706239458,
     "wof:name":"Honggoucun",
     "wof:parent_id":890516677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276445941
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    116.04413999999998,
+    116.04414,
     32.84321,
-    116.04413999999998,
+    116.04414,
     32.84321
 ],
-  "geometry": {"coordinates":[116.04413999999998,32.84321],"type":"Point"}
+  "geometry": {"coordinates":[116.04414,32.84321],"type":"Point"}
 }

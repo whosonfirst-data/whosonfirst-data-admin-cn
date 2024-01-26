@@ -29,6 +29,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Liu-shu-ho",
+        "Liushuhe",
+        "Liushuhezi",
+        "\u67f3\u6811\u6cb3\u5b50",
+        "\u67f3\u6811\u6cb3",
+        "Liushu Hezicun"
+    ],
     "name:zho_x_preferred":[
         "\u67f3\u6811\u6cb3\u5b50\u6751"
     ],
@@ -44,8 +52,13 @@
     "wof:concordances":{
         "gn:id":11019625
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2036003
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"60c6c3a98b2c6327320e5c91642c4d6c",
+    "wof:geomhash":"2231a6a3618ebffe9a22b31a1d487c50",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +70,22 @@
         }
     ],
     "wof:id":1260102695,
-    "wof:lastmodified":1566687386,
+    "wof:lastmodified":1706239453,
     "wof:name":"Liushu Hezicun",
     "wof:parent_id":1108732421,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360307953
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    127.79061000000002,
+    127.79061,
     42.98923,
-    127.79061000000002,
+    127.79061,
     42.98923
 ],
-  "geometry": {"coordinates":[127.79061000000002,42.98923],"type":"Point"}
+  "geometry": {"coordinates":[127.79061,42.98923],"type":"Point"}
 }

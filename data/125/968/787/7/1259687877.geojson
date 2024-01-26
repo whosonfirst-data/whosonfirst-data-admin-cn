@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1817037
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10811685
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"ef1bae1f834285d734498e591fb6ea2d",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1259687877,
-    "wof:lastmodified":1566699409,
+    "wof:lastmodified":1706239449,
     "wof:name":"Banqiaocun",
     "wof:parent_id":890515063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276242375
+    ],
     "wof:tags":[]
 },
   "bbox": [

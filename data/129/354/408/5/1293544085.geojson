@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u84bf\u8c37\u5806\u6751"
     ],
+    "name:zho_x_preferred":[
+        "\u84bf\u8c37\u5806\u6751"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669769,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7446156
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7369484
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"16f57817aee83edffc398539826e3250",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1293544085,
-    "wof:lastmodified":1566665850,
+    "wof:lastmodified":1706239466,
     "wof:name":"Haoguduicun",
     "wof:parent_id":890516525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293938133
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"116.00904,32.96836,116.00904,32.96836",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zhaodian"
@@ -48,7 +50,7 @@
         "gn:id":1557416
     },
     "wof:country":"CN",
-    "wof:geomhash":"51c784e1309e1ef0f19a963de4e93ced",
+    "wof:geomhash":"68828a20b5072183b41526c44becabd9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,20 +62,22 @@
         }
     ],
     "wof:id":1276661083,
-    "wof:lastmodified":1566674841,
+    "wof:lastmodified":1706239427,
     "wof:name":"Zhaodiancun",
     "wof:parent_id":890516677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226351849
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    116.00903999999998,
+    116.00904,
     32.96836,
-    116.00903999999998,
+    116.00904,
     32.96836
 ],
-  "geometry": {"coordinates":[116.00903999999998,32.96836],"type":"Point"}
+  "geometry": {"coordinates":[116.00904,32.96836],"type":"Point"}
 }

@@ -42,6 +42,9 @@
         "\u65b0\u6c11",
         "Xinmincun"
     ],
+    "name:zho_x_preferred":[
+        "\u65b0\u6c11"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,6 +55,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1914611
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7583826
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"65d74849c37abefd1c659e9acad3d52b",
@@ -65,13 +73,15 @@
         }
     ],
     "wof:id":1225881713,
-    "wof:lastmodified":1566702806,
+    "wof:lastmodified":1706239419,
     "wof:name":"Xinmin",
     "wof:parent_id":1108732477,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277109831
+    ],
     "wof:tags":[]
 },
   "bbox": [

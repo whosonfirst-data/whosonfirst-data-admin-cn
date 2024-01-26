@@ -302,6 +302,9 @@
     "name:zho_x_preferred":[
         "\u897f\u5b89\u5e02"
     ],
+    "name:zho_x_variant":[
+        "\u897f\u5b89\u5e02"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -309,6 +312,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9115902
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9121858
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"9c075b1ad42689d73568a3e0669f5fc6",
@@ -319,13 +327,15 @@
         }
     ],
     "wof:id":1209470059,
-    "wof:lastmodified":1566681050,
+    "wof:lastmodified":1706239409,
     "wof:name":"Xi'an",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259540841
+    ],
     "wof:tags":[]
 },
   "bbox": [

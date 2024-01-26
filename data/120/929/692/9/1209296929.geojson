@@ -94,6 +94,11 @@
     "wof:concordances":{
         "gn:id":1788820
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1788824
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"740b0233f38f04e041db307b1b38a049",
     "wof:hierarchy":[
@@ -103,13 +108,15 @@
         }
     ],
     "wof:id":1209296929,
-    "wof:lastmodified":1566683051,
+    "wof:lastmodified":1706239406,
     "wof:name":"Xinji",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226215533
+    ],
     "wof:tags":[]
 },
   "bbox": [

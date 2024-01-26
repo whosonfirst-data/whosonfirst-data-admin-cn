@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1557965
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10359390
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"27bf7b93627f3ed9b1970c6e00b91697",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1209619059,
-    "wof:lastmodified":1566681776,
+    "wof:lastmodified":1706239411,
     "wof:name":"Dongpingcun",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344060877
+    ],
     "wof:tags":[]
 },
   "bbox": [

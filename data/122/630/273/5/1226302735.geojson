@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":6858938
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1913656
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"04966a72aa27e99e367fd23ca7c3e03c",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1226302735,
-    "wof:lastmodified":1566705036,
+    "wof:lastmodified":1706239426,
     "wof:name":"Cencun",
     "wof:parent_id":890514609,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326589799
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":7063902
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1812911
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"9786f140db9cabddcbc7930bbddb2c55",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1242734685,
-    "wof:lastmodified":1566694453,
+    "wof:lastmodified":1706239435,
     "wof:name":"Diantou",
     "wof:parent_id":890515689,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259740101
+    ],
     "wof:tags":[]
 },
   "bbox": [

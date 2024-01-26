@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:zho_x_preferred":[
+        "\u5174\u9686\u96c6\u6751"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669739,
@@ -40,6 +43,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10443158
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10417461
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"5bbeff936e95866223b092c261960be0",
@@ -54,13 +62,15 @@
         }
     ],
     "wof:id":1242980239,
-    "wof:lastmodified":1566696913,
+    "wof:lastmodified":1706239438,
     "wof:name":"Xinglongjicun",
     "wof:parent_id":890513745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343771357
+    ],
     "wof:tags":[]
 },
   "bbox": [

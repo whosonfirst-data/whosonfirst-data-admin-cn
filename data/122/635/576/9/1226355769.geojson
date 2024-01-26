@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1553213
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10442674
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"ba4bc5d2b5b20d897aba638b6a2fb647",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1226355769,
-    "wof:lastmodified":1566702363,
+    "wof:lastmodified":1706239427,
     "wof:name":"Dahucun",
     "wof:parent_id":890513787,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310705671
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u845b\u5bb6\u5d16\u5934"
     ],
+    "name:zho_x_preferred":[
+        "\u845b\u5bb6\u5d16\u5934"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669813,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9115857
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9120969
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"8ae415d8c1f3f7680555999fefaf2122",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1277144407,
-    "wof:lastmodified":1566675328,
+    "wof:lastmodified":1706239463,
     "wof:name":"Gejiayatou",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293546723
+    ],
     "wof:tags":[]
 },
   "bbox": [

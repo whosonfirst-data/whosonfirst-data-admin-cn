@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"117.40629,31.87094,117.40629,31.87094",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u4e09\u5341\u57e0\u6751"
@@ -45,7 +47,7 @@
         "gn:id":10442371
     },
     "wof:country":"CN",
-    "wof:geomhash":"94ac995a71edc36ad6596783f9dd8ddb",
+    "wof:geomhash":"c031ceea88ac160e81cbd4504668cf0b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +59,22 @@
         }
     ],
     "wof:id":1259492803,
-    "wof:lastmodified":1566699168,
+    "wof:lastmodified":1706239400,
     "wof:name":"Sanshibucun",
     "wof:parent_id":890513787,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1193141075
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    117.40628999999998,
+    117.40629,
     31.87094,
-    117.40628999999998,
+    117.40629,
     31.87094
 ],
-  "geometry": {"coordinates":[117.40628999999998,31.87094],"type":"Point"}
+  "geometry": {"coordinates":[117.40629,31.87094],"type":"Point"}
 }

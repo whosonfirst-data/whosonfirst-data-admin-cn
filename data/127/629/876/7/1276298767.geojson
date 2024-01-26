@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u67d8\u68a8\u56ed\u6751"
     ],
+    "name:zho_x_preferred":[
+        "\u67d8\u68a8\u56ed\u6751"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669769,
@@ -44,8 +47,13 @@
     "wof:concordances":{
         "gn:id":7445956
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1784752
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"3c4a6c4f27e5609345a482ee249cb2b2",
+    "wof:geomhash":"efd8522e28420e47a115ecaf6636af6e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +65,22 @@
         }
     ],
     "wof:id":1276298767,
-    "wof:lastmodified":1566673979,
+    "wof:lastmodified":1706239457,
     "wof:name":"Zheliyuancun",
     "wof:parent_id":890515099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293067869
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    107.08301000000002,
+    107.08301,
     33.80487,
-    107.08301000000002,
+    107.08301,
     33.80487
 ],
-  "geometry": {"coordinates":[107.08301000000002,33.80487],"type":"Point"}
+  "geometry": {"coordinates":[107.08301,33.80487],"type":"Point"}
 }

@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1555420
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10811624
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"e9bfa53731281ded0231436e6868e137",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1326543443,
-    "wof:lastmodified":1566653990,
+    "wof:lastmodified":1706239476,
     "wof:name":"Batoucun",
     "wof:parent_id":890516201,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343372335
+    ],
     "wof:tags":[]
 },
   "bbox": [

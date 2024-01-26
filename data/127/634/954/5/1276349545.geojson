@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1556676
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10418218
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"a496281c1bb0da428c44abbf3ff005c2",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1276349545,
-    "wof:lastmodified":1566674114,
+    "wof:lastmodified":1706239458,
     "wof:name":"Jiangzhuangcun",
     "wof:parent_id":890515831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310604839
+    ],
     "wof:tags":[]
 },
   "bbox": [

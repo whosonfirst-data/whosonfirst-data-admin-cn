@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7408905
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7445870
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"8d8f8453571da5962098fba3aa31c7fd",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1226509121,
-    "wof:lastmodified":1566702622,
+    "wof:lastmodified":1706239429,
     "wof:name":"Duiwogoukou",
     "wof:parent_id":890515099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260136949
+    ],
     "wof:tags":[]
 },
   "bbox": [

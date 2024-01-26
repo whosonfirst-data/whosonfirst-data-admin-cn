@@ -44,6 +44,9 @@
     "name:swe_x_preferred":[
         "Fengshan"
     ],
+    "name:und_x_variant":[
+        "Feng-shan-hs\u00fc"
+    ],
     "name:vie_x_preferred":[
         "Ph\u01b0\u1ee3ng S\u01a1n"
     ],
@@ -59,6 +62,11 @@
     "wof:concordances":{
         "gn:id":1912983
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1811255
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"b8fe144bf671ab11b63f902daa2043a3",
     "wof:hierarchy":[
@@ -72,13 +80,15 @@
         }
     ],
     "wof:id":1226214673,
-    "wof:lastmodified":1566701306,
+    "wof:lastmodified":1706239424,
     "wof:name":"Fengshan",
     "wof:parent_id":890514591,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276519667
+    ],
     "wof:tags":[]
 },
   "bbox": [

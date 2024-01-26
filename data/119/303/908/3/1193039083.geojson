@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1784324
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1922371
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"43595e6d1f59e8fe90131c35b667ecdc",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1193039083,
-    "wof:lastmodified":1566685404,
+    "wof:lastmodified":1706239399,
     "wof:name":"Zhongsha",
     "wof:parent_id":890516573,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242894925
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":1914521
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6970546
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"99945ab8f6e3013a0e35e4fda5da28bd",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1293436209,
-    "wof:lastmodified":1566672117,
+    "wof:lastmodified":1706239465,
     "wof:name":"Shanghuanggang",
     "wof:parent_id":890514727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343722045
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1557739
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10358327
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"a5512b61caecf499460af78c24792b03",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1209927625,
-    "wof:lastmodified":1566681898,
+    "wof:lastmodified":1706239415,
     "wof:name":"Laozhangjicun",
     "wof:parent_id":890515239,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293403289
+    ],
     "wof:tags":[]
 },
   "bbox": [

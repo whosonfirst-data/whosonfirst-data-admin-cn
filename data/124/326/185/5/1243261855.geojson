@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":2036064
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11019900
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"5fd98072c1c9e9843d5cd269ca54184e",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1243261855,
-    "wof:lastmodified":1566697698,
+    "wof:lastmodified":1706239442,
     "wof:name":"Linshengcun",
     "wof:parent_id":1108732421,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343857107
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":1787427
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1927843
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"0d1d1b6b5aa9ef45e81e585fbb34c77f",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1243250185,
-    "wof:lastmodified":1566695836,
+    "wof:lastmodified":1706239442,
     "wof:name":"Yanglousi",
     "wof:parent_id":890516479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327121893
+    ],
     "wof:tags":[]
 },
   "bbox": [

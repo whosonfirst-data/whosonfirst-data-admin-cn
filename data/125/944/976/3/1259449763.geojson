@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1800249
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7444428
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"bdd8c69dbc1e9fc857029d6690ca42ee",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1259449763,
-    "wof:lastmodified":1566700414,
+    "wof:lastmodified":1706239448,
     "wof:name":"Muzhubacun",
     "wof:parent_id":890515099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327488215
+    ],
     "wof:tags":[]
 },
   "bbox": [

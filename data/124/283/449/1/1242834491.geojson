@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1997190
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6677617
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"7c6f51ca1e034eb8756ee90697603471",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1242834491,
-    "wof:lastmodified":1566696607,
+    "wof:lastmodified":1706239436,
     "wof:name":"Huanghuai",
     "wof:parent_id":890516561,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344217173
+    ],
     "wof:tags":[]
 },
   "bbox": [

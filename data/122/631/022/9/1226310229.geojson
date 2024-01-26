@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u5f90\u5bb6\u6c88\u9a6c\u5e84"
     ],
+    "name:zho_x_preferred":[
+        "\u5f90\u5bb6\u6c88\u9a6c\u5e84"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669813,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9115752
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9123309
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"d74d41bdcd7b45a0de74c39b3eda0479",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1226310229,
-    "wof:lastmodified":1566705605,
+    "wof:lastmodified":1706239426,
     "wof:name":"Xujia Shenmazhuang",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226717329
+    ],
     "wof:tags":[]
 },
   "bbox": [

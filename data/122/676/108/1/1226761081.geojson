@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1554296
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10361070
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"539fbeedba815e1a503c28e15229ed69",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1226761081,
-    "wof:lastmodified":1566703946,
+    "wof:lastmodified":1706239432,
     "wof:name":"Cuiloucun",
     "wof:parent_id":890514507,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243376895
+    ],
     "wof:tags":[]
 },
   "bbox": [

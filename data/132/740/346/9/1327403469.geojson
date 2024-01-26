@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":9916887
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9916895
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"075ea051e77d825e222c37c78477d5e0",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1327403469,
-    "wof:lastmodified":1566650279,
+    "wof:lastmodified":1706239478,
     "wof:name":"Miaobei",
     "wof:parent_id":1108732443,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344229097
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -12,7 +12,9 @@
     "gn:latitude":32.21086,
     "gn:longitude":119.45508,
     "gn:population":632552,
+    "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"119.408596,32.194253,119.448596,32.234253",
     "lbl:latitude":32.20525,
     "lbl:longitude":119.449128,
     "lbl:max_zoom":13.0,
@@ -336,7 +338,18 @@
     "qs:loc":"Zhenjiang",
     "qs:loc_alt":"\u9547\u6c5f",
     "qs:loc_lc":"1784642",
+    "qs:name":"\u9547\u6c5f",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u6c5f\u82cf\u7701",
+    "qs:photos":1162,
+    "qs:photos_1k":235,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1162,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
     "src:geom":"quattroshapes",
@@ -360,6 +373,14 @@
         "wd:id":"Q57958",
         "wk:page":"Zhenjiang"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2137093
+        ],
+        "qs_pg:id":[
+            1129727
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"237d43ec35868e2cd530010d2bbe32bc",
     "wof:hierarchy":[
@@ -373,7 +394,7 @@
         }
     ],
     "wof:id":102026897,
-    "wof:lastmodified":1636503611,
+    "wof:lastmodified":1706239392,
     "wof:megacity":1,
     "wof:name":"Zhenjiang",
     "wof:parent_id":1108732521,
@@ -383,7 +404,9 @@
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:scale":6,
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890514527
+    ],
     "wof:tags":[]
 },
   "bbox": [

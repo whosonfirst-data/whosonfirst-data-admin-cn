@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u960e\u9a6c"
     ],
+    "name:zho_x_preferred":[
+        "\u960e\u9a6c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669813,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9115814
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9121589
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"c2d8bb6acf05eaf864dcab1ee9bbb265",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1259550907,
-    "wof:lastmodified":1566698624,
+    "wof:lastmodified":1706239448,
     "wof:name":"Yanma",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276407111
+    ],
     "wof:tags":[]
 },
   "bbox": [

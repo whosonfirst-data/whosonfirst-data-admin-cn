@@ -29,6 +29,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Sung-chuang",
+        "Songzhuang",
+        "Songzhuangcun"
+    ],
     "name:zho_x_preferred":[
         "\u5b8b\u5e84\u6751"
     ],
@@ -44,6 +49,11 @@
     "wof:concordances":{
         "gn:id":11150275
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1793950
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"6e4a50c105216ce8309cffaa1e0f35c3",
     "wof:hierarchy":[
@@ -57,13 +67,15 @@
         }
     ],
     "wof:id":1243025015,
-    "wof:lastmodified":1566696494,
+    "wof:lastmodified":1706239439,
     "wof:name":"Songzhuangcun",
     "wof:parent_id":890516587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293940019
+    ],
     "wof:tags":[]
 },
   "bbox": [

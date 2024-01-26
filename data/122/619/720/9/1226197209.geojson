@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7445456
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7445432
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"38d93fe24c5722adad04a8e301c4c289",
+    "wof:geomhash":"36cb13ed6665d4ec047c81cc616e57e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +62,22 @@
         }
     ],
     "wof:id":1226197209,
-    "wof:lastmodified":1566701379,
+    "wof:lastmodified":1706239424,
     "wof:name":"Heigou",
     "wof:parent_id":890515099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327188997
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    107.93883999999998,
+    107.93884,
     33.34603,
-    107.93883999999998,
+    107.93884,
     33.34603
 ],
-  "geometry": {"coordinates":[107.93883999999998,33.34603],"type":"Point"}
+  "geometry": {"coordinates":[107.93884,33.34603],"type":"Point"}
 }

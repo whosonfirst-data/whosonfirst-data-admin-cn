@@ -95,6 +95,9 @@
     "name:ukr_x_preferred":[
         "\u042f\u0440\u0456"
     ],
+    "name:und_x_variant":[
+        "\u7259\u65e5"
+    ],
     "name:vie_x_preferred":[
         "Yari"
     ],
@@ -112,6 +115,11 @@
     "wof:concordances":{
         "gn:id":7633918
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1916005
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"5799fcc380155f24b1b3cbf60522be5a",
     "wof:hierarchy":[
@@ -124,13 +132,15 @@
         }
     ],
     "wof:id":1210051805,
-    "wof:lastmodified":1566684583,
+    "wof:lastmodified":1706239417,
     "wof:name":"Yari",
     "wof:parent_id":1108732351,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310238101
+    ],
     "wof:tags":[]
 },
   "bbox": [

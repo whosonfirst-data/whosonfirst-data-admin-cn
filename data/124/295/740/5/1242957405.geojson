@@ -11,6 +11,7 @@
     "geom:longitude":111.01528,
     "gn:admin1_code":"09",
     "gn:asciiname":"Jingziguan",
+    "gn:cc2":"CN",
     "gn:country_code":"CN",
     "gn:dem":214,
     "gn:feature_class":"P",
@@ -56,7 +57,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1805535
+        "gn:id":1805535,
+        "wk:page":"Jingziguan"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1895337
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"ebf68ec062a9f9008a3d83cf7afcf5af",
@@ -71,13 +78,15 @@
         }
     ],
     "wof:id":1242957405,
-    "wof:lastmodified":1566694930,
+    "wof:lastmodified":1706239438,
     "wof:name":"Jingziguan",
     "wof:parent_id":890516339,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309790085
+    ],
     "wof:tags":[]
 },
   "bbox": [

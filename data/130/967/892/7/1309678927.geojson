@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7369489
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7446164
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"31e865a4f33feb8240c6a313add7a938",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1309678927,
-    "wof:lastmodified":1566693102,
+    "wof:lastmodified":1706239469,
     "wof:name":"Xuegoukou",
     "wof:parent_id":890516525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343518275
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1554977
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10635629
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"ca64857511c1314263331ce7e67ab0a9",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1343271391,
-    "wof:lastmodified":1566663495,
+    "wof:lastmodified":1706239479,
     "wof:name":"Shuiguancun",
     "wof:parent_id":890513787,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344070387
+    ],
     "wof:tags":[]
 },
   "bbox": [

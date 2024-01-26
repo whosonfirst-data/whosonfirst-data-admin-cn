@@ -9,9 +9,21 @@
     "geom:bbox":"120.52889,36.21972,120.52889,36.21972",
     "geom:latitude":36.21972,
     "geom:longitude":120.52889,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Beizhai",
     "gn:country":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":90,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1912380,
+    "gn:latitude":36.21944,
+    "gn:longitude":120.52967,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Beizhai",
     "gn:population":1850,
+    "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
     "lbl:bbox":"120.50889,36.19972,120.54889,36.23972",
     "lbl:max_zoom":16.0,
@@ -73,6 +85,9 @@
     "name:zho_x_preferred":[
         "\u5d02\u5c71\u533a"
     ],
+    "name:zho_x_variant":[
+        "\u5317\u5b85\u8857\u9053"
+    ],
     "qs:name":"Beizhai",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -94,6 +109,11 @@
         "wd:id":"Q181352",
         "wk:page":"Laoshan District"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1912380
+        ]
+    },
     "wof:country":"CN",
     "wof:created":1469055785,
     "wof:geomhash":"4f01fe804e7e93a4f6c4f6523462929b",
@@ -108,7 +128,7 @@
         }
     ],
     "wof:id":890512781,
-    "wof:lastmodified":1566693758,
+    "wof:lastmodified":1706239397,
     "wof:name":"Beizhai",
     "wof:parent_id":890514775,
     "wof:placetype":"locality",
@@ -116,7 +136,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293347699
+    ],
     "wof:tags":[]
 },
   "bbox": [

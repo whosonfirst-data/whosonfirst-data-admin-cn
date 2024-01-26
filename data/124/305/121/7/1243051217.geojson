@@ -76,8 +76,13 @@
     "wof:concordances":{
         "gn:id":7927753
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7927754
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"7362d3672c14ee6e6946a0e190fdc9a6",
+    "wof:geomhash":"a0b977e0daa77d8a0b81f35b593319e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +94,22 @@
         }
     ],
     "wof:id":1243051217,
-    "wof:lastmodified":1566696440,
+    "wof:lastmodified":1706239439,
     "wof:name":"Docha",
     "wof:parent_id":890516395,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326901259
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    88.20100000000002,
+    88.201,
     28.401,
-    88.20100000000002,
+    88.201,
     28.401
 ],
-  "geometry": {"coordinates":[88.20100000000002,28.401],"type":"Point"}
+  "geometry": {"coordinates":[88.20099999999999,28.401],"type":"Point"}
 }

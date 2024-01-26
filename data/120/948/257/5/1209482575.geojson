@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u5708\u6751"
     ],
+    "name:zho_x_preferred":[
+        "\u5708\u6751"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -39,6 +42,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9116435
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9123334
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"1df1258f1a0584713a5cc97b0b1da32e",
@@ -49,13 +57,15 @@
         }
     ],
     "wof:id":1209482575,
-    "wof:lastmodified":1566680193,
+    "wof:lastmodified":1706239410,
     "wof:name":"Quancun",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293841147
+    ],
     "wof:tags":[]
 },
   "bbox": [

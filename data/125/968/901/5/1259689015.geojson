@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":1791791
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11089269
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"8bae836025a0376f489208a6e47c433c",
     "wof:hierarchy":[
@@ -61,13 +66,15 @@
         }
     ],
     "wof:id":1259689015,
-    "wof:lastmodified":1566699375,
+    "wof:lastmodified":1706239449,
     "wof:name":"Wanji",
     "wof:parent_id":890516333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360085055
+    ],
     "wof:tags":[]
 },
   "bbox": [

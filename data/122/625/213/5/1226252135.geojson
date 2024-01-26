@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":10650867
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10650863
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"30d1503123e41baf2636adb491d656d7",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1226252135,
-    "wof:lastmodified":1566703774,
+    "wof:lastmodified":1706239425,
     "wof:name":"Chaxucun",
     "wof:parent_id":890514517,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343675265
+    ],
     "wof:tags":[]
 },
   "bbox": [

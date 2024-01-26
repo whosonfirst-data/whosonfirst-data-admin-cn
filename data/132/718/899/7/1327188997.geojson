@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"107.93884,33.34603,107.93884,33.34603",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u9ed1\u6c9f"
@@ -45,7 +47,7 @@
         "gn:id":7445432
     },
     "wof:country":"CN",
-    "wof:geomhash":"38d93fe24c5722adad04a8e301c4c289",
+    "wof:geomhash":"36cb13ed6665d4ec047c81cc616e57e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +59,22 @@
         }
     ],
     "wof:id":1327188997,
-    "wof:lastmodified":1566655590,
+    "wof:lastmodified":1706239424,
     "wof:name":"Heigou",
     "wof:parent_id":890515099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226197209
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    107.93883999999998,
+    107.93884,
     33.34603,
-    107.93883999999998,
+    107.93884,
     33.34603
 ],
-  "geometry": {"coordinates":[107.93883999999998,33.34603],"type":"Point"}
+  "geometry": {"coordinates":[107.93884,33.34603],"type":"Point"}
 }

@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":1553038
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10442796
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"d6fad9d6675d6a02471a0627cde1a935",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1193029271,
-    "wof:lastmodified":1566685487,
+    "wof:lastmodified":1706239399,
     "wof:name":"Guanducun",
     "wof:parent_id":890513329,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242691631
+    ],
     "wof:tags":[]
 },
   "bbox": [

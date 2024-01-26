@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1555163
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10440927
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"02ece1f1de2805f68a0a4e7a8fb37ccf",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1226757089,
-    "wof:lastmodified":1566700952,
+    "wof:lastmodified":1706239432,
     "wof:name":"Lishucun",
     "wof:parent_id":890513745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327445321
+    ],
     "wof:tags":[]
 },
   "bbox": [

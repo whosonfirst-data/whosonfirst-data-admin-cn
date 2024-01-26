@@ -9,9 +9,13 @@
     "geom:bbox":"119.833676,32.902865,119.866031,32.948548",
     "geom:latitude":32.928681,
     "geom:longitude":119.85046,
+    "gn:country":"CN",
+    "gn:fcode":"PPLA3",
     "gn:latitude":32.92958,
     "gn:longitude":119.83576,
+    "gn:population":0,
     "iso:country":"CN",
+    "lbl:bbox":"119.81576,32.90958,119.85576,32.94958",
     "lbl:latitude":32.937148,
     "lbl:longitude":119.846658,
     "lbl:max_zoom":18.0,
@@ -21,6 +25,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Shaoyang"
     ],
@@ -141,6 +146,17 @@
     "qs:loc_lc":"8262129",
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
+    "qs_pg:aaroncc":"CN",
+    "qs_pg:gn_country":"CN",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":8262129,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Shaoyang",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":381599,
+    "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -161,7 +177,12 @@
         "qs_pg:id":381598
     },
     "wof:concordances_alt":{
-        "qs_pg:id":381599
+        "gn:id":[
+            8262129
+        ],
+        "qs_pg:id":[
+            381599
+        ]
     },
     "wof:country":"CN",
     "wof:geom_alt":[
@@ -179,13 +200,15 @@
         }
     ],
     "wof:id":102028129,
-    "wof:lastmodified":1636503603,
+    "wof:lastmodified":1706239396,
     "wof:name":"Shaoyang",
     "wof:parent_id":890516237,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125890309
+    ],
     "wof:tags":[]
 },
   "bbox": [

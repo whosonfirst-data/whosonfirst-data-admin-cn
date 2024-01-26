@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"112.65766,39.27979,112.65766,39.27979",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "An-tzu",
@@ -52,7 +54,7 @@
         "gn:id":1817918
     },
     "wof:country":"CN",
-    "wof:geomhash":"b960b0694a9e65b2b16ad655ac7255b5",
+    "wof:geomhash":"e7e4b43066c9f24eb0a4e8e354b7eaaf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,20 +66,22 @@
         }
     ],
     "wof:id":1310061443,
-    "wof:lastmodified":1566689555,
+    "wof:lastmodified":1706239399,
     "wof:name":"Anzicun",
     "wof:parent_id":890513491,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1193092967
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     112.65766,
-    39.27979000000001,
+    39.27979,
     112.65766,
-    39.27979000000001
+    39.27979
 ],
-  "geometry": {"coordinates":[112.65766000000001,39.27979000000001],"type":"Point"}
+  "geometry": {"coordinates":[112.65766000000001,39.27979],"type":"Point"}
 }

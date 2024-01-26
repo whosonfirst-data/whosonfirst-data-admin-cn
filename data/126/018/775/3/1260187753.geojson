@@ -36,6 +36,9 @@
         "Da\u2019ancun",
         "\u5927\u5b89\u6751"
     ],
+    "name:zho_x_preferred":[
+        "Da\u2019ancun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669827,
@@ -47,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1814643
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7331179
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"529d1f06aa8e49d7ed812232de3b2d42",
@@ -61,13 +69,15 @@
         }
     ],
     "wof:id":1260187753,
-    "wof:lastmodified":1566687161,
+    "wof:lastmodified":1706239454,
     "wof:name":"Da'ancun",
     "wof:parent_id":890515155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309803679
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1898030
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10358058
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"900bc38c7b9285805a2a64ab78814fe5",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1226055983,
-    "wof:lastmodified":1566702039,
+    "wof:lastmodified":1706239422,
     "wof:name":"Huomiaocun",
     "wof:parent_id":890515831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310604919
+    ],
     "wof:tags":[]
 },
   "bbox": [

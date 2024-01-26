@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u817e\u5bb6\u6cb3"
     ],
+    "name:zho_x_preferred":[
+        "\u6ed5\u5bb6\u6cb3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669813,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9116719
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9123351
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"a6b6dd4bbf13b99aab6191e85d375ae9",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1209873451,
-    "wof:lastmodified":1566683483,
+    "wof:lastmodified":1706239414,
     "wof:name":"Tengjiahe",
     "wof:parent_id":1108732339,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276192785
+    ],
     "wof:tags":[]
 },
   "bbox": [

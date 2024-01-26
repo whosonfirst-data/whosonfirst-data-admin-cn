@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "T\u2019ieh-fo-ssu",
+        "T\u2019ieh-fo-chi",
+        "Tiefoji",
+        "Tiefo"
+    ],
     "name:zho_x_preferred":[
         "\u94c1\u4f5b"
     ],
@@ -44,6 +50,11 @@
     "wof:concordances":{
         "gn:id":11094738
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1792804
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"f908fc55a38ae48b5ffc1b09f75b6415",
     "wof:hierarchy":[
@@ -57,13 +68,15 @@
         }
     ],
     "wof:id":1226042603,
-    "wof:lastmodified":1566702263,
+    "wof:lastmodified":1706239421,
     "wof:name":"Tiefo",
     "wof:parent_id":1108732465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326653795
+    ],
     "wof:tags":[]
 },
   "bbox": [

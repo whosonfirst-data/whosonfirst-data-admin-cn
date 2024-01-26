@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7519406
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1801883
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"aedcb764e3d59c6bb75c9f44f9646432",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1225899187,
-    "wof:lastmodified":1566702926,
+    "wof:lastmodified":1706239419,
     "wof:name":"Luopangyuan",
     "wof:parent_id":890515097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276406489
+    ],
     "wof:tags":[]
 },
   "bbox": [

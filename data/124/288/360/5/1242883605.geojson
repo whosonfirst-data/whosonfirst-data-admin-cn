@@ -50,8 +50,13 @@
     "wof:concordances":{
         "gn:id":1795929
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10635127
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"faf45024ac2cf7543d5ce66106e85f80",
+    "wof:geomhash":"0956ea0bb5c27632840bc8f6d595dcec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1242883605,
-    "wof:lastmodified":1566694542,
+    "wof:lastmodified":1706239437,
     "wof:name":"Shanwanghecun",
     "wof:parent_id":890513745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276231553
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    116.48203999999998,
+    116.48204,
     31.427,
-    116.48203999999998,
+    116.48204,
     31.427
 ],
-  "geometry": {"coordinates":[116.48203999999998,31.427],"type":"Point"}
+  "geometry": {"coordinates":[116.48204,31.427],"type":"Point"}
 }

@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1794534
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10635539
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"45992a3d51a84a03503d4cfc2418747f",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1225948265,
-    "wof:lastmodified":1566700710,
+    "wof:lastmodified":1706239420,
     "wof:name":"Shuhecun",
     "wof:parent_id":890513745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277078143
+    ],
     "wof:tags":[]
 },
   "bbox": [

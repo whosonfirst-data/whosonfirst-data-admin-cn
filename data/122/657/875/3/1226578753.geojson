@@ -35,6 +35,9 @@
         "Yanzao",
         "\u76d0\u7076"
     ],
+    "name:zho_x_preferred":[
+        "\u76d0\u7076"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1894224
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7632692
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"6d99ef7185c7fca43ca552efb6b98eb2",
@@ -58,13 +66,15 @@
         }
     ],
     "wof:id":1226578753,
-    "wof:lastmodified":1566702588,
+    "wof:lastmodified":1706239430,
     "wof:name":"Yanzao",
     "wof:parent_id":1108732333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259516539
+    ],
     "wof:tags":[]
 },
   "bbox": [

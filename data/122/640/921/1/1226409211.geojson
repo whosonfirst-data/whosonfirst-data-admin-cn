@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7445827
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7408858
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"7bf77f87fbfb7ac7ffcfb2a7b0875e14",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1226409211,
-    "wof:lastmodified":1566704274,
+    "wof:lastmodified":1706239428,
     "wof:name":"Yudongzi",
     "wof:parent_id":890515099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260238191
+    ],
     "wof:tags":[]
 },
   "bbox": [

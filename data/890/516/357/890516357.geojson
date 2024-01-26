@@ -9,6 +9,19 @@
     "geom:bbox":"108.032598,30.294474,108.032598,30.294474",
     "geom:latitude":30.294474,
     "geom:longitude":108.032598,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Zhongzhou",
+    "gn:country_code":"CN",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1784199,
+    "gn:latitude":30.29402,
+    "gn:longitude":108.03296,
+    "gn:modification_date":"2012-10-06",
+    "gn:name":"Zhongzhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
     "gp:adm0":23424781,
     "iso:country":"CN",
     "lbl:bbox":"108.012598,30.2744745,108.052598,30.3144745",
@@ -20,8 +33,22 @@
     "name:eng_x_preferred":[
         "Zhongzhou"
     ],
+    "name:und_x_variant":[
+        "Chzhunsyan\u2019",
+        "Zhong Xian",
+        "Chung-hsien",
+        "Chungchow",
+        "Chungchou",
+        "Chung",
+        "Zhongzhou",
+        "Zhongzhou Zhen"
+    ],
     "name:zho_x_preferred":[
         "\u5fe0\u5dde"
+    ],
+    "name:zho_x_variant":[
+        "\u5fe0\u5dde\u9547",
+        "\u5fe0\u53bf"
     ],
     "qs:name":"\u5fe0\u5dde",
     "qs:name_adm0":"\u4e2d\u570b",
@@ -35,14 +62,15 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85669725,
         102191569,
         85632695,
-        890513063,
         136253041,
-        85669725
+        890513063
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1784199,
         "gp:id":2158418,
         "qs_pg:id":774425
     },
@@ -60,13 +88,15 @@
         }
     ],
     "wof:id":890516357,
-    "wof:lastmodified":1601423081,
+    "wof:lastmodified":1706239397,
     "wof:name":"Zhongzhou",
     "wof:parent_id":890513063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276601669
+    ],
     "wof:tags":[]
 },
   "bbox": [

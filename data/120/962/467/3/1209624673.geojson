@@ -29,6 +29,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Fou-shan-chen",
+        "Fou-shan-chi",
+        "Fu-shan-chi",
+        "Fushan",
+        "Fushancun"
+    ],
     "name:zho_x_preferred":[
         "\u6d6e\u5c71\u6751"
     ],
@@ -40,6 +47,11 @@
     "wof:concordances":{
         "gn:id":10415220
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1810924
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"dbd9d3860733f23ad843d968b2489c74",
     "wof:hierarchy":[
@@ -49,13 +61,15 @@
         }
     ],
     "wof:id":1209624673,
-    "wof:lastmodified":1566679303,
+    "wof:lastmodified":1706239411,
     "wof:name":"Fushancun",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260196829
+    ],
     "wof:tags":[]
 },
   "bbox": [

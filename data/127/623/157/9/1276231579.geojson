@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Wangzhuang"
+    ],
     "name:zho_x_preferred":[
         "\u738b\u5e84\u6751"
     ],
@@ -44,6 +47,11 @@
     "wof:concordances":{
         "gn:id":10416443
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1556595
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"b53603e37509cad964a82c6ad0450efb",
     "wof:hierarchy":[
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1276231579,
-    "wof:lastmodified":1566676592,
+    "wof:lastmodified":1706239456,
     "wof:name":"Wangzhuangcun",
     "wof:parent_id":890513329,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310409557
+    ],
     "wof:tags":[]
 },
   "bbox": [

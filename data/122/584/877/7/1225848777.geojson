@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1557065
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10413809
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"af1ce8281081f244163bd6136af11417",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1225848777,
-    "wof:lastmodified":1566705964,
+    "wof:lastmodified":1706239418,
     "wof:name":"Lingjiaocun",
     "wof:parent_id":890513745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360289209
+    ],
     "wof:tags":[]
 },
   "bbox": [

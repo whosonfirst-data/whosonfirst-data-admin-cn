@@ -52,8 +52,13 @@
     "wof:concordances":{
         "gn:id":1784045
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10414371
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"ce2cfb5b79764b36ebfc150c0c652183",
+    "wof:geomhash":"b6daf4734d1f1cc6e105750cc67748f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +70,22 @@
         }
     ],
     "wof:id":1226553173,
-    "wof:lastmodified":1566704798,
+    "wof:lastmodified":1706239429,
     "wof:name":"Zhuangmucun",
     "wof:parent_id":890513787,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277087737
+    ],
     "wof:tags":[]
 },
   "bbox": [
     117.11467,
-    32.34164000000001,
+    32.34164,
     117.11467,
-    32.34164000000001
+    32.34164
 ],
-  "geometry": {"coordinates":[117.11467,32.34164000000001],"type":"Point"}
+  "geometry": {"coordinates":[117.11467,32.34164],"type":"Point"}
 }

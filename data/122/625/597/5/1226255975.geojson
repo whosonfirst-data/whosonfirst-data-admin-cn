@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1555152
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10635330
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"4caf52498c30df23dadb5c33bbf4edd8",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1226255975,
-    "wof:lastmodified":1566703762,
+    "wof:lastmodified":1706239425,
     "wof:name":"Xintangcun",
     "wof:parent_id":890513745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327033607
+    ],
     "wof:tags":[]
 },
   "bbox": [

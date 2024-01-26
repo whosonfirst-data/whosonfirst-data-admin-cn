@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":1895910
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6665004
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"f3aa87d7f63b6b8e90eae81211bbd895",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1309815637,
-    "wof:lastmodified":1566693442,
+    "wof:lastmodified":1706239471,
     "wof:name":"Shuanglianqiao",
     "wof:parent_id":890515633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343861117
+    ],
     "wof:tags":[]
 },
   "bbox": [

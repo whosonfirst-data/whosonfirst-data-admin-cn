@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":2053761
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11509406
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"fc4e1aa8345cd404dc3a22bf4c1230dc",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1293554713,
-    "wof:lastmodified":1566666668,
+    "wof:lastmodified":1706239466,
     "wof:name":"Henghezicun",
     "wof:parent_id":890515907,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343236899
+    ],
     "wof:tags":[]
 },
   "bbox": [

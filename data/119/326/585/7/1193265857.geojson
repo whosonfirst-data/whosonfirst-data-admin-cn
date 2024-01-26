@@ -104,6 +104,11 @@
     "wof:concordances":{
         "gn:id":1929876
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6418476
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"172e0fd66b84d0fe5f72c2dbd70474be",
     "wof:hierarchy":[
@@ -117,13 +122,15 @@
         }
     ],
     "wof:id":1193265857,
-    "wof:lastmodified":1636504092,
+    "wof:lastmodified":1706239400,
     "wof:name":"Linjiang",
     "wof:parent_id":890515001,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226430043
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":6854326
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8065915
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"9403232023fe97b9e1e16ce23ac9e60a",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1209160767,
-    "wof:lastmodified":1566682953,
+    "wof:lastmodified":1706239404,
     "wof:name":"Nanwan",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259743255
+    ],
     "wof:tags":[]
 },
   "bbox": [

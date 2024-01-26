@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Shigang"
+    ],
     "name:zho_x_preferred":[
         "\u77f3\u5c97\u6751"
     ],
@@ -44,6 +47,11 @@
     "wof:concordances":{
         "gn:id":10440941
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1555149
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"1d272bceb590012b9a98b66d0fb7e035",
     "wof:hierarchy":[
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1310604895,
-    "wof:lastmodified":1566691044,
+    "wof:lastmodified":1706239475,
     "wof:name":"Shigangcun",
     "wof:parent_id":890513745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327440871
+    ],
     "wof:tags":[]
 },
   "bbox": [

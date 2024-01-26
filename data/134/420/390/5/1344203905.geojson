@@ -38,6 +38,10 @@
     "name:nor_x_preferred":[
         "Xiling"
     ],
+    "name:und_x_variant":[
+        "Hsi-ling",
+        "\u897f\u5cad"
+    ],
     "name:zho_x_preferred":[
         "\u897f\u5cad"
     ],
@@ -53,6 +57,11 @@
     "wof:concordances":{
         "gn:id":7007612
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1789331
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"127ffeb403a3e1dd3ca37974783de5cd",
     "wof:hierarchy":[
@@ -66,13 +75,15 @@
         }
     ],
     "wof:id":1344203905,
-    "wof:lastmodified":1566662901,
+    "wof:lastmodified":1706239480,
     "wof:name":"Xiling",
     "wof:parent_id":890513087,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360134623
+    ],
     "wof:tags":[]
 },
   "bbox": [

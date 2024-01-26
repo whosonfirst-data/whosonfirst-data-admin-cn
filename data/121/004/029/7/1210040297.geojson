@@ -35,6 +35,9 @@
     "name:zho_x_preferred":[
         "\u859b\u820d"
     ],
+    "name:zho_x_variant":[
+        "\u859b\u820d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669827,
@@ -46,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1547796
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8034661
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"779a4f41da9e018fc24111255a5ee5a9",
@@ -60,13 +68,15 @@
         }
     ],
     "wof:id":1210040297,
-    "wof:lastmodified":1566684579,
+    "wof:lastmodified":1706239417,
     "wof:name":"Xueshe",
     "wof:parent_id":890515153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226782315
+    ],
     "wof:tags":[]
 },
   "bbox": [

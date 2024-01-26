@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":9927435
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9927440
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"a4b5d9d3a918eeb3ad9c3771173cd450",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1276744657,
-    "wof:lastmodified":1566673438,
+    "wof:lastmodified":1706239460,
     "wof:name":"Aixu",
     "wof:parent_id":1108732453,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293461977
+    ],
     "wof:tags":[]
 },
   "bbox": [

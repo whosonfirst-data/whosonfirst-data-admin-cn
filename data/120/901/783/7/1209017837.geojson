@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":10650866
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10650861
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"400d44f269dc9df9b297036987d4e2ad",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209017837,
-    "wof:lastmodified":1566679351,
+    "wof:lastmodified":1706239402,
     "wof:name":"Yuloucun",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209115543
+    ],
     "wof:tags":[]
 },
   "bbox": [

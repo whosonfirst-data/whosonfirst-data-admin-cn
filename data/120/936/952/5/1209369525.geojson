@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":1809433
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7446076
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"ffc0ce7284d89b83dbab7aebd2da8148",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1209369525,
-    "wof:lastmodified":1566678586,
+    "wof:lastmodified":1706239407,
     "wof:name":"Gujicun",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293249187
+    ],
     "wof:tags":[]
 },
   "bbox": [

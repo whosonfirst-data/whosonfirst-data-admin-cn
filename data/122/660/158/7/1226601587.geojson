@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":1796351
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11085354
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"55681d65ba2720f2cab60a1377bfc2af",
     "wof:hierarchy":[
@@ -61,13 +66,15 @@
         }
     ],
     "wof:id":1226601587,
-    "wof:lastmodified":1566702175,
+    "wof:lastmodified":1706239430,
     "wof:name":"Shamao",
     "wof:parent_id":890515097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310261601
+    ],
     "wof:tags":[]
 },
   "bbox": [

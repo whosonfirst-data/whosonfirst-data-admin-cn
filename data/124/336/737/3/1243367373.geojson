@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":1556893
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11526545
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"d9db5c00299cf0fa339bd4e3ed08ecbf",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1243367373,
-    "wof:lastmodified":1566693879,
+    "wof:lastmodified":1706239444,
     "wof:name":"Baoyi Nongchang",
     "wof:parent_id":890513745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310318641
+    ],
     "wof:tags":[]
 },
   "bbox": [

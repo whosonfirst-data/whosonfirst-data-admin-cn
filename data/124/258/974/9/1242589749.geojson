@@ -47,8 +47,13 @@
     "wof:concordances":{
         "gn:id":1896889
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11201822
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"4f48f476cccba57dcc1040359b27a54c",
+    "wof:geomhash":"adfaec4f772ed6556857d43f16ce2cd3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,20 +65,22 @@
         }
     ],
     "wof:id":1242589749,
-    "wof:lastmodified":1566695162,
+    "wof:lastmodified":1706239434,
     "wof:name":"Fenxu",
     "wof:parent_id":890514635,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360093559
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    121.17213999999998,
+    121.17214,
     30.72302,
-    121.17213999999998,
+    121.17214,
     30.72302
 ],
-  "geometry": {"coordinates":[121.17213999999998,30.72302],"type":"Point"}
+  "geometry": {"coordinates":[121.17214,30.72302],"type":"Point"}
 }

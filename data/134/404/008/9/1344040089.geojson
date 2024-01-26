@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"104.39331,34.40647,104.39331,34.40647",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u7533\u90fd\u4e61"
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":1344040089,
-    "wof:lastmodified":1566663408,
+    "wof:lastmodified":1706239428,
     "wof:name":"Shenduxiang",
     "wof:parent_id":890516337,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226424973
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

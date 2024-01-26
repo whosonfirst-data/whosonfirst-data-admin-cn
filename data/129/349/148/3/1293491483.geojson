@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1811357
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10441782
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"de5405065ec64eccd9e30ab3770858db",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1293491483,
-    "wof:lastmodified":1566668287,
+    "wof:lastmodified":1706239466,
     "wof:name":"Fenghuangcun",
     "wof:parent_id":890513787,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326839677
+    ],
     "wof:tags":[]
 },
   "bbox": [

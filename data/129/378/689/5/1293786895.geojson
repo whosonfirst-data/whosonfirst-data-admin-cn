@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7066438
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7090478
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"8c71f6a39afdcaa6612e6326b62f2bed",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1293786895,
-    "wof:lastmodified":1566668416,
+    "wof:lastmodified":1706239468,
     "wof:name":"Gaoshan",
     "wof:parent_id":890514633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344265411
+    ],
     "wof:tags":[]
 },
   "bbox": [

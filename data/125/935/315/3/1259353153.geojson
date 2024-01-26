@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u6d2e\u576a\u4e61"
     ],
+    "name:zho_x_preferred":[
+        "\u6d2e\u576a\u4e61"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669711,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7516756
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1793136
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"c9a5927ba8600ef2267bd0f746239416",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1259353153,
-    "wof:lastmodified":1566699647,
+    "wof:lastmodified":1706239447,
     "wof:name":"Taopingxiang",
     "wof:parent_id":890516335,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310075711
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"109.61949,35.59108,109.61949,35.59108",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hsia-tuan-tzu",
@@ -50,7 +52,7 @@
         "gn:id":1894918
     },
     "wof:country":"CN",
-    "wof:geomhash":"dbf06db106a58d9ce0b09b0697a67640",
+    "wof:geomhash":"878e9645c095f598d21c7e082b893e59",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +64,22 @@
         }
     ],
     "wof:id":1343718699,
-    "wof:lastmodified":1566659973,
+    "wof:lastmodified":1706239460,
     "wof:name":"Shangmacun",
     "wof:parent_id":890516587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276716149
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    109.61948999999998,
+    109.61949,
     35.59108,
-    109.61948999999998,
+    109.61949,
     35.59108
 ],
-  "geometry": {"coordinates":[109.61948999999998,35.59108],"type":"Point"}
+  "geometry": {"coordinates":[109.61949,35.59108],"type":"Point"}
 }

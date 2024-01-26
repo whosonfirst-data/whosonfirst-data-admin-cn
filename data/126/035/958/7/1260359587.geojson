@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7518683
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7518680
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"db750bd0cc899a55b4931fbab5483b43",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1260359587,
-    "wof:lastmodified":1566687695,
+    "wof:lastmodified":1706239455,
     "wof:name":"Magaozhuang",
     "wof:parent_id":890512845,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326912829
+    ],
     "wof:tags":[]
 },
   "bbox": [

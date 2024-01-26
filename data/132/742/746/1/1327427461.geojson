@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":6727952
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1982372
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"559689ad149d496c375b43dae5c7798e",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1327427461,
-    "wof:lastmodified":1566654776,
+    "wof:lastmodified":1706239478,
     "wof:name":"Neicuo",
     "wof:parent_id":890514127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343783065
+    ],
     "wof:tags":[]
 },
   "bbox": [

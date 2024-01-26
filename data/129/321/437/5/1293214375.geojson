@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1557780
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10357769
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"6a222f3e6d6ec0cdc8e745ab2b0ef2b4",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1293214375,
-    "wof:lastmodified":1566671783,
+    "wof:lastmodified":1706239464,
     "wof:name":"Sanmencun",
     "wof:parent_id":890516677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293793237
+    ],
     "wof:tags":[]
 },
   "bbox": [

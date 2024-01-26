@@ -54,6 +54,11 @@
     "wof:concordances":{
         "gn:id":1813467
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10357526
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"614078fac86f529baacda8865bd15025",
     "wof:hierarchy":[
@@ -67,13 +72,15 @@
         }
     ],
     "wof:id":1210025865,
-    "wof:lastmodified":1566684608,
+    "wof:lastmodified":1706239417,
     "wof:name":"Datiancun",
     "wof:parent_id":890516677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343775301
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1558387
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10361085
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"97dd3ffbc0bcc72ebb09e85e6d4849a7",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1243185755,
-    "wof:lastmodified":1566697301,
+    "wof:lastmodified":1706239441,
     "wof:name":"Zhangjicun",
     "wof:parent_id":1108732463,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343368451
+    ],
     "wof:tags":[]
 },
   "bbox": [

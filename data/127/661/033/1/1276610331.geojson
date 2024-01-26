@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":11085344
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11085349
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"98f86b3972d08b429eefd44b82b2e5e9",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1276610331,
-    "wof:lastmodified":1566674953,
+    "wof:lastmodified":1706239459,
     "wof:name":"Daodang",
     "wof:parent_id":890515097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343618319
+    ],
     "wof:tags":[]
 },
   "bbox": [

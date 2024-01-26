@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u6ee1\u5802\u5cea"
     ],
+    "name:zho_x_preferred":[
+        "\u6ee1\u5802\u5cea"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -39,6 +42,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9115896
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9122434
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"52dd23a00ab6c34625c801f3267b9972",
@@ -49,13 +57,15 @@
         }
     ],
     "wof:id":1209073703,
-    "wof:lastmodified":1566678891,
+    "wof:lastmodified":1706239402,
     "wof:name":"Mantangyu",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225901497
+    ],
     "wof:tags":[]
 },
   "bbox": [

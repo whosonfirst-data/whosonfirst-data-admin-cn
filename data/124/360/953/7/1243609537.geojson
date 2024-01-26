@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u6c49\u738b"
     ],
+    "name:zho_x_preferred":[
+        "\u6c49\u738b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669813,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9115887
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9120610
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"ef4a701e8d52dea6dd22faaa6e357164",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1243609537,
-    "wof:lastmodified":1566696255,
+    "wof:lastmodified":1706239446,
     "wof:name":"Hanwang",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326885695
+    ],
     "wof:tags":[]
 },
   "bbox": [

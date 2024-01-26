@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":9116140
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9133199
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"d460bb61fe9d5dd3663a60acc6855372",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1242766409,
-    "wof:lastmodified":1566696787,
+    "wof:lastmodified":1706239435,
     "wof:name":"Nanliuzhuang",
     "wof:parent_id":890511887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243150937
+    ],
     "wof:tags":[]
 },
   "bbox": [

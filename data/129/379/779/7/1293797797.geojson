@@ -29,6 +29,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Lin-hu-chen",
+        "Linhu",
+        "Linhucun"
+    ],
     "name:zho_x_preferred":[
         "\u4e34\u6e56\u6751"
     ],
@@ -44,6 +49,11 @@
     "wof:concordances":{
         "gn:id":10441301
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1803413
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"774829b64ef4f5c4585abc667a556d5b",
     "wof:hierarchy":[
@@ -57,13 +67,15 @@
         }
     ],
     "wof:id":1293797797,
-    "wof:lastmodified":1566667367,
+    "wof:lastmodified":1706239468,
     "wof:name":"Linhucun",
     "wof:parent_id":890513787,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360298711
+    ],
     "wof:tags":[]
 },
   "bbox": [

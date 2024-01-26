@@ -38,6 +38,9 @@
     "name:und_x_variant":[
         "\u4e25\u5730"
     ],
+    "name:zho_x_preferred":[
+        "\u4e25\u5730"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669735,
@@ -49,6 +52,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1983751
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7069055
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"8cbc14c8212ffb52231ce745ae2b0313",
@@ -63,13 +71,15 @@
         }
     ],
     "wof:id":1259504589,
-    "wof:lastmodified":1566699319,
+    "wof:lastmodified":1706239448,
     "wof:name":"Yandi",
     "wof:parent_id":890516651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259975567
+    ],
     "wof:tags":[]
 },
   "bbox": [

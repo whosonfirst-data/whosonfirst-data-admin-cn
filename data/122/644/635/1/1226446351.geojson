@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1554243
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10360506
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"b4109c2e8e44c7c7b90ba54240a7773f",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1226446351,
-    "wof:lastmodified":1566701122,
+    "wof:lastmodified":1706239428,
     "wof:name":"Daxucun",
     "wof:parent_id":890514507,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343275831
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":2035121
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10907395
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"0a828baeb8db338f2127640ae5137257",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1226341199,
-    "wof:lastmodified":1566701935,
+    "wof:lastmodified":1706239426,
     "wof:name":"Sanjiazicun",
     "wof:parent_id":890512763,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326652567
+    ],
     "wof:tags":[]
 },
   "bbox": [

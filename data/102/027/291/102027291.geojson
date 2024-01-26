@@ -10,7 +10,9 @@
     "geom:latitude":32.053102,
     "geom:longitude":118.768871,
     "gn:population":7165292,
+    "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"118.758686,32.029334,118.798686,32.069334",
     "lbl:latitude":32.044972,
     "lbl:longitude":118.773596,
     "lbl:max_zoom":12.0,
@@ -547,7 +549,18 @@
     "qs:loc":"Nanjing",
     "qs:loc_alt":"\u5357\u4eac\u5e02",
     "qs:loc_lc":"1799962",
+    "qs:name":"\u5357\u4eac",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u6c5f\u82cf\u7701",
+    "qs:photos":5001,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5001,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
@@ -558,11 +571,11 @@
     "src:population":"geonames",
     "wd:wordcount":12044,
     "wof:belongsto":[
+        85669827,
         102191569,
         85632695,
-        890516425,
         136253041,
-        85669827
+        890516425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -572,6 +585,14 @@
         "qs_pg:id":351129,
         "wd:id":"Q16666",
         "wk:page":"Nanjing"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2137081
+        ],
+        "qs_pg:id":[
+            239375
+        ]
     },
     "wof:country":"CN",
     "wof:geom_alt":[
@@ -589,7 +610,7 @@
         }
     ],
     "wof:id":102027291,
-    "wof:lastmodified":1608688185,
+    "wof:lastmodified":1706239394,
     "wof:megacity":1,
     "wof:name":"Nanjing",
     "wof:parent_id":890516425,
@@ -599,7 +620,9 @@
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:scale":1,
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890513017
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":11194295
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11194281
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"4518162fcffd03df00e070344fed49df",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1260345413,
-    "wof:lastmodified":1566687792,
+    "wof:lastmodified":1706239455,
     "wof:name":"Shuangmiaocun",
     "wof:parent_id":890511937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293645977
+    ],
     "wof:tags":[]
 },
   "bbox": [

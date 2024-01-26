@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7446062
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7409077
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"38b6ed378e47e811988b233ea33b9cb7",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1343316677,
-    "wof:lastmodified":1566655960,
+    "wof:lastmodified":1706239479,
     "wof:name":"Liujiayuan",
     "wof:parent_id":890516525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360052281
+    ],
     "wof:tags":[]
 },
   "bbox": [

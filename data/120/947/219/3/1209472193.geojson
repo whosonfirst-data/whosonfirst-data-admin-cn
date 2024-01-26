@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u67f3\u9ec4\u6c9f"
     ],
+    "name:zho_x_preferred":[
+        "\u67f3\u9ec4\u6c9f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -39,6 +42,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9116729
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9121805
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"53cf7566e1d757f58c956a3592d1e6cf",
@@ -49,13 +57,15 @@
         }
     ],
     "wof:id":1209472193,
-    "wof:lastmodified":1566680993,
+    "wof:lastmodified":1706239409,
     "wof:name":"Liuhuanggou",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344112287
+    ],
     "wof:tags":[]
 },
   "bbox": [

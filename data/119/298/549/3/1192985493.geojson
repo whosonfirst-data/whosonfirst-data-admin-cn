@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":7369486
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7446160
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"e3a32b194b41ddb72d2bc15a5dc682fa",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1192985493,
-    "wof:lastmodified":1566685560,
+    "wof:lastmodified":1706239398,
     "wof:name":"Tongchang",
     "wof:parent_id":890516525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310362165
+    ],
     "wof:tags":[]
 },
   "bbox": [

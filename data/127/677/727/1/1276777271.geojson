@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1556769
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10358717
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"26e37c93f02ae31c003feae6bc830240",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1276777271,
-    "wof:lastmodified":1566677180,
+    "wof:lastmodified":1706239461,
     "wof:name":"Xiajicun",
     "wof:parent_id":890515831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327033821
+    ],
     "wof:tags":[]
 },
   "bbox": [

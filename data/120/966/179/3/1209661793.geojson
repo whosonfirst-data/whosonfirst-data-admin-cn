@@ -56,7 +56,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1916106
+        "gn:id":1916106,
+        "wk:page":"Hengqin_New_Area"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6895574
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"20b980d120bb8d29e4304e12b2b0a407",
@@ -67,13 +73,15 @@
         }
     ],
     "wof:id":1209661793,
-    "wof:lastmodified":1566681886,
+    "wof:lastmodified":1706239412,
     "wof:name":"Hengqin",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243122299
+    ],
     "wof:tags":[]
 },
   "bbox": [

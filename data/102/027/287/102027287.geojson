@@ -10,7 +10,9 @@
     "geom:latitude":22.819927,
     "geom:longitude":108.33285,
     "gn:population":803788,
+    "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"108.299702,22.80302,108.339702,22.84302",
     "lbl:latitude":22.81669,
     "lbl:longitude":108.316216,
     "lbl:max_zoom":13.0,
@@ -436,7 +438,18 @@
     "qs:loc":"Nanning",
     "qs:loc_alt":"\u5357\u5b81\u5e02",
     "qs:loc_lc":"1799869",
+    "qs:name":"\u5357\u5b81",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u5e7f\u897f\u7701",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
@@ -447,11 +460,11 @@
     "src:population":"geonames",
     "wd:wordcount":1647,
     "wof:belongsto":[
+        85669717,
         102191569,
         85632695,
-        890515419,
         136253041,
-        85669717
+        890515419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -461,6 +474,14 @@
         "qs_pg:id":351128,
         "wd:id":"Q179608",
         "wk:page":"Nanning"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2166473
+        ],
+        "qs_pg:id":[
+            210346
+        ]
     },
     "wof:country":"CN",
     "wof:geom_alt":[
@@ -478,7 +499,7 @@
         }
     ],
     "wof:id":102027287,
-    "wof:lastmodified":1608688184,
+    "wof:lastmodified":1706239394,
     "wof:megacity":1,
     "wof:name":"Nanning",
     "wof:parent_id":890515419,
@@ -488,7 +509,9 @@
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:scale":1,
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890516455
+    ],
     "wof:tags":[]
 },
   "bbox": [

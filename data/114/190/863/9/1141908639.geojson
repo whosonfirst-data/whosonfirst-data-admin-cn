@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"84.859926,45.589942,84.859926,45.589942",
@@ -16,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0627\u0645\u0627\u064a"
@@ -310,12 +312,14 @@
         }
     ],
     "wof:id":1141908639,
-    "wof:lastmodified":1636504644,
+    "wof:lastmodified":1706239392,
     "wof:name":"Karamay",
     "wof:parent_id":890515397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102026829
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

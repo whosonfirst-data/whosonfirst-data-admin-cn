@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"112.99234,23.62372,112.99234,23.62372",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Qingshan"
@@ -63,7 +65,7 @@
         "gn:id":7007459
     },
     "wof:country":"CN",
-    "wof:geomhash":"c6e041fac384c9b661c7a59ad9ba9361",
+    "wof:geomhash":"779e534c1f60886ec603692465472501",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,20 +77,22 @@
         }
     ],
     "wof:id":1326676333,
-    "wof:lastmodified":1566649045,
+    "wof:lastmodified":1706239454,
     "wof:name":"Qingshan",
     "wof:parent_id":890513267,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1260241611
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    112.99233999999998,
+    112.99234,
     23.62372,
-    112.99233999999998,
+    112.99234,
     23.62372
 ],
-  "geometry": {"coordinates":[112.99233999999998,23.62372],"type":"Point"}
+  "geometry": {"coordinates":[112.99234,23.62372],"type":"Point"}
 }

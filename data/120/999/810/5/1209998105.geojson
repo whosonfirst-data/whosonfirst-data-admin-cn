@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":9933619
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9933626
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"0313b0ba50397d56e58dd81e4f2e7aa7",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1209998105,
-    "wof:lastmodified":1566680076,
+    "wof:lastmodified":1706239416,
     "wof:name":"Lilia",
     "wof:parent_id":1108732501,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225916305
+    ],
     "wof:tags":[]
 },
   "bbox": [

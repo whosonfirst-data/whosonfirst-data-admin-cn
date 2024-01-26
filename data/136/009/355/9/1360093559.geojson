@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"121.17214,30.72302,121.17214,30.72302",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u575f\u5729"
@@ -45,7 +47,7 @@
         "gn:id":11201822
     },
     "wof:country":"CN",
-    "wof:geomhash":"4f48f476cccba57dcc1040359b27a54c",
+    "wof:geomhash":"adfaec4f772ed6556857d43f16ce2cd3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +59,22 @@
         }
     ],
     "wof:id":1360093559,
-    "wof:lastmodified":1566691499,
+    "wof:lastmodified":1706239433,
     "wof:name":"Fenxu",
     "wof:parent_id":890514635,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1242589749
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    121.17213999999998,
+    121.17214,
     30.72302,
-    121.17213999999998,
+    121.17214,
     30.72302
 ],
-  "geometry": {"coordinates":[121.17213999999998,30.72302],"type":"Point"}
+  "geometry": {"coordinates":[121.17214,30.72302],"type":"Point"}
 }

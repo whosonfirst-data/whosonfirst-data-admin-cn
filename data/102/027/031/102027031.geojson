@@ -10,7 +10,9 @@
     "geom:latitude":34.347714,
     "geom:longitude":108.637717,
     "gn:population":1034081,
+    "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"108.668945,34.319679,108.708945,34.359679",
     "lbl:latitude":34.329822,
     "lbl:longitude":108.669894,
     "lbl:max_zoom":13.0,
@@ -310,7 +312,18 @@
     "qs:loc":"Xianyang",
     "qs:loc_alt":"\u54b8\u9633\u5e02",
     "qs:loc_lc":"1790353",
+    "qs:name":"\u54b8\u9633\u5e02",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u965d\u897f\u7701",
+    "qs:photos":171,
+    "qs:photos_1k":35,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":171,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
@@ -334,6 +347,14 @@
         "wd:id":"Q497341",
         "wk:page":"Xianyang"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2156959
+        ],
+        "qs_pg:id":[
+            215735
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"11f6a0d364d4af8e8b0c0ac6eb13d481",
     "wof:hierarchy":[
@@ -347,7 +368,7 @@
         }
     ],
     "wof:id":102027031,
-    "wof:lastmodified":1636503583,
+    "wof:lastmodified":1706239393,
     "wof:megacity":1,
     "wof:name":"Xianyang",
     "wof:parent_id":890515689,
@@ -357,7 +378,9 @@
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:scale":6,
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890516497
+    ],
     "wof:tags":[]
 },
   "bbox": [

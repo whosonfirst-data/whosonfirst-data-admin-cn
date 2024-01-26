@@ -44,6 +44,10 @@
     "name:swe_x_preferred":[
         "Kazi"
     ],
+    "name:und_x_variant":[
+        "Ch\u2019ia-tzu-chieh",
+        "Qiazijie"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669769,
@@ -55,6 +59,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1909323
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1798099
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"502ef9455542b1e4abe5cfd3016f17fd",
@@ -69,13 +78,15 @@
         }
     ],
     "wof:id":1226397063,
-    "wof:lastmodified":1566705132,
+    "wof:lastmodified":1706239428,
     "wof:name":"Kazi",
     "wof:parent_id":890515101,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327188889
+    ],
     "wof:tags":[]
 },
   "bbox": [

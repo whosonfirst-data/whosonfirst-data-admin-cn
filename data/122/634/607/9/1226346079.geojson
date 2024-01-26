@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1556770
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10358769
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"c748ba00ba4120b8b2f8db49f32dc2a8",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1226346079,
-    "wof:lastmodified":1566701957,
+    "wof:lastmodified":1706239427,
     "wof:name":"Dachengcun",
     "wof:parent_id":890515831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260093403
+    ],
     "wof:tags":[]
 },
   "bbox": [

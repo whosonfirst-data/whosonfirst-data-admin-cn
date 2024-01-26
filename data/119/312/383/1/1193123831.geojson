@@ -34,6 +34,9 @@
         "Ximaping",
         "\u6d17\u9a6c\u576a"
     ],
+    "name:zho_x_preferred":[
+        "\u6d17\u9a6c\u576a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669777,
@@ -45,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1789303
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7006314
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"329beee2ad3959fc6cf48de2d9585bfe",
@@ -59,13 +67,15 @@
         }
     ],
     "wof:id":1193123831,
-    "wof:lastmodified":1566685116,
+    "wof:lastmodified":1706239399,
     "wof:name":"Ximaping",
     "wof:parent_id":1108732427,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209086375
+    ],
     "wof:tags":[]
 },
   "bbox": [

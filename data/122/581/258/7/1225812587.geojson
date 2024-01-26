@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u4faf\u5bb6\u6c9f"
     ],
+    "name:zho_x_preferred":[
+        "\u4faf\u5bb6\u6c9f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669813,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9116520
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9122406
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"c1cce393b983dcd9abc723a13fd89edf",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1225812587,
-    "wof:lastmodified":1566702711,
+    "wof:lastmodified":1706239418,
     "wof:name":"Houjiagou",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327189363
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -10,6 +10,7 @@
     "geom:latitude":25.040815,
     "geom:longitude":101.552124,
     "iso:country":"CN",
+    "lbl:bbox":"101.525574096,25.0164162384,101.565574096,25.0564162384",
     "lbl:latitude":25.040815,
     "lbl:longitude":101.552124,
     "lbl:max_zoom":18.0,
@@ -26,6 +27,9 @@
         "\u099a\u09c1\u09b8\u09bf\u0999\u09cd\u0997 \u09b6\u09b9\u09b0"
     ],
     "name:bre_x_preferred":[
+        "Chuxiong"
+    ],
+    "name:ceb_x_preferred":[
         "Chuxiong"
     ],
     "name:dan_x_preferred":[
@@ -255,6 +259,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":7.0,
     "qs:a0":"\u4e2d\u570b",
     "qs:a1":"*\u4e91\u5357\u7701",
     "qs:a1r":"*",
@@ -270,6 +275,8 @@
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
+    "reversegeo:latitude":25.036416,
+    "reversegeo:longitude":101.545574,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth"
@@ -306,13 +313,15 @@
         }
     ],
     "wof:id":102027683,
-    "wof:lastmodified":1636503596,
+    "wof:lastmodified":1706239395,
     "wof:name":"Chuxiong",
     "wof:parent_id":1108732445,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141906547
+    ],
     "wof:tags":[]
 },
   "bbox": [

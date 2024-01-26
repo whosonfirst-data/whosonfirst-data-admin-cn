@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u845b\u5bb6\u540c"
     ],
+    "name:zho_x_preferred":[
+        "\u845b\u5bb6\u540c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669813,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9115927
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9123087
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"101802e2e81540df8f7c248a6cee3b2e",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1259750639,
-    "wof:lastmodified":1566700578,
+    "wof:lastmodified":1706239450,
     "wof:name":"Gejiatong",
     "wof:parent_id":890514755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343516789
+    ],
     "wof:tags":[]
 },
   "bbox": [
