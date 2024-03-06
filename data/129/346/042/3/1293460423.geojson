@@ -32,8 +32,16 @@
     "name:bod_x_preferred":[
         "\u0f55\u0f7c\u0f0b\u0f56\u0fb2\u0f44"
     ],
+    "name:und_x_variant":[
+        "Xiangyang",
+        "Pozhang Xiang"
+    ],
     "name:zho_x_preferred":[
         "\u9887\u7ae0"
+    ],
+    "name:zho_x_variant":[
+        "\u5411\u9633",
+        "\u9887\u7ae0\u4e61"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,6 +54,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6547363
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8308921
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"6fb8e01f2a42f08e5b9ff0a19f838003",
@@ -60,13 +73,15 @@
         }
     ],
     "wof:id":1293460423,
-    "wof:lastmodified":1566667302,
+    "wof:lastmodified":1706239465,
     "wof:name":"Pozhang",
     "wof:parent_id":1108794057,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293662791
+    ],
     "wof:tags":[]
 },
   "bbox": [

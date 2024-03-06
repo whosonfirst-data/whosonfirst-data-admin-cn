@@ -32,6 +32,9 @@
     "name:zho_x_preferred":[
         "\u7530\u4e8c\u57ad"
     ],
+    "name:zho_x_variant":[
+        "\u7530\u4e8c\u57ad"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -39,6 +42,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7059386
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7060988
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"e084693abaf43903443009f2310a7ae3",
@@ -49,13 +57,15 @@
         }
     ],
     "wof:id":1209295263,
-    "wof:lastmodified":1566683055,
+    "wof:lastmodified":1706239406,
     "wof:name":"Tian'erya",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226229585
+    ],
     "wof:tags":[]
 },
   "bbox": [

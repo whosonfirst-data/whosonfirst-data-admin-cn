@@ -12,6 +12,7 @@
     "gn:latitude":40.16667,
     "gn:longitude":94.68333,
     "iso:country":"CN",
+    "lbl:bbox":"94.6420149322,40.1226776317,94.6820149322,40.1626776317",
     "lbl:latitude":40.141091,
     "lbl:longitude":94.669189,
     "lbl:max_zoom":18.0,
@@ -320,6 +321,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":5.0,
     "qs:a0":"\u4e2d\u570b",
     "qs:a1":"*\u7518\u8083\u7701",
     "qs:a1r":"*",
@@ -335,6 +337,8 @@
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
+    "reversegeo:latitude":40.142678,
+    "reversegeo:longitude":94.662015,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
@@ -377,13 +381,15 @@
         }
     ],
     "wof:id":102026839,
-    "wof:lastmodified":1636503610,
+    "wof:lastmodified":1706239392,
     "wof:name":"Dunhuang",
     "wof:parent_id":890515159,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141909219
+    ],
     "wof:tags":[]
 },
   "bbox": [

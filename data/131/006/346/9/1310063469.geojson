@@ -44,6 +44,11 @@
     "name:swe_x_preferred":[
         "Dayu"
     ],
+    "name:und_x_variant":[
+        "Ta-y\u00fc-ts\u2019un",
+        "Ta-y\u00fc",
+        "\u5927\u5cea"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669773,
@@ -55,6 +60,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1907702
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1813152
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"9407bd4c94722d6704eef89a36c96f4d",
@@ -69,13 +79,15 @@
         }
     ],
     "wof:id":1310063469,
-    "wof:lastmodified":1566689552,
+    "wof:lastmodified":1706239472,
     "wof:name":"Dayu",
     "wof:parent_id":890513031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343813907
+    ],
     "wof:tags":[]
 },
   "bbox": [

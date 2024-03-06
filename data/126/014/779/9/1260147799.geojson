@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u5b54\u5bb6\u6c9f"
     ],
+    "name:zho_x_preferred":[
+        "\u5b54\u5bb6\u6c9f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669813,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9116541
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9122119
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"eec81c7ead8afcad1b43a88a74ccbd91",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1260147799,
-    "wof:lastmodified":1566686462,
+    "wof:lastmodified":1706239453,
     "wof:name":"Kongjiagou",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276181857
+    ],
     "wof:tags":[]
 },
   "bbox": [

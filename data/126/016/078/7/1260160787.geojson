@@ -54,6 +54,11 @@
     "wof:concordances":{
         "gn:id":1817363
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8569986
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"1867d0ba8289e8b3048085a2e3c09f8b",
     "wof:hierarchy":[
@@ -67,13 +72,15 @@
         }
     ],
     "wof:id":1260160787,
-    "wof:lastmodified":1566687189,
+    "wof:lastmodified":1706239454,
     "wof:name":"Baishui",
     "wof:parent_id":890514791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276635373
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1800894
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11182804
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"6308c8f4b6dcc08b763ff9d2ff1bebcb",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1243129057,
-    "wof:lastmodified":1566695527,
+    "wof:lastmodified":1706239440,
     "wof:name":"Mazijiecun",
     "wof:parent_id":890516587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343518331
+    ],
     "wof:tags":[]
 },
   "bbox": [

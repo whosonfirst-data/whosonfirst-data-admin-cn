@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Shangfeng Xiang"
+    ],
     "name:zho_x_preferred":[
         "\u4e0a\u4e30"
     ],
@@ -44,6 +47,11 @@
     "wof:concordances":{
         "gn:id":7090291
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1553415
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"c387447284cc73cdba5b27457fff0b98",
     "wof:hierarchy":[
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1226246455,
-    "wof:lastmodified":1566704332,
+    "wof:lastmodified":1706239424,
     "wof:name":"Shangfeng",
     "wof:parent_id":1108732553,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243077063
+    ],
     "wof:tags":[]
 },
   "bbox": [

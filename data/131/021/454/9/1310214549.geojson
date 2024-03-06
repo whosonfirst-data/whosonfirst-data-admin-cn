@@ -29,6 +29,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Kou-chi",
+        "Kuo-chi",
+        "Kuo-chia-chi",
+        "Guoji",
+        "Guojicun"
+    ],
     "name:zho_x_preferred":[
         "\u90ed\u96c6\u6751"
     ],
@@ -44,6 +51,11 @@
     "wof:concordances":{
         "gn:id":10413712
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1809327
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"d531798870925727c2625d2df2384017",
     "wof:hierarchy":[
@@ -57,13 +69,15 @@
         }
     ],
     "wof:id":1310214549,
-    "wof:lastmodified":1566690305,
+    "wof:lastmodified":1706239473,
     "wof:name":"Guojicun",
     "wof:parent_id":890513329,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343275185
+    ],
     "wof:tags":[]
 },
   "bbox": [

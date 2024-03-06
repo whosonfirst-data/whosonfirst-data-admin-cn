@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1555334
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10442344
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"e9079fdcfd4c1ce2db7f5c3a7b93ed92",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1209725089,
-    "wof:lastmodified":1566684317,
+    "wof:lastmodified":1706239412,
     "wof:name":"Luxucun",
     "wof:parent_id":890513745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310109663
+    ],
     "wof:tags":[]
 },
   "bbox": [

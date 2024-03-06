@@ -107,6 +107,11 @@
     "wof:concordances":{
         "gn:id":9945800
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9945793
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"1d85bfa38b9b0d1726edde93f2462dd4",
     "wof:hierarchy":[
@@ -120,13 +125,15 @@
         }
     ],
     "wof:id":1259355295,
-    "wof:lastmodified":1636504499,
+    "wof:lastmodified":1706239447,
     "wof:name":"Daling",
     "wof:parent_id":1108732439,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276626957
+    ],
     "wof:tags":[]
 },
   "bbox": [

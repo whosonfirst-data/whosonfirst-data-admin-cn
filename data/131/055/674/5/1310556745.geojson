@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "\u5927\u82b1\u5d16"
+    ],
     "name:zho_x_preferred":[
         "\u5927\u82b1\u5d16"
     ],
@@ -44,6 +47,11 @@
     "wof:concordances":{
         "gn:id":9121103
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9116516
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"0af867bd7a41bcdd788d1a16e548c2d3",
     "wof:hierarchy":[
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1310556745,
-    "wof:lastmodified":1566689131,
+    "wof:lastmodified":1706239474,
     "wof:name":"Dahuaya",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344212499
+    ],
     "wof:tags":[]
 },
   "bbox": [

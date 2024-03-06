@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":2035480
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10931054
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"c30356d7396a8c9b2c3d67694c22f218",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1259977757,
-    "wof:lastmodified":1566698472,
+    "wof:lastmodified":1706239451,
     "wof:name":"Pingyuancun",
     "wof:parent_id":890516735,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327429697
+    ],
     "wof:tags":[]
 },
   "bbox": [

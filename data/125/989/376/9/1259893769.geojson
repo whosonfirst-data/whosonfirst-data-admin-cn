@@ -47,8 +47,13 @@
     "wof:concordances":{
         "gn:id":1557624
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10358009
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"a680eaa45230520757cf20b004eea96a",
+    "wof:geomhash":"491998866a80233b3a13662e00faac42",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,20 +65,22 @@
         }
     ],
     "wof:id":1259893769,
-    "wof:lastmodified":1566700278,
+    "wof:lastmodified":1706239451,
     "wof:name":"Zhaitoucun",
     "wof:parent_id":890515831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276561983
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    116.81761000000002,
+    116.81761,
     33.12996,
-    116.81761000000002,
+    116.81761,
     33.12996
 ],
-  "geometry": {"coordinates":[116.81761000000002,33.12996],"type":"Point"}
+  "geometry": {"coordinates":[116.81761,33.12996],"type":"Point"}
 }

@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7446168
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7369492
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"80505d2dd047d73392104e1eb8c43215",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1192975077,
-    "wof:lastmodified":1566685666,
+    "wof:lastmodified":1706239398,
     "wof:name":"Xigou",
     "wof:parent_id":890516525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326887057
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -34,6 +34,9 @@
         "Chixi",
         "\u8d64\u6eaa"
     ],
+    "name:zho_x_preferred":[
+        "\u8d64\u6eaa\u576a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669781,
@@ -45,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1928036
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7059420
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"7788adfee46b0b7ea397cbc918058adc",
@@ -59,13 +67,15 @@
         }
     ],
     "wof:id":1226829973,
-    "wof:lastmodified":1566703972,
+    "wof:lastmodified":1706239433,
     "wof:name":"Chixiping",
     "wof:parent_id":890513321,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293188443
+    ],
     "wof:tags":[]
 },
   "bbox": [

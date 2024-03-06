@@ -12,6 +12,7 @@
     "gn:latitude":19.07652,
     "gn:longitude":109.07883,
     "iso:country":"CN",
+    "lbl:bbox":"99.1300097239,25.0999770294,99.1700097239,25.1399770294",
     "lbl:latitude":25.118248,
     "lbl:longitude":99.159459,
     "lbl:max_zoom":18.0,
@@ -291,6 +292,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":5.6,
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"China",
@@ -301,6 +303,8 @@
     "qs:loc_lc":"7634491",
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
+    "reversegeo:latitude":25.119977,
+    "reversegeo:longitude":99.15001,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
@@ -322,6 +326,11 @@
         "qs_pg:id":247567,
         "wd:id":"Q496576"
     },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q496576"
+        ]
+    },
     "wof:country":"CN",
     "wof:geom_alt":[
         "naturalearth",
@@ -339,13 +348,15 @@
         }
     ],
     "wof:id":102028069,
-    "wof:lastmodified":1636503605,
+    "wof:lastmodified":1706239396,
     "wof:name":"Baoshan",
     "wof:parent_id":890514251,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141909251
+    ],
     "wof:tags":[]
 },
   "bbox": [

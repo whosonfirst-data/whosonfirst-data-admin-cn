@@ -62,6 +62,11 @@
     "wof:concordances":{
         "gn:id":1917018
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7007459
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"e565bd539ea9ececc3a164b78c786b61",
     "wof:hierarchy":[
@@ -75,13 +80,15 @@
         }
     ],
     "wof:id":1260241611,
-    "wof:lastmodified":1566686116,
+    "wof:lastmodified":1706239455,
     "wof:name":"Qingshan",
     "wof:parent_id":890513267,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326676333
+    ],
     "wof:tags":[]
 },
   "bbox": [

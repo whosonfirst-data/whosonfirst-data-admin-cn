@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1555091
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10635587
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"e784bb6b73adeef9df870a6416ab48f9",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1259993015,
-    "wof:lastmodified":1566698586,
+    "wof:lastmodified":1706239452,
     "wof:name":"Wuliqiaocun",
     "wof:parent_id":890513745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310715235
+    ],
     "wof:tags":[]
 },
   "bbox": [

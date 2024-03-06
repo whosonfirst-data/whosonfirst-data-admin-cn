@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"113.51062,22.8038,113.51062,22.8038",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u8549\u95e8"
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":1260227153,
-    "wof:lastmodified":1566686519,
+    "wof:lastmodified":1706239450,
     "wof:name":"Jiaomen",
     "wof:parent_id":890513087,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1259825957
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

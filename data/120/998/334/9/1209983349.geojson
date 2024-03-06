@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":11194937
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11194960
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"66a644b0388491f3380f4b61641f5e39",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1209983349,
-    "wof:lastmodified":1566679048,
+    "wof:lastmodified":1706239416,
     "wof:name":"Chenjiazhuang",
     "wof:parent_id":890516587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243218441
+    ],
     "wof:tags":[]
 },
   "bbox": [

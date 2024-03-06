@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1793814
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11123247
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"4e8afbf5b48adc3fb4297242c611ea12",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1243230487,
-    "wof:lastmodified":1566695387,
+    "wof:lastmodified":1706239441,
     "wof:name":"Sunyaoxian",
     "wof:parent_id":890515097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259449819
+    ],
     "wof:tags":[]
 },
   "bbox": [

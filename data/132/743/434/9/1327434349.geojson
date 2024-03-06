@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7090480
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7066446
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"690cffaac64cc26a8ed3b602d565f958",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1327434349,
-    "wof:lastmodified":1566654113,
+    "wof:lastmodified":1706239478,
     "wof:name":"Xiacun",
     "wof:parent_id":890514633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360293931
+    ],
     "wof:tags":[]
 },
   "bbox": [

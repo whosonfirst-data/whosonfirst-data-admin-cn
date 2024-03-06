@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":10738315
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10738311
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"68fd7f8ad4d2ce487595354bb8e0eab4",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209284555,
-    "wof:lastmodified":1566684002,
+    "wof:lastmodified":1706239406,
     "wof:name":"Huolianwan",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226224469
+    ],
     "wof:tags":[]
 },
   "bbox": [

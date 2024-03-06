@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"125.77734,43.28299,125.77734,43.28299",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u957f\u5d34\u5b50\u6751"
@@ -45,7 +47,7 @@
         "gn:id":10967513
     },
     "wof:country":"CN",
-    "wof:geomhash":"3148a0bc0f0889ac0f5a6d514143b953",
+    "wof:geomhash":"2f06505a19767ced865770616807ca36",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +59,22 @@
         }
     ],
     "wof:id":1326928459,
-    "wof:lastmodified":1566649364,
+    "wof:lastmodified":1706239452,
     "wof:name":"Changweizicun",
     "wof:parent_id":890516735,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1259978469
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     125.77734,
-    43.28299000000001,
+    43.28299,
     125.77734,
-    43.28299000000001
+    43.28299
 ],
-  "geometry": {"coordinates":[125.77734,43.28299000000001],"type":"Point"}
+  "geometry": {"coordinates":[125.77734,43.28299],"type":"Point"}
 }

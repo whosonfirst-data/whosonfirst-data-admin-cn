@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u5cb3\u575d\u6751"
     ],
+    "name:zho_x_preferred":[
+        "\u5cb3\u575d\u6751"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669769,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7445769
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1785955
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"a194822fe11ebe250235fe56b03eb90a",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1277031295,
-    "wof:lastmodified":1566675801,
+    "wof:lastmodified":1706239462,
     "wof:name":"Yuebacun",
     "wof:parent_id":890515099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343316713
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"109.63752,29.90893,109.63752,29.90893",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u6d17\u9a6c\u576a"
@@ -49,12 +51,14 @@
         }
     ],
     "wof:id":1209086375,
-    "wof:lastmodified":1566679676,
+    "wof:lastmodified":1706239399,
     "wof:name":"Ximaping",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1193123831
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

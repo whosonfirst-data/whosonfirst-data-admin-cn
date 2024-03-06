@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1557435
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10414886
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"84cc2ba5808b0bf4646d8d862d4d0a75",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1242587023,
-    "wof:lastmodified":1566695144,
+    "wof:lastmodified":1706239433,
     "wof:name":"Tiantangcun",
     "wof:parent_id":890516677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293214465
+    ],
     "wof:tags":[]
 },
   "bbox": [

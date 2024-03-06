@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:zho_x_preferred":[
+        "\u5927\u5cad\u4e0b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669735,
@@ -40,6 +43,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2002728
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1979180
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"17a2fec0ee6433a7bdc53753dcfc62ee",
@@ -54,13 +62,15 @@
         }
     ],
     "wof:id":1326951043,
-    "wof:lastmodified":1566649572,
+    "wof:lastmodified":1706239477,
     "wof:name":"Dalingxia",
     "wof:parent_id":890516203,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360078653
+    ],
     "wof:tags":[]
 },
   "bbox": [

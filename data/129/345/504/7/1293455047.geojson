@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":2054105
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11505012
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"08682a7d6125d31a5d197b784b8f921a",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1293455047,
-    "wof:lastmodified":1566670973,
+    "wof:lastmodified":1706239465,
     "wof:name":"Taitouzicun",
     "wof:parent_id":890514725,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343727575
+    ],
     "wof:tags":[]
 },
   "bbox": [

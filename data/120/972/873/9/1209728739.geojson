@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1557207
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10417568
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"3cef12094c8174fb095b54734a31e520",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1209728739,
-    "wof:lastmodified":1566684301,
+    "wof:lastmodified":1706239413,
     "wof:name":"Rongloucun",
     "wof:parent_id":890516677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242883681
+    ],
     "wof:tags":[]
 },
   "bbox": [

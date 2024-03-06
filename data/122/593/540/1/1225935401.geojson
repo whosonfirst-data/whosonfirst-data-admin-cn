@@ -33,6 +33,9 @@
         "\u897f\u79cd\u6d0b",
         "Xizhongyang"
     ],
+    "name:zho_x_preferred":[
+        "\u897f\u79cd\u6d0b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669735,
@@ -45,8 +48,13 @@
     "wof:concordances":{
         "gn:id":6958400
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7069076
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"501c4b78c432c3cc5ea1e9a30c80ad7d",
+    "wof:geomhash":"7bf41623712a8ca389fae9611bd90983",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +66,22 @@
         }
     ],
     "wof:id":1225935401,
-    "wof:lastmodified":1566700787,
+    "wof:lastmodified":1706239420,
     "wof:name":"Xizhongyang",
     "wof:parent_id":890516577,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343382179
+    ],
     "wof:tags":[]
 },
   "bbox": [
     118.90504,
-    27.06787000000001,
+    27.06787,
     118.90504,
-    27.06787000000001
+    27.06787
 ],
-  "geometry": {"coordinates":[118.90504,27.06787000000001],"type":"Point"}
+  "geometry": {"coordinates":[118.90504,27.06787],"type":"Point"}
 }

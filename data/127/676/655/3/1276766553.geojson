@@ -47,8 +47,13 @@
     "wof:concordances":{
         "gn:id":1558421
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10361268
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"4847241bea2633ae990175cbb6475583",
+    "wof:geomhash":"66a5b073e59b7f97423200cad301a0cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,20 +65,22 @@
         }
     ],
     "wof:id":1276766553,
-    "wof:lastmodified":1566676124,
+    "wof:lastmodified":1706239461,
     "wof:name":"Yezhuangcun",
     "wof:parent_id":890514507,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293403263
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    116.86648999999998,
+    116.86649,
     34.20438,
-    116.86648999999998,
+    116.86649,
     34.20438
 ],
-  "geometry": {"coordinates":[116.86648999999998,34.20438],"type":"Point"}
+  "geometry": {"coordinates":[116.86649,34.20438],"type":"Point"}
 }

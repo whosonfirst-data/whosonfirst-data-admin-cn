@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1796726
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9122905
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"d9fb0614b6339d1a8987eeae0c6672f0",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1243129631,
-    "wof:lastmodified":1566695500,
+    "wof:lastmodified":1706239440,
     "wof:name":"Jieshou Yicun",
     "wof:parent_id":1108732339,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310658035
+    ],
     "wof:tags":[]
 },
   "bbox": [

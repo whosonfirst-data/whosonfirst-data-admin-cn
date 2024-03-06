@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"118.88829,27.05078,118.88829,27.05078",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dongfeng"
@@ -78,7 +80,7 @@
         "gn:id":7069070
     },
     "wof:country":"CN",
-    "wof:geomhash":"4d6061cab722e1714a1438f6c3c2a902",
+    "wof:geomhash":"2dfbbf21c6f0a54b9aa447387ba91e12",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,20 +92,22 @@
         }
     ],
     "wof:id":1276862975,
-    "wof:lastmodified":1566672473,
+    "wof:lastmodified":1706239451,
     "wof:name":"Dongfeng",
     "wof:parent_id":890516577,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1259900855
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    118.88828999999998,
+    118.88829,
     27.05078,
-    118.88828999999998,
+    118.88829,
     27.05078
 ],
-  "geometry": {"coordinates":[118.88828999999998,27.05078],"type":"Point"}
+  "geometry": {"coordinates":[118.88829,27.05078],"type":"Point"}
 }

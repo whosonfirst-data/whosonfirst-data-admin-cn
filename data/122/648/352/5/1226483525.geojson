@@ -29,6 +29,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Wu-kuei-ch\u2019ang",
+        "Wugui",
+        "Wugui Zhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e94\u6842"
+    ],
+    "name:zho_x_variant":[
+        "\u4e94\u6842\u9547"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669725,
@@ -40,6 +51,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1904040
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1791251
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"746c17776860d8a16680cca59dcb83e8",
@@ -54,13 +70,15 @@
         }
     ],
     "wof:id":1226483525,
-    "wof:lastmodified":1566704752,
+    "wof:lastmodified":1706239429,
     "wof:name":"Wugui",
     "wof:parent_id":890513063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310046989
+    ],
     "wof:tags":[]
 },
   "bbox": [

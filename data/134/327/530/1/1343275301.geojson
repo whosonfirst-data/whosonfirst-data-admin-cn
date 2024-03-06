@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1557740
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10358309
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"99f35853204d45d01c62a3dafcca1f01",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1343275301,
-    "wof:lastmodified":1566663490,
+    "wof:lastmodified":1706239479,
     "wof:name":"Miaolicun",
     "wof:parent_id":890515239,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360298867
+    ],
     "wof:tags":[]
 },
   "bbox": [

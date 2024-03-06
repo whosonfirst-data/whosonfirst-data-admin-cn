@@ -47,8 +47,13 @@
     "wof:concordances":{
         "gn:id":1555246
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10442371
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"94ac995a71edc36ad6596783f9dd8ddb",
+    "wof:geomhash":"c031ceea88ac160e81cbd4504668cf0b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,20 +65,22 @@
         }
     ],
     "wof:id":1193141075,
-    "wof:lastmodified":1566685237,
+    "wof:lastmodified":1706239400,
     "wof:name":"Sanshibucun",
     "wof:parent_id":890513787,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259492803
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    117.40628999999998,
+    117.40629,
     31.87094,
-    117.40628999999998,
+    117.40629,
     31.87094
 ],
-  "geometry": {"coordinates":[117.40628999999998,31.87094],"type":"Point"}
+  "geometry": {"coordinates":[117.40629,31.87094],"type":"Point"}
 }

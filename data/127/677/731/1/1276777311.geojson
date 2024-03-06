@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1556055
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10441612
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"61fa4eba25cb292badce8015e634e2cf",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1276777311,
-    "wof:lastmodified":1566677137,
+    "wof:lastmodified":1706239461,
     "wof:name":"Shichuancun",
     "wof:parent_id":890513745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293896721
+    ],
     "wof:tags":[]
 },
   "bbox": [

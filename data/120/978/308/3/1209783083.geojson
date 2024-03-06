@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":9115168
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9128046
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"c8d8087c39d4fcd57b47b0579dcdc5b1",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1209783083,
-    "wof:lastmodified":1566680869,
+    "wof:lastmodified":1706239413,
     "wof:name":"Yangcun",
     "wof:parent_id":890515909,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309861083
+    ],
     "wof:tags":[]
 },
   "bbox": [

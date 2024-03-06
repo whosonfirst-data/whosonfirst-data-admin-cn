@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1795425
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10414652
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"649822f500dc047e7ddc22e2da9c2da3",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1226046345,
-    "wof:lastmodified":1566702261,
+    "wof:lastmodified":1706239421,
     "wof:name":"Shidiancun",
     "wof:parent_id":890513745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327444759
+    ],
     "wof:tags":[]
 },
   "bbox": [

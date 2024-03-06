@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "\u504f\u6881"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669773,
@@ -40,6 +43,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1907665
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1798885
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"fbe86515993704402be7a8671f3c123d",
@@ -54,13 +62,15 @@
         }
     ],
     "wof:id":1326886125,
-    "wof:lastmodified":1566647940,
+    "wof:lastmodified":1706239477,
     "wof:name":"Pianliang",
     "wof:parent_id":890516415,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343815869
+    ],
     "wof:tags":[]
 },
   "bbox": [

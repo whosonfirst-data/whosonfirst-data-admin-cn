@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"126.51151,44.875,126.51151,44.875",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shuang-ching",
@@ -50,7 +52,7 @@
         "gn:id":2034817
     },
     "wof:country":"CN",
-    "wof:geomhash":"e15acb2a7579fd2d5ec63c85bc10a717",
+    "wof:geomhash":"adaf659c74a7a8097b8c5c65167905d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +64,22 @@
         }
     ],
     "wof:id":1310004085,
-    "wof:lastmodified":1566688913,
+    "wof:lastmodified":1706239462,
     "wof:name":"Shuangjingcun",
     "wof:parent_id":890514235,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276870269
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    126.51151000000002,
+    126.51151,
     44.875,
-    126.51151000000002,
+    126.51151,
     44.875
 ],
-  "geometry": {"coordinates":[126.51151000000002,44.875],"type":"Point"}
+  "geometry": {"coordinates":[126.51151,44.875],"type":"Point"}
 }

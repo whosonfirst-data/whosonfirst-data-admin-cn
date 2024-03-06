@@ -37,6 +37,11 @@
     "wof:concordances":{
         "gn:id":1979190
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2005604
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"191fd0462eb9b58a628442eb391eb3be",
     "wof:hierarchy":[
@@ -46,13 +51,15 @@
         }
     ],
     "wof:id":1209099865,
-    "wof:lastmodified":1566678572,
+    "wof:lastmodified":1706239402,
     "wof:name":"Guidongyang",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343452331
+    ],
     "wof:tags":[]
 },
   "bbox": [

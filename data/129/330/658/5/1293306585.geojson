@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1790987
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10799640
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"7d9f147f37caa1fa4ea1103e6769d99c",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1293306585,
-    "wof:lastmodified":1566666046,
+    "wof:lastmodified":1706239465,
     "wof:name":"Wushicun",
     "wof:parent_id":890513323,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293500885
+    ],
     "wof:tags":[]
 },
   "bbox": [

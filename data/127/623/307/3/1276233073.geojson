@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u845b\u5bb6\u5ddd"
     ],
+    "name:zho_x_preferred":[
+        "\u845b\u5bb6\u5ddd"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669827,
@@ -44,8 +47,13 @@
     "wof:concordances":{
         "gn:id":7323674
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7331291
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"c78322aa6c4a1ed2f0fcd34ccd887d32",
+    "wof:geomhash":"1c80d5abe441b91c86f66df29fc1ccec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +65,22 @@
         }
     ],
     "wof:id":1276233073,
-    "wof:lastmodified":1566676590,
+    "wof:lastmodified":1706239456,
     "wof:name":"Gejiachuan",
     "wof:parent_id":890515155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310405813
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    120.96108999999998,
+    120.96109,
     32.05888,
-    120.96108999999998,
+    120.96109,
     32.05888
 ],
-  "geometry": {"coordinates":[120.96108999999998,32.05888],"type":"Point"}
+  "geometry": {"coordinates":[120.96109,32.05888],"type":"Point"}
 }

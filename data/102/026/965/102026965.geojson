@@ -12,7 +12,9 @@
     "gn:latitude":28.76667,
     "gn:longitude":104.62383,
     "gn:population":242111,
+    "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"104.591816,28.749163,104.631816,28.789163",
     "lbl:latitude":28.700221,
     "lbl:longitude":104.542571,
     "lbl:max_zoom":13.0,
@@ -308,7 +310,18 @@
     "qs:level":"locality",
     "qs:loc":"Yibin",
     "qs:loc_lc":"1786770",
+    "qs:name":"\u5b9c\u5bbe",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u56db\u5ddd\u7701",
+    "qs:photos":173,
+    "qs:photos_1k":35,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":173,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -333,6 +346,14 @@
         "wd:id":"Q427265",
         "wk:page":"Yibin"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2158444
+        ],
+        "qs_pg:id":[
+            1120295
+        ]
+    },
     "wof:country":"CN",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -349,7 +370,7 @@
         }
     ],
     "wof:id":102026965,
-    "wof:lastmodified":1636503606,
+    "wof:lastmodified":1706239393,
     "wof:megacity":1,
     "wof:name":"Yibin",
     "wof:parent_id":890516537,
@@ -359,7 +380,9 @@
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:scale":6,
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890515415
+    ],
     "wof:tags":[]
 },
   "bbox": [

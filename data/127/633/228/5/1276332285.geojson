@@ -49,8 +49,13 @@
     "wof:concordances":{
         "gn:id":2035098
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10931058
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"24a3e5dab7e8003403a5945915866974",
+    "wof:geomhash":"4b719bd6f826f0dea43ef58aa3b7b5df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +67,22 @@
         }
     ],
     "wof:id":1276332285,
-    "wof:lastmodified":1566674067,
+    "wof:lastmodified":1706239457,
     "wof:name":"Santaicun",
     "wof:parent_id":890514235,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310500389
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    126.37073999999998,
+    126.37074,
     44.5016,
-    126.37073999999998,
+    126.37074,
     44.5016
 ],
-  "geometry": {"coordinates":[126.37073999999998,44.5016],"type":"Point"}
+  "geometry": {"coordinates":[126.37074,44.5016],"type":"Point"}
 }

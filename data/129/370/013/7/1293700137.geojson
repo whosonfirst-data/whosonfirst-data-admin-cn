@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":1552718
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10636237
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"b4afeefcea52e0633db02decca999e49",
     "wof:hierarchy":[
@@ -61,13 +66,15 @@
         }
     ],
     "wof:id":1293700137,
-    "wof:lastmodified":1566667658,
+    "wof:lastmodified":1706239467,
     "wof:name":"Wuxiancun",
     "wof:parent_id":890513093,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360294903
+    ],
     "wof:tags":[]
 },
   "bbox": [

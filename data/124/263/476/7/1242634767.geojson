@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u674e\u5bb6\u6c9f"
     ],
+    "name:zho_x_preferred":[
+        "\u674e\u5bb6\u6c9f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669813,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9115764
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9121615
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"d1d6cacc412e06039a42f7d6dc991c8c",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1242634767,
-    "wof:lastmodified":1566697206,
+    "wof:lastmodified":1706239434,
     "wof:name":"Lijiagou",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343925253
+    ],
     "wof:tags":[]
 },
   "bbox": [

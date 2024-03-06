@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Youzha"
+    ],
     "name:zho_x_preferred":[
         "\u6cb9\u69a8\u6751"
     ],
@@ -44,6 +47,11 @@
     "wof:concordances":{
         "gn:id":10360593
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1558244
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"34c72ba2ab58b3cdb186df670824ae08",
     "wof:hierarchy":[
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1242980227,
-    "wof:lastmodified":1566696915,
+    "wof:lastmodified":1706239438,
     "wof:name":"Youzhacun",
     "wof:parent_id":1108732463,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259395869
+    ],
     "wof:tags":[]
 },
   "bbox": [

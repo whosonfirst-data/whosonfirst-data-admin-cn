@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":10634943
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1815648
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"2e9b531280369b23b876a3579b004336",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1259497259,
-    "wof:lastmodified":1566699176,
+    "wof:lastmodified":1706239448,
     "wof:name":"Changling'ancun",
     "wof:parent_id":890513745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260298729
+    ],
     "wof:tags":[]
 },
   "bbox": [

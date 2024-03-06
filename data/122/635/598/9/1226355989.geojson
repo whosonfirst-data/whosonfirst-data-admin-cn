@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1557300
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10417401
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"8e7bed80783b452b2b301ff638107f55",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1226355989,
-    "wof:lastmodified":1566702357,
+    "wof:lastmodified":1706239427,
     "wof:name":"Chenmiaocun",
     "wof:parent_id":890516233,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360198411
+    ],
     "wof:tags":[]
 },
   "bbox": [

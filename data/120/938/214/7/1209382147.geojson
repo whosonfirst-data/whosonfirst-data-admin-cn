@@ -245,6 +245,9 @@
     "name:ukr_x_preferred":[
         "\u0425\u0435\u0431\u0435\u0439"
     ],
+    "name:und_x_variant":[
+        "\u6cb3\u5317"
+    ],
     "name:urd_x_preferred":[
         "\u06c1\u06cc\u0628\u0626\u06cc"
     ],
@@ -283,6 +286,11 @@
     "wof:concordances":{
         "gn:id":9120707
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9115886
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"c642d4442feedac1fdaf04ef5ead5788",
     "wof:hierarchy":[
@@ -292,13 +300,15 @@
         }
     ],
     "wof:id":1209382147,
-    "wof:lastmodified":1566678826,
+    "wof:lastmodified":1706239408,
     "wof:name":"Hebei",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226816419
+    ],
     "wof:tags":[]
 },
   "bbox": [

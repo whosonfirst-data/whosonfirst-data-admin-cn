@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7368779
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7446157
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"1c08a1dda71e2e452dbaf010a6c58793",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1243421097,
-    "wof:lastmodified":1566697485,
+    "wof:lastmodified":1706239445,
     "wof:name":"Wafangzi",
     "wof:parent_id":890516525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326887123
+    ],
     "wof:tags":[]
 },
   "bbox": [

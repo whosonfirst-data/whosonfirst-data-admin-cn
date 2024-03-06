@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"107.39489,34.09714,107.39489,34.09714",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u897f\u5df7\u53e3"
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":1226209195,
-    "wof:lastmodified":1566701727,
+    "wof:lastmodified":1706239419,
     "wof:name":"Xixiangkou",
     "wof:parent_id":890516525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1225899037
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

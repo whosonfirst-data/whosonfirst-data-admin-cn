@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u5357\u897f\u5cea"
     ],
+    "name:zho_x_preferred":[
+        "\u5357\u897f\u5cea"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669813,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9115816
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9123056
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"72f91b7c8e0200492d0a030b80ba6436",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1226705465,
-    "wof:lastmodified":1566704709,
+    "wof:lastmodified":1706239431,
     "wof:name":"Nanxiyu",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310469333
+    ],
     "wof:tags":[]
 },
   "bbox": [

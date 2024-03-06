@@ -29,6 +29,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "\u6fe0\u6751",
+        "Haocun Xiang"
+    ],
     "name:zho_x_preferred":[
         "\u6fe0\u6751"
     ],
@@ -44,8 +48,13 @@
     "wof:concordances":{
         "gn:id":6906134
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1808848
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"1d5eb43657298356a88b969887c9647e",
+    "wof:geomhash":"a7f0a355bfb4d6208921775ebd1111b3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +66,22 @@
         }
     ],
     "wof:id":1225937753,
-    "wof:lastmodified":1566700787,
+    "wof:lastmodified":1706239420,
     "wof:name":"Haocun",
     "wof:parent_id":890516651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293775361
+    ],
     "wof:tags":[]
 },
   "bbox": [
     118.46817,
-    27.59152000000001,
+    27.59152,
     118.46817,
-    27.59152000000001
+    27.59152
 ],
-  "geometry": {"coordinates":[118.46817,27.59152000000001],"type":"Point"}
+  "geometry": {"coordinates":[118.46817,27.59152],"type":"Point"}
 }

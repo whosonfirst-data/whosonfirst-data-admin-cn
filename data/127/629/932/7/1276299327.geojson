@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u767d\u6e56"
     ],
+    "name:zho_x_preferred":[
+        "\u767d\u6e56"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669813,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9116740
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9120733
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"92b1dc8b58c3e6b7083f71dc52f39e97",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1276299327,
-    "wof:lastmodified":1566673965,
+    "wof:lastmodified":1706239457,
     "wof:name":"Baihu",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343416387
+    ],
     "wof:tags":[]
 },
   "bbox": [

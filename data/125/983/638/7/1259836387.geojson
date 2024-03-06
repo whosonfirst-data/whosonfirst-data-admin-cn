@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1805436
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11183042
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"ca1a40bd6edca117fdd07b04b4075d83",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1259836387,
-    "wof:lastmodified":1566698809,
+    "wof:lastmodified":1706239450,
     "wof:name":"Jinpenwancun",
     "wof:parent_id":890516587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344012863
+    ],
     "wof:tags":[]
 },
   "bbox": [

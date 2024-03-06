@@ -45,8 +45,13 @@
     "wof:concordances":{
         "gn:id":7568923
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7568991
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"0f021ffe9d2de654d01aa0f0fe18ab92",
+    "wof:geomhash":"ed0391e4e85126d19d8043143eb6d460",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -54,20 +59,22 @@
         }
     ],
     "wof:id":1209128493,
-    "wof:lastmodified":1566680760,
+    "wof:lastmodified":1706239403,
     "wof:name":"Jianchanggou",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226574469
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    125.60186000000002,
+    125.60186,
     41.40051,
-    125.60186000000002,
+    125.60186,
     41.40051
 ],
-  "geometry": {"coordinates":[125.60186000000002,41.40051],"type":"Point"}
+  "geometry": {"coordinates":[125.60186,41.40051],"type":"Point"}
 }

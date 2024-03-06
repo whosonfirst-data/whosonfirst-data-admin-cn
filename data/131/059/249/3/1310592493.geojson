@@ -34,6 +34,9 @@
         "Langu",
         "\u5c9a\u8c37"
     ],
+    "name:zho_x_preferred":[
+        "\u5c9a\u8c37"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669735,
@@ -45,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1804509
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6905818
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"43d7acd547f9eb1f5cbd2fdfbd848780",
@@ -59,13 +67,15 @@
         }
     ],
     "wof:id":1310592493,
-    "wof:lastmodified":1566690502,
+    "wof:lastmodified":1706239474,
     "wof:name":"Langu",
     "wof:parent_id":890516651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344053019
+    ],
     "wof:tags":[]
 },
   "bbox": [

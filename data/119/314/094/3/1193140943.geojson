@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Tuqiao"
+    ],
     "name:zho_x_preferred":[
         "\u571f\u6865\u6751"
     ],
@@ -44,8 +47,13 @@
     "wof:concordances":{
         "gn:id":10800080
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1554492
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"7cc2cadb510785e13a349932c799d7b1",
+    "wof:geomhash":"c064235d2198e563227983a025577b52",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +65,22 @@
         }
     ],
     "wof:id":1193140943,
-    "wof:lastmodified":1566685256,
+    "wof:lastmodified":1706239400,
     "wof:name":"Tuqiaocun",
     "wof:parent_id":890513323,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343872123
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    117.07871000000002,
+    117.07871,
     30.29364,
-    117.07871000000002,
+    117.07871,
     30.29364
 ],
-  "geometry": {"coordinates":[117.07871000000002,30.29364],"type":"Point"}
+  "geometry": {"coordinates":[117.07871,30.29364],"type":"Point"}
 }

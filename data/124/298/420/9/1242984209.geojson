@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1557454
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10416669
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"7c34f7988b88efe199d1edb61d75667a",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1242984209,
-    "wof:lastmodified":1566696924,
+    "wof:lastmodified":1706239439,
     "wof:name":"Gengjicun",
     "wof:parent_id":890516677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293592883
+    ],
     "wof:tags":[]
 },
   "bbox": [

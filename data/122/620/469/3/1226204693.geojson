@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":2053147
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11515810
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"1c2b52dac7355d2eb6beb903681b08cb",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1226204693,
-    "wof:lastmodified":1566701715,
+    "wof:lastmodified":1706239424,
     "wof:name":"Xinlituncun",
     "wof:parent_id":890514397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293551635
+    ],
     "wof:tags":[]
 },
   "bbox": [

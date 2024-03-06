@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7446169
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7369493
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"49398db127c660b88ca5d4993d5f2be3",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1260134743,
-    "wof:lastmodified":1566686411,
+    "wof:lastmodified":1706239453,
     "wof:name":"Xieziya",
     "wof:parent_id":890516525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327400729
+    ],
     "wof:tags":[]
 },
   "bbox": [

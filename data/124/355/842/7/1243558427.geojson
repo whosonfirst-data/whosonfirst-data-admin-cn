@@ -29,6 +29,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Hsin-ho",
+        "Ch\u2019ang-pa",
+        "Hsin-ho-k\u2019ou",
+        "Changba",
+        "Changbacun"
+    ],
     "name:zho_x_preferred":[
         "\u957f\u575d\u6751"
     ],
@@ -44,6 +51,11 @@
     "wof:concordances":{
         "gn:id":10636121
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1815796
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"1fd0a1210b4b2db0aed1ca780397e737",
     "wof:hierarchy":[
@@ -57,13 +69,15 @@
         }
     ],
     "wof:id":1243558427,
-    "wof:lastmodified":1566694303,
+    "wof:lastmodified":1706239446,
     "wof:name":"Changbacun",
     "wof:parent_id":890513093,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276237717
+    ],
     "wof:tags":[]
 },
   "bbox": [

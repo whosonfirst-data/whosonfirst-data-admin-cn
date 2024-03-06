@@ -83,6 +83,9 @@
     "name:und_x_variant":[
         "\u845b\u7572"
     ],
+    "name:zho_x_preferred":[
+        "\u845b\u7572"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669735,
@@ -94,6 +97,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6958717
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7069079
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"12f9730b8ed48f71e48a763b35381263",
@@ -108,13 +116,15 @@
         }
     ],
     "wof:id":1226233779,
-    "wof:lastmodified":1566704297,
+    "wof:lastmodified":1706239424,
     "wof:name":"Geshe",
     "wof:parent_id":890516577,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360205787
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":2053961
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11505648
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"a8e38f45c97b306de19888fe1a4541cc",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1209881453,
-    "wof:lastmodified":1566684150,
+    "wof:lastmodified":1706239414,
     "wof:name":"Wafangdiancun",
     "wof:parent_id":890514725,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326692535
+    ],
     "wof:tags":[]
 },
   "bbox": [

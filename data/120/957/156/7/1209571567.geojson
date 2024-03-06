@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":1881348
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7524806
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"80a4c012785c29afa095d0eb0c9425fb",
     "wof:hierarchy":[
@@ -51,13 +56,15 @@
         }
     ],
     "wof:id":1209571567,
-    "wof:lastmodified":1566681529,
+    "wof:lastmodified":1706239411,
     "wof:name":"Zhuqiao",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327390169
+    ],
     "wof:tags":[]
 },
   "bbox": [

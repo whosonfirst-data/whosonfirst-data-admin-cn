@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":1914459
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6970278
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"7d89e8c1be0cb5781b9c76953f341986",
+    "wof:geomhash":"26832b964278d811c7ccb375b1020d8a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +62,22 @@
         }
     ],
     "wof:id":1209765533,
-    "wof:lastmodified":1566681349,
+    "wof:lastmodified":1706239413,
     "wof:name":"Wanggan",
     "wof:parent_id":890514727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309672041
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    112.45286000000002,
+    112.45286,
     23.91896,
-    112.45286000000002,
+    112.45286,
     23.91896
 ],
-  "geometry": {"coordinates":[112.45286000000002,23.91896],"type":"Point"}
+  "geometry": {"coordinates":[112.45286,23.91896],"type":"Point"}
 }

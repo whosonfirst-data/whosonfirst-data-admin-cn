@@ -41,6 +41,9 @@
     "name:kor_x_preferred":[
         "\ub09c\uc8a1\ud5a5"
     ],
+    "name:und_x_variant":[
+        "\u5357\u5e84"
+    ],
     "name:vie_x_preferred":[
         "Nam Trang"
     ],
@@ -62,6 +65,11 @@
     "wof:concordances":{
         "gn:id":9120955
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9116580
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"9ca4a3bf814bc4969c6d0878b95a8810",
     "wof:hierarchy":[
@@ -75,13 +83,15 @@
         }
     ],
     "wof:id":1259340289,
-    "wof:lastmodified":1566700101,
+    "wof:lastmodified":1706239446,
     "wof:name":"Nanzhuang",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343416271
+    ],
     "wof:tags":[]
 },
   "bbox": [

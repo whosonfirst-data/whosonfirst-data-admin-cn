@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1556175
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10413613
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"20b552254b4bfa1c6bba222b0d15847a",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1259697037,
-    "wof:lastmodified":1566700025,
+    "wof:lastmodified":1706239449,
     "wof:name":"Daishancun",
     "wof:parent_id":890513329,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343564827
+    ],
     "wof:tags":[]
 },
   "bbox": [

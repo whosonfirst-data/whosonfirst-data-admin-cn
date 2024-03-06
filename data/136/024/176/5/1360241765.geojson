@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"110.25345,35.73479,110.25345,35.73479",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shih-t\u2019ai-ssu",
@@ -50,7 +52,7 @@
         "gn:id":1794994
     },
     "wof:country":"CN",
-    "wof:geomhash":"53f37f8f046d2f9912b50781f0db4d08",
+    "wof:geomhash":"14645b67beb9a456afdbbd1840ef23f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +64,22 @@
         }
     ],
     "wof:id":1360241765,
-    "wof:lastmodified":1566691120,
+    "wof:lastmodified":1706239472,
     "wof:name":"Shitaisicun",
     "wof:parent_id":890516587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1310160329
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     110.25345,
-    35.73479000000001,
+    35.73479,
     110.25345,
-    35.73479000000001
+    35.73479
 ],
-  "geometry": {"coordinates":[110.25345,35.73479000000001],"type":"Point"}
+  "geometry": {"coordinates":[110.25345,35.73479],"type":"Point"}
 }

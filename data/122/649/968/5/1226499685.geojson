@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u5357\u9648\u5bb6\u6c9f"
     ],
+    "name:zho_x_preferred":[
+        "\u5357\u9648\u5bb6\u6c9f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669813,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9116555
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9121359
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"adf864f0faca817a38bdf32d61d1bda5",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1226499685,
-    "wof:lastmodified":1566704081,
+    "wof:lastmodified":1706239429,
     "wof:name":"Nanchenjiagou",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344025399
+    ],
     "wof:tags":[]
 },
   "bbox": [

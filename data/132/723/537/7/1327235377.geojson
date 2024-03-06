@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"115.99534,30.55489,115.99534,30.55489",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tianjia"
@@ -48,7 +50,7 @@
         "gn:id":1555617
     },
     "wof:country":"CN",
-    "wof:geomhash":"48d27cc30d5d9f41b1bd1585268f3881",
+    "wof:geomhash":"1e862833a0e2da4ed96a2c3ddf6087fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,20 +62,22 @@
         }
     ],
     "wof:id":1327235377,
-    "wof:lastmodified":1566650751,
+    "wof:lastmodified":1706239473,
     "wof:name":"Tianjiacun",
     "wof:parent_id":890516201,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1310318551
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    115.99533999999998,
+    115.99534,
     30.55489,
-    115.99533999999998,
+    115.99534,
     30.55489
 ],
-  "geometry": {"coordinates":[115.99533999999998,30.55489],"type":"Point"}
+  "geometry": {"coordinates":[115.99534,30.55489],"type":"Point"}
 }

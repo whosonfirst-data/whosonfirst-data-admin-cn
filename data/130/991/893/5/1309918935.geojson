@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1558302
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10360483
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"faba0e2b95e88479267d5a9d7ac82bf6",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1309918935,
-    "wof:lastmodified":1566692317,
+    "wof:lastmodified":1706239471,
     "wof:name":"Xiemiaocun",
     "wof:parent_id":890515239,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310711207
+    ],
     "wof:tags":[]
 },
   "bbox": [

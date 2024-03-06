@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1553956
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10800234
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"0089a987319c597e6d5cfe78872bb133",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1210025795,
-    "wof:lastmodified":1566684640,
+    "wof:lastmodified":1706239416,
     "wof:name":"Taopocun",
     "wof:parent_id":890513323,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242591477
+    ],
     "wof:tags":[]
 },
   "bbox": [

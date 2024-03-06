@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1557621
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10357982
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"51db12f61b65d3c26f27e28f207bebf1",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1293491393,
-    "wof:lastmodified":1566668260,
+    "wof:lastmodified":1706239466,
     "wof:name":"Lujicun",
     "wof:parent_id":890515239,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293887337
+    ],
     "wof:tags":[]
 },
   "bbox": [

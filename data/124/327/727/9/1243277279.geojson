@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1557494
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10417689
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"baff6fa4f0fa028dded7696fcffd0683",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1243277279,
-    "wof:lastmodified":1566697355,
+    "wof:lastmodified":1706239442,
     "wof:name":"Quanhecun",
     "wof:parent_id":890516677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360088815
+    ],
     "wof:tags":[]
 },
   "bbox": [

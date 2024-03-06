@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1558465
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10361128
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"f38506f3f5e2fbb0f0ff9144ecd701cf",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1259396491,
-    "wof:lastmodified":1566698324,
+    "wof:lastmodified":1706239447,
     "wof:name":"Wangpoloucun",
     "wof:parent_id":890515239,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259492771
+    ],
     "wof:tags":[]
 },
   "bbox": [

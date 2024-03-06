@@ -102,6 +102,9 @@
         "\u56db\u9a6c",
         "Shangsimacun"
     ],
+    "name:zho_x_preferred":[
+        "\u56db\u9a6c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -112,6 +115,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1887497
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7632642
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"fe20701709a2cfe75855d0bad2a488cf",
@@ -125,13 +133,15 @@
         }
     ],
     "wof:id":1276802911,
-    "wof:lastmodified":1566673405,
+    "wof:lastmodified":1706239461,
     "wof:name":"Sima",
     "wof:parent_id":1108732333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344192775
+    ],
     "wof:tags":[]
 },
   "bbox": [

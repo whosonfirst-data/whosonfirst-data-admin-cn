@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u5f20\u5bb6\u6c9f"
     ],
+    "name:zho_x_preferred":[
+        "\u5f20\u5bb6\u6c9f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669813,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9115762
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9122278
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"0097eaa9610b6d1ca5b19805675fb110",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1260047373,
-    "wof:lastmodified":1566687574,
+    "wof:lastmodified":1706239453,
     "wof:name":"Zhangjiagou",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343317215
+    ],
     "wof:tags":[]
 },
   "bbox": [

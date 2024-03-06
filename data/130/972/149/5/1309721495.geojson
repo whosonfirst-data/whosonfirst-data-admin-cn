@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1898063
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10415688
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"a4019e3203b18716f18767f617cf2560",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1309721495,
-    "wof:lastmodified":1566693526,
+    "wof:lastmodified":1706239470,
     "wof:name":"Shaojicun",
     "wof:parent_id":890513787,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327143863
+    ],
     "wof:tags":[]
 },
   "bbox": [

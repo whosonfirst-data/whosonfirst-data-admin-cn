@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1816583
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1816584
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"33e9b9559b3e758898d80ffb1a28196a",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1343416805,
-    "wof:lastmodified":1566659116,
+    "wof:lastmodified":1706239479,
     "wof:name":"Beishe",
     "wof:parent_id":1108732523,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360240675
+    ],
     "wof:tags":[]
 },
   "bbox": [

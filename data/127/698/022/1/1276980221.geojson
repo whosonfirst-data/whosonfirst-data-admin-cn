@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":1548126
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1548136
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"2d11a9118a004e65569e7b780258b26f",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1276980221,
-    "wof:lastmodified":1566678070,
+    "wof:lastmodified":1706239462,
     "wof:name":"Xizhang",
     "wof:parent_id":890515155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326653761
+    ],
     "wof:tags":[]
 },
   "bbox": [

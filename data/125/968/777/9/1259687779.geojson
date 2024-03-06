@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1558371
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10360915
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"68b1a7a14634764d5b5faa28d46c0a98",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1259687779,
-    "wof:lastmodified":1566699389,
+    "wof:lastmodified":1706239449,
     "wof:name":"Dongyingcun",
     "wof:parent_id":890515239,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326843775
+    ],
     "wof:tags":[]
 },
   "bbox": [

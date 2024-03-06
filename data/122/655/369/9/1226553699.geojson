@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1555207
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10441727
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"7e7b53d8c89489c63f8809b5704cdb38",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1226553699,
-    "wof:lastmodified":1566704790,
+    "wof:lastmodified":1706239429,
     "wof:name":"Sishijingcun",
     "wof:parent_id":890513787,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243563929
+    ],
     "wof:tags":[]
 },
   "bbox": [

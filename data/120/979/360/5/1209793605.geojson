@@ -34,6 +34,9 @@
         "Longdongping",
         "\u9686\u6d1e\u576a"
     ],
+    "name:zho_x_preferred":[
+        "\u9686\u6d1e\u576a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669781,
@@ -45,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1802668
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7059375
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"7467ebf176d6d3693fe1699ef8909323",
@@ -59,13 +67,15 @@
         }
     ],
     "wof:id":1209793605,
-    "wof:lastmodified":1566680550,
+    "wof:lastmodified":1706239413,
     "wof:name":"Longdongping",
     "wof:parent_id":890513321,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327010631
+    ],
     "wof:tags":[]
 },
   "bbox": [

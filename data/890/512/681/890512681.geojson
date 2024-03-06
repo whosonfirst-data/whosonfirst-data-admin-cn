@@ -12,6 +12,7 @@
     "gn:country":"CN",
     "gn:fcode":"PPLA4",
     "gn:population":0,
+    "gp:adm0":23424781,
     "iso:country":"CN",
     "lbl:bbox":"120.4651,30.72536,120.5051,30.76536",
     "lbl:max_zoom":18.0,
@@ -80,8 +81,15 @@
         "\u4e4c\u9547\u9547"
     ],
     "qs:name":"Wuzhen",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u6d59\u6c5f\u7701",
+    "qs:photos":4683,
+    "qs:photos_1k":949,
+    "qs:photos_9k":21,
     "qs:photos_9r":0,
+    "qs:photos_all":4683,
     "qs:photos_sr":0,
+    "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "src:population":"geonames",
     "wd:wordcount":827,
@@ -100,6 +108,14 @@
         "wd:id":"Q1371343",
         "wk:page":"Wuzhen"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2132723
+        ],
+        "qs_pg:id":[
+            1153678
+        ]
+    },
     "wof:country":"CN",
     "wof:created":1469055780,
     "wof:geomhash":"0eea63941a5a6f7baeec6828b2ce6486",
@@ -114,14 +130,16 @@
         }
     ],
     "wof:id":890512681,
-    "wof:lastmodified":1566693737,
+    "wof:lastmodified":1706239397,
     "wof:name":"Wuzhen",
     "wof:parent_id":890514635,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890515677
+    ],
     "wof:tags":[]
 },
   "bbox": [

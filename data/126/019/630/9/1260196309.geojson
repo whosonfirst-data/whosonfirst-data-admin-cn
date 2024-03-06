@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Hongji"
+    ],
     "name:zho_x_preferred":[
         "\u6d2a\u96c6\u6751"
     ],
@@ -44,6 +47,11 @@
     "wof:concordances":{
         "gn:id":10414024
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1556627
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"26f17eed3ac645feb11de85efa3300af",
     "wof:hierarchy":[
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1260196309,
-    "wof:lastmodified":1566687492,
+    "wof:lastmodified":1706239454,
     "wof:name":"Hongjicun",
     "wof:parent_id":890515831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276766445
+    ],
     "wof:tags":[]
 },
   "bbox": [

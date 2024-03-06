@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"125.318813,43.878469,125.318813,43.878469",
@@ -15,7 +17,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Changchun"
@@ -35,11 +37,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85669843,
         102191569,
         85632695,
-        890514235,
         136253041,
-        85669843
+        890514235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":890515481,
-    "wof:lastmodified":1601422981,
+    "wof:lastmodified":1706239396,
     "wof:name":"Changchun",
     "wof:parent_id":890514235,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102027947
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

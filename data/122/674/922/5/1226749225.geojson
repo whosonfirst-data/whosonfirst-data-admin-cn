@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"118.14944,28.89889,118.14944,28.89889",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tzu-hu-k\u2019ou",
@@ -47,7 +49,7 @@
         "gn:id":1783735
     },
     "wof:country":"CN",
-    "wof:geomhash":"643e8d8924284916a15c90f1358c7af5",
+    "wof:geomhash":"3565fe69079aba81cc34dd6ad79b3e40",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,20 +61,22 @@
         }
     ],
     "wof:id":1226749225,
-    "wof:lastmodified":1566701557,
+    "wof:lastmodified":1706239423,
     "wof:name":"Zihukou",
     "wof:parent_id":890515869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226149531
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    118.14943999999998,
+    118.14944,
     28.89889,
-    118.14943999999998,
+    118.14944,
     28.89889
 ],
-  "geometry": {"coordinates":[118.14943999999998,28.89889],"type":"Point"}
+  "geometry": {"coordinates":[118.14944,28.89889],"type":"Point"}
 }

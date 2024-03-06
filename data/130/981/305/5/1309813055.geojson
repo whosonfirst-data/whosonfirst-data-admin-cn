@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Qiangying"
+    ],
     "name:zho_x_preferred":[
         "\u5f3a\u90e2\u6751"
     ],
@@ -44,6 +47,11 @@
     "wof:concordances":{
         "gn:id":10417574
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1557126
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"8ebbf39bc9f330c9b508cfe91e532381",
     "wof:hierarchy":[
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1309813055,
-    "wof:lastmodified":1566693444,
+    "wof:lastmodified":1706239471,
     "wof:name":"Qiangyingcun",
     "wof:parent_id":890516677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344266497
+    ],
     "wof:tags":[]
 },
   "bbox": [

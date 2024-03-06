@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u9f9f\u5c3e"
     ],
+    "name:zho_x_preferred":[
+        "\u9f9f\u5c3e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669743,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1920297
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6970033
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"a1a29e5205073fd6d898664c7096d08e",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1226388857,
-    "wof:lastmodified":1566705576,
+    "wof:lastmodified":1706239427,
     "wof:name":"Guiwei",
     "wof:parent_id":890514727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309955767
+    ],
     "wof:tags":[]
 },
   "bbox": [

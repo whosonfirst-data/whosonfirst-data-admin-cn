@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":2053930
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11505053
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"092683c188ac2648eeb01aafbc943d13",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1225810751,
-    "wof:lastmodified":1566702735,
+    "wof:lastmodified":1706239417,
     "wof:name":"Mafangzicun",
     "wof:parent_id":890514725,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243325945
+    ],
     "wof:tags":[]
 },
   "bbox": [

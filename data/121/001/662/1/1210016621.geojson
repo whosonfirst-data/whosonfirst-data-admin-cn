@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7331176
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1799659
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"3687d51cf480dcf693dfaefb6a80b932",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1210016621,
-    "wof:lastmodified":1566684543,
+    "wof:lastmodified":1706239416,
     "wof:name":"Nanxingcun",
     "wof:parent_id":890515155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259415649
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -53,6 +53,11 @@
     "wof:concordances":{
         "gn:id":1921804
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1981854
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"6612aa5f7bbc69d61766dbe5deddf916",
     "wof:hierarchy":[
@@ -66,13 +71,15 @@
         }
     ],
     "wof:id":1193128583,
-    "wof:lastmodified":1566685113,
+    "wof:lastmodified":1706239399,
     "wof:name":"Yuyu",
     "wof:parent_id":890516575,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343755535
+    ],
     "wof:tags":[]
 },
   "bbox": [

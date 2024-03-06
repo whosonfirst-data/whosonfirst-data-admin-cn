@@ -49,8 +49,13 @@
     "wof:concordances":{
         "gn:id":2036199
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11019609
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"14ea2fc9073f83e29076c654c585a80c",
+    "wof:geomhash":"b103839e8e3bdbc136542e2c14c32e76",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +67,22 @@
         }
     ],
     "wof:id":1259605811,
-    "wof:lastmodified":1566699862,
+    "wof:lastmodified":1706239449,
     "wof:name":"Laoniugoucun",
     "wof:parent_id":890516735,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309802627
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    127.38358999999998,
+    127.38359,
     42.92487,
-    127.38358999999998,
+    127.38359,
     42.92487
 ],
-  "geometry": {"coordinates":[127.38358999999998,42.92487],"type":"Point"}
+  "geometry": {"coordinates":[127.38359,42.92487],"type":"Point"}
 }

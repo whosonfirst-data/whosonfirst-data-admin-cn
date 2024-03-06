@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1893324
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6858825
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"eb7c86601798184118ae173ddf205eca",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1225890893,
-    "wof:lastmodified":1566702895,
+    "wof:lastmodified":1706239419,
     "wof:name":"Shengtang",
     "wof:parent_id":890514609,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309865789
+    ],
     "wof:tags":[]
 },
   "bbox": [

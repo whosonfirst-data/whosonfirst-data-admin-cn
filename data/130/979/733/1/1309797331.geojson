@@ -89,6 +89,11 @@
     "wof:concordances":{
         "gn:id":6672061
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8579555
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"f67910736f69b58bd726040a40df0c07",
     "wof:hierarchy":[
@@ -102,13 +107,15 @@
         }
     ],
     "wof:id":1309797331,
-    "wof:lastmodified":1566692704,
+    "wof:lastmodified":1706239470,
     "wof:name":"Poli",
     "wof:parent_id":890516577,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343682905
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -29,7 +29,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Shuijiahu",
+        "Sui-chia-hu",
+        "Shui-chia-hu",
+        "Shuihu",
+        "Shuihucun"
+    ],
     "name:zho_x_preferred":[
+        "\u6c34\u6e56\u6751"
+    ],
+    "name:zho_x_variant":[
         "\u6c34\u6e56\u6751"
     ],
     "src:geom":"geonames",
@@ -44,8 +54,13 @@
     "wof:concordances":{
         "gn:id":10416330
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1794481
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"810742fa1f2e56fa6e05a1776ad6fc9d",
+    "wof:geomhash":"2be3b170ad63d379c8eac72be799f694",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +72,22 @@
         }
     ],
     "wof:id":1276121999,
-    "wof:lastmodified":1566676726,
+    "wof:lastmodified":1706239455,
     "wof:name":"Shuihucun",
     "wof:parent_id":890513787,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326939773
+    ],
     "wof:tags":[]
 },
   "bbox": [
     117.16728,
-    32.47150999999999,
+    32.47151,
     117.16728,
-    32.47150999999999
+    32.47151
 ],
-  "geometry": {"coordinates":[117.16728000000001,32.47150999999999],"type":"Point"}
+  "geometry": {"coordinates":[117.16728000000001,32.47151],"type":"Point"}
 }

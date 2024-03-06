@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":10271643
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10271641
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"be025718fbbdf24704f22e8df9bbbc2c",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1326603567,
-    "wof:lastmodified":1566648837,
+    "wof:lastmodified":1706239476,
     "wof:name":"Tangbuqicun",
     "wof:parent_id":1108794057,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326613309
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1807913
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11116653
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"63904187ec540da0683dc9023af54530",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1225899195,
-    "wof:lastmodified":1566702930,
+    "wof:lastmodified":1706239419,
     "wof:name":"Hongzhuangcun",
     "wof:parent_id":890515097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243138927
+    ],
     "wof:tags":[]
 },
   "bbox": [

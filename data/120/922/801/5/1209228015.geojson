@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1557801
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10357961
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"133d29c2c0fedde840dfdc1adeef7682",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1209228015,
-    "wof:lastmodified":1566681423,
+    "wof:lastmodified":1706239405,
     "wof:name":"Dengzhaicun",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259496661
+    ],
     "wof:tags":[]
 },
   "bbox": [

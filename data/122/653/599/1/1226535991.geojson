@@ -33,6 +33,9 @@
         "\u732a\u6bcd\u69fd",
         "Zhumucao"
     ],
+    "name:zho_x_preferred":[
+        "\u732a\u6bcd\u69fd"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669735,
@@ -44,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6965015
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7068968
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"1d7f182f79943de70449dd4f33592b41",
@@ -58,13 +66,15 @@
         }
     ],
     "wof:id":1226535991,
-    "wof:lastmodified":1566705394,
+    "wof:lastmodified":1706239429,
     "wof:name":"Zhumucao",
     "wof:parent_id":890516651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243357123
+    ],
     "wof:tags":[]
 },
   "bbox": [

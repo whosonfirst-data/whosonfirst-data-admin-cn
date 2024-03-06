@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":1793124
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11094116
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"b95f04feaf91e28d5b45a8a01c77a696",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1310304937,
-    "wof:lastmodified":1566689275,
+    "wof:lastmodified":1706239473,
     "wof:name":"Taoxu",
     "wof:parent_id":890512205,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326963045
+    ],
     "wof:tags":[]
 },
   "bbox": [

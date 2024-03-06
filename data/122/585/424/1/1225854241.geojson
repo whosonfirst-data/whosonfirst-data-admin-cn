@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1556379
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10414189
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"c7532ba772e4bb1e24092213426cc9e8",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1225854241,
-    "wof:lastmodified":1566705827,
+    "wof:lastmodified":1706239419,
     "wof:name":"Panzhuangcun",
     "wof:parent_id":890513329,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276452487
+    ],
     "wof:tags":[]
 },
   "bbox": [

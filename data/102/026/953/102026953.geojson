@@ -12,7 +12,9 @@
     "gn:latitude":23.73333,
     "gn:longitude":114.68333,
     "gn:population":93718,
+    "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"114.663296,23.713497,114.703296,23.753497",
     "lbl:latitude":23.820526,
     "lbl:longitude":114.746704,
     "lbl:max_zoom":14.0,
@@ -302,7 +304,18 @@
     "qs:level":"locality",
     "qs:loc":"Heyuan",
     "qs:loc_lc":"1786112",
+    "qs:name":"\u6cb3\u6e90",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u5e7f\u4e1c\u7701",
+    "qs:photos":352,
+    "qs:photos_1k":71,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":352,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -327,6 +340,14 @@
         "wd:id":"Q59205",
         "wk:page":"Heyuan"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2161878
+        ],
+        "qs_pg:id":[
+            1115642
+        ]
+    },
     "wof:country":"CN",
     "wof:geom_alt":[
         "naturalearth",
@@ -344,7 +365,7 @@
         }
     ],
     "wof:id":102026953,
-    "wof:lastmodified":1636503605,
+    "wof:lastmodified":1706239392,
     "wof:name":"Heyuan",
     "wof:parent_id":890514179,
     "wof:placetype":"locality",
@@ -352,7 +373,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890515389
+    ],
     "wof:tags":[]
 },
   "bbox": [

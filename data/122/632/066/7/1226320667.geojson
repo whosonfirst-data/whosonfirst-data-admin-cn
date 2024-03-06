@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":1988770
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1988765
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"3b30260a696a9e51ed0127eee9a4d85a",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1226320667,
-    "wof:lastmodified":1566702423,
+    "wof:lastmodified":1706239426,
     "wof:name":"Liujiachong",
     "wof:parent_id":890516409,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226627167
+    ],
     "wof:tags":[]
 },
   "bbox": [

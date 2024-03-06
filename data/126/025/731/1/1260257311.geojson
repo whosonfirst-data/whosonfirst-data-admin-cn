@@ -47,8 +47,13 @@
     "wof:concordances":{
         "gn:id":2053813
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11508553
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"e6167b4e15194823dc47bc5d201658c7",
+    "wof:geomhash":"6d121a92d626043db071e21464a9dd73",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,20 +65,22 @@
         }
     ],
     "wof:id":1260257311,
-    "wof:lastmodified":1566686552,
+    "wof:lastmodified":1706239455,
     "wof:name":"Songshuyingcun",
     "wof:parent_id":890515907,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293554683
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    120.75518999999998,
+    120.75519,
     41.5688,
-    120.75518999999998,
+    120.75519,
     41.5688
 ],
-  "geometry": {"coordinates":[120.75518999999998,41.5688],"type":"Point"}
+  "geometry": {"coordinates":[120.75519,41.5688],"type":"Point"}
 }

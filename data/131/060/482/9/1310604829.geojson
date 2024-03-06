@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1557452
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10413447
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"af9bda74fc9772df6293d42ee78ecd0a",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1310604829,
-    "wof:lastmodified":1566691016,
+    "wof:lastmodified":1706239475,
     "wof:name":"Datangcun",
     "wof:parent_id":890516677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344070311
+    ],
     "wof:tags":[]
 },
   "bbox": [

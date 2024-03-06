@@ -10,7 +10,9 @@
     "geom:latitude":23.002234,
     "geom:longitude":113.773195,
     "gn:population":8000000,
+    "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"113.714588,23.027511,113.754588,23.067511",
     "lbl:latitude":23.03644,
     "lbl:longitude":113.757398,
     "lbl:max_zoom":12.0,
@@ -374,7 +376,18 @@
     "qs:loc":"Dongguan",
     "qs:loc_alt":"\u4e1c\u839e\u5e02",
     "qs:loc_lc":"1812545",
+    "qs:name":"\u4e1c\u839e\u5e02",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u5e7f\u4e1c\u7701",
+    "qs:photos":3543,
+    "qs:photos_1k":718,
+    "qs:photos_9k":16,
+    "qs:photos_9r":12,
+    "qs:photos_all":3543,
+    "qs:photos_sr":21,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
     "src:geom":"quattroshapes",
@@ -385,11 +398,11 @@
     "src:population":"geonames",
     "wd:wordcount":2584,
     "wof:belongsto":[
+        85669743,
         102191569,
         85632695,
-        890516401,
         136253041,
-        85669743
+        890516401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -399,6 +412,14 @@
         "qs_pg:id":277605,
         "wd:id":"Q59218",
         "wk:page":"Dongguan"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2161842
+        ],
+        "qs_pg:id":[
+            1080047
+        ]
     },
     "wof:country":"CN",
     "wof:geom_alt":[
@@ -416,7 +437,7 @@
         }
     ],
     "wof:id":102027633,
-    "wof:lastmodified":1608688184,
+    "wof:lastmodified":1706239395,
     "wof:megacity":1,
     "wof:name":"Dongguan",
     "wof:parent_id":890516401,
@@ -426,7 +447,9 @@
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:scale":1,
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890515121
+    ],
     "wof:tags":[]
 },
   "bbox": [

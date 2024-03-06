@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u77f3\u6c9f\u6751"
     ],
+    "name:zho_x_preferred":[
+        "\u77f3\u6c9f\u6751"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669769,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7446118
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7369455
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"a1948064381f4ff3db69e5f9c79dcbb2",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1343427713,
-    "wof:lastmodified":1566663568,
+    "wof:lastmodified":1706239479,
     "wof:name":"Shigoucun",
     "wof:parent_id":890516525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343516101
+    ],
     "wof:tags":[]
 },
   "bbox": [

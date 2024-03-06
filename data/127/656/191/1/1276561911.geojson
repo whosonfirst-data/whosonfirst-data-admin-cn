@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":1552941
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10441108
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"fda8142f0ed9d16fb7f5e59faa423c9f",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1276561911,
-    "wof:lastmodified":1566674300,
+    "wof:lastmodified":1706239459,
     "wof:name":"Guanzhencun",
     "wof:parent_id":1108732543,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343675703
+    ],
     "wof:tags":[]
 },
   "bbox": [

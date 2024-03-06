@@ -37,6 +37,9 @@
         "Xiantian",
         "\u54b8\u7530"
     ],
+    "name:zho_x_preferred":[
+        "\u54b8\u7530"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669827,
@@ -48,6 +51,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1790369
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8375593
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"8f69e36373657bdafdd8342bcd15c791",
@@ -62,13 +70,15 @@
         }
     ],
     "wof:id":1193050685,
-    "wof:lastmodified":1566685443,
+    "wof:lastmodified":1706239399,
     "wof:name":"Xiantian",
     "wof:parent_id":890516425,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310011039
+    ],
     "wof:tags":[]
 },
   "bbox": [

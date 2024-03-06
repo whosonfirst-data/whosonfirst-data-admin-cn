@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7369497
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7446177
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"08369a5e3469edbf8462ffa95b49fd02",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1225899037,
-    "wof:lastmodified":1566702882,
+    "wof:lastmodified":1706239419,
     "wof:name":"Xixiangkou",
     "wof:parent_id":890516525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226209195
+    ],
     "wof:tags":[]
 },
   "bbox": [

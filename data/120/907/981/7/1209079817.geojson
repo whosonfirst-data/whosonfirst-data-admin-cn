@@ -53,6 +53,13 @@
     "name:swe_x_preferred":[
         "Tomra"
     ],
+    "name:und_x_variant":[
+        "T\u2019ung-mu-je",
+        "Dongmure",
+        "\u8463\u6728\u60f9",
+        "Zhuowa Gongshe",
+        "\u5353\u74e6\u516c\u793e"
+    ],
     "name:zho_x_preferred":[
         "Dongmure"
     ],
@@ -69,6 +76,11 @@
     "wof:concordances":{
         "gn:id":1279862
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1279863
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"2abc1ccc6ee902bd73addcce6f5d24b9",
     "wof:hierarchy":[
@@ -78,13 +90,15 @@
         }
     ],
     "wof:id":1209079817,
-    "wof:lastmodified":1566678949,
+    "wof:lastmodified":1706239402,
     "wof:name":"Tomra",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344031435
+    ],
     "wof:tags":[]
 },
   "bbox": [

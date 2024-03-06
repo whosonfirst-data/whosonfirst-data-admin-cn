@@ -59,6 +59,11 @@
     "wof:concordances":{
         "gn:id":6964809
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7069064
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"17b60ea48fecbb255f33613e917e38da",
     "wof:hierarchy":[
@@ -72,13 +77,15 @@
         }
     ],
     "wof:id":1292897359,
-    "wof:lastmodified":1566667020,
+    "wof:lastmodified":1706239463,
     "wof:name":"Qianjin",
     "wof:parent_id":890516651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343482189
+    ],
     "wof:tags":[]
 },
   "bbox": [

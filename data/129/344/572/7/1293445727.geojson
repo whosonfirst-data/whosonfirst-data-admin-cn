@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u897f\u5f20"
     ],
+    "name:zho_x_preferred":[
+        "\u897f\u5f20"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669773,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7603541
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1788117
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"0f60b14a5062999f0a12d237f079d74c",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1293445727,
-    "wof:lastmodified":1566672057,
+    "wof:lastmodified":1706239465,
     "wof:name":"Xizhang",
     "wof:parent_id":890514745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326698099
+    ],
     "wof:tags":[]
 },
   "bbox": [

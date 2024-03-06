@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1555365
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10442799
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"a7abda8c8300195caae60bb3cdb287c5",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1209728831,
-    "wof:lastmodified":1566684328,
+    "wof:lastmodified":1706239413,
     "wof:name":"Hedongcun",
     "wof:parent_id":890513787,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327346965
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Tangdian"
+    ],
     "name:zho_x_preferred":[
         "\u6c64\u5e97\u6751"
     ],
@@ -44,6 +47,11 @@
     "wof:concordances":{
         "gn:id":10441818
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1555208
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"d665286f4945000361b3ef2c4d1c3686",
     "wof:hierarchy":[
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1326939737,
-    "wof:lastmodified":1566649211,
+    "wof:lastmodified":1706239477,
     "wof:name":"Tangdiancun",
     "wof:parent_id":890513787,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327337403
+    ],
     "wof:tags":[]
 },
   "bbox": [

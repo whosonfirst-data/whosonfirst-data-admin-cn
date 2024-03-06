@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":2035125
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7005691
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"ee736b7a24b43e5f124cf6a53ff9392a",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1193099591,
-    "wof:lastmodified":1566684771,
+    "wof:lastmodified":1706239399,
     "wof:name":"Sanjiazi",
     "wof:parent_id":890514741,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293554609
+    ],
     "wof:tags":[]
 },
   "bbox": [

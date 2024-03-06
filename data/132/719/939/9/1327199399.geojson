@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":11490830
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11490826
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"12c4c6f9461128be9a95aa5688c89f0f",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1327199399,
-    "wof:lastmodified":1566654177,
+    "wof:lastmodified":1706239478,
     "wof:name":"Xiaoshuiquan",
     "wof:parent_id":890515907,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343426353
+    ],
     "wof:tags":[]
 },
   "bbox": [

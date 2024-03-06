@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":7409014
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7445989
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"57bc574aa6a39e09b4c00559befd6215",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209570063,
-    "wof:lastmodified":1566681563,
+    "wof:lastmodified":1706239410,
     "wof:name":"Xiba",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243230495
+    ],
     "wof:tags":[]
 },
   "bbox": [

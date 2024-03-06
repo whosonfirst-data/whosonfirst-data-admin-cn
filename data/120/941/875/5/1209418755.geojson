@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1556915
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10413899
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"8c4e9bfdaeac688fe955ac36406c1e41",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1209418755,
-    "wof:lastmodified":1566680677,
+    "wof:lastmodified":1706239408,
     "wof:name":"Miaozhuangcun",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293209949
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":2034591
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10905741
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"f2b97d59ece074b09bb17b20645d227d",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1243170103,
-    "wof:lastmodified":1566697614,
+    "wof:lastmodified":1706239441,
     "wof:name":"Houtaipingcun",
     "wof:parent_id":890514217,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360083109
+    ],
     "wof:tags":[]
 },
   "bbox": [

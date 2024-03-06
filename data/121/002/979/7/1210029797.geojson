@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1557199
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10416080
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"cf56cdc2ea8bb9d0c5e455560eaa9f78",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1210029797,
-    "wof:lastmodified":1566684607,
+    "wof:lastmodified":1706239417,
     "wof:name":"Hekoucun",
     "wof:parent_id":890516677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343275359
+    ],
     "wof:tags":[]
 },
   "bbox": [

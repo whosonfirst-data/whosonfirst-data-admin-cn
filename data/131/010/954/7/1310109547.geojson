@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1558425
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10361279
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"ca3a73c5081663e8c8255240e5af73db",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1310109547,
-    "wof:lastmodified":1566690146,
+    "wof:lastmodified":1706239472,
     "wof:name":"Dasunzhuangcun",
     "wof:parent_id":890514507,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326533545
+    ],
     "wof:tags":[]
 },
   "bbox": [

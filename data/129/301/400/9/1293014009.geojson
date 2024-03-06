@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Xuqiao"
+    ],
     "name:zho_x_preferred":[
         "\u5f90\u6865\u6751"
     ],
@@ -44,6 +47,11 @@
     "wof:concordances":{
         "gn:id":10414732
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1556647
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"6528d88b252431f6a95aad1d149a9757",
     "wof:hierarchy":[
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1293014009,
-    "wof:lastmodified":1566666345,
+    "wof:lastmodified":1706239464,
     "wof:name":"Xuqiaocun",
     "wof:parent_id":890515831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310109657
+    ],
     "wof:tags":[]
 },
   "bbox": [

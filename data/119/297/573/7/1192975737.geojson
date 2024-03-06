@@ -47,8 +47,13 @@
     "wof:concordances":{
         "gn:id":9123188
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9115848
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"f71ef6a43c93950f3750acfa937c020b",
+    "wof:geomhash":"336b9f2bad5f71d6099f6a478c2c9271",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,20 +65,22 @@
         }
     ],
     "wof:id":1192975737,
-    "wof:lastmodified":1566685662,
+    "wof:lastmodified":1706239398,
     "wof:name":"Dong'an",
     "wof:parent_id":890514755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310060969
+    ],
     "wof:tags":[]
 },
   "bbox": [
     119.193,
-    35.92800000000001,
+    35.928,
     119.193,
-    35.92800000000001
+    35.928
 ],
-  "geometry": {"coordinates":[119.193,35.92800000000001],"type":"Point"}
+  "geometry": {"coordinates":[119.193,35.928],"type":"Point"}
 }

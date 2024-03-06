@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"118.00066,31.35119,118.00066,31.35119",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zhouzha",
@@ -49,7 +51,7 @@
         "gn:id":1552902
     },
     "wof:country":"CN",
-    "wof:geomhash":"d3d52a4a1c220a43d4dbf0cab03e7b80",
+    "wof:geomhash":"c0535fee44b817b062bf211a169c216a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,20 +63,22 @@
         }
     ],
     "wof:id":1242984053,
-    "wof:lastmodified":1566696928,
+    "wof:lastmodified":1706239404,
     "wof:name":"Zhouzhacun",
     "wof:parent_id":890513093,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209218399
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     118.00066,
-    31.35119000000001,
+    31.35119,
     118.00066,
-    31.35119000000001
+    31.35119
 ],
-  "geometry": {"coordinates":[118.00066,31.35119000000001],"type":"Point"}
+  "geometry": {"coordinates":[118.00066,31.35119],"type":"Point"}
 }

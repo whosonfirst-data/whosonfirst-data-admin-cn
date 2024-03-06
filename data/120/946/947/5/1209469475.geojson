@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Sha-chih-hai",
+        "Sha-tse-han",
+        "Shazehan",
+        "Shazihancun"
+    ],
     "name:zho_x_preferred":[
         "\u6c99\u5b50\u6c57\u6751"
     ],
@@ -40,6 +46,11 @@
     "wof:concordances":{
         "gn:id":11085133
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1795740
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"558cb47dcf65c0552126a4b462939a5d",
     "wof:hierarchy":[
@@ -49,13 +60,15 @@
         }
     ],
     "wof:id":1209469475,
-    "wof:lastmodified":1566680618,
+    "wof:lastmodified":1706239409,
     "wof:name":"Shazihancun",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243610951
+    ],
     "wof:tags":[]
 },
   "bbox": [

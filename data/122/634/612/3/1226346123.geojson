@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Huangji"
+    ],
     "name:zho_x_preferred":[
         "\u9ec4\u96c6\u6751"
     ],
@@ -44,6 +47,11 @@
     "wof:concordances":{
         "gn:id":10360820
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1807454
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"6943dbf7a6f4dd43492f1852fa1dc69a",
     "wof:hierarchy":[
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1226346123,
-    "wof:lastmodified":1566701951,
+    "wof:lastmodified":1706239427,
     "wof:name":"Huangjicun",
     "wof:parent_id":1108732463,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260299193
+    ],
     "wof:tags":[]
 },
   "bbox": [

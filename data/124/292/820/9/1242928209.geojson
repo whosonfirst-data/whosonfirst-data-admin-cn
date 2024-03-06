@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1810064
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11084768
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"0a3b796ba7b0565b06606851c2230b78",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1242928209,
-    "wof:lastmodified":1566694798,
+    "wof:lastmodified":1706239437,
     "wof:name":"Gouchacun",
     "wof:parent_id":890515097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310362221
+    ],
     "wof:tags":[]
 },
   "bbox": [

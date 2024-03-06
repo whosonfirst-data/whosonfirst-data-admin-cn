@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1911621
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9130216
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"3fc157e049319e92c02ee726ded26fc7",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1209504511,
-    "wof:lastmodified":1566681503,
+    "wof:lastmodified":1706239410,
     "wof:name":"Houxiangcheng",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226438129
+    ],
     "wof:tags":[]
 },
   "bbox": [

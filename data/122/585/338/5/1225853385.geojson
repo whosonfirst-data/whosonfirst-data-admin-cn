@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":8415811
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1882894
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"fe09549f8f81f8f6f2e047efa2d64aee",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1225853385,
-    "wof:lastmodified":1566705815,
+    "wof:lastmodified":1706239418,
     "wof:name":"Chen'aoyang",
     "wof:parent_id":890514289,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344169137
+    ],
     "wof:tags":[]
 },
   "bbox": [

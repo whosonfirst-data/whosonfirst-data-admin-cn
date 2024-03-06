@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":2047985
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2047998
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"15b3e9fd0708e802d6a742ae3ed93b6f",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1242867561,
-    "wof:lastmodified":1566694579,
+    "wof:lastmodified":1706239436,
     "wof:name":"Shigezhuang",
     "wof:parent_id":890516585,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276220459
+    ],
     "wof:tags":[]
 },
   "bbox": [

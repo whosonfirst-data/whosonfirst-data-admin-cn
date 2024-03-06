@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7737878
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1925450
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"e99372b1af03d396dc04bb6d8550f4f1",
+    "wof:geomhash":"0665e1c54f2143fb278dd66c064af825",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +62,22 @@
         }
     ],
     "wof:id":1226653105,
-    "wof:lastmodified":1566705373,
+    "wof:lastmodified":1706239431,
     "wof:name":"Xiaoke",
     "wof:parent_id":890516617,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327339983
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    116.73803999999998,
+    116.73804,
     27.93076,
-    116.73803999999998,
+    116.73804,
     27.93076
 ],
-  "geometry": {"coordinates":[116.73803999999998,27.93076],"type":"Point"}
+  "geometry": {"coordinates":[116.73804,27.93076],"type":"Point"}
 }

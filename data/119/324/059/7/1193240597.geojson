@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Santai"
+    ],
     "name:zho_x_preferred":[
         "\u4e09\u53f0\u6751"
     ],
@@ -44,6 +47,11 @@
     "wof:concordances":{
         "gn:id":11509454
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2053827
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"f41bfe0cde1201e4062f072355e76a50",
     "wof:hierarchy":[
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1193240597,
-    "wof:lastmodified":1566684973,
+    "wof:lastmodified":1706239400,
     "wof:name":"Santaicun",
     "wof:parent_id":890514397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293166343
+    ],
     "wof:tags":[]
 },
   "bbox": [

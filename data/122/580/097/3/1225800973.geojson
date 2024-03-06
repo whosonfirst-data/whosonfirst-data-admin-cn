@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u725b\u5bb6\u6c9f"
     ],
+    "name:zho_x_preferred":[
+        "\u725b\u5bb6\u6c9f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669773,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7603976
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1799291
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"4c7191683234e99b7260cd49c3b21b84",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1225800973,
-    "wof:lastmodified":1566702995,
+    "wof:lastmodified":1706239417,
     "wof:name":"Niujiagou",
     "wof:parent_id":890514745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242645193
+    ],
     "wof:tags":[]
 },
   "bbox": [

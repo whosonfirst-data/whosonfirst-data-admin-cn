@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"116.86649,34.20438,116.86649,34.20438",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u4e1a\u5e84\u6751"
@@ -45,7 +47,7 @@
         "gn:id":10361268
     },
     "wof:country":"CN",
-    "wof:geomhash":"4847241bea2633ae990175cbb6475583",
+    "wof:geomhash":"66a5b073e59b7f97423200cad301a0cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +59,22 @@
         }
     ],
     "wof:id":1293403263,
-    "wof:lastmodified":1566668311,
+    "wof:lastmodified":1706239461,
     "wof:name":"Yezhuangcun",
     "wof:parent_id":890514507,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276766553
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    116.86648999999998,
+    116.86649,
     34.20438,
-    116.86648999999998,
+    116.86649,
     34.20438
 ],
-  "geometry": {"coordinates":[116.86648999999998,34.20438],"type":"Point"}
+  "geometry": {"coordinates":[116.86649,34.20438],"type":"Point"}
 }

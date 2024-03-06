@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1557776
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10357696
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"a4f26ea0c6973998855de2a7993364c9",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1259487149,
-    "wof:lastmodified":1566698685,
+    "wof:lastmodified":1706239448,
     "wof:name":"Donghucun",
     "wof:parent_id":890516677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309807311
+    ],
     "wof:tags":[]
 },
   "bbox": [

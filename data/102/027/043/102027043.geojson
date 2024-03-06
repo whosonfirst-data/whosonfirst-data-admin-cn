@@ -10,7 +10,9 @@
     "geom:latitude":24.503699,
     "geom:longitude":118.104534,
     "gn:population":3531347,
+    "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"118.053447,24.427774,118.093447,24.467774",
     "lbl:latitude":24.489945,
     "lbl:longitude":118.103833,
     "lbl:max_zoom":13.0,
@@ -394,7 +396,18 @@
     "qs:loc":"Xiamen",
     "qs:loc_alt":"\u53a6\u95e8\u5e02",
     "qs:loc_lc":"1790645",
+    "qs:name":"\u53a6\u95e8\u5e02",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u798f\u5efa\u7701",
+    "qs:photos":4995,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4995,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
@@ -416,6 +429,14 @@
         "wd:id":"Q68744",
         "wk:page":"Xiamen"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2139967
+        ],
+        "qs_pg:id":[
+            900437
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"f5b97431c87ca5472b14853400a55cab",
     "wof:hierarchy":[
@@ -427,7 +448,7 @@
         }
     ],
     "wof:id":102027043,
-    "wof:lastmodified":1608688168,
+    "wof:lastmodified":1706239393,
     "wof:megacity":1,
     "wof:name":"Xiamen",
     "wof:parent_id":-1,
@@ -437,7 +458,9 @@
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:scale":4,
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890515049
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u5927\u77f3\u5e93"
     ],
+    "name:zho_x_preferred":[
+        "\u5927\u77f3\u5e93"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -39,6 +42,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9116746
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9120741
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"b346c4c0956853ae3908bd54e70c89bf",
@@ -49,13 +57,15 @@
         }
     ],
     "wof:id":1209269807,
-    "wof:lastmodified":1566683780,
+    "wof:lastmodified":1706239405,
     "wof:name":"Dashiku",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343518845
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":11486969
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11481570
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"35194c15151581244fb1d4d61c810206",
+    "wof:geomhash":"30fa1067fb5bbb8c3152141082dc819a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +62,22 @@
         }
     ],
     "wof:id":1242974541,
-    "wof:lastmodified":1566697165,
+    "wof:lastmodified":1706239438,
     "wof:name":"Baishacun",
     "wof:parent_id":1108732463,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326833859
+    ],
     "wof:tags":[]
 },
   "bbox": [
     116.56799,
-    33.51300000000001,
+    33.513,
     116.56799,
-    33.51300000000001
+    33.513
 ],
-  "geometry": {"coordinates":[116.56798999999999,33.51300000000001],"type":"Point"}
+  "geometry": {"coordinates":[116.56798999999999,33.513],"type":"Point"}
 }

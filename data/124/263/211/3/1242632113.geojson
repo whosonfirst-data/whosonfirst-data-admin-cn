@@ -11,6 +11,7 @@
     "geom:longitude":107.89866,
     "gn:admin1_code":"26",
     "gn:asciiname":"Famen",
+    "gn:cc2":"CN",
     "gn:country_code":"CN",
     "gn:dem":619,
     "gn:feature_class":"P",
@@ -64,6 +65,11 @@
         "gn:id":1811609,
         "wk:page":"Famen_Temple"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1899331
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"ba8e9f9eafc97a1af0f880a907210f88",
     "wof:hierarchy":[
@@ -77,13 +83,15 @@
         }
     ],
     "wof:id":1242632113,
-    "wof:lastmodified":1566697204,
+    "wof:lastmodified":1706239434,
     "wof:name":"Famen",
     "wof:parent_id":890516525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343316809
+    ],
     "wof:tags":[]
 },
   "bbox": [

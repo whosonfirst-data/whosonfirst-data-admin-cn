@@ -33,6 +33,9 @@
         "\u5206\u6c34\u5934",
         "Fenshuitou"
     ],
+    "name:zho_x_preferred":[
+        "\u5206\u6c34\u5934"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669735,
@@ -44,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6958710
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7069084
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"fcca3d75f850bc8b8437442461063a96",
@@ -58,13 +66,15 @@
         }
     ],
     "wof:id":1243475295,
-    "wof:lastmodified":1566695615,
+    "wof:lastmodified":1706239446,
     "wof:name":"Fenshuitou",
     "wof:parent_id":890516577,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259873293
+    ],
     "wof:tags":[]
 },
   "bbox": [

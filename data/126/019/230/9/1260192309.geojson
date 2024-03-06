@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1554117
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10359417
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"0b238065a361532cf6738368c6532e68",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1260192309,
-    "wof:lastmodified":1566687493,
+    "wof:lastmodified":1706239454,
     "wof:name":"Dingqiaocun",
     "wof:parent_id":890514507,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310015201
+    ],
     "wof:tags":[]
 },
   "bbox": [

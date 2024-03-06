@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":1804030
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10358099
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"f81fc5ae6140054ec550f9af81068620",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1209424389,
-    "wof:lastmodified":1566683665,
+    "wof:lastmodified":1706239409,
     "wof:name":"Liangjicun",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360198055
+    ],
     "wof:tags":[]
 },
   "bbox": [

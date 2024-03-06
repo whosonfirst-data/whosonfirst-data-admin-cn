@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Chieh-kou",
+        "Chieh-kou-chi",
+        "Jiegou",
+        "Jiegoucun"
+    ],
     "name:zho_x_preferred":[
         "\u754c\u6c9f\u6751"
     ],
@@ -44,6 +50,11 @@
     "wof:concordances":{
         "gn:id":10359347
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1805896
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"7957564ce53bf4bc24de404bb4c02be6",
     "wof:hierarchy":[
@@ -57,13 +68,15 @@
         }
     ],
     "wof:id":1344266355,
-    "wof:lastmodified":1566662336,
+    "wof:lastmodified":1706239480,
     "wof:name":"Jiegoucun",
     "wof:parent_id":1108732463,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360289341
+    ],
     "wof:tags":[]
 },
   "bbox": [

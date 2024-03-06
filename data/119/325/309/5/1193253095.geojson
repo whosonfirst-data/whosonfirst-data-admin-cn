@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":2054127
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11505703
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"4579936fb7c37f24fdea899dd9d3832e",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1193253095,
-    "wof:lastmodified":1566685325,
+    "wof:lastmodified":1706239400,
     "wof:name":"Xinjiangcun",
     "wof:parent_id":890513783,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260247377
+    ],
     "wof:tags":[]
 },
   "bbox": [

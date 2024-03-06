@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1558326
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10360337
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"73a81d0bd9fc970e9beb0c765d1473a3",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1292907343,
-    "wof:lastmodified":1566670214,
+    "wof:lastmodified":1706239463,
     "wof:name":"Mugecun",
     "wof:parent_id":890515239,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309909737
+    ],
     "wof:tags":[]
 },
   "bbox": [

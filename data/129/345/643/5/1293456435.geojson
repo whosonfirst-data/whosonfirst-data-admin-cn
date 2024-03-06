@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1808837
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11150389
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"2a6e55880079065b2bb6e202444c5288",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1293456435,
-    "wof:lastmodified":1566670982,
+    "wof:lastmodified":1706239465,
     "wof:name":"Haocha",
     "wof:parent_id":890516587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310655403
+    ],
     "wof:tags":[]
 },
   "bbox": [

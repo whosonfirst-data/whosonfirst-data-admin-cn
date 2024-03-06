@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"107.62784,37.33002,107.62784,37.33002",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hsiao-chien-tzu",
@@ -50,7 +52,7 @@
         "gn:id":1790147
     },
     "wof:country":"CN",
-    "wof:geomhash":"d04072cfd294db7a1475a281fde66ebc",
+    "wof:geomhash":"5fce0d87eb22ea5ffbfc4e09cc2dc7c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +64,22 @@
         }
     ],
     "wof:id":1310261659,
-    "wof:lastmodified":1566690221,
+    "wof:lastmodified":1706239434,
     "wof:name":"Xiaojianzicun",
     "wof:parent_id":890515097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1242644239
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     107.62784,
-    37.33002000000001,
+    37.33002,
     107.62784,
-    37.33002000000001
+    37.33002
 ],
-  "geometry": {"coordinates":[107.62784000000001,37.33002000000001],"type":"Point"}
+  "geometry": {"coordinates":[107.62784000000001,37.33002],"type":"Point"}
 }

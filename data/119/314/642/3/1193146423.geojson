@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1556843
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10358713
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"219c3f074bfc3f582605a1d14b461dc3",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1193146423,
-    "wof:lastmodified":1566685220,
+    "wof:lastmodified":1706239400,
     "wof:name":"Huaxiangcun",
     "wof:parent_id":890515831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327435275
+    ],
     "wof:tags":[]
 },
   "bbox": [

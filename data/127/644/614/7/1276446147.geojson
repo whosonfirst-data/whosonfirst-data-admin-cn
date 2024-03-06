@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1557770
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10357612
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"3250bdb73aee5626da3c65c4cba75832",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1276446147,
-    "wof:lastmodified":1566672876,
+    "wof:lastmodified":1706239459,
     "wof:name":"Xuzhuangcun",
     "wof:parent_id":890516677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276456703
+    ],
     "wof:tags":[]
 },
   "bbox": [

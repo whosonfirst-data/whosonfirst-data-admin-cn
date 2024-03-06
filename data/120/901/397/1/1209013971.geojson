@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1812354
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10358431
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"4bff391f77126a63b0f0202dff726be9",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1209013971,
-    "wof:lastmodified":1566679331,
+    "wof:lastmodified":1706239401,
     "wof:name":"Dongmiaocun",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293497017
+    ],
     "wof:tags":[]
 },
   "bbox": [

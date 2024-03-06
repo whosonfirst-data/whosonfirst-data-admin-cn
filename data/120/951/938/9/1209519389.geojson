@@ -43,8 +43,13 @@
     "wof:concordances":{
         "gn:id":1554962
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10635731
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"a393314482fb0015920ceee66ec4f320",
+    "wof:geomhash":"0b9f4b183fa1a26e3ee9bafdc9248e3d",
     "wof:hierarchy":[
         {
             "country_id":85632695,
@@ -52,20 +57,22 @@
         }
     ],
     "wof:id":1209519389,
-    "wof:lastmodified":1566682661,
+    "wof:lastmodified":1706239410,
     "wof:name":"Chenguangcun",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243080959
+    ],
     "wof:tags":[]
 },
   "bbox": [
     117.30805,
-    31.25199000000001,
+    31.25199,
     117.30805,
-    31.25199000000001
+    31.25199
 ],
-  "geometry": {"coordinates":[117.30804999999999,31.25199000000001],"type":"Point"}
+  "geometry": {"coordinates":[117.30804999999999,31.25199],"type":"Point"}
 }

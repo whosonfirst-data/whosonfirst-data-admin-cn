@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":1547830
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1547837
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"5c6e0ef14307f92df1e520ae049f26a7",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1225844925,
-    "wof:lastmodified":1566705973,
+    "wof:lastmodified":1706239418,
     "wof:name":"Xinhemiao",
     "wof:parent_id":890515153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259583337
+    ],
     "wof:tags":[]
 },
   "bbox": [

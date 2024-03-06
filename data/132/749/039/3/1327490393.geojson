@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7445865
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7408896
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"dfdce7318980849de37717d36dee1057",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1327490393,
-    "wof:lastmodified":1566650442,
+    "wof:lastmodified":1706239479,
     "wof:name":"Moqiaowan",
     "wof:parent_id":890515099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343924661
+    ],
     "wof:tags":[]
 },
   "bbox": [

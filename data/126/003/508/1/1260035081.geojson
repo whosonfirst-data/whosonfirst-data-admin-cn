@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u79e6\u5bb6\u5e84"
     ],
+    "name:zho_x_preferred":[
+        "\u79e6\u5bb6\u5e84"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669813,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9115897
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9121603
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"cf680460196eff55500368f1990a2f36",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1260035081,
-    "wof:lastmodified":1566687535,
+    "wof:lastmodified":1706239452,
     "wof:name":"Qinjiazhuang",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326685217
+    ],
     "wof:tags":[]
 },
   "bbox": [

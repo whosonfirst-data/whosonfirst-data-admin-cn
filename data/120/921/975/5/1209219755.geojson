@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1549363
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11090459
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"cedbcf2285bfa8d607edf915eb4eff1a",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1209219755,
-    "wof:lastmodified":1566683906,
+    "wof:lastmodified":1706239405,
     "wof:name":"Xiangwo",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209919191
+    ],
     "wof:tags":[]
 },
   "bbox": [

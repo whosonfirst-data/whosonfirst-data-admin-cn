@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1556665
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10415528
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"7365fb96c092eac004d63b9ac88d4d3d",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1225848809,
-    "wof:lastmodified":1566705941,
+    "wof:lastmodified":1706239418,
     "wof:name":"Xinwancun",
     "wof:parent_id":890515831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243458295
+    ],
     "wof:tags":[]
 },
   "bbox": [

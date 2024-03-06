@@ -72,6 +72,11 @@
     "wof:concordances":{
         "gn:id":1913729
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8365904
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"018a55eb6e2cf02c727afe3c2755025b",
     "wof:hierarchy":[
@@ -85,13 +90,15 @@
         }
     ],
     "wof:id":1226700155,
-    "wof:lastmodified":1566704648,
+    "wof:lastmodified":1706239431,
     "wof:name":"Xiangshan",
     "wof:parent_id":890513089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260348873
+    ],
     "wof:tags":[]
 },
   "bbox": [

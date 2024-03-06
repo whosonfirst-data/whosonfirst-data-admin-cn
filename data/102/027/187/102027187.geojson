@@ -9,8 +9,11 @@
     "geom:bbox":"109.474796,18.202054,109.661251,18.29577",
     "geom:latitude":18.239227,
     "geom:longitude":109.555024,
+    "gn:country":"CN",
     "gn:population":144753,
+    "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"109.476612,18.235192,109.516612,18.275192",
     "lbl:latitude":18.235206,
     "lbl:longitude":109.506701,
     "lbl:max_zoom":14.0,
@@ -329,7 +332,18 @@
     "qs:loc":"Sanya",
     "qs:loc_alt":"\u4e09\u4e9a\u5e02",
     "qs:loc_lc":"1796556",
+    "qs:name":"\u4e09\u4e9a\u5e02",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u6d77\u5357\u7701",
+    "qs:photos":4983,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4983,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
     "src:geom":"quattroshapes",
@@ -353,6 +367,14 @@
         "wd:id":"Q319804",
         "wk:page":"Sanya"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2162784
+        ],
+        "qs_pg:id":[
+            1298673
+        ]
+    },
     "wof:country":"CN",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -368,7 +390,7 @@
         }
     ],
     "wof:id":102027187,
-    "wof:lastmodified":1642551808,
+    "wof:lastmodified":1706239393,
     "wof:name":"Sanya",
     "wof:parent_id":1108732333,
     "wof:placetype":"locality",
@@ -376,7 +398,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890513351
+    ],
     "wof:tags":[]
 },
   "bbox": [

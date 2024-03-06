@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":11094824
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8226069
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"dd9084dddd9e31df971087254a82d196",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1243072839,
-    "wof:lastmodified":1566693836,
+    "wof:lastmodified":1706239439,
     "wof:name":"Outang",
     "wof:parent_id":1108732465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310601153
+    ],
     "wof:tags":[]
 },
   "bbox": [

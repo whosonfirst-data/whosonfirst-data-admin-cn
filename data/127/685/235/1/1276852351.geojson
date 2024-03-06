@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":9944184
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9944194
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"0e434ed07db96caaa2039770982c6d9f",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1276852351,
-    "wof:lastmodified":1566676322,
+    "wof:lastmodified":1706239462,
     "wof:name":"Zhongcun",
     "wof:parent_id":1108732453,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293182313
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -11,6 +11,7 @@
     "geom:longitude":120.5425,
     "gn:admin1_code":"4.0",
     "gn:asciiname":"Xijinqiao",
+    "gn:cc2":"CN",
     "gn:country_code":"CN",
     "gn:dem":9,
     "gn:feature_class":"P",
@@ -44,6 +45,11 @@
     "wof:concordances":{
         "gn:id":1789380
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1898345
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"f6bb58008b8894df130423fbd265e067",
     "wof:hierarchy":[
@@ -57,13 +63,15 @@
         }
     ],
     "wof:id":1226143061,
-    "wof:lastmodified":1566703562,
+    "wof:lastmodified":1706239423,
     "wof:name":"Xijinqiao",
     "wof:parent_id":890515879,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276985603
+    ],
     "wof:tags":[]
 },
   "bbox": [

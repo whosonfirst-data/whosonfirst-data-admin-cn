@@ -122,6 +122,9 @@
     "name:zho_x_preferred":[
         "\u5e86\u9633\u5e02"
     ],
+    "name:zho_x_variant":[
+        "\u5e86\u9633\u5e02"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -129,6 +132,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1916742
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7066440
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"253f85fca448209a7f984f9a9785fb99",
@@ -139,13 +147,15 @@
         }
     ],
     "wof:id":1209417875,
-    "wof:lastmodified":1566680727,
+    "wof:lastmodified":1706239408,
     "wof:name":"Qingyang",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209617895
+    ],
     "wof:tags":[]
 },
   "bbox": [

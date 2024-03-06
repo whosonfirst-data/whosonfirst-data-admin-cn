@@ -9,9 +9,21 @@
     "geom:bbox":"119.51361,26.23306,119.51361,26.23306",
     "geom:latitude":26.23306,
     "geom:longitude":119.51361,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Donghu",
     "gn:country":"CN",
+    "gn:country_code":"CN",
+    "gn:dem":46,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1909850,
+    "gn:latitude":26.23222,
+    "gn:longitude":119.51611,
+    "gn:modification_date":"2000-12-06",
+    "gn:name":"Donghu",
     "gn:population":3360,
+    "gn:timezone":"Asia/Shanghai",
     "iso:country":"CN",
     "lbl:bbox":"119.49361,26.21306,119.53361,26.25306",
     "lbl:max_zoom":15.0,
@@ -57,6 +69,11 @@
         "qs_pg:id":1033432,
         "wk:page":"Donghu"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1909850
+        ]
+    },
     "wof:country":"CN",
     "wof:created":1469055790,
     "wof:geomhash":"a81264def58d7b61953f6e8adac6b874",
@@ -71,7 +88,7 @@
         }
     ],
     "wof:id":890512877,
-    "wof:lastmodified":1566693751,
+    "wof:lastmodified":1706239397,
     "wof:name":"Donghu",
     "wof:parent_id":890516575,
     "wof:placetype":"locality",
@@ -79,7 +96,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293481199
+    ],
     "wof:tags":[]
 },
   "bbox": [

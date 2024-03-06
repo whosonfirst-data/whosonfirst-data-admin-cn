@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1550055
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11112818
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"6358039698cb782cac06da386236f9b7",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1259979595,
-    "wof:lastmodified":1566698458,
+    "wof:lastmodified":1706239452,
     "wof:name":"Sihoucun",
     "wof:parent_id":890514777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276767875
+    ],
     "wof:tags":[]
 },
   "bbox": [

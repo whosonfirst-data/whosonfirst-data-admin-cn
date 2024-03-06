@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1814550
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8537891
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"5c56712b86a436a674d869351dfee6b6",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1343667027,
-    "wof:lastmodified":1566660981,
+    "wof:lastmodified":1706239480,
     "wof:name":"Dachaishu",
     "wof:parent_id":890514777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360108437
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u5e97\u5b50\u53c9"
     ],
+    "name:zho_x_preferred":[
+        "\u5e97\u5b50\u5c94"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669769,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7446123
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7369457
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"ab3cbf3178b002ee06b95631ef50d587",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1293055763,
-    "wof:lastmodified":1566669893,
+    "wof:lastmodified":1706239464,
     "wof:name":"Dianzicha",
     "wof:parent_id":890516525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310556191
+    ],
     "wof:tags":[]
 },
   "bbox": [

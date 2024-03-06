@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u77f3\u6cb3\u5cea"
     ],
+    "name:zho_x_preferred":[
+        "\u77f3\u6cb3\u5cea"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -39,6 +42,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9116722
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9120790
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"d456b466ca44e69b5796a4f8b0475cb7",
@@ -49,13 +57,15 @@
         }
     ],
     "wof:id":1209171385,
-    "wof:lastmodified":1566683952,
+    "wof:lastmodified":1706239404,
     "wof:name":"Shiheyu",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326797931
+    ],
     "wof:tags":[]
 },
   "bbox": [

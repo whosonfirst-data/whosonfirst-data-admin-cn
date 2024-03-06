@@ -11,6 +11,7 @@
     "geom:longitude":119.95935,
     "gn:admin1_code":"2.0",
     "gn:asciiname":"Wukang",
+    "gn:cc2":"CN",
     "gn:country_code":"CN",
     "gn:dem":8,
     "gn:feature_class":"P",
@@ -47,6 +48,11 @@
     "wof:concordances":{
         "gn:id":1791156
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1904741
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"7d5f9c84b13a0878fa5de693f68aadc8",
     "wof:hierarchy":[
@@ -56,13 +62,15 @@
         }
     ],
     "wof:id":1209114481,
-    "wof:lastmodified":1566682882,
+    "wof:lastmodified":1706239403,
     "wof:name":"Wukang",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360093499
+    ],
     "wof:tags":[]
 },
   "bbox": [

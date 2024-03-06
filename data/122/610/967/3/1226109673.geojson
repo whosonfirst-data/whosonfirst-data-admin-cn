@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u4ec1\u65fa"
     ],
+    "name:zho_x_preferred":[
+        "\u4ec1\u65fa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669813,
@@ -44,8 +47,13 @@
     "wof:concordances":{
         "gn:id":9115888
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9122249
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"af368110f07e21941a37db2a19291c5d",
+    "wof:geomhash":"b4ff76d62119300c109a4b29bd9bc512",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +65,22 @@
         }
     ],
     "wof:id":1226109673,
-    "wof:lastmodified":1566701199,
+    "wof:lastmodified":1706239422,
     "wof:name":"Renwang",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326997551
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    119.12288999999998,
+    119.12289,
     35.90863,
-    119.12288999999998,
+    119.12289,
     35.90863
 ],
-  "geometry": {"coordinates":[119.12288999999998,35.90863],"type":"Point"}
+  "geometry": {"coordinates":[119.12289,35.90863],"type":"Point"}
 }

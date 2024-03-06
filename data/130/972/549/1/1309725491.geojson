@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1556516
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10416588
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"1b4640eb4e2bc1fd228b83febef7ab69",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1309725491,
-    "wof:lastmodified":1566693523,
+    "wof:lastmodified":1706239470,
     "wof:name":"Luyingcun",
     "wof:parent_id":890513329,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310115283
+    ],
     "wof:tags":[]
 },
   "bbox": [

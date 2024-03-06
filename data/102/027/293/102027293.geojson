@@ -10,7 +10,9 @@
     "geom:latitude":30.898093,
     "geom:longitude":106.122317,
     "gn:population":7150000,
+    "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"106.063511,30.771838,106.103511,30.811838",
     "lbl:latitude":30.812636,
     "lbl:longitude":106.089599,
     "lbl:max_zoom":12.0,
@@ -307,7 +309,18 @@
     "qs:loc":"Nanchong",
     "qs:loc_alt":"\u5357\u5145\u5e02",
     "qs:loc_lc":"1800146",
+    "qs:name":"\u5357\u5145",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u56db\u5ddd\u7701",
+    "qs:photos":72,
+    "qs:photos_1k":15,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":72,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
@@ -331,6 +344,14 @@
         "wd:id":"Q426996",
         "wk:page":"Nanchong"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2158440
+        ],
+        "qs_pg:id":[
+            1024555
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"3fad909fd9846cf3ac154a5f309d60ef",
     "wof:hierarchy":[
@@ -344,7 +365,7 @@
         }
     ],
     "wof:id":102027293,
-    "wof:lastmodified":1636503584,
+    "wof:lastmodified":1706239394,
     "wof:megacity":1,
     "wof:name":"Nanchong",
     "wof:parent_id":890511853,
@@ -354,7 +375,9 @@
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:scale":4,
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890515025
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1557186
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10418011
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"f2651979cfec3314810bfa38721fd373",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1226553707,
-    "wof:lastmodified":1566704785,
+    "wof:lastmodified":1706239430,
     "wof:name":"Guchengcun",
     "wof:parent_id":890516677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242591051
+    ],
     "wof:tags":[]
 },
   "bbox": [

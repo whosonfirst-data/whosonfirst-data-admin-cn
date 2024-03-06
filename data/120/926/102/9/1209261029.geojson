@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1940693
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6787173
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"536602303c530822596a0eb868164961",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1209261029,
-    "wof:lastmodified":1566683714,
+    "wof:lastmodified":1706239405,
     "wof:name":"Tianyang",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293242397
+    ],
     "wof:tags":[]
 },
   "bbox": [

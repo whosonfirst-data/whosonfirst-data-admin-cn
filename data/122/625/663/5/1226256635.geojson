@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Qingliang"
+    ],
     "name:zho_x_preferred":[
         "\u6e05\u51c9\u6751"
     ],
@@ -44,6 +47,11 @@
     "wof:concordances":{
         "gn:id":10359332
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1554116
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"2b02c46b2f52080ad9aea085f3de0016",
     "wof:hierarchy":[
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1226256635,
-    "wof:lastmodified":1566703776,
+    "wof:lastmodified":1706239425,
     "wof:name":"Qingliangcun",
     "wof:parent_id":890515831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293797303
+    ],
     "wof:tags":[]
 },
   "bbox": [

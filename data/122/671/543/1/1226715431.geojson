@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":2053581
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11490550
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"e4fbafda09d5dcad726c65a30ac025cf",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1226715431,
-    "wof:lastmodified":1566704148,
+    "wof:lastmodified":1706239431,
     "wof:name":"Laoxidiancun",
     "wof:parent_id":890515907,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326995581
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7320962
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1885639
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"26c45164cc036c64c98338bb8e35d882",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1226651221,
-    "wof:lastmodified":1566705372,
+    "wof:lastmodified":1706239431,
     "wof:name":"Yuanjiazhuang",
     "wof:parent_id":890515155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343963157
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -29,8 +29,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Hs\u00fc-chuang",
+        "Xuzhuang",
+        "Xuyangzhuang",
+        "Xuyang"
+    ],
     "name:zho_x_preferred":[
         "\u5f90\u6768\u5e84"
+    ],
+    "name:zho_x_variant":[
+        "\u5f90\u6768"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -43,6 +52,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9133219
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1787819
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"d4ea2d9e784f7504f7d6e99e0a0379e0",
@@ -57,13 +71,15 @@
         }
     ],
     "wof:id":1292994093,
-    "wof:lastmodified":1566670374,
+    "wof:lastmodified":1706239463,
     "wof:name":"Xuyangzhuang",
     "wof:parent_id":890511887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310293799
+    ],
     "wof:tags":[]
 },
   "bbox": [

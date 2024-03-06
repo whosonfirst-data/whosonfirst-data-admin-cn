@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u660c\u5c97"
     ],
+    "name:zho_x_preferred":[
+        "\u660c\u5c97"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669835,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6969887
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7069036
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"0f5c5fe1ae8a056b322df6ebef367617",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1326842431,
-    "wof:lastmodified":1566652498,
+    "wof:lastmodified":1706239476,
     "wof:name":"Changgang",
     "wof:parent_id":890516399,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326933175
+    ],
     "wof:tags":[]
 },
   "bbox": [

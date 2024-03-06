@@ -29,6 +29,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Tzu-hu-k\u2019ou",
+        "Zihukou",
+        "\u7d2b\u6e56\u53e3"
+    ],
     "name:zho_x_preferred":[
         "\u7d2b\u6e56\u53e3"
     ],
@@ -44,6 +49,11 @@
     "wof:concordances":{
         "gn:id":7065292
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1783735
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"bebaf6661b85ddf9db35e2448ce1d937",
     "wof:hierarchy":[
@@ -57,13 +67,15 @@
         }
     ],
     "wof:id":1226149531,
-    "wof:lastmodified":1566703558,
+    "wof:lastmodified":1706239423,
     "wof:name":"Zihukou",
     "wof:parent_id":890515869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226749225
+    ],
     "wof:tags":[]
 },
   "bbox": [

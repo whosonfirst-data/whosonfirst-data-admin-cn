@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":1914542
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6926745
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"8f3603009a9e51f7797ab6ac815b9760",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1226502307,
-    "wof:lastmodified":1566702653,
+    "wof:lastmodified":1706239429,
     "wof:name":"Fenjie",
     "wof:parent_id":890514727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242727989
+    ],
     "wof:tags":[]
 },
   "bbox": [

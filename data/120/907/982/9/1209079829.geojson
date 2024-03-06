@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":7930247
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7930193
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"345bcacb54b24f667b6c69f8083fa901",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1209079829,
-    "wof:lastmodified":1566678898,
+    "wof:lastmodified":1706239402,
     "wof:name":"Galung",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344230651
+    ],
     "wof:tags":[]
 },
   "bbox": [

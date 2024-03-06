@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"118.778686,32.049334,118.778686,32.049334",
@@ -15,7 +17,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nanjing"
@@ -35,11 +37,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85669827,
         102191569,
         85632695,
-        890516425,
         136253041,
-        85669827
+        890516425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":890513017,
-    "wof:lastmodified":1601423033,
+    "wof:lastmodified":1706239394,
     "wof:name":"Nanjing",
     "wof:parent_id":890516425,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102027291
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

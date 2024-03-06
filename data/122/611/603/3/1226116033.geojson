@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":8059147
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8059146
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"afd06fe9ea80ab37a8c53e793a5407be",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1226116033,
-    "wof:lastmodified":1566701820,
+    "wof:lastmodified":1706239422,
     "wof:name":"Gyonda",
     "wof:parent_id":890514545,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277046311
+    ],
     "wof:tags":[]
 },
   "bbox": [

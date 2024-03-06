@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":2033990
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10931818
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"53ee93f52852c7fd112f6781cd6701f1",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1225867325,
-    "wof:lastmodified":1566702681,
+    "wof:lastmodified":1706239419,
     "wof:name":"Xiaochengzi",
     "wof:parent_id":890516735,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242575705
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":9934723
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9934729
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"734c4cc5f448063caa7ae11266203fdc",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209484715,
-    "wof:lastmodified":1566680182,
+    "wof:lastmodified":1706239410,
     "wof:name":"Qiaolin",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259848817
+    ],
     "wof:tags":[]
 },
   "bbox": [

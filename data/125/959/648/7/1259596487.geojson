@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":1552645
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10651136
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"7d56f1efe5daf631950924a45298f257",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1259596487,
-    "wof:lastmodified":1566699614,
+    "wof:lastmodified":1706239449,
     "wof:name":"Chihucun",
     "wof:parent_id":890513093,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343372271
+    ],
     "wof:tags":[]
 },
   "bbox": [

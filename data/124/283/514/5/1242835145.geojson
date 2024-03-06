@@ -38,6 +38,9 @@
     "name:swe_x_preferred":[
         "Gaoqiao"
     ],
+    "name:und_x_variant":[
+        "\u9ad8\u6865"
+    ],
     "name:zho_x_preferred":[
         "\u9ad8\u6865"
     ],
@@ -53,6 +56,11 @@
     "wof:concordances":{
         "gn:id":7067105
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6999355
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"f8c32fe148a4b1c8d79b470f4118570f",
     "wof:hierarchy":[
@@ -66,13 +74,15 @@
         }
     ],
     "wof:id":1242835145,
-    "wof:lastmodified":1566696648,
+    "wof:lastmodified":1706239436,
     "wof:name":"Gaoqiao",
     "wof:parent_id":890512033,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310251757
+    ],
     "wof:tags":[]
 },
   "bbox": [

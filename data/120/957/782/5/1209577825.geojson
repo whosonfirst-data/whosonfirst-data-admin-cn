@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":11490461
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2053582
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"06e2d78413819894bddfdce9c26809b3",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209577825,
-    "wof:lastmodified":1566681567,
+    "wof:lastmodified":1706239411,
     "wof:name":"Shanzuicun",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260244181
+    ],
     "wof:tags":[]
 },
   "bbox": [

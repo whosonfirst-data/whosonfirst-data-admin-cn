@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1558225
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10360375
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"40e0e5bbfa1ef9f8047702968f794fe2",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1209529533,
-    "wof:lastmodified":1566679998,
+    "wof:lastmodified":1706239410,
     "wof:name":"Qingweicun",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243567843
+    ],
     "wof:tags":[]
 },
   "bbox": [

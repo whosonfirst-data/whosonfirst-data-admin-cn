@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u4e03\u91cc\u5ddd\u6751"
     ],
+    "name:zho_x_preferred":[
+        "\u4e03\u91cc\u5ddd\u6751"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669769,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7446175
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1798010
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"d899c32ba8d8e25d44073239b9d4459f",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1209882881,
-    "wof:lastmodified":1566684141,
+    "wof:lastmodified":1706239414,
     "wof:name":"Qilichuancun",
     "wof:parent_id":890516525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225812161
+    ],
     "wof:tags":[]
 },
   "bbox": [

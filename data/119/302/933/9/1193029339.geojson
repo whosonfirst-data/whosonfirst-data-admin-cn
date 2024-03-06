@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1557583
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10417031
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"ae71a8138932558d8469c729dab91e1b",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1193029339,
-    "wof:lastmodified":1566685475,
+    "wof:lastmodified":1706239399,
     "wof:name":"Gexucun",
     "wof:parent_id":890515831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293887535
+    ],
     "wof:tags":[]
 },
   "bbox": [

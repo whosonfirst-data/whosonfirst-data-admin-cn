@@ -34,6 +34,9 @@
         "Dukou",
         "\u6e0e\u53e3"
     ],
+    "name:zho_x_preferred":[
+        "\u6e0e\u53e3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669823,
@@ -45,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1811869
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7065416
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"d44ca7f455775434bd2f5b617681e103",
@@ -59,13 +67,15 @@
         }
     ],
     "wof:id":1226652573,
-    "wof:lastmodified":1566705342,
+    "wof:lastmodified":1706239431,
     "wof:name":"Dukou",
     "wof:parent_id":890515869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310703299
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -127,6 +127,11 @@
     "wof:concordances":{
         "gn:id":1805845
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1547712
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"e9169b89a79a0f48aabf33078a5cca14",
     "wof:hierarchy":[
@@ -140,13 +145,15 @@
         }
     ],
     "wof:id":1310601325,
-    "wof:lastmodified":1636504214,
+    "wof:lastmodified":1706239474,
     "wof:name":"Jieshou",
     "wof:parent_id":890516397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360184729
+    ],
     "wof:tags":[]
 },
   "bbox": [

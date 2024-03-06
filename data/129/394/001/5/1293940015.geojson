@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1807799
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11135515
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"4bcfaa8da9c2a0f29f8063916e114839",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1293940015,
-    "wof:lastmodified":1566669623,
+    "wof:lastmodified":1706239469,
     "wof:name":"Houshicun",
     "wof:parent_id":890516587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343528121
+    ],
     "wof:tags":[]
 },
   "bbox": [

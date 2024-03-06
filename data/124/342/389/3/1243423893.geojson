@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":9911668
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9911670
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"7d49322c778d53c13f23a5b83bf5c32b",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1243423893,
-    "wof:lastmodified":1566697510,
+    "wof:lastmodified":1706239445,
     "wof:name":"Lahao",
     "wof:parent_id":1108732453,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343939395
+    ],
     "wof:tags":[]
 },
   "bbox": [

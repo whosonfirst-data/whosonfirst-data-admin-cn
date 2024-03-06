@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Sha-tzu-kang",
+        "Shazigang",
+        "\u6c99\u5b50\u5c97",
+        "Shazigangcun"
+    ],
     "name:zho_x_preferred":[
         "\u6c99\u5b50\u5c97\u6751"
     ],
@@ -44,6 +50,11 @@
     "wof:concordances":{
         "gn:id":11566200
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2052238
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"d92fa92c1b7bbb14034160e1cfafa83d",
     "wof:hierarchy":[
@@ -57,13 +68,15 @@
         }
     ],
     "wof:id":1327208609,
-    "wof:lastmodified":1566655329,
+    "wof:lastmodified":1706239478,
     "wof:name":"Shazigangcun",
     "wof:parent_id":890514725,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343737043
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Changchong"
+    ],
     "name:zho_x_preferred":[
         "\u957f\u51b2\u6751"
     ],
@@ -40,6 +43,11 @@
     "wof:concordances":{
         "gn:id":10635264
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1555142
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"8b74e76d20392af816a796f5e7495df3",
     "wof:hierarchy":[
@@ -49,13 +57,15 @@
         }
     ],
     "wof:id":1209109989,
-    "wof:lastmodified":1566684065,
+    "wof:lastmodified":1706239403,
     "wof:name":"Changchongcun",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260093999
+    ],
     "wof:tags":[]
 },
   "bbox": [

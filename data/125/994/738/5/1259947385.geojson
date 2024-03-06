@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u94e8\u56ed"
     ],
+    "name:zho_x_preferred":[
+        "\u94e8\u56ed"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669813,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9116519
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9122634
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"ff8d8697caca7a344110a50a2f7e6b6d",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1259947385,
-    "wof:lastmodified":1566699880,
+    "wof:lastmodified":1706239451,
     "wof:name":"Quanyuan",
     "wof:parent_id":890514757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276826421
+    ],
     "wof:tags":[]
 },
   "bbox": [

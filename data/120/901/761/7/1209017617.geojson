@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1554740
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10649844
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"e61feb0408e7aa4b5e492b2d2026ecb8",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1209017617,
-    "wof:lastmodified":1566679362,
+    "wof:lastmodified":1706239401,
     "wof:name":"Huashancun",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293213905
+    ],
     "wof:tags":[]
 },
   "bbox": [

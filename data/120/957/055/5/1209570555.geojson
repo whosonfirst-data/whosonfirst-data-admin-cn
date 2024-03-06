@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "\u77f3\u6865\u5b98\u5e84"
     ],
+    "name:zho_x_preferred":[
+        "\u77f3\u6865\u5b98\u5e84"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632695
@@ -39,6 +42,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9116529
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9123043
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"5fd728ac6df2b07f3cb601516bb179e7",
@@ -49,13 +57,15 @@
         }
     ],
     "wof:id":1209570555,
-    "wof:lastmodified":1566681556,
+    "wof:lastmodified":1706239411,
     "wof:name":"Shiqiao Guanzhuang",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260135237
+    ],
     "wof:tags":[]
 },
   "bbox": [

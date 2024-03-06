@@ -11,7 +11,9 @@
     "geom:longitude":113.87514,
     "gn:latitude":30.49999,
     "gn:longitude":108.27278,
+    "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"113.845294,35.290607,113.885294,35.330607",
     "lbl:latitude":35.299443,
     "lbl:longitude":113.877364,
     "lbl:max_zoom":18.0,
@@ -211,7 +213,18 @@
     "qs:level":"locality",
     "qs:loc":"Xinxiang",
     "qs:loc_lc":"8403878",
+    "qs:name":"\u65b0\u4e61",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u6cb3\u5357\u7701",
+    "qs:photos":153,
+    "qs:photos_1k":31,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":153,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -234,7 +247,12 @@
         "wd:id":"Q404362"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1246267
+        "gp:id":[
+            2172739
+        ],
+        "qs_pg:id":[
+            1130046
+        ]
     },
     "wof:country":"CN",
     "wof:geom_alt":[
@@ -252,13 +270,15 @@
         }
     ],
     "wof:id":102028169,
-    "wof:lastmodified":1636503602,
+    "wof:lastmodified":1706239396,
     "wof:name":"Xinxiang",
     "wof:parent_id":890515625,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890515623
+    ],
     "wof:tags":[]
 },
   "bbox": [

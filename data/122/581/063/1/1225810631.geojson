@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":2038636
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11485663
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"6cc688675f2fe0673ce41da0414f0929",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1225810631,
-    "wof:lastmodified":1566702712,
+    "wof:lastmodified":1706239417,
     "wof:name":"Anmincun",
     "wof:parent_id":890514741,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226811451
+    ],
     "wof:tags":[]
 },
   "bbox": [

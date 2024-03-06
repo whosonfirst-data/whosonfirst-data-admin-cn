@@ -10,7 +10,9 @@
     "geom:latitude":24.904515,
     "geom:longitude":118.60307,
     "gn:population":184143,
+    "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"118.562817,24.889481,118.602817,24.929481",
     "lbl:latitude":24.902681,
     "lbl:longitude":118.591706,
     "lbl:max_zoom":14.0,
@@ -375,7 +377,18 @@
     "qs:loc":"Quanzhou",
     "qs:loc_alt":"\u6cc9\u5dde\u5e02",
     "qs:loc_lc":"1797353",
+    "qs:name":"\u6cc9\u5dde\u5e02",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u798f\u5efa\u7701",
+    "qs:photos":857,
+    "qs:photos_1k":174,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":857,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
     "src:geom":"quattroshapes",
@@ -401,6 +414,14 @@
         "wd:id":"Q68695",
         "wk:page":"Quanzhou"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2139965
+        ],
+        "qs_pg:id":[
+            900445
+        ]
+    },
     "wof:country":"CN",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -417,7 +438,7 @@
         }
     ],
     "wof:id":102027215,
-    "wof:lastmodified":1636503593,
+    "wof:lastmodified":1706239393,
     "wof:megacity":1,
     "wof:name":"Quanzhou",
     "wof:parent_id":890514127,
@@ -427,7 +448,9 @@
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:scale":4,
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890515997
+    ],
     "wof:tags":[]
 },
   "bbox": [

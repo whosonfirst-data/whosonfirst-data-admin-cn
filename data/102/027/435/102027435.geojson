@@ -10,7 +10,9 @@
     "geom:latitude":29.547164,
     "geom:longitude":116.068063,
     "gn:population":258807,
+    "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"115.956786,29.695833,115.996786,29.735833",
     "lbl:latitude":29.339083,
     "lbl:longitude":116.416769,
     "lbl:max_zoom":13.0,
@@ -313,7 +315,18 @@
     "qs:loc":"Jiujiang",
     "qs:loc_alt":"\u4e5d\u6c5f\u5e02",
     "qs:loc_lc":"1805179",
+    "qs:name":"\u4e5d\u6c5f\u5e02",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u6c5f\u897f\u7701",
+    "qs:photos":257,
+    "qs:photos_1k":52,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":257,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
@@ -338,6 +351,14 @@
         "wd:id":"Q216077",
         "wk:page":"Jiujiang"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2133710
+        ],
+        "qs_pg:id":[
+            900435
+        ]
+    },
     "wof:country":"CN",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -354,7 +375,7 @@
         }
     ],
     "wof:id":102027435,
-    "wof:lastmodified":1636503599,
+    "wof:lastmodified":1706239394,
     "wof:name":"Jiujiang",
     "wof:parent_id":890516935,
     "wof:placetype":"locality",
@@ -362,7 +383,9 @@
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890516431
+    ],
     "wof:tags":[]
 },
   "bbox": [

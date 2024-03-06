@@ -38,6 +38,9 @@
         "Zhapo",
         "\u95f8\u5761"
     ],
+    "name:zho_x_preferred":[
+        "\u95f8\u5761"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669743,
@@ -49,6 +52,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1784803
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6849233
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"aa2a502c8a30de00b7a0ebd601d4138d",
@@ -63,13 +71,15 @@
         }
     ],
     "wof:id":1309965743,
-    "wof:lastmodified":1566692377,
+    "wof:lastmodified":1706239471,
     "wof:name":"Zhapo",
     "wof:parent_id":890516345,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326680075
+    ],
     "wof:tags":[]
 },
   "bbox": [

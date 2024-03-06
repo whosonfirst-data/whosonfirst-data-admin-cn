@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1555893
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10634768
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"703e6440818852e1551a115b75f83399",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1293102641,
-    "wof:lastmodified":1566671605,
+    "wof:lastmodified":1706239464,
     "wof:name":"Dawancun",
     "wof:parent_id":890513745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310115311
+    ],
     "wof:tags":[]
 },
   "bbox": [

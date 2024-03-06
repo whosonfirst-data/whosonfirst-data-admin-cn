@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7367695
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7446112
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"69fe61e2bd803d91554906400d11ac5d",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1343318727,
-    "wof:lastmodified":1566655941,
+    "wof:lastmodified":1706239479,
     "wof:name":"Zhuangfangliang",
     "wof:parent_id":890516525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344012895
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -47,8 +47,13 @@
     "wof:concordances":{
         "gn:id":1557618
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10415518
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"97ccbc7eae3353466ddd7ac0d022b6b5",
+    "wof:geomhash":"86f756f9bd6cd9af9543295d2f8d21e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,20 +65,22 @@
         }
     ],
     "wof:id":1225957783,
-    "wof:lastmodified":1566700869,
+    "wof:lastmodified":1706239420,
     "wof:name":"Xingoucun",
     "wof:parent_id":890515831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226549213
+    ],
     "wof:tags":[]
 },
   "bbox": [
     116.9455,
-    33.08920999999999,
+    33.08921,
     116.9455,
-    33.08920999999999
+    33.08921
 ],
-  "geometry": {"coordinates":[116.9455,33.08920999999999],"type":"Point"}
+  "geometry": {"coordinates":[116.9455,33.08921],"type":"Point"}
 }

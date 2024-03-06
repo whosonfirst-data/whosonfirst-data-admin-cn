@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":7090369
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10811570
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"718574022a9a17b3c81356d2cd048e78",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1276121805,
-    "wof:lastmodified":1566676711,
+    "wof:lastmodified":1706239455,
     "wof:name":"Linhecun",
     "wof:parent_id":1108732553,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326543431
+    ],
     "wof:tags":[]
 },
   "bbox": [

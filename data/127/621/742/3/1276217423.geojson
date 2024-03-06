@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":8523464
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8523218
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"f533b286d9f3e8036225381aa2b01840",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1276217423,
-    "wof:lastmodified":1566673125,
+    "wof:lastmodified":1706239456,
     "wof:name":"Xinjie",
     "wof:parent_id":890514875,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293475115
+    ],
     "wof:tags":[]
 },
   "bbox": [

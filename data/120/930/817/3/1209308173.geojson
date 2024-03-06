@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1932696
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6721727
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"c0b3ea0c355b2eac9bf45a0dbdb6f5a3",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1209308173,
-    "wof:lastmodified":1566679579,
+    "wof:lastmodified":1706239406,
     "wof:name":"Fuqiao",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209707063
+    ],
     "wof:tags":[]
 },
   "bbox": [

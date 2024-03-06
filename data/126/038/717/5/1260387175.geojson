@@ -29,7 +29,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Nuanmutiaozi",
+        "Nuanmu Tiaozicun"
+    ],
     "name:zho_x_preferred":[
+        "\u6696\u6728\u6761\u5b50\u6751"
+    ],
+    "name:zho_x_variant":[
         "\u6696\u6728\u6761\u5b50\u6751"
     ],
     "src:geom":"geonames",
@@ -44,6 +51,11 @@
     "wof:concordances":{
         "gn:id":11019667
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2035558
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"18048f7b17888e96bdae07027d838463",
     "wof:hierarchy":[
@@ -57,13 +69,15 @@
         }
     ],
     "wof:id":1260387175,
-    "wof:lastmodified":1566686646,
+    "wof:lastmodified":1706239455,
     "wof:name":"Nuanmu Tiaozicun",
     "wof:parent_id":890516735,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277004505
+    ],
     "wof:tags":[]
 },
   "bbox": [

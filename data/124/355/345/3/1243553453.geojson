@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":2037914
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10931918
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"56e3a750a19d52729c0f0e22f558379a",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1243553453,
-    "wof:lastmodified":1566694338,
+    "wof:lastmodified":1706239446,
     "wof:name":"Dalongcun",
     "wof:parent_id":890514235,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260387257
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -29,6 +29,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Chou-chuang-hu-chi",
+        "Chou-chuang",
+        "Chou-chuang-chi",
+        "Zhouzhuang",
+        "Zhouzhuangcun"
+    ],
     "name:zho_x_preferred":[
         "\u5468\u5e84\u6751"
     ],
@@ -44,6 +51,11 @@
     "wof:concordances":{
         "gn:id":10358222
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1784071
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"543d100816c1b0af45c55abe4b044555",
     "wof:hierarchy":[
@@ -57,13 +69,15 @@
         }
     ],
     "wof:id":1276127947,
-    "wof:lastmodified":1566676723,
+    "wof:lastmodified":1706239456,
     "wof:name":"Zhouzhuangcun",
     "wof:parent_id":890515831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344060739
+    ],
     "wof:tags":[]
 },
   "bbox": [

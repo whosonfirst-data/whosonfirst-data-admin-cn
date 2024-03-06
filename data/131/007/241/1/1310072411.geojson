@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1811656
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7445500
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"40cd485bc52aef168ade412fa6499a69",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1310072411,
-    "wof:lastmodified":1566688872,
+    "wof:lastmodified":1706239472,
     "wof:name":"Ershilipucun",
     "wof:parent_id":890515099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310655433
+    ],
     "wof:tags":[]
 },
   "bbox": [

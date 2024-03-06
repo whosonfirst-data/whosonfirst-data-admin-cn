@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "\u4e1c\u4ef2\u91d1\u53e3"
+    ],
     "name:zho_x_preferred":[
         "\u4e1c\u4ef2\u91d1\u53e3"
     ],
@@ -45,8 +48,13 @@
     "wof:concordances":{
         "gn:id":8696740
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8707378
+        ]
+    },
     "wof:country":"CN",
-    "wof:geomhash":"65a42f101a68687f653a900b8c58d9d4",
+    "wof:geomhash":"66c3469fd00da0b23297b7ab61498a5e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +66,22 @@
         }
     ],
     "wof:id":1243421687,
-    "wof:lastmodified":1566697444,
+    "wof:lastmodified":1706239445,
     "wof:name":"Dongzhongjinkou",
     "wof:parent_id":890514755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343528817
+    ],
     "wof:tags":[]
 },
   "bbox": [
     119.57902,
-    36.00167000000001,
+    36.00167,
     119.57902,
-    36.00167000000001
+    36.00167
 ],
-  "geometry": {"coordinates":[119.57902,36.00167000000001],"type":"Point"}
+  "geometry": {"coordinates":[119.57902,36.00167],"type":"Point"}
 }

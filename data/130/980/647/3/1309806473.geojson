@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"121.01111,30.70167,121.01111,30.70167",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0646\u063a\u0647\u0648"
@@ -96,7 +98,7 @@
         "wk:page":"Pinghu"
     },
     "wof:country":"CN",
-    "wof:geomhash":"c51cd5b4cfa3ee6a3a58038a60126441",
+    "wof:geomhash":"d58639bdeb6159a79ff01071e0cf08f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,20 +110,22 @@
         }
     ],
     "wof:id":1309806473,
-    "wof:lastmodified":1566693310,
+    "wof:lastmodified":1706239392,
     "wof:name":"Pinghu",
     "wof:parent_id":890514635,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102026861
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    121.01111000000002,
+    121.01111,
     30.70167,
-    121.01111000000002,
+    121.01111,
     30.70167
 ],
-  "geometry": {"coordinates":[121.01111000000002,30.70167],"type":"Point"}
+  "geometry": {"coordinates":[121.01111,30.70167],"type":"Point"}
 }

@@ -37,6 +37,12 @@
         "Songtangcun",
         "\u677e\u5858\u6751"
     ],
+    "name:zho_x_preferred":[
+        "Songtangcun"
+    ],
+    "name:zho_x_variant":[
+        "\u677e\u5858\u6751"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669743,
@@ -48,6 +54,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1793978
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7924511
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"101d571df9acf23ec90041645cca7fb9",
@@ -62,13 +73,15 @@
         }
     ],
     "wof:id":1293843799,
-    "wof:lastmodified":1566667723,
+    "wof:lastmodified":1706239468,
     "wof:name":"Songtangcun",
     "wof:parent_id":890516559,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293929931
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -10,7 +10,9 @@
     "geom:latitude":33.053798,
     "geom:longitude":107.019803,
     "gn:population":145986,
+    "gp:adm0":23424781,
     "iso:country":"CN",
+    "lbl:bbox":"107.009299,33.050701,107.049299,33.090701",
     "lbl:latitude":33.068527,
     "lbl:longitude":107.023315,
     "lbl:max_zoom":14.0,
@@ -301,7 +303,18 @@
     "qs:loc":"Hanzhong",
     "qs:loc_alt":"\u6c49\u4e2d\u5e02",
     "qs:loc_lc":"1808857",
+    "qs:name":"\u6c49\u4e2d",
+    "qs:name_adm0":"\u4e2d\u570b",
+    "qs:name_adm1":"\u965d\u897f\u7701",
+    "qs:photos":32,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":32,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "qs:type":"LocalAdmin",
     "src:geom":"quattroshapes",
@@ -324,6 +337,14 @@
         "wd:id":"Q515573",
         "wk:page":"Hanzhong"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2156955
+        ],
+        "qs_pg:id":[
+            1003007
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"7f9e884c3dfef432ae1f02e664a8db4d",
     "wof:hierarchy":[
@@ -337,7 +358,7 @@
         }
     ],
     "wof:id":102027567,
-    "wof:lastmodified":1636503577,
+    "wof:lastmodified":1706239395,
     "wof:name":"Hanzhong",
     "wof:parent_id":890515099,
     "wof:placetype":"locality",
@@ -345,7 +366,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890514903
+    ],
     "wof:tags":[]
 },
   "bbox": [

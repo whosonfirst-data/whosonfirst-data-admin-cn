@@ -36,6 +36,9 @@
         "Ch\u2019i-t\u2019ou",
         "\u6eaa\u5934"
     ],
+    "name:zho_x_preferred":[
+        "\u6eaa\u5934"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669835,
@@ -47,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1788284
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6982062
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"2ec8f25891b32c841daef409c4c8e6aa",
@@ -61,13 +69,15 @@
         }
     ],
     "wof:id":1276126915,
-    "wof:lastmodified":1566676740,
+    "wof:lastmodified":1706239455,
     "wof:name":"Xitou",
     "wof:parent_id":890516399,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343461579
+    ],
     "wof:tags":[]
 },
   "bbox": [

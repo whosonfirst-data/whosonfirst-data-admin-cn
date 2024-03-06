@@ -111,6 +111,9 @@
     "name:zho_x_preferred":[
         "\u754c\u9996\u5e02"
     ],
+    "name:zho_x_variant":[
+        "\u754c\u9996\u5e02"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669735,
@@ -122,6 +125,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1805847
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6905942
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"b0f4945b7d868c38983f4f8cb22aa23e",
@@ -136,13 +144,15 @@
         }
     ],
     "wof:id":1193271629,
-    "wof:lastmodified":1636504085,
+    "wof:lastmodified":1706239401,
     "wof:name":"Jieshou",
     "wof:parent_id":890516651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310621849
+    ],
     "wof:tags":[]
 },
   "bbox": [

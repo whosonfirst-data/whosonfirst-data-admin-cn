@@ -65,6 +65,9 @@
     "name:vie_x_preferred":[
         "\u0110\u00f4ng Phong"
     ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u5cf0"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669735,
@@ -76,6 +79,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6958399
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7069070
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"989135886963febe1ea2db7e97c4e3bb",
@@ -90,13 +98,15 @@
         }
     ],
     "wof:id":1259900855,
-    "wof:lastmodified":1566698481,
+    "wof:lastmodified":1706239451,
     "wof:name":"Dongfeng",
     "wof:parent_id":890516577,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276862975
+    ],
     "wof:tags":[]
 },
   "bbox": [

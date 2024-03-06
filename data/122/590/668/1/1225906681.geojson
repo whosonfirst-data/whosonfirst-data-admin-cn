@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":2053719
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11515213
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"c6690a4a3d58717cb62a5caae4943009",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1225906681,
-    "wof:lastmodified":1566703256,
+    "wof:lastmodified":1706239420,
     "wof:name":"Shuangtaizicun",
     "wof:parent_id":890514397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242935455
+    ],
     "wof:tags":[]
 },
   "bbox": [

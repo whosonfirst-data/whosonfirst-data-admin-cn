@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":11145867
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11145989
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"1622504b609d91682b5493f5ed8f3b15",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1327440009,
-    "wof:lastmodified":1566654005,
+    "wof:lastmodified":1706239478,
     "wof:name":"Xiatianfan",
     "wof:parent_id":890514633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344159829
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -29,6 +29,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Hu-hu-chi",
+        "Huhuji",
+        "Huhucun"
+    ],
     "name:zho_x_preferred":[
         "\u6248\u80e1\u6751"
     ],
@@ -44,6 +49,11 @@
     "wof:concordances":{
         "gn:id":10417760
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1806896
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"ff4b905bac437dec2ad5059c86637961",
     "wof:hierarchy":[
@@ -57,13 +67,15 @@
         }
     ],
     "wof:id":1310409659,
-    "wof:lastmodified":1566688543,
+    "wof:lastmodified":1706239474,
     "wof:name":"Huhucun",
     "wof:parent_id":890513745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327235411
+    ],
     "wof:tags":[]
 },
   "bbox": [

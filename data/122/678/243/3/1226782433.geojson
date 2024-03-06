@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":1549309
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1549340
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"da3ec54b5bb791ed9a522890397d3527",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1226782433,
-    "wof:lastmodified":1566704197,
+    "wof:lastmodified":1706239432,
     "wof:name":"Xiaoyuan",
     "wof:parent_id":890516333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276985571
+    ],
     "wof:tags":[]
 },
   "bbox": [

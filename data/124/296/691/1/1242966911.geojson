@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":1921022
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2008017
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"72421796eaeceac59e7a18584a41577e",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1242966911,
-    "wof:lastmodified":1566697009,
+    "wof:lastmodified":1706239438,
     "wof:name":"Meilingtou",
     "wof:parent_id":890514127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259378871
+    ],
     "wof:tags":[]
 },
   "bbox": [

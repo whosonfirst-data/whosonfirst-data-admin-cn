@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"127.25635,43.88986,127.25635,43.88986",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u5c0f\u59d1\u5bb6\u6751"
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":1310103739,
-    "wof:lastmodified":1566690182,
+    "wof:lastmodified":1706239470,
     "wof:name":"Xiaogujiacun",
     "wof:parent_id":890516735,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1309711107
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

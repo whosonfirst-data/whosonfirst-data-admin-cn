@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":1913741
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6862546
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"90f555340437a167dd0f114942925769",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209274179,
-    "wof:lastmodified":1566683262,
+    "wof:lastmodified":1706239406,
     "wof:name":"Sancun",
     "wof:parent_id":85632695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226709893
+    ],
     "wof:tags":[]
 },
   "bbox": [

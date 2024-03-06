@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"117.07871,30.29364,117.07871,30.29364",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tuqiao"
@@ -48,7 +50,7 @@
         "gn:id":1554492
     },
     "wof:country":"CN",
-    "wof:geomhash":"7cc2cadb510785e13a349932c799d7b1",
+    "wof:geomhash":"c064235d2198e563227983a025577b52",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,20 +62,22 @@
         }
     ],
     "wof:id":1343872123,
-    "wof:lastmodified":1566663885,
+    "wof:lastmodified":1706239399,
     "wof:name":"Tuqiaocun",
     "wof:parent_id":890513323,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1193140943
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    117.07871000000002,
+    117.07871,
     30.29364,
-    117.07871000000002,
+    117.07871,
     30.29364
 ],
-  "geometry": {"coordinates":[117.07871000000002,30.29364],"type":"Point"}
+  "geometry": {"coordinates":[117.07871,30.29364],"type":"Point"}
 }

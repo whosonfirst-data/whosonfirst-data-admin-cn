@@ -44,6 +44,9 @@
     "name:zho_x_preferred":[
         "\u6842\u82b1"
     ],
+    "name:zho_x_variant":[
+        "\u6842\u82b1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85669739,
@@ -55,6 +58,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1553753
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7675026
+        ]
     },
     "wof:country":"CN",
     "wof:geomhash":"a2c751f11d5abe720f1b437749594c02",
@@ -69,13 +77,15 @@
         }
     ],
     "wof:id":1260186193,
-    "wof:lastmodified":1566687121,
+    "wof:lastmodified":1706239454,
     "wof:name":"Guihua",
     "wof:parent_id":890515063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276561445
+    ],
     "wof:tags":[]
 },
   "bbox": [

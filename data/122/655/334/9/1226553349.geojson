@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Xindianhe"
+    ],
     "name:zho_x_preferred":[
         "\u65b0\u5e97\u6cb3\u6751"
     ],
@@ -44,6 +47,11 @@
     "wof:concordances":{
         "gn:id":10634991
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1555836
+        ]
+    },
     "wof:country":"CN",
     "wof:geomhash":"dfd63122be5a0095a3d69066ddaa2aa4",
     "wof:hierarchy":[
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1226553349,
-    "wof:lastmodified":1566704792,
+    "wof:lastmodified":1706239429,
     "wof:name":"Xindianhecun",
     "wof:parent_id":890513745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243376995
+    ],
     "wof:tags":[]
 },
   "bbox": [

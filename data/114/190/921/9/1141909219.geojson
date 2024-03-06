@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"94.662015,40.142678,94.662015,40.142678",
@@ -16,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Dunhuang"
@@ -275,12 +277,14 @@
         }
     ],
     "wof:id":1141909219,
-    "wof:lastmodified":1636504646,
+    "wof:lastmodified":1706239392,
     "wof:name":"Dunhuang",
     "wof:parent_id":890515159,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102026839
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
