@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.6,
+    "name:eng_x_preferred":[
+        "Shizuishan"
+    ],
     "name:und_x_variant":[
         "Shitszuyshan\u2019"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u5634\u5c71"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -124,13 +130,14 @@
     "qs:photos_sr":0,
     "qs:placetype":"Town",
     "qs:pop_sr":"9",
+    "src:geom":"unknown",
     "src:population":"geonames",
     "wof:belongsto":[
-        85669763,
         102191569,
         85632695,
+        890514111,
         136253041,
-        890514111
+        85669763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -152,8 +159,8 @@
         }
     ],
     "wof:id":890516261,
-    "wof:lastmodified":1566693609,
-    "wof:name":"\u77f3\u5634\u5c71",
+    "wof:lastmodified":1722297650,
+    "wof:name":"Shizuishan",
     "wof:parent_id":890514111,
     "wof:placetype":"locality",
     "wof:population":136570,
