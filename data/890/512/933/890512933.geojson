@@ -20,8 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Wanzhou"
+    ],
+    "name:eng_x_variant":[
+        "Wanxian"
+    ],
     "name:und_x_variant":[
         "Wan"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e07"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -126,13 +135,14 @@
     "qs:photos_sr":6,
     "qs:placetype":"Town",
     "qs:pop_sr":"11",
+    "src:geom":"unknown",
     "src:population":"geonames",
     "wof:belongsto":[
-        85669725,
         102191569,
         85632695,
+        890513063,
         136253041,
-        890513063
+        85669725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -154,7 +164,7 @@
         }
     ],
     "wof:id":890512933,
-    "wof:lastmodified":1566693751,
+    "wof:lastmodified":1722298005,
     "wof:name":"\u4e07",
     "wof:parent_id":890513063,
     "wof:placetype":"locality",
