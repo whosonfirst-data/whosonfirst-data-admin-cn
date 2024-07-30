@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Jining"
+    ],
     "name:rus_x_preferred":[
         "\u0426\u0437\u0438\u043d\u0438\u043d"
     ],
     "name:und_x_variant":[
         "Chi-ning"
+    ],
+    "name:zho_x_preferred":[
+        "\u96c6\u5b81"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"China",
@@ -129,13 +135,14 @@
     "qs:photos_sr":3,
     "qs:placetype":"Town",
     "qs:pop_sr":"10",
+    "src:geom":"unknown",
     "src:population":"geonames",
     "wof:belongsto":[
-        85669847,
         102191569,
         85632695,
+        1108732343,
         136253041,
-        1108732343
+        85669847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -157,8 +164,8 @@
         }
     ],
     "wof:id":890516445,
-    "wof:lastmodified":1566693632,
-    "wof:name":"\u96c6\u5b81",
+    "wof:lastmodified":1722297807,
+    "wof:name":"Jining",
     "wof:parent_id":1108732343,
     "wof:placetype":"locality",
     "wof:population":258757,
