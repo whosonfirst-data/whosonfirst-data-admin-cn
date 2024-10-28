@@ -35,6 +35,12 @@
     "name:deu_x_preferred":[
         "Zhongmu"
     ],
+    "name:eng_x_preferred":[
+        "Zhongmu"
+    ],
+    "name:eng_x_variant":[
+        "Zhongmu County"
+    ],
     "name:eus_x_preferred":[
         "Zhongmu konderria"
     ],
@@ -64,11 +70,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85669801,
         102191569,
         85632695,
+        890515627,
         136253041,
-        890515627
+        85669801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,8 +94,8 @@
         }
     ],
     "wof:id":1343479511,
-    "wof:lastmodified":1566660409,
-    "wof:name":"Zhongmu County",
+    "wof:lastmodified":1730095015,
+    "wof:name":"Zhongmu",
     "wof:parent_id":890515627,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cn",
