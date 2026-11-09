@@ -157,9 +157,8 @@
     "wof:belongsto":[
         102191569,
         85632695,
-        1108732371,
-        136253041,
-        85669727
+        85669727,
+        136253041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -175,7 +174,6 @@
         {
             "continent_id":102191569,
             "country_id":85632695,
-            "county_id":1108732371,
             "empire_id":136253041,
             "localadmin_id":890512045,
             "region_id":85669727
@@ -184,7 +182,7 @@
     "wof:id":890512045,
     "wof:lastmodified":1587428661,
     "wof:name":"Xicheng Qu",
-    "wof:parent_id":1108732371,
+    "wof:parent_id":85669727,
     "wof:placetype":"localadmin",
     "wof:population":1233000,
     "wof:population_rank":12,

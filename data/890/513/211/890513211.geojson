@@ -108,8 +108,7 @@
         85669727,
         102191569,
         85632695,
-        136253041,
-        1108732371
+        136253041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +124,6 @@
         {
             "continent_id":102191569,
             "country_id":85632695,
-            "county_id":1108732371,
             "empire_id":136253041,
             "localadmin_id":890513211,
             "region_id":85669727
@@ -134,7 +132,7 @@
     "wof:id":890513211,
     "wof:lastmodified":1566693702,
     "wof:name":"\u623f\u5c71\u533a",
-    "wof:parent_id":1108732371,
+    "wof:parent_id":85669727,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-cn",
     "wof:superseded_by":[],
