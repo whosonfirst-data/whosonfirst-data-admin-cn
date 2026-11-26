@@ -20,6 +20,18 @@
     "lbl:longitude":107.331791,
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
+    "mailwoman:sources":[
+        {
+            "citation":"Wikidata, the item of this prefecture-level city: English label and item id, read on 2026-11-26. Bayannur is the city's official romanization, from Mongolian, and Bayannao'er is the pinyin of its Chinese name.",
+            "property":"wof:name",
+            "url":"https://www.wikidata.org/wiki/Q571126"
+        },
+        {
+            "citation":"Wikidata, the item of this prefecture-level city: English label and item id, read on 2026-11-26. Bayannur is the city's official romanization, from Mongolian, and Bayannao'er is the pinyin of its Chinese name.",
+            "property":"wof:concordances",
+            "url":"https://www.wikidata.org/wiki/Q571126"
+        }
+    ],
     "meso:adm1_loc":"\u5185\u8499\u53e4\u81ea\u6cbb\u533a",
     "meso:dissme":"\u5df4\u5f66\u6dd6\u5c14\u5e02\u5185\u8499\u53e4\u81ea\u6cbb\u533a",
     "meso:gadm_adm2":"Baynnur",
@@ -46,7 +58,13 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
-        "Bayannaoer"
+        "Bayannur"
+    ],
+    "name:eng_x_variant":[
+        "Bayan Nur",
+        "Bayannaoer",
+        "Bayannao'er",
+        "Bayannaoer League"
     ],
     "name:fra_x_preferred":[
         "Bayannao'er"
@@ -77,7 +95,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"CN.NM.BY",
-        "meso:local_id":"73843803"
+        "meso:local_id":"73843803",
+        "wd:id":"Q571126"
     },
     "wof:concordances_official":"meso:local_id",
     "wof:concordances_official_alt":[
@@ -96,8 +115,8 @@
         }
     ],
     "wof:id":1108732415,
-    "wof:lastmodified":1695886491,
-    "wof:name":"Bayannao'er",
+    "wof:lastmodified":1795733125,
+    "wof:name":"Bayannur",
     "wof:parent_id":85669847,
     "wof:placetype":"county",
     "wof:placetype_local":"league",
