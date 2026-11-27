@@ -1,0 +1,77 @@
+{
+  "id": 9895092792,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.80715,22.7152,99.80715,22.7152",
+    "geom:latitude":22.7152,
+    "geom:longitude":99.80715,
+    "gn:population":35766,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12358511: name \"Zhutang\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12358511"
+        },
+        {
+            "citation":"GeoNames populated place 12358511: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12358511"
+        },
+        {
+            "citation":"GeoNames populated place 12358511: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12358511"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890514995 (Pu'er), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669791,
+        102191569,
+        136253041,
+        890514995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12358511
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"75edf82b2080eefe04fb974f3c487a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514995,
+            "empire_id":136253041,
+            "locality_id":9895092792,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":9895092792,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Zhutang",
+    "wof:parent_id":890514995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.80715,
+    22.7152,
+    99.80715,
+    22.7152
+],
+  "geometry": {"coordinates":[99.80715,22.7152],"type":"Point"}
+}

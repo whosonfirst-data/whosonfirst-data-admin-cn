@@ -1,0 +1,77 @@
+{
+  "id": 9895092847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.92224,36.98874,119.92224,36.98874",
+    "geom:latitude":36.98874,
+    "geom:longitude":119.92224,
+    "gn:population":60034,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12450879: name \"Dazeshan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12450879"
+        },
+        {
+            "citation":"GeoNames populated place 12450879: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12450879"
+        },
+        {
+            "citation":"GeoNames populated place 12450879: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12450879"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890514775 (Qingdao), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669813,
+        102191569,
+        136253041,
+        890514775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12450879
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d619660375eaf680fd769df3d69df38d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514775,
+            "empire_id":136253041,
+            "locality_id":9895092847,
+            "region_id":85669813
+        }
+    ],
+    "wof:id":9895092847,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Dazeshan",
+    "wof:parent_id":890514775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.92224,
+    36.98874,
+    119.92224,
+    36.98874
+],
+  "geometry": {"coordinates":[119.92224,36.98874],"type":"Point"}
+}

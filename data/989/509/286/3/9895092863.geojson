@@ -1,0 +1,77 @@
+{
+  "id": 9895092863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.90969,22.52383,113.90969,22.52383",
+    "geom:latitude":22.52383,
+    "geom:longitude":113.90969,
+    "gn:population":18400,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13308755: name \"Wushipai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13308755"
+        },
+        {
+            "citation":"GeoNames populated place 13308755: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13308755"
+        },
+        {
+            "citation":"GeoNames populated place 13308755: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13308755"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890514737 (Shenzhen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669743,
+        102191569,
+        136253041,
+        890514737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13308755
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"562a7004621f7b6b2dff8f5f36932fd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514737,
+            "empire_id":136253041,
+            "locality_id":9895092863,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":9895092863,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Wushipai",
+    "wof:parent_id":890514737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.90969,
+    22.52383,
+    113.90969,
+    22.52383
+],
+  "geometry": {"coordinates":[113.90969,22.52383],"type":"Point"}
+}

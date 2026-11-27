@@ -1,0 +1,77 @@
+{
+  "id": 9895092774,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.42454,36.77121,118.42454,36.77121",
+    "geom:latitude":36.77121,
+    "geom:longitude":118.42454,
+    "gn:population":105070,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12324302: name \"Yidu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12324302"
+        },
+        {
+            "citation":"GeoNames populated place 12324302: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12324302"
+        },
+        {
+            "citation":"GeoNames populated place 12324302: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12324302"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890514755 (Weifang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669813,
+        102191569,
+        136253041,
+        890514755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12324302
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7875d9bc535bce8d1b5b3067ae648a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514755,
+            "empire_id":136253041,
+            "locality_id":9895092774,
+            "region_id":85669813
+        }
+    ],
+    "wof:id":9895092774,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Yidu",
+    "wof:parent_id":890514755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.42454,
+    36.77121,
+    118.42454,
+    36.77121
+],
+  "geometry": {"coordinates":[118.42454,36.77121],"type":"Point"}
+}

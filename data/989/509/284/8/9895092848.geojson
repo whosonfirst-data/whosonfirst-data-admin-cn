@@ -1,0 +1,77 @@
+{
+  "id": 9895092848,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.85776,29.45609,106.85776,29.45609",
+    "geom:latitude":29.45609,
+    "geom:longitude":106.85776,
+    "gn:population":29134,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12450883: name \"Dongwenquan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12450883"
+        },
+        {
+            "citation":"GeoNames populated place 12450883: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12450883"
+        },
+        {
+            "citation":"GeoNames populated place 12450883: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12450883"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890513063 (Chongqing), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669725,
+        102191569,
+        136253041,
+        890513063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12450883
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"b142afb62c19b1bb67bc009ccba57e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513063,
+            "empire_id":136253041,
+            "locality_id":9895092848,
+            "region_id":85669725
+        }
+    ],
+    "wof:id":9895092848,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Dongwenquan",
+    "wof:parent_id":890513063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.85776,
+    29.45609,
+    106.85776,
+    29.45609
+],
+  "geometry": {"coordinates":[106.85776,29.45609],"type":"Point"}
+}

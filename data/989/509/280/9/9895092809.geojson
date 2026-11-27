@@ -1,0 +1,77 @@
+{
+  "id": 9895092809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.09702,35.11524,109.09702,35.11524",
+    "geom:latitude":35.11524,
+    "geom:longitude":109.09702,
+    "gn:population":217509,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12358616: name \"Yintai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12358616"
+        },
+        {
+            "citation":"GeoNames populated place 12358616: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12358616"
+        },
+        {
+            "citation":"GeoNames populated place 12358616: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12358616"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108732515 (Tongchuan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669769,
+        102191569,
+        136253041,
+        1108732515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12358616
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"41ef66b372dede3eebf1b2c1e8cdfa76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732515,
+            "empire_id":136253041,
+            "locality_id":9895092809,
+            "region_id":85669769
+        }
+    ],
+    "wof:id":9895092809,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Yintai",
+    "wof:parent_id":1108732515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.09702,
+    35.11524,
+    109.09702,
+    35.11524
+],
+  "geometry": {"coordinates":[109.09702,35.11524],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895092852,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.39018,29.99755,106.39018,29.99755",
+    "geom:latitude":29.99755,
+    "geom:longitude":106.39018,
+    "gn:population":44237,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12489669: name \"Caojie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12489669"
+        },
+        {
+            "citation":"GeoNames populated place 12489669: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12489669"
+        },
+        {
+            "citation":"GeoNames populated place 12489669: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12489669"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890513063 (Chongqing), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669725,
+        102191569,
+        136253041,
+        890513063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12489669
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"586959bbec8990f7d7b1e786e2d067e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513063,
+            "empire_id":136253041,
+            "locality_id":9895092852,
+            "region_id":85669725
+        }
+    ],
+    "wof:id":9895092852,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Caojie",
+    "wof:parent_id":890513063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.39018,
+    29.99755,
+    106.39018,
+    29.99755
+],
+  "geometry": {"coordinates":[106.39018,29.99755],"type":"Point"}
+}

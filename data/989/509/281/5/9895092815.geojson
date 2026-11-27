@@ -1,0 +1,77 @@
+{
+  "id": 9895092815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.13488,35.02337,106.13488,35.02337",
+    "geom:latitude":35.02337,
+    "geom:longitude":106.13488,
+    "gn:population":16592,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12359301: name \"Muhe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12359301"
+        },
+        {
+            "citation":"GeoNames populated place 12359301: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12359301"
+        },
+        {
+            "citation":"GeoNames populated place 12359301: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12359301"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890516551 (Tianshui), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669711,
+        102191569,
+        136253041,
+        890516551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12359301
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7c50284c9a4c9df52ffb7f3aa1b5d6d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516551,
+            "empire_id":136253041,
+            "locality_id":9895092815,
+            "region_id":85669711
+        }
+    ],
+    "wof:id":9895092815,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Muhe",
+    "wof:parent_id":890516551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.13488,
+    35.02337,
+    106.13488,
+    35.02337
+],
+  "geometry": {"coordinates":[106.13488,35.02337],"type":"Point"}
+}

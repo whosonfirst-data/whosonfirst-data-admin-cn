@@ -1,0 +1,77 @@
+{
+  "id": 9895092782,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.58502,38.16143,106.58502,38.16143",
+    "geom:latitude":38.16143,
+    "geom:longitude":106.58502,
+    "gn:population":48587,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12324552: name \"Ningdong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12324552"
+        },
+        {
+            "citation":"GeoNames populated place 12324552: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12324552"
+        },
+        {
+            "citation":"GeoNames populated place 12324552: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12324552"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108732517 (Yinchuan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669763,
+        102191569,
+        136253041,
+        1108732517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12324552
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"0318e9fdb3226039e9f239126a1f907a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732517,
+            "empire_id":136253041,
+            "locality_id":9895092782,
+            "region_id":85669763
+        }
+    ],
+    "wof:id":9895092782,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Ningdong",
+    "wof:parent_id":1108732517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.58502,
+    38.16143,
+    106.58502,
+    38.16143
+],
+  "geometry": {"coordinates":[106.58502,38.16143],"type":"Point"}
+}

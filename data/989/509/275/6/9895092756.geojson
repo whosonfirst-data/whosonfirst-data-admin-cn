@@ -1,0 +1,77 @@
+{
+  "id": 9895092756,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.12346,25.75429,100.12346,25.75429",
+    "geom:latitude":25.75429,
+    "geom:longitude":100.12346,
+    "gn:population":28002,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12277237: name \"Yinqiao Zhen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12277237"
+        },
+        {
+            "citation":"GeoNames populated place 12277237: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12277237"
+        },
+        {
+            "citation":"GeoNames populated place 12277237: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12277237"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108732403 (Dali), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669791,
+        102191569,
+        136253041,
+        1108732403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12277237
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"df7160ff2aac7c4cb260b196a4ae9af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732403,
+            "empire_id":136253041,
+            "locality_id":9895092756,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":9895092756,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Yinqiao Zhen",
+    "wof:parent_id":1108732403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.12346,
+    25.75429,
+    100.12346,
+    25.75429
+],
+  "geometry": {"coordinates":[100.12346,25.75429],"type":"Point"}
+}

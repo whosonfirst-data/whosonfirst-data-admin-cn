@@ -1,0 +1,77 @@
+{
+  "id": 9895092842,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.72101,37.35453,79.72101,37.35453",
+    "geom:latitude":37.35453,
+    "geom:longitude":79.72101,
+    "gn:population":26346,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12450865: name \"Kuoyiqi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12450865"
+        },
+        {
+            "citation":"GeoNames populated place 12450865: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12450865"
+        },
+        {
+            "citation":"GeoNames populated place 12450865: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12450865"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108732387 (Hetian), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669753,
+        102191569,
+        136253041,
+        1108732387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12450865
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"7da64cc36b17b4795f915393fe9c9acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732387,
+            "empire_id":136253041,
+            "locality_id":9895092842,
+            "region_id":85669753
+        }
+    ],
+    "wof:id":9895092842,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Kuoyiqi",
+    "wof:parent_id":1108732387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.72101,
+    37.35453,
+    79.72101,
+    37.35453
+],
+  "geometry": {"coordinates":[79.72101,37.35453],"type":"Point"}
+}

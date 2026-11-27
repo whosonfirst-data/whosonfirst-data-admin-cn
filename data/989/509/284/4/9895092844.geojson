@@ -1,0 +1,77 @@
+{
+  "id": 9895092844,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.70532,37.31739,79.70532,37.31739",
+    "geom:latitude":37.31739,
+    "geom:longitude":79.70532,
+    "gn:population":35142,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12450867: name \"Puqiakeqi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12450867"
+        },
+        {
+            "citation":"GeoNames populated place 12450867: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12450867"
+        },
+        {
+            "citation":"GeoNames populated place 12450867: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12450867"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108732387 (Hetian), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669753,
+        102191569,
+        136253041,
+        1108732387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12450867
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bf1c57777cdccff66a02dbbd8cad7614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732387,
+            "empire_id":136253041,
+            "locality_id":9895092844,
+            "region_id":85669753
+        }
+    ],
+    "wof:id":9895092844,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Puqiakeqi",
+    "wof:parent_id":1108732387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.70532,
+    37.31739,
+    79.70532,
+    37.31739
+],
+  "geometry": {"coordinates":[79.70532,37.31739],"type":"Point"}
+}

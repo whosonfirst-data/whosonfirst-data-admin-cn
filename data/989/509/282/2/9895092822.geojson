@@ -1,0 +1,77 @@
+{
+  "id": 9895092822,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.50474,38.85739,77.50474,38.85739",
+    "geom:latitude":38.85739,
+    "geom:longitude":77.50474,
+    "gn:population":17579,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12420927: name \"Dunbage\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12420927"
+        },
+        {
+            "citation":"GeoNames populated place 12420927: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12420927"
+        },
+        {
+            "citation":"GeoNames populated place 12420927: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12420927"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108732391 (Kashi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669753,
+        102191569,
+        136253041,
+        1108732391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12420927
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"fef1f9dd0fc7158cd510ec2c9f7bd58a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732391,
+            "empire_id":136253041,
+            "locality_id":9895092822,
+            "region_id":85669753
+        }
+    ],
+    "wof:id":9895092822,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Dunbage",
+    "wof:parent_id":1108732391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.50474,
+    38.85739,
+    77.50474,
+    38.85739
+],
+  "geometry": {"coordinates":[77.50474,38.85739],"type":"Point"}
+}

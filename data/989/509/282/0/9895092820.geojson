@@ -1,0 +1,77 @@
+{
+  "id": 9895092820,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.54022,38.48908,77.54022,38.48908",
+    "geom:latitude":38.48908,
+    "geom:longitude":77.54022,
+    "gn:population":16951,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12420919: name \"Bage'awati\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12420919"
+        },
+        {
+            "citation":"GeoNames populated place 12420919: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12420919"
+        },
+        {
+            "citation":"GeoNames populated place 12420919: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12420919"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108732391 (Kashi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669753,
+        102191569,
+        136253041,
+        1108732391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12420919
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"bcb177f749e85a8a076fce22ac5fcf74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732391,
+            "empire_id":136253041,
+            "locality_id":9895092820,
+            "region_id":85669753
+        }
+    ],
+    "wof:id":9895092820,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Bage'awati",
+    "wof:parent_id":1108732391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.54022,
+    38.48908,
+    77.54022,
+    38.48908
+],
+  "geometry": {"coordinates":[77.54022,38.48908],"type":"Point"}
+}
