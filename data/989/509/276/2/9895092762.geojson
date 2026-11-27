@@ -1,0 +1,77 @@
+{
+  "id": 9895092762,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.62453,34.53847,116.62453,34.53847",
+    "geom:latitude":34.53847,
+    "geom:longitude":116.62453,
+    "gn:population":51916,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12279163: name \"Dashahe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12279163"
+        },
+        {
+            "citation":"GeoNames populated place 12279163: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12279163"
+        },
+        {
+            "citation":"GeoNames populated place 12279163: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12279163"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890516333 (Xuzhou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669827,
+        102191569,
+        136253041,
+        890516333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12279163
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a5ce9ebc93fa32909ad395b5b9a11bd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516333,
+            "empire_id":136253041,
+            "locality_id":9895092762,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":9895092762,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Dashahe",
+    "wof:parent_id":890516333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.62453,
+    34.53847,
+    116.62453,
+    34.53847
+],
+  "geometry": {"coordinates":[116.62453,34.53847],"type":"Point"}
+}

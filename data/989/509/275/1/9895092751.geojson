@@ -1,0 +1,77 @@
+{
+  "id": 9895092751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.52298,36.88527,81.52298,36.88527",
+    "geom:latitude":36.88527,
+    "geom:longitude":81.52298,
+    "gn:population":21862,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11916190: name \"Siyeke\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11916190"
+        },
+        {
+            "citation":"GeoNames populated place 11916190: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11916190"
+        },
+        {
+            "citation":"GeoNames populated place 11916190: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11916190"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108732387 (Hetian), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669753,
+        102191569,
+        136253041,
+        1108732387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11916190
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"f6a88f1d5a034a5d80196d308264a4d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732387,
+            "empire_id":136253041,
+            "locality_id":9895092751,
+            "region_id":85669753
+        }
+    ],
+    "wof:id":9895092751,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Siyeke",
+    "wof:parent_id":1108732387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.52298,
+    36.88527,
+    81.52298,
+    36.88527
+],
+  "geometry": {"coordinates":[81.52298,36.88527],"type":"Point"}
+}

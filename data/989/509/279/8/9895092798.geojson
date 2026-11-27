@@ -1,0 +1,77 @@
+{
+  "id": 9895092798,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.48296,24.75252,98.48296,24.75252",
+    "geom:latitude":24.75252,
+    "geom:longitude":98.48296,
+    "gn:population":16336,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12358565: name \"Xinhua\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12358565"
+        },
+        {
+            "citation":"GeoNames populated place 12358565: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12358565"
+        },
+        {
+            "citation":"GeoNames populated place 12358565: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12358565"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890514251 (Baoshan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669791,
+        102191569,
+        136253041,
+        890514251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12358565
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"cbc76708d73fc00a0a4680f23c44f392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514251,
+            "empire_id":136253041,
+            "locality_id":9895092798,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":9895092798,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Xinhua",
+    "wof:parent_id":890514251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.48296,
+    24.75252,
+    98.48296,
+    24.75252
+],
+  "geometry": {"coordinates":[98.48296,24.75252],"type":"Point"}
+}

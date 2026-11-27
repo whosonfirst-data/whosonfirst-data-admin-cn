@@ -1,0 +1,77 @@
+{
+  "id": 9895092869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.83362,44.6984,84.83362,44.6984",
+    "geom:latitude":44.6984,
+    "geom:longitude":84.83362,
+    "gn:population":29891,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13561750: name \"Huyanghe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13561750"
+        },
+        {
+            "citation":"GeoNames populated place 13561750: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13561750"
+        },
+        {
+            "citation":"GeoNames populated place 13561750: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13561750"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890515397 (Kelamayi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669753,
+        102191569,
+        136253041,
+        890515397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13561750
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"859489c6497de503501fa86ce849d7c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515397,
+            "empire_id":136253041,
+            "locality_id":9895092869,
+            "region_id":85669753
+        }
+    ],
+    "wof:id":9895092869,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Huyanghe",
+    "wof:parent_id":890515397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.83362,
+    44.6984,
+    84.83362,
+    44.6984
+],
+  "geometry": {"coordinates":[84.83362,44.6984],"type":"Point"}
+}

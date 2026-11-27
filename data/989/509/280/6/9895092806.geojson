@@ -1,0 +1,77 @@
+{
+  "id": 9895092806,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.36325,26.57927,101.36325,26.57927",
+    "geom:latitude":26.57927,
+    "geom:longitude":101.36325,
+    "gn:population":20074,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12358574: name \"Shilongba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12358574"
+        },
+        {
+            "citation":"GeoNames populated place 12358574: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12358574"
+        },
+        {
+            "citation":"GeoNames populated place 12358574: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12358574"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890514701 (Lijiang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669791,
+        102191569,
+        136253041,
+        890514701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12358574
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5caa1921d083102121298a9e72a30eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514701,
+            "empire_id":136253041,
+            "locality_id":9895092806,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":9895092806,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Shilongba",
+    "wof:parent_id":890514701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.36325,
+    26.57927,
+    101.36325,
+    26.57927
+],
+  "geometry": {"coordinates":[101.36325,26.57927],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895092829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.20145,38.48889,77.20145,38.48889",
+    "geom:latitude":38.48889,
+    "geom:longitude":77.20145,
+    "gn:population":29930,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12440486: name \"Yishikuli\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12440486"
+        },
+        {
+            "citation":"GeoNames populated place 12440486: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12440486"
+        },
+        {
+            "citation":"GeoNames populated place 12440486: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12440486"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108732391 (Kashi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669753,
+        102191569,
+        136253041,
+        1108732391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12440486
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a95ac759f8f4814b004c10eb8f7bd2d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732391,
+            "empire_id":136253041,
+            "locality_id":9895092829,
+            "region_id":85669753
+        }
+    ],
+    "wof:id":9895092829,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Yishikuli",
+    "wof:parent_id":1108732391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.20145,
+    38.48889,
+    77.20145,
+    38.48889
+],
+  "geometry": {"coordinates":[77.20145,38.48889],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895092787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.8001,22.44052,99.8001,22.44052",
+    "geom:latitude":22.44052,
+    "geom:longitude":99.8001,
+    "gn:population":15380,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12358502: name \"Donghui\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12358502"
+        },
+        {
+            "citation":"GeoNames populated place 12358502: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12358502"
+        },
+        {
+            "citation":"GeoNames populated place 12358502: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12358502"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890514995 (Pu'er), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669791,
+        102191569,
+        136253041,
+        890514995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12358502
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8d970e9f899686ec88892edbd152e07a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514995,
+            "empire_id":136253041,
+            "locality_id":9895092787,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":9895092787,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Donghui",
+    "wof:parent_id":890514995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.8001,
+    22.44052,
+    99.8001,
+    22.44052
+],
+  "geometry": {"coordinates":[99.8001,22.44052],"type":"Point"}
+}

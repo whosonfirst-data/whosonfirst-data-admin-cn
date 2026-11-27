@@ -1,0 +1,77 @@
+{
+  "id": 9895092826,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.23151,38.36309,77.23151,38.36309",
+    "geom:latitude":38.36309,
+    "geom:longitude":77.23151,
+    "gn:population":29579,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12420983: name \"Tuomuwusitang\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12420983"
+        },
+        {
+            "citation":"GeoNames populated place 12420983: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12420983"
+        },
+        {
+            "citation":"GeoNames populated place 12420983: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12420983"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108732391 (Kashi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669753,
+        102191569,
+        136253041,
+        1108732391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12420983
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"5f445c67377b01c4ba94bc3ad049764a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732391,
+            "empire_id":136253041,
+            "locality_id":9895092826,
+            "region_id":85669753
+        }
+    ],
+    "wof:id":9895092826,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Tuomuwusitang",
+    "wof:parent_id":1108732391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.23151,
+    38.36309,
+    77.23151,
+    38.36309
+],
+  "geometry": {"coordinates":[77.23151,38.36309],"type":"Point"}
+}

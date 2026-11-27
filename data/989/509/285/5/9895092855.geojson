@@ -1,0 +1,77 @@
+{
+  "id": 9895092855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.68934,24.58663,98.68934,24.58663",
+    "geom:latitude":24.58663,
+    "geom:longitude":98.68934,
+    "gn:population":270000,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492660: name \"Longling County\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492660"
+        },
+        {
+            "citation":"GeoNames populated place 12492660: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492660"
+        },
+        {
+            "citation":"GeoNames populated place 12492660: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492660"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890514251 (Baoshan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669791,
+        102191569,
+        136253041,
+        890514251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492660
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a43c9414edbdc9e1e8c27a8eec48163a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514251,
+            "empire_id":136253041,
+            "locality_id":9895092855,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":9895092855,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Longling County",
+    "wof:parent_id":890514251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.68934,
+    24.58663,
+    98.68934,
+    24.58663
+],
+  "geometry": {"coordinates":[98.68934,24.58663],"type":"Point"}
+}

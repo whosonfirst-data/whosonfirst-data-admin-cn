@@ -1,0 +1,77 @@
+{
+  "id": 9895092763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.92249,34.49621,116.92249,34.49621",
+    "geom:latitude":34.49621,
+    "geom:longitude":116.92249,
+    "gn:population":57825,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12324233: name \"Jing'an\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12324233"
+        },
+        {
+            "citation":"GeoNames populated place 12324233: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12324233"
+        },
+        {
+            "citation":"GeoNames populated place 12324233: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12324233"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890516333 (Xuzhou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669827,
+        102191569,
+        136253041,
+        890516333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12324233
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8f23d750da7ad270b1a0ecc7c615ad83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516333,
+            "empire_id":136253041,
+            "locality_id":9895092763,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":9895092763,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Jing'an",
+    "wof:parent_id":890516333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.92249,
+    34.49621,
+    116.92249,
+    34.49621
+],
+  "geometry": {"coordinates":[116.92249,34.49621],"type":"Point"}
+}

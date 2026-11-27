@@ -1,0 +1,77 @@
+{
+  "id": 9895092767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.04903,36.27136,119.04903,36.27136",
+    "geom:latitude":36.27136,
+    "geom:longitude":119.04903,
+    "gn:population":59323,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12324248: name \"Huiqu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12324248"
+        },
+        {
+            "citation":"GeoNames populated place 12324248: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12324248"
+        },
+        {
+            "citation":"GeoNames populated place 12324248: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12324248"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890514755 (Weifang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669813,
+        102191569,
+        136253041,
+        890514755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12324248
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"faec8961da756c3d2ca0ec3143e48a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514755,
+            "empire_id":136253041,
+            "locality_id":9895092767,
+            "region_id":85669813
+        }
+    ],
+    "wof:id":9895092767,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Huiqu",
+    "wof:parent_id":890514755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.04903,
+    36.27136,
+    119.04903,
+    36.27136
+],
+  "geometry": {"coordinates":[119.04903,36.27136],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895092811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.33651,34.20488,105.33651,34.20488",
+    "geom:latitude":34.20488,
+    "geom:longitude":105.33651,
+    "gn:population":23940,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12358707: name \"Changdao\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12358707"
+        },
+        {
+            "citation":"GeoNames populated place 12358707: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12358707"
+        },
+        {
+            "citation":"GeoNames populated place 12358707: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12358707"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890516335 (Longnan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669711,
+        102191569,
+        136253041,
+        890516335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12358707
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"d1bdcef954e59e1fe37a5d8cebb2eac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516335,
+            "empire_id":136253041,
+            "locality_id":9895092811,
+            "region_id":85669711
+        }
+    ],
+    "wof:id":9895092811,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Changdao",
+    "wof:parent_id":890516335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.33651,
+    34.20488,
+    105.33651,
+    34.20488
+],
+  "geometry": {"coordinates":[105.33651,34.20488],"type":"Point"}
+}

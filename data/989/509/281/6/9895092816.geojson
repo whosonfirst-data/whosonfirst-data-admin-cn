@@ -1,0 +1,77 @@
+{
+  "id": 9895092816,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7393,37.35222,101.7393,37.35222",
+    "geom:latitude":37.35222,
+    "geom:longitude":101.7393,
+    "gn:population":18308,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12382532: name \"Quankou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12382532"
+        },
+        {
+            "citation":"GeoNames populated place 12382532: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12382532"
+        },
+        {
+            "citation":"GeoNames populated place 12382532: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12382532"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890515873 (Haibei), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669715,
+        102191569,
+        136253041,
+        890515873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12382532
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"c8d61429f25d3dade5a21bd5b5965322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515873,
+            "empire_id":136253041,
+            "locality_id":9895092816,
+            "region_id":85669715
+        }
+    ],
+    "wof:id":9895092816,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Quankou",
+    "wof:parent_id":890515873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7393,
+    37.35222,
+    101.7393,
+    37.35222
+],
+  "geometry": {"coordinates":[101.7393,37.35222],"type":"Point"}
+}

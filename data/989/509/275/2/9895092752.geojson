@@ -1,0 +1,77 @@
+{
+  "id": 9895092752,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.47502,21.70656,109.47502,21.70656",
+    "geom:latitude":21.70656,
+    "geom:longitude":109.47502,
+    "gn:population":31173,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12252444: name \"Zhakou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12252444"
+        },
+        {
+            "citation":"GeoNames populated place 12252444: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12252444"
+        },
+        {
+            "citation":"GeoNames populated place 12252444: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12252444"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890516487 (Beihai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669717,
+        102191569,
+        136253041,
+        890516487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12252444
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"3fcc33d804a5e2c772627d1b9f6851d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516487,
+            "empire_id":136253041,
+            "locality_id":9895092752,
+            "region_id":85669717
+        }
+    ],
+    "wof:id":9895092752,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Zhakou",
+    "wof:parent_id":890516487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.47502,
+    21.70656,
+    109.47502,
+    21.70656
+],
+  "geometry": {"coordinates":[109.47502,21.70656],"type":"Point"}
+}

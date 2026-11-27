@@ -1,0 +1,77 @@
+{
+  "id": 9895092856,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.22057,31.33786,104.22057,31.33786",
+    "geom:latitude":31.33786,
+    "geom:longitude":104.22057,
+    "gn:population":510000,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492662: name \"Mianzhu, Deyang, Sichuan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492662"
+        },
+        {
+            "citation":"GeoNames populated place 12492662: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492662"
+        },
+        {
+            "citation":"GeoNames populated place 12492662: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492662"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890515169 (Deyang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669787,
+        102191569,
+        136253041,
+        890515169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492662
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"66080a44d780855819591e48b92b6501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515169,
+            "empire_id":136253041,
+            "locality_id":9895092856,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":9895092856,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Mianzhu, Deyang, Sichuan",
+    "wof:parent_id":890515169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.22057,
+    31.33786,
+    104.22057,
+    31.33786
+],
+  "geometry": {"coordinates":[104.22057,31.33786],"type":"Point"}
+}

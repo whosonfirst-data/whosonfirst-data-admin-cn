@@ -1,0 +1,77 @@
+{
+  "id": 9895092769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.95135,36.14877,118.95135,36.14877",
+    "geom:latitude":36.14877,
+    "geom:longitude":118.95135,
+    "gn:population":28333,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12324260: name \"Zheshan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12324260"
+        },
+        {
+            "citation":"GeoNames populated place 12324260: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12324260"
+        },
+        {
+            "citation":"GeoNames populated place 12324260: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12324260"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890514755 (Weifang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669813,
+        102191569,
+        136253041,
+        890514755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12324260
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"4f48e62a398d4ccc8b796b2a410879b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514755,
+            "empire_id":136253041,
+            "locality_id":9895092769,
+            "region_id":85669813
+        }
+    ],
+    "wof:id":9895092769,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Zheshan",
+    "wof:parent_id":890514755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.95135,
+    36.14877,
+    118.95135,
+    36.14877
+],
+  "geometry": {"coordinates":[118.95135,36.14877],"type":"Point"}
+}

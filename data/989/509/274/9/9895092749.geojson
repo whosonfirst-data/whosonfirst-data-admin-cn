@@ -1,0 +1,77 @@
+{
+  "id": 9895092749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.69579,37.86642,76.69579,37.86642",
+    "geom:latitude":37.86642,
+    "geom:longitude":76.69579,
+    "gn:population":17351,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11890268: name \"Huoshilafu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11890268"
+        },
+        {
+            "citation":"GeoNames populated place 11890268: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11890268"
+        },
+        {
+            "citation":"GeoNames populated place 11890268: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11890268"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108732391 (Kashi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669753,
+        102191569,
+        136253041,
+        1108732391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11890268
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"df700754967d8fd09a2c3ea4a9489e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732391,
+            "empire_id":136253041,
+            "locality_id":9895092749,
+            "region_id":85669753
+        }
+    ],
+    "wof:id":9895092749,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Huoshilafu",
+    "wof:parent_id":1108732391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.69579,
+    37.86642,
+    76.69579,
+    37.86642
+],
+  "geometry": {"coordinates":[76.69579,37.86642],"type":"Point"}
+}

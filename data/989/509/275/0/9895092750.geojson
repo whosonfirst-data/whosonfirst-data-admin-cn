@@ -1,0 +1,77 @@
+{
+  "id": 9895092750,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.88279,43.01478,92.88279,43.01478",
+    "geom:latitude":43.01478,
+    "geom:longitude":92.88279,
+    "gn:population":30513,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11895138: name \"Sandaoling Lutiankuang Wuqi Nongchang\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11895138"
+        },
+        {
+            "citation":"GeoNames populated place 11895138: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11895138"
+        },
+        {
+            "citation":"GeoNames populated place 11895138: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11895138"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108732389 (Hami), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669753,
+        102191569,
+        136253041,
+        1108732389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11895138
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"8c1b7a16ead19f3ebecc978f49ca9fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732389,
+            "empire_id":136253041,
+            "locality_id":9895092750,
+            "region_id":85669753
+        }
+    ],
+    "wof:id":9895092750,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Sandaoling Lutiankuang Wuqi Nongchang",
+    "wof:parent_id":1108732389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.88279,
+    43.01478,
+    92.88279,
+    43.01478
+],
+  "geometry": {"coordinates":[92.88279,43.01478],"type":"Point"}
+}

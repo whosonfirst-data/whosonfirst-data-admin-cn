@@ -1,0 +1,77 @@
+{
+  "id": 9895092754,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.15894,25.68863,100.15894,25.68863",
+    "geom:latitude":25.68863,
+    "geom:longitude":100.15894,
+    "gn:population":82566,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12277235: name \"Dali Old Town\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12277235"
+        },
+        {
+            "citation":"GeoNames populated place 12277235: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12277235"
+        },
+        {
+            "citation":"GeoNames populated place 12277235: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12277235"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108732403 (Dali), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669791,
+        102191569,
+        136253041,
+        1108732403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12277235
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"a67000166f5b9621365e8e2dcaa1f8ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732403,
+            "empire_id":136253041,
+            "locality_id":9895092754,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":9895092754,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Dali Old Town",
+    "wof:parent_id":1108732403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.15894,
+    25.68863,
+    100.15894,
+    25.68863
+],
+  "geometry": {"coordinates":[100.15894,25.68863],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 9895092759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.07522,34.28436,117.07522,34.28436",
+    "geom:latitude":34.28436,
+    "geom:longitude":117.07522,
+    "gn:population":52219,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12277245: name \"Dapeng\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12277245"
+        },
+        {
+            "citation":"GeoNames populated place 12277245: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12277245"
+        },
+        {
+            "citation":"GeoNames populated place 12277245: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12277245"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890516333 (Xuzhou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669827,
+        102191569,
+        136253041,
+        890516333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12277245
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"e72807f4bd2fa5e751630f3119a24870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516333,
+            "empire_id":136253041,
+            "locality_id":9895092759,
+            "region_id":85669827
+        }
+    ],
+    "wof:id":9895092759,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Dapeng",
+    "wof:parent_id":890516333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.07522,
+    34.28436,
+    117.07522,
+    34.28436
+],
+  "geometry": {"coordinates":[117.07522,34.28436],"type":"Point"}
+}

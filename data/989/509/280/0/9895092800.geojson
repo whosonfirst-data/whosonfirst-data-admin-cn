@@ -1,0 +1,77 @@
+{
+  "id": 9895092800,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.21244,25.42543,100.21244,25.42543",
+    "geom:latitude":25.42543,
+    "geom:longitude":100.21244,
+    "gn:population":53970,
+    "iso:country":"CN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12358567: name \"Yongjian\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12358567"
+        },
+        {
+            "citation":"GeoNames populated place 12358567: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12358567"
+        },
+        {
+            "citation":"GeoNames populated place 12358567: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12358567"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108732403 (Dali), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632695,
+        85669791,
+        102191569,
+        136253041,
+        1108732403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12358567
+    },
+    "wof:country":"CN",
+    "wof:geomhash":"eee117df94e37f070af58821c113999e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732403,
+            "empire_id":136253041,
+            "locality_id":9895092800,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":9895092800,
+    "wof:lastmodified":1795747149,
+    "wof:name":"Yongjian",
+    "wof:parent_id":1108732403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.21244,
+    25.42543,
+    100.21244,
+    25.42543
+],
+  "geometry": {"coordinates":[100.21244,25.42543],"type":"Point"}
+}
